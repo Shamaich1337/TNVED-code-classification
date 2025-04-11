@@ -1,0 +1,64 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2JW1102-C943B_CU100549 production of 2J from the text: \n \n2JW1 102-C943B    \n \n  Product Datasheet\nKey Features\n2.4/5.0/6.0 GHz ISM\n- 2410-2490 MHz\n- 4920-7125 MHz\nConnector Mount\nWifi 6E Antenna\nHigh Gain\nHigh Throughputs\nLow Latency\nGround Plane Independent\nHinged Connector\nDimensions 135 × 19 × 10 mm\nwww .2j-antennae.com www .2j-antennasusa.com Page: 1/82.4/5.0/6.0 GHZ ISM Connector Mount\n\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 2/81. Antenna and electrical specifications   \nAntenna Measurement Conditions:\nFree Space\nMeasured in Certified CTIA  3D Anechoic Chamber\n2. Mechanical and environmental specifications    \nSpecifications\nMounting T ype\nDimensions (mm)\nRadome \nRadome color\nConnector Feature\nOperating T emperature (C)\nStorage T emperature (C)\nSubstance Compliance2JW1 102-C943B\nConnector Mount\n135 ×19 ×10\nABS UV Stable\nBlack\nHinged\n-40 to +85\n-40 to +85\nRoHSParameters\nStandards\nBand (MHz)\nFrequency (MHz)\nReturn Loss (dB)\nVSWR\nEfficiency (%)\nPeak Gain (dBi)\nAverage Gain (dB)\nImpendance (Ohm)\nPolarisation\nRadiation Pattern\nMax. Input Power (W)\nConnector T ype2.4 G Hz\n2410-2490\n~-17.1\n~1.4:1\n~75.8\n~4.1\n~-1.22.4/5.0 /6.0 GHz ISM Antenna\nWiFi 6E, BT, ZigBee, ISM, SigFox, LoRa\n5.0 G Hz\n4920-5925\n~-12.3\n~1.7:1\n~84.5\n~3.9\n~-0.7\n50\nLinear\nOmni-Directional\n25\nRP-SMA-Male Standard (Other Connectors Available)6.0 GHz\n5925-7125\n~-9.9\n~2.0:1\n~73.0\n~2.8\n~-1.4\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 3/83. Antenna parameters    \n-20-15-10-50\n230025502800305033003550380040504300455048005050530055505800605063006550680070507300Return Loss (dB)\nFrequency  (MHz)\n01234567\n230025502800305033003550380040504300455048005050530055505800605063006550680070507300VSWR\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 4/80102030405060708090100\n230025502800305033003550380040504300455048005050530055505800605063006550680070507300Efficiency (%)\nFrequency  (MHz)\n012345\n230025502800305033003550380040504300455048005050530055505800605063006550680070507300Peak Gain (dBi)\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 5/8Radiation pattern referen ce-4-3-2-10\n230025502800305033003550380040504300455048005050530055505800605063006550680070507300Average Gain (d B)\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 6/82450 and 5500 MHz Rad iation pattern\n6500 MHz Rad iation pattern\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 7/84. Antenna drawings    \n 10  23,5  110 \n 42 \n 112 \n 88 \n 10 Right Angle position\n45°Angle position 19 \n 135 \n 10 Straight position\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 8/85. Antenna Images    \n\n'}]
+!==============================================================================!
+### Component Summary for 2JW1102-C943B
+
+**Component Type:** Antenna  
+**Primary Function:** The 2JW1102-C943B is a high-gain, connector-mounted antenna designed for wireless communication applications, specifically operating in the 2.4 GHz, 5.0 GHz, and 6.0 GHz ISM bands. It is optimized for WiFi 6E, Bluetooth, ZigBee, SigFox, and LoRa technologies.
+
+#### Key Specifications:
+- **Voltage Ratings:** Not applicable (passive component)
+- **Current Ratings:** Not applicable (passive component)
+- **Power Consumption:** Not applicable (passive component)
+- **Operating Temperature Range:** -40°C to +85°C
+- **Storage Temperature Range:** -40°C to +85°C
+- **Package Type:** Connector Mount
+- **Dimensions:** 135 mm x 19 mm x 10 mm
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided data
+
+#### Special Features:
+- **High Gain:** Provides enhanced signal strength and coverage.
+- **High Throughputs:** Suitable for high-speed data transmission.
+- **Low Latency:** Ideal for applications requiring quick response times.
+- **Ground Plane Independent:** Can be used in various mounting scenarios without the need for a ground plane.
+- **Hinged Connector:** Allows for flexible installation and positioning.
+
+#### Antenna Performance Parameters:
+- **Frequency Bands:**
+  - 2.4 GHz: 2410-2490 MHz
+  - 5.0 GHz: 4920-5925 MHz
+  - 6.0 GHz: 5925-7125 MHz
+- **Return Loss:** 
+  - 2.4 GHz: ~-17.1 dB
+  - 5.0 GHz: ~-12.3 dB
+  - 6.0 GHz: ~-9.9 dB
+- **VSWR (Voltage Standing Wave Ratio):**
+  - 2.4 GHz: ~1.4:1
+  - 5.0 GHz: ~1.7:1
+  - 6.0 GHz: ~2.0:1
+- **Efficiency:**
+  - 2.4 GHz: ~75.8%
+  - 5.0 GHz: ~84.5%
+  - 6.0 GHz: ~73.0%
+- **Peak Gain:**
+  - 2.4 GHz: ~4.1 dBi
+  - 5.0 GHz: ~3.9 dBi
+  - 6.0 GHz: ~2.8 dBi
+- **Average Gain:**
+  - 2.4 GHz: ~-1.2 dB
+  - 5.0 GHz: ~-0.7 dB
+  - 6.0 GHz: ~-1.4 dB
+- **Impedance:** 50 Ohm
+- **Polarization:** Linear
+- **Radiation Pattern:** Omni-Directional
+- **Max Input Power:** 25 W
+- **Connector Type:** RP-SMA-Male (other connectors available)
+
+### Typical Applications:
+The 2JW1102-C943B antenna is suitable for a variety of wireless communication applications, including:
+- **WiFi Networks:** Enhancing connectivity and coverage in WiFi 6E networks.
+- **Bluetooth Devices:** Improving signal strength and range for Bluetooth-enabled devices.
+- **IoT Applications:** Supporting communication for devices using ZigBee, SigFox, and LoRa technologies.
+- **Industrial Automation:** Facilitating reliable wireless communication in industrial settings.
+- **Smart Home Devices:** Enabling connectivity for smart home applications.
+
+This antenna is designed to meet the demands of modern wireless communication, providing robust performance across multiple frequency bands while maintaining flexibility in installation.

@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CG0201MLC-05H production of BOURNS from the text:Features\nn\t ESD\tprotection\tto\tIEC\t61000-4-2\tLevel\t4\nn\t <1\tns\tresponse\ttime\tto\tESD\tstrike; \t\t\n\t more\tthan\tone\tESD-strike\tcapability\nn\t Low\tleakage\tcurrent\nn\t Extremely\tlow\tcapacitance\t(0.2\tpF\ttyp.)\nn\t Bidirectional\tdevice\nn\t RoHS*\tcompliantApplications\nn\t USB\t2.0\t/\t3.0\nn\t IEEE\t1394\nn\t HDMI\t1.4\t/\t2.0\nn\t GPS\nn\t\tAntennas\nn\t\tHigh-speed\tcommunications\tbuses\nn\t\tWearables\n\t\t\tCG0201MLC-05H\t-\tChipGuard®\t\t\tESD\tProtector\n*RoHS\tDirective\t2015/863,\tMar\t31,\t2015\tand\tAnnex.\t\nSpecifications\tare\tsubject\tto\tchange\twithout\tnotice.\nThe\tdevice\tcharacteristics\tand\tparameters\tin\tthis\tdata\tsheet\tcan\tand\tdo\tvary\tin\tdifferent\tapplications\tand\tactual\tdevice\tperformance\tmay\tvary\tover\ttime.\nUsers\tshould\tverify\tactual\tdevice\tperformance\tin\ttheir\tspecific\tapplications.General Information\nElectrical Characteristics @ 25 °C (unless otherwise noted)\n Parameter Symbol CG0201MLC-05H Unit\n Maximum DC Working Voltage VDC 5 V\n Typical Leakage Current @ Max. VDC  IL                     0.01   µA\n Typical Trigger Voltage (Note 1) VT                     250   V\n Typical Clamping Voltage (Note 1)  VC                     30   V\n Typical Capacitance @ 1 MHz, 1 Vrms CO                     0.2   pF\n ResponseTime RT                    < 1   ns\n ESD Protection: Per IEC 61000-4-2 Level 4  \n    Min. Contact Discharge                        ±8   kV \n    Min. Air Discharge                       ±15   kV \n     Min. ESD Withstand                       500   Pulses\n Operating Temperature TOPR\t \t \t\t\t\t\t\t\t\t\t\t\t\t\t\t-55\tto\t+125\t \t \t ˚C\n Storage Temperature TSTG\t \t \t\t\t\t\t\t\t\t\t\t\t\t\t\t-55\tto\t+125\t \t \t ˚CThe Bourns® ChipGuard®\tModel\tCG0201MLC-05H\thas\tbeen\tspecifically\tdesigned\tto\tprotect\tsensitive\telectronics\tfrom\telectrostatic\tdischarge\t\ndamage.\t\t The\tModel\tCG0201MLC-05H\thas\tbeen\tmanufactured\tto\tprovide\tlow\t0.2\tpF\tcapacitance\tand\t10\tnA \ttypical\tleakage\tcurrents\twith\t\nexcellent\tclamp\tqualities,\tmaking\tthe\tmodel\talmost\ttransparent\tunder\tnormal\tworking\tconditions.\t\nThe\tMLC\tfamily\thas\tbeen\tdesigned\tto\tprotect\tequipment\tto\tIEC\t61000-4-2,\tLevel\t4\t(±8\tkV\tContact\t/\t±15\tkV\t Air\tDischarge)\tESD\tspecifications\t\ntargeted\tfor\thigh\tspeed\tUSB\t3.0/USB\tOTG,\tHDMI\t1.4/2.0,\tDVI\tor\tIEEE\t1394\tapplications.\nAsia-Pacific: Tel: +886-2 2562-4117 • Email: asiacus@bourns.com\nEMEA: Tel: +36 88 520 390 • Email: eurocus@bourns.com\nThe Americas: Tel: +1-951 781-5500 • Email: americus@bourns.comwww.bourns.com*RoHS\tCOMPLIANT\n*RoHS\tCOMPLIANT&\tAEC\tAPPROVED\n*RoHS\tCOMPLIANT,\t**HALOGEN\tFREE&\tAEC\tCOMPLIANT\n*RoHS\tand\t\n**AEC-Q200\tCOMPLIANTLEAD\tFREE*RoHS\tCOMPLIANTVERSIONS\nAVAILABLE\nLEAD\tFREE\t\nVERSIONS\tARE\t\nRoHS\tCOMPLIANT*\nNote 1: V T and V C measured using TLP (Transmission Line Pulse) method.\nHow to Order\n   \nCG  0201  MLC - nn  H\n \nChipGuard® \nProduct Designator\nPackage  \n    0201 = 0201 PackageTechnology  \n MLC = Thin Film Polymer\nMax. DC Working Voltage  \n 05 =  5 V\nTape & Reel Packaging  \n H = 15,000 pcs. per 7-inch reel\nEnvironmental Characteristics\nMoisture Sensitivity Level  .................... 1\nESD\tClassification\t(HBM) .................. 3B\nSpecifications\tare\tsubject\tto\tchange\twithout\tnotice.\nThe\tdevice\tcharacteristics\tand\tparameters\tin\tthis\tdata\tsheet\tcan\tand\tdo\tvary\tin\tdifferent\tapplications\tand\tactual\tdevice\tperformance\tmay\tvary\tover\ttime.\nUsers\tshould\tverify\tactual\tdevice\tperformance\tin\ttheir\tspecific\tapplications.\tCG0201MLC-05H\t-\tChipGuard®\t\t\tESD\tProtector\nProduct Dimensions\nDIMENSIONS:\t MM\n\t (INCHES)Recommended Pad Layout\n  CG0201MLC-05H   Dimension\n L 0.63 ± 0.05 \n  (0.025 ± 0.002)\n W 0.3 ± 0.03 \n  (0.012 ± 0.001)\n H 0.23 ± 0.05 \n\t \t (0.009\t±\t0.002)\n B 0.165 ± 0.05 \n  (0.006 ± 0.002)DIMENSIONS: MM\n(INCHES)A\nC BLW\nH\nBDIMENSIONS: MM\n(INCHES)A\nC BLW\nH\nB\nPackaging Information\nDIMENSIONS:\t MM\n\t (INCHES)     Dim.             CG0201MLC-05H\n  0.35 ± 0.05 \n  (0.014 ± 0.002)A \nB \nC\nREV.\tA\t02/18•\t This\tproduct\tcan\tbe\tdamaged\tby\trapid\theating,\tcooling\tor\tlocalized\theating.•\t Heat\tshocks\tshould\tbe\tavoided.\tPreheating\tand\tgradual\tcooling\tis\trecommended.•\t Excessive\tsolder\tcan\tdamage\tthe\tdevice.\tPrint\tsolder\tthickness\tof\t150\tto\t200\tum\tis\trecommended.•\t Solder\tgun\ttip\ttemperature\tshould\tbe\tkept\tbelow\t280\t°C\tand\tshould\tnot\ttouch\tthe\tdevice\tdirectly.\tContact\tshould\tbe\tless\tthan\t3\tseconds.\t  \n\t A\t\t solder\tgun\tunder\t30\twatts\tis\trecommended.\nTOP\nTAPED WC\nABF E\nL2.0\t±\t0.5\n(.079\t±\t.020)\n178\t±\t2.0\n(7.008\t±\t.079)\n9.0\t±\t0.5\n(.354\t±\t.020)13.0\t±\t1.0\n(.512\t±\t.039)\n13.0\t±\t0.5\n(.512\t±\t.020)62.0\t±\t1.5\n(2.441\t±\t.059)\n21.0\t±\t0.8\n(.827\t±\t.031)Dim. CG0201MLC-05H\nA8.00 ± 0.30\n(0.315 ± 0.012)\nB3.50 ± 0.05\n(0.138 ± 0.002)\nC1.75 ± 0.10\n(0.069 ± 0.004)\nD2.00 ± 0.05\n(0.079 ± 0.002)\nE4.00 ± 0.10\n(0.157 ± 0.004)Dim. CG0201MLC-05H\nF1.50 ± 0.10\n(0.059 ± 0.004)\nL0.71 ± 0.02\n(0.028 ± 0.001)\nW0.37 ± 0.02\n (0.015 ± 0.001)\nT0.42 ± 0.03\n (0.017 ± 0.001)\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Bourns:   \n\xa0 CG0201MLC-05H\n'}]
+!==============================================================================!
+### Component Summary: CG0201MLC-05H
+
+**Manufacturer:** Bourns  
+**Product Type:** ESD Protector (ChipGuard®)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Maximum DC Working Voltage (VDC): 5 V
+  - Typical Trigger Voltage (VT): 250 V
+  - Typical Clamping Voltage (VC): 30 V
+
+- **Current Ratings:**
+  - Typical Leakage Current @ Max. VDC (IL): 0.01 µA
+
+- **Power Consumption:** Not explicitly stated; however, low leakage current indicates minimal power consumption.
+
+- **Operating Temperature Range:**
+  - Operating Temperature (TOPR): -55 to +125 °C
+  - Storage Temperature (TSTG): -55 to +125 °C
+
+- **Package Type:** 0201 (small chip package)
+
+- **Special Features:**
+  - ESD protection to IEC 61000-4-2 Level 4
+  - Response time to ESD strike: < 1 ns
+  - Extremely low capacitance: 0.2 pF (typical)
+  - Bidirectional device
+  - RoHS compliant
+  - Moisture Sensitivity Level: 1
+  - ESD Classification (HBM): 3B
+
+#### Description:
+The CG0201MLC-05H is a ChipGuard® ESD protector designed to safeguard sensitive electronic components from electrostatic discharge (ESD) damage. It features a low capacitance of 0.2 pF, which ensures minimal impact on signal integrity during normal operation. The device is capable of withstanding multiple ESD strikes, making it suitable for high-speed applications.
+
+#### Typical Applications:
+- **USB 2.0 / 3.0:** Protects data lines from ESD events.
+- **IEEE 1394:** Ensures reliable communication in FireWire applications.
+- **HDMI 1.4 / 2.0:** Safeguards high-definition video and audio signals.
+- **GPS:** Protects GPS receivers from ESD damage.
+- **Antennas:** Shields antenna circuits from ESD.
+- **High-speed communications buses:** Maintains signal integrity in fast data transmission.
+- **Wearables:** Provides protection in compact electronic devices.
+
+This component is particularly valuable in environments where ESD can cause significant damage to sensitive electronics, ensuring reliability and longevity in various applications.

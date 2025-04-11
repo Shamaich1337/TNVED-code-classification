@@ -1,0 +1,51 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of HX-CS7624A production of HARXON from the text: \nGNSS Survey Antenna  HX-CS7624A  \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n                              \nKEY FEATURES  \n●Support  GPS, Glonass, Galileo, Beidou,  QZSS  and SBAS \nsignal reception  \n● Stable phase center guarantees the accuracy of \npositioning within millimeter -level  \n● Strong anti -interfere nce ability to endure the \nchallenging operating environments  \n● Small form factor with IP67 ruggedized structure  \n \n HX-CS7624A  features a multi -point feeding deign to achieve greater \nphase center stability. It  effectively improves measurement accuracy and \nprovides better positioning solutions.  \n \n                                                                              \nSTRONG ANTI -INTERFERENCE PERFORMANCE  \nThe antenna LNA features an excellent out -of-band r ejection performance, which \ncan suppress the electromagnetic interference, providing the stability and reliability \nof GNSS  signals. Also it effectively avoids disconnection dangerous when receivers \nare operate d under  complex electro magnetic environments such as communication \nbase station applications or  urban area.  \n                                               \nDURABLE, EASY -INSTALLATION DESIGN FOR PRECISION APPLICATIONS  \nIts compact and lightweight design, mak ing HX-CS7624A  highly portable and \nsuitable for outdoor  operating in precision applications. The patented waterproof \nand breathable design, durable  enclosure has been proven to sustain the harsh \nconditions by meeting IP67, easily protecting  HX-CS7624A  from dust and water for \nquite a long time.  \n                                                \nTRACKING IN CHALLENGING ENVIRONMENTS  \nThe a bility to receive low elevation signals with high gain and wide beam width makes \nHX-CS7624A  an excellent choice for tracking visible satellites under challenging \nconditions, providing the  positioning solutions with precision and reliable data. It can be \nwidely used in GNSS surveying  applications where high precision is needed, such as \nobstructed environment of tree lines or  construction.  \n \n\n \nGNSS Survey Antenna  HX-CS7624A  \n  \n \n \n \n \nAntenna Feature  \nSignal Received  GPS  L1 /L2  \nGLONASS  L1 /L2  \nGalileo  E1 \nBDS  B1 /B2 /B3  \nQZSS   L1 /L2  \nSBAS   L1 \nNominal Impedance  50Ω \nPolarization   RHCP  \nAxial Ratio  ≤3dB  \nOutput/Input VSWR  ≤2.0  \nGain at Zenith (90° )  1164 -1300M Hz 5.5dBi(maximum)  \n1520 -1615MHz 5.5dBi(maximum)  \nPhase center error  ±2mm  \nLNA Feature  \nLNA Gain  40±2dB  \nNoise Figure  ≤2dB  Output/Input VSWR  ≤2.0  \nOperation Voltage  +3.3～+12VDC  \nOperation Current  ≤45mA  \nGroup Delay Ripple  ≤5ns  \nMECHANICAL  \nDimensions  Φ152* 62.2mm  \nWeight  ≤500g  \nConnector  TNC female  \nMounting  BSW5 / 8'' -11 screw, 12 -14mm  \nENVIRONMENTAL  \nOperating  Temperature  -40℃～+70℃ \nStorage  Temperature  -55℃～+70℃ \nHumidity  95% non -condensing  \n \n \n \n \n \n \n \n \n \n \n \n \n \n PERFORMANCE  \n \nStructure& Phase Center Drawing (mm)  \n\n"}]
+!==============================================================================!
+### Technical Summary of the HX-CS7624A GNSS Survey Antenna
+
+**Component Overview:**
+The HX-CS7624A is a GNSS (Global Navigation Satellite System) survey antenna designed for high-precision positioning applications. It supports multiple GNSS signals, including GPS, GLONASS, Galileo, Beidou, QZSS, and SBAS, making it versatile for various surveying needs. The antenna features a compact and rugged design, suitable for outdoor use in challenging environments.
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Operating Voltage: +3.3 to +12 VDC
+
+- **Current Ratings:**
+  - Operating Current: ≤45 mA
+
+- **Power Consumption:**
+  - Power consumption is determined by the operating voltage and current, with a maximum of approximately 0.54 W at 12 VDC.
+
+- **Operating Temperature Range:**
+  - Operating Temperature: -40°C to +70°C
+  - Storage Temperature: -55°C to +70°C
+
+- **Package Type:**
+  - Dimensions: Φ152 x 62.2 mm
+  - Weight: ≤500 g
+  - Connector: TNC female
+  - Mounting: BSW 5/8'' -11 screw, 12-14 mm
+
+- **Special Features:**
+  - Supports GPS, GLONASS, Galileo, Beidou, QZSS, and SBAS signals.
+  - Stable phase center with a phase center error of ±2 mm.
+  - Excellent out-of-band rejection for strong anti-interference performance.
+  - IP67 rated for dust and water resistance.
+  - Lightweight and portable design.
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+**Description:**
+The HX-CS7624A is a high-performance GNSS survey antenna that provides reliable and accurate positioning solutions. Its multi-point feeding design enhances phase center stability, which is crucial for achieving millimeter-level accuracy in positioning. The antenna's robust construction and IP67 rating ensure durability in harsh environmental conditions.
+
+**Typical Applications:**
+The HX-CS7624A is ideal for GNSS surveying applications that require high precision, particularly in obstructed environments such as areas with tree lines or construction sites. It is suitable for use in various fields, including:
+
+- Land surveying
+- Construction and civil engineering
+- Agriculture (precision farming)
+- Geospatial data collection
+- Mapping and navigation systems
+
+Overall, the HX-CS7624A is a versatile and reliable GNSS antenna designed for professionals requiring high accuracy and performance in their surveying tasks.

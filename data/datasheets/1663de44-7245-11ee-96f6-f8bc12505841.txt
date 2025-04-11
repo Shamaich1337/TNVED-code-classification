@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of J30J-9ZKP-200 production of XI'AN ELITE ELECTRONIC INDUSTRIAL from the text:西安艾力特电子实业有限公司\nXi'anEliteElectronicIndustrialCo.,Ltd.\nwww.xa-elite.com.cn Email:vip@xa-elite.com.cn\nJ30JReceptacleMicro-DConnector\nSpecification\nProductModel J30J-9ZKP-200(9pin,receptacle,length200mm)\nInsulationResistance ≥5000MΩ\nDielectricsVoltage-resistance800V\nTemperature -55℃～+125℃\nCenterconductor Copperalloy,goldplated\nBodyandother Aluminumalloy,nickleplated.\nInsulationDielectric PBT\nMatingCable AFR-250,whitewire0.15mm2\nMatingplug J30J-9TJL-200\nOutlineDrawing(Unit:mm)\n\n"}]
+!==============================================================================!
+### Component Summary for J30J-9ZKP-200
+
+**Component Type:** Receptacle Micro-D Connector
+
+**Manufacturer:** Xi'an Elite Electronic Industrial Co., Ltd.
+
+**Key Specifications:**
+- **Voltage Ratings:** 800V (Dielectric Voltage Resistance)
+- **Current Ratings:** Not explicitly stated; typically determined by the application and connector design.
+- **Power Consumption:** Not applicable for connectors; power handling is determined by the connected devices.
+- **Operating Temperature Range:** -55°C to +125°C
+- **Package Type:** Receptacle Micro-D Connector
+- **Special Features or Notes:**
+  - Insulation Resistance: ≥ 5000 MΩ
+  - Center Conductor: Copper alloy, gold plated
+  - Body and Other Components: Aluminum alloy, nickel plated
+  - Insulation Dielectric: PBT (Polybutylene Terephthalate)
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided information.
+
+### Description
+The J30J-9ZKP-200 is a 9-pin receptacle Micro-D connector designed for high-density applications. It features a robust construction with a copper alloy center conductor that is gold plated for enhanced conductivity and corrosion resistance. The body is made from nickel-plated aluminum alloy, providing durability and mechanical strength. The connector is insulated with PBT, which offers excellent thermal and electrical properties.
+
+### Typical Applications
+The J30J-9ZKP-200 connector is typically used in applications requiring reliable electrical connections in compact spaces. Common applications include:
+- Aerospace and defense systems
+- Telecommunications equipment
+- Medical devices
+- Industrial automation
+- Data processing and storage systems
+
+This connector is ideal for environments where high reliability and performance are critical, particularly in harsh conditions due to its wide operating temperature range and high insulation resistance.

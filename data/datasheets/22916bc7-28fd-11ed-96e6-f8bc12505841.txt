@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of B5819WS production of YANGZHOU YANGJIE ELECTRONIC from the text:   B5817WS THRU B5819WS                       \xa0\n\xa0\n 1 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1680  \nRev.1.6,18-Feb-22    www.21yangjie.com\n\xa0Schottky Barrier Rectifier  \n                   Features     \n● VR      20V/30V/40V \n● IFAV    1A \n \n \n                                     Typical Applications  \n● Extreme fast switches \n                           \n \n  Mechanical Data \n● Package : SOD-323 \n● Terminals : Tin plated leads, solderable  per  \n J-STD-002 and JESD22-B102 \n● Polarity: Cathode line denotes the cathode end  \n \n \n  \n■\nMaximum Ratings  (Ta=25°C Unless otherwise specified ） \nPARAMETER SYMBOL UNIT Conditions VALUE \nRepetitive peak reverse voltage V RRM V  B5817WS 20 \nB5818WS 30 \nB5819WS 40 \nReverse voltage V R V I R=1mA B5817WS 20 \nB5818WS 30 \nB5819WS 40 \nPeak forward surge current I FSM A t p=8.3ms, half sine 10 \nAverage forward current I FAV A  1 \nMaximum junction temperature  Tj °C  -65 to +125 \nStorage temperature range  Tstg °C  -65 to +150 \nThermal Resistance Junction to Ambient Air R θJA °C /W  500 \n \n \n \n \n  \n \n \n  Marking \nB5817WS SJ \nB5818WS SK \nB5819WS SL COMPLIANT  RoHS  \n\n   B5817WS THRU B5819WS                       \xa0\n\xa0\n 2 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1680  \nRev.1.6,18-Feb-22    www.21yangjie.com\n■Electrical Characteristics （Ta=25℃ Unless otherwise specified ） \nPARAMETER SYMBOL UNIT Conditions VALUE \nMaximum  Forward voltage VF V IF=1A, T J=25°C B5817WS 0.45 \nB5818WS 0.55 \nB5819WS 0.60 \nVF V IF=3A, T J=25°C B5817WS 0.75 \nB5818WS 0.875 \nB5819WS 0.90 \nMaximum  Reverse current IR uA B5817WS VR=20V,T A=25°C 200 \nB5818WS VR=30V,T A=25°C 40 \nB5819WS VR=40V,T A=25°C 40 \nMinimum Breakdown voltage V (BR) V IR=1mA  B5817WS 20 \nB5818WS 30 \nB5819WS 40 \nMaximum  Diode capacitance CD pF V R=4V, f =1MH Z 120 \n \n■ Ordering Information (Example)  \nPREFERED P/N PACKING  \nCODE UNIT WEIGHT(g)MINIMUM \nPACKAGE(pcs)INNER BOX \nQUANTITY(pcs)OUTER CARTON \nQUANTITY(pcs) DELIVERY MODE\nB5817WS Thru B5819WS F2 Approximate 0.004 3000 30000 \n 120000 7” reel \n \n■ Characteristics (Typical)  \n \n\xa0\xa0\xa0\n  \n \n \n \n   B5817WS THRU B5819WS                       \xa0\n\xa0\n 3 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1680  \nRev.1.6,18-Feb-22    www.21yangjie.com\n\xa0\xa0\n  \n \n \n\xa0\xa0\xa0\xa0\n  \n \n \n \n \n  \n \n   B5817WS THRU B5819WS                       \xa0\n\xa0\n 4 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1680  \nRev.1.6,18-Feb-22    www.21yangjie.com\n■ Outline Dimensions  \n \n  \n \n  \n \n  \n \n \n        \n■ Soldering Footprint  \n \n \n \n  \n \n  \n \n  \n \n \n \n \n \n                 \n \n\n   B5817WS THRU B5819WS                       \xa0\n\xa0\n 5 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1680  \nRev.1.6,18-Feb-22    www.21yangjie.com\nDisclaimer \n \nThe information presented in this document is for reference only.  Yangzhou Yangjie Electronic Technology Co., Ltd. reserves the  \nright to make changes without notice for t he specification of the produc ts displayed herein to improve reliability, function or  design \nor otherwise.     The product listed herein is designed to be used with ordinary electronic equipment or  devices, and not designed to be used wit h \nequipment or devices which require high level of reliability and the malfunction of with would directly endanger human life (su ch as \nmedical instruments, trans portation equipment, aerospa ce machinery, nuclear-reactor controll ers, fuel controll ers and other saf ety \ndevices), Yangjie or anyone on its behalf, assumes no responsibilit y or liability for any damages resulting from such improper use \nof sale.    This publication supersedes & replaces all information previous ly supplied. For additional information, please visit our websit e \nhttp:// www.21yangjie.com  , or consult your nearest Yangjie’s sales office for further assistance. \n \n \n'}]
+!==============================================================================!
+### Component Summary: B5819WS
+
+**Manufacturer:** Yangzhou Yangjie Electronic Technology Co., Ltd.  
+**Product Code:** B5819WS  
+**Type:** Schottky Barrier Rectifier
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Repetitive Peak Reverse Voltage (V_RRM): 40V
+  - Reverse Voltage (V_R): 40V (at I_R = 1mA)
+  
+- **Current Ratings:**
+  - Average Forward Current (I_FAV): 1A
+  - Peak Forward Surge Current (I_FSM): 10A (for 8.3ms, half sine wave)
+
+- **Power Consumption:**
+  - Maximum Forward Voltage (V_F) at I_F = 1A, T_J = 25°C: 0.60V
+  - Maximum Forward Voltage (V_F) at I_F = 3A, T_J = 25°C: 0.90V
+
+- **Operating Temperature Range:**
+  - Maximum Junction Temperature (T_j): -65°C to +125°C
+  - Storage Temperature Range (T_stg): -65°C to +150°C
+
+- **Package Type:**
+  - SOD-323
+
+- **Special Features:**
+  - Tin plated leads, solderable per J-STD-002 and JESD22-B102
+  - Cathode line denotes the cathode end
+  - RoHS compliant
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Description:
+The B5819WS is a Schottky Barrier Rectifier designed for high-speed switching applications. Schottky diodes are known for their low forward voltage drop and fast switching capabilities, making them ideal for applications where efficiency and speed are critical.
+
+#### Typical Applications:
+- **Extreme Fast Switches:** The B5819WS is suitable for use in power management circuits, where rapid switching is necessary to minimize energy loss.
+- **Power Supply Circuits:** It can be used in power supply designs to rectify AC to DC efficiently.
+- **DC-DC Converters:** The component is often utilized in DC-DC converter circuits due to its low forward voltage drop, which enhances overall efficiency.
+- **Solar Inverters:** Schottky diodes like the B5819WS are commonly found in solar inverter applications for their ability to handle high-frequency switching.
+
+This summary provides a comprehensive overview of the B5819WS Schottky Barrier Rectifier, highlighting its key specifications and typical applications in electronic circuits.

@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TY94010W01 production of JIANGSU SKYERA LASER TECHNOLOGY CO., LTD. from the text: \n \n Data Sheet  \n \nTel: 0511 -86738588  \n Fax: 0511 -86739955  \n Website:  www.skyeralaser.com  10W 940nm Uncooled Multimode Laser Diode Module  \nTY-940+/-10NM-10.0W-25C-2PIN -1550 -0.22NA-DF-01 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSpecification ： \nFunctional parameters are tested on condition that the heat sink temperature is 25 degree,  contact resistance of the \ncomponent and the heat sink is smaller than  1CM2 K/W. \n  \nKey Parameters:  \n⚫ Based on single fire spot laser module  \n⚫ High output power 10W \n⚫ High stability  \n⚫ 0.22NA 105μm core multimode fiber  \n⚫ Parallel weld 2 -Pin sealed package  \n⚫ Standard central wavelength  940nm  \n⚫ RoHS compliance  \nApplication:  \n⚫ Medical  \n⚫ Printing  \n⚫ Pump source  \n⚫ Material processing  \n SkyEra delivers TY-940+/-10NM-10.0W-25C-2PIN -1550 -0.22NA-DF-01 \ndiode lasers employing professional coupling technology, that enjoy \nmultiple advantages, e.g., compact design, stable output power, high \npower, high efficiency and convenient packaging. These laser diode \nmodules can provide solutions for fiber laser applications and di rect \nsuppliers.  \nThe performance and aging tests have been performed upon the \nproduction line to guarantee reliable, stable and long lifetime of products.  \nTo provide customers with high -quality, high cost performance products is \nthe company’s goal.  \n \nParameter  Min Typ Max  Unit  Conditions  \nOutput Power  10 - - W  \nCentre Wavelength  \nT1  \n- 940±10  \n-- nm HR@ 1400-1600>25 dB, \nHR@ 1500-1600>30dB  \nSpectral Width  (FWHM)  - 3.5 7 nm  \nThreshold Current  - 0.55 0.9 A  \nOperating Current  - 11.5 12.5  A  \nOperating Voltage  - 1.75  2.2 V  \nConve rsion Efficiency  - 48 - %  \n90% Power  - 0.15  - NA  \nWavelength shift vs. Temperature  - 0.35 - nm/℃  \nSlop Efficiency  - 0.9 - W/A   \nStorage Temperature  -40 25 85 °C Non-Condensing  \nOperating Temperature  -40 25 55 °C  \nFiber Bend Radius  37.5  - - mm  \nBuffer Diameter  - 250 - μm  \nCladding Diameter  - 125 - μm  \nCore Diameter  - 105 - μm  \nNumeric Aperture  - 0.22  - -  \nFiber Connector  - CO - -  \n  \n\n \n \n Data Sheet  \n \nTel: 0511 -86738588  \n Fax: 0511 -86739955  \n Website:  www.skyeralaser.com  2. Dimension Diagra m \nUnit :MM  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n3. Instructions  \n⚫ Avoid eyes or skin exposure to direct or scattered radiation;  \n⚫ ESD protection is required for transportation, storage and operation; short -circuit protection between pins is required \nfor transportation and storage.  \n⚫ Please connect pins by solder when operating current is over 6A; solder point shoul d be close to the root of pins with a \nmax soldering temperature at 260 ℃ and a duration less than 10 seconds ;  \n⚫ Drive constant current power supply by laser and avoid surge while working;  \n⚫ Operate under rated current and rated power;  \n⚫ Good heat dissipation is required;  \n⚫ Operating temperature is -40℃~+55℃; \n⚫ Storage temperature is －40℃~＋85℃. \n \n \n \n \n\n'}]
+!==============================================================================!
+### Component Summary: TY94010W01
+
+**Manufacturer:** JIANGSU SKYERA LASER TECHNOLOGY CO., LTD.  
+**Product Code:** TY-940+/-10NM-10.0W-25C-2PIN -1550 -0.22NA-DF-01  
+**Component Type:** Laser Diode Module
+
+#### Key Specifications:
+- **Output Power:** 10 W (typical)
+- **Center Wavelength:** 940 ± 10 nm
+- **Spectral Width (FWHM):** 3.5 to 7 nm
+- **Threshold Current:** 0.55 to 0.9 A
+- **Operating Current:** 11.5 to 12.5 A
+- **Operating Voltage:** 1.75 to 2.2 V
+- **Conversion Efficiency:** 48%
+- **90% Power:** 0.15 NA
+- **Wavelength Shift vs. Temperature:** 0.35 nm/°C
+- **Slope Efficiency:** 0.9 W/A
+- **Operating Temperature Range:** -40°C to +55°C
+- **Storage Temperature Range:** -40°C to +85°C
+- **Package Type:** 2-Pin sealed package
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data, but typically assessed according to JEDEC J-STD-020E.
+
+#### Description:
+The TY94010W01 is a high-performance uncooled multimode laser diode module designed for various applications requiring high output power and stability. It operates at a central wavelength of 940 nm and is capable of delivering an output power of 10 W. The module is designed with a compact form factor and features a 2-pin sealed package for ease of integration into systems.
+
+#### Typical Applications:
+- **Medical:** Used in therapeutic and diagnostic equipment.
+- **Printing:** Employed in laser printing technologies.
+- **Pump Source:** Acts as a pump source for solid-state lasers.
+- **Material Processing:** Utilized in cutting, engraving, and other material processing applications.
+
+#### Special Features:
+- High stability and efficiency, making it suitable for demanding applications.
+- RoHS compliant, ensuring it meets environmental standards.
+- Designed for reliable performance with a long operational lifetime, supported by rigorous performance and aging tests during production.
+
+#### Safety and Handling Instructions:
+- Avoid direct exposure to eyes or skin from the laser radiation.
+- Implement ESD protection during transportation, storage, and operation.
+- Ensure good heat dissipation to maintain performance.
+- Follow specific soldering instructions when connecting pins, especially under high current conditions.
+
+This summary encapsulates the essential characteristics and applications of the TY94010W01 laser diode module, providing a clear understanding of its capabilities and intended uses.

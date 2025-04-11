@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDAC12038 production of NEDITEK from the text:      \nNDAC120\n3\n8\n \n0.3\n-\n2\nGHz \nGaAs \nPIN Limit\ne\nr\n \n \nFeatures\n \n\uf06c\n \nTechnology\n:\n \nGaAs\n \nPI\nN\n \nMMIC\n \n\uf06c\n \nFrequency Range\n:\n \n0.3\n-\n2\nGHz\n \n\uf06c\n \nResistance \nPower\n: \n10\nW\n \n(CW)\n, \n \n80W (\nPulse\n, PW\n=\n20us,\n \n10% duty cycle\n)\n \n\uf06c\n \nTypical I\nnsertion Loss\n:\n \n0.\n3\nd\nB\n@2GHz\n \n\uf06c\n \nLimiting\n \npower\n: \n20\ndBm\n \n\uf06c\n \nI\nnput\n \nVSWR\n: \n1.\n2\n:1\n \n\uf06c\n \nOut\nput\n \nVSWR\n: \n1.\n2\n:1\n \n\uf06c\n \nChip size\n: \n1.5\n×\n1.3\n×0.1mm\n \n \n \nDescription\n \nThe \nNDAC120\n3\n8\n \nis \nhigh \nperformance\n \nMMIC\n \nl\nimit\ne\nr\n \nmanufactured with \nGaAs PIN\n \ntechnology\n.\n \nIt \nis\n \ngrounded \nby the backside metal through the \nvia hole\n \non the chip\n.\n \nThis MMIC is 100% RF tested\n.\n \nFrom \n0.3\nGHz to \n2\n \nGHz\n, \nt\nhe \nresistance\n \npower \nis \n10W\n \nand the limiting power is \n20\ndBm\n.\n \nThis \nMMIC\n \nis \nideal \nfor\n \nLNA\n \nreceiv\ning\n \nchain protection\n \nand etc\n. \n \n \nMaximum Operat\ning Conditions\n（\nTA\n＝\n25\n℃\n）\n \nSymbol\n \nParameter\n1\n \nValue\n \nNote\n \nP\nin\n \nInput \nP\nower\n \n40\ndBm\n \nCW\n \nTm\n \nMounting Temperature\n \n29\n0\n℃\n \n1min\n, \nN\n2 \nProtection\n \nTstg\n \nStor\nage\n \nTemp\ne\nrature\n \n-\n55\n\uf07e\n150\n℃\n \n \n[1] \nAny of the stresses above the listed ratings may cause permanent damage.\n \n \nElectrical Characteristics\n（\nTA\n＝\n25\n℃\n）\n \nSymbol\n \nParameter\n \nTest condition\n \nValue\n \nUnits\n \nMin\n \nTypical\n \nmax\n \nIL\n \nInsertion loss\n \n(Small Signal)\n \nP\nin\n＝\n0dBm\n \nF\n=\n0.3\n-\n2\nGHz\n \n-\n \n0.2\n \n0.4\n \ndB\n \nVSWR\ni\nn\n \nI\nnput VSWR\n \n-\n \n1.3\n \n1.5\n \n-\n \nVSWR\nout\n \nO\nutput VSWR\n \n-\n \n1.3\n \n1.5\n \n-\n \nP\nout\n \nLimiting power\n \nPin<=40dBm\n \n-\n \n18\n \n-\n \ndBm\n \n \n \n \n \n \n \n \n\n      \nNDAC120\n3\n8\n \n0.3\n-\n2\nGHz \nGaAs \nPIN Limit\ne\nr\n \n\uf0d8\n \nTypical\n \nPerformance\n \n \nI\nnsertion Loss\n \nInput\n \nVSWR\n \n \n \nOutput\n \nVSWR\n \nLimiting Power @\n1\nGHz,PW20us\n, 10% duty cycle\n \n \n\uf0d8\n \nOutline \nDimension\n \n(\nUnit\n: \nu\nm\n)\n \n \n\n      \nNDAC120\n3\n8\n \n0.3\n-\n2\nGHz \nGaAs \nPIN Limit\ne\nr\n \n \n\uf0d8\n \nAssembly Diagram\n \n \n \n\uf0d8\n \nPads\n \nDiagram\n \n \nP\nads\n \nD\nescriptions\n \nI\nn\n \nRF\n \nsignal input, co\nnnection with 50\nΩ\n \nmicro strip\n, \nno blocking \ncapacitor needed\n \nO\nut\n \nRF\n \nsignal out\nput, co\nnnection with 50\nΩ\n \nmicro strip\n, \nno blocking \ncapacitor needed\n \n \n \n\n'}]
+!==============================================================================!
+### Component Summary: NDAC12038
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated; however, the maximum input power is 40 dBm (approximately 10 W).
+- **Current Ratings:** Not specified in the provided text.
+- **Power Consumption:** 
+  - Resistance Power: 10 W (Continuous Wave - CW)
+  - Limiting Power: 20 dBm (approximately 0.1 W)
+- **Operating Temperature Range:** 
+  - Maximum Operating Temperature: 25°C
+  - Storage Temperature: -55°C to 150°C
+  - Mounting Temperature: 290°C for 1 minute (N2 Protection)
+- **Package Type:** Chip size of 1.5 × 1.3 × 0.1 mm
+- **Special Features or Notes:** 
+  - 100% RF tested
+  - Grounded by backside metal through via hole
+  - Typical Insertion Loss: 0.3 dB @ 2 GHz
+  - Input and Output VSWR: 1.2:1
+  - Designed for high performance in the specified frequency range.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Description:**
+The NDAC12038 is a high-performance MMIC (Monolithic Microwave Integrated Circuit) limiter manufactured using GaAs (Gallium Arsenide) PIN technology. Its primary function is to limit the power of RF signals, protecting downstream components from excessive power levels. The device operates effectively within a frequency range of 0.3 GHz to 2 GHz and is designed to handle significant input power while maintaining low insertion loss.
+
+**Typical Applications:**
+The NDAC12038 is ideal for applications requiring protection in RF receiving chains, such as:
+- Low Noise Amplifier (LNA) protection
+- Signal processing in communication systems
+- RF front-end modules in wireless communication
+- Any application where signal integrity must be maintained while preventing damage from high power levels.
+
+This component is particularly useful in environments where RF signals may vary significantly in power, ensuring that sensitive components are safeguarded against potential overloads.

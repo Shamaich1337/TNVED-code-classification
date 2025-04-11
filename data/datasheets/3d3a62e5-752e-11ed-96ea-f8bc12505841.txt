@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of KG-1A-10180H_V2.0 production of AINFO from the text:AbsorptiveSPSTSwitch\nP/N:KG-1A-10180H_V2.0\nFreq.Range 1-18GHz\nInsertionLoss 3.1dBMax.\nVSWR 2:1Max.(ONSTATE)\nIsolation 80dBMin.@1-16GHz\n75dBMin.@16.1-18GHz\nPowerHandling 0.2WMax.\nSwitchingSpeed 50nsMax.\nPowerSupply +5V/40mA;-5V/30mA.\nControl TTL,1bit,“0”:ON;\nTTLVoltage “0”:0-0.7V\nConnectors SMA-Female\nOperatingTemp. -55°C~+85°C\nNote HermeticallySealed\nShockat3Gwithfrequency80-120\nhitsperminutesduring1hour,or1500\nhitswith3GamplitudeJustdesignguarantee,notestA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n\nOutlineDrawing(Unit:mm)isonlyforreference\nHoletolerance:±0.2mm;Otherstolerance:±1mm\nIN OUT+5V -5V GND C\n'}]
+!==============================================================================!
+### Component Summary for KG-1A-10180H_V2.0
+
+**Component Type:**  
+Absorptive SPST (Single Pole Single Throw) Switch
+
+**Key Specifications:**
+
+- **Frequency Range:** 1 - 18 GHz
+- **Insertion Loss:** 3.1 dB Max
+- **VSWR (Voltage Standing Wave Ratio):** 2:1 Max (ON State)
+- **Isolation:**
+  - 80 dB Min @ 1 - 16 GHz
+  - 75 dB Min @ 16.1 - 18 GHz
+- **Power Handling:** 0.2 W Max
+- **Switching Speed:** 50 ns Max
+- **Power Supply:**
+  - +5V / 40 mA
+  - -5V / 30 mA
+- **Control:** TTL, 1-bit, “0”: ON; TTL Voltage “0”: 0 - 0.7 V
+- **Connectors:** SMA-Female
+- **Operating Temperature Range:** -55°C to +85°C
+- **Special Features:**
+  - Hermetically sealed
+  - Shock resistance: 3G with frequency 80-120 hits per minute during 1 hour, or 1500 hits with 3G amplitude
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+### Description:
+The KG-1A-10180H_V2.0 is an absorptive SPST switch designed for high-frequency applications ranging from 1 GHz to 18 GHz. It is utilized to control RF signals in various electronic systems, allowing for the routing of signals with minimal loss and high isolation. The switch operates with TTL control logic, making it suitable for integration into digital systems.
+
+### Typical Applications:
+This component is typically used in applications such as:
+- RF signal routing in communication systems
+- Test and measurement equipment
+- Satellite communication
+- Military and aerospace applications
+- Any system requiring high-frequency signal management with low insertion loss and high isolation.
+
+The hermetically sealed design ensures reliability in harsh environments, while the specified operating temperature range allows for versatility in various applications.

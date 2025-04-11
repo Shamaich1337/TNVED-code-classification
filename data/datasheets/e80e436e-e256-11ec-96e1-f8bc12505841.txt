@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2-inch Sapphire wafer A-plane production of XIAMEN POWERWAY ADVANCED MATERIAL CO, LTD from the text:Powerway Wafer Co.,Limited\n#506B, Henghui Business Center,No.77,Lingxia Nan Road, High Technology Zone, Huli, Xiamen,361000\nTEL:+86 (0)592 5601404 -FAX:+86 (0)592 5563272E-MAIL:sales@powerwaywafer.com\n       QUALITY TEST REPORT\nD ate:JUN.01,2022\nP\nO#:ET-000599\nPI#:PW22104Description:2\'\' Sapphire/4" GaAs\nCustomer:MICRO E LECTRONICS T ECHNOLOGIES P TE L TD\nNO.1:2-inch S apphire wafer C -plane\nI\ntem Specification Test Rsult UOM\n1.Diameter 50.8mm±0.1 mm   50.79~50.82 mm\n2.Thickness 430±15 um  425.07~430.05 um\n3.Surface OrientationC-plane(0001)off Angle 0.2°±0.1°(M-axis),\n0±0.1(A-axis)C TO M:0.19°~0.23°\nC TO A:0.02°~0.04°\n4.Primary Flat Orientation / Length A-plane±0.2° / 16±1.0 mm A-plane±0.2° / 16±1.0 mm um\n5.TTV ≤5 um 1.94~2.90 um\n6.BOW -10~0 -0.79~-2.74 um\n7.WARP ≤15 um 2.72~5.96 um\n8.Front side Polished  Ra<0.2 nm ok nm\n9.Back side Polished  Ra<1.2um ok um\n10.Qty 50 50 PCS\nWafer No.: X-12H22051401 (25PCS)      X-12H22051402 (25PCS)\n'}]
+!==============================================================================!
+### Component Summary: 2-inch Sapphire Wafer A-plane
+
+**Manufacturer:** XIAMEN POWERWAY ADVANCED MATERIAL CO., LTD  
+**Address:** #506B, Henghui Business Center, No.77, Lingxia Nan Road, High Technology Zone, Huli, Xiamen, 361000  
+**Contact:** TEL: +86 (0)592 5601404 | FAX: +86 (0)592 5563272 | E-MAIL: sales@powerwaywafer.com  
+**Date of Report:** June 1, 2022  
+**Customer:** MICRO ELECTRONICS TECHNOLOGIES PTE LTD  
+**Product Code:** 2-inch Sapphire Wafer A-plane
+
+#### Key Specifications:
+- **Diameter:** 50.8 mm ± 0.1 mm (Measured: 50.79 ~ 50.82 mm)
+- **Thickness:** 430 µm ± 15 µm (Measured: 425.07 ~ 430.05 µm)
+- **Surface Orientation:** C-plane (0001) with off angles:
+  - M-axis: 0.2° ± 0.1° (Measured: 0.19° ~ 0.23°)
+  - A-axis: 0° ± 0.1° (Measured: 0.02° ~ 0.04°)
+- **Primary Flat Orientation / Length:** A-plane ± 0.2° / 16 mm ± 1.0 mm
+- **Total Thickness Variation (TTV):** ≤ 5 µm (Measured: 1.94 ~ 2.90 µm)
+- **Bow:** -10 ~ 0 µm (Measured: -0.79 ~ -2.74 µm)
+- **Warp:** ≤ 15 µm (Measured: 2.72 ~ 5.96 µm)
+- **Front Side Polished:** Ra < 0.2 nm (Pass)
+- **Back Side Polished:** Ra < 1.2 µm (Pass)
+- **Quantity:** 50 pieces (25 PCS per wafer number)
+
+#### Description:
+The 2-inch Sapphire Wafer A-plane is a high-quality substrate used primarily in semiconductor applications. Sapphire wafers are known for their excellent thermal conductivity, high melting point, and optical transparency, making them suitable for various electronic and optoelectronic devices. The A-plane orientation indicates the specific crystallographic direction of the wafer, which can influence the properties of the devices fabricated on it.
+
+#### Typical Applications:
+- **LED Manufacturing:** Sapphire wafers are commonly used as substrates for the growth of Gallium Nitride (GaN) layers in LED production.
+- **RF Devices:** Utilized in the fabrication of radio frequency (RF) devices due to their dielectric properties.
+- **Optoelectronics:** Employed in the production of lasers and photodetectors.
+- **High-Temperature Electronics:** Suitable for applications requiring stable performance at elevated temperatures.
+
+This sapphire wafer is particularly valuable in the microelectronics field, where precision and material properties are critical for device performance.

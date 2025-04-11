@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PA3202NL production of PULSE ELECTRONICS from the text:P698.F (5/13)1\npulseelectronics.comSIDEWINDER®  - CURRENT SENSOR \nPA320XNL SeriesPulse Ja ck\nE l e c t r o n i c s\n50/60 Hz, Single Phase, AC Current Sensor  \nDynamic Range from 0.1 to 1000 Amps\nMeets ANSI C12.20 Accuracy Class 0.2\nMeets IEC 62053-21 class 1\nPhase error < 0.05 degree\nBandwidth 500KHz\nImmune to external AC magnetic fields\nImmune to DC current & DC magnetic field\nVery low temperature coefficient\nPatent pending\nElectrical Specifications at 25°C  Temp Range -40°C to 130°C Actual Secondary Output Voltage (Vsa)  \nPart NumberAccuracy  \nClass3Kr4 \n(µΩ/Hz typ)Pri-Sec  \nIsolation \n(V min)Ls5 \n(mH typ)Rs6 \n(Ohms typ)SRF7 \n(Hz typ) @ 50 Hz ( µV/A)1 @ 60 Hz ( µV/A)1\nPA3202NL 0.2 8.33 6,000 1.75 57. 3 160,000 416 500\nPA3206NL 0.2 7.66 6000 1.14 37.6 200,000 383 460\nPA3208NL 0.2 7.66 6000 1.14 37.6 200,000 383 460\nEQUATIONS:   Vsa = KrFrIpa \n          Fr << SRF®\nMechanicals\nPA3202NLSchematics\n3 GREEN2 WHITE1 BLACKLow Frequency Equivalent Circuit\nLSRS\nVout\nVsa = KrFrIpaFr  << SRFIpaVsaNOTES :\n1. Output Voltage is proportional to the derivative (di/dt) of the input current based on the Rogowski Coil principle. \n2. All current and voltages assumed to be sinusoidal waveforms at Fr, the constant rated frequency in Hz, measured as RMS values.\n3. Accuracy Class per IEC 60044-1 Table 11 where:\n•\tPercentage\tcurrent\terror\t=\t((Kr•Fr•Ipa\t-\tVout)\t/\tVout)\tx\t100\n•\tPhase displacement = the difference between the primary current (Ipa) phase vector and the (secondary voltage (Vout) phase \nvector minus 90 degrees)\n4. Kr = Rated transformation constant\n5. Ls = Secondary winding inductance\n6. Rs = Secondary winding resistance\n7. SRF = Self Resonate Frequency\n8. Ipa = Actual primary current\n9. Vsa = Actual secondary output voltage\nP698.F (5/13)2\npulseelectronics.comSIDEWINDER®  - CURRENT SENSOR \nPA320XNL SeriesPulse Ja ck\nE l e c t r o n i c sFor More Information\nPulse Worldwide\nHeadquarters\n12220 World Trade Drive\nSan Diego, CA 92128\nU.S.A.\nTel: 858 674 8100\nFax:\t858\t674\t8262Pulse Europe\nEinsteinstrasse 1\nD-71083 Herrenberg\nGermany\nTel: 49 7032 7806 0\nFax:\t49\t7032\t7806\t135Pulse China Headquarters\nB402, Shenzhen Academy of\nAerospace Technology Bldg.\n10th Kejinan Road\nHigh-Tech Zone\nNanshan District\nShenzen, PR China 518057\nTel: 86 755 33966678 \nFax:\t86\t755\t33966700Pulse North China\nRoom 2704/2705\nSuper Ocean Finance Ctr.\n2067 Yan An Road West\nShanghai 200336\nChina\nTel: 86 21 62787060 \nFax:\t86\t2162786973Pulse South Asia\n135 Joo Seng Road\n#03-02\nPM Industrial Bldg.\nSingapore 368363\nTel: 65 6287 8998  \nFax:\t65\t6287\t8998Pulse North Asia\n3F, No. 198\nZhongyuan Road\nZhongli City\nTaoyuan County 320\nTaiwan R. O. C.\nTel: 886 3 4356768\nFax:\t886\t3\t4356823\t(Pulse)\t\t\nFax:\t886\t3\t4356820\t(FRE)\nPerformance warranty of products offered on this data sheet is limited to the parameters specified. Data is subject to change without notice. Other brand and product names mentioned herein may be \ntrademarks or registered trademarks of their respective owners. © Copyright, 2011. Pulse Electronics, Inc. All rights reserved.Mechanicals\nMechanicalsPA3206NL\nPA3208NLSchematics\nSchematics54321\n3 GREEN2 WHITE1 BLACK\n'}]
+!==============================================================================!
+### Component Summary: PA3202NL
+
+**Manufacturer:** Pulse Electronics  
+**Product Code:** PA3202NL  
+**Series:** SIDEWINDER® - Current Sensor
+
+#### Key Specifications:
+- **Voltage Ratings:** 6000 V (minimum primary to secondary isolation)
+- **Current Ratings:** Dynamic range from 0.1 to 1000 Amps
+- **Power Consumption:** Not explicitly stated; operates based on current sensing principles.
+- **Operating Temperature Range:** -40°C to 130°C
+- **Package Type:** Not specified in the provided text; typically in a compact form factor suitable for integration.
+- **Special Features:**
+  - Meets ANSI C12.20 Accuracy Class 0.2
+  - Meets IEC 62053-21 Class 1
+  - Phase error < 0.05 degrees
+  - Bandwidth of 500 kHz
+  - Immune to external AC magnetic fields
+  - Immune to DC current and DC magnetic fields
+  - Very low temperature coefficient
+  - Patent pending
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The PA3202NL is a current sensor designed for measuring AC current in single-phase applications. It utilizes the Rogowski coil principle, which allows it to provide an output voltage proportional to the derivative of the input current. This sensor is particularly noted for its high accuracy and wide dynamic range, making it suitable for various industrial and commercial applications.
+
+#### Typical Applications:
+- **Power Management:** Used in energy monitoring systems to measure current consumption accurately.
+- **Signal Processing:** Employed in systems that require precise current measurements for feedback and control.
+- **Smart Metering:** Ideal for integration into smart meters for residential and commercial energy usage tracking.
+- **Industrial Automation:** Utilized in automation systems for monitoring and controlling electrical loads.
+- **Renewable Energy Systems:** Applicable in solar inverters and wind turbine systems for current measurement and monitoring.
+
+This concise summary provides an overview of the PA3202NL current sensor's key characteristics, specifications, and typical applications, ensuring clarity and accuracy for potential users and engineers.

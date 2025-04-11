@@ -1,0 +1,52 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PB5010 production of YANGZHOU YANGJIE ELECTRONIC from the text: PB50005 THRU PB5010 \xa0\n\xa0\n 1 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-B1322 \nRev.1.5,06-Apr-22 www.21yangjie.com\n  Bridge Rectifiers \n \n                   Features \n● UL recognition , file #E230084 \n● Glass passivated chip junction \n● Thin single in-line package ● High surge current capability ● Solder dip 275 °C max . 7 s, per JESD 22-B106 \n \n                                      Typical Applications \nGeneral purpose use in AC/DC bridge full wave rectification \nfor switching power supply, home appliances, office equipment,  \nindustrial automation applications. \n \n   Mechanical Data \n● Package : PB \nMolding compound meets UL 94 V-0 flammability \nrating, RoHS-compliant, halogen-free \n● Terminals : Tin plated leads, solderable per   \nJ-STD-002 and JESD22-B102 \n● Polarity: As marked on body\n■Maximum Ratings  (Ta=25℃ Unless otherwise specified ） \nPARAMETER SYMBOL UNIT PB50005 PB5001 PB5002 PB5004  PB5006  PB5008 PB5010\nDevice marking code   PB50005 PB5001 PB5002 PB5004 PB5006 PB5008 PB5010\nMaximum Repetitive Peak Reverse Voltage VRRM  V 50 100 200 400 600 800 1000 \nMaximum RMS Voltage VRMS V 35 70 140 280 420 560 700 \nMaximum DC blocking Voltage VDC V 50 100 200 400 600 800 1000 \nAverage rectified output \ncurrent  @60Hz sine wave, R-load, With heatsink  \nTc =90 ℃ IO A 50.0 \nWithout heatsink  \nTa =25 ℃ 4.5 \nForward Surge Current (Non-repetitive) \n@60Hz Half-sine wave,1 cycle, Tj=25 ℃ IFSM  A 500 \nForward Surge Current (Non-repetitive) \n@1ms, square wave, 1 cycle, Tj=25 ℃ 1000 \nCurrent squared time  \n@1ms≤t≤8.3ms Tj=25 ℃, Rating of per diode I2t A2s 1037.5 \nStorage temperature Tstg ℃ -55 ~ +150 \nJunction temperature Tj ℃ -55 ~ +150 \nDielectric strength  \n@ Terminals to case, AC 1 minute Vdis KV 2.5 \nMounting torque  \n@Recommend torque ：5kgꞏcm Tor kgꞏ cm 8 \n■Electrical Characteristics （Ta=25℃ Unless otherwise specified ） \nPARAMETER SYMBOL UNIT TEST CONDITIONS PB50005 PB5001 PB5002 PB5004  PB5006  PB5008 PB5010\nMaximum instantaneous \nforward voltage drop per diode VF V IFM=25.0A 1.1 \nMaximum DC reverse current \nat rated DC blocking voltage \nper diode IR μA Tj =25℃ 5 \nTj =125℃ 200 \nTypical junction capacitance Cj pF Measured at 1MHz \nand Applied Reverse \nVoltage of 4.0 V.D.C270 COMPLIANT RoHS  \n+~~-\n﹢~~﹣ ﹢~~﹣\n PB50005 THRU PB5010 \xa0\n\xa0\n 2 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-B1322 \nRev.1.5,06-Apr-22 www.21yangjie.com\n■Thermal Characteristics （Ta=25℃ Unless otherwise specified ） \nPARAMETER SYMBOL UNIT PB50005 PB5001 PB5002 PB5004  PB5006  PB5008 PB5010\nThermal \nResistance Between junction and ambient,  \nWithout heatsink RθJ-A \n℃/W18.0 \nBetween junction and case,  \nWith heatsink RθJ-C 0 . 6  \nNote: Device mounted on 75mm x 45mm x 5.5mm Aluminum Plate Heat sink. \n \n■Ordering Information (Example)  \nPREFERED P/N PACKING  \nCODE UNIT WEIGHT(g)MINIIMUM \nPACKAGE(pcs)INNER BOX \nQUANTITY(pcs)OUTER CARTON \nQUANTITY(pcs) DELIVERY MODE\nPB50005 THRU PB5010 B1 Approximate 7.5 15 750 1500 TUBE \n \n■ Characteristics (Typical)  \n \n \n \n \n \n \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n \n    \n 200FIG1:Io-Tc Curve\n180with heatsink\n40 60 80 100 120 140 160102030\n04050\nCase Temperature( ℃)Average Forward output Current(A)heatsink\nTc-sensing point\nwithout heatsink\n0.4 0.6 0.8 1.0 1.2 1.40.10.20.5FIG3: Typical Forward Voltage\n1.010204060\n5.0\nInstantaneous Forward Voltage(V)Instantaneous Forward Current(A)2.04.0\n0 20 40 60 80 1000.11.0101001000\nTj=25℃FIG4:Typical Reverse CharacteristicsInstantaneous Reverse Current (uA)\nPercent of Rated Peak Reverse Voltage  (%)Tj=125℃10\n2 5 10 20 50 100250500750\nnon-repetitive\nTj=25℃FIG2:Surge Forward  Current Capability\n08.3msIFSM\n8.3msPeak Forward Surge Current(A)\nNumber of Cycleshalf sine wave\n1cycle\n PB50005 THRU PB5010 \xa0\n\xa0\n 3 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-B1322 \nRev.1.5,06-Apr-22 www.21yangjie.com\n■ Outline Dimensions  \n \n \n \n  \n \n  \n \n  \n \n  \n \n   \n \n  \n \n  \n \n   \n \n  \n \n   \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n PB \nDim Min Max \nA 29.7 30.3 \nB 19.7 20.3 \nC 17.0 18.0 \nD 4.8 5.8 \nE 3.8 4.2 \nF 7.3 7.7 \nG 9.8 10.2 \nH 0.9 1.1 \nI 2.0 2.4 \nJ 2.3 2.7 \nK 3.4 3.8 \nL 4.4 4.8 \nM 10.8 11.2 \nN 3.1 3.7 \nO 3.1 3.4 \nP 0.6 0.8 \nA1 28.75 29.15 \nB1 18.75 19.15 \nC1 0.3 0.7 \nD1 0.3 0.7 Dimensions in millimeters+~~-PB\nA\nB\nC\nG FJ\nI\nHHOLE FOR NO.\n6 SCREW\nDKL\nMO\nDIA\nP FE\nNAL heatsink\n3*45°B1\nD1C1A1\n PB50005 THRU PB5010 \xa0\n\xa0\n 4 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-B1322 \nRev.1.5,06-Apr-22 www.21yangjie.com\nDisclaimer \n \nThe information presented in this  document is for reference onl y. Yangzhou Yangjie Electronic Technology Co., Ltd. reserves th e \nright to make changes without not ice for the specification of t he products displayed herein to improve reliability, function o r design \nor otherwise.     The product listed herein is designed to be used with ordinary electronic equipment or devices, and not designed to be used wi th \nequipment or devices which require high level of reliability an d the malfunction of with woul d directly endanger human life (s uch as \nmedical instruments, transportat ion equipment, aerospace machin ery, nuclear-reactor controller s, fuel controller s and other sa fety \ndevices), Yangjie or anyone on its behalf, assumes no responsib ility or liability for any damages resulting from such improper  use \nof sale.    This publication supersedes & r eplaces all information previous ly supplied. For additional information, please visit our websi te \nhttp:// www.21yangjie.com  , or consult your nearest Yangjie’s sales office for further a ssistance. \n \n \n \n \n \n'}]
+!==============================================================================!
+### Component Summary: PB5010
+
+**Manufacturer:** Yangzhou Yangjie Electronic Technology Co., Ltd.  
+**Product Code:** PB5010  
+**Type:** Bridge Rectifier
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Maximum Repetitive Peak Reverse Voltage (VRRM): 1000 V
+  - Maximum RMS Voltage (VRMS): 700 V
+  - Maximum DC Blocking Voltage (VDC): 1000 V
+
+- **Current Ratings:**
+  - Average Rectified Output Current (IO):
+    - With heatsink (Tc = 90°C): 50.0 A
+    - Without heatsink (Ta = 25°C): 4.5 A
+  - Forward Surge Current (IFSM):
+    - Non-repetitive @ 60Hz Half-sine wave: 500 A
+    - Non-repetitive @ 1ms square wave: 1000 A
+
+- **Power Consumption:**
+  - Maximum Instantaneous Forward Voltage Drop per Diode (VF) at IFM = 25.0 A: 1.1 V
+
+- **Operating Temperature Range:**
+  - Storage Temperature (Tstg): -55°C to +150°C
+  - Junction Temperature (Tj): -55°C to +150°C
+
+- **Package Type:**
+  - Thin single in-line package (PB)
+
+- **Special Features:**
+  - Glass passivated chip junction
+  - High surge current capability
+  - UL recognition (file #E230084)
+  - RoHS-compliant and halogen-free
+
+- **Moisture Sensitive Level:** 
+  - Compliant with JEDEC J-STD-020E
+
+#### Description:
+The PB5010 is a bridge rectifier designed for converting alternating current (AC) to direct current (DC). It consists of four diodes arranged cleverly to allow current to flow in one direction, effectively rectifying the input AC signal. This component is particularly noted for its high surge current capability, making it suitable for applications that experience sudden spikes in current.
+
+#### Typical Applications:
+- General-purpose AC/DC bridge full-wave rectification
+- Switching power supplies
+- Home appliances
+- Office equipment
+- Industrial automation applications
+
+The PB5010 is ideal for use in environments where reliable power conversion is essential, and it can handle significant electrical loads, making it a versatile choice for various electronic applications.

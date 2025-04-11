@@ -1,0 +1,48 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MMA-495930-Q4 production of MICROWAVE TECHNOLOGY from the text:MMA-495930-Q4\n            4.9-5.9GHz Fully Matched Medium Power Amplifier  \nData Sheet \nMicroWave Technology, Inc., 4268 Solar Way, Fremont, CA  94538 \n510-651-6700    FAX 510- 952-4000    WEB www.mwtinc.c om \nData contained herein is subject to change without notice.  All rights reserved © \n Please visit MwT website www.mwtinc.com for information on other MwT MMIC products . \nPage 1 of 4, Updated July 2017Features: \n•Ideal for 4900 –5900 MHz High Linearity / High Dynamic Range\nWiMax/WLAN and Point-To-Point Radio Applications  \n•Excellent RF Performance:\no45 dBm OIP3\no30 dBm P1dB\no22 dBm Pout @  2.0% EVM (Testing signal: 802.16/64 QAM)\no20 dB Gain\n•Vdd =+7.5V\n•Input and Output are Matched to 50 Ω\n•MTTF > 100 years @ 85ºC ambient temperature\n•Surface-Mount QFN 4X4mm Package\nDescription: \nThe MMA-495930-Q4 is a high linearity GaAs FET broadba nd MMIC amplifier utilizing MwT’s proprietary linear \ndevice technology. It is packag ed in a low cost QF\nN 4X4mm surface mount package. Applications include the driver \nand the output stage of power a mplifiers for WLAN and WiMax infrastructure base stations and access points. The \nthird order intercept performance of the MMA-495930-Q4 \nis excellent and is typically 15 dB above the 1 dB gain \ncompression point. \nTypical RF Performance:  Vds=7.5V, Vgs=-0.9V, Ids=450mA, Ta=25 °C Z0=50 ohm\nParameter  Units Typical Data\nFrequency Range MHz 4900-5900\nGain (Typ / Min)  dB 20 / 18\nGain Flatness (Typ / Max)  +/-dB 1.0 / 1.2\nInput Return Loss dB 8\nOutput Return Loss dB 8\nOutput P1dB dBm 30\nOutput IP3  (1) dBm 45 \nPout @ 2.0% EVM dBm 22\nOperating Current Range \n(Typ / Max)mA 450 / 500\nThermal Resistance °C /W 20\n(1) Output IP3 is measured with two tones at output power of 13 dBm/tone separated by 10 MHz . \n\nMMA-495930-Q4\n            4.9-5.9GHz Fully Matched Medium Power Amplifier  \nData Sheet \nMicroWave Technology, Inc., 4268 Solar Way, Fremont, CA  94538 \n510-651-6700    FA X 510-952-4000    WEB  www.mwtinc.c om \nData contained herein is subject to change without notice.  All rights  reserved © \n Please vis it MwT website www.mwtinc.com for information on other MwT MMIC products . \nPage 2 of 4, Updated J uly 2017Typical RF Performance:  Vds=7.5V, Vgs=-0.9V, Ids=450mA, Z0=50 ohm, Ta=25 ºC\nMMA-495930  Gain vs Frequency\n0510152025\n2345678\nFreq(GHz)Gain(dB)\nGainMMA-495930  Return Loss vs Frequency\n-20-15-10-50\n2345678\nFreq(GHz)Gain(dB)\nInput RL\nOutput RL\nMMA-495930 Output Power vs Frequency\n282930313233\n4.8 4.9 5 5.1 5.2 5.3 5.4 5.5 5.6 5.7 5.8 5.9 6\nFre q(GHz)Power(dBm)\nOutput P-1MMA-495930 EVM vs Channel Power\n (64QAM Modulation)\n012345678\n11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26\nFre q(GHz)EVM(%)\n4.9GHz EVM\n5.4GHz EVM\n5.9GHz EVM\n\nMMA-495930-Q4\n            4.9-5.9GHz Fully Matched Medium Power Amplifier  \nData Sheet \nMicroWave Technology, Inc., 4268 Solar Way, Fremont, CA  94538 \n510-651-6700    FA X 510-952-4000   WEB www.mwtinc.com  \nData contained herein is subject to change without notice.  All rights  reserved © \n Please vis it MwT website www.mwtinc.com for information on other MwT MMIC products . \nPage 3 of 4, Updated J uly 2017Absolute Maximum Ratings:  (Ta= 25 °C)* \nSYMBOL  PARAMETERS  UNITS  ABSOLUTE MAXIMUM  \nVds Drain-Source Voltage V 8.5 \nVgs Gate-Source Voltage V -6 to +0.8 \nIds Drain Current mA 500 \nIgs Gate Current mA 5.0 \nPdiss DC Power Dissipation W 4.0 \nPin max RF Input Power dBm +24.0 \n*Operation of this device above any one of these parameters may cause permanent damage.\nTypical Scattering Parameters:  Vds=7.5V, Vgs=-0.9V, Ids=450mA, Z0=50 ohm, Ta=25 ºC\nFreq \n[GHz] S11             S21              S21              S21  \n         Mag - Ang          Mag - Ang          Mag - Ang          Mag - Ang \n4.0  0.772 101 1.11 38.5 0.00598 165 0.67 -98.4\n4.2  0.742 64.6 2.22 13.6 0.0075 138 0.734 -146 \n4.4  0.71 27.2 3.9 -27.7 0.0083 106 0.76 167 \n4.6  0.677 -11 6.05 -75.5 0.00796 77.8 0.688 123 \n4.8  0.528 -49.5 8.25 -127 0.00642 49.8 0.504 85.8 \n5.0  0.468 -86.9 9.67 -179 0.00641 32.8 0.351 60.8 \n5.2  0.425 -121 10.4 133 0.00586 11.4 0.277 49.3 \n5.4  0.407 -151 10.9 86.8 0.00576 -9.05 0.289 35.8 \n5.6  0.312 -172 11.3 42.7 0.00524 -39.6 0.324 13.3 \n5.8  0.241 180 11.7 -0.471 0.00447 -72 0.359 -15.2 \n6.0  0.253 180 11.8 -44.3 0.00304 -108 0.386 -47.1 \n6.2  0.33 167 11.9 -87.9 0.00204 -164 0.406 -80.7 \n6.4  0.417 143 11.7 -132 0.00191 109 0.413 -115 \n6.6  0.474 111 11.3 -178 0.00336 42 0.413 -149 \n6.8  0.476 75.9 10.6 136 0.00497 -0.827 0.392 -179 \n7.0  0.407 37.4 9.4 88.8 0.00659 -39.1 0.367 156 \n7.2  0.278 -8.24 8.06 41.3 0.00763 -74.7 0.342 138 \n7.4  0.137 -87.7 6.52 -5.59 0.00823 -109 0.35 128\n7.6  0.213 164 4.96 -51.9 0.00741 -141 0.398 116\n7.8  0.382 111 3.55 -95.5 0.00696 -170 0.468 102\n8.0  0.522 72.4 2.44 -136 0.00561 167 0.54 84.2Tch Channel Temperature ºC \nTstg Storage Temperature ºC 150.0 \n-60.0 to 150.0 Toper  Operating Temperature ºC -40 to +85 \n\nMMA-495930-Q4\n            4.9-5.9GHz Fully Matched Medium Power Amplifier  \nData Sheet \nMicroWave Technology, Inc., 4268 Solar Way, Fremont, CA  94538 \n510-651-6700    FA X 510-952-4000    WEB www.mwtinc.com  \nData contained herein is subject to change without notice.  All rights reserv ed © \n Pleas e visit MwT website www.mwtinc.com for information on other MwT MMIC products . \nPage 4 of 4, Updated July 2017Mechanical Information: \nAll dimensions are in mm \nPin Assignment \nPin # Function Pin # Function \n1 N/C 13 N/C \n2 N/C 14 N/C \n3 RF in 15 RF out \n4 RF in 16 RF out \n5 N/C 17 N/C \n6 N/C 18 N/C \n7 N/C 19 N/C \n8 N/C 20 N/C \n9 N/C 21 N/C \n10 Vdd 22 Vgs \n11 N/C 23 N/C \n12 N/C 24 N/C \n\n'}]
+!==============================================================================!
+### Component Summary: MMA-495930-Q4
+
+**Manufacturer:** MicroWave Technology, Inc.  
+**Product Code:** MMA-495930-Q4  
+**Type:** Medium Power Amplifier (MMIC)  
+**Frequency Range:** 4.9 - 5.9 GHz  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Drain-Source Voltage (Vds): 8.5 V (absolute maximum)
+  - Gate-Source Voltage (Vgs): -6 to +0.8 V (absolute maximum)
+  
+- **Current Ratings:**
+  - Drain Current (Ids): 500 mA (absolute maximum)
+  - Operating Current: 450 mA (typical), 500 mA (maximum)
+  
+- **Power Consumption:**
+  - DC Power Dissipation: 4.0 W (absolute maximum)
+  
+- **Operating Temperature Range:**
+  - Storage Temperature: -60 °C to +150 °C
+  - Operating Temperature: -40 °C to +85 °C
+  
+- **Package Type:**
+  - Surface-Mount QFN 4x4 mm
+  
+- **Special Features:**
+  - High linearity with OIP3 of 45 dBm
+  - P1dB of 30 dBm
+  - Input and output are matched to 50 Ω
+  - MTTF > 100 years at 85 °C ambient temperature
+  
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data, please refer to the manufacturer's guidelines for MSL classification.
+
+#### Description:
+The MMA-495930-Q4 is a high linearity GaAs FET broadband MMIC amplifier designed for applications in the 4.9 to 5.9 GHz frequency range. It utilizes proprietary linear device technology from MicroWave Technology, Inc. The amplifier is packaged in a compact and cost-effective QFN (Quad Flat No-lead) surface mount package, making it suitable for high-density circuit designs.
+
+#### Typical Applications:
+The MMA-495930-Q4 is primarily used in:
+- **WLAN (Wireless Local Area Network)** infrastructure
+- **WiMax (Worldwide Interoperability for Microwave Access)** systems
+- **Point-to-Point Radio** applications
+- It serves as a driver and output stage in power amplifiers for base stations and access points, where high linearity and dynamic range are critical for maintaining signal integrity and performance.
+
+This amplifier is particularly well-suited for applications requiring robust RF performance, such as high data rate communications and reliable wireless connectivity.

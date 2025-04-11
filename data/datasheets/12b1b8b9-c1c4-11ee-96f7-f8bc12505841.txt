@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of SAFBG-1550-02-99.9-S2-20-NE production of SEAGNOL PHOTONICS CO., LTD from the text:Application: Features:\nSpecification:\nSymbol Unit\nλ nm\nnm\n%\nnm\nSMSR dB\nmm\nkpsi\n-\n-\nT ℃\nT ℃\nmm\nNotice: Above specifications are tested at center wavelength without connector in room temperature @23 ℃.\nDrawing:\nOrdering Information (Part Number):\n WWWW  GG  RR  FF  LL  CC\n Wavelength  Grating Regions Length  Reflectivity  Fiber Type  Fiber Length  Connector \n 1510  - 1510nm  01 - 1mm  10 - 10%  S1 - SMF-28e  05 - 0.5m  NE - None\n 1530  - 1530nm  05 - 5mm  90 - 90%  GD - G652D  08 - 0.8m  FA - FC/APC\n 1550  - 1550nm  10 - 10mm  SS - Specify  GA - G657A  10 - 1.0m  FU - FC/UPC\n 1570  - 1570nm  20 - 20mm  GB - G657B  15 - 1.5m  SA - SC/APC\n SSSS  - Specify  SS - Specify  SS - Specify  20 - 2.0m  SU - SU/APC\n SS - Specify  LA - LC/APC\n LU - LC/UPC\n SS - Specify\nsales@seagnol.com Page 1 of 1Package Dimension\n SPAFBG- WWWW-GG-RR-FF-LL-CCCoating Polyimide\nOperating Temperature -40~300\nStorage Temperature -40~300Min. Tensile Strength 100\nFiber Type SMF-28e Fiber or specifyMin. SMSR 15\nGrating Regions Length 2, 3, 4, 5, 6, 8, 10, 15 or specifyMin. Reflectivity 90\nMax. 3dB Bandwidth 0.5Center Wavelength 1510-1590\nTolerance ± 0.5Parameter Value       www.seagnol.com\n1550nm SM Polyimide Coated Apodized FBG\n      1550nm SM Polyimide Coated Apodized FBG is special designed for application applied in high temperature environment\nby polyimide coated on the FBG, the operating can be up to 300 ℃, it's widely used in fiber optic sensor in temperature field,\nthe parameter can be customized upon request.\nFiber Optic Sensor\nDTS System\nWavelength Filter\nLab And ResearchLow Insertion Loss\nHigh Temperature\nReflectivity Optional\nHigh Realibility & Stability\nGrating Region Length\n           \n"}]
+!==============================================================================!
+### Component Summary for SAFBG-1550-02-99.9-S2-20-NE
+
+#### Key Specifications:
+- **Wavelength (λ)**: 1550 nm
+- **Grating Regions Length**: Customizable (options include 1mm, 5mm, 10mm, etc.)
+- **Reflectivity**: Customizable (options include 10%, 90%, etc.)
+- **Operating Temperature Range**: -40°C to 300°C
+- **Storage Temperature Range**: -40°C to 300°C
+- **Min. Tensile Strength**: 100 kpsi
+- **Min. SMSR (Spurious Mode Suppression Ratio)**: 15 dB
+- **Max. 3dB Bandwidth**: 0.5 nm
+- **Coating**: Polyimide
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The SAFBG-1550-02-99.9-S2-20-NE is a **1550 nm Single-Mode Polyimide Coated Apodized Fiber Bragg Grating (FBG)**. This component is specifically designed for high-temperature applications, capable of operating at temperatures up to 300°C due to its polyimide coating. The FBG is utilized to reflect specific wavelengths of light while allowing others to pass, making it essential for various optical applications.
+
+#### Typical Applications:
+- **Fiber Optic Sensors**: Used in temperature sensing applications where high reliability and stability are required.
+- **Distributed Temperature Sensing (DTS) Systems**: Ideal for monitoring temperature over long distances in various environments.
+- **Wavelength Filters**: Employed in optical systems to filter out specific wavelengths.
+- **Laboratory and Research**: Useful in experimental setups requiring precise wavelength control and high-temperature resilience.
+
+This component is particularly valuable in industries where temperature monitoring and control are critical, such as in aerospace, automotive, and industrial processes. The ability to customize parameters like grating length and reflectivity further enhances its versatility for specific applications.

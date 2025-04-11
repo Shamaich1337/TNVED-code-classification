@@ -1,0 +1,48 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FL-COC11-10-808 production of FOCUSLIGHT TECHNOLOGIES INC. from the text:     Notice: Focuslight keep improving its products to provide our customers with outstanding quality and reliability. We may make changes to specifications and product descriptions at any \ntime, without notice. In addition, we offer a limited warranty to ensure customer satisfaction. For complete details, please cont act our sales representative.\nSingle Emitter Diode Laser (CW)\nCOC 11\nFeatures\n\uf06c AuSn bonding\n\uf06c Copper -clad plate \ndesign\n\uf06c Harsh environment use\uf06c High brightness\n\uf06c High reliability\nApplications\n\uf06c Pumping\n\uf06c Scientific research\n\uf06c Medical\uf06c Illumination\n\uf06c Industry\nDevice Dimension (mm)\nThis structure drawing isonly forreference. Foranyother special requirement, please feel free tocontact us.\n     Notice: Focuslight keep improving its products to provide our customers with outstanding quality and reliability. We may make changes to specifications and product descriptions at any \ntime, without notice. In addition, we offer a limited warranty to ensure customer satisfaction. For complete details, please cont act our sales representative.\nSpecification\nModule Type 1UnitsFL-COC1 1 -\n1 0-808FL-COC1 1 -\n1 2-91 5FL-COC1 1 -\n1 2-940FL-COC1 1 -\n1 2-976\nOptical 2\nCenter Wavelength λ nm 808 91 5 940 976\nWavelength Tolerance nm ±3 ±5 ±5 ±5\nOutput Power 3W 10 12 12 12\nEmitter Width um 200 1 00 1 00 1 00\nSpectral Width FWHM nm ≤3 ≤4.2 ≤4.5 ≤4.5\nSpectral Width FW90%E nm ≤5 ≤6 ≤7 ≤7\nFast Axis Divergence( FWHM) 4degree ~30 ~30 ~30 ~30\nSlow Axis Divergence (FWHM) degree ~8 ~8 ~8 ~8\nPolarization Mode - TE/TM TE TE TE\nWavelength Temp. Coefficient nm/℃ ~0.28 ~0.32 ~0.33 ~0.34\nElectrical Parameters 2\nOperating Current I op A ≤11.8 ≤13 ≤13 ≤13\nThreshold Current I th A ≤1.8 ≤0.8 ≤0.8 ≤0.8\nOperating Voltage V op V ≤2.2 ≤2 ≤2 ≤2\nSlope Efficiency W/A ≥1 ≥1.0 ≥1.0 ≥1.0\nPower Conversion Efficiency % ≥44 ≥50 ≥50 ≥50\nThermal Parameters\nOperating Temperature ℃ 1 5~30 1 5~30 1 5~30 1 5~30\nStorage Temperature 5℃ -40~55 -40~55 -40~55 -40~55\nRecommended Heatsink Capacity W ≥20 ≥24 ≥24 ≥24\n1FL(abbreviation of Focuslig ht) –COC 11(structure code) -10(output power) -808(center wavelength) .\n2Data at 25° C temperature, unless otherwise stated.\n3Lifetime reduced if overused under nominal operating condition .\n4Free fast axis.\n5A non -condensing environment is required for storage and operation below ambient dew point .\nForanyother special requi rement s,please feel free tocontact us.\nFocuslight Technologies Inc.\nAdd: 56 Zhangba 6thRoad, High -Tech Zone \nAdd: Xi’an, Shaanxi 710077, P. R. China\nTel: +86 29 8956 0050\nFax: +86 29 8177 5810\nEmail: sales@focu slight.com\nWebsite: www.focuslight.com\nCopyright ©201 9Focuslight. All rights reservedDANGE R !VISIBLE AND INVISIBLE LASER RADIATION.\nAVOID EYE OR SKIN EXPOSURE TO\nDIRECT OR SCATT ERED RADIATION!\nclass IV laser produc t\n'}]
+!==============================================================================!
+### Component Summary: FL-COC11-10-808
+
+**Component Type:**  
+Single Emitter Diode Laser (Continuous Wave - CW)
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Operating Voltage (V_op): ≤2.2 V
+
+- **Current Ratings:**
+  - Operating Current (I_op): ≤11.8 A
+  - Threshold Current (I_th): ≤1.8 A
+
+- **Power Consumption:**
+  - Output Power: 10 W
+  - Slope Efficiency: ≥1 W/A
+  - Power Conversion Efficiency: ≥44%
+
+- **Operating Temperature Range:**
+  - Operating Temperature: 15°C to 30°C
+  - Storage Temperature: -40°C to 55°C
+
+- **Package Type:**  
+  Not explicitly mentioned, but features a copper-clad plate design suitable for harsh environments.
+
+- **Special Features or Notes:**
+  - High brightness and high reliability
+  - AuSn bonding technology
+  - Designed for harsh environments
+  - Non-condensing environment required for operation below ambient dew point
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**  
+  Not specified in the provided text.
+
+**Description:**
+The FL-COC11-10-808 is a high-performance single emitter diode laser designed for continuous wave operation. It operates at a center wavelength of 808 nm and is characterized by its high output power and efficiency. The laser is constructed with advanced bonding techniques and materials to ensure reliability in demanding applications.
+
+**Typical Applications:**
+- **Pumping:** Used in laser pumping applications, particularly for solid-state lasers.
+- **Scientific Research:** Ideal for laboratory settings where precise laser output is required.
+- **Medical:** Utilized in various medical devices and procedures, including laser therapies.
+- **Illumination:** Can be employed in specialized lighting applications.
+- **Industry:** Suitable for industrial applications requiring high-intensity laser sources.
+
+This diode laser is particularly well-suited for applications that demand high reliability and performance in challenging environments, making it a versatile choice for various sectors.

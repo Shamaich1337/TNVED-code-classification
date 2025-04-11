@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TX-3535B3FC120-OGVCND34-03F production of GUANGZHOU TIANXIN PHOTOELECTRIC CO., LTD from the text:http://www.txled.cn Version:1.0PartNo.TX-3535B3FC120-OGVCND34-03F SpecNo.WKF-BE0154Page1of9TX-3535B3FC120-OGVCND34-03F\nPRODUCTSPECIFICATION\nFeatures:\n◆ExcellenttransitingheatfromLEDchipoperatingunder1000mA.\n◆Highluminousoutput.\n◆NoUV.\n◆Encapsulatedmaterialsareenvironmentallycertifiedandmeetenvironmentalrequirements.\nChipMaterial: EmittingColor: Applications:\n◆GaN ◆Blue ◆PortableFlashlight\n◆Gardenlighting\n◆GeneralLighting\nhttp://www.txled.cn Version:1.0PartNo.TX-3535B3FC120-OGVCND34-03F SpecNo.WKF-BE0154Page2of9PackageDimensions:\n3.45±0.15\n3.45±0.15Φ2.75±0.05\n0.6±0.1\n1.95±0.15MARK 0.38\n3.25±0.05\n0.475±0.030.51.3\n3.25±0.05\nTopview Sideview Bottomview\n0.5\n1.3\n2.25\n3.25\n3.85\n0.8\n3.25\n3.85\n1.01\n2.25\n3.25\n0.75 0.25\n3.25\nRecommendedsolderpad Recommendedstencilpattern\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesunlessotherwisementionedare±0.1mm.\nhttp://www.txled.cn Version:1.0PartNo.TX-3535B3FC120-OGVCND34-03F SpecNo.WKF-BE0154Page3of9AbsoluteMaximumRatings(Tc=25℃)\nNotes:\n1.Specificationsaresubjecttochangewithoutnotice.\n2.Thedataonthisspecificationisforreferenceonlyandtheactualdataisinaccordancewiththe\nacknowledgment.\n3.PrecautionsforESD:\nSTATICSHIELDElectricityandsurgedamagestheLED.Itisrecommendedtouseawristbandor\nanti-electrostaticglovewhenhandlingtheLED.Alldevices,equipmentandmachinerymustbeproperly\ngrounded.Parameter Symbol Ratings Unit\nForwardCurrent IF 1000 mA\nReverseVoltage VR 5 V\nPowerDissipation PD 3600 mW\nJunctionTemperature Tj 150 ℃\nElectrostaticDischargeThreshold(ESD) ESD ESDsensitivedevice V\nStorageTemperature Tstg -40~+70\n℃\nOperationTemperature Topr -30~+100\nhttp://www.txled.cn Version:1.0PartNo.TX-3535B3FC120-OGVCND34-03F SpecNo.WKF-BE0154Page4of9ElectricalOpticalCharacteristics(Tc=25°C)\nNotes:\n1.LuminousintensityismeasuredwithalightsensorandfiltercombinationthatapproximatestheCIE\neye-responsecurve.\n2.θ1/2istheoff-axisangleatwhichtheluminousintensityishalftheaxialluminousintensity.\n3.Luminousfluxmeasurementtolerance:±15%.\n4.Forwardvoltagemeasurementtolerance:±0.15V.Parameter SymbolConditionMin. Typ. Max. Units\nLuminousFlux φv\nIf=350mA15 22 — lm\nForwardVoltage Vf 2.8 3.2 3.6 V\nPeakEmissionWavelength λp 450 452.5 455 nm\nDominantWavelength λd 450 455 460 nm\nSpectralLineHalf-Width△λ 15 20 25 nm\nViewingAngleat50﹪IV 2θ1/2 — 120 — Deg\nReverseCurrent IR\n—— — 2 µA\nThermalResistanceJunction\ntoCaseRθJ-C — 6.4 — K/W\nTemperatureCoefficientof\nVoltageV△F/T If=350mA — -2 — mV/℃\nhttp://www.txled.cn Version:1.0PartNo.TX-3535B3FC120-OGVCND34-03F SpecNo.WKF-BE0154Page5of9TypicalElectrical/OpticalCharacteristicsCurves\n(25℃AmbientTemperatureUnlessOtherwiseNoted)\nForward Current  VS. Forward Voltage\nForward Current  If (mA)2.62.83.03.23.43.6\n0 100 200 300 400 500Forward Voltage Vf(V)\n0100 200 300 400 500510152025Forward Current VS.Luminous flux\nForward Current  If (mA)Luminous flux(Lm)\nhttp://www.txled.cn Version:1.0PartNo.TX-3535B3FC120-OGVCND34-03F SpecNo.WKF-BE0154Page6of9Temperature  VS. Forward Voltage (IF=350mA)Forward voltage  Vf (V)\n25 45 65 85 105 125\nTemperature (℃)2.62.83.03.23.4\nTemperature  VS.  Relative Luminous Flux (IF=350mA)Relative Luminous Flux (%)\n020406080100\n25 45 65 85 105 125\nTemperature (℃)\nhttp://www.txled.cn Version:1.0PartNo.TX-3535B3FC120-OGVCND34-03F SpecNo.WKF-BE0154Page7of9380.0 420.0 460.0 500.0 540.0 580.0 620.0 660.0 700.0 740.0 780.0\nWavelength (nm)0.0000.1000.2000.3000.4000.5000.6000.7000.8000.9001.0001.100Relative Spectral DistributionSpectrum\n-60°\n0.8-90°\n1.0 0.60.4-30°\n60°\n0.6 0.2 0.2 0.4 0.81.090°0°\n30°Beam Pattern\nRelative intensity (LOP@ MAX=1)\nNotes:\n1.2θ1/2istheoffaxisanglefromlampcenterlinewheretheluminousintensityis1/2ofthepeakvalue.\n2.Viewangletoleranceis±5°.\nhttp://www.txled.cn Version:1.0PartNo.TX-3535B3FC120-OGVCND34-03F SpecNo.WKF-BE0154Page8of9UsagePrecautions\nStorageEnvironmentCondition\nTemperature:5℃~30℃(41℉~86℉)\nHumidity:60%RHMax.\nSolderingCondition\nUsetheconditionsshowntotheunderfigure.\nt\ntLP\nt 25℃ to Peak\nTimets PreheatTSminTSmaxRamp-UPCritical Zone\nT  to TP L\nRamp-downT\nTP\nL\n25Temperature\nProfileFeature Lead-BasedSolder\nAverageRamp-UpRate(TsmaxtoTp) 3℃/secondmax.\nPreheat:TemperatureMin(Tsmin) 100℃\nPreheat:TemperatureMax(Tsmax) 150℃\nPreheat:Time(TsmintoTsmax) 60-120seconds\nTimeMaintainedAbove:Temperature(TL) 183℃\nTimeMaintainedAbove:Time(TL) 60-150seconds\nPeak/ClassificationTemperature(TP) 225℃\nTimeWithin5℃ofActualPeakTemperature(TP) 10-30seconds\nRamp-DownRate 6℃/secondmax.\nTime25℃toPeakTemperature 6minutesmax.\nNote:\nAlltemperaturesrefertotopsideofthepackage,measuredonthepackagebodysurface.\nhttp://www.txled.cn Version:1.0PartNo.TX-3535B3FC120-OGVCND34-03F SpecNo.WKF-BE0154Page9of9DimensionsForCannulationAndPackaging\nQuantity:1000PCS12\n4.3\n3.7\n3.7\n4.384Φ1.5\nPrinted label\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesare±2.0mmunlessotherwisenoted.\n3.Theproductsarepackagedtogetherwithsilicagel,Transport,nottotheweightofweldingLED\nlight-emittingarea,AsaresultoftheweightofLEDlight-emittingzoneinthequalityof,Irresponsibleofthe\nCompany.\n'}]
+!==============================================================================!
+### Component Summary: TX-3535B3FC120-OGVCND34-03F
+
+**Manufacturer:** Guangzhou Tianxin Photoelectric Co., Ltd  
+**Product Type:** LED (Light Emitting Diode)  
+**Primary Function:** The TX-3535B3FC120-OGVCND34-03F is a blue LED designed for high luminous output and efficient heat dissipation, suitable for various lighting applications.
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (Vf): 2.8 - 3.6 V (typical 3.2 V at 350 mA)
+  - Reverse Voltage (VR): 5 V
+
+- **Current Ratings:**
+  - Forward Current (IF): 1000 mA (maximum)
+  - Reverse Current (IR): 2 µA (maximum)
+
+- **Power Consumption:**
+  - Power Dissipation (PD): 3600 mW
+
+- **Operating Temperature Range:**
+  - Storage Temperature (Tstg): -40 to +70 °C
+  - Operating Temperature (Topr): -30 to +100 °C
+  - Junction Temperature (Tj): 150 °C (maximum)
+
+- **Package Type:**
+  - Dimensions: 3.45 mm x 3.45 mm x 0.6 mm (with specific tolerances)
+
+- **Special Features:**
+  - Excellent heat dissipation under high current (up to 1000 mA)
+  - High luminous output with no UV emissions
+  - Environmentally certified encapsulated materials
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data, but typically assessed according to JEDEC J-STD-020E.
+
+#### Description:
+The TX-3535B3FC120-OGVCND34-03F is a high-performance blue LED that utilizes Gallium Nitride (GaN) as the chip material. It is designed to provide high luminous intensity while effectively managing heat, making it suitable for applications that require bright and efficient lighting solutions.
+
+#### Typical Applications:
+- **Portable Flashlights:** Ideal for compact lighting solutions that require high brightness.
+- **Garden Lighting:** Suitable for outdoor lighting applications where durability and brightness are essential.
+- **General Lighting:** Can be used in various general lighting applications, including residential and commercial settings.
+
+This LED is particularly advantageous in scenarios where high luminous output and thermal management are critical, ensuring longevity and reliability in its applications.

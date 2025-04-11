@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-WiFi-SMA-198 production of MG ANTENNAS from the text:MACRO GROU P    E-mail: wireless@macrogroup. ru    Tel: +7 (812) 3 70 60 70  \n \n \nDATASHEET    \nMMMGGG---WWWiiiFFFiii---SSSMMMAAA---111999888   \nType  Wi-Fi antenna  \nFrequencies  2.4/5.8 GHz \nBrand Name  MG ANTENNAS  \n \n \n \nRevision #  Content  Page  Date  \n0 First, document  - 11.10.2022 \n \n1. SPECIFICATION  \n1.1 Electrical Specifications  \n                                                                        \n 1.2 Mechanical specification s \nCable  (type and length )  - \nConnector  SMA  male  \nHousing  Color  Black   (White) \nMounting  Telematic Mount  \nDimensions  H198.7*27.3*13 mm \nWeight  ~20g \n   \n1.3 Enviro nmental specifications  \n \n \n \n \n \n \n \n \n \n Frequency  2.4/5.8 GHz \nPolari zatio n Linear  \nGain  3dBi for 2.4  GHz    / 4dBi for 5.8  GHz   \nMax p ower  10W \nVSWR  2 :1 \nImpedance  50 Ω \nRadiation  Omnidirectional  \nOperating  and storage  \nTemperature , ℃ -45 ~ +85 \nHumidity, %  0 ~ 95  \n \nE-mail: wireless@macrogroup.ru     Tel: +7 (812) 370 60 70  2. DIMENSIONS  \n \n \n \n \n1. Black plastic male with needle outer diameter 13mm, to match RF316 cable   hole \n2. Black fix ring with press riveting 25mm long  \n3. RF 316 silver thread , length 80mm, strip end 5x1.6 -1.4 (core), stripped end 2 -2-2 \n4. Antenna Enclosure 198.7x27.3mm   integration sleeve rod, press reviting hole   \n5. Passive PCB board 2.4/5.8G 105x15x0.8mm  \n6. Adhesive foam 25x6x15.mm (for 5dbi BNC rubber stick antenna)  \n7. Single side adhesive paper + printing Wifi Antena   30x10mm  \n \n'}]
+!==============================================================================!
+### Component Summary: MG-WiFi-SMA-198
+
+#### Key Specifications:
+- **Type**: Wi-Fi Antenna
+- **Frequencies**: 2.4 GHz and 5.8 GHz
+- **Gain**: 
+  - 3 dBi at 2.4 GHz
+  - 4 dBi at 5.8 GHz
+- **Max Power**: 10 W
+- **Voltage Ratings**: Not specified (typically not applicable for antennas)
+- **Current Ratings**: Not specified (typically not applicable for antennas)
+- **Power Consumption**: Not applicable (passive component)
+- **Operating Temperature Range**: -45°C to +85°C
+- **Humidity Range**: 0% to 95% RH
+- **VSWR (Voltage Standing Wave Ratio)**: 2:1
+- **Impedance**: 50 Ω
+- **Radiation Pattern**: Omnidirectional
+- **Connector Type**: SMA Male
+- **Dimensions**: 198.7 mm (H) x 27.3 mm (W) x 13 mm (D)
+- **Weight**: Approximately 20 g
+- **Moisture Sensitive Level**: Not specified in the provided data.
+
+#### Description:
+The MG-WiFi-SMA-198 is a Wi-Fi antenna designed for wireless communication applications. It operates at dual frequencies of 2.4 GHz and 5.8 GHz, making it suitable for various Wi-Fi standards. The antenna features a linear polarization and provides a gain of 3 dBi at 2.4 GHz and 4 dBi at 5.8 GHz, which enhances the signal strength and range of wireless devices.
+
+#### Typical Applications:
+The MG-WiFi-SMA-198 antenna is typically used in:
+- **Wireless Networking**: Enhancing the performance of Wi-Fi routers and access points.
+- **Telematics**: Used in vehicles for communication and data transfer.
+- **IoT Devices**: Providing connectivity for Internet of Things applications.
+- **Consumer Electronics**: Improving wireless connectivity in devices such as laptops, tablets, and smart home devices.
+
+This antenna is particularly useful in environments where reliable wireless communication is essential, and its robust design allows it to operate effectively across a wide temperature range and varying humidity levels.

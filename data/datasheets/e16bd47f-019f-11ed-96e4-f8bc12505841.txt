@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SMC-006-SMPPBK0-95/R production of E-TEC from the text:C1 VCC\nC2 RST\nC3 CLK\nC5 GND\nC6 VPP\nC7 I/O\nA New 07.01.2020 Cheng\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2021 © - all  rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.15Cheng\nCheng\nFagi07.01.2020\n04.02.2021\n04.02.2021SMC-006-SMPPBK0\nSMC-006-SMPPBK0-xx/X2/2\nB3.10 ±0.25\n1.88 18.81\n2.05 ±0.10\n20.00 ±0.2528.07 ±0.25 25.20 ±0.1015.20\nRoHS\ncompliant\nSIM Card Tray Slot\nfor SIM Card Connector\nSMC-006-SMPPBK0-xx/XB Remove plating option "96" 04.02.2021 Cherry\n'}]
+!==============================================================================!
+### Component Summary for SMC-006-SMPPBK0-95/R
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, SIM card connectors operate within standard voltage levels for communication (usually around 3.3V).
+- **Current Ratings**: Not specified; however, SIM card connectors generally handle low current levels, typically in the range of milliamps.
+- **Power Consumption**: Not provided; power consumption is generally low for SIM card connectors.
+- **Operating Temperature Range**: Not specified; typical operating ranges for electronic components like SIM card connectors are usually from -40°C to +85°C.
+- **Package Type**: The component is a SIM card tray slot designed for a SIM card connector.
+- **Special Features or Notes**: 
+  - RoHS compliant, indicating it meets environmental standards for hazardous substances.
+  - The drawing includes dimensions and tolerances for manufacturing.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The SMC-006-SMPPBK0-95/R is a SIM card tray slot designed for use with SIM card connectors. Its primary function is to securely hold a SIM card in place while providing electrical connections to the card for communication with a host device, such as a mobile phone or IoT device.
+
+#### Typical Applications:
+- **Mobile Devices**: Used in smartphones and tablets to connect to cellular networks.
+- **IoT Devices**: Integrated into various Internet of Things applications that require cellular connectivity.
+- **Embedded Systems**: Utilized in embedded systems that require mobile communication capabilities.
+- **Telecommunications Equipment**: Found in devices that need to interface with SIM cards for network access.
+
+This component is essential for enabling mobile connectivity in a wide range of electronic devices, ensuring reliable communication and data transfer.

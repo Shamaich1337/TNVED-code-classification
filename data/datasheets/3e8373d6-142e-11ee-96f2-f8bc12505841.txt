@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 09455511000 production of HARTING from the text:Лист технических данных продукта\n09 45 551 1000\nPP-V4-PCB-SMT-MDP-20P-J-M-ANG-SHLD\nPP-V4-PCB-SMT-MDP-20P-J-M-ANG-SHLD\nИзображение приведено только для иллюстрации. Смотрите описание изделия.Номер детали 09 45 551 1000\nСпецификацияPP-V4-PCB-SMT-MDP-20P-J-M-ANG-\nSHLD\nHARTING eCatalogue\n- Информация о\nпродукцииhttps://b2b.harting.com/09455511000\nВерсия\nМетод подключения Соединение методом пайки оплавлением припоя (SMT)\nЭкранирование Полное экранирование, 360° экранирование контакта\nЧисло контактов 20\nТехнические характеристики\nНоминальный ток 0.5\xa0A\nНоминальное напряжение 30\xa0V\nХарактеристики передачи сигналов DisplayPort 1.3 standard\nПредельная температура -40\xa0...\xa0+85\xa0°C\nЦиклы стыковки ≥10,000\nКласс защиты согласно IEC 60529IP20\nIP65\xa0присоединенное состояние\nIP67\xa0присоединенное состояние\nСвойства материала\nПоверхность (контакты) позолоченные\xa0Сторона соединения\nТолщина слоя ≥1\xa0µm\nМатериал (кабельный/блочный кожух) Полиамид (ПА)\nЦвет (кабельный/блочный кожух) Черный\nRoHS совместим\nСостояние ВЭА совместим\nChina RoHS e\nЖидкости из приложения XVII к предписанию\nREACHНе содержится\nСтр.\xa0 1\xa0/\xa02 | Дата создания\xa02023-02-28 | Примечание: указанные здесь данные являются выдержками из онлайн-каталога. Полная и\nактуальная информация и данные приведены в документации пользователя. Обращаем ваше внимание на то, что пользователь несёт\nответственность за проверку функциональности, соответствия действующим законам и директивам, а также за электрическую безопасность\nв конкретном случае применения.\nHARTING Stiftung & Co. KG | Marienwerderstr. 3 | 32339 Espelkamp | Germany\nЛист технических данных продукта\n09 45 551 1000\nPP-V4-PCB-SMT-MDP-20P-J-M-ANG-SHLD\nСвойства материала\nЖидкости из приложения XIV к предписанию\nREACHНе содержится\nОсобо опасные жидкости предписания\nREACHНе содержится\nСпецификации и допуски\nСпецификации IEC 61076-3-106\xa0Вариант 4 (V4)\nКоммерческие данные\nРазмер упаковки 400\nВес нетто 2.6\xa0g\nСтрана изготовления Тайвань\nкод ТН ВЭД ЕС 85366990\nGTIN 5713140223639\nСтр.\xa0 2\xa0/\xa02 | Дата создания\xa02023-02-28 | Примечание: указанные здесь данные являются выдержками из онлайн-каталога. Полная и\nактуальная информация и данные приведены в документации пользователя. Обращаем ваше внимание на то, что пользователь несёт\nответственность за проверку функциональности, соответствия действующим законам и директивам, а также за электрическую безопасность\nв конкретном случае применения.\nHARTING Stiftung & Co. KG | Marienwerderstr. 3 | 32339 Espelkamp | Germany\n'}]
+!==============================================================================!
+### Component Summary for HARTING Product Code 09455511000
+
+**Component Description:**
+The HARTING product with the code 09455511000 is a **20-pin angled shielded connector** designed for surface mount technology (SMT) applications. It is compliant with the DisplayPort 1.3 standard, making it suitable for high-speed data transmission in various electronic devices.
+
+**Key Specifications:**
+- **Voltage Rating:** 30 V
+- **Current Rating:** 0.5 A
+- **Power Consumption:** Not specified directly; however, the current rating indicates low power consumption typical for signal connectors.
+- **Operating Temperature Range:** -40 °C to +85 °C
+- **Package Type:** SMT (Surface Mount Technology)
+- **Number of Contacts:** 20
+- **Special Features:**
+  - Full 360° shielding for enhanced signal integrity.
+  - High mating cycles: ≥10,000 cycles.
+  - Protection classes: 
+    - IP20 (unmated)
+    - IP65 (mated)
+    - IP67 (mated)
+- **Moisture Sensitive Level (MSL):** Not specified, but the component is RoHS compliant and free from hazardous substances as per REACH regulations.
+
+**Material Properties:**
+- **Contact Surface:** Gold-plated with a thickness of ≥1 µm.
+- **Housing Material:** Polyamide (PA), colored black.
+
+**Typical Applications:**
+This connector is typically used in applications requiring reliable data transmission, such as:
+- **Consumer Electronics:** Connecting displays and multimedia devices.
+- **Industrial Automation:** For signal transmission in control systems.
+- **Telecommunications:** In networking equipment for data transfer.
+- **Embedded Systems:** In various electronic devices where space-saving and high-performance connections are needed.
+
+This component is ideal for environments where durability and resistance to environmental factors are critical, making it suitable for both commercial and industrial applications.

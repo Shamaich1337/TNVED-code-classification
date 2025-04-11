@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HT1040BI01A production of RAYSTAR OPTRONICS from the text: \nPage 1 , Total 5  Pages    \n\n \nPage 2 , Total 5  Pages  曜凌光電股份有限公司  \nRaystar Optronics, Inc.  \nT: +886-4-2565-0761  |  F: +886-4-2565-0760  \n               sales@raystar-optronics.com  |  www.raystar-optroni cs.com          \n        \n \n \nRFM1040G-AWW -LNN  \n \nSPECIFICATION  \n \nGeneral Specifications \n \n\x01 Size: 10.4 inch  \n\x01 Dot Matrix: 1024 x RGB x 768 (TFT) dots  \n\x01 Module dimension: 230 x 180.2 x 12.4 mm  \n\x01 Active area: 210.432 x 157.824 mm  \n\x01 Pixel pitch: 0.2055 X 0.2055 mm  \n\x01 LCD type: TFT, Normally Black, Transmissive  \n\x01 Viewing Angle: 80/80/80/80 min  \n\x01 Aspect Ratio: 4:3  \n\x01 TFT Interface: LVDS  \n\x01 Backlight Type: LED ,Normally White  \n\x01 Touch Panel: Without Touch Panel  \n\x01 Surface: Anti-Glare  \n*Color tone slight changed by temperature and drivi ng voltage.  \n\n \nPage 3 , Total 5  Pages  Interface \n1. LCM PIN Definition (CON1) \nPin Symbol Function \n1-2 VDD Power supply: + 3.3V \n3-4 GND Ground \n5 Link0- 0- LVDS differential data input   \n6 Link0+ 0+ LVDS differential data input  \n7 GND Ground \n8 Link1- 1- LVDS differential data input \n9 Link1+ 1+ LVDS differential data input \n10 GND Ground \n11 Link2- 2- LVDS differential data input   \n12 Link2+ 2+ LVDS differential data input \n13 GND Ground \n14 CLKIN- - LVDS differential clock input \n15 CLKIN+ + LVDS differential clock input \n16 GND Ground \n17 Link3- 3- LVDS differential data input \n18 Link3+ 3+ LVDS differential data input   \n19 MODE Bit 6:High(6 Bit);Low(8 Bit) \n20 SC Scan direction selector (Low: Normal ;High: R everse) \n2. CON2 \nPin Symbol Function \n1-2 VLED 12V  12V input \n3-4 GND Ground \n5 BLEN Backlight ON-OFF \n6 LED PWM  Light  Dimming Control (PWM) Input Voltage \n(Low active) \n \n \nPage 4 , Total 5  Pages  Contour Drawing  \n230 (BZ OD) 180.2 (BZ OD) 215.4±0.2 (BZ OPEN) 161.8±0.2 (BZ OPEN) 7.3±0.3 8.5±0.3 214.4±0.2 (POL) 160.8±0.2 (POL) 7.8 954.3 \n(31.9) 22.4 \n4-M3 \nDP=2.2mm MAX \nscrew penetration 115 (115) (90.8) 89.4 210.432 (TFT AA) 9.78 157.824 (TFT AA) 10.49 RGB\n1024xRGBx768 Pull \ntape 6.4 \n5.5 \n11.8 \n12.4 54.3 \n(22.4) \n49.7 82.2 \nFI-S6P-HFE \nor equivalent CON2 \n6 1CON1 \n20 1\nFI-SEB20P-HFE \nor equivalent 2-5.5 \n4-R1 \n(41.1) (59.1) (24.5) \n(24.95) \nThe non-specified tolerance of dimension is ±0.5 mm  . SC GND GND \nCLKIN- Link 2- \nLink 2+ \nLink 1+ \nGND Link 1- GND \nLink 0- \nLink 0+ GND VDD \nVDD \nGND \nLink 3+ Link 3- CLKIN+ \nMODE \n20 19 15 \n17 \n18 16 21\n4\n653\n8\n10 912 11 \n14 13 \n7CON1 \nGND \nBLEN \nLED PWM GND VLED 12V \nVLED 12V 21\n4\n653CON2 \nA A\nSECTION A-A \nSCALE: 2/1 2.80 \n0.50 \n2.20 5-M2 4-M2 \n \n \nPage 5 , Total 5  Pages  Absolute Maximum Ratings  \nItem  Symbol  Min  Typ  Max  Unit  \nOperating Temperature  TOP  -30  － +80  ℃ \nStorage Temperature  TST  -30  － +80  ℃ \n \nElectrical Characteristics \n \n1. Operating conditions \nItem Symbol Standard Value \nUnit \nMin Typ Max \nPower voltage V DD  3.0 3.3 3.6 V \nInput logic high voltage V IH  0.7 V DD  - V DD  V \nInput logic low voltage V IL  0 - 0.3 V DD  V \nCurrent for Power I VDD   385 424 mA \n \n \n2. LED driving conditions \nParameter  Symbol  Min.  Typ.  Max.  Unit  \nBacklight Enable(BLEN)  High Level  1.3  3.3  - V \nLow Level  - 0.8  1.0  V \nPWM Control Level  \n(PWM)  High Level  - 3.3  - V \nLow Level  - 0 - V \nPWM Control Duty Ratio  - 0 - 100  % \nPWM Control Frequency  - - 10K  - Hz  \nLED Life Time  - - 100,000 - Hr  \n \n'}]
+!==============================================================================!
+### Component Summary: HT1040BI01A (Raystar Optronics)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Power Supply Voltage (VDD): 3.0V to 3.6V (typical 3.3V)
+  - Backlight Voltage (VLED): 12V
+
+- **Current Ratings:**
+  - Power Supply Current (IVDD): 385 mA (typical) to 424 mA (max)
+  
+- **Power Consumption:**
+  - Power consumption is primarily determined by the current draw at the operating voltage, with a typical value of 424 mA at 3.3V.
+
+- **Operating Temperature Range:**
+  - Operating Temperature (TOP): -30°C to +80°C
+  - Storage Temperature (TST): -30°C to +80°C
+
+- **Package Type:**
+  - Module dimensions: 230 mm x 180.2 mm x 12.4 mm
+  - Active area: 210.432 mm x 157.824 mm
+
+- **Special Features or Notes:**
+  - TFT LCD type: Normally Black, Transmissive
+  - Viewing Angle: 80° in all directions (min)
+  - Backlight Type: LED, Normally White
+  - Surface: Anti-Glare
+  - No touch panel included
+  - LED lifetime: 100,000 hours
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+#### Component Description:
+The HT1040BI01A is a 10.4-inch TFT (Thin Film Transistor) LCD display module designed for various electronic applications. It features a resolution of 1024 x 768 pixels and utilizes an LVDS (Low-Voltage Differential Signaling) interface for data transmission. The display is characterized by its normally black transmissive technology, which provides good visibility under various lighting conditions.
+
+#### Typical Applications:
+This component is typically used in:
+- **Industrial Equipment:** For operator interfaces and control panels.
+- **Medical Devices:** In diagnostic and monitoring equipment where clear visual output is essential.
+- **Consumer Electronics:** Such as portable devices and gaming consoles.
+- **Automotive Displays:** For dashboard instrumentation and infotainment systems.
+- **Point of Sale Systems:** For user interaction and transaction displays.
+
+The HT1040BI01A is suitable for applications requiring a reliable and high-quality visual output, making it a versatile choice for various electronic designs.

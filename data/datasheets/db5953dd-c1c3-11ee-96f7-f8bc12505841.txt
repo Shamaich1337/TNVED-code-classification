@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of SMFUC-1550-12-50-S2-2-B-20-NE production of SEAGNOL PHOTONICS CO., LTD from the text:Application:\nSpecification:\nSymbol Unit\nλ nm\nBW nm\nEL dB\n50/50 dB\n40/60 dB\n30/70 dB\n20/80 dB\n10/90 dB\n5/95 dB\n3/97 dB\n2/98 dB\n1/99 dB\nPDL dB\ndB\nRL dB\n-\nN\nP W\nT ℃\nT ℃\nmm\nNotice: Above specifications are tested at center wavelength without connector in room temperature @23 ℃.\n              For devices with connectors, IL will be 0.3dB higher, RL will be 5dB lower, Connectors only 1W CW optical power guarantee.\nDrawing:       www.seagnol.com\n1550nm 1x2 2x2 SM Fiber Fused Coupler\n           1550nm 1x2, 2x2 SM Fused Coupler is built with fused biconical taper (FBT) technology, optical signal power can be\nsplitted into two parts with even or various coupling ratio by the FBT Coupler, it's widely applied in fiber optic transmission\nand fiber optic sensor field, the MM and PM types are available upon request.\nFeatures:\nOptical Signal Transmission\nFiber Optic Sensor\nFiber Amplifier\nOptical Diffraction SystemLow Excess Loss\nHigh Return Loss\nLow Insertion Loss\nHigh Reliability\nParameter Value\nCenter Wavelength 1550\nBandwidth ± 10\nMin. Directivity 50Max. Excess Loss 0.1\nMax. Insertion Loss IL3.4/3.4\n4.4/2.6\n5.7/1.9\n7.6/1.25\n10.65/0.65\n13.8/0.4\n16.15/0.3\n18.05/0.25\n21.15/0.2\nMax. Polarization Dependent Loss 0.1\nMin. Return Loss 50\nFiber Type SMF-28e fiber\nMax. Tensil Load 5\nMax. Optical Power (CW) 2\nOperating Temperature -40~75\nStorage Temperature -40~85\nPackage DimensionΦ3.0xL40 for Bare Fiber\nΦ3.0xL54 for Bare Fiber or 900um Loose Tube\n90x20x10 for 2.0 or 3.0mm Loose Tube\n100x80x10 for 2.0 or 3.0mm Loose Tube\nL\nL\n                    sales@seagnol.com Page 1 of 2                   \nOrdering Information (Part Number):\n WWWW  RR  FF  D  J  CC\n Wavelength Coupling\n Ratio Fiber Type  Package Dimension  Fiber Jacket  Fiber Length  Connector\n 1310  - 1310nm  01 - 1/99  S2 - SMF-28e  1 - Φ3.0x40mm  B - 250um Bare Fiber  05 - 0.5m  NE - None\n 1480  - 1480nm  02 - 2/98  SS - Specify  2 - Φ3.0x54mm  9 - 900um Loose  FA - FC/APC\n 1550  - 1550nm  03 - 3/97  3 - 90x20x10mm       Tube  FU - FC/UPC\n 1570  - 1570nm  05 - 5/95  4 - 100x80x10mm  2 - 2.0mm Loose  20 - 2.0m  SA - SC/APC\n 1590  - 1590nm  10 - 10/90       Tube  SU - SU/APC\n 1625  - 1625nm  20 - 20/80  3 - 3.0mm Loose  LA - LC/APC\n 30 - 30/70       Tube  LU - LC/UPC\n 40 - 40/60  SS - Specify\n 50 - 50/50\n SS - Specify www.seagnol.com\n SMFUC- WWWW-PP-RR-FF-D-J-LL-CC\n PP  LL\n Port\n 12 - 1x2\n 22 - 2x2  10 - 1.0m\n 15 - 1.5m\n SS - Specify\n                    sales@seagnol.com Page 2 of 2                   \n"}]
+!==============================================================================!
+### Component Summary: SMFUC-1550-12-50-S2-2-B-20-NE
+
+#### Key Specifications:
+- **Center Wavelength**: 1550 nm
+- **Bandwidth**: ± 10 nm
+- **Max Insertion Loss (IL)**: 
+  - 3.4 dB (1x2)
+  - 4.4 dB (2x2)
+  - 5.7 dB (3/97)
+  - 7.6 dB (20/80)
+  - 10.65 dB (10/90)
+  - 13.8 dB (5/95)
+  - 16.15 dB (3/97)
+  - 18.05 dB (2/98)
+  - 21.15 dB (1/99)
+- **Max Excess Loss**: 0.1 dB
+- **Min Directivity**: 50 dB
+- **Max Polarization Dependent Loss (PDL)**: 0.1 dB
+- **Min Return Loss (RL)**: 50 dB
+- **Max Optical Power (CW)**: 2 W
+- **Operating Temperature Range**: -40°C to 75°C
+- **Storage Temperature Range**: -40°C to 85°C
+- **Package Dimensions**: 
+  - Φ3.0 x L40 mm for Bare Fiber
+  - Φ3.0 x L54 mm for 900 µm Loose Tube
+  - 90 x 20 x 10 mm for 2.0 or 3.0 mm Loose Tube
+  - 100 x 80 x 10 mm for 2.0 or 3.0 mm Loose Tube
+- **Moisture Sensitive Level**: Not specified in the provided data.
+
+#### Description:
+The SMFUC-1550-12-50-S2-2-B-20-NE is a **1550 nm 1x2 Single-Mode Fiber (SMF) Fused Coupler**. It utilizes fused biconical taper (FBT) technology to split optical signal power into two parts with either even or varied coupling ratios. This component is designed for efficient optical signal transmission and is characterized by low excess loss, high return loss, and high reliability.
+
+#### Typical Applications:
+- **Fiber Optic Transmission**: Used in telecommunications to manage signal distribution.
+- **Fiber Optic Sensors**: Employed in sensing applications where light transmission is critical.
+- **Fiber Amplifiers**: Utilized in systems that require amplification of optical signals.
+- **Optical Diffraction Systems**: Applied in systems that manipulate light for various optical applications.
+
+This coupler is particularly suitable for applications in fiber optic networks, sensor systems, and optical communication systems, where precise signal management is essential.

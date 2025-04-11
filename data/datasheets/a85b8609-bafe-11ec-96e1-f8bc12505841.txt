@@ -1,0 +1,53 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of YJD112020NCTG1 production of YANGZHOU YANGJIE ELECTRONIC from the text: YJD112020NCTG1  \n \n 1 / 6 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n www.21yangjie.com\n S-SIC023 \nRev.1.0,06-Nov-21 COMPLIANT RoHS  \nSilicon Carbide Schottky Diode  \n \n                         Features \n● Positive temperature coefficient \n● Temperature-independent switching \n● Maximum working temperature at 175 °C ● Unipolar devices and zero  reverse recovery current \n● Zero forward re covery current \n● Essentially no switching losses ● Reduction of heat sink requirements ● High-frequency operation ● Reduction of EMI  \nTypical Applications \nTypical applications are in power factor correction(PFC), solar  \ninverter, uninterruptible power  supply, motor drives, photovolt aic \ninverter, electric car and charger.  \n                                                     Mechanical  Data \n● Package : TO-247AB \nMolding compound meets UL 94 V-0 flammability rating, RoHS-compliant, halogen-free \n● Terminals : Tin plated leads \n● Polarity : As marked \n \n■Maximum Ratings  (TC=25℃ Unless otherwise specified ） \n \nPARAMTETER SYMBOL UNIT VALUE \nDevice marking code    D112020NCTG1  \nReverse voltage (repetitive peak) \n@ T j=25°C  VRRM V 1200 \nReverse voltage (Surge Peak) \n@ T j=25°C  VRSM V 1200 \nReverse voltage (DC)  \n@ T j=25°C  VDC V 1200 \nContinuous forward current @ T c=25°C  \n(Per leg/Device) \nIF A   \n38/76 \nContinuous forward current @ T c=135°C  \n(Per leg/Device) 19/38 \nContinuous forward current @ T c=160°C  \n(Per leg/Device) 10/20 \nNon-repetitive peak forward surge current \n@ T c=25°C, tp=10ms, Half Sine Wave IFSM A  105(1) \nPower Dissipation@ T c=25°C \n(Per leg/Device) \nPTOT W  245/490 \n \nPower Dissipation@ T c=25°C \n(Per leg/Device) 106/212 \ni2t Value@ Tc=25°C ,tp=10ms ∫i2dt A2 S 55(1) \nOperating junction and Storage temperature range T j ,Tstg  °C  -55 to +175 \n \n \n(1) Per Leg,  (2) Per Device \n \n VRRM 1200V  \nIF（135°C） 38A(2) \nQC 108.2nC(2) \n\n YJD112020NCTG1  \n \n 2 / 6 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n www.21yangjie.com\n S-SIC023 \nRev.1.0,06-Nov-21 COMPLIANT RoHS  \n■Electrical Characteristics ( Per Leg ) \nPARAMTETER SYMBOL UNIT TEST CONDITIONS Typ. Max. \nForward voltage drop V F V  IF=15A, T j=25°C 1.47 1.65 \nIF=15A, T j=175°C 2.25 - \nReverse leakage current I R μ A  VR=1200V, T j=25°C 2 15 \nVR=1200V, T j=175°C 39 - \nTotal capacitive charge Q C n C  VR=800V, T j=25°C , \nQC=∫ 0 VRC(V)dV  54.1  \nTotal capacitance C pF VR=0V, f=1MHZ 768.3 - \nVR=400V, f=1MHZ 51.7 - \nVR=800V, f=1MHZ 37.2 - \nCapacitance Stored Energy E C μ J  V R=800V 13.8 - \n \n \n \n■Thermal Characteristics （Ta=25℃ Unless otherwise specified ） \nPARAMETER SYMBOL UNIT  \nValue \nThermal resistance RθJ-C °C /W  \n0.30(2) \n0.62 (1) \n \n(1) Per Leg, (2) Per Device \n \n \n■Typical Characteristics (Per Leg)  \n \n \n \n   \n.5 \n  \n \n  \n \n  \n \n \nFigure 1. Forward Character istics                                                     Figure2. R everse Characteristic \n     \n YJD112020NCTG1  \n \n 3 / 6 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n www.21yangjie.com\n S-SIC023 \nRev.1.0,06-Nov-21 COMPLIANT RoHS  \n \n \n \n       \n \n \n   \n \n   \n \n \nFigure 3. Capacitance vs. Rev erse Voltage                         Figure 4. Total Capacitance Charge vs. Reverse Voltage \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 5. Capacitance Stor ed Energy                                                     Figure 6. Power Derating \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 7. Current Deratin g                                                \n \n \n YJD112020NCTG1  \n \n 4 / 6 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n www.21yangjie.com\n S-SIC023 \nRev.1.0,06-Nov-21 COMPLIANT RoHS  \n \n■Typical Characteristics (Per Devrce)  \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 8. Transient Thermal Impedance \n                                                 \n \n     \n \n    \n \n    \n \n     \n \n    \n \n     \n YJD112020NCTG1  \n \n 5 / 6 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n www.21yangjie.com\n S-SIC023 \nRev.1.0,06-Nov-21 COMPLIANT RoHS  \n \n \n■Outline Dimensions  \n \n \n \n \n \n \n \n \n \n \n     \n \n    \n \n     \n \n    \n \n    \n \n     \n \n    \n \n    \n YJD112020NCTG1  \n \n 6 / 6 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n www.21yangjie.com\n S-SIC023 \nRev.1.0,06-Nov-21 COMPLIANT RoHS  \nDisclaimer \n \nThe information prese nted in this document is for reference onl y. Yangzhou Yangjie Electronic Technology Co., Ltd. reserves th e \nright to make changes without notic e for the specification of t he products displayed herein to i mprove reliability, function o r design \nor otherwise.     The product listed herein is des igned to be used with ordinary electronic equipment or devices, and not designed to be used wi th \nequipment or devices which requ ire high level of reliability an d the malfunction of  with would directly  endanger human life (s uch as \nmedical instruments, transportat ion equipment, aer ospace machin ery, nuclear-reactor controller s, fuel controllers and other sa fety \ndevices), Yangjie or anyone on i ts behalf, assumes no responsib ility or liability for any damages  resulting from such improper  use \nof sale.    This publication supersedes & r eplaces all information previous ly supplied. For additional inform ation, please visit our websi te \nhttp:// www.21yangjie.com  , or consult your nearest Yangji e’s sales office for further a ssistance.  \n \n'}]
+!==============================================================================!
+### Component Summary: YJD112020NCTG1
+
+**Manufacturer:** Yangzhou Yangjie Electronic Technology Co., Ltd.  
+**Product Type:** Silicon Carbide Schottky Diode
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Reverse Voltage (Repetitive Peak): 1200 V
+  - Reverse Voltage (Surge Peak): 1200 V
+  - Reverse Voltage (DC): 1200 V
+
+- **Current Ratings:**
+  - Continuous Forward Current at 25°C (Per Leg/Device): 38 A / 76 A
+  - Continuous Forward Current at 135°C (Per Leg/Device): 19 A / 38 A
+  - Continuous Forward Current at 160°C (Per Leg/Device): 10 A / 20 A
+  - Non-repetitive Peak Forward Surge Current at 25°C (10 ms): 105 A
+
+- **Power Consumption:**
+  - Power Dissipation at 25°C (Per Leg/Device): 245 W / 490 W
+
+- **Operating Temperature Range:**
+  - Junction and Storage Temperature: -55°C to +175°C
+
+- **Package Type:**
+  - TO-247AB
+
+- **Special Features:**
+  - Positive temperature coefficient
+  - Temperature-independent switching
+  - Zero reverse recovery current
+  - Essentially no switching losses
+  - High-frequency operation
+  - Reduction of EMI
+  - Molding compound meets UL 94 V-0 flammability rating, RoHS-compliant, halogen-free
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+#### Description:
+The YJD112020NCTG1 is a Silicon Carbide (SiC) Schottky diode designed for high-performance applications. Schottky diodes are known for their low forward voltage drop and fast switching capabilities, making them ideal for high-frequency applications. The use of silicon carbide technology allows this diode to operate at higher temperatures and voltages compared to traditional silicon diodes.
+
+#### Typical Applications:
+The YJD112020NCTG1 is typically used in:
+- Power Factor Correction (PFC)
+- Solar Inverters
+- Uninterruptible Power Supplies (UPS)
+- Motor Drives
+- Photovoltaic Inverters
+- Electric Vehicles and Chargers
+
+These applications benefit from the diode's high efficiency, reduced heat generation, and ability to handle high voltage and current levels, making it suitable for demanding power management tasks.

@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TX-3737RGBW60FC120-NUVEZG-01 production of GUANGZHOU TIANXIN PHOTOELECTRIC CO., LTD from the text:http://www.txled.cn Version:1.0PartNo.TX-3737RGBW60FC120-NUVEZG-01 SpecNo.WKF-FA0086Page1of7TX-3737RGBW60FC120-NUVEZG-01\nPRODUCTSPECIFICATION\nFeatures:\n◆ExcellenttransitingheatfromLEDchipoperatingunder4.0A.\n◆Provideuniformcrossdistributionofpositivewhiteandwarmwhitedualcolorscheme,mixedpure.\n◆Highluminousoutput.\n◆NoUV.\n◆Encapsulatedmaterialsareenvironmentallycertifiedandmeetenvironmentalrequirements.\nChipMaterial: EmittingColor: Applications:\n◆Red:AlGaInP ◆Red（R） ◆Entertainmentlighting\n◆Green:GaInN ◆Green（G） ◆Landscapelighting\n◆Blue:GaN ◆Blue（B） ◆Commerciallighting\n◆White:GaN ◆White（W） ◆Decorativelighting\nhttp://www.txled.cn Version:1.0PartNo.TX-3737RGBW60FC120-NUVEZG-01 SpecNo.WKF-FA0086Page2of7PackageDimensions:\nG+\nG-\nW-\nW+B+\nB-\nR+\nR-TX3737A6065\n1.5\n2.8Ф4.2202930\n18\n304-Ф3.35\n4-Ф3.7\n2-Ф2\n3737 R1.6\n37.8\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesunlessotherwisementionedare±0.1mm.\nhttp://www.txled.cn Version:1.0PartNo.TX-3737RGBW60FC120-NUVEZG-01 SpecNo.WKF-FA0086Page3of7AbsoluteMaximumRatings(Tc=25℃)\nNotes:\n1.Specificationsaresubjecttochangewithoutnotice.\n2.Thedataonthisspecificationisforreferenceonlyandtheactualdataisinaccordancewiththe\nacknowledgment.\n3.PrecautionsforESD:\nSTATICSHIELDElectricityandsurgedamagestheLED.Itisrecommendedtouseawristbandor\nanti-electrostaticglovewhenhandlingtheLED.Alldevices,equipmentandmachinerymustbeproperly\ngrounded.Parameter Symbol Ratings Unit\nForwardCurrent IF 4.0 A\nReverseVoltage VRNotdesignedforreverse\noperationV\nPowerDissipation PDR 12.5\nWG 16.0\nB 15.0\nW 15.5\nJunctionTemperature TjR 115\n℃G 150\nB 150\nW 150\nElectrostaticDischargeThreshold(ESD) ESD 2000 V\nStorageTemperature Tstg -40~+70\n℃\nOperationTemperature Topr -30~+85\nhttp://www.txled.cn Version:1.0PartNo.TX-3737RGBW60FC120-NUVEZG-01 SpecNo.WKF-FA0086Page4of7ElectricalOpticalCharacteristics(Tc=25°C)\nNotes:\n1.LuminousintensityismeasuredwithalightsensorandfiltercombinationthatapproximatestheCIE\neye-responsecurve.\n2.θ1/2istheoff-axisangleatwhichtheluminousintensityishalftheaxialluminousintensity.\n3.Luminousfluxmeasurementtolerance:±15%.\n4.Forwardvoltagemeasurementtolerance:±0.15V.Parameter SymbolConditionEmitting\nColorMin.Typ.Max.Units\nLuminousFlux φv\nIf=4.0AR 290 320 350\nlmG 700 780 860\nB 125 140 155\nW 950 1100 1250\nForwardVoltage VfR 2.6 2.9 3.2\nVG 3.5 4.0 4.5\nB 3.2 3.8 4.2\nW 3.3 3.9 4.3\nDominantWavelength λdR 622 625 630\nnm G 517 520 523\nB 450 454 458\nPeak-emissionWavelength λpR 635 638 645\nnm G 514 516 519\nB 446 448 450\nSpectralLineHalf-Width△λR 15 20 25\nnmG 35 40 45\nB 15 20 25\nW 20 25 30\nCorrelatedColour\nTemperatureCCT If=4.0A W 5910 6470 6970 K\nReverseCurrent IR — — — — 2 µA\nViewingAngleat50﹪IV 2θ1/2 — — — 120 — Deg\nThermalResistanceJunction\ntoCaseRθJ-C — — — 1.15 — K/W\nTemperatureCoefficientof\nVoltageV△F/T If=4.0AR — 1.03 —\nmV/℃G — -4.63 —\nB — 3.33 —\nW — 2.85 —\nhttp://www.txled.cn Version:1.0PartNo.TX-3737RGBW60FC120-NUVEZG-01 SpecNo.WKF-FA0086Page5of7WhiteColorcoordinatefiling(IF=4.0ATc=25℃)\n0.320.37\n0.330.340.350.36\n0.310.34\n0.300.336250K5910K\n0.292S1\n1S1\n6970K6660K\n0.321T1\nRegionCCTRange\nX1 Y1 X2 Y2 X3 Y3 X4 Y4\nMin Max\n2S1 5910 6250 0.32240.34870.32230.35890.31480.35380.31550.3444\n1T1 6250 6660 0.31580.34150.31510.35070.30740.34550.30840.3368\n1S1 6660 6970 0.30860.33480.30760.34350.30260.33990.30390.3319\nhttp://www.txled.cn Version:1.0PartNo.TX-3737RGBW60FC120-NUVEZG-01 SpecNo.WKF-FA0086Page6of7TypicalElectrical/OpticalCharacteristicsCurves\n(25℃AmbientTemperatureUnlessOtherwiseNoted)\n2.03.04.05.0\n1.0 2.0 3.0 4.0Forward Current VS.  Relative Forward VoltageForward  Voltage  VF  (V)\nForward Current IF  (A)5.01.04080120160\n1.0 2.0 3.0 4.0 5.0Forward Current VS.  Relative Luminous FluxRelative  Luminous  Flux  (%)\nForward  Current  IF  (A)0\n25 45 65 85 105Temperature VS.  Forward  Voltage  Vf (IF=4.0A)\nTc  (℃)Forward  Voltage  Vf  (V)\n02.02.42.83.23.64.0\n25 45 65 85 10520406080100Temperature VS. Relative   Luminous   Flux(IF=4.0A)\nTc  (℃)Relative   Luminous   Flux  (%)\n125120\nNotes: Red; Green; Blue; White;\nhttp://www.txled.cn Version:1.0PartNo.TX-3737RGBW60FC120-NUVEZG-01 SpecNo.WKF-FA0086Page7of71.0 2.0 3.0-0.016-0.012-0.008-0.00400.0040.0080.0120.016\nForward Current (A)x（Blue）\ny（Blue）Relative Chromaticity VS.Current\nx（Green）\ny（Green）x（Red）\ny（Red）\nx（White）\ny（White）\n4.0 25 45 65 85-0.08-0.06-0.04-0.0200.020.040.060.08\nTc (℃)Relative Chromaticity VS. Temperature (IF=4.0A)\nx（Blue）\ny（Blue）x（Green）\ny（Green）x（Red）\ny（Red）\nx（White）\ny（White）\n380.0 420.0460.0500.0540.0 580.0 620.0660.0700.0740.0 780.0\nWavelength (nm)0.00.10.20.30.40.50.60.70.80.91.0Relative Spectral DistributionSpectrum\nNotes: Red; Green; Blue; White;\nNotes:\n1.2θ1/2istheoffaxisanglefromlampcenterlinewheretheluminousintensityis1/2ofthepeakvalue.\n2.Viewangletoleranceis±5°.\n'}]
+!==============================================================================!
+### Component Summary: TX-3737RGBW60FC120-NUVEZG-01
+
+**Manufacturer:** GUANGZHOU TIANXIN PHOTOELECTRIC CO., LTD  
+**Product Code:** TX-3737RGBW60FC120-NUVEZG-01  
+**Version:** 1.0  
+**Datasheet Reference:** WKF-FA0086
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (Vf):
+    - Red: 2.6V to 3.2V
+    - Green: 3.5V to 4.5V
+    - Blue: 3.2V to 4.2V
+    - White: 3.3V to 4.3V
+- **Current Ratings:**
+  - Forward Current (IF): 4.0 A
+- **Power Consumption:**
+  - Power Dissipation:
+    - Red: 12.5 W
+    - Green: 16.0 W
+    - Blue: 15.0 W
+    - White: 15.5 W
+- **Operating Temperature Range:**
+  - Storage Temperature (Tstg): -40°C to +70°C
+  - Operating Temperature (Topr): -30°C to +85°C
+- **Package Type:** 3737 (dimensions in mm)
+- **Special Features:**
+  - High luminous output with no UV emissions.
+  - Environmentally certified encapsulated materials.
+  - Excellent heat dissipation under high current operation.
+- **Moisture Sensitive Level:** Not specified in the provided data.
+
+#### Component Description:
+The TX-3737RGBW60FC120-NUVEZG-01 is a high-power RGBW (Red, Green, Blue, White) LED module designed for various lighting applications. It features a compact package and is capable of delivering high luminous output while maintaining efficient thermal management. The LED is constructed using advanced semiconductor materials, ensuring vibrant color reproduction and energy efficiency.
+
+#### Typical Applications:
+- **Entertainment Lighting:** Ideal for stage lighting, concerts, and events where dynamic color changes are required.
+- **Landscape Lighting:** Used in outdoor settings to enhance the aesthetic appeal of gardens, parks, and architectural features.
+- **Commercial Lighting:** Suitable for retail spaces, showrooms, and other commercial environments that benefit from adjustable lighting schemes.
+- **Decorative Lighting:** Perfect for festive decorations, signage, and ambient lighting in various settings.
+
+This LED module is particularly advantageous in applications requiring high brightness and color versatility, making it a popular choice in modern lighting solutions.

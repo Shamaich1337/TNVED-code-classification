@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MMP-04-254 production of OPTICS FOCUS INSTRUMENTS CO., LTD. from the text: \n 1 / 2 \n \n \nFeatures: \n\uf06c Rotation mounts with 360° continuous rotation \n\uf06c Mount φ10 mm up to φ50.8 mm optics \n\uf06c Full 360° engraved scale marked in 2° increments \n \nDescription: \nThe MMP-04 continuous rotation mounts utilize precision bearings for smooth. The aperture is \nthreaded with the internal threading and accepts optics up to 6 mm thick. Secure the optic with \nthe included retaining ring. This mount has a knurled edge for adjusting rotation. A 360° laser-\nengraved scale marked at 2° increments allows for precise, repeatable positioning and fine \nangular adjustment. \n \nSpecifications: \nModel Aperture A Optics Size Weight \nMMP-04-10 8 mm 10 mm 0.251 kg \nMMP-04-15 13 mm 15 mm 0.247 kg \nMMP-04-20 18 mm 20 mm 0.242 kg \nMMP-04-25 23 mm 25 mm 0.237 kg \nMMP-04-30 28 mm 30 mm 0.229 kg \nMMP-04-35 33 mm 35 mm 0.201 kg \nMMP-04-40 38 mm 40 mm 0.190 kg \nMMP-04-50 46 mm 50 mm 0.167 kg \nMMP-04-127 11 mm 12.7 mm 0.248 kg \nMMP-04-254 23 mm 25.4 mm 0.237 kg \n\n \n 2 / 2 \n \nMMP-04-381 36 mm 38.1 mm 0.195 kg \nMMP-04-508 46 mm 50.8 mm 0.170 kg \n \nDrawing: \n \n\n'}]
+!==============================================================================!
+### Component Summary: MMP-04-254
+
+**Description:**
+The MMP-04-254 is a continuous rotation mount designed for optical applications. It features precision bearings that allow for smooth rotation and is capable of holding optics with a diameter of up to 25.4 mm (1 inch). The mount includes a threaded aperture for securing optics up to 6 mm thick with a retaining ring. It is equipped with a knurled edge for easy adjustment and a 360° laser-engraved scale marked in 2° increments, enabling precise and repeatable positioning.
+
+**Key Specifications:**
+- **Model:** MMP-04-254
+- **Aperture Size (A):** 23 mm
+- **Optics Size:** 25.4 mm
+- **Weight:** 0.237 kg
+- **Rotation:** 360° continuous rotation
+- **Scale Increments:** 2° increments
+
+**Special Features:**
+- Precision bearings for smooth operation
+- Knurled edge for easy rotation adjustment
+- Laser-engraved scale for accurate positioning
+
+**Typical Applications:**
+The MMP-04-254 is typically used in optical setups where precise angular positioning is required. Common applications include:
+- Optical alignment in laboratories
+- Adjusting the position of lenses and mirrors in optical systems
+- Use in experimental setups where fine angular adjustments are critical
+- Integration into optical instruments for research and development purposes
+
+**Moisture Sensitive Level:**
+The datasheet does not specify the Moisture Sensitive Level (MSL) according to JEDEC J-STD-020E. It is advisable to consult the manufacturer for this information if moisture sensitivity is a concern.
+
+This summary provides a clear overview of the MMP-04-254, highlighting its key characteristics and typical uses in optical applications.

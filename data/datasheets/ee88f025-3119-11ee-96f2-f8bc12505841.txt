@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDNM01302 production of NEDITEK from the text:NDNM01302  \n9.5-10.5 GHz GaN Internally Matched transistor  \n\uf0d8 Features:  \n\uf06c 0.25 \uf06dm GaN HEMT technology  \n\uf06c Frequency range: 9.5-10.5GHz \n\uf06c Typical output power ：52 dBm                                              \n\uf06c Typical gain ：8dB \n\uf06c Typical PAE ：35％ \n\uf06c Bias：28V/-3.0V \n\uf06c Ceramic Hermetic Sealed Package  \n\uf0d8 General Description:  \nNDNM01302  is a high power and high efficiency internally matched \ntransistor with GaN based 0.25 \uf06dm HEMT technology. This transistor \noperates from 9. 5 to 10. 5 GHz providing a output power of 4 8 dBm with \ngain of 8 dB, power added efficiency of 35% and V ds=28 V by dual power \nsupplies.  \n\uf0d8 Absolute Maximum Ratings ( TA＝25\uf0b0C)  \nSymbol  Parameter  Value  Notes  \nVds Drain Bias Voltage  40V  \nVgs Gate Bias Voltage  -5V  \nPd DC Consumption  400W 25℃ \nTch Channel Temperature  175℃ [1] \nTm Sintering Temperature  300℃ 1 min, N 2 protection  \nTstg Storage Temperature  -55～175℃  \n[1] Any o f the stresses above the listed ratings may cause permanent damage.  \n\uf0d8 Specifications (TA=25 \uf0b0C) \nSymbol  Parameter  Value  \nUnits  \nMin Typical  Max \nPout Output Power  - 52 - dBm  \nGp Power Gain  - 8.0 - dB \nηadd Power Added Efficiency  - 35 - ％ \n△Gp Gain flatness  -0.8 - +0.8 dB \n【1】 Testing condition : Vd＝32V; Vg= -3V; F：9.5-10.5GHz; \n \n \n\nNDNM01302  \n9.5-10.5 GHz GaN Internally Matched transistor  \n\uf0d8 Typical Performances:  \nOutput Power / Power Added Efficiency \n \n\uf0d8 Package Size:  \n \n\uf0d8 Advised application circuit  \n \n\uf0d8 Advised values in circuit  \nName  Symbol value  unit \nFilter capacitor  C1,C2,C4,C5,C6  1000  pF \nFilter capacitor  C3,C7  100 pF \nBlocking capacitor  C8，C9 2 pF \nStable resistor  R1 15 Ω \nResistor  R2 50 Ω \nMicrostrip line  TL1,TL2  λ/4 (λ – wavelength)  - \n \n\uf0d8 Notes  \n1) The product is internally matched transistor c 50 \uf057 input/output impedance;  \n2) Power -on order strictly follows: beginning with negative voltage, positive in the next; \nSwitch -off order – reduction of drain voltage in first, reduction of gate voltage in the ne xt; \n3) The product is power device with attention to radiation: shorter resource of transistor with \nhigher temperature of package, no more 80 \uf0b0C is advised;  \n4) The product is static -sensitive device with attention to static protection in operating and \nstorage pr ocess. Good GND is needed in operating process.  \n \n \n'}]
+!==============================================================================!
+### Component Summary: NDNM01302
+
+**Product Code:** NDNM01302  
+**Manufacturer:** NEDITEK  
+**Type:** GaN Internally Matched Transistor  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Drain Bias Voltage (Vds): 40V (Absolute Maximum)
+  - Gate Bias Voltage (Vgs): -5V (Absolute Maximum)
+- **Current Ratings:**
+  - DC Consumption (Pd): 400W (at 25°C)
+- **Power Consumption:**
+  - Typical Output Power: 52 dBm
+- **Operating Temperature Range:**
+  - Channel Temperature (Tch): 175°C (Absolute Maximum)
+  - Storage Temperature (Tstg): -55°C to 175°C
+- **Package Type:**
+  - Ceramic Hermetic Sealed Package
+- **Special Features:**
+  - 0.25 μm GaN HEMT technology
+  - Internally matched with 50 Ω input/output impedance
+  - High power and efficiency
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Description:
+The NDNM01302 is a high-power, high-efficiency GaN (Gallium Nitride) transistor utilizing 0.25 μm HEMT (High Electron Mobility Transistor) technology. It operates within a frequency range of 9.5 to 10.5 GHz, making it suitable for applications requiring high-frequency performance. The transistor is designed to deliver a typical output power of 52 dBm with a gain of 8 dB and a power-added efficiency (PAE) of 35%. It is packaged in a ceramic hermetic sealed enclosure, ensuring reliability and performance in demanding environments.
+
+#### Typical Applications:
+The NDNM01302 is primarily used in high-frequency applications such as:
+- **Power Amplification:** Suitable for RF (Radio Frequency) power amplification in communication systems.
+- **Signal Processing:** Ideal for applications requiring efficient signal transmission and processing at microwave frequencies.
+- **Telecommunications:** Can be utilized in base stations and satellite communications where high output power and efficiency are critical.
+- **Radar Systems:** Effective in radar applications due to its high-frequency capabilities and power output.
+
+This transistor is particularly advantageous in scenarios where space and thermal management are crucial, given its high power density and efficiency characteristics.

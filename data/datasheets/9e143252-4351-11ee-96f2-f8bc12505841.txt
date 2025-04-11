@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CX7000L X-Ray counter production of UNICOMP TECHNOLOGY from the text:Add:BuildingA,B&KTechnologyPark,No.9,BangkaiRoad,High-TechIndustrialPark,GuangmingDistrict,Shenzhen,P.R.C.Zip:518107\n●Automaticinspection,noneedonprogramsswitchfordifferentcomponents\n●Fastspeedandhighaccuratechipcounting,reducinglaborcosts\n●Nochipdamageorlostwithnon-destructivecounting\n●Compatiblewith7”~17”tape&reels\n●AutomaticlinkwithERP&MESSystem,andstoragesystem\n●ShieldedcabinetprotectiontoguaranteeSafetyleakageofX-ray\n●FastcountingSpeed:12~13s/Reel\n●InspectionAccuracy:≥99.9%\n●Min.Package:01005\n●One-buttonoperation,automaticcounting\n●Hand-operatedlabelreading,newlabelprintingandsticking\n●Specialadvantageforincominginspectionandinventorymanagement\n●Real-timeradiationleakagemonitoring\nX-RayInspectionImagesFeatures\nX-rayImagesSMDChipCounterCX7000LX-Ray\n\nLOTNO:20190401\nAdd:BuildingA,B&KTechnologyPark,No.9,BangkaiRoad,High-TechIndustrialPark,GuangmingDistrict,Shenzhen,P.R.C.Zip:518107\nX-RaySafety:AllX-raymachinesmanufacturedbyUnicompTechnologymeettheFDA-CDRHRegulationCFR211020.40Subchapter\nJforcabinetx-raysystems.TheFDA-CDRHstandardforcabinetx-raysystemsstatesthatradiationemissionwillnotexceed.5millirem\na/hr.2"fromanyexternalsurface.Ourmachines(Leakage<1μSv/h)aretypically5-10timeslessthantheinternationalstandards,\n\uf0a2Specificationsaresubjecttochangewithoutnotice,alltrademarksarethepropertyofthesystemmaker.Equipment\nFeaturesFootprint(W*D*H)/MachineWeight 1000mm*1370mm*1962mm/1160kg\nPackage PlywoodCase,110cm*145cm*210cm,Total1450kg\nPowerConsumption 1.1kW\nPowerSupply AC110~220V(±10%)50Hz\nWorkingMode Off-line\nSystemComputerOperatingSystem IndustrialPC,WindowsOS,i7CPU\nMonitor 22”LCD\nX-RayTubeMax.Voltage 80kV\nMax.Current 700μA\nFocalSpotSize 0.03mm\nDetectorFPDDetectorPixelSize 139μm\nEffectiveDetectionArea 430*430mm\nPixelMatrix 3072*3072\nFrameRates/ADBits 14fps/16Bits\nDetection\nParametersInspectionTape&RealSize 7”~17”\nScanheight ≤88mm\nMaximumInspectionSpeed 7”~17”Tape&Realislessthan12s/Real,7”*4islessthan13s.\nInspectionMin.Component 01005\nInspectionAccuracy ≥99.9%\nDetectableitemCapacitors,resistors,inductors,beads,crystals,transistors,diodes,FETs,varioustypesofresistors,bile\ncapacitors,detectableconnectors,integratedcircuitchips,etc.\nAccessories BarcodeScanning,Printer,FingerprintRecognitionSystem,\nTechnicalSpecifications\n'}]
+!==============================================================================!
+### Component Summary: CX7000L X-Ray Counter
+
+**Manufacturer:** Unicomp Technology  
+**Address:** Building A, B&K Technology Park, No. 9, Bangkai Road, High-Tech Industrial Park, Guangming District, Shenzhen, P.R.C. Zip: 518107
+
+#### Key Specifications:
+- **Voltage Ratings:** Max. X-Ray Tube Voltage: 80 kV
+- **Current Ratings:** Max. X-Ray Tube Current: 700 μA
+- **Power Consumption:** 1.1 kW
+- **Operating Temperature Range:** Not specified in the provided text
+- **Package Type:** Plywood Case (Dimensions: 110 cm x 145 cm x 210 cm, Total Weight: 1450 kg)
+- **Special Features:**
+  - Automatic inspection with no need for programming switches for different components
+  - Fast speed and high accuracy in chip counting (≥99.9%)
+  - Non-destructive counting with no chip damage or loss
+  - Compatible with 7” to 17” tape and reels
+  - Automatic linking with ERP & MES systems
+  - Shielded cabinet for safety against X-ray leakage (Leakage < 1 μSv/h)
+  - Real-time radiation leakage monitoring
+  - One-button operation for automatic counting
+  - Hand-operated label reading, new label printing, and sticking
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text
+
+#### Description:
+The CX7000L X-Ray Counter is an advanced electronic inspection system designed for automatic counting and verification of surface mount devices (SMDs) in various packaging formats. It utilizes X-ray technology to perform non-destructive inspections, ensuring that components are counted accurately without damage. The system is equipped with a high-resolution flat panel detector and operates with a user-friendly interface that allows for one-button operation.
+
+#### Typical Applications:
+The CX7000L is primarily used in:
+- **Incoming Inspection:** Ensuring that components received from suppliers meet quality standards before they are used in production.
+- **Inventory Management:** Keeping track of component quantities and types in stock, facilitating efficient inventory control.
+- **Manufacturing Quality Control:** Verifying the accuracy of component counts in production lines, reducing labor costs and improving efficiency.
+- **Electronics Assembly:** Suitable for environments where precise counting of small electronic components is critical, such as in the assembly of circuit boards.
+
+This X-ray counter is particularly advantageous for manufacturers looking to streamline their inspection processes while maintaining high standards of accuracy and safety.

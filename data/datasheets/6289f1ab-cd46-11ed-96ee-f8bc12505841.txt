@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of KPT-1608SYCK production of KINGBRIGHT from the text:SPEC NO: DSAB0858                  REV NO: V.18B                               DATE: DEC/22/2011                                    PAGE:  1  OF  5 \nAPPROVED: WYNEC                   CHECKED: Allen Liu                    DRAWN: D.M.Su                                         E RP: 1203001771 1.6X0.8mm SMD CHIP LED LAMP \nPart Number: KPT-1608SYCK               \n \n                      Super Bright Yellow \nFeatures \nz1.6mmX0.8mm SMT LED, 0.75mm thickness. \nzLow power consumption. \nzWide viewing angle. \nzIdeal for backlight and indicator. \nzVarious colors and lens types available. \nzPackage: 2000pcs / reel . \nzMoisture sensitivity level : level 3. \nzRoHS compliant. Description  \nThe Super Bright Yellow device is made with AlGaInP (on \nGaAs substrate) light emitting diode chip. \nPackage Dimensions \nNotes: \n1. All dimensions are in millimeters (inches). 2. Tolerance is ±0.1(0.004") unless otherwise noted. \n3. The specifications, characteristics and technical data descri bed in the datasheet are subject to change without prior notice . \n4. The device has a single mounting surface. The devi ce must be mounted according to the specifications. \nKingbright\n\nSPEC NO: DSAB0858                  REV NO: V.18B                               DATE: DEC/22/2011                                    PAGE:  2  OF  5 \nAPPROVED: WYNEC                   CHECKED: Allen Liu                    DRAWN: D.M.Su                                         E RP: 1203001771 Selection Guide \nNotes: \n1. θ1/2 is the angle from optical centerline where the lumi nous intensity is 1/2 of  the optical peak value. \n2. Luminous intensity/ luminous Flux: +/-15%. \n3. Luminous intensity value is traceable to the CIE127-2007 compliant national standards.  \nAbsolute Maximum Ratings at TA=25°C Electrical / Optical Characteristics at TA=25°C \nNotes: \n1.Wavelength: +/-1nm. 2. Forward Voltage: +/-0.1V. \n3. Wavelength value is traceable to the CIE127-2007 compliant national standards.  \nNote: \n1. 1/10 Duty Cycle, 0.1ms Pulse Width. Part No.  Dice  Lens Type  Viewing                                    \nAngle [1] \nMin. Typ. 2 θ1/2 \nKPT-1608SYCK Super Bright Yellow (AlGaInP) Water Clear 80 150 120° Iv (mcd) [2]                                         \n@ 20mA     \nSymbol Parameter Device Typ. Max. Units Test Conditions \nλpeak Peak Wavelength Super Bright Yellow 590  nm I F=20mA \nλD [1] Dominant Wavelength Super Bright Yellow 590  nm I F=20mA \nΔλ1/2 Spectral Line  Half-width Super Bright Yellow 20  nm I F=20mA \nC Capacitance Super Bright Yellow 20  pF V F=0V;f=1MHz \nVF [2] Forward Voltage Super Bright Yellow 2 2.5 V I F=20mA \nIR Reverse Current Super Bright Yellow  10 uA V R=5V \nParameter Super Bright Yellow Units \nPower dissipation 75 mW \nDC Forward Current 30 mA Peak Forward Current [1] 175 mA Reverse Voltage 5 V Operating Temperature -40°C To +85°C \nStorage Temperature -40°C To +85°C Kingbright\n\nSPEC NO: DSAB0858                  REV NO: V.18B                               DATE: DEC/22/2011                                    PAGE:  3  OF  5 \nAPPROVED: WYNEC                   CHECKED: Allen Liu                    DRAWN: D.M.Su                                         E RP: 1203001771 Super Bright Yellow           KPT-1608SYCK \nKingbright\n\nSPEC NO: DSAB0858                  REV NO: V.18B                               DATE: DEC/22/2011                                    PAGE:  4  OF  5 \nAPPROVED: WYNEC                   CHECKED: Allen Liu                    DRAWN: D.M.Su                                         E RP: 1203001771 KPT-1608SYCK \nReflow soldering is recommended and the soldering profile is shown below. \nOther soldering methods are not recommended as they might cause damage to the product. \nRecommended Soldering Pattern \n(Units : mm; Tolerance: ± 0.1) Reel Dimension \nTape Dimensions \n(Units : mm) Kingbright\n\nSPEC NO: DSAB0858                  REV NO: V.18B                               DATE: DEC/22/2011                                    PAGE:  5  OF  5 \nAPPROVED: WYNEC                   CHECKED: Allen Liu                    DRAWN: D.M.Su                                         E RP: 1203001771 PACKING & LABEL SPECIFICATIONS                              KPT-1608SYCK \nKingbright\n\n'}]
+!==============================================================================!
+### Component Summary for KPT-1608SYCK
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Forward Voltage (VF): 2.0 - 2.5 V @ 20 mA
+  - Reverse Voltage (VR): 5 V
+- **Current Ratings:**
+  - DC Forward Current: 30 mA
+  - Peak Forward Current: 175 mA (1/10 Duty Cycle, 0.1 ms Pulse Width)
+- **Power Consumption:**
+  - Power Dissipation: 75 mW
+- **Operating Temperature Range:**
+  - Operating Temperature: -40°C to +85°C
+  - Storage Temperature: -40°C to +85°C
+- **Package Type:**
+  - 1.6 mm x 0.8 mm SMD Chip LED
+- **Special Features:**
+  - Super Bright Yellow color (AlGaInP on GaAs substrate)
+  - Low power consumption
+  - Wide viewing angle (120°)
+  - Moisture Sensitivity Level: Level 3 (according to JEDEC J-STD-020E)
+  - RoHS compliant
+- **Viewing Angle:**
+  - θ1/2: 120° (typical)
+
+**Description:**
+The KPT-1608SYCK is a Super Bright Yellow SMD (Surface Mount Device) LED lamp manufactured by Kingbright. It utilizes an AlGaInP (Aluminum Gallium Indium Phosphide) chip on a Gallium Arsenide substrate, which contributes to its bright output and efficiency. The compact dimensions of 1.6 mm x 0.8 mm and a thickness of 0.75 mm make it suitable for various applications where space is limited.
+
+**Typical Applications:**
+The KPT-1608SYCK is ideal for:
+- **Backlighting:** Used in displays and panels to provide illumination.
+- **Indicators:** Commonly used in electronic devices to signal status (on/off, error, etc.).
+- **General Lighting:** Suitable for applications requiring bright, efficient lighting in compact spaces.
+- **Consumer Electronics:** Found in devices such as smartphones, tablets, and other handheld gadgets.
+
+This LED is particularly advantageous in applications where low power consumption and a wide viewing angle are critical, making it a versatile choice for modern electronic designs.

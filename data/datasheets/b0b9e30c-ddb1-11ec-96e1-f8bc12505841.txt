@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SQM5W22KJBR production of WEE TECHNOLOGY  from the text:1/1\nRadialCementHousedCeramicResistor\nWEETechnologyCompanyLimited\nFLAT/RM705,7/F,\nFAYUENCOMMBLDGNO.75,\nFAYUENSTREET,MONGKOK,KL,HK\nwww.weetcap.com\ninfo@weetcap.comAlldetailsinthisdatasheetaresubjecttochangewithoutnotice.\nFormoredetailsandupdates,pleasevisitourwebsite.\nCopyright©2000WEETechnology,Allrightsreserved.\nFEATURES\n\uf0d8Cementresistorsaremanufacturedbywindingtheceramicrodswithmetalalloyresistancewireandputitinafireproof\nceramicboxthenconcretewithnon-flammableandheat-resistantcement.\n\uf0d8Excellentheatresistance,lowtemperaturecoefficientofresistanceandlinearchange.\nDRAWING(mm) PICTURE(mm)\nDIMENSIONS(mm)\nSeriesPowerRating Dimension(mm)\nØd(Watt)Normal Mini. Normal Mini. Normal Mini.\nL W S\nSQM 2W 20.0±1.0 - 11.0±1.0 - 7.0±1.0 - 0.7±0.05\nSQM 3W 25.0±1.5 20.0±1.5 12.0±1.0 11.0±1.0 8.0±1.0 7.0±1.0 0.78±0.05\nSQM 5W 25.0±1.5 25.0±1.5 13.0±1.0 12.0±1.0 9.0±1.0 8.0±1.0 0.78±0.05\nSQM 7W 39.0±1.5 25.0±1.5 13.0±1.0 13.0±1.0 9.0±1.0 9.0±1.0 0.78±0.05\nSQM 10W 51.0±1.5 35.0±1.5 13.0±1.0 16.0±1.0 10.0±1.0 12.0±1.0 0.78±0.05\nSQM 15W 51.0±1.5 35.0±1.5 13.0±1.0 16.0±1.0 10.0±1.0 12.0±1.0 0.78±0.05\nSPECIFICATIONS\nFIG.1DERATINGCURVE FIG.2HOT-SPOTTEMPERATUREPowerRating70℃2W 3W 5W 7W 10W\n3WS 5WS 7WS 10WS -\nSeriesNumber SQM\nOperatingTemp.Range -55℃~+155℃\nMax.WorkingVoltage 250V 350V 350V 500V 500V\nMax.OverloadVoltage 500V 700V 700V 1000V 1000V\nDielectricWithstandingVoltage(AC) 500V 700V 700V 1000V 1000V\nValueRange±5%(CeramicCore) 0.1Ω-47Ω 0.1Ω-100Ω 0.1Ω-180Ω 0.1Ω-470Ω 0.1Ω-680Ω\nValueRange±5%(MetalOxideFilm) 48Ω-100KΩ 110Ω-100KΩ 180Ω-100KΩ 471Ω-10KΩ 681Ω-10KΩ\nTemp.Coefficient(PPM) ±300ppm/℃\n'}]
+!==============================================================================!
+### Component Summary for SQM5W22KJBR
+
+**Component Type:**  
+Cement Housed Ceramic Resistor
+
+**Manufacturer:**  
+WEE Technology Company Limited
+
+---
+
+### Key Specifications:
+
+- **Power Rating:** 5 Watts
+- **Operating Temperature Range:** -55°C to +155°C
+- **Maximum Working Voltage:** 350V
+- **Maximum Overload Voltage:** 700V
+- **Dielectric Withstanding Voltage (AC):** 700V
+- **Resistance Value Range (±5%):** 
+  - Ceramic Core: 0.1Ω to 180Ω
+  - Metal Oxide Film: 180Ω to 100KΩ
+- **Temperature Coefficient:** ±300 ppm/°C
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+- **Package Type:** Radial cement housed
+
+---
+
+### Description:
+
+The SQM5W22KJBR is a cement housed ceramic resistor designed for high power applications. It is constructed by winding ceramic rods with metal alloy resistance wire, encased in a fireproof ceramic box, and then filled with non-flammable, heat-resistant cement. This design provides excellent heat resistance and a low temperature coefficient of resistance, ensuring stable performance under varying conditions.
+
+---
+
+### Typical Applications:
+
+This type of resistor is commonly used in applications requiring reliable power management and heat dissipation. Typical applications include:
+
+- **Power Supply Circuits:** Used for current limiting and voltage division.
+- **Signal Processing:** Employed in filtering and signal conditioning circuits.
+- **Load Resistors:** Used in testing and load simulation.
+- **Industrial Equipment:** Suitable for use in machinery and control systems where durability and heat resistance are critical.
+
+The SQM5W22KJBR is ideal for environments where high reliability and thermal stability are essential, making it a preferred choice in various electronic and electrical applications.

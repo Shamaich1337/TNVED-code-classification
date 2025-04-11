@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of VL2020/HFN production of PANASONIC from the text:AUGUST 2005 LITHIUM HANDBOOK\nThis information is generally descriptive only and is not intended to make or imply any representation, guarantee or warranty w ith respect to any cells and batteries. Cell and battery designs/specifications\nare subject to modification without notice. Contact Panasonic for the latest information.■ Dimensions(mm)\nWeight:2.2g\n■ SpecificationVL2020\n■ Discharge Temperature Characteristics\n■ Consumption current vs. Duration time\nDuration (days)Temp.: 20˚C\nCut off voltage: 2.5V\n1 7 10 30 50 300 100 0 100 35500\n400\n300\n200\n100\n50\n4030\n20\n10\n5\nConsumption Current ( µA)0             100          200           300          4004\n3\n2\n1  30k(100A) Load\nDuration(h)Voltage(V)Nominal voltage (V)\nNominal capacity (mAh)\nContinuous standard load (mA)\nOperating temperature (C)3\n20.00.07\n-20 ~ +6020.0+-0\n0.3\n(  0.79        )+-0\n0.01\n0.05(0.002)\n2.0+-0\n0.3(0.08        )+\n-0\n0.01\n16(   0.63)\n0.3MAX\n(0.012)\nNote:This bare cell diagram is for size reference only. Please refer to the\ntab configurations at the end of this section for available tabs.Vanadium Pentoxide Lithium Coin Batteries (VL Series): Individual Specifications\n■ Dimensions(mm)\n■ SpecificationVL2320\nDuration (days)Temp.: 20˚C\nCut off voltage: 2.5V\n1 7 10 30 50 300 100 0 100 35500\n400\n300\n200\n100\n50\n4030\n20\n10\n5\nConsumption Current ( µA)0             100          200           300          4004\n3\n2\n1  30k(100A) Load\nDuration(h)Voltage(V)■ Discharge Temperature Characteristics\n■ Consumption current vs. Duration timeWeight:2.7g\nNominal voltage (V)\nNominal capacity (mAh)\nContinuous standard load (mA)\nOperating temperature (C)3\n30.0\n0.1\n-20 ~ +6023.0\n(   0.91      )\n0.1(0.004)\n2.0(0.08      )\n19(  0.75)\n0.3 MAX\n(0.012)+0\n-0.5\n+0\n-0.02\n+0-0.25+0\n-0.01\nNote:This bare cell diagram is for size reference only. Please refer to the\ntab configurations at the end of this section for available tabs.\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Panasonic:   \n\xa0 VL-2020/HFN\xa0 VL-2020/VCN\xa0 VL-2320/F2N\xa0 VL-2320/HFN\xa0 VL-2320/VCN\n'}]
+!==============================================================================!
+### Component Summary: VL2020/HFN (Panasonic)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Nominal Voltage: 3.0 V
+- **Current Ratings:**
+  - Continuous Standard Load: 0.3 mA
+- **Power Consumption:**
+  - Consumption Current: Varies based on duration and load; up to 30 µA for a 100 A load.
+- **Operating Temperature Range:**
+  - -20°C to +60°C
+- **Package Type:**
+  - Coin cell format (dimensions not specified in the provided text).
+- **Special Features or Notes:**
+  - Vanadium Pentoxide Lithium Coin Battery.
+  - Designed for low self-discharge and long shelf life.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+#### Description:
+The VL2020/HFN is a lithium coin cell battery manufactured by Panasonic. It is part of the VL series, which utilizes vanadium pentoxide as a cathode material. This battery is designed for applications requiring a compact power source with a stable voltage output and low self-discharge characteristics. The VL2020/HFN is particularly suitable for devices that demand a reliable power supply over extended periods.
+
+#### Typical Applications:
+The VL2020/HFN lithium coin cell battery is commonly used in:
+- **Consumer Electronics:** Such as watches, calculators, and remote controls.
+- **Medical Devices:** Including hearing aids and other portable medical equipment.
+- **Industrial Applications:** For backup power in sensors and monitoring devices.
+- **IoT Devices:** Where compact size and long battery life are critical.
+
+This battery is ideal for applications that require a stable voltage and low current draw over a long duration, making it a versatile choice for various electronic devices.

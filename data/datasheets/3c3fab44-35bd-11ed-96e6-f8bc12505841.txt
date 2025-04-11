@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PMOC-1550-4-B-F-0-2-H-2 production of LIGHTSTAR TECHNOLOGY LIMITED from the text:        CAT0211 REV01             \nLightstar Technology Co.                                                 www.Lightstartech.com    4 Port Polarization Maintaining Optical Circulator  \nFeatures ： \nLow Insertion Loss \nHigh Extinction Ratio & High Isolation \nHigh stability and reliability \nApplication ： \nEDFA \nFiber Optical Instrument \nFiber Sensor \n \nSpecifications ： \n  Type \nParameter Type A Type B \nOperating wavelength (nm) 1310 ,1450,1480,1550 1064 \nBandwidth ±30 ±20 ±5 \nTyp. Isolation 23 ℃(dB) 50 30 30 \nIsolation 23 ℃(dB) ≥40 ≥20 ≥25 \nTyp. Insertion Loss 23 ℃ (dB) 0.8 0.7 2.1 \nInsertion Loss （-5 ~ +70 ℃@1550nm ；\n-5 ~ +50 ℃@1064nm ） (dB) ≤1.1 ≤1.0 ≤2.8 \nExtinction Ratio (dB) ≥20 \nCross Talk (dB) ≥50 \nReturn loss (dB) ≥50 \nPower handling (CW, total) (mW) ≤500 ≤300 \nFiber Type PM1310 Panda Fiber for 1310nm,PM1550 Panda Fiber fo r \n1550nm,PM980 Panda Fiber for 1064nm. \nOperating temperature ( ℃) -5 ~ +70 -5 ~ +50 \nStorage temperature ( ℃) -40 ~ +85 \nDimensions (mm) φ5.5 × L35(P1)  (only for bare fiber or 900um loose  tube) \nL90*W20*H9.5 （ABS ）(P2) (only for 3mm or 2mm cable) \n*Above specifications are for devices without the c onnectors. \n*For devices with connectors, IL will be 0.3dB highe r, RL will be 5dB lower, and ER will be 2dB lower.  \n*The PM fiber and the connector key are aligned to the slow axis. And for F type, fast axis is blocked . \n*The transmission optical path of A type is differe nt from B type:Type A: 1 -> 2, 2 -> 3, 3 -> 4; Type B: 1 -> 2, 2 -> 3, 3 -> 4;4->1 \n \nPackage Dimensions ： \n \n  \n \n \n \n \n        CAT0211 REV01             \nLightstar Technology Co.                                                 www.Lightstartech.com    Ordering Information ： \n PMOC Wavelength  Port Type  Axis \nAlignment Package \n Pigtail Type  Length Connector \nPMOC \n=PMCIR 1064=1064nm  \n1310=1310nm  \n1450=1450nm  \n1480=1480nm  \n1550=1550nm  4=4 \nPort  A=A \nType  \nB=B \nType  F=Fast \nAxis \nBlocked 0=φ5.5×L35mm \n1=90*20*9.5mm  \n2=Glass tube \nS=Specify \n \n 1=250um \nbare fiber \n2=900um \nloose tube \n3=3mm \nloose tube \n4=2mm \nloose tube \nS=Specify H=0.5m \n8=0.8m \n1=1.0m \n5=1.5m \n2=2.0m \n3=3.0m \n4=4.0m \nA=2.5m \nB=5.0m \nS=Specify  0=None \n1=FC/UPC  \n2=FC/APC  \n3=SC/APC  \n4=SC/UPC  \n5=MU \n6=LC/UPC  \n7=LC/APC  \nS=Specify \n \n'}]
+!==============================================================================!
+### Component Summary: PMOC-1550-4-B-F-0-2-H-2
+
+**Description:**
+The PMOC-1550-4-B-F-0-2-H-2 is a 4-port polarization maintaining optical circulator designed for use in fiber optic applications. Its primary function is to direct light signals in a specific direction while maintaining the polarization state of the light, which is crucial for high-performance optical systems.
+
+**Key Specifications:**
+- **Operating Wavelength:** 1550 nm
+- **Bandwidth:** ±30 nm
+- **Typical Isolation (at 23°C):** 50 dB
+- **Minimum Isolation (at 23°C):** ≥40 dB
+- **Typical Insertion Loss (at 23°C):** 0.8 dB
+- **Maximum Insertion Loss (at specified temperatures):** ≤1.1 dB (at -5 ~ +70°C @ 1550 nm)
+- **Extinction Ratio:** ≥20 dB
+- **Crosstalk:** ≥50 dB
+- **Return Loss:** ≥50 dB
+- **Power Handling (CW, total):** ≤500 mW
+- **Operating Temperature Range:** -5 ~ +70°C
+- **Storage Temperature Range:** -40 ~ +85°C
+- **Package Type:** φ5.5 × L35 mm (for bare fiber or 900 µm loose tube)
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided data.
+
+**Special Features:**
+- Low insertion loss and high extinction ratio.
+- High stability and reliability.
+- Designed for specific fiber types (PM1550 Panda Fiber for 1550 nm).
+- The optical path differs between Type A and Type B configurations.
+
+**Typical Applications:**
+- **EDFA (Erbium-Doped Fiber Amplifier):** Used to amplify optical signals in fiber optic communication systems.
+- **Fiber Optical Instruments:** Employed in various optical measurement and testing devices.
+- **Fiber Sensors:** Utilized in sensing applications where maintaining polarization is critical for accurate measurements.
+
+This component is ideal for applications requiring precise control of light signals in fiber optic networks, ensuring minimal signal loss and high performance in demanding environments.

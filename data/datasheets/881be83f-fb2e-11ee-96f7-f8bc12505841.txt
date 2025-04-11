@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 48074-9101 production of MOLEX from the text:-\n-\n-\n-\n \n \n \n \n \nDocuments & Resources \nDrawings\nDrawing  480749101_sd.pdf\nPackaging Design Drawing  PK-48074-101-001.pdf\n \n3D Models and Design Files\n3D Model  480749101_stp.zip\n \nSpecifications\nProduct Specification  PS-48074-005-001.pdf\nProduct Specification  PS-48074-006-001.pdf\nTest Summary  TS-48074-006-001.pdf\n \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance Statements\nEu RoHS\nREACH SVHC\nLow-Halogen\n \nMultiple Part Industry Compliance Documents\nIPC 1752A Class CPart Number : 480749101 Product Description : Modular Jack, Right-\nAngle, Surface Mount, with Integrated\nMagnetics and LED, with all Panel Grounding\nTabs, 8/8, Lead-Free\nSeries Number : 48074 Status : Active\nProduct Category : Modular Jacks and Plugs\nGADSL/IMDS Not Relevant\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Not Low-Halogen per IEC 61249-2-\n21\nREACH SVHC Not Contained per D(2023)8585-DC\n(23 Jan 2024)\nEU RoHS Compliant per EU 2015/863\n-\n-\n-\n-\nIPC 1752A Class D\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneral \n \n \nElectrical \n \n \nPhysical \n Status Active\nCategory Modular Jacks and Plugs\nSeries 48074\nDescription Modular Jack, Right-Angle, Surface\nMount, with Integrated Magnetics\nand LED, with all Panel Grounding\nTabs, 8/8, Lead-Free\nComments With LED, Surface Mount Type\nComponent Type PCB Jack\nMagnetic Yes\nPerformance Category 5, 5e\nPower over Ethernet (PoE) Non-PoE\nProduct Family Magnetic Jacks\nProduct Name Modular Jack 8/8,RJ45\nUPC 887191646923\nCurrent - Maximum per Contact 1.5A\nGrounding to Panel With All Panel Grounding Tabs\nGrounding to PCB Yes\nShielded Yes\nVoltage - Maximum 5.5V DC\nBoot Color N/A\nColor - Resin Black\nDurability (mating cycles max) 750\nInverted / Top Latch Yes\n \n \nMates With / Use With \nMates with Part(s) \n \n \n \n \n \nThis document was generated on Apr 15, 2024 Jack Height 13.30mm\nKeying to Mating Part Yes\nLightpipes/LEDs LEDs\nMaterial - Metal Brass, Phosphor Bronze\nMaterial - Plating Mating Gold\nMaterial - Plating Termination Tin\nMaterial - Resin High Temperature Thermoplastic\nNet Weight 5.600/g\nOrientation Right Angle (Side Entry)\nPackaging Type Embossed Tape on Reel\nPCB Locator Yes\nPCB Retention Yes\nPCB Thickness - Recommended 1.60mm\nPitch - Mating Interface 1.02mm\nPitch - Termination Interface 1.02mm\nPlating min - Mating 0.762µm\nPlating min - Termination 2.540µm\nPort Configuration 1x1\nPositions / Loaded Contacts 8/8\nTemperature Range - Operating -40° to +85°C\nTermination Interface Style Surface Mount\nWaterproof / Dustproof No\nWire/Cable Type N/A\nDescription Part Number\nMates With FCC 68 Plugs\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 48074-9101
+
+**Component Type:**  
+Modular Jack, Right-Angle, Surface Mount
+
+**Description:**  
+The MOLEX 48074-9101 is a modular jack designed for surface mounting on printed circuit boards (PCBs). It features integrated magnetics and an LED indicator, along with all panel grounding tabs. This component is part of the 48074 series and is suitable for applications requiring a reliable connection in networking environments.
+
+### Key Specifications:
+
+- **Voltage Ratings:**  
+  Maximum Voltage: 5.5V DC
+
+- **Current Ratings:**  
+  Maximum Current per Contact: 1.5A
+
+- **Power Consumption:**  
+  Not explicitly stated, but the current rating indicates the maximum load capacity.
+
+- **Operating Temperature Range:**  
+  -40°C to +85°C
+
+- **Package Type:**  
+  Surface Mount, Right Angle
+
+- **Special Features or Notes:**  
+  - Integrated magnetics
+  - LED indicator
+  - All panel grounding tabs
+  - Shielded design
+  - Durability: 750 mating cycles
+  - Non-PoE (Power over Ethernet)
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**  
+  Not specified in the provided information.
+
+### Typical Applications:
+The MOLEX 48074-9101 modular jack is typically used in networking applications, particularly for Ethernet connections. Its design allows for easy integration into devices that require reliable data transmission, such as routers, switches, and other communication equipment. The integrated magnetics enhance signal integrity, making it suitable for high-speed data applications. The LED feature provides visual feedback for connectivity status, which is beneficial in troubleshooting and monitoring network connections.
+
+### Compliance:
+- **EU RoHS Compliant:** Yes, per EU 2015/863
+- **REACH SVHC:** Not contained
+- **Low-Halogen Status:** Not Low-Halogen per IEC 61249-2-21
+
+This component is ideal for applications where space is limited, and a robust, reliable connection is essential. Its surface mount design and right-angle orientation facilitate easy PCB integration, making it a versatile choice for modern electronic devices.

@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HPCOLL55CD506210 production of LIGHTSTAR TECHNOLOGY LIMITED from the text:CAT0001REV02\nLightstarTechnologyCo. www.Lightstartech.comSingle/DualFiberCollimator\nFeatures：\nLowIL&HighReturnLoss\nEpoxyFreeInOpticalPath\nEnvironmentalStability\nApplication：\nIsolator，Circulator，FWDM，CWDMetc\nSpecifications：\nParameter Value\nOperatingwavelength(nm) 1310,1550or1310/15501064/1050nm980780,850\nBandwidth(nm) ±30 ±30 ±20±20\nWorkingDistance（Onepairofmatching）(mm) ≤50\nTypInsertionLoss(dB) 0.2 0.25 0.250.25\nInsertionLoss(dB) ≤0.25 ≤0.3 ≤0.3≤0.35\nReturnloss(dB) ≥60 ≥60 ≥55≥55\nPDL(dB) ≤0.02 ≤0.02≤0.02≤0.02\nOpticalPower(mW) ≤500 ≤300 ≤300≤300\nFiberType SMF28e HI1060HI1060HI780\nDimmension(mm)1.8(OD)Lens3.2x10SUS304orSUS304-AuGold（P1）；2.78x9.0Glass\ntube(P2)；\n1.0(OD)Lens\n(only1310,1550nm)1.8x7mmor2.4x10mmSUS304orSUS304-AuGold(P3)；\n1.4x7mmGlasstube(P4)\nOperatingTemperature(℃) -5~+70\nStorageTemperature(℃) -40~+85\n*Abovespecificationsarefordeviceswithouttheconnectors.\n*Fordeviceswithconnectors,ILwillbe0.3dBhigher,RLwillbe5dBlower\nPackingDimensions：\n\nCAT0001REV02\nLightstarTechnologyCo. www.Lightstartech.comOrderingInformation：\nCOLWavelengthLens\nTypeConfigur\nationWorking\nDistancePackagePigtail\nTypeLengthConnector\nCOL\nFOC0780=780nm\n0850=850nm\n0980=980nm\n1064=1064nm\n1050=1050nm\n1310=1310nm\n1550=1550nm\n5531=1310/155\n0nmC=C\nLens\nG=G\nLensS=Single\nfiber\nD=Dual\nfiber05=5mm\n10=10mm\n20=20mm\n30=30mm\n40=40mm\n50=50mm1=P1(1.40x7G)\n2=P2(1.80x7G)\n3=P3(1.80x7M）\n4=P4(2.78x9G）\n5=P5(2.78x10G)\n5=P5(2.40x10M)\n6=P6(3.20x10M)\n7=P7(3.20x10A)\n8=P8(2.4x10A)\nM=SUS304\nA=SUS304\nAu-Gold\nS=Specify1=250um\nbarefiber\n2=900um\nloosetube\n3=3mm\nloosetube\n4=2mm\nloosetube\nS=SpecifyH=0.5m\n8=0.8m\n1=1.0m\n5=1.5m\n2=2.0m\n3=3.0m\n4=4.0m\nA=2.5m\nB=5.0m\nS=Speci\nfy0=None\n1=FC/UPC\n2=FC/APC\n3=SC/APC\n4=SC/UPC\n5=MU\n6=LC/UPC\n7=LC/APC\nS=Specify\n'}]
+!==============================================================================!
+### Component Summary for HPCOLL55CD506210
+
+**Manufacturer:** Lightstar Technology Limited  
+**Product Type:** Single/Dual Fiber Collimator
+
+#### Key Specifications:
+- **Operating Wavelengths:** 
+  - 1310 nm, 1550 nm, 1310/1550 nm, 1064 nm, 1050 nm, 980 nm, 780 nm, 850 nm
+- **Bandwidth:** 
+  - ±30 nm (for 1310 nm and 1550 nm), ±20 nm (for 1064 nm and 1050 nm)
+- **Working Distance (One pair of matching):** 
+  - ≤ 50 mm
+- **Typical Insertion Loss:** 
+  - 0.2 dB (for 1310 nm), 0.25 dB (for 1550 nm), 0.25 dB (for 1064 nm and 1050 nm)
+- **Insertion Loss:** 
+  - ≤ 0.25 dB (for 1310 nm), ≤ 0.3 dB (for 1550 nm), ≤ 0.3 dB (for 1064 nm and 1050 nm)
+- **Return Loss:** 
+  - ≥ 60 dB (for 1310 nm and 1550 nm), ≥ 55 dB (for 1064 nm and 1050 nm)
+- **Polarization Dependent Loss (PDL):** 
+  - ≤ 0.02 dB
+- **Optical Power Handling:** 
+  - ≤ 500 mW (for 1310 nm), ≤ 300 mW (for 1550 nm, 1064 nm, and 1050 nm)
+- **Fiber Type:** 
+  - SMF28e, HI1060, HI780
+- **Operating Temperature Range:** 
+  - -5°C to +70°C
+- **Storage Temperature Range:** 
+  - -40°C to +85°C
+- **Package Type:** 
+  - Various configurations available (SUS304, SUS304-Au Gold, Glass tube)
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** 
+  - Not specified in the provided data.
+
+#### Description:
+The HPCOLL55CD506210 is a fiber collimator designed for optical applications. It is used to collimate light from a fiber optic source, ensuring that the light is parallel as it exits the fiber. This component is essential in various optical systems where precise light management is required.
+
+#### Typical Applications:
+- **Isolators:** To prevent back reflections in laser systems.
+- **Circulators:** For directing light in multiple paths without interference.
+- **Fiber Wavelength Division Multiplexers (FWDM):** To combine or separate different wavelengths of light.
+- **Coarse Wavelength Division Multiplexers (CWDM):** For efficient data transmission over fiber optics by utilizing multiple wavelengths.
+
+This collimator is particularly suited for telecommunications, data centers, and other optical networking applications where high performance and reliability are critical.

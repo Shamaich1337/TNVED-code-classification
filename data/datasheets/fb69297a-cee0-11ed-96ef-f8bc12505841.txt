@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2EDGKF-5.0-03P-14-00A(H) production of DEGSON ELECTRONICS from the text:NAME (INCH) mm \nTHIROANGLE PROJECTION 2EDGKF-5.0     2EDGKF-5.08 \nPA66,UL94 V-0-40 ć~+105 ć15A \nAC2500V/1Min 20A 300V 320V UL IEC \n2EDGKF-5.0  2EDGKF-5.08 5.0mm(.197 ͳ)28-12AWG 2.5mm 2\n0.4Nm(3.5Lb-In) \n7mm \n5.08mm(.200 ͳ)\n2P-22P 8 . 30 \n18.20 \n15.00 \nNX5.08 5.08 \nNX5.0 5.00 Product Specification \nSingle pitch 12X X XHOW TO ORDER : \nP 1\nSeries number Double pitch No.of pole Color \n1Grey \n2\n3Blue \nBlack Green \n5\n6Orange \nRed Trans Parent \n89 Yellow \nWhite 4 7Customer Request Electrical \nStandard Rated voltage Rated current Wire range Withstanding voltage \nMechanical \nAmbient temperature \nStrip length \nDimensions Pitch \nPoles \nMaterial Housing Contact Cage Torque \nScrews APPROVAL \nBrass,Ni-plated Phosphor bronze M2.5,Steel,Cr \n3+ Zn-plated \n'}]
+!==============================================================================!
+### Component Summary: 2EDGKF-5.0-03P-14-00A(H)
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - Rated Voltage: AC 2500V (1 minute withstand)
+  - Operating Voltage: 300V to 320V
+- **Current Ratings**: 
+  - Rated Current: 15A
+  - Maximum Current: 20A
+- **Power Consumption**: Not specified directly; however, the current rating indicates the maximum load capacity.
+- **Operating Temperature Range**: 
+  - -40°C to +105°C
+- **Package Type**: 
+  - 5.0mm pitch connector
+- **Special Features/Notes**: 
+  - UL94 V-0 rated material (PA66)
+  - Suitable for wire sizes from 28 AWG to 12 AWG
+  - Torque specification: 0.4 Nm (3.5 lb-in)
+- **Moisture Sensitive Level (MSL)**: Not specified in the provided text.
+
+#### Description:
+The 2EDGKF-5.0-03P-14-00A(H) is a terminal block connector designed for electrical connections in various applications. It features a double pitch design with a 5.0mm spacing between terminals, allowing for efficient wiring and connection of multiple circuits. The connector is made from durable materials, including PA66 plastic and brass with nickel plating, ensuring reliability and longevity in electrical applications.
+
+#### Typical Applications:
+This component is typically used in:
+- **Power Management**: Connecting power supplies to various devices and systems.
+- **Industrial Automation**: Facilitating connections in control panels and machinery.
+- **Consumer Electronics**: Providing reliable connections in devices that require robust electrical interfaces.
+- **Electrical Distribution**: Used in junction boxes and distribution boards for connecting multiple wires securely.
+
+Overall, the 2EDGKF-5.0-03P-14-00A(H) is a versatile and reliable connector suitable for a wide range of electrical applications, ensuring safe and efficient power distribution and signal integrity.

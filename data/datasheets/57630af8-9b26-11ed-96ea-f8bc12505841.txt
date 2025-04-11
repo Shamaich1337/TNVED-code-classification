@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of D3086-97 production of HARWIN from the text:305\nwww.harwin.comAll dimensions in mm.HOW TO ORDER HOW TO ORDER\nFINISH\n05 Gold\n46 TinINSULATED Materials\nHousing:  PBT UL94V-0\nContact:   Brass\nFinish   \n Insulated:   Gold  \n Un-insulated:   See order code\n Electrical\nCurrent rating:  10A at 20°C\nUN-INSULATEDStyle 1\nStyle 2\nD308  X - XX\nSERIES CODE\nCOLOR\n97 Blue\n98 Black\n99 RedPITCH (A) STYLE\n6 5.08mm 1\n7 6.35mm 1\n8 10.16mm 2\n9 12.70mm 2Recommended PC Board Pattern\nD308  X - XX\nSERIES CODE\nPITCH (A)\n0 5.08mm\n1 6.35mm\n2 10.16mmØ1mm Shorting Link PlugsPCB Hardware\n Choice of insulated or un-insulated links.\n Insulated links supplied in a variety of colors,  \nwith a high-performance gold finish.\n Un-insulated links can be soldered directly into the PCB  \nfor permanent linking.\n Can be used with individual PCB sockets for hardware \nprogramming applications.\nPCB HARDWARE\nØ1.00\n5.00 maxA12.70\n12.003.20 max 9.50\n4.30\n15.10 (A = 10.16) \n15.40 (A = 12.70)\n3.20 max\nØ1.00 AA9.00\nØ1.00\nØ1.07-1.17A\n\n'}]
+!==============================================================================!
+### Component Summary for D3086-97 from HARWIN
+
+**Component Type:** Shorting Link Plug
+
+**Description:**
+The D3086-97 is a shorting link plug designed for use in printed circuit boards (PCBs). It is available in both insulated and un-insulated styles, with the insulated version featuring a high-performance gold finish. The component is primarily used for creating electrical connections on PCBs, allowing for easy linking and programming of hardware.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated in the provided text.
+- **Current Ratings:** 10A at 20°C.
+- **Power Consumption:** Not specified; typically depends on the application and load.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Shorting link plug.
+- **Special Features or Notes:** 
+  - Available in insulated (various colors) and un-insulated versions.
+  - Insulated links are suitable for high-performance applications.
+  - Un-insulated links can be soldered directly onto the PCB for permanent connections.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Typical Applications:**
+- **Power Management:** Used to create connections for power distribution on PCBs.
+- **Signal Processing:** Facilitates the linking of various components for signal routing.
+- **Data Storage:** Can be utilized in hardware programming applications where connections need to be established or modified.
+- **General PCB Hardware:** Ideal for applications requiring temporary or permanent electrical connections on circuit boards.
+
+This summary provides a concise overview of the D3086-97 shorting link plug, highlighting its key specifications and typical applications in electronic circuits.

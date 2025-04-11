@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of USS-BU09-RCB31-95 production of E-TEC from the text:A New 06.05.2022 Cherry\nOrder Code\nUSS-BU09-RCB31-9x\nMaterial\nContact: Copper Alloy\nPlating: Sn on solder, Au on contact area\n                    entire contact Ni underplated\nInsulator: LCP (blue)  UL 94V-0\nShell: Brass; Ni plated\nOperating temperature: 0°C to +50°C\nMechanical Requirements\nInsertion force: 35N max.\nExtraction force: 10N min.Plating\nRoHS\ncompliant\nUSB Connector Type "B"\nFemale -THT- Right Angle\nFully Shielded  - Kinked Gnd. TabsRecommended PCB Layout  Top View\n(Tolerance ±0.05)\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all  rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.30Cherry\nCheng\nFagi06.05.2022\n06.05.2022\n06.05.2022USS-BU09-RCB31\nUSS-BU09-RCB31-9x1/1\nA1 2\n4 35.606.59\n12.005.6412.90\n3.67 ±0.207.24#9 #5\n8.45\n14.40\n2.50 ±0.20\n5.00\n8.5018.30\n12.21 ±0.20\n2.38 ±0.20\n10.302.71 ±0.20\n2.00 ±0.20\n4.00 ±0.20\n5.008.5012.04\n2.504.002.00\n2.71\n10.304x∅0.70\n2x∅2.304x∅0.92\n1 2\n4 356 7 89\nSpecifications\nElectrical\nCurrent rating: 1.5A\nInsulation resistance: 1000MΩ min.\nContact resistance: 30mΩ max.\nWithstanding voltage: 500V AC95=  Tin/Gold flash\n97=  Tin/15µ" Gold\n98=  Tin/30µ" Gold1.61 ±0.20\n4.80\nPin No. Assignment\n1 VBUS\n2 D-\n3 D+\n4 GND\n5 STDB_SSTX-\n6 STDB_SSTX+\n7 GND_DRAIN\n8 STDB_SSRX-\n9 STDB_SSRX+\nShell Shield\n'}]
+!==============================================================================!
+### Component Summary for USS-BU09-RCB31-95
+
+**Component Type:** USB Connector Type "B" (Female - THT - Right Angle)
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated; typically USB connectors operate at 5V.
+- **Current Ratings:** 1.5A
+- **Power Consumption:** Not specified; power consumption can be inferred based on current and voltage ratings.
+- **Operating Temperature Range:** 0°C to +50°C
+- **Package Type:** Through-Hole Technology (THT) Right Angle Connector
+- **Special Features:**
+  - Fully shielded design
+  - Kinked ground tabs for enhanced grounding
+  - RoHS compliant
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The USS-BU09-RCB31-95 is a USB Type B female connector designed for through-hole mounting at a right angle. It features a robust construction with a copper alloy contact, nickel plating under the contact area, and a blue LCP insulator that meets UL 94V-0 flammability standards. The connector is fully shielded to minimize electromagnetic interference and includes kinked ground tabs for improved grounding.
+
+#### Typical Applications:
+This USB connector is commonly used in various electronic devices for data transfer and power supply applications. Typical applications include:
+- **Power Management:** Connecting devices to power sources.
+- **Data Communication:** Facilitating data transfer between devices such as printers, scanners, and computers.
+- **Consumer Electronics:** Used in devices like external hard drives, cameras, and other peripherals that require USB connectivity.
+
+This connector is suitable for applications where a reliable and secure USB connection is necessary, particularly in environments with moderate temperature ranges.

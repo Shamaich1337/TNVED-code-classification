@@ -1,0 +1,49 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SFSDT-05-28-G-03.25-SR production of SAMTEC from the text:View complete specifications at: samtec.com?SFSD & samtec.com?SFSDT(1.27 mm) .050" PITCH • DISCRETE WIRE ASSEMBLY/COMPONENTS\nSFSD(T)\nBoard Mates:\nTFM, TFC \n(–SR & –DR requires \n–WT option)\nUnless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.samtec.com/127mm-TigerEyeSPECIFICATIONS\nInsulator Material:  \nBlack LCP\nContact Material:  \nBeCu\nPlating:\nAu over 50 µ" (1.27 µm) Ni\nCurrent Rating:   \n2.9 A per pin\n(2 pins powered)\nOperating Temp Range:  \n-10 °C to +80 °C (PVC)\n-40 °C to +125 °C (*Teflon®)\nVoltage Rating:  \n275 VAC (PVC)\n235 VAC (*Teflon®)  \nWire:  \n28 or 30 AWG\nView complete specifications at: samtec.com?ISDF, samtec.com?CC03R & samtec.com?CC03M(3.81)\n.150(15.37)\n.605SERIES -WIRE \nGAUGE -01-PLATING\nCC03R\n= Contact, Full Reel \n(35,000 Parts per Reel)\nCC03M\n= Contact, Mini Reel\n(1,000 - 5,000 Parts \nper Reel)–2830\n= 28 to 30 \nAWG–GF\n= Gold flash \ncontact\n–G\n= 10 µ" (0.25 µm) \nGold on contact\nTOOLING\nHand Tool: CAT-HT-203-2830-12 Mini Applicator: CAT-MC-203-2830-XX-01\nClamp for mounting hand tool: CAT-HT-MNT-01 Extraction Tool: CAT-EX-169-01\nNote:  \nSome lengths, styles and \noptions are non-standard, \nnon-returnable.–M –S –D–D–NUS SFSD OR SFSDT –SR(6.35)\n.250No. of P ositions \nx (1.27) .050 \n+ (0.38) .015\n(11.18)\n.440End 1 Notch \n(Always Up)\nAssemb led \nLength\n± (3.18) \n.125\nEnd 2 \nnotch \nlocation \ndeter mined \nby part \nnumber–28C CABLE  \nCOLOR CODING\nPIN COLOR\n1 BROWN\n2 RED\n3 ORANGE\n4 YELLOW\n5 GREEN\n6 VIOLET\n7 GRAY\n8 WHITE\n9 BLACK\n10 BLUE\nETC REPEATSERIES -POSITIONS  \nPER ROW -WIRE \nGAUGE -PLATING \nOPTION -ASSEMBLED \nLENGTH -END \nOPTION -END 2 \nOPTION\nSFSD\n= Double Row  \nPVC Cable\nSFSDT\n= Double Row  \nBlue *Teflon® Cable–03, –04, –05,  \n–07, –10, –15,  \n–20, –25, –40, –50\n(Standard sizes)–28\n= 28 AWG\n–28C\n= Color \nCoded Cable\n(SFSD only)\n–30\n= 30 AWG–G\n= 10 µ" \n(0.25 µm) \nGold on \ncontact, \nGold Flash \non balance–“XX.XX”\n= Assembled \nLength in \nInches  \n(76.20 mm) \n03.00" min. for  \n–S end option\n(82.60 mm) \n03.25" min. for  \n–D end option–S\n= Single Ended\n–D\n= Double Ended\nFor –(X) specify \n“S” for single ended \nand “D” for \ndouble ended.\n–(X)R\n= Retention Latch\n(TFM-WT option \nrequired for mating)\n–(X)S\n= Screw Down\n(Not available in -03, \n-04 & -50 positions) \n(Mates with  \nTFM-DS option)Requires  \n –D, –DS, –DR  \n(End 1 Notch Up) \n–NUS\n= Notch up, \nstraight\n(Pin 1 to Pin N-1)\n–NDS\n= Notch down, \nstraight\n(Pin 1 to Pin 2)\n–NUX\n= Notch up, \ncrossed\n(Pin 1 to Pin N)\n–NDX\n= Notch down, \ncrossed\n(Pin 1 to Pin 1)\n(11.18)\n.440No. of P ositions \nx (1.27) .050 \n+ (0.38) .015\n(6.32)\n.249(6.35)\n.250ISDF -POSITIONS  \nPER ROW -ROW \nOPTION -OPTION\n–03, –04, –05,\n–07, –10, –15, \n–20, –25, –40, –50\n(Standard sizes)–D\n= Double \nRow–M\n= Metal \nRetention \nLatch\n–S\n= Screw \nDownNotes:  \nTeflon® cable is intended \nfor crimp only. Contact \nSamtec for solderable cable \napplications.\nFor wiring option information \nrefer to drawings on web.*DuPont™ Teflon® is a \nregistered trademark of the \nE.I. du Pont de Nemours  \nand Company or its affiliates.\nF-221\n'}]
+!==============================================================================!
+### Component Summary for SFSDT-05-28-G-03.25-SR
+
+**Component Type:**  
+The SFSDT-05-28-G-03.25-SR is a discrete wire assembly connector designed for use in various electronic applications. It is part of the SFSDT series from Samtec, which features double-row connectors with Teflon® cable.
+
+**Key Specifications:**
+
+- **Voltage Rating:**  
+  - 275 VAC (PVC)
+  - 235 VAC (Teflon®)
+
+- **Current Rating:**  
+  - 2.9 A per pin (when 2 pins are powered)
+
+- **Power Consumption:**  
+  - Not explicitly stated, but can be derived from voltage and current ratings.
+
+- **Operating Temperature Range:**  
+  - -10 °C to +80 °C (PVC)
+  - -40 °C to +125 °C (Teflon®)
+
+- **Package Type:**  
+  - Double Row Connector with Teflon® cable
+
+- **Special Features/Notes:**  
+  - Insulator Material: Black LCP
+  - Contact Material: BeCu
+  - Plating: Au over 50 µ" (1.27 µm) Ni
+  - Wire Gauge: 28 or 30 AWG
+  - Notch options available for pin configuration (e.g., Notch up, Notch down)
+  - Designed for crimp only with Teflon® cable; solderable cable applications require consultation with Samtec.
+
+- **Moisture Sensitive Level (MSL):**  
+  - Not specified in the provided text.
+
+**Description:**  
+The SFSDT-05-28-G-03.25-SR is a double-row connector featuring a Teflon® cable assembly. It is designed for reliable electrical connections in various applications, providing a robust interface for signal and power transmission.
+
+**Typical Applications:**  
+This component is typically used in applications requiring reliable wire-to-board connections, such as:
+
+- **Power Management:** Connecting power supplies to circuit boards.
+- **Signal Processing:** Facilitating communication between different electronic components.
+- **Data Storage:** Used in devices that require stable connections for data transfer.
+- **Consumer Electronics:** Commonly found in devices where compact and efficient wiring is essential.
+
+This connector is suitable for environments where temperature extremes and electrical reliability are critical, making it ideal for industrial, automotive, and consumer electronics applications.

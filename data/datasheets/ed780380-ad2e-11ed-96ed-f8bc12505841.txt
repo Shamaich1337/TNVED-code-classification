@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of WRG32F2FBBNN production of ZF ELECTRONICS from the text:www.switches-sensors.zf.com\n ZF Electronics Systems Pleasant Prairie, LLC (“ZF”\n) acquired the rights to the CHERRY branded switche\ns \n and sensors in 2008.  Although ZF divested its int\nerest in the CHERRY name in 2015, the switches and \nsensors remain unchanged and are now \n sold under the ZF brand.\n \nPage 1 of 2, Last update 2017-10-31, Specifications\n subject to change without notice.\n \n \nRocker Switch \n \nSingle and Double Pole  \nWR Series \n \n \nFeatures \n•\n Lighted and non-lighted \n•\n Rugged design for 2-pole high current applications\n \n \n•\n RoHS compliant\n \n•\n Minimum 10,000 operations mechanical life\n \n \nStandard Parts\n1 \n \nNorth America and Europe \nEurope \nWRG32F2BBBN\nWRG32F5FBBNN\nWRG32F2FBGLN\nWRG32F7BWWKN\nWRG32F2FBGEN\nN\nWRG32F2FBR\nWRG32F2BBGEN\nWRG32F2FBRLN\nWRG32F2FBRLN\n \nWRG32F2FBBNN\nWRG32F7BWWNN\nEN\n \nWRG33F2BBBNN\nWRG32F7BBBKN\nWRG32F2BBGLN\n \nWRG34F2BBBNN\nWRG32F7BBBNN\nWRG32F2BBREN\n \n1\nThe part number configuration matrix below provides\n details to the part numbers above.   \nFor configurable part numbers that are not listed a\nbove, not listed in your region, or for custom part\n numbers, contact the factory or \nyour distributor.\n \n \n \nPart Number Breakdown\n \nWRG32F2FBBNN\n \n \nWR G 3 2 F 2 \n \n \nContact Rating\nSeries\n2\n \nSwitch Function\nCircuitry\nActuato\nTerminal Type\nr Type \nG\nWR\n \n 2\n \n2\nSingle pole\n \nON-OFF\nA\n4.8 mm (0.187”) \nquick connect \nCurved\n2\n    3\n \n3\nDouble pole\n \nON-ON\nF\n6.4 mm (0.250”) \nquick connect \nFlat\n5\n       6\n \n(ON)-ON\n7\n \nCurved – Dual \nactuators \n2\nSee Electrical Specifications section      \n \nF B B N N\n 01\n \n \n \nActuator Marking\n \nBody Type\nLighted\nActuator Color\nHousing Color\nB\n \nBlank\n \nAmber\nA\nN\nBlack\nB\n \nNon-lighted\nN\n \nNo rocker boot \nC \nHI \n \nLO \nBlack\nB\nE\nWhite\nW\n \n250 VAC bulb   \nD \nON \n \nOFF \nBrown\nC\nL\nGrey\nY\n \n125 VAC bulb    \nGreen\nG\nH\nO      I\nE\n \n12 VDC LED\n3 \n   \nF \nI \n \n      O \nYellow\nM\nG\n \n6 VDC LED\n3 \n   \nRed\nR\nF\n \n5 VDC LED\n3 \n   \nBlue\nU\nK\n \n250 VAC bulb, \nsmall round red \nlens on rocker\n \n   \nWhite\nW\nJ\n \n125 VAC bulb, \nsmall round red \nlens on rocker\n \n   \nGrey\nY\n \n3\nSwitches have no agency DC ratings \n \n \nwww.switches-sensors.zf.com  ZF Electronics Systems Pleasant Prairie, LLC (“ZF” ) acquired the rights to the CHERRY branded switche s \n and sensors in 2008.  Although ZF divested its int erest in the CHERRY name in 2015, the switches and sensors remain unchanged and are now \n sold under the ZF brand.  \nPage 2 of 2, Last update 2017-10-31, Specifications  subject to change without notice.   Electrical Specifications  \nInrush Rating – 2 position 48 A \nInrush Rating – 3 position 24 A \nDielectric Strength 1000 VAC for 1 minute \nInsulation Resistance 100 M Ω min at 500 VDC \nInitial Contact Resistance 0.020 Ω max \nElectrical Ratings    \nSwitch Function EN61058-1 UL Gen Purpose 1054 UL HP \nALL 16 (4) A 250 V~ T125/55 16 A 125 VAC / 16 A 250 VAC ¼ HP 125 VAC, ¾ HP 250 VAC \nElectrical Life at Rated Load VDE UL  \nMinimum Operations 10,000 6,000  \nUL File No: E23301 \n \nMaterial and Environmental Specifications  \nActuator, non-lighted   Nylon 66 94V-2 \nActuator, lighted   Polycarbonate \nBase   Nylon 66 94V-2 \nSpring Steel Wire \nContacts Silver Alloy \nMovable Arm Silver-Plated Copper Alloy \nTerminals Tin-Plated Copper Alloy \nOperating Temperature Range - VDE -20 OC to +65 OC (-4 OF to +149 OF) \n \nCircuitry and Switch Functions \n \n \n \n \n \n \nDimensions mm (inches)  \n \n \n \n \n \n \n \n  \n \n \n \n \n'}]
+!==============================================================================!
+### Component Summary: WRG32F2FBBNN
+
+**Component Type:** Rocker Switch  
+**Manufacturer:** ZF Electronics
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - 16 A at 125 VAC
+  - 16 A at 250 VAC
+- **Current Ratings:**
+  - 16 A (General Purpose)
+  - ¼ HP at 125 VAC
+  - ¾ HP at 250 VAC
+- **Power Consumption:** Not specified directly; however, the switch is rated for high current applications.
+- **Operating Temperature Range:** -20 °C to +65 °C (-4 °F to +149 °F)
+- **Package Type:** Rocker switch with quick connect terminals (4.8 mm and 6.4 mm options)
+- **Special Features:**
+  - Lighted and non-lighted options available
+  - Rugged design suitable for high current applications
+  - Minimum mechanical life of 10,000 operations
+  - RoHS compliant
+- **Moisture Sensitive Level (MSL):** Not specified in the provided information.
+
+#### Description:
+The WRG32F2FBBNN is a rocker switch designed for both single and double pole configurations. It features a robust construction suitable for high current applications, making it ideal for various electrical devices. The switch can be lighted or non-lighted, providing visual feedback for its operation. The actuator is made from durable materials, ensuring longevity and reliability in demanding environments.
+
+#### Typical Applications:
+The WRG32F2FBBNN rocker switch is commonly used in:
+- Power management systems
+- Industrial machinery
+- Consumer electronics
+- Automotive applications
+- Home appliances
+
+Its ability to handle high current loads makes it suitable for applications where reliable on/off control is essential. The lighted version can be particularly useful in low-light environments, providing clear indication of the switch's status.

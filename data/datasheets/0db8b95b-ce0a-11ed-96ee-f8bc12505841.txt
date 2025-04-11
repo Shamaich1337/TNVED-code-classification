@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2JW1002_CU100549 production of 2J from the text: \n \n 2JW1002     \n \n  Product Datasheet\nKey Features\n2.4/5.0 GHz ISM\n- 2410-2490 MHz\n- 4920-5925 MHz\nConnector Mount\nLow Profile\nHigh Ef ficiency\nGround Plane Dependent\nDimensions Ø 10 × 71 mm\nwww .2j-antennae.com www .2j-antennasusa.com Page: 1/82.4/5.0 GHZ ISM Connector Mount\n\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 2/81. Antenna and electrical specifications   \nAntenna Measurement Conditions:\nMounted on Ground Plane of 70x35mm\nMeasured in Certified CTIA  3D Anechoic ChamberParameters\nStandards\nBand (MHz)\nFrequency (MHz)\nReturn Loss (dB)\nVSWR\nEfficiency (%)\nPeak Gain (dBi)\nAverage Gain (dB)\nImpendance (Ohm)\nPolarisation\nRadiation Pattern\nMax. Input Power (W)\nConnector T ype2.4 G Hz\n2410-2490\n~-10.7\n~1.8:1\n~59.0\n~3.0\n~-2.32.4/5.0 GHz ISM Antenna\nWiFi, BT , ZigBee, ISM\n50\nLinear\nOmni-Directional\n25\nRP-SMA-Male Standard5.0 G Hz\n4920-5925\n~-7.4\n~2.8:1\n~45.0\n~1.0\n~-3.5\n2. Mechanical and environmental specifications    \nSpecifications\nMounting T ype\nDimensions (mm)\nRadome T ype \nRadome Color\nOperating T emperature (C)\nStorage T emperature (C)\nSubstance Compliance2JW1002\nConnector Mount\nØ 10 × 71\nPOM\nBlack\n-40 to +85\n-40 to +85\nRoHS\n-15-10-50\n23002500270029003100330035003700390041004300450047004900510053005500570059006100Return Loss (dB)\nFrequency  (MHz)\nwww .2j-antennae.com www .2j-antennasusa.com Page: 3/83. Antenna parameters    \n0123456\n23002500270029003100330035003700390041004300450047004900510053005500570059006100VSWR\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 4/8010203040506070\n23002500270029003100330035003700390041004300450047004900510053005500570059006100Efficiency (%)\nFrequency  (MHz)\n-101234\n23002500270029003100330035003700390041004300450047004900510053005500570059006100Peak Gain (dBi)\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 5/8Radiation pattern referen ce-5-4-3-2-10\n23002500270029003100330035003700390041004300450047004900510053005500570059006100Average Gain (d B)\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 6/82450 and 5500 MHz Rad iation pattern\n\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 7/84. Antenna drawings    \n 71 5 10 \nSMA male \n10  49 \nSMA male\n 29 \n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 8/85. Antenna Images    \n'}]
+!==============================================================================!
+### Component Summary for 2JW1002
+
+**Component Type:** Antenna  
+**Primary Function:** The 2JW1002 is a connector mount antenna designed for wireless communication applications, operating in the 2.4 GHz and 5.0 GHz ISM bands. It is suitable for various protocols including WiFi, Bluetooth, ZigBee, and other ISM applications.
+
+#### Key Specifications:
+- **Frequency Bands:**
+  - 2.4 GHz: 2410-2490 MHz
+  - 5.0 GHz: 4920-5925 MHz
+- **Return Loss:**
+  - 2.4 GHz: ~-10.7 dB
+  - 5.0 GHz: ~-7.4 dB
+- **VSWR (Voltage Standing Wave Ratio):**
+  - 2.4 GHz: ~1.8:1
+  - 5.0 GHz: ~2.8:1
+- **Efficiency:**
+  - 2.4 GHz: ~59.0%
+  - 5.0 GHz: ~45.0%
+- **Peak Gain:**
+  - 2.4 GHz: ~3.0 dBi
+  - 5.0 GHz: ~1.0 dBi
+- **Average Gain:**
+  - 2.4 GHz: ~-2.3 dB
+  - 5.0 GHz: ~-3.5 dB
+- **Impedance:** 50 Ohm
+- **Polarization:** Linear
+- **Radiation Pattern:** Omni-Directional
+- **Max Input Power:** 25 W
+- **Connector Type:** RP-SMA-Male
+- **Dimensions:** Ø 10 × 71 mm
+- **Operating Temperature Range:** -40 to +85 °C
+- **Storage Temperature Range:** -40 to +85 °C
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data, but typically antennas are not classified under MSL.
+- **Substance Compliance:** RoHS compliant
+
+#### Description:
+The 2JW1002 is a low-profile, high-efficiency antenna designed for connector mounting. It operates effectively in both the 2.4 GHz and 5.0 GHz frequency bands, making it versatile for various wireless communication applications. The antenna's design is ground plane dependent, which means its performance can be influenced by the surface it is mounted on.
+
+#### Typical Applications:
+- **Wireless Communication:** Ideal for devices utilizing WiFi, Bluetooth, ZigBee, and other ISM band technologies.
+- **IoT Devices:** Suitable for Internet of Things applications where reliable wireless connectivity is essential.
+- **Consumer Electronics:** Can be used in laptops, smartphones, and other consumer devices requiring wireless communication.
+- **Industrial Automation:** Useful in industrial settings for machine-to-machine communication and remote monitoring systems.
+
+This summary provides a comprehensive overview of the 2JW1002 antenna, highlighting its specifications and typical use cases in the field of wireless communication.

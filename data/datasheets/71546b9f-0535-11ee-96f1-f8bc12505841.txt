@@ -1,0 +1,62 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of R12-KL12040-S production of TALENT MICROWAVE from the text:SPDT Electromechanical  \n Switch\nPulse Latching\n ,DC to 40 GHz, 2.92mm,\n Solder Pin\n电气参数\n Electrical Characteristics:\n射频特性\n RF Specifications:参数 Parameter 条件 Condition\n频率范围 Frequency Range DC-40 GHz\n阻抗 RF Impedance 50 Ohms\n开关模式 Operation Mode Pulse Latching\n开关顺序 Switch Sequence Break before make\n切换时间 Switching time 15 ms Max\n开关寿命 Standard Actuator Life 5 million Min\n驱动电压 Actuator voltage Available 12         24          28 V\n驱动电流 Actuator current 200        100        80 mA\n环境和物理特性\n Envrionmental And Physical Characteristics: \n参数 Parameter 条件 Condition\n操作温度 OperatingTemperature  -25°C to +65°C(Standard )\n-55°C -+85°C(Optional)\n震动 Vibration(operating) 10G RMS, 20 -2000HZ\n冲击 Shock(non operating) 50G, 1/2Sine, 12msec\n射频接口 Connector Type 2.92mm Female\n控制接口 Control Connector Solder Pin\n重量 Weight 70g MaxSuzhou Talent Microwave,Inc\n+86-0512 -62657975\nsales@talentmw.com \nwww.talentmw.com  \n频率范围 Frequency (GHz) DC-6 6-12 12-18 18-26.5 26.5 -40\n插损 Insertion Loss (dB max.) 0.20 0.25 0.40 0.70 1.00\n隔离 Isolation (dB min.) 70 70 60 55 50\n驻波 VSWR (max.) 1.2:1 1.3:1 1.4:1 1.7:1 2.0:1\n平均功率 RF Power CW (Watts max.) 80 50 45 15 8\nAvailable with USB & \nEthernet Control!\nUnit:  Inch(mm)\n外形尺寸\n Outline Drawing: 原理图 Schematic : \n标准型号\n Outline Drawing: \n标准型号\nPart Number驱动电压\nActuator voltage可选项Option  \nR12-KL12040 12 V\n-S(-55°C -+85°C) R12-KL24040 24 V\nR12-KL28040 28 V \n1.50\n [38.00]\n0.22\n [5.50]0.28\n [7.00]0.28\n [7.00]0.20\n [5.00]\n0.44\n [11.20]0.44\n [11.20]\n0.60\n [15.20]\n1.54\n [39.20]0.11\n [2.75]\n1        C        2\n0.44\n [11.20]Suzhou Talent Microwave,Inc\n+86-0512 -62657975\nsales@talentmw.com \nwww.talentmw.com  \n1\nC\n2\nRF inputActuator\nPower input\nterminalsV1\nCOM\nV2\n典型曲线\n Typical Performance Data: \n© 2014 Tanlent Microwave Rev1.01.001.201.401.601.802.002.20\n0 5 10 15 20 25 30 35 40VSWR\nFrequency (GHz)VSWR\nMAXIMUM TEST LIMIT\n1_S11\n1_S22-1.20-1.00-0.80-0.60-0.40-0.200.00\n0 5 10 15 20 25 30 35 40IL (dB)\nFrequency (GHz)INSERTION LOSS\nMAXIMUM TEST LIMIT\n1_S12\n2_S12\n-100.00-80.00-60.00-40.00-20.000.00\n0 5 10 15 20 25 30 35 40Isolation (dB)\nFrequency (GHz)ISOLATION\nMAXIMUM TEST\nLIMIT\n1_S12\n2_S12Suzhou Talent Microwave,Inc\n+86-0512 -62657975\nsales@talentmw.com \nwww.talentmw.com  \n'}]
+!==============================================================================!
+### Component Summary: R12-KL12040-S
+
+**Type:** SPDT Electromechanical Switch  
+**Function:** Pulse Latching Switch for RF applications
+
+#### Key Specifications:
+- **Frequency Range:** DC to 40 GHz
+- **RF Impedance:** 50 Ohms
+- **Operation Mode:** Pulse Latching
+- **Switch Sequence:** Break before make
+- **Switching Time:** 15 ms Max
+- **Actuator Voltage Options:** 12 V
+- **Actuator Current:** 200 mA
+- **Operating Temperature Range:** 
+  - Standard: -25°C to +65°C
+  - Optional: -55°C to +85°C
+- **Vibration (Operating):** 10G RMS, 20 - 2000 Hz
+- **Shock (Non-Operating):** 50G, 1/2 Sine, 12 msec
+- **Connector Type:** 2.92mm Female
+- **Control Interface:** Solder Pin
+- **Weight:** 70g Max
+- **Moisture Sensitive Level:** Not specified in the provided data
+
+#### Electrical Characteristics:
+- **Insertion Loss (dB max.):**
+  - DC-6 GHz: 0.20
+  - 6-12 GHz: 0.25
+  - 12-18 GHz: 0.40
+  - 18-26.5 GHz: 0.70
+  - 26.5-40 GHz: 1.00
+- **Isolation (dB min.):**
+  - DC-6 GHz: 70
+  - 6-12 GHz: 70
+  - 12-18 GHz: 60
+  - 18-26.5 GHz: 55
+  - 26.5-40 GHz: 50
+- **VSWR (max.):**
+  - DC-6 GHz: 1.2:1
+  - 6-12 GHz: 1.3:1
+  - 12-18 GHz: 1.4:1
+  - 18-26.5 GHz: 1.7:1
+  - 26.5-40 GHz: 2.0:1
+- **Average RF Power (CW max.):**
+  - DC-6 GHz: 80 Watts
+  - 6-12 GHz: 50 Watts
+  - 12-18 GHz: 45 Watts
+  - 18-26.5 GHz: 15 Watts
+  - 26.5-40 GHz: 8 Watts
+
+### Description:
+The R12-KL12040-S is a Single Pole Double Throw (SPDT) electromechanical switch designed for high-frequency RF applications. It operates in a pulse latching mode, allowing for efficient switching between different RF paths. The switch is characterized by its compact design and robust performance across a wide frequency range, making it suitable for various RF signal routing tasks.
+
+### Typical Applications:
+- **Telecommunications:** Used in RF signal routing for communication systems.
+- **Test Equipment:** Ideal for use in RF test setups where switching between different signal paths is required.
+- **Aerospace and Defense:** Suitable for applications requiring reliable switching in harsh environments.
+- **Broadcasting:** Employed in RF systems for signal management in broadcasting applications.
+- **Research and Development:** Utilized in laboratories for experiments involving RF signals and switching mechanisms.
+
+This component is particularly valuable in scenarios where precise control of RF signals is necessary, ensuring minimal signal loss and high isolation between channels.

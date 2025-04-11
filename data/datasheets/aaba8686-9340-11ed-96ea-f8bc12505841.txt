@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ADTT1-1+ production of MINI-CIRCUITS from the text:FREQUENCY\n(MHz)INSERTION\nLOSS\n(dB)INPUT\nR. LOSS\n(dB)AMPLITUDE\nUNBALANCE\n(dB)PHASE\nUNBALANCE\n(Deg.)Ω\nRATIOFREQUENCY\n(MHz)INSERTION LOSS* PHASE \nUNBALANCE\n(Deg.)\nTyp.AMPLITUDE \nUNBALANCE\n(dB)\nTyp.\n3 dB\nMHz2 dB\nMHz1 dB\nMHz1 dB\nbandwidth2 dB\nbandwidth1 dB\nbandwidth2 dB\nbandwidth\n1 0.3-300 0.3-300 0.4-200 0.5-90 1 2 0.15 0.3\n* Insertion Loss is referenced to mid-band loss, 0.3 dB typ.\n \n 0.30 0.60 18.25 0.16 0.14\n 0.40 0.55 19.91 0.16 0.14\n 0.50 0.53 21.02 0.15 0.13\n 1.00 0.45 23.66 0.17 0.05\n 10.00 0.27 27.17 0.16 0.16\n 40.00 0.40 18.56 0.15 0.33\n 90.00 0.74 12.23 0.10 0.79\n 150.00 1.42 8.46 0.01 1.35\n 200.00 1.54 6.59 0.13 1.71\n 300.00 2.18 6.02 0.47 1.89\nNotes\nA. Performance and quality attributes and conditions not expressly stated in this specification document are intended to be excluded and do not form a part of this specification document. \nB. Electrical specifications and performance data contained in this specification document are based on Mini-Circuit’s applicable established test performance criteria and measurement instructions. \nC. The parts covered by this specification document are subject to Mini-Circuits standard limited warranty and terms and conditions (collectively, “Standard Terms”); Purchasers of this part are entitled   \n to the rights and benefits contained therein. For a full statement of the Standard Terms and the exclusive rights and remedies thereunder, please visit Mini-Circuits’ website at www.minicircuits.com/MCLStore/terms.jsp\nMini-Circuits®\nwww.minicircuits.com    P .O. Box 350166, Brooklyn, NY 11235-0003  (718) 934-4500  sales@minicircuits.comA B C D E F G\n.272 .310 .220 .100 .112 .055 .100\n6.91 7.87 5.59 2.54 2.84 1.40 2.54\nH J K L wt\n.030 .026 .065 .300 grams\n0.76 0.66 1.65 7.62 0.20PCB La nd Pattern \nSugges ted Layout, \nTolerance t o be within ± �.002 50Ω             0.3 to 300 MHz RF Transformer ADTT1-1+\nMaximum Ratings\nPin ConnectionsOperating Temperature  -20°C to 85°C\nStorage Temperature   -55°C to 100°C\nRF Power           0.25W\nDC Current 30mA     \nTransformer Electrical Specifications\nREV. F\nM158496\nADTT1-1+\nED-6762\nDY/TD/CP/AM\n161026Typical Performance DataPRIMARY DOT 3 \nPRIMARY 1\nPRIMARY CT 2 \nSECONDARY DOT 4 \nSECONDARY  6 \nSECONDARY CT 5 Features\n• good return loss, 18 dB in 1 dB bandwidth\n• excellent amplitude unbalance, 0.15 dB typ. and \n phase unbalance, 1 deg. typ. in 1 dB bandwidth\n• aqueous washable\n• protected under U.S. Patent 6,133,525\nApplications\n• impedance matching\n• balunsSurface Mount\nOutline Dimensions  (     )inch\nmmOutline Drawing\nConfig. BDemo Board MCL P/N:  TB-211\nADTT1-1\nINSERTION LOSS\n0.00.61.21.82.4\n0 50 100 150 200 250 300\nFREQUENCY (MHz)INSERTION LOSS (dB)ADTT1-1\nINPUT RETURN LOSS\n0.05.010.015.020.025.030.0\n0 50 100 150 200 250 300\nFREQUENCY (MHz)RETURN LOSS (dB)Permanent damage may occur if any of these limits are exceeded.  \nCASE STYLE:  CD542\n+RoHS Compliant\nThe +Suffix identifies RoHS Compliance. See our web site \nfor RoHS Compliance methodologies and qualifications\nAvailable Tape and Reel \nat no extra cost \n Reel Size Devices/Reel\n 7” 20, 50, 100, 200\n 13” 500,1000\nGeneric photo used for illustration purposes only\n'}]
+!==============================================================================!
+### Component Summary: ADTT1-1+
+
+**Description:**
+The ADTT1-1+ is a surface mount RF transformer designed for applications requiring impedance matching and balun functionality. It operates effectively within a frequency range of 0.3 to 300 MHz, making it suitable for various RF applications.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated; however, the component is designed for RF applications.
+- **Current Ratings:** 
+  - **DC Current:** 30 mA
+- **Power Consumption:**
+  - **RF Power:** 0.25 W
+- **Operating Temperature Range:** 
+  - **Operating Temperature:** -20°C to 85°C
+  - **Storage Temperature:** -55°C to 100°C
+- **Package Type:** Surface Mount, Case Style CD542
+- **Moisture Sensitive Level:** Not specified, but the component is RoHS compliant.
+- **Special Features:**
+  - Good return loss (18 dB in 1 dB bandwidth)
+  - Excellent amplitude unbalance (0.15 dB typ.) and phase unbalance (1° typ.) in 1 dB bandwidth
+  - Aqueous washable
+  - Protected under U.S. Patent 6,133,525
+
+**Typical Applications:**
+- **Impedance Matching:** The transformer is used to match the impedance between different components in RF circuits, ensuring maximum power transfer and minimizing signal reflection.
+- **Baluns:** It can function as a balun, converting between balanced and unbalanced signals, which is essential in RF transmission lines and antenna systems.
+
+### Performance Data:
+- **Insertion Loss:** 
+  - Typical values range from 0.27 dB to 2.18 dB across the frequency range of 0.3 to 300 MHz.
+- **Input Return Loss:** 
+  - Typical values range from 6.02 dB to 27.17 dB across the frequency range.
+- **Amplitude Unbalance:** 
+  - Typically 0.15 dB.
+- **Phase Unbalance:** 
+  - Typically 1°.
+
+### Additional Notes:
+- The component is available in tape and reel packaging for automated assembly processes.
+- It is compliant with RoHS regulations, indicating it is free from hazardous substances.
+
+This summary provides a comprehensive overview of the ADTT1-1+ RF transformer, highlighting its specifications, functionality, and applications in electronic circuits.

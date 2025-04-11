@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 378-802-6 5X  production of MITUTOYO from the text:04.06.2024, 09:16 Mitutoyo - M Plan APO 5X\nhttps://shop.mitutoyo.eu/web/mitutoyo/en/mitutoyo/$catalogue/mitutoyoData/PR/378-802-6/datasheet.xhtml 1/2\n M Plan APO 5X\nItem number: 378-802-6\nImages\nDescription\nFeatures\nLong Working Distances\nInﬁnity Corrected\nBright Field Inspection\nHigh Quality Plan Apochromat Design\nFlat Image Surface over Entire Field of View\nFeatures\nModel: M Plan Apo 5X\nWorking distance: In Air: 34 mm\nCorrected Wave Length: 436-656  nm\nN.A.: 0.14\nf: 40 mm\nP.D.: 95 mm\nR: 2 µm\nFOV 1: ø4.8  mm\nFOV 2: 0,96 x 1,28  mm\nAbbreviations in product table : N.A.: Numerical aperture\nW.D.: Working distance\nP.D.: Parfocal distance\nf: Focal distance\nR: Resolving power\nD.F.: Depth of ﬁeld\nFOV 1: Field of view when using ø24 mm\neyepiece\nFOV 2: Field of view when using a digital\ncamera with 1/2" chip size\nFunctions: M Plan Apo for Bright Field Observation\nCompatible with microscope types VMU /\nFS-70 / MF-U / Hyper MF-U\nNote: To avoid optical ﬂare in use of\ncoaxial illumination 1x objectives should\nbe used togehter with polarisation unit on\n04.06.2024, 09:16 Mitutoyo - M Plan APO 5X\nhttps://shop.mitutoyo.eu/web/mitutoyo/en/mitutoyo/$catalogue/mitutoyoData/PR/378-802-6/datasheet.xhtml 2/2microscope and attached 1/4 wavelength\nplate.\nMass: 230 g\nDimensions\n'}]
+!==============================================================================!
+### Component Summary: Mitutoyo M Plan APO 5X (Item Number: 378-802-6)
+
+#### Key Specifications:
+- **Model**: M Plan Apo 5X
+- **Working Distance**: 34 mm (in air)
+- **Corrected Wavelength**: 436-656 nm
+- **Numerical Aperture (N.A.)**: 0.14
+- **Focal Length (f)**: 40 mm
+- **Parfocal Distance (P.D.)**: 95 mm
+- **Resolving Power (R)**: 2 µm
+- **Field of View (FOV)**:
+  - FOV 1: Ø4.8 mm (when using Ø24 mm eyepiece)
+  - FOV 2: 0.96 x 1.28 mm (when using a digital camera with 1/2" chip size)
+- **Mass**: 230 g
+- **Special Features**:
+  - Long working distances
+  - Infinity corrected optics
+  - High-quality plan apochromat design
+  - Flat image surface over the entire field of view
+- **Compatibility**: Designed for use with microscope types VMU, FS-70, MF-U, and Hyper MF-U.
+- **Notes**: To avoid optical flare when using coaxial illumination, it is recommended to use 1x objectives together with a polarization unit on the microscope and an attached 1/4 wavelength plate.
+
+#### Description:
+The Mitutoyo M Plan APO 5X is a high-quality optical microscope objective designed for bright field observation. It features a plan apochromat design, which ensures that images are flat and free from chromatic aberrations across the entire field of view. This objective is particularly suited for applications requiring high-resolution imaging and long working distances.
+
+#### Typical Applications:
+The M Plan APO 5X is commonly used in various microscopy applications, including:
+- **Biological Research**: For observing biological specimens with clarity and detail.
+- **Material Science**: To analyze materials and their properties at a microscopic level.
+- **Quality Control**: In manufacturing processes where precise measurements and inspections are necessary.
+- **Education**: In academic settings for teaching microscopy techniques and applications.
+- **Industrial Inspection**: For examining components and assemblies in quality assurance processes.
+
+This objective is ideal for users who require high-performance optics for detailed observation and analysis in both laboratory and industrial environments.

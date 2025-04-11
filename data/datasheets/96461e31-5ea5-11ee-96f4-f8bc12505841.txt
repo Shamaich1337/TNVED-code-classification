@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of LFCN-6400D+ production of MINI-CIRCUITS from the text:Low Pass FilterCERAMIC\nLFCN-6400D+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 1 OF 3 50Ω         DC to 6400 MHz  \nCASE STYLE: FV1206\n+RoHS Compliant\nThe +Suffix identifies RoHS Compliance. See our web site \nfor RoHS Compliance methodologies and qualificationsGeneric photo used for illustration purposes only\nELECTRICAL SPECIFICATIONS1,2 AT 25°C\nParameter F# Frequency (MHz) Min. Typ. Max. Units\nPassbandInsertion Loss DC-F1 DC-6400 — — 2.0 dB\nFreq. Cut-Off F2 7200 — 3.0 — dB\nVSWR DC-F1 DC-6400 — 1.2 — :1\nStop BandRejection LossF38300 20 — —\ndB F4-F5 7700-10200 — 30 —\nF6 10200-12500 — 20 —\nVSWR F3-F68300-12500 — 17 —:1\nTYPICAL FREQUENCY RESPONSE\nFUNCTIONAL SCHEMATIC\nREV. B\nECO-011362\nLFCN-6400D+\nEDR-8033/3U\nRVN/AD/CP/AM\n22010720\n340ATTENUATION (dB)1\nF2 F3 F1 DC F4 F5 F6\nFREQUENCY\nRF IN RF OUTFEATURES\n yExcellent power handling, 8W\n ySmall size\n y7 sections\n yTemperature stable\n yHermetically sealed\n yLTCC construction\n yProtected by U.S Patent 6,943,646\nAPPLICATIONS\n yHarmonic rejection \n yVHF/UHF transmitters/receivers\n yLab use\n1. DC Resistance to ground is 100 Mohms min.\n2. Measured on Mini-Circuits Characterization Test Board TB-270.\n3. Derate linearly to 3W at 100°C ambient.\nPermanent damage may occur if any of these limits are exceeded. Parameter Ratings\nOperating temperature -55°C to 100°C\nStorage temperature -55°C to 100°C\nRF Power Input38 W max. at 25°C\nMax. DC Voltage at pins 1&3 25 VDC\nDC Current Input to Output 0.5A max. at 25°CMAXIMUM RATINGS\nLow Pass FilterCERAMIC\nLFCN-6400D+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com www.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 2 OF 3RF IN 1\nRF OUT 3\nGROUND 2,4PIN CONNECTIONS OUTLINE DRAWING\nDEMO BOARD MCL P/N: TB-270\nSUGGESTED PCB LAYOUT  (PL-137)PRODUCT MARKING: N/A\nOUTLINE DIMENSIONS (Inches ) mmPCB Land Pattern \nSugges ted Layout, \nTolerance to be within ±.002  (ON TOP)\n (ON TOP)\nABCDE FG\n.126 .063 .037 .020 .032 .009 .169\n3.20 1.60 0.94 0.51 0.81 0.23 4.29\nH J K L M N P wt\n.087 .024 .122 .024 .087 .012 .071 grams\n2.21 0.61 3.10 0.61 2.21 0.30 1.80 .020\nTAPE & REEL INFORMATION: F71\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 3 OF 3\nNOTES\nA.Performance and quality attributes and conditions not expressly stated in this specification document are intended to be excluded and do not form a part of this specification document. \nB.Electrical specifications and performance data contained in this specification document are based on Mini-Circuit’s applicable established test performance criteria and measurement instructions. \nC.The parts covered by this specification document are subject to Mini-Circuits standard limited warranty and terms and conditions (collectively, “Standard Terms”); Purchasers of this part are entitled to the rights \nand benefits contained therein. For a full statement of the standard. Terms and the exclusive rights and remedies thereunder, please visit Mini-Circuits’ website at www.minicircuits.com/MCLStore/terms.jsp\nLow Pass FilterCERAMIC\nLFCN-6400D+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.comFrequency \n(MHz)Insertion Loss\n(dB)VSWR\n(:1)\n40 0.02 1.04\n500 0.07 1.02\n2000 0.20 1.14\n4000 0.40 1.36\n5500 0.55 1.09\n6400 1.25 1.53\n7000 1.76 1.10\n7200 3.12 1.81\n7350 6.62 3.90\n7500 12.86 7.76\n7680 24.39 12.35\n7770 35.48 14.62\n8300 28.71 22.29\n10200 30.17 16.89\n11000 25.43 17.75\n12500 19.72 15.39\n15000 13.80 8.90TYPICAL PERFORMANCE DATA AT 25°C\nLFCN-6400D+\nINSERTION LOSS\n051015202530354045\n0 3000 6000 9000 12000 15000\nFREQUENCY (MHz)INSERTION LOSS (dB)LFCN-6400D+\nVSWR\n110100\n0 3000 6000 9000 12000 15000\nFREQUENCY (MHz)VSWR\n'}]
+!==============================================================================!
+### Component Summary: LFCN-6400D+
+
+**Description:**
+The LFCN-6400D+ is a ceramic low pass filter designed for RF applications. It operates effectively from DC to 6400 MHz, providing excellent performance in terms of insertion loss and power handling. The filter is constructed using Low-Temperature Co-fired Ceramic (LTCC) technology, which ensures stability and reliability in various operating conditions. 
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Max DC Voltage at pins 1 & 3: 25 VDC
+
+- **Current Ratings:**
+  - DC Current Input to Output: 0.5 A max at 25°C
+
+- **Power Consumption:**
+  - RF Power Input: 38 W max at 25°C (derated to 3 W at 100°C)
+
+- **Operating Temperature Range:**
+  - Operating Temperature: -55°C to 100°C
+  - Storage Temperature: -55°C to 100°C
+
+- **Package Type:**
+  - Case Style: FV1206
+
+- **Special Features:**
+  - Excellent power handling (up to 38 W)
+  - Small size with 7 sections
+  - Temperature stable
+  - Hermetically sealed
+  - Protected by U.S. Patent 6,943,646
+  - RoHS compliant
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided data, but typically follows JEDEC J-STD-020E standards for moisture sensitivity.
+
+**Typical Applications:**
+The LFCN-6400D+ is commonly used in:
+- Harmonic rejection circuits
+- VHF/UHF transmitters and receivers
+- Laboratory equipment for signal processing
+- RF communication systems where filtering of high-frequency noise is required
+
+This low pass filter is ideal for applications that require a compact solution with high power handling capabilities and stable performance across a wide frequency range.

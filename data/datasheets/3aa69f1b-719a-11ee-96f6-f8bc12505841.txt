@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-LTE-GNSS-C4M-10mCE production of DOLIN GROUP LIMITED from the text: \n \nPRODUCT DATASHEET  \n   MMMGGG---LLLTTTEEE---GGGNNNSSSSSS---CCC444MMM   \nType  Combination Antenna  2in1 \nGlonass /GPS+GSM /3G/LTE   \nMounting  Magnetic  \nBrand Name  MG ANTENNAS  \n  \n \n \n1. SPECIFICATION  \n1.1 Electrical Specifi cations  \nCable 1 - GSM/3G  /LTE  \n                                                                       \nCable 2- Glonass/GPS  \n                                                                        \n \n  \n \n \n \n \n1.2 Mechanical  and Environmental Specification  \nCable  (type and length )  RG174, 1/5/10m or other * \nConnector  GPS  SMA  /Cut end   or other * \nConnector  GSM  SMA  /Cut end   or other * \nHousing Color  Black  \nMounting  Magnetic /3M \nDimensions  52.0 (Ø) x 14.2 (H) mm \nOperating / Storage  Temperature  - 40 ~ + 8 5 ˚C \nVibration  10 to 55MHz with 1.5mm amplitude 2 hours  \nIngress Protection  IP67 (exclude cable ou tlet) \nRelative Humidity  Up to 95%  \nEnvironmenta lly Friendly  ROHS Compliant  \n   * Customizable Cable and Connector   \n \n \n Frequency  700-2700Mhz  \nPolari zation  Linear  \nPeak Ga in  2.0 dBic (Zenith)  \nMax.  Input  power  25 W \nVSWR  2 :1 \nImpedance  50 Ω \nFrequency  GPS:1575.42MHz±1.023MHz  \nGLONASS ：1602MHz±8 MHz  \nPolari zation  RHCP  \nPeak Gain  2.0 dBi \nLNA Gain  28±3 dBi \nVSWR  1.5 :1 \nSupply Voltage  3-5V DC  \nCurrent Consumption  ＜15mA  \nImpe dance 50 Ω \n2. MEASUREMENTS  \n \n2.1 Patch Test Curve (GPS/GLONASS)   \n \n \n \n \n \n \n \n \n \n \n \n2.2 4G/LTE Characteristic  Curve   \n \n \n2.3 Low noise amplifier test curve  \n \n \n'}]
+!==============================================================================!
+### Component Summary: MG-LTE-GNSS-C4M-10mCE
+
+**Type:** Combination Antenna (2-in-1)  
+**Brand Name:** MG ANTENNAS  
+**Function:** The MG-LTE-GNSS-C4M-10mCE is a combination antenna designed to support both GNSS (GPS and GLONASS) and GSM/3G/LTE communications. It is suitable for applications requiring simultaneous reception of satellite positioning signals and cellular data.
+
+#### Key Specifications:
+
+- **Voltage Ratings:**
+  - Supply Voltage: 3-5V DC
+
+- **Current Ratings:**
+  - Current Consumption: <15mA
+
+- **Power Consumption:**
+  - Max Input Power: 25 W
+
+- **Operating Temperature Range:**
+  - Operating/Storage Temperature: -40°C to +85°C
+
+- **Package Type:**
+  - Dimensions: 52.0 mm (Ø) x 14.2 mm (H)
+  - Mounting: Magnetic / 3M adhesive
+
+- **Special Features:**
+  - Ingress Protection: IP67 (excluding cable outlet)
+  - ROHS Compliant
+  - Customizable cable and connector options available
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided data, but typically, IP67 indicates a high level of moisture resistance.
+
+#### Description:
+The MG-LTE-GNSS-C4M-10mCE is a compact, dual-function antenna that integrates both GNSS (Global Navigation Satellite System) capabilities for GPS and GLONASS with GSM/3G/LTE cellular communication. It is designed for robust performance in various environmental conditions, making it suitable for outdoor applications.
+
+#### Typical Applications:
+- **Telematics:** Used in vehicles for navigation and communication.
+- **IoT Devices:** Ideal for Internet of Things applications requiring location tracking and cellular connectivity.
+- **Mobile Communication:** Enhances mobile devices with GPS and cellular capabilities.
+- **Remote Monitoring:** Suitable for remote sensing applications where both positioning and data transmission are necessary.
+- **Smart City Solutions:** Can be utilized in smart infrastructure for real-time data collection and location services.
+
+This antenna is particularly useful in scenarios where reliable positioning and communication are critical, such as in automotive, logistics, and mobile technology sectors.

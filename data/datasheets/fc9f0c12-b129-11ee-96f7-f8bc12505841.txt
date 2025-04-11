@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ETD5401 Bobbin production of XUYI OUGE ELECTRONIC CO.,LTD. from the text: \n Item ETD-5401  \nDRAFTED  \nBY 付志良  TOLERANCE ANGLR: \n    ±1º MODEL NAME ： \n        ETD-5401H(11+11)PIN \nCHECKED  \nBY  \n吴志权  0＜L≤4 ±0.1 \n4＜L≤16 ±0.2 \n16＜L≤63 ±0.3 Pin pitch  \n±0.20 UNIT:MM MATERIAL: \nPET(Black) UL REC: \nUL 94V-0 \n                  盱眙欧歌电子有限公司  \n             XUYI OUGE ELECTRONIC CO.,LTD. \n  TEL: 0086-760-22286356      FAX:0086-760-22286951 \n  Email ：sales@ougedianzi.com SCALE: \n    1/1 TERMINAL \nMAT:CP WIRE PIN TENSION LOAD:  \n1.0 KGS MIN \n DATE: \n2014.03.28 DRAWING \nNO: REV. A  \n \n\n'}]
+!==============================================================================!
+### Component Summary: ETD-5401 Bobbin
+
+**Manufacturer:** XUYI OUGE ELECTRONIC CO., LTD.
+
+#### Key Specifications:
+- **Model Name:** ETD-5401H (11+11) PIN
+- **Material:** PET (Black)
+- **UL Rating:** UL 94V-0 (Flame Retardant)
+- **Pin Pitch Tolerance:**
+  - 0 < L ≤ 4 mm: ±0.1 mm
+  - 4 < L ≤ 16 mm: ±0.2 mm
+  - 16 < L ≤ 63 mm: ±0.3 mm
+- **Wire Pin Tension Load:** 1.0 KGS Minimum
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+#### Description:
+The ETD-5401 is a bobbin component designed for use in electronic applications, particularly in transformers and inductors. It is characterized by its specific pin configuration and material properties, which contribute to its performance in electrical applications. The bobbin is made from PET, a durable and flame-retardant material, ensuring safety and reliability in various operating conditions.
+
+#### Typical Applications:
+- **Transformers:** The ETD-5401 bobbin is primarily used in the construction of transformers, where it serves as a core support structure for winding the wire.
+- **Inductors:** It can also be utilized in inductors, aiding in the efficient management of magnetic fields.
+- **Power Supply Units:** Commonly found in power supply designs, where it helps in the conversion and regulation of electrical energy.
+- **Signal Processing:** The bobbin can be part of circuits that require signal conditioning and processing, particularly in audio and communication devices.
+
+This component is essential for ensuring the structural integrity and performance of electromagnetic devices, making it a critical part of many electronic systems.

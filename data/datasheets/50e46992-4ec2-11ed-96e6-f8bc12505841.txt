@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of GN180275-P40-PL production of ELITE PHOTOELECTRIC TECH CO., LTD from the text:                                             GN180275 -P40-PL             \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n1 / 4                 Add：Hezuo Road 3 33, High T echnology Develop ment District (West), Chengdu,  P.R.China                                      18-27.5GHz Packaged Power Chip  \nKey Features:  \n   Frequency ：18-27.5GHz \n   Typical Small Signal Gain ：22dB \n   Typical Output ：40dBm \n   Power Added Efficiency ：20％    Technology ：0.15μm GaN HEMT  \n   Offset ：20V，1.6V \n   Dimension ：16.5mm×13.3mm ×2.8mm  \n \nIntroduction  \n    GN180275 -P40-PL is 18-27.5GHz High Power packaged  MMIC , it use s 0.15um grid length GaN HEMT Technology  \nand grounded through  the hole on the  backside .  All products are tested by 100% radio frequency 。GN180275 -P40-PL works \nwith dual power supplies , Vds=20V, and provide 40 dBm output power in 18-27.5GHz. This chip can be used in wireless \ncommunication and T/R units of microwave  field.   \n \nMaximum Ratings  (TA=25 ℃) \nSymbol  Parameter  Value  Mark  \nVd Drain Voltage  24V  \nId Drain curre nt 5.0A  \nVg Gate Voltage  -10V  \nIg Gate current  10mA  \nPd Power Dissipation  100W  \nPin Input Power  30dBm  \nTch Channel Temperature  225℃  \nTm Mounting Temperature  310℃ 1min，N2 Protection  \nTstg Storage Temperature  -55～175℃  \n[1] Higher than any values a bove m ay cause pe rmanent damage 。 \n \nSpecifications  (TA=25℃) \nSymbol  Parameter  Test conditions  Values  \nUnit \nMin Typ Max \nG Small Signal Gain  Vd=20V~24V \nVg= -1.6~2.4V  \nF：18-27.5 GHz \nCW  21  dB \nGp Power Gain   11  dB \nPout  Saturated  Output Power   40  dBm  \nPAE Power Added  Efficiency   20  % \n \n \n \n \n \n \n                                             GN180275 -P40-PL             \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n2 / 4                 Add：Hezuo Road 3 33, High T echnology Develop ment District (West), Chengdu,  P.R.China  Typical Performances  \nSmall  signal Gain  \n \n \nVSWR IN   \n \n \nPout  \n \n \n                                             GN180275 -P40-PL             \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n3 / 4                 Add：Hezuo Road 3 33, High T echnology Develop ment District (West), Chengdu,  P.R.China  PAE \n \nId \n \nPackage Dimension (Unit: mm)  \nPIN Function  \nRFin  RF signal Input, connect with external 50Ω system, no \nneed blocking capacitor  \nRFout  RF signal output, connect with external 50Ω system, no \nneed blocking capacitor  \nVg Amplifier Gate source, connect with external \n1000pFcapacitor  \nVd Amplifier drain source, connect with external \n100pFcapacitor  \nGND  Chip ground  \n\n                                             GN180275 -P40-PL             \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n4 / 4                 Add：Hezuo Road 3 33, High T echnology Develop ment District (West), Chengdu,  P.R.China  Assembly Diagram   \n1、 Welding temperature should not exce ed 200℃；  \n2、 Module works in CW mode, pls add uF capacitor near Vd as showed in the \ncircuit； \n3、 If Vg need choose voltage dividing circuit, pls follow the circuit, R1 pls choose \n<100Ω； \n \n\n'}]
+!==============================================================================!
+### Component Summary: GN180275-P40-PL
+
+**Manufacturer:** ELITE PHOTOELECTRIC TECH CO., LTD  
+**Website:** www.emec.cn  
+**Location:** Chengdu, P.R. China  
+
+#### Key Specifications:
+- **Frequency Range:** 18-27.5 GHz
+- **Typical Small Signal Gain:** 22 dB
+- **Typical Output Power:** 40 dBm
+- **Power Added Efficiency (PAE):** 20%
+- **Technology:** 0.15μm GaN HEMT
+- **Drain Voltage (Vd):** 20V (max 24V)
+- **Drain Current (Id):** 5.0 A
+- **Gate Voltage (Vg):** -10V
+- **Gate Current (Ig):** 10 mA
+- **Power Dissipation (Pd):** 100 W
+- **Input Power (Pin):** 30 dBm
+- **Channel Temperature (Tch):** 225°C
+- **Mounting Temperature (Tm):** 310°C (1 min, N2 Protection)
+- **Storage Temperature (Tstg):** -55 to 175°C
+- **Package Dimensions:** 16.5 mm x 13.3 mm x 2.8 mm
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The GN180275-P40-PL is a high-power packaged Monolithic Microwave Integrated Circuit (MMIC) designed for operation in the frequency range of 18 to 27.5 GHz. Utilizing advanced 0.15μm GaN HEMT technology, this component is optimized for high efficiency and performance in microwave applications. It features a small signal gain of 22 dB and can deliver a saturated output power of 40 dBm, making it suitable for demanding RF applications.
+
+#### Typical Applications:
+The GN180275-P40-PL is primarily used in:
+- **Wireless Communication:** It is ideal for applications requiring high-frequency signal amplification, such as in cellular base stations and satellite communications.
+- **Transmitter/Receiver (T/R) Units:** The component is suitable for use in T/R modules in microwave systems, enhancing signal transmission and reception capabilities.
+- **Microwave Field Applications:** Its high output power and efficiency make it a good fit for various microwave technologies, including radar and electronic warfare systems.
+
+This component is designed to operate with dual power supplies and is tested for 100% radio frequency performance, ensuring reliability in critical applications.

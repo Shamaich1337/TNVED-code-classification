@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of TL3AR033F production of TE CONNECTIVITY from the text:For resistors operated in ambient temperatures above 70°C, power rating must be derated in accordance\nwith this curve.\n* - 20:10 available by special request. Minimum Orders of 10000 pcs to applyType TL Series\nTyco are pleased to offer this\nunique High Power, metal chipresistor for current sensingpositions. It has a special metalresistive element and suitablebarrier layers beneath thesolder to prolong terminal life.Following the developments bysemiconductor manufacturers inthe production of a range of IC's forbattery charge management andlow voltage power supplies, the TLSeries satisfies the demand for alow ohmic shunt resistor to act as acurrent sensor. It has particularapplications in the automotiveindustry for sensing in EMU's.\nKey Features\n■Up to 1 Watt at 70°C\n■Supplied on Tape\n■Ideal for Current \nDetection\n■Wide Value RangeR001 to 1R0 Possible\n■Fully Automated Manufacture\n■12:06, 20:10 and 25:12 Packages Available\n■Available in DistributionPower Derating CurveCharacteristics - \nElectrical\nCharacteristics - Mechanical\nBody Construction: Fully Welded Element\nTerminations: 100% Tin\nCoating: Epoxy1206 2010 2512\nResistance Value Range: R003-R20 R003-R50 R001-R50\nResistance Tolerance: ± 1%\nPower Rating: Up to 1 watt at 70°C derating to zero at 170°C\nOperating Temperature: -65°C to +170°C\nInductance: < 5 Nanohenries\nT.C.R. ±75ppm/°C (R007-R20/R50)\n0 50 70 90 110 130 150 170 190100\n80604020\n0Rated Power (%)\nAmbient Temperature (°C)Type Power Rating\nTL2B 0.25 Watts\nTL2H* 0.5 Watts\nTL3A 1.0 Watts\nHow to Order\nTL 3A R015 F TE\nCommon Part\n2B - 12:06\n*2H - 20:10\n3A - 25:12Power Ratings\n0.005 ohm\n(5 milli ohm) R005\n0.015 ohm\n(15 milli ohms) R015\n0.047 ohm\n(47 milli ohms) R047Resistance Value Tolerance\nTL - Standard Part F - ±1%Packaging\nTE - 4000 per Reel\nTDG - 2000 per\nReel (2512 only)Dimensions\nType L W H D\nTL2B 3.2 1.6 0.6 0.5\nTL2H* 5.1 2.5 0.6 0.5\nTL3A 6.4 3.2 0.6 0.8L D\nW\nH\nDSMD Low Ohmic - Current Sense Resistors\nType TL Series\nLiterature No. 1773289\nIssued: 07-08Dimensions are shown for\nreference purposes only.Dimensions are in\nmillimetres unlessotherwise specified. Specifications subject to\nchange.tycoelectronics.com\npassives.tycoelectronics.com\n\n"}]
+!==============================================================================!
+### Component Summary for TL3AR033F (TE Connectivity)
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated; typically limited by power rating and resistance value.
+- **Current Ratings**: Up to 1 Watt at 70°C, derating to zero at 170°C.
+- **Power Consumption**: Up to 1 Watt at 70°C.
+- **Operating Temperature Range**: -65°C to +170°C.
+- **Package Type**: 25:12 (TL3A).
+- **Special Features**: 
+  - Designed for current sensing applications.
+  - Fully welded element construction.
+  - 100% tin terminations.
+  - Low inductance (< 5 nH).
+  - Available in a wide resistance value range (0.003 to 1.0 ohm).
+  - Resistance tolerance of ±1%.
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The TL3AR033F is a high-power metal chip resistor designed specifically for current sensing applications. It features a unique metal resistive element and barrier layers that enhance terminal life, making it suitable for demanding environments. This component is part of the TL Series from TE Connectivity, which is known for its reliability and performance in automotive and battery management systems.
+
+#### Typical Applications:
+- **Current Sensing**: The TL3AR033F is ideal for applications requiring precise current detection, particularly in automotive systems such as Electric Motor Units (EMUs).
+- **Battery Charge Management**: It is used in low voltage power supplies and battery management ICs, where accurate current measurement is critical.
+- **Power Management**: The resistor can be utilized in various power management circuits where low ohmic values are necessary for efficient operation.
+
+This component is particularly valuable in applications where high reliability and performance are essential, such as in automotive electronics and power supply systems.

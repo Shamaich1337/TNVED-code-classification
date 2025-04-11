@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HTG-QSFP28-MSMP production of HITECH GLOBAL from the text: \n  \n  \nP r o d u c t \t U p d a t e s\n\t\t \t \t \t \t \t \t \t \t \t \t \t \t \t\nQSFP28\t(4x25G)\tt o\tGPP O/MSMP\tBr eak out\t\tModule\n \nT h i s \t Q S F P 2 8 \t t o \t G P P O / M S M P \t b r e a k o u t \t / c o n v e r s i o n \t m o d u l e \t i s \t u s e d \t f o r \t s w i t c h i n g \t b e t w e e n \t Q S F P 2 8 \t a n d \t f o u r \t G P P O / M S M P \t p o r t s\ne l e c t r i c a l \t o r \t o p t i c a l \t s i g n a l s . \t\nF e a t u r e s : \t\n►x1 Q S F P 2 8 \t C a g e \t ( 4 x 2 5 G )\n► x 1 6 \t G P P O / M S M P \t e d g e \t c o n n e c t o r s \t ( x 4 \t T X \t & \t x 4 \t R X \t P / N )\n► 3 . 3 V \t E x t e r n a l \t P o w e r\n►Control Jumpers\n\tO r d e r i n g \t i n f o r m a t i o n\nP a r t \t N u m b e r : \t \t H T G - Q S F P 2 8 - M S M\nP r i c e : \t $ 6 9 5 \t [ B u y \t O n l i n e ]\nK i t \t C o n t e n t\n- \t Q S F P 2 8 \t T o \t M S M P \t \t M o d u l e\n- \t S c h e m a t i c\nQ S F P 2 8 \t T o \t Q S F P 2 8 \t C a b l e\n[ B u y \t O n l i n e ]\nQ S F P 2 8 \t T o \t X 4 \t S F P 2 8\nB r e a k o u t \t A O C\n[ B u y \t O n l i n e ]\nM S M P \t t o \t 2 . 9 2 \t C a b l e\n[ B u y \t O n l i n e ]\n\t\n \n'}]
+!==============================================================================!
+### Component Summary: HTG-QSFP28-MSMP
+
+**Product Code:** HTG-QSFP28-MSMP  
+**Manufacturer:** HITECH GLOBAL
+
+#### Key Specifications:
+- **Voltage Ratings:** 3.3 V external power
+- **Current Ratings:** Not specified in the provided text
+- **Power Consumption:** Not specified in the provided text
+- **Operating Temperature Range:** Not specified in the provided text
+- **Package Type:** QSFP28 cage (4x25G)
+- **Special Features:**
+  - Converts QSFP28 to four GPP O/MSMP ports
+  - Includes 16 GPP O/MSMP edge connectors (4 TX & 4 RX)
+  - Control jumpers for configuration
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text
+
+#### Description:
+The HTG-QSFP28-MSMP is a breakout/conversion module designed to facilitate the switching between a QSFP28 interface and four GPP O/MSMP ports, which can handle either electrical or optical signals. This module is particularly useful in high-speed data communication applications, allowing for flexible connectivity options.
+
+#### Typical Applications:
+- **Data Center Networking:** The module is ideal for connecting high-speed switches and routers in data centers, enabling efficient data transfer between different types of interfaces.
+- **Telecommunications:** It can be used in telecom applications where conversion between different signal types is necessary.
+- **High-Performance Computing (HPC):** The module supports high bandwidth requirements in HPC environments by allowing multiple connections from a single QSFP28 port.
+- **Optical Networking:** It can be utilized in optical networks where conversion from optical to electrical signals is required.
+
+This module is a critical component for modern networking solutions, providing versatility and high-speed connectivity in various applications.

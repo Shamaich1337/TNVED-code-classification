@@ -1,0 +1,55 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-M0401GF-010UFL production of JC ANTENNA HK CO.,LIMITED from the text:Special for MACRO GROU P    E-mail: wireless@macrogroup.ru     Tel: +7 (812) 370 60 70  \n \n \nDATASHEET    \nMMMGGG---MMM000444000111GGGFFF---000111000UUUFFFLLL   \nType  GPS/GLONASS  Ceramic Active antenna  \nFrequencies  1575.42 /1601 -1610 MHz \nMounting  Connector Customizable  \nBrand Name  MG ANTENNAS  \n \n \n \n\nRevision #  Content  Page  Date  \n0 First, document  - 11.08.201 7 \n \nSPECIFI CATION S \n1. Electrical  \n                                                                        \n 2. Mechanical  \nCable  (type and length )  RF 1.13 , 100mm or other * \nConnector  UFL or other * \nDimensions  18*18*4 mm \n    * Customiz able Cable and Connector  \n \n3. Envi ronmental   \n \n \n \n \n Frequency  1575.42 /1601 -1610 MHz \nPolari zation  RHCP  \nRadiation  Direction al  \nGain  ANT 2.5 dBi \nGain LNA  28±2 dBi \nMax p ower  10 W \nVSWR  1.5 :1 \nImpedance  50 Ω \nSupply Voltage  3~5V DC  \nCurrent Consumption  5~10mA  \nOperating Temper ature , ℃ -40 ~ + 80 \nOperating Humidity, %  0 ~ 95  \nStorage Temperature , ℃ -40 ~ + 80 \nStorage Humidity, %  0 ~ 95  \nVibration  10 to 55Hz with 1.5mm amplitude \n2hours  \n'}]
+!==============================================================================!
+### Component Summary for MG-M0401GF-010UFL
+
+**Component Type:**  
+GPS/GLONASS Ceramic Active Antenna
+
+**Key Specifications:**
+
+- **Frequencies:**  
+  - 1575.42 MHz (GPS)  
+  - 1601 - 1610 MHz (GLONASS)
+
+- **Voltage Ratings:**  
+  - Supply Voltage: 3 to 5 V DC
+
+- **Current Ratings:**  
+  - Current Consumption: 5 to 10 mA
+
+- **Power Consumption:**  
+  - Max Power: 10 W
+
+- **Operating Temperature Range:**  
+  - -40 °C to +80 °C
+
+- **Storage Temperature Range:**  
+  - -40 °C to +80 °C
+
+- **Package Type:**  
+  - Dimensions: 18 mm x 18 mm x 4 mm
+
+- **Special Features or Notes:**  
+  - Customizable cable (RF 1.13, 100 mm or other)  
+  - Customizable connector (UFL or other)  
+  - Directional radiation pattern  
+  - Gain: 2.5 dBi (Antenna), 28 ± 2 dBi (LNA)  
+  - VSWR: 1.5:1  
+  - Impedance: 50 Ω  
+  - Polarization: RHCP (Right-Hand Circular Polarization)  
+  - Vibration resistance: 10 to 55 Hz with 1.5 mm amplitude for 2 hours
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**  
+  - Not specified in the provided data.
+
+### Description of the Component:
+The MG-M0401GF-010UFL is a ceramic active antenna designed for GPS and GLONASS applications. It is engineered to receive signals in the specified frequency ranges, making it suitable for navigation and positioning systems. The antenna features a compact design, allowing for easy integration into various devices.
+
+### Typical Applications:
+This active antenna is typically used in:
+- **Navigation Systems:** For GPS and GLONASS signal reception in automotive, marine, and handheld devices.
+- **Telematics:** In vehicles for tracking and fleet management.
+- **IoT Devices:** For location-based services and applications requiring precise positioning.
+- **Consumer Electronics:** Such as smartphones and tablets that require GPS functionality.
+
+The MG-M0401GF-010UFL is ideal for applications where reliable signal reception and compact size are critical.

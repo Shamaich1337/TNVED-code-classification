@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of UJ271M400O250AP6 production of CAPXON from the text:Aluminum \xa0Electrolytic \xa0Capacit\nor\xa0\nUJ\xa0series\xa0\nCapXon\xa0 V.ED‐20170909Specification \xa0and\xa0description \xa0for\xa0the\xa0component(s) \xa0are\xa0subject\xa0to\xa0change\xa0 without\xa0notice.\xa0For\xa0packaging, \xa0handling, \xa0precautions \xa0and\xa0warning\xa0 information,\xa0 please\xa0visit\xa0our\xa0website: www.capxongroup.com\xa0 \n\xa0\n\xa0\n\xa0\n\xa0\n\xa0\n\xa0\n\xa0\n\xa0\n\xa0\xa0\xa0\n\xa0\xa0\xa0\xa0Part\xa0number\xa0 UJ271M400O250A P6\nCapacitance \xa0 270 µF\xa0\nVoltage\xa0 400 Vdc\xa0\nSurge\xa0 Voltage\xa0 440 Vdc\xa0\nCapacitance\xa0 Tolerance \xa0(@120Hz, \xa0+20°C) ±20 %\xa0\nRipple\xa0current\xa0(max.\xa0@120Hz,+105°C) \xa0 1.3 A\xa0\nDissipation \xa0factor\xa0(tanδ\xa0@120Hz,\xa020°C)\xa0 15 %\xa0\nLeakage\xa0Current\xa0(max.\xa0@20°C)*\xa0 986 µA\xa0\nESR\xa0\xa0(max.@120Hz, \xa0+20°C)\xa0 740 mΩ\xa0\nSize(DxL)\xa0 30x25 mm\xa0\nOperating \xa0temperature ‐40 \xa0to\xa0105 °C\xa0\nEndurance \xa0 2000 Hours\xa0\n*L.C.\xa0\xa0I≤\xa03*CV\xa0\xa0\xa0(C\xa0=\xa0CAP.,\xa0V\xa0=\xa0W.V.)\xa0After\xa05\xa0minutes\xa0 with\xa0rated\xa0working\xa0voltage\xa0applied.\nTest\xa0conditions \xa0 Useful\xa0Life\xa0 Endurance \xa0 Shelf\xa0Life\xa0\nDuration\xa0time\xa0 5000h\xa0@105\xa0 °C\xa0 2000h\xa0@\xa0105°C\xa0 1000h\xa0@105°C\xa0\nApplied\xa0voltage\xa0 Rated\xa0DC\xa0working\xa0voltage,\xa0IR\xa0 None\xa0\nAfter\xa0 test\xa0requirements \xa0(+20°C):\nCapacitance\xa0 change ≤\xa0±20%\xa0of\xa0initial\xa0measured \xa0value ≤ \xa0±10%\xa0of\xa0initial\xa0measured \xa0value\xa0\nDissipation \xa0factor\xa0change ≤200%\xa0of\xa0th e\xa0initial\xa0specified\xa0value\xa0≤ 130%\xa0of\xa0the\xa0initial\xa0specified\xa0value\xa0\nLeakage\xa0current ≤ \xa0the\xa0initial\xa0specified\xa0value\xa0\ncomment Pre‐treatment \xa0for\xa0\nmeasurements \xa0shall\xa0be\xa0\nconducted \xa0after\xa0\napplication \xa0of\xa0DC\xa0\nworking\xa0voltage\xa0for\xa030\xa0\nmin.\xa0\nSeries\xa0Cap\xa0 Tol.\xa0 Voltage\xa0 Case\xa0DCase\xa0L\xa0 Type\xa0 Lead\xa0Treatm.\xa0Special\xa0\n1_2\xa0 3_4_5\xa0 6\xa0 7_8_9\xa0 10\xa0 11_12_13 14\xa0 15_16\xa0 17_18_19_20 \xa0\nUJ\xa0 271\xa0 M\xa0 400\xa0 O\xa0 250\xa0 A\xa0\n=270µF\xa0 =±20%\xa0 =400V\xa0 =30mm\xa0 =25mm A=standard P6 = 6mm terminalP6\n‐\xa0NEG\xa0CapXon \n270μ F‐400V\xa0\nUJ\xa0VENT\xa0105℃\xa0\n‐\xa0NEG\xa0﹡\nCapXon \n270μ F‐400V\xa0\nUJ\xa0VENT\xa0105℃\xa0\n﹡\n6±1\xa0\n2.5±0.5\n'}]
+!==============================================================================!
+### Component Summary: UJ271M400O250AP6 (CapXon Aluminum Electrolytic Capacitor)
+
+#### Key Specifications:
+- **Capacitance**: 270 µF
+- **Voltage Rating**: 400 Vdc
+- **Surge Voltage**: 440 Vdc
+- **Capacitance Tolerance**: ±20% (@120Hz, +20°C)
+- **Ripple Current (max.)**: 1.3 A (@120Hz, +105°C)
+- **Dissipation Factor (tanδ)**: 15% (@120Hz, +20°C)
+- **Leakage Current (max.)**: 986 µA (@20°C)
+- **Equivalent Series Resistance (ESR)**: 740 mΩ (@120Hz, +20°C)
+- **Operating Temperature Range**: -40 to +105 °C
+- **Endurance**: 2000 hours at 105 °C
+- **Moisture Sensitive Level**: Not specified in the provided data, but typically aluminum electrolytic capacitors are classified under JEDEC J-STD-020E.
+
+#### Description:
+The UJ271M400O250AP6 is an aluminum electrolytic capacitor designed for various electronic applications. It features a capacitance of 270 µF and a voltage rating of 400 Vdc, making it suitable for high-voltage applications. The capacitor is characterized by its ability to handle ripple currents up to 1.3 A and operates effectively within a wide temperature range of -40 to +105 °C. 
+
+#### Typical Applications:
+This capacitor is commonly used in:
+- **Power Supply Circuits**: For smoothing and filtering applications in power supplies, ensuring stable voltage levels.
+- **Energy Storage**: In applications requiring temporary energy storage, such as in power backup systems.
+- **Signal Coupling and Decoupling**: In audio and RF circuits to block DC while allowing AC signals to pass.
+- **Motor Drives**: In industrial applications where capacitors are used to improve the performance of electric motors.
+
+The UJ series capacitors are known for their reliability and long endurance, making them suitable for demanding environments in consumer electronics, automotive applications, and industrial machinery.

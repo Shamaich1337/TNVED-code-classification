@@ -1,0 +1,22 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of A04-010 production of EVETAR from the text:\n'}]
+!==============================================================================!
+To provide you with accurate information about the component A04-010 from EVETAR, I would need to access the specific datasheet for that product. However, since I do not have direct access to external databases or documents, I can guide you on how to extract the necessary information from the datasheet.
+
+Here’s how you can summarize the key characteristics and specifications of the component:
+
+1. **Identify the Component**: Look for the product code A04-010 in the datasheet to ensure you are referencing the correct component.
+
+2. **Key Parameters**:
+   - **Voltage Ratings**: Check the maximum and minimum voltage ratings specified in the electrical characteristics section.
+   - **Current Ratings**: Look for the maximum continuous current rating.
+   - **Power Consumption**: Find the power consumption details, usually listed in watts or milliwatts.
+   - **Operating Temperature Range**: This is typically found in the environmental specifications section.
+   - **Package Type**: Identify the physical package type (e.g., SMD, DIP, TO-220).
+   - **Special Features or Notes**: Look for any unique features or notes that highlight the component's capabilities or limitations.
+   - **Moisture Sensitive Level (MSL)**: This is usually indicated in the packaging section according to JEDEC J-STD-020E.
+
+3. **Component Description**: Write a brief description of what the component is (e.g., a specific type of sensor, microcontroller, or power management IC) and its primary function.
+
+4. **Typical Applications**: List common applications for the component, such as automotive, industrial control, consumer electronics, etc.
+
+If you can provide me with specific details from the datasheet or any other relevant information, I would be happy to help you create a more tailored summary.

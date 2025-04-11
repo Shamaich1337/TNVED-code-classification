@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MB-4IR-5MP production of LUMENS SOLUTION from the text: 0-25 25-50 50-100 Unit\n±0.1 ±0.2 ±0.3 mm\nModel No. S4IR（5MP）\nFocal\nResolution 1/2.5"4mm Aperture F2.0\n0.3m\n/Format\nM.O.D\nFlange focal lengthMount Optical Distortion\nTotal track length 23.8mm5MP\nM12\nIR Correct62.90%\nBack focal length 6.2mmWeight 5g\nNO\nFocus Manual\nDIris Fixed\nFOV Operating temperature\nH\nV-20℃～70℃1/2.5"\n135.7\n94.4\n65.8\nReviser: Hans Zhou Approved:  Jack LinToleranceDimensions\nTolerance\nDate: 2020-11-20\n\n'}]
+!==============================================================================!
+### Component Summary: MB-4IR-5MP (LUMENS SOLUTION)
+
+#### Key Specifications:
+- **Model Number:** S4IR (5MP)
+- **Resolution:** 5 Megapixels
+- **Focal Length:** 4 mm
+- **Aperture:** F2.0
+- **Minimum Object Distance (M.O.D):** 0.3 m
+- **Flange Focal Length:** 23.8 mm
+- **Back Focal Length:** 6.2 mm
+- **Optical Distortion:** 62.90%
+- **Field of View (FOV):** 
+  - Horizontal: 135.7°
+  - Vertical: 94.4°
+  - Diagonal: 65.8°
+- **Weight:** 5 g
+- **Focus Type:** Manual
+- **Iris Type:** Fixed
+- **Operating Temperature Range:** -20°C to 70°C
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The MB-4IR-5MP is a high-resolution camera lens designed for use in imaging applications requiring infrared capabilities. It features a 5-megapixel resolution, making it suitable for capturing detailed images in various lighting conditions. The lens has a fixed aperture of F2.0, allowing for adequate light intake, and a manual focus mechanism that provides flexibility in adjusting the focus for different distances.
+
+#### Typical Applications:
+This component is typically used in:
+- **Surveillance Systems:** Due to its infrared capabilities, it is ideal for night vision and low-light environments.
+- **Machine Vision:** The high resolution and optical performance make it suitable for industrial applications where precise imaging is critical.
+- **Robotics:** Used in robotic vision systems for navigation and object recognition.
+- **Medical Imaging:** Can be utilized in endoscopic cameras or other medical imaging devices that require high-resolution imaging.
+- **Automotive Applications:** Useful in advanced driver-assistance systems (ADAS) for object detection and recognition.
+
+This lens is particularly valuable in scenarios where high image quality and performance in varying temperatures are essential.

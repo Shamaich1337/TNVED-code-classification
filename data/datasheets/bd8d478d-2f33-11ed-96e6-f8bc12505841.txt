@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SDM-009-S101-95/T0-M025 production of E-TEC from the text:Order Code\nSDM-xxx-S101-9x/T0-M025\nPlating\n95=  Tin/Gold flash\n  97 =  Tin/15µ" Gold\n98=  Tin/30µ" Gold\nABCD\n009 30.81 24.99 16.92 19.20\n015 39.20 33.30 25.25 27.70\n025 53.05 47.04 38.96 41.10\n037 69.40 63.50 55.42 57.30No. of \nContactsDimension mm\nRoHS\ncompliant\nD-Sub Connector - S101- Type\nSolder Cup Type -Male-\nwith mounting holes SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.13Cherry\nKent\nSH08.09.2022\n08.09.202208.09.2022SDM-S101/T0-M025\nSDM-xxx-S101-9x/T0-M0251/1\nASpecifications\nElectrical\nCurrent rating: 5A@25°C  3A@70°C\nInsulation resistance:  1000MΩ min. @500V DC\nContact resistance: 20mΩ max.\nVoltage rating: 25V DC\nWithstanding voltage: 1000V A C/ rms 60Hz for 1 MinuteMaterial\nContact: Brass\nPlating: Sn on solder , Au on contact area\n                    entire contact Ni underplated\nInsulator: PBT (black)  UL 94V-0\nShell: Steel; 100 µ" Sn plated over 50 µ" Cu\nOperating temperature: -20°C to +85°CA New 08.09.2022 Cherry\nBA\nC\nD12.55 8.36 2.84 2.77\n6.10\n3.50 ±0.255.10 ±0.25\n10.7212.20 ±0.30Ø3.05 mounting holes\n1.00\n'}]
+!==============================================================================!
+### Component Summary: SDM-009-S101-95/T0-M025
+
+#### Key Specifications:
+- **Voltage Rating:** 25V DC
+- **Current Rating:** 
+  - 5A at 25°C 
+  - 3A at 70°C
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings.
+- **Insulation Resistance:** 1000 MΩ minimum @ 500V DC
+- **Contact Resistance:** 20 mΩ maximum
+- **Withstanding Voltage:** 1000V AC RMS at 60Hz for 1 minute
+- **Operating Temperature Range:** -20°C to +85°C
+- **Package Type:** D-Sub Connector, Male, Solder Cup Type with mounting holes
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+- **Special Features/Notes:** RoHS compliant; features a brass contact with Sn plating on solder and Au on the contact area, with a Ni underplated entire contact.
+
+#### Description:
+The SDM-009-S101-95/T0-M025 is a D-Sub connector designed for male connections with solder cup terminals. It is constructed to provide reliable electrical connections in various applications. The connector features a robust design with mounting holes for secure installation and is made from durable materials, including a PBT insulator and a steel shell with a tin plating.
+
+#### Typical Applications:
+This D-Sub connector is typically used in:
+- **Data Communication:** Connecting devices in computer and telecommunications equipment.
+- **Industrial Automation:** Providing connections in control systems and machinery.
+- **Signal Processing:** Facilitating the transmission of signals in various electronic devices.
+- **Power Management:** Used in power distribution systems where reliable connections are essential.
+
+Overall, the SDM-009-S101-95/T0-M025 is suitable for applications requiring a durable and reliable connector that can handle moderate electrical loads and environmental conditions.

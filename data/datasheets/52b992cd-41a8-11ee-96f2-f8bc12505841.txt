@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of FTO10.000M3.3SM7C-2.0/2.5CFC62 production of CHIP SUN TECHNOLOGY from the text:深圳市炬烜科技有限公司\nCHIPSUNTECHNOLOGYCO.,LTD\nAPPROVAL\nSHEET\nCUSTOMER： MarcoGroup\nDESCRIPTION： TCXO705010.000MHzQuartzCrystalOscillator\nMANUFACTURERPARTNO.:FTO10.000M3.3SM7C-2.0/2.5CFC62\nCUSTOMERPARTNO:\nUSEDINMODEL:\nREVISION A1\n承认APPROVAL\n工程部\nTECHNOLOGYDEPT.品质部\nQUALITYDEPT.采购部\nPURCHASINGDEPT.\nDate:四月24,2023RoHS\nCompliant\n深圳市炬烜科技有限公司\nCHIPSUNTECHNOLOGYCO.，LTD\n地址ADD:深圳市龙华新区大浪腾龙路淘金地电子商务孵化基地B座206\nRm.206,TowerB,TaojindiBuilding,TenglongRoad,DalangStreet,\nLonghuaNewDistrict,Shenzhen,China\n电话TEL:86-755-83458798传真FAX:86-755-83459818\n网址WEBADD:http://www.chinachipsun.com\nE-MAIL:sales04@chinachipsun.com\n\nREVISIONHISTORY\nRev.Revisepage ReviseContents Date Ref.No.Reviser\n0 N/A Initialissue 2023/4/24 N/A Rita\nSPECIFICATIONOFTCXO\n1.Type\n2.Frequency\n3.Powersupplyvoltage\n4.FrequencyTolerance\n5.Frequencystability\n5.1TemperatureRef.25℃\n5.2Supplyvoltagestability\n5.3.Loadchange\n6.Temperaturerange\n6.1Operatingtemp.range\n6.2Storagetemp.\n7.Drivingability\n8.Symmetry\n9.Rise,falltime\n10.Outputvoltage\n10.1HighOutputVoltage\n10.2LowOutputVoltage\n11.Currentconsumption\n12.Aging\nMarkingCMOSTCXOSMD7050\n10.000MHz\n3.3V±5%\n±2.0ppmat25±3℃(beforereflow)\n±2.5ppm(-30~+75℃)\n±0.3ppm(Vdd±5%)\n±0.3ppm(Loadvaries±5%)\n-30to+75℃\n-40to+125℃\n15pF\n40%to60%\n10nSMax.\nVoh:0.9VddMin.\nVol:0.1VddMax.\n6mAMax.\n±1ppm/yearMax.\n\nSPECIFICATIONOFTCXO\nDimensions\n\nSPECIFICATIONOFTCXO\nTestCircuit\nSolderingReflow\nTemp.(deg.C)\nC\n255~260\n217\nB\n200\n150\nA\nTime(sec)\n(A)一Preheatingarea:150~200°C,60~120sec.\n(B)一Heatingarea:217°C,60~150sec.\n(C)一Peaktemperature:255~260°C,30sec.Max.\nRamp-uprate(217一260°C):3°C/sec.Max.\nRamp-downrate(260一217°C):6°C/sec.Max.\nTime25°C一260°C:480sec.Max.\n*ReferanceJEDECJ-STD-020\nNote1:\nThecrystalcharacteristicsmaybeaffectedanddestroyedatworstbyadditionalproductionprocess\nasultrasonicweldingormoldingencapsulation….Pleasebesuretocheckifthisprocessaffects\nanydamagetocrystalproductspriortouse.\n\nSPECIFICATIONOFCRYSTAL&OSCUNITS\nReliabilityTest(applicabletoSMDtypeOSCandX'tal) ConditionB.2\nTestItems TestConditionSpecification\nGeneralOSC(Note:1)((Note:3)GeneralX’tal(Note:2)\n1.GrossLeak\nTestElectronictestfluid125C/30sec Nocontinuousbubble\n2.FineLeak\nTestBombingofHe4.5kg/cm2for1.5hours Lessthan1*10^-8atm.c.c./sec,Helium\n3.DropTest a~19.999MHz(Fund.)一75cmheight\nb.20~29.999MHz(Fund.)一50cmheight\nc.30~ MHz(Fund.)一20cmheight\nonhardwoodensurface/3times\n(thicknessmorethan30mm)△F≦±10PPM,\nDutywithinspec.△F≦±10PPM,\n△C.I.≦±10ohms\n4.VibrationTest Freq.range:10~55Hz\nPeaktopeakamplitude:1.5mm\n3direction(X,Y,Z)，each60min.△F≦±10PPM,\nDutywithinspec.△F≦±10PPM,\n△C.I.≦±10ohms\n5.ShearingTest Weight:5N,\nTestduration:10±1sec△F≦±10PPM,\nDutywithinspec.△F≦±10PPM,\n△C.I.≦±10ohms\n6.Substrate\nBendingTestTestduration:5±1sec\nAmountofsubstrate:3mm△F≦±10PPM,\nDutywithinspec.△F≦±10PPM,\n△C.I.≦±10ohms\n7.Resistanceto\nSolderingTestIRReflowfurnacewiththecondition2times.\nPeaktemp.260±3C，10sec(Min.)△F≦±10PPM,\nDutywithinspec.△F≦±10PPM,\n△C.I.≦±10ohms\n8.LowTemp.\nExposureTest-40±3C,240±12hrs △F≦±10PPM,\nDutywithinspec.△F≦±10PPM,\n△C.I.≦±10ohms\n9.AgingTest 125±3C,240±12hrs △F≦±10PPM,\nDutywithinspec.△F≦±10PPM,\n△C.I.≦±10ohms\n10.HighTemp.&\nHumidityTest+85C±5C&85%±5%R.H.,240±12hrs△F≦±10PPM,\nDutywithinspec.△F≦±10PPM,\n△C.I.≦±10ohms\n11.Temperature\nCyclingTest-40±3C/15±3min~+85±3C/15±3min\n15cycles△F≦±10PPM,\nDutywithinspec.△F≦±10PPM,\n△C.I.≦±10ohms\nNote:1\nForcommunicationapplicationthespec.demanded“\nF\n±5PPM,Dutywithinspec.”。\nNote:2\nForcommunicationapplicationthespec.demanded“\nF\n±5PPM,\nC.I.\n±5ohms”。\nNote:3\nForTCXOseriesproductsdemanded“\nF\n±2PPM,Duty(Vpp)withinspec\n\nSPECIFICATIONOFTAPE&REEL\nTaping\n\nSPECIFICATIONOFTAPE&REEL\nReel\n\n"}]
+!==============================================================================!
+### Component Summary for FTO10.000M3.3SM7C-2.0/2.5CFC62
+
+**Manufacturer:** CHIP SUN TECHNOLOGY (深圳市炬烜科技有限公司)  
+**Description:** TCXO (Temperature Compensated Crystal Oscillator)  
+**Frequency:** 10.000 MHz  
+**Package Type:** SMD 7050  
+
+#### Key Specifications:
+- **Voltage Ratings:** 3.3V ± 5%
+- **Current Ratings:** 6 mA Max
+- **Power Consumption:** Not explicitly stated, but current consumption is 6 mA Max.
+- **Operating Temperature Range:** 
+  - Operating: -30°C to +75°C
+  - Storage: -40°C to +125°C
+- **Frequency Tolerance:** ±2.0 ppm at 25°C ± 3°C (before reflow)
+- **Frequency Stability:**
+  - Temperature: ±2.5 ppm (-30°C to +75°C)
+  - Supply Voltage: ±0.3 ppm (Vdd ± 5%)
+  - Load Change: ±0.3 ppm (Load varies ± 5%)
+- **Driving Ability:** 15 pF
+- **Output Voltage:**
+  - High Output Voltage (Voh): 0.9 Vdd Min.
+  - Low Output Voltage (Vol): 0.1 Vdd Max.
+- **Rise/Fall Time:** 10 ns Max.
+- **Aging:** ±1 ppm/year Max.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text, but typically referenced in JEDEC J-STD-020E.
+
+#### Description:
+The FTO10.000M3.3SM7C-2.0/2.5CFC62 is a Temperature Compensated Crystal Oscillator (TCXO) designed to provide a stable frequency output of 10.000 MHz. TCXOs are used to maintain precise frequency stability over varying temperature conditions, making them ideal for applications requiring high accuracy.
+
+#### Typical Applications:
+- **Communication Systems:** Used in mobile phones, GPS devices, and other communication equipment where precise timing is crucial.
+- **Consumer Electronics:** Found in devices such as digital cameras and audio equipment to ensure accurate signal processing.
+- **Industrial Equipment:** Utilized in automation systems and control devices that require reliable timing signals.
+- **Networking Equipment:** Employed in routers and switches to synchronize data transmission.
+
+This TCXO is particularly suited for applications where temperature variations can affect performance, ensuring that devices maintain accurate timing and frequency stability under different environmental conditions.

@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TX-3535Y3FC120-OGHCND34-03F production of GUANGZHOU TIANXIN PHOTOELECTRIC CO., LTD from the text:PartNo.TX-3535Y3FC120-OGHCND34-03FSpecNo.WKF-BE0172Page1of7\nVersion:1.0Preliminary\nTX-3535Y3FC120-OGHCND34-03F\nDATASHEET\nApprovedby: Checkedby: Preparedby:\nPartNo.TX-3535Y3FC120-OGHCND34-03FSpecNo.WKF-BE0172Page2of7\nVersion:1.0Features:\n◆ExcellentTransitingHeatfromLEDChipOperatingunder700mA\n◆HighLuminousOutput\n◆NoUV\nTypicalpurpose:\n◆PortableFlashlight\n◆Gardenlighting\n◆GeneralLighting\nPackageDimensions:\n3.45±0.15\n3.45±0.15Φ2.75±0.05\n0.6±0.1\n1.95±0.15MARK 0.38\n3.25±0.05\n0.475±0.030.51.3\n3.25±0.05\nPartNo.TX-3535Y3FC120-OGHCND34-03FSpecNo.WKF-BE0172Page3of7\nVersion:1.0Notes:\n1.Alldimensionsareinmillimeters(inches).\n2.Toleranceis±0.25mm(0.01”)unlessotherwisenoted.\nAbsoluteMaximumRatingsatTa=25℃\nNotes:\n1.Specificationsaresubjecttochangewithoutnotice.\n2.UnderthestipulatedCharacteristicsparametersabove,thelifespanoftheLEDis\nmorethan50,000hours.\n3.Thedataonthisspecificationisforreferenceonlyandtheactualdataisinaccordance\nwiththeacknowledgment.\n4.PrecautionsforESD:\nSTATICSHIELDElectricityandsurgedamagestheLED.Itisrecommendedtousea\nwristbandoranti-electrostaticglovewhenhandlingtheLED.Alldevices,equipment\nandmachinerymustbeproperlygrounded.PartNO. LensColorEmittingColor\nTX-3535Y3FC120-OGHCND34-03FWaterClear Yellow\nParameter SymbolMin TypMa\nxUnit\nLEDJunctionTemperature Tj — — 150℃\nPowerDissipation PD — 910 1820 mW\nPeakForwardCurrent(1/10Duty\nCycle,0.1msPulseWidth)IFP — — 1000 mA\nContinuousForwardCurrent IF — 350 700 mA\nReverseVoltage VR — 5 — V\nElectrostaticDischargeThreshold\n(ESD)ESD —ESD\nsensitive\ndevice— V\nOperatingTemperatureRange Topr -40 — 70\n℃\nStorageTemperatureRange Tspr -40 — 100\nPartNo.TX-3535Y3FC120-OGHCND34-03FSpecNo.WKF-BE0172Page4of7\nVersion:1.0CharacteristicsatIf=350mA,Vr=5V(Ta=25°C)：\nParameter SymbolValues\nUnits\nMin.Typ. Max.\nLuminousFlux φv 55 75— lm\nViewingAngleat50﹪IV 2θ1/2— 120— Deg\nForwardVoltage Vf 2.1 2.3 2.6 V\nPeakEmissionWavelength λp 593 598 602 nm\nDominantWavelength λd 587 592 596 nm\nSpectralLineHalf-Width △λ 15 20 25 nm\nReverseCurrent IR—— 10 µA\nThermalResistanceJunctiontoCase RθJ-C— 8— K/W\nTemperatureCoefficientofForwardVoltageV△F/T— -2— mV/℃\nNotes:\n1.Luminousintensityismeasuredwithalightsensorandfiltercombinationthat\napproximatestheCIEeye-responsecurve.\n2.θ1/2istheoff-axisangleatwhichtheluminousintensityishalftheaxialluminous\nintensity\n3.Thedominantwavelength(λd)isderivedfromtheCIEchromaticitydiagramand\nrepresentsthesinglewavelengthwhichdefinesthecolorofthedevice.\n4.Fluxismeasuredwithanaccuracyof±15%.\n5.Forwardvoltageismeasuredwithanaccuracyof±0.15V.\nPartNo.TX-3535Y3FC120-OGHCND34-03FSpecNo.WKF-BE0172Page5of7\nVersion:1.0 Forward Current VS.Forward VoltageForward Current IF(mA)\nForward Voltage Vf(V)100200300400500\n1.82.02.22.42.62.8\n  Ambient TemperatureVS.Forward CurrentForward Current IF(mA)\nTemperature(  C)0306090120150Rθ  =60℃/W\nRθ  =50℃/W\nRθ  =40℃/W\nRθ  =30℃/WJ-A\nJ-A\nJ-A\nJ-A\n100200300400500\n0.00.20.40.60.81.0\n380400420440460480500520540560580600620640660680700720740760780Spectral Radiance (Peak598@nm)\nWave Length(nm)Relative ResponseTypicalElectrical/OpticalCharacteristicsCurves\nS(25℃AmbientTemperatureUnlessOtherwiseNoted)\n-60°\n0.8-90°\n1.0 0.60.4-30°\n60°\n0.6 0.2 0.2 0.4 0.81.090°0°\n30°Beam Patter\nRelativeintensitv(LOP@ MAX=1)Forward Current VS.Luminous fiuxLuminous fiux(Lm)\nForward Current(mA)20406080100\n050100150200250300350400\nPartNo.TX-3535Y3FC120-OGHCND34-03FSpecNo.WKF-BE0172Page6of7\nVersion:1.0PRECAUTIONINUSE\nStorage\nRecommendedstorageenvironment\nTemperature:5℃~30℃(41oF~86oF)\nHumidity:60%RHMax.\nSoldering\nUsetheconditionsshowntotheunderfigure.\nt\ntLP\nt 25℃ to Peak\nTimets PreheatTSminTSmaxRamp-UPCritical Zone\nT  to TP L\nRamp-downT\nTP\nL\n25Temperature\nProfileFeatureLead-Based\nSolderLead-FreeSolder\nAverageRamp-UpRate(TsmaxtoTp) 3℃/secondmax.3℃/secondmax.\nPreheat:TemperatureMin(Tsmin) 100℃ 150℃\nPreheat:TemperatureMax(Tsmax) 150℃ 200℃\nPreheat:Time(TsmintoTsmax) 60-120seconds 60-180seconds\nTimeMaintainedAbove:Temperature(TL) 183℃ 217℃\nTimeMaintainedAbove:Time(TL) 60-150seconds 60-150seconds\nPeak/ClassificationTemperature(TP) 215℃ 260℃\nTimeWithin5℃ofActualPeakTemperature(TP)10-30seconds 20-40seconds\nRamp-DownRate 6℃/secondmax.6℃/secondmax.\nTime25℃toPeakTemperature 6minutesmax. 8minutesmax.\nNote:Alltemperaturesrefertotopsideofthepackage,measuredonthepackagebody\nsurface.\nPartNo.TX-3535Y3FC120-OGHCND34-03FSpecNo.WKF-BE0172Page7of7\nVersion:1.0DimensionsforCannulationandPackaging\nQuantity:1000PCS12\n4.3\n3.7\n3.7\n4.384Φ1.5\nPrinted label\nNotes:\n1.Alldimensionsareinmillimeters(inches).\n2.Toleranceis±2.0mm(0.08”)unlessotherwisenoted.\n3.Theproductsarepackagedtogetherwithsilicagel,Transport,nottotheweightof\nweldingLEDlight-emittingarea,AsaresultoftheweightofLEDlight-emittingzonein\nthequalityof,IrresponsibleoftheCompany.\n'}]
+!==============================================================================!
+### Component Summary: TX-3535Y3FC120-OGHCND34-03F
+
+**Manufacturer:** GUANGZHOU TIANXIN PHOTOELECTRIC CO., LTD  
+**Datasheet Version:** 1.0  
+**Specification Number:** WKF-BE0172  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (Vf): 2.1 - 2.6 V (typical 2.3 V)
+  - Reverse Voltage (VR): 5 V
+
+- **Current Ratings:**
+  - Continuous Forward Current (IF): 350 - 700 mA (typical 700 mA)
+  - Peak Forward Current (IFP): Up to 1000 mA (1/10 Duty Cycle, 0.1 ms Pulse Width)
+
+- **Power Consumption:**
+  - Power Dissipation (PD): 910 - 1820 mW
+
+- **Operating Temperature Range:**
+  - Operating Temperature (Topr): -40 to 70 °C
+  - Storage Temperature (Tspr): -40 to 100 °C
+
+- **Package Type:**
+  - Dimensions: 3.45 mm x 3.45 mm, with a height of 0.6 mm
+
+- **Special Features:**
+  - Excellent heat dissipation from LED chip operating under 700 mA
+  - High luminous output with no UV emissions
+  - Lifespan of over 50,000 hours under stipulated conditions
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Component Description:
+The TX-3535Y3FC120-OGHCND34-03F is a high-performance LED component designed for various lighting applications. It features a yellow emitting color with a peak emission wavelength of 598 nm and a dominant wavelength of 592 nm. The LED is optimized for high luminous output and efficient thermal management, making it suitable for continuous operation at higher currents.
+
+#### Typical Applications:
+- **Portable Flashlights:** Ideal for compact and efficient lighting solutions.
+- **Garden Lighting:** Provides effective illumination for outdoor spaces.
+- **General Lighting:** Versatile use in various lighting fixtures and applications where high brightness and energy efficiency are required.
+
+This LED component is particularly suited for applications that demand high reliability and long operational life, making it a valuable choice for both consumer and industrial lighting solutions.

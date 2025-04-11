@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of CAS-T001-HNS-0230-4 production of DECIGN from the text:A New 05.07.2021 Cherry\nIDC Cable Assembly\n2.0 IDC Socket 20 Pos.\nto End Cut SHEET UNITmm\nFreeSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.GENERAL TOLERANCE\n0 ~ 200mm  ->  ±10mm\n201 ~ 1000mm  ->  ±20mm\n1001 ~ 1500mm  ->  ±25mm\n1501 ~ 2100mm  ->  ±30mm\n2100mm↑->  ±40mmCherry\nKent\nSH05.07.2021\n27.10.2022\n27.10.20221/1\nBP1 P2\n1Red\nGrey\nGrey\nGreyEnd cut\n2\n19\n20End cut\nEnd cut\nEnd cutP1 P2\n24.1 ±0.3L\nRED\nPin 1 Pin 2\nPin 19Pin 20\n12\nRoHS\ncompliant4.003.105.00\nItem Q'TY\n1 1\n2 1Description\nIDC Socket 20 Pos. pitch 2.00mm, with bump, black, PBT, Phosphor Bronze,\nTin on IDC area, Gold on contact area\nFlat Cable pitch 1.0mm (gray/red #1) 20C, 28AWG UL2651≈5.10B add length 27.10.2022 Cherry\nItem No. Length(L) mm\nCAS- T001 -HNS-0230 520\nCAS- T001 -HNS-0230-1 35\nCAS- T001 -HNS-0230-2 385\nCAS- T001 -HNS-0230-3 440\nCAS- T001 -HNS-0230-4 645\nCAS-T001 -HNS-0230\nCAS-T001 -HNS-0230Note:\n1. UL2651 FLAT CABLE, PITCH 1.0m m Voltage Rating : 30V\n2. IDC CONNECTOR, PITCH 2.0mm, Dielectric  Withstanding Voltage : 500V AC for 1minute\n"}]
+!==============================================================================!
+### Component Summary for CAS-T001-HNS-0230-4
+
+**Component Type:** IDC Cable Assembly
+
+**Description:**
+The CAS-T001-HNS-0230-4 is an IDC (Insulation Displacement Connector) cable assembly featuring a 20-position IDC socket with a 2.0mm pitch. It is designed for reliable electrical connections in various electronic applications. The assembly includes a flat cable with a 1.0mm pitch, suitable for connecting multiple devices or components in a compact form factor.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - IDC Connector: 30V
+  - Dielectric Withstanding Voltage: 500V AC for 1 minute
+- **Current Ratings:** Not explicitly stated in the provided text; typically determined by the wire gauge (28 AWG).
+- **Power Consumption:** Not specified; power consumption is generally dependent on the connected devices.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** IDC Socket with flat cable assembly.
+- **Special Features or Notes:**
+  - RoHS compliant
+  - The IDC socket is made of black PBT (Polybutylene Terephthalate) with Phosphor Bronze contacts, featuring tin plating on the IDC area and gold plating on the contact area.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Typical Applications:**
+The CAS-T001-HNS-0230-4 IDC cable assembly is typically used in applications requiring reliable and compact connections, such as:
+- **Data Communication:** Connecting various electronic devices in data transmission systems.
+- **Consumer Electronics:** Used in devices like computers, printers, and other peripherals.
+- **Industrial Automation:** Connecting sensors and control systems in automated environments.
+- **Telecommunications:** Used in networking equipment for signal transmission.
+
+This component is ideal for applications where space is limited, and reliable connections are essential.

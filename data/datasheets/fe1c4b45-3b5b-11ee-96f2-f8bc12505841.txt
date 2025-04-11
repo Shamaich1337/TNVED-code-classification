@@ -1,0 +1,42 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of AD-N8SC3 production of JYEBAO from the text:This part number complies with RoHS.\nNotice: JYEBAO reserves the right to make modifications deemed appropriate.AD-N8SC3N Jack To SC Plug \n11GHz VSWR 1.25\nWeight: 55.66 g\nø21.4\n43.965/8-24UNEF-2A\n(ø.843)\n(1.731)\nParts Material Plating (Micro-inch)\nInsulator Teflon\nContact Pin Beryllium Copper Gold 4 Over Nickel-Phosphorus Alloy 80 Over Copper 20\nGasket Silicon\nCoupling Nut(SC) Brass Tin-Zinc-Copper-Alloy 100 Over Copper 50\nContact Body Brass Tin-Zinc-Copper-Alloy 100 Over Copper 50\nBody Brass Tin-Zinc-Copper-Alloy 100 Over Copper 5050Ωwww.jyebao.com.tw  \n\nwww.jyebao.com.tw  \nInterface  \nStandard  N SC \nMIL-STD-348B MIL-STD-348B \nElectrical Data  \nImpedance  \nFrequency Range  \nVSWR  \nInsertion Loss  \nInsulation Resistance  \nDielectric With standing Voltage (at sea level)  \nWorking Volt age (at sea level)  50Ω \nDC T o 11GHz  \n≦\n1.25 (DC To 11GHz) \n≦0.0 6 x √f(GHz) dB  \n≧5000MΩ  \n2500 V rms  \n1000 V rms  \nMechanical Dat a \nRecommended Coupling Nut Torque  \nCoupling Proof Torque  \nCoupling Nut Retention Force \nContact Captivation- axial  \nDurability (mating)  N SC \n6 to 10 in- lbs 12 to 15 in-lbs \n15 in- lbs 15 in- lbs \nNA ≧100 lbs \n≧6.3 lbs NA \n≧500 ≧500 \nEnvironmental Data  \nTemperature Range  \nThermal Shock  \nMoisture Resistance  \nCorrosion \nRoHS  -65°C to +165°C\nMIL-STD-202, M ethod 107, Condition B\nMIL-STD-202, M ethod 206\nMIL-STD-202, M ethod 101, Condition B\nCompliant\nNotice: JYEBAO reserves the right to make modifications deemed appropriate.  \nAD-N8SC3N Jack To SC Plug \n11GHz VSWR 1.25\n'}]
+!==============================================================================!
+### Component Summary: AD-N8SC3N Jack to SC Plug
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Working Voltage (at sea level): 1000 V rms
+  - Dielectric Withstanding Voltage (at sea level): 2500 V rms
+
+- **Current Ratings:**
+  - Not explicitly stated, but typically determined by the impedance and application.
+
+- **Power Consumption:**
+  - Not applicable for passive components like connectors.
+
+- **Operating Temperature Range:**
+  - -65°C to +165°C
+
+- **Package Type:**
+  - Not applicable; this is a connector component.
+
+- **Special Features or Notes:**
+  - Complies with RoHS standards.
+  - VSWR (Voltage Standing Wave Ratio): ≤ 1.25 (DC to 11GHz)
+  - Insulation Resistance: ≥ 5000 MΩ
+  - Insertion Loss: ≤ 0.06 x √f(GHz) dB
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified, but the component is moisture resistant as per MIL-STD-202, Method 206.
+
+#### Description:
+The AD-N8SC3N is a high-frequency connector designed to interface between a jack and an SC plug. It is characterized by its ability to operate effectively at frequencies up to 11 GHz with a low VSWR, making it suitable for high-frequency applications. The connector is constructed with high-quality materials, including Teflon insulators and gold-plated beryllium copper contact pins, ensuring durability and reliable performance.
+
+#### Typical Applications:
+The AD-N8SC3N connector is typically used in telecommunications and data communication systems where high-frequency signal transmission is required. Its applications include:
+- Fiber optic networks
+- RF (Radio Frequency) communication systems
+- Test and measurement equipment
+- Broadcast and cable television systems
+- Any application requiring reliable connections in high-frequency environments
+
+This connector is essential for maintaining signal integrity and minimizing losses in high-speed data transmission scenarios.

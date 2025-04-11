@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PB6156RSL-4-102 production of HIGHLY ELECTRIC from the text:www.highlyelec.com.tw\n» Product selection\n PB615         -               \n    CAP SURFACE PROCESS SYMBOL \n  BUTTON TYPE    CAP SURFACE PROCESS  \n                   FUNCTION   LED BRIGHTNESS\n LED COLOR» Features\n• Snap-in type, can be mounted directly on P.C.B Board.    \n• Parts of output terminals can be used as jumper lead,\n   facilitating circuit design.\n• Many LED lights are available.\n» Applications\n• Operating switches in all types of electronic equipment \n   such as audio apparatus, offi ce equipment , \n   communications apparatus, TV sets, VCRs, etc.\n» Specifi cations\n Rating  50mA 12VDC\n Insulation Resistance  100MΩ Min (at 250 VDC)\n Dielectric Strength  AC 250V (50/60 Hz for 1 minute)\n Contact Resistance  100mΩ Max. (Initial)\n Electrically Life  300,000 Cycles Min\n Ambient Temperature  -25°C~ +70°C\n Operating Force  160 ± 50gf\n 1  BUTTON TYPE\n211\n2\n3456\n1 2 6\nwww.highlyelec.com.tw\n» LED Specifi cations\n Color  VR IF Recommended  VF\n    Operating Current  Nom  Max\n Red DC 5V  20mA  20mA  1.7V  2.4V\n Green  DC 5V  20mA  20mA  1.9V  2.4V\n Yellow  DC 5V  20mA  20mA  1.9V  2.4V\n Blue DC 5V  20mA  20mA  3.0V  3.6V\n White  DC 5V  20mA  20mA  3.0V  3.6V 4   LED BRIGHTNESS\n�_  Standard\n C Customization3   LED COLOR\n 1 Red\n 2 Yellow\n 3 Green\n 4 Blue\n 5 White\n 6 Pure Green\n 12 Red / Yellow\n 13 Red / Green\n 23 Yellow/ Green\n 164 Red / Pure Green / Blue\n22 2   FUNCTION\n Non-illuminated  Illuminated\n _ Standard Type (2P)  L Standard Type (2P)\n H Standard Type (4P)  HL Standard Type (4P) \n M SMT Type (2P)  ML SMT Type (2P)\n HM SMT Type (4P)  HML SMT Type (4P)\n R Right Angle  RL Right Angle\n RS Right Angle (+Fix)  RSL Right Angle (+Fix)\n 5   CAP SURFACE PROCESS \n 1  Misty Silver\n 2  Bright Silver\n 3  Gold \nokok 6    CAP SURFACE PROCESS SYMBOL\n01 02 03 04 05 06 07 \n08 09 10 11 12 13 14\nwww.highlyelec.com.tw\n» Operating characteristics   \n�Unit: mm  Dimensions  Circuit  P.C.B Layout\n PB6151L-    -104    \n \n PB6152RSL\n PB6156RSL-    -102\n23\n    \n    \n'}]
+!==============================================================================!
+### Component Summary for PB6156RSL-4-102
+
+**Component Type:** Push Button Switch with LED Indicator
+
+**Key Specifications:**
+- **Voltage Rating:** 12V DC
+- **Current Rating:** 50mA
+- **Power Consumption:** Not explicitly stated, but can be inferred from the LED specifications (20mA for LED operation).
+- **Operating Temperature Range:** -25°C to +70°C
+- **Package Type:** Snap-in type for direct mounting on PCB
+- **Special Features:**
+  - Output terminals can be used as jumper leads, facilitating circuit design.
+  - Available in multiple LED colors (Red, Green, Yellow, Blue, White).
+  - Electrically rated for a life of 300,000 cycles minimum.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Description:**
+The PB6156RSL-4-102 is a push button switch designed for surface mounting on printed circuit boards (PCBs). It features an integrated LED indicator that enhances visibility and functionality. The switch is designed to operate at a voltage of 12V DC and can handle a current of up to 50mA. The switch is characterized by its snap-in mounting style, making it easy to install in various electronic devices.
+
+**Typical Applications:**
+This component is commonly used in operating switches for a wide range of electronic equipment, including:
+- Audio apparatus
+- Office equipment
+- Communication devices
+- Television sets
+- Video cassette recorders (VCRs)
+
+The PB6156RSL-4-102 is ideal for applications where user interaction is required, and visual feedback is beneficial, such as in control panels and user interfaces of electronic devices.

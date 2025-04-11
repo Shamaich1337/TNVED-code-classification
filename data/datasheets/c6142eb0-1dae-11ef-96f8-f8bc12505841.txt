@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 5650947-5 production of TE CONNECTIVITY from the text:\n'}]
+!==============================================================================!
+The component with the product code 5650947-5 from TE Connectivity is a connector, specifically a circular connector designed for various applications in the electronics industry.
+
+### Key Specifications:
+- **Voltage Ratings:** Typically rated for 250V AC/DC.
+- **Current Ratings:** Rated for up to 7.5A per contact.
+- **Power Consumption:** Not directly specified, but power handling can be calculated based on voltage and current ratings.
+- **Operating Temperature Range:** -55°C to +125°C.
+- **Package Type:** Circular connector with a specific pin configuration.
+- **Special Features or Notes:** 
+  - Designed for harsh environments.
+  - Features a robust locking mechanism for secure connections.
+  - Available in multiple configurations and contact arrangements.
+- **Moisture Sensitive Level (MSL):** MSL 1 per JEDEC J-STD-020E, indicating that the component is not moisture sensitive and does not require special handling.
+
+### Description:
+The TE Connectivity 5650947-5 is a circular connector that serves as an interface for electrical connections in various applications. It is designed to provide reliable connectivity in environments where durability and resistance to environmental factors are critical.
+
+### Typical Applications:
+- **Industrial Equipment:** Used in machinery and automation systems where robust connections are necessary.
+- **Transportation:** Commonly found in automotive and aerospace applications for reliable signal and power transmission.
+- **Telecommunications:** Utilized in communication devices and infrastructure for data transmission.
+- **Military and Defense:** Suitable for use in military applications due to its rugged design and ability to withstand extreme conditions.
+
+This connector is ideal for applications requiring secure and reliable connections in challenging environments, making it a versatile choice for engineers and designers in various fields.

@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 0537801470 production of MOLEX from the text:-\n-\n-\n-\n-\n-\n-\n-\n \n \n \n \n \nDocuments & Resources \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance Statements\nEu RoHS\nREACH SVHC\nLow-Halogen\n \nMultiple Part Industry Compliance Documents\nIPC 1752A Class C\nIPC 1752A Class D\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneralPart Number : 537801470\nProduct Description : 1.25mm Pitch\nPanelMate Header, Surface Mount, Right-\nAngle, 1.90mm Height, 14 Circuits\nSeries Number : 53780\nStatus : New Business Not Supported\nProduct Category : PCB Headers and\nReceptacles\nGADSL/IMDS Compliant with Exemption 44; 33\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Not Low-Halogen per IEC 61249-2-\n21\nREACH SVHC Not Contained per D(2023)3788-DC\n(14 Jun 2023)\nEU RoHS Compliant per EU 2015/863\n \nAgency \n \n \nElectrical \n \n \nPhysical \n Status New Business Not Supported\nCategory PCB Headers and Receptacles\nSeries 53780\nDescription 1.25mm Pitch PanelMate Header,\nSurface Mount, Right-Angle,\n1.90mm Height, 14 Circuits\nApplication Signal, Wire-to-Board\nComponent Type PCB Header\nProduct Name PanelMate\nUPC 822348185207\nCSA LR19980\nUL E29179\nCurrent - Maximum per Contact 1.0A\nVoltage - Maximum 125V\nBreakaway No\nCircuits (Loaded) 14\nCircuits (maximum) 14\nColor - Resin Natural\nDurability (mating cycles max) 50\nFirst Mate / Last Break No\nFlammability 94V-0\nGlow-Wire Capable No\nGuide to Mating Part No\nKeying to Mating Part None\nLock to Mating Part None\nMaterial - Metal Phosphor Bronze\nMaterial - Plating Mating Gold\nMaterial - Plating Termination Tin\nNet Weight 220.176/mg\nNumber of Rows 1\n \n \n \n \nThis document was generated on Oct 11, 2023 Orientation Right Angle\nPackaging Type Embossed Tape on Reel\nPCB Locator No\nPCB Retention Yes\nPitch - Mating Interface 1.25mm\nPolarized to PCB No\nShrouded Fully\nStackable No\nTemperature Range - Operating -40° to +85°C\nTermination Interface Style Surface Mount\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 0537801470
+
+**Key Specifications:**
+- **Voltage Ratings:** Maximum voltage of 125V
+- **Current Ratings:** Maximum current per contact is 1.0A
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range:** -40°C to +85°C
+- **Package Type:** Surface Mount, Right-Angle
+- **Special Features or Notes:**
+  - 1.25mm pitch
+  - 14 circuits (maximum)
+  - Durability of 50 mating cycles
+  - Flammability rating of 94V-0
+  - Not low-halogen per IEC 61249-2-21
+  - Compliant with EU RoHS and REACH SVHC regulations
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Component Description:**
+The MOLEX 0537801470 is a **PCB header** designed for surface mounting applications. It features a right-angle orientation and is part of the PanelMate series, which is characterized by its compact design with a 1.25mm pitch and a height of 1.90mm. This component is used to establish electrical connections between printed circuit boards (PCBs) and wires, facilitating signal transmission in electronic devices.
+
+**Typical Applications:**
+The MOLEX 0537801470 is typically used in applications that require reliable signal and wire-to-board connections. Common applications include:
+- Consumer electronics
+- Telecommunications equipment
+- Industrial automation systems
+- Automotive electronics
+- Any application requiring compact and efficient PCB interconnections
+
+This component is particularly suitable for environments where space is limited, and reliable connections are critical for performance.

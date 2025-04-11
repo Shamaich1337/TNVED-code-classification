@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FCZ-008-V102-99/RT production of E-TEC from the text:ABCD\n004 11,00 3,00 5,10 9,05\n005 12,00 4,00 6,10 10,05\n006 13,00 5,00 7,10 11,05\n007 14,00 6,00 8,10 12,05\n008 15,00 7,00 9,10 13,05\n009 16,00 8,00 10,10 14,05\n010 17,00 9,00 11,10 15,05\n011 18,00 10,00 12,10 16,05\n012 19,00 11,00 13,10 17,05\n013 20,00 12,00 14,10 18,05\n014 21,00 13,00 15,10 19,05\n015 22,00 14,00 16,10 20,05\n016 23,00 15,00 17,10 21,05\n017 24,00 16,00 18,10 22,05\n018 25,00 17,00 19,10 23,05\n019 26,00 18,00 20,10 24,05\n020 27,00 19,00 21,10 25,05\n021 28,00 20,00 22,10 26,05\n022 29,00 21,00 23,10 27,05\n023 30,00 22,00 24,10 28,05\n024 31,00 23,00 25,10 29,05\n025 32,00 24,00 26,10 30,05\n026 33,00 25,00 27,10 31,05\n027 34,00 26,00 28,10 32,05\n028 35,00 27,00 29,10 33,05\n029 36,00 28,00 30,10 34,05\n030 37,00 29,00 31,10 35,05No. of \nContactsDimension mm\n\n'}]
+!==============================================================================!
+Based on the provided information, here is a concise summary of the component FCZ-008-V102-99/RT from E-TEC:
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Current Ratings**: Not explicitly stated; usually specified in the datasheet.
+- **Power Consumption**: Not provided; requires datasheet reference.
+- **Operating Temperature Range**: Not provided; requires datasheet reference.
+- **Package Type**: Not specified; typically detailed in the datasheet.
+- **Special Features or Notes**: Not mentioned; further details would be in the datasheet.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not provided; requires datasheet reference.
+
+### Component Description:
+The FCZ-008-V102-99/RT appears to be a connector component, likely used for establishing electrical connections between different parts of a circuit or system. The reference to "No. of Contacts" suggests that it is a multi-pin connector, which is essential for applications requiring multiple signal or power connections.
+
+### Typical Applications:
+- **Power Management**: Used in power distribution systems where multiple connections are necessary.
+- **Signal Processing**: Suitable for applications that require the transmission of multiple signals, such as in communication devices.
+- **Data Storage**: May be used in devices that require connections to storage media or interfaces.
+- **General Electronics**: Commonly found in various electronic devices where reliable connections are needed.
+
+### Conclusion:
+For a complete understanding of the FCZ-008-V102-99/RT component, including its electrical ratings and specific applications, it is recommended to consult the full datasheet from E-TEC. The provided text does not contain sufficient details to fully characterize the component.

@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of L-1503CB/1SRD production of KINGBRIGHT from the text:SPEC NO: DSAC7366                  REV NO: V.8                                 DATE: MAY/12/2010                                    PAGE:  1  OF  6 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: C.H.Han                                         E RP: 1102000624 T-1 3/4 (5mm) RIGHT ANGLE LED INDICATOR \nPart Number: L-1503CB/1SRD             Super Bright Red \nFeatures \nzLow power consumption. \nzVersatile mounting on P.C. board or panel. \nzT-1 3/4 diameter flangeless package. \nzReliable and rugged. \nzHousing UL rating:94V-0. \nzHousing material: type 66 nylon. \nzRoHS compliant. Description  \nThe Super Bright Red source color devices are made with \nGallium Aluminum Arsenide Red Light Emitting Diode. \nPackage Dimensions \nNotes: \n1. All dimensions are in millimeters (inches). 2. Tolerance is ±0.25(0.01") unless otherwise noted. \n3. Lead spacing is measured where the leads emerge from the package. \n4. The specifications, characteristics and technical data descri bed in the datasheet are subject to change without prior notice . \n\nSPEC NO: DSAC7366                  REV NO: V.8                                 DATE: MAY/12/2010                                    PAGE:  2  OF  6 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: C.H.Han                                         E RP: 1102000624 Selection Guide \nNotes: \n1. θ1/2 is the angle from optical centerline where the lumi nous intensity is 1/2 of  the optical peak value. \n2. Luminous intensity/ luminous Flux: +/-15%. \nAbsolute Maximum Ratings at TA=25°C Electrical / Optical Characteristics at TA=25°C \nNotes: \n1.Wavelength: +/-1nm. 2. Forward Voltage: +/-0.1V. \nNotes: \n1. 1/10 Duty Cycle, 0.1ms Pulse Width. 2. 2mm below package base. \n3. 5mm below package base. Part No.  Dice  Lens Type  Viewing                                      \nAngle [1] \nMin. Typ. 2 θ1/2 \nL-1503CB/1SRD Super Bright Red (GaAlAs) RED DIFFUSED 380 700 60° Iv (mcd) [2] \n@ 20mA \nSymbol Parameter Device Typ. Max. Units Test Conditions \nλpeak Peak Wavelength Super Bright Red 660  nm I F=20mA \nλD [1] Dominant Wavelength Super Bright Red 640  nm I F=20mA \nΔλ1/2 Spectral Line  Half-width Super Bright Red 20  nm I F=20mA \nC Capacitance Super Bright Red 45  pF V F=0V;f=1MHz \nVF [2] Forward Voltage Super Bright Red 1.85 2.5 V I F=20mA \nIR Reverse Current Super Bright Red  10 uA V R = 5V \nParameter Super Bright Red Units \nPower dissipation 75 mW \nDC Forward Current 30 mA Peak Forward Current [1] 155 mA Reverse Voltage 5 V Operating/Storage Temperature -40°C To +85°C Lead Solder Temperature [2] 260°C For 3 Seconds \nLead Solder Temperature [3] 260°C For 5 Seconds \nSPEC NO: DSAC7366                  REV NO: V.8                                 DATE: MAY/12/2010                                    PAGE:  3  OF  6 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: C.H.Han                                         E RP: 1102000624 Super Bright Red              L-1503CB/1SRD \nSPEC NO: DSAC7366                  REV NO: V.8                                 DATE: MAY/12/2010                                    PAGE:  4  OF  6 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: C.H.Han                                         E RP: 1102000624 PACKING & LABEL SPECIFICATIONS                              L-1503CB/1SRD \nSPEC NO: DSAC7366                  REV NO: V.8                                 DATE: MAY/12/2010                                    PAGE:  5  OF  6 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: C.H.Han                                         E RP: 1102000624 \nSPEC NO: DSAC7366                  REV NO: V.8                                 DATE: MAY/12/2010                                    PAGE:  6  OF  6 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: C.H.Han                                         E RP: 1102000624 \n'}]
+!==============================================================================!
+### Component Summary: L-1503CB/1SRD (KINGBRIGHT)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (VF): 1.85V (typical) to 2.5V (maximum) at 20mA
+  - Reverse Voltage (VR): 5V
+- **Current Ratings:**
+  - DC Forward Current (IF): 30mA
+  - Peak Forward Current: 155mA (for short pulses)
+- **Power Consumption:**
+  - Power Dissipation: 75mW
+- **Operating Temperature Range:**
+  - -40°C to +85°C
+- **Package Type:**
+  - T-1 3/4 (5mm) flangeless package
+- **Special Features:**
+  - Low power consumption
+  - Versatile mounting options (P.C. board or panel)
+  - Reliable and rugged design
+  - Housing material: Type 66 nylon
+  - UL rating: 94V-0
+  - RoHS compliant
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+#### Description:
+The L-1503CB/1SRD is a Super Bright Red Light Emitting Diode (LED) manufactured using Gallium Aluminum Arsenide (GaAlAs) technology. This component is designed to emit a bright red light and is characterized by its low power consumption and robust construction, making it suitable for various applications.
+
+#### Typical Applications:
+- **Indicator Lights:** Commonly used in electronic devices as status indicators due to its bright output and low power requirements.
+- **Backlighting:** Suitable for backlighting applications in displays and control panels.
+- **Signal Lighting:** Utilized in automotive and industrial signaling systems.
+- **Decorative Lighting:** Can be used in decorative applications where bright red illumination is desired.
+
+This LED is ideal for applications requiring reliable performance in a compact form factor, making it a versatile choice for both consumer and industrial electronics.

@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of IH-FR230005A1 production of I-PEX CONNECTORS from the text:CONNECTOR 1 [ TOP SIDE ] CONNECTOR 2 [ TOP SIDE ]\n DESIGN'D BY        DATE    TITLE\n CHECK'D BY\nSHEET SCALE UNIT\n1/1 mm\nForm Rev. 12CONNECTOR 2 SOLDERING POINT29\nFor MICRO-ELECTRONICS TECHNOLOGIESREFERENCE ・\n ・\n ・ ・\n ・\n ・2\n3029 2\nCONNECTOR 1 SOLDERING POINT1\nTOP\nSIDETOP\nSIDE\nBOTTOM\nSIDEBOTTOM\nSIDEMICRO COAXIAL AWG#40, 50 OHM, BLUE\nMICRO COAXIAL AWG#40, 50 OHM, BLUE\nCABLINE-CA 30P\nHARNESS #########PIN ASSIGNMENT\nCONNECTOR 2 CONNECTOR 1 CABLE\n30 1 MICRO COAXIAL AWG#40, 50 OHM, BLUE\nMICRO COAXIAL AWG#40, 50 OHM, BLUEMICRO COAXIAL AWG#40, 50 OHM, BLUE\nConfidential BREFERENCE DRAWINGPROJECTIONAll other trademarks are owned by their respective companies.\nI-PEX Inc. assumes no responsibility for any inaccuracies or obligation to update Information on these documents.All specifications of the products shown here are subject to change without notice.  \n【H-FR230005A1】\n6 BONDING - - UV GLUE\n- - -\n- 30 MICRO COAXIAL AWG#40, 50 OHM, BLUE\n4 LOCK BAR ASS'Y - -\n3 PULL BAR 2766-0301 2\n2 SHELL-A 2764-0301-002 2\n1 HOUSING ASS'Y 20634-130T-02 2\nNo. DESCRIPTION PARTS No. QTY REMARK5 CABLE\nCONNECTOR 1 & 2\n〇： SOLDERING POINT\nBONDING\n〇： SOLDERING POINT\nBONDING\n〇： SOLDERING POINT\nBONDINGTOP\nSIDE\nBOTTOM\nSIDE\n\n"}]
+!==============================================================================!
+### Component Summary for IH-FR230005A1
+
+**Component Type:** Connector
+
+**Description:**
+The IH-FR230005A1 is a micro coaxial connector designed for high-frequency applications. It features a compact design suitable for micro-electronics technologies, utilizing AWG#40, 50-ohm coaxial cables. The connector is intended for applications requiring reliable signal transmission in a small form factor.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not specified in the provided text.
+- **Current Ratings:** Not specified in the provided text.
+- **Power Consumption:** Not specified in the provided text.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Not explicitly mentioned, but it is a micro coaxial connector.
+- **Special Features/Notes:** 
+  - Utilizes UV glue for bonding.
+  - Designed for micro coaxial AWG#40, 50-ohm cables.
+  - Includes soldering points for secure connections.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Typical Applications:**
+The IH-FR230005A1 connector is typically used in:
+- Micro-electronics technologies
+- High-frequency signal transmission
+- Applications requiring compact and reliable connections, such as in telecommunications, data communication, and consumer electronics.
+
+### Conclusion
+The IH-FR230005A1 connector is a specialized component designed for high-frequency applications, particularly in micro-electronics. Its compact size and use of micro coaxial cables make it suitable for various applications where space and signal integrity are critical. However, specific electrical ratings and environmental specifications were not provided in the text.

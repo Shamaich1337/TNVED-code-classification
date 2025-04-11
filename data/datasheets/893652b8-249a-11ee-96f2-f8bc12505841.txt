@@ -1,0 +1,60 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CC2-1000 production of KINZ from the text:\xa0\n \n                                                                \n    \n \n \n单芯塑料光纤光缆  \n技术规格书  \nSimplex Plastic Optical Fiber Cable \nTechnical Specification \n \n \n  \nCC2-1000  \n \n          \n深圳金智光电技术有限公司  \nShen Zhen Kinz Optoelectric Technology Co.,Ltd. \n2015.4 \n\xa0\n深圳金智光电技术有限公司  \n \n                         Shen Zhen Kinz Optoelectric Technology Co.,Ltd.                       \n1.产品名称(Product Name） ：单芯塑料光纤光缆(Simplex POF Cable) \n2.产品型号(Product Type)：CC2-1000 \n3.产品结构(Product Structure) \n项目 (Item) 技术参数 (Specification) 单位 (Unit)\n塑 \n料 \n光 \n纤 \nPlastic \nOptical \nFiber \n 纤芯材料 (Core Material) 聚甲基丙烯酸甲酯 (Polymethylmethacrylate) — \n包层材料 (Cladding Material) 氟树脂  （Fluorinated Polymer ） —  \n纤芯折射率 (Core Refractive Index) 1.49 — \n包层折射率 (Cladding Reflective Index) 1.41 — \n折射率类型 (Refractive Index Profile) 阶跃型 (Step Index) — \n数值孔径 (Numerical Aperture) 0.5 — \n纤芯直径 (Core Diameter) 980±60 μm \n包层直径 (Cladding Diameter) 1000±60 μm \n护套  \nJacket 材料 (Material) 聚乙烯   ( P o l y e t h y l e n e  )  —  \n颜色 (Color) 黑色   ( B l a c k )  —  \n直径 (Diameter) 2.2±0.07 mm \n单位重量（ Unit Weight ） 3.77 g/m \n产品认证（ Certification ） 通过 ROHS、REACH（Pass：ROHS、REACH） —  \n \n4.产品结构示意图（ Product  structure  diagram ） \n \n\xa0\n深圳金智光电技术有限公司  \n \n                       Shen Zhen Kinz Optoelectric Technology Co.,Ltd.                       \n5．性能（ Performance ）： \n项目 (Item) 条件（ Condition ） 技术参数 (Specification) 单位 (Unit)\n光学性能\n(Optical \nPerformance) 650nm衰减\n(Attenuation ) T=25 ℃  ≤0.19 dB/m \n带宽 (Bandwidth) — ≥10 MHz •100m  \n机械性能\n(Mechanical \nPerformance) 4%伸长率拉伸力  \n(4%Tensile Stren gth) 拉伸速度： 100 mm/min \n(Tensile S peed: 100 mm/min )≥56 N \n短暂拉伸力 (Short \nTerm Tensile Force) 持续时间小于 30min \n(Keep time is less than 30 minutes)≤50 N \n短暂弯曲半径 (Short \nTerm Bend Radius) 非工作状态下、持续时间小于 1小\n时(Keep time is less than 1 hour \nnon-o peratin g)≥22 mm \n长期弯曲半径 (Long \nTerm Bend Radius) 无物理损伤和光学性能损伤  \n(No Physical Deterioration and \nOptical Pro perty)≥44 mm \n压扁 (Crush ) 压力 (Crush Strength) ：700N/100mm\n持续 (Keeping Time) ：1min 套层应无目视可见开裂 (Under \nvisual examination the Jacket shall \nbe no splitting) \n衰减变化值 ≤0.2(Change in \nattenuation shall not exceed 0.2 ) dB \n冲击 (Impact) 撞击面半径 (Radius of striking \nsurface)：12.5mm \n冲击能量 (Impact Energy) ：0.2N •m \n冲击次数 (Impact Numbers) ：3次 \n冲击点间距 (Impact Point Distance) ：\n500m m套层应无目视可见开裂 Under \nvisual (examination the Jacket \nshall be no splitting) \n衰减变化值 ≤0.2 \n(Change in attenuation shall not \nexceed 0.2) dB \n弯曲 (Bend) 芯轴直径 (Mandrel Diameter) ：50mm\n缠绕 6圈循环 10次 \n(Number of turns per helix ：6 \nNumber of Cycles : 10 ) 套层应无目视可见开裂  \n(Under visual examination the \nJacket shall be no splitting ) \n衰减变化值 ≤0.2 \n(Change in attenuation shall not \nexceed 0.2)dB \n反复弯曲  \n(Repeated bending ) 弯曲半径 (Bending Radius) ：15mm \n负载 ((Load Strength) ：5N \n循环次数 (Repeat Times) ：1000 \n弯曲角度（ bend angle ）： ±900 套层应无目视可见开裂  \n(Under visual examination the \nJacket shall be no splitting ) \n衰减变化值 ≤0.2 \n(Change in attenuation shall not \nexceed 0.2 )dB \n扭转  \n（Torsion） 轴向张力（ Axial tension ）： 5N \n扭转长度（ Twisting Length ）：\n250mm， \n扭转角度（ Torsion Angle ）：±1800,\n扭转次数 (Torsion  times) ：20 套层应无目视可见开裂  \n(Under visual examination the \nJacket shall be no splitting ) \n衰减变化值 ≤0.2(Change in \nattenuation shall not exceed 0.2) dB \n环境性能  \n(Environmental \nPerformance) 贮存和工作温度  \n(Storage and Operating \nTemperature ) 无物理损伤和光学性能损伤  \n(No Physical Deterioration and No  \nDeterioration In O ptical Pro perties )-55~＋85 ℃ \n推荐工作温度\n(Recommended \nOperating Temperature) 无光学性能损伤  \n(No DeteriorationIn Optical \nProperties)-40~＋70 ℃ \n安装温度（ Installation \nTemperature ） 无光学性能损伤  \n(No DeteriorationIn Optical \nProperties)-20~＋70 ℃ \nWeb：//www.kinz-pof.com  Tel ：400-160-8187    E - m a il:sales@kinz-pof.com \n'}]
+!==============================================================================!
+### Component Summary for CC2-1000
+
+**Product Name:** Simplex Plastic Optical Fiber Cable  
+**Manufacturer:** Shen Zhen Kinz Optoelectric Technology Co., Ltd.  
+**Product Code:** CC2-1000  
+**Date:** April 2015  
+
+#### Key Specifications:
+- **Core Material:** Polymethylmethacrylate (PMMA)
+- **Cladding Material:** Fluorinated Polymer
+- **Core Refractive Index:** 1.49
+- **Cladding Refractive Index:** 1.41
+- **Refractive Index Profile:** Step Index
+- **Numerical Aperture:** 0.5
+- **Core Diameter:** 980 ± 60 μm
+- **Cladding Diameter:** 1000 ± 60 μm
+- **Jacket Material:** Polyethylene
+- **Jacket Color:** Black
+- **Jacket Diameter:** 2.2 ± 0.07 mm
+- **Unit Weight:** 3.77 g/m
+- **Certification:** ROHS, REACH compliant
+
+#### Performance Parameters:
+- **Optical Performance:**
+  - **Attenuation at 650nm:** ≤ 0.19 dB/m (at 25°C)
+  - **Bandwidth:** ≥ 10 MHz • 100m
+
+- **Mechanical Performance:**
+  - **Tensile Strength (4% elongation):** ≥ 56 N
+  - **Short Term Tensile Force:** ≤ 50 N
+  - **Short Term Bend Radius:** ≥ 22 mm
+  - **Long Term Bend Radius:** ≥ 44 mm
+  - **Crush Strength:** 700 N/100 mm
+  - **Impact Resistance:** No visible cracks after specified impact tests
+  - **Bending and Torsion Resistance:** No visible cracks after specified bending and torsion tests
+
+- **Environmental Performance:**
+  - **Storage and Operating Temperature Range:** -55°C to +85°C
+  - **Recommended Operating Temperature:** -40°C to +70°C
+  - **Installation Temperature:** -20°C to +70°C
+
+#### Special Features:
+- The cable is designed for high flexibility and durability, with resistance to bending, crushing, and torsion.
+- It is suitable for various environmental conditions without significant degradation in optical performance.
+
+#### Moisture Sensitive Level:
+- Not specified in the provided data.
+
+### Description:
+The CC2-1000 is a **Simplex Plastic Optical Fiber Cable** designed for transmitting optical signals. It utilizes a core made of polymethylmethacrylate, which provides good light transmission properties, and is surrounded by a fluorinated polymer cladding. This cable is characterized by its step index profile and a numerical aperture of 0.5, making it suitable for various optical applications.
+
+### Typical Applications:
+- **Data Communication:** Used in short-distance data transmission applications where flexibility and lightweight characteristics are essential.
+- **Consumer Electronics:** Commonly found in devices requiring optical signal transmission, such as audio and video equipment.
+- **Industrial Applications:** Suitable for environments where resistance to bending and mechanical stress is necessary.
+- **Lighting Applications:** Can be used in decorative lighting and illumination systems due to its flexibility and optical properties.
+
+This summary provides a comprehensive overview of the CC2-1000 optical fiber cable, highlighting its specifications, performance characteristics, and typical applications.

@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-TSS-600-350NS2/6SZ production of DECIGN from the text:A New 20.01.2022 Cherry\nTactile Switch\nTHT - 6.0x6.0\nStraightRecommended PCB Layout  Top View\n(Tolerance ±0.05)\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.30Cherry\nKent\nSH20.01.2022\n20.01.2022\n20.01.20221/1\nA6.00\n6.00 4.50\n4x0.70\n0.70\n6.50 ±0.20\n7.90 ±0.203.50 ±0.10H±0.20\n1.65\n3.20∅3.30\n0.50 max.\n0.30\n4.10 ±0.206.50\n4.50∅1.00\n4.10\nSpecifications\nElectrical\nCurrent rating: 50mA @12V DC\nInsulation resistance: 100M Ω min.\nContact resistance: 100m Ω max.\nWithstanding voltage: 250V AC / MinuteMaterial\nHousing: PA66 (black)\nStem: PA66\nContact: Phosphor Bronze; Silver plated\nTerminal: Brass; Silver plated\nCover: cold pressed steel; Cu/Sn plated\nOperating tem perature: -20°C to +70°C\nStorage temperature: -40°C to+85°C\nMechanical Requirements\nOperating life: see under "Operating Force"\nPacking\nBagOrder Code\nStem height option (" H")\n 3.50mm = 35Operating Force\nK = 100g±50g (0.98N) (200,000 Cycles)\nN = 160g±50g (1.57N) (200,000 Cycles)\nR = 260g±50g (2.55N) (100,000 Cycles)\nS= 320g±80g (3.14N) (50,000 Cycles)\nY= 520g±130g (5.10N) (50,000 Cycles)\nStem Color\n0 =b l a c k\n1 =b r o w n\n2 =r e d\nRoHS\ncompliant\nCircuit Diagram1 2\n3 4\n51 2\n3 4\nTP-TSS-600-S2/6SZ\nTP-TSS-600-xxxXS2/6SZTP-TSS-600-xx x XS2/6SZ\n'}]
+!==============================================================================!
+### Component Summary for TP-TSS-600-350NS2/6SZ
+
+#### Key Specifications:
+- **Voltage Ratings**: 12V DC
+- **Current Ratings**: 50mA
+- **Power Consumption**: Not explicitly stated, but can be calculated as \( P = V \times I = 12V \times 0.05A = 0.6W \)
+- **Operating Temperature Range**: -20°C to +70°C
+- **Storage Temperature Range**: -40°C to +85°C
+- **Package Type**: THT (Through-Hole Technology), dimensions 6.0mm x 6.0mm
+- **Special Features**: 
+  - Insulation resistance: 100MΩ minimum
+  - Contact resistance: 100mΩ maximum
+  - Withstanding voltage: 250V AC for 1 minute
+  - RoHS compliant
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The TP-TSS-600-350NS2/6SZ is a tactile switch designed for through-hole mounting on printed circuit boards (PCBs). It features a compact size of 6.0mm x 6.0mm and is constructed from durable materials including PA66 for the housing and stem, and phosphor bronze for the contacts, which are silver plated for enhanced conductivity. The switch is designed to provide tactile feedback when pressed, making it suitable for user interface applications.
+
+#### Typical Applications:
+This tactile switch is commonly used in various electronic devices for:
+- **User Interface Controls**: Such as buttons on remote controls, keyboards, and consumer electronics.
+- **Signal Processing**: In applications where user input is required to trigger specific functions.
+- **Power Management**: As a power switch in devices that require manual activation.
+- **Consumer Electronics**: Including appliances, toys, and handheld devices where tactile feedback is beneficial for user experience.
+
+Overall, the TP-TSS-600-350NS2/6SZ tactile switch is a versatile component suitable for a wide range of applications requiring reliable and responsive user input.

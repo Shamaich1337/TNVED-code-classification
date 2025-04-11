@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of IV1Q06040T4 production of INVENTCHIP TECHNOLOGY from the text:Oct. 2021 \n \nwww.inventchip.com.cn              Rev1.0 \nIV1Q06040T4 – 650V 40mΩ SiC MOSFET  \nAbsolute Maximum Ratings  (TC=25°C unless otherwise specified ) \nSymbol  Parameter  Value  Un\nit Test Conditions  Note  \nVDS Drain -Source voltage  650 V VGS=0V, I D=100μA  \nVGSmax (DC) Maximum DC voltage  -5 to 22  V Static (DC)   \nVGSmax (Spike)  Maximum spike voltage  -10 to 25  V <1% duty cycle, and pulse \nwidth<200ns   \nVGSon Recommended turn -on voltage  20±0.5 V   \nVGSoff Recommended turn -off voltage  -3.5 to -2 V   \nID Drain current (continuous)  72 A VGS=20V, T C=25°C Fig. 21  58 A VGS=20V, T C=100°C \nIDM Drain current (pulsed)  180 A Pulse width limited by SOA  Fig. 24  \nPTOT Total power dissipation  348 W TC=25°C Fig. 22  \nTstg Storage temperature range  -55 to 175  °C   \nTJ Operating junction temperature  -55 to 175  °C   \nTL Solder Temperature  260 °C wave soldering only \nallowed at leads, 1.6mm \nfrom case for 10 s   \nThermal Data  \nSymbol  Parameter  Value Unit Note  \nRθ(J-C) Thermal Resistance from Junction to Case  0.431 °C/W Fig. 23 Features  \n⚫ High blocking voltage with low on -resistance  \n⚫ High speed switching with low capacitance  \n⚫ High operating junction temperature capability  \n⚫ Very fast and robust intrinsic body diode  \n⚫ Kelvin gate input easing driver circuit design  \n \nApplications  \n⚫ EV chargers  \n⚫ Server & Telecom PSU  \n⚫ Solar inverters  \n⚫ UPS \n⚫ High voltage DC/DC converters  \n⚫ Switch mode power supplies  Package  \n \n \n \nPart Number  Package  \nIV1Q06040T4 TO247 -4 \n \n\nOct. 2021 \n \nwww.inventchip.com.cn              Rev1.0 \nElectrical Characteristics  (TC=25°C unless otherwise specified ) \nSymbol  Parameter  Value Unit Test Conditions  Note \nMin. Typ. Max. \nIDSS Zero gate voltage drain \ncurrent   3 100 μA VDS=650V, VGS=0V  \nIGSS Gate leakage current    ±100 nA VDS=0V, VGS=-5~20V  \nVTH Gate threshold voltage  1.8 3.2 5 V VGS=VDS, ID=6.1mA \nFig. 8, 9   2.2   VGS=VDS, ID=6.1mA  \n@ TC=175°C \nRON Static drain -source on -\nresistance   40 55 mΩ VGS=20V, ID=20A \n@TJ=25°C Fig. 4, 5, 6, \n7  53  mΩ VGS=20V, ID=20A \n@TJ=175°C \nCiss Input capacitance   2692  pF \nVDS=600V, VGS=0V,  \nf=1MH Z, VAC=25mV  Fig. 16  Coss Output capacitance   179  pF \nCrss Reverse transfer \ncapacitance   10.8  pF \nEoss Coss stored energy   35.6  μJ Fig. 17  \nQg Total gate charge   110.8  nC VDS=400V, ID=20A,  \nVGS=-5 to 20V  Fig. 18  Qgs Gate-source charge   26.8  nC \nQgd Gate-drain charge   35.7  nC \nRg Gate input resistance   2  Ω f=1MH Z  \nEON Turn-on switching energy   163.1   μJ \nVDS=400V, ID=30A,  \nVGS=-2 to 20V, \nRG(ext)=3.3Ω,  \nL=450μH Fig. 19, 20  EOFF Turn-off switching energy   53.0  μJ \ntd(on) Turn-on delay time   12.2  \nns tr Rise time   17.6  \ntd(off) Turn-off delay time   30.2  \ntf Fall time   12.6  \n \n  \nOct. 2021 \n \nwww.inventchip.com.cn              Rev1.0 \nReverse  Diode Characteristics (TC=25°C unless otherwise specified ) \nSymbol  Parameter  Value Unit Test Conditions  Note \nMin. Typ. Max. \nVSD Diode forward voltage   4.0  V ISD=20A, VGS=0V Fig. 10, \n11, 12   3.6  V ISD=20A, VGS=0V, \nTJ=175°C \ntrr Reverse recovery time   15.6  ns VGS=-2V/+20V , \nISD=30A, V R=400V, \ndi/dt=1 884A/us, \nRG(ext)=15Ω \nL=450μH  Qrr Reverse recovery charge   130.3  nC \nIRRM Peak reverse recovery current   13.4  A \n \n  \nOct. 2021 \n \nwww.inventchip.com.cn              Rev1.0 \nTypical Performance  (curves)  \n \n \n \nFig. 1 Output Curve @ TJ=-55°C \n Fig. 2 Output Curve @ TJ=25°C \nFig. 3 Output Curve @ TJ=175°C \n Fig. 4 Ron vs. Temperature  \nFig. 5 Normalized Ron vs. Temperature  \n Fig. 6 Ron vs. IDS @ Various Temperature  \n\nOct. 2021 \n \nwww.inventchip.com.cn              Rev1.0 \n \n \n \nFig. 7 Ron vs. Temperature  @ Various V GS \n Fig. 8 Transfer Curve s @ Various Temperature  \nFig. 9 Threshold Voltage vs. Temperature  \n Fig. 10 Body Diode Curves @ TJ=-55°C \nFig. 11 Body Diode Curves @ T J=25°C  \n Fig. 12 Body Diode Curves @ T J=175°C \n\nOct. 2021 \n \nwww.inventchip.com.cn              Rev1.0 \n \n \n \nFig. 13 3rd Quadrant Curves  @ T J=-55°C \n Fig. 14 3rd Quadrant Curves @ T J=25°C  \n   Fig. 15 3rd Quadrant Curves @ T J=175°C \n Fig. 16 Capacitance vs. V DS \n    Fig. 17 Output Capacitor Stored Energy  \n Fig. 1 8 Gate Charge Characteristics  \n\nOct. 2021 \n \nwww.inventchip.com.cn              Rev1.0 \n \n \n  \n    Fig. 19 Switching Energy  vs. R G(ext) \n Fig. 20 Switching Times vs. R G(ext) \nFig. 21 Continuous Drain Current vs.  \nCase Temperature  \nFig. 22 Max. Power Dissipation Derating vs. \nCase Temperature  \nFig. 23 Thermal Impedance  \n Fig. 2 4 Safe Operating Area  \n\nOct. 2021 \n \nwww.inventchip.com.cn              Rev1.0 \nPackage Dimensions  \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Note:  \n1. Package Reference: JEDEC TO247, Variation AD  \n2. All Dimensions are in mm  \n3. Slot Required, Notch May Be Rounded  \n4. Dimension D&E Do Not Include Mold Flash  \n\nOct. 2021 \n \nwww.inventchip.com.cn              Rev1.0 \nNotes \nFor further information please contact IVCT’ s Office.  \nCopyright©20 21 InventChip Technology Co., Ltd. All rights reserved.  \n \nRelated Links  \nhttp://www.inventchip.com.cn  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n'}]
+!==============================================================================!
+### Component Summary: IV1Q06040T4 - 650V 40mΩ SiC MOSFET
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Drain-Source Voltage (VDS): 650 V
+  - Maximum DC Gate-Source Voltage (VGSmax DC): -5 to 22 V
+  - Maximum Spike Gate-Source Voltage (VGSmax Spike): -10 to 25 V
+
+- **Current Ratings:**
+  - Continuous Drain Current (ID): 72 A (at TC=25°C), 58 A (at TC=100°C)
+  - Pulsed Drain Current (IDM): 180 A
+
+- **Power Consumption:**
+  - Total Power Dissipation (PTOT): 348 W
+
+- **Operating Temperature Range:**
+  - Storage Temperature (Tstg): -55 to 175 °C
+  - Operating Junction Temperature (TJ): -55 to 175 °C
+
+- **Package Type:**
+  - TO247-4
+
+- **Special Features:**
+  - High blocking voltage with low on-resistance (40 mΩ)
+  - High-speed switching with low capacitance
+  - High operating junction temperature capability
+  - Very fast and robust intrinsic body diode
+  - Kelvin gate input for easier driver circuit design
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided data.
+
+#### Description:
+The IV1Q06040T4 is a 650V Silicon Carbide (SiC) MOSFET designed for high-efficiency power applications. It features a low on-resistance of 40 mΩ, making it suitable for applications requiring high current handling with minimal power loss. The device is optimized for high-speed switching, which is essential in modern power electronics.
+
+#### Typical Applications:
+The IV1Q06040T4 is commonly used in:
+- Electric Vehicle (EV) chargers
+- Server and Telecom Power Supply Units (PSUs)
+- Solar inverters
+- Uninterruptible Power Supplies (UPS)
+- High voltage DC/DC converters
+- Switch mode power supplies (SMPS)
+
+This MOSFET is particularly advantageous in applications where efficiency and thermal performance are critical, such as in renewable energy systems and high-performance power management solutions.

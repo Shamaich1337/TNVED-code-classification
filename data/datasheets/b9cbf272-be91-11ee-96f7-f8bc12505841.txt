@@ -1,0 +1,42 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of EC-2477-2T production of EUNICELL from the text: \n \n \n \n 1 深圳市宇能达科技 有限公司  \nEAST（SHENZHEN ）TECHNOLOGY  CO., LTD.  \n  \n \n1. 【SCOPE】 \nThis specification applies to the following 3.0v lithi um button cell CR2477 made by  \nEAST(SHENZHEN)TECHNOLOGY CO.,LTD （Eunicell Battery).  \n \n2. 【RATINGS 】 \nTABLE Ⅰ： \nITEM  UNIT  SPECIFICATIONS  CONDITIONS  \nNominal voltage  V 3.0  \nNominal capacity  mAh 1050 Standard disc harge with \nload 4.7kΩ \nInstantaneous short –circuit \ncurrent  mA ≥250 Time≤0.5 second  \nOff-load v oltage  V ≥3.20  \nOperating  temperature  ℃ -20~60  \nStandard weight  g ~8.5 Unit cell  \nService \noutput   Initial  Standard  1480 h Continuous discharge with \nload 4.7kΩ, till 2.0v \nend-voltage  at 20~25 ℃ After 12 months \nstorage  Standard  1400 h \n \nTABLE Ⅱ： \nITEM  CONDITIONS  CHARACTERISTICS  \nThermal \ndurability  Kept for 10 days at 50℃±3℃, then \ncontinuously discharge with 4.7kΩ load till 2.0v \nend-voltage  Standa rd 1400 h \nSelf-discharge \nrate Store d for 12 months at normal temperature  \nand humidity   ≤1% \n \n3. 【PERFORMANCE AND TEST METHODS 】 \nUnless otherwise stated,  all the testing is carried out under the condition: environmental temperature , \n20℃~25℃; environmental humidity , 65±20%. Please refer to Table Ⅲ \n \n4. 【SUGGESTIONS AND CAUTIONS 】 \n4.1 Install  batteries correctly.  \n4.2 E nsure the contact points to be clean and conductive.  \n4.3 D o not mix different type s, different brand s batter ies to serve together.  \n4.4 Do not heat , recharge the batteries.  \n4.5 D o not dispose of the batteries in fire . \n4.6 K eep away from the small children, if swallowed promptly see doctor.  \n4.7 P ay attention to the producing date.  \n \n \n \n \n \n 2 深圳市宇能达科技 有限公司  \nEAST（SHENZHEN ）TECHNOLOGY  CO., LTD.  \n  \nTABLE Ⅲ: \nNo ITEM  TEST METHODS  STANDARED  \n1 Dimensions  Using vernier c aliper (accuracy ≥0.02) while \navoiding short -circuit  Diameter  24.5 (-0.20) mm  \nHeight  7.7 (±0.1) mm  \n2 Off-load \nvoltage  Using multimeter (accuracy ≥0.25% ) internal \nresistance ≥1MΩ  ≥3.20 v \n3 Instantaneous \nshort -circuit \ncurrent  Time of short -circuit should be less than 0.5 \nsecond and avoid repeated test within half an \nhour ≥250 mA \n4 Appearance  Eyeballing  Bright, clean, no rust , no \nleakage, And no flaw  \n5 Capacity  Continuously discharge with load  4.7kΩ, \ntemperature at 20~25℃, humidity at 65±\n20% till 2.0v end -voltage (for fresh battery \nonly: within 3 months  ) ≥1480 h \n 6  Vibration test  Put battery on the platform of the vibrations \nmachine, start the machine and adjust the \nfrequency form 10 times per minute to 15 \ntimes per minute. keep it running for an hour  Characteristics keep stability  \n7 Leakage at \nhigh \ntemperature  \ntest Stored under temperature ( 50℃) for 10 days  No leakage allowed  \n8 Over \ndischarge  \nTest After 2.0v end -voltage, contin uously \ndischarge d for 5 hours  No leakage allowed  \n \n5. 【CUTAWAY DIAGRAM OF 3 .0V LITHIUM MANGANESE DIOXIDE BUTTON \nCELL】 \n \n \n \n \n \n \n 3 深圳市宇能达科技 有限公司  \nEAST（SHENZHEN ）TECHNOLOGY  CO., LTD.  \n  \n6. 【DISCHARGE CHARACTERISTICS 】 \n \n \n7. 【DIMENSIONS 】 \n \n \n\n'}]
+!==============================================================================!
+### Component Summary: EC-2477-2T (Eunicell CR2477 Lithium Button Cell)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Nominal Voltage: 3.0 V
+  - Off-load Voltage: ≥ 3.20 V
+
+- **Current Ratings:**
+  - Nominal Capacity: 1050 mAh (standard discharge with load of 4.7 kΩ)
+  - Instantaneous Short-Circuit Current: ≥ 250 mA (time ≤ 0.5 seconds)
+
+- **Power Consumption:**
+  - Service Output: 
+    - Initial: 1480 hours (continuous discharge with load of 4.7 kΩ until 2.0 V end-voltage at 20-25 °C)
+    - After 12 months storage: 1400 hours
+
+- **Operating Temperature Range:**
+  - -20 °C to 60 °C
+
+- **Package Type:**
+  - Standard button cell dimensions: Diameter 24.5 mm (-0.20 mm), Height 7.7 mm (±0.1 mm)
+
+- **Special Features or Notes:**
+  - Self-discharge rate: ≤ 1% after 12 months at normal temperature and humidity
+  - Thermal durability: 1400 hours at 50 °C ± 3 °C with a 4.7 kΩ load until 2.0 V end-voltage
+  - No leakage allowed during high-temperature tests and over-discharge tests
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided text, but typically lithium batteries are classified as MSL 1.
+
+#### Description:
+The EC-2477-2T is a 3.0V lithium manganese dioxide button cell battery, specifically designed for applications requiring compact power sources. It is characterized by its long service life and stable voltage output, making it suitable for various electronic devices.
+
+#### Typical Applications:
+- **Power Management:** Ideal for devices that require a reliable and long-lasting power source, such as remote controls, watches, and medical devices.
+- **Signal Processing:** Used in sensors and other electronic devices that require consistent voltage for signal processing.
+- **Data Storage:** Commonly found in backup power applications for memory devices, ensuring data retention during power outages.
+- **Consumer Electronics:** Widely used in toys, calculators, and other portable electronic devices due to its compact size and efficiency.
+
+This summary provides a comprehensive overview of the EC-2477-2T lithium button cell, highlighting its key specifications and typical applications in the electronics industry.

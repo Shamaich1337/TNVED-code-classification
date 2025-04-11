@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 378-810-3 20X  production of MITUTOYO from the text:04.06.2024, 10:13 Mitutoyo - M Plan APO SL 20X\nhttps://shop.mitutoyo.eu/web/mitutoyo/en/mitutoyo/PR/378-810-3/datasheet.xhtml 1/2\n \n M Plan APO SL 20X\nItem number: 378-810-3\nImages\nDescription\nFeatures\nSuper Long Working Distances\nInﬁntiy Corrected\nBright Field Inspection\nHigh Qualtiy Plan Apochromat Design\nFlat Image Surface over Entire Field of View\nFeatures\nModel: M Plan Apo SL 20X\nWorking distance: In Air: 30.5 mm\nCorrected Wave Length: 436-656  nm\nN.A.: 0.28\nf: 10 mm\nP.D.: 95 mm\nR: 1 µm\nFOV 1: ø1.2  mm\nFOV 2: 0,24 x 0,32  mm\nAbbreviations in product table : N.A.: Numerical aperture\nW.D.: Working distance\nP.D.: Parfocal distance\nf: Focal distance\n04.06.2024, 10:13 Mitutoyo - M Plan APO SL 20X\nhttps://shop.mitutoyo.eu/web/mitutoyo/en/mitutoyo/PR/378-810-3/datasheet.xhtml 2/2R: Resolving power\nD.F.: Depth of ﬁeld\nFOV 1: Field of view when using ø24 mm\neyepiece\nFOV 2: Field of view when using a digital\ncamera with 1/2" chip size\nFunctions:\nM Plan Apo SL for Bright Field\nObservation\nCompatible with microscope types VMU /\nFS-70 / MF-U / Hyper MF-U\nNote: These objectives oﬀer extra-long\nworking distance.\nMass: 240 g\nDimensions\n'}]
+!==============================================================================!
+### Component Summary: Mitutoyo M Plan APO SL 20X (Item Number: 378-810-3)
+
+#### Key Specifications:
+- **Model**: M Plan Apo SL 20X
+- **Working Distance**: 30.5 mm (in air)
+- **Corrected Wavelength**: 436-656 nm
+- **Numerical Aperture (N.A.)**: 0.28
+- **Focal Distance (f)**: 10 mm
+- **Parfocal Distance (P.D.)**: 95 mm
+- **Resolving Power (R)**: 1 µm
+- **Field of View (FOV)**:
+  - FOV 1: Ø1.2 mm (when using Ø24 mm eyepiece)
+  - FOV 2: 0.24 x 0.32 mm (when using a digital camera with 1/2" chip size)
+- **Mass**: 240 g
+- **Dimensions**: Not specified in the provided text.
+
+#### Description:
+The Mitutoyo M Plan APO SL 20X is a high-quality optical microscope objective designed for bright field inspection. It features a plan apochromat design, which ensures a flat image surface across the entire field of view, making it suitable for high-resolution imaging applications. The objective is infinity corrected, allowing for compatibility with various microscope types, including VMU, FS-70, MF-U, and Hyper MF-U.
+
+#### Typical Applications:
+The M Plan APO SL 20X is primarily used in microscopy for applications that require high precision and clarity, such as:
+- **Biological Research**: Observing cellular structures and biological specimens.
+- **Material Science**: Analyzing material properties and microstructures.
+- **Quality Control**: Inspecting manufactured components for defects.
+- **Education**: Teaching microscopy techniques in academic settings.
+
+This objective is particularly beneficial in scenarios where long working distances are required, allowing for the observation of samples without interference from the microscope body.

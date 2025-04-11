@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-412-20cmSMA production of MG ANTENNAS from the text:Special for MACRO GROU P    E-mail: wireless@macrogroup.ru     Tel: +7 (8 12) 370 60 70  \n1 \n \n \n \nPRODUCT DATASHEET  \nMMMGGG---444111222---333mmmSSSMMMAAA   \nType  GPS /GLONASS External Antenna  \nFrequencies  1575.42 MHz / 1601 -1610 MHz \nMounting  Adhesive & Magnet  \nBrand Name  MG ANTENNAS  \n \n \n \n \nRevisio n # Content  Page  Date  \n0 First, document  - 27.04.2019 \n \n\n \n2 \n 1. SPECIFICATION  \n1.1 Electrical Specifications  \n \n 1.2 Mechanical  and Environmental Specification  \nCable  (type and length )  RG17 4, 3m or other * \nConnector  SMA male  /FACR A C male  Blue or other * \nH.S T ube Heat shrink tube  \nHousing  Color  ABS Black  \nMounting  3M Glue / Magnet  \nDimensions  50 x 39 x 16.8 mm \nOperating / Storage  \nTemperature  - 40 ˚C ~ + 80 ˚C  \n    * Customizable Cable and Connector   \n \n \n \n \n \n \n Frequency  GPS       1575.42 /1227 .6 MHz \nGLONASS       1601 -1610  MHz \nPolari zation  RHCP  \nSupply Current  ≤25mA \nNoise -Figure  1.5dB (+25°C±10°C)  \nAxial ratio  ≤4DB \nGain LNA  28DB \nSupply Voltage  3-5V \nSaw Filter  Pre-Filter  \nVSWR  1.5 :1 \nImpedance  50 Ω \n \n3 \n 2. MEASUREMEN T \n \n3. DIMENSIONS  \n \n Antenna  Patch  25*25*4 Ceramic  \nInstallation method  3M™ Double sided  scotch  /Magnet  \nCOVER  ABS BLACK  \nCABLE  RG174 COAXIAL CABLE 50ohm BLACK  \nCONNECTOR  SMAJ  \nH.S TUBE  HEAT SHRINK TUBE  \n \n'}]
+!==============================================================================!
+### Component Summary: MG-412-20cmSMA
+
+#### Key Specifications:
+- **Type**: GPS / GLONASS External Antenna
+- **Frequencies**: 
+  - GPS: 1575.42 MHz / 1227.6 MHz
+  - GLONASS: 1601 - 1610 MHz
+- **Supply Voltage**: 3-5V
+- **Supply Current**: ≤ 25 mA
+- **Noise Figure**: 1.5 dB (at +25°C ± 10°C)
+- **Gain (LNA)**: 28 dB
+- **VSWR (Voltage Standing Wave Ratio)**: 1.5:1
+- **Impedance**: 50 Ω
+- **Operating / Storage Temperature Range**: -40 °C to +80 °C
+- **Cable Type and Length**: RG174, 3m (customizable)
+- **Connector**: SMA male (customizable)
+- **Housing Material**: ABS, Black
+- **Mounting Options**: 3M Glue / Magnet
+- **Dimensions**: 50 x 39 x 16.8 mm
+- **Moisture Sensitive Level**: Not specified in the provided data.
+
+#### Description:
+The MG-412-20cmSMA is an external antenna designed for GPS and GLONASS applications. It features a patch antenna configuration with a compact design, making it suitable for various mounting options, including adhesive and magnetic methods. The antenna operates within the specified frequency ranges for GPS and GLONASS, providing reliable signal reception for navigation and positioning systems.
+
+#### Typical Applications:
+This antenna is typically used in:
+- **Navigation Systems**: Enhancing the accuracy of GPS and GLONASS signals for automotive, marine, and aviation applications.
+- **Telematics**: Used in fleet management systems for tracking vehicle locations.
+- **IoT Devices**: Providing location services for Internet of Things applications that require GPS data.
+- **Mobile Communication**: Supporting devices that need reliable positioning information for various mobile applications.
+
+The MG-412-20cmSMA is ideal for applications requiring robust performance in challenging environmental conditions, given its wide operating temperature range and customizable features.

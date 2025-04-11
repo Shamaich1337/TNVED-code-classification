@@ -1,0 +1,23 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CRS-106-SH200-99/B production of E-TEC from the text:ABC\n02 7,90 4,80 2,00\n03 9,90 6,80 4,00\n04 11,90 8,80 6,00\n05 13,90 10,80 8,00\n06 15,90 12,80 10,00\n07 17,90 14,80 12,00\n08 19,90 16,80 14,00\n09 21,90 18,80 16,00\n10 23,90 20,80 18,00\n11 25,90 22,80 20,00\n12 27,90 24,80 22,00\n13 29,90 26,80 24,00\n14 31,90 28,80 26,00\n15 33,90 30,80 28,00\n16 35,90 32,80 30,00No. of \nContactsDimension mm\n\n'}]
+!==============================================================================!
+Based on the provided information, it appears that the component CRS-106-SH200-99/B from E-TEC is a type of connector, specifically a multi-contact connector. Below is a summary of its key characteristics and specifications, along with a description and typical applications.
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly provided in the text; typically, connectors like this can handle a range of voltages depending on the specific design.
+- **Current Ratings**: Not explicitly provided; however, connectors are generally rated for specific current levels based on the number of contacts and their design.
+- **Power Consumption**: Not applicable for connectors; they do not consume power but facilitate power transfer.
+- **Operating Temperature Range**: Not specified in the provided text; connectors usually operate within a standard range (e.g., -40°C to +85°C).
+- **Package Type**: Multi-contact connector.
+- **Special Features or Notes**: The text indicates a series of dimensions corresponding to the number of contacts, suggesting a modular design.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+### Description:
+The CRS-106-SH200-99/B is a multi-contact connector designed for various electronic applications. Connectors like this are used to establish electrical connections between different components or systems, allowing for the transfer of power and signals. The dimensions provided (e.g., 7.90 mm to 35.90 mm) likely correspond to the physical size of the connector based on the number of contacts, indicating a scalable design that can accommodate different configurations.
+
+### Typical Applications:
+- **Power Management**: Used in power distribution systems to connect power sources to loads.
+- **Signal Processing**: Facilitates connections in signal processing applications, such as audio or data transmission.
+- **Industrial Equipment**: Commonly found in industrial machinery where robust and reliable connections are required.
+- **Consumer Electronics**: Utilized in various consumer electronic devices for internal connections.
+
+In summary, the CRS-106-SH200-99/B connector is a versatile component suitable for a wide range of applications, particularly where reliable electrical connections are essential. Further details regarding voltage and current ratings, as well as operating temperature ranges, would typically be found in a more comprehensive datasheet specific to this connector model.

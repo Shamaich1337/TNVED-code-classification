@@ -1,0 +1,48 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ES-SMYLPN14R production of EPISTAR CORPORATION from the text:COPY RIGHT ©2017 Epistar Corporation. All Rights Reserved.                                                                         www.epistar.com.tw  \nCC-201709 -A  \n \n \n \n \n \n> Mechanical Specification:  \n \n(1) Dimension  \n  - Chip size: 14 mil x 1 4 mil ( 340±25 μm x 340±25 μm)  \n  - Thickness:  8.8 mil ( 225±25 µm) \n  - N bonding pad:  4.5 mil ( 115\uf0b110 µm)  \n \n(2) Metallization  \n  - Topside N electrode: Au alloy  \n  - Backside P electrod e: Au alloy  \n \n \n \n> Electro -optical Characteristics at 25 \uf0b0C: \nParameter  Symbol  Condition  Min.  Typ.  Max.  Unit  \nForward Voltage  Vf1 If = 10µA  1.3 - - V \nVf2 If = 20mA - 2.1 2.5 V \nReverse Current  Ir Vr = 10V - - 5.0 μA \nPeak  Waveleng th λp If = 20mA  - 591 - nm \nDominant Waveleng th(1) λd If = 20mA  584 589 594 nm \nSpectra Half -width  Δλ If = 20mA  - 15 - nm \nLuminous  Intensity(2)(3) Iv E20 \nIf = 20mA  700 - - \nmcd  E21 770 - - \nE22 850 - - \nE23 950 - - \nNote:  \n(1) Basically, the wavelength span is 10nm;  however, customers’ special requirements are also welcome.  \n(2) Customers’ special requirements are also welcome.  \n(3) Luminous intensity is measured by EPISTAR’ s equipment on bare chips.    \nES-SMYLPN1 4R \nAIGaInP PN-series  LED Chip  \nFeatures:  \n\uf09e High luminous intensity  \n\uf09e Thin film structure  \n\uf09e Vertical electrode  \n\uf09e High driving current  \n \nApplications:  \n\uf09e Outdoor display  \n\uf09e Traffic signal  \n \nP-electrode  N-electrode  \n \nSi-substrate  \n\nCOPY RIGHT ©2017 Epistar Corporation. All Rights Reserved.                                                                         www.epistar.com.tw  \nCC-201709 -A \nES-SMYLPN14R AlGaInP PN-series  LED Chip  \n  \n \n> Absolute Maximum Ratings:  \nParameter  Symbol  Condition  Rating  Unit \nForward DC Current  If Ta = 25˚C  ≤ 70 mA \nReverse Voltage  Vr Ta = 25˚C  ≤ 10 V \nJunction Temperature  Tj - ≤ 115 ˚C \nStorage Temperature  Tstg Chip -40 ~ +85  ˚C \nChip -on-tape/storage  5 ~ 35 ˚C \nChip -on-tape/transportation  -20 ~ +65 ˚C \nTemperature during Packaging  - - 280(<10se c) ˚C \nNote: Maximum ratings are package dependent. The above maximum ratings were determined using a Printed Circuit Board ( PCB) without an encapsulant. Stresses in excess \nof the absolute maximum ratings such as forward current and junction temperature ma y cause damage to the LED.  \n \n> Characteristic Curves:  \n \nFig.1  – Relative luminous Intensity vs. Forward Current   Fig.2  – Forward Current vs. Forward Voltage  \n  \n \nFig.3  – Relative Intensity (@20 mA) vs. Ambient  \nTemperature   Fig.4  – Forward Vo ltage (@20 mA) v s. Ambient \nTemperature  \n  \n \nFig.5 – Dominant Wavelength (@2 0mA) vs. Ambient \nTemperature   Fig.6  – Maximum Driving Forward DC Current vs. Ambient  \nTemperature (De-rating based on Tj max. = 11 5oC) \n  \n \n \n'}]
+!==============================================================================!
+### Component Summary: ES-SMYLPN14R
+
+**Manufacturer:** EPISTAR CORPORATION  
+**Product Code:** ES-SMYLPN14R  
+**Type:** AlGaInP PN-series LED Chip
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (Vf1): 1.3 V (at If = 10 µA)
+  - Forward Voltage (Vf2): 2.1 - 2.5 V (at If = 20 mA)
+  - Reverse Voltage (Vr): ≤ 10 V
+
+- **Current Ratings:**
+  - Forward DC Current (If): ≤ 70 mA (at Ta = 25˚C)
+  - Reverse Current (Ir): ≤ 5.0 µA (at Vr = 10 V)
+
+- **Power Consumption:**
+  - Power consumption is not explicitly stated but can be calculated based on forward voltage and current.
+
+- **Operating Temperature Range:**
+  - Junction Temperature (Tj): ≤ 115 ˚C
+  - Storage Temperature (Tstg): -40 to +85 ˚C
+  - Chip-on-tape/storage: 5 to 35 ˚C
+  - Chip-on-tape/transportation: -20 to +65 ˚C
+
+- **Package Type:**
+  - Chip size: 340 ± 25 μm x 340 ± 25 μm
+  - Thickness: 225 ± 25 µm
+
+- **Special Features:**
+  - High luminous intensity
+  - Thin film structure
+  - Vertical electrode design
+  - High driving current capability
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Description:
+The ES-SMYLPN14R is an AlGaInP (Aluminum Gallium Indium Phosphide) PN-series LED chip designed for high luminous intensity applications. It features a thin film structure and vertical electrode configuration, which allows for efficient light emission and high driving current capabilities. The chip is suitable for various lighting applications due to its robust performance characteristics.
+
+#### Typical Applications:
+- **Outdoor Displays:** The high luminous intensity makes it ideal for use in bright environments where visibility is crucial.
+- **Traffic Signals:** The LED's reliability and brightness are essential for traffic management systems, ensuring that signals are clearly visible to drivers and pedestrians.
+
+This LED chip is particularly suited for applications requiring durable and efficient lighting solutions, making it a versatile choice in the field of optoelectronics.

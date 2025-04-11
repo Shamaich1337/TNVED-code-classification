@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ME10S2AA production of CHAIN TAIL from the text:T\n+0.05Q0\nPXMH W\nG\nYøD\nøC\nød1øB\nVR\nSL\nJK\nI\nøFødOx120ºNڝኬࢭ with hub Series\nฆʃۨཥှᕎΥኜ Miniature Electromagnetic Bearing Mount ed Clutch\n101d(H9)\nB\nC\nD\nd1(H7)\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nW\nT\nV\nX\nYME1S06AA\n6\n12.9\n28\n31\n6\n16\n18\n21\n1.5\n15.5\n27.8\n32.8\n8\n3\n2-M3\n22.5\n0.1\n8\n3.5\n2\n7\n2.5\n4\nM36\n15\n32\n34\n6\n18\n20\n23\n1.5\n18.6\n31.7\n38.7\n10\n2.5\n2-M3\n26\n0.15\n8\n3.5\n2\n7\n4\n4\nM38\n17\n40\n43\n8\n25\n23\n26\n1.5\n21.7\n37.1\n46.1\n12\n3\n2-M4\n31\n0.15\n8\n3.5\n2\n9\n4\n5.5\nM310\n24\n50\n54\n10\n32\n28\n31\n1.5\n23\n40.2\n49.4\n12\n4.7\n2-M5\n34\n0.2\n8\n3.5\n3\n11.4\n5\n5.5\nM3ME1S09AA ME10S2AA ME10S4AA ۨ\u0eee MODEL\ňଟ(Nm)\n[24V](W) at 20ºC᎑ҩɢ\nStatic Friction Torque\nPower0.6\n6.20.9\n61.8\n83.6\n10\nExterior\ndimensions̮\nۨ\nˉ\nʂL:400mmLeadwires\n'}]
+!==============================================================================!
+### Component Summary for ME10S2AA
+
+**Component Type:** Miniature Electromagnetic Bearing Mounted Clutch
+
+**Key Specifications:**
+- **Voltage Rating:** 24V
+- **Current Rating:** Not explicitly stated; inferred from power consumption.
+- **Power Consumption:** 0.6 W at 20ºC
+- **Operating Temperature Range:** Not specified in the provided text; typically, electromagnetic components operate within a range of -20ºC to +70ºC.
+- **Package Type:** Not explicitly stated; likely a compact design suitable for integration into various systems.
+- **Special Features/Notes:** 
+  - Static Friction Torque: 0.9 Nm
+  - Lead wire length: 400 mm
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Description:**
+The ME10S2AA is a miniature electromagnetic clutch designed for applications requiring precise control of rotational motion. It utilizes electromagnetic principles to engage and disengage the clutch mechanism, allowing for efficient power transmission in compact spaces.
+
+**Typical Applications:**
+- **Power Management:** Used in systems where controlled engagement and disengagement of power transmission is required.
+- **Robotics:** Ideal for robotic arms or automated systems where precise movement control is necessary.
+- **Automotive:** Can be utilized in various automotive applications for controlling mechanisms such as fans, pumps, or other rotating components.
+- **Industrial Automation:** Suitable for machinery that requires reliable and repeatable motion control.
+
+This component is particularly useful in applications where space is limited, and precise control of mechanical systems is essential.

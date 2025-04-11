@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 0536490874 production of MOLEX from the text:-\n-\n-\n \n \n \n \n \nDocuments & Resources \nDrawings\nDrawing  536490874_sd.pdf\n \n3D Models and Design Files\n3D Model  536490874_stp.zip\n \nSpecifications\nPackaging Specification  SPK-53649-001-001.pdf\nProduct Specification  527600000-000.pdf\n \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance Statements\nEu RoHS\nREACH SVHC\nLow-Halogen\n \nMultiple Part Industry Compliance DocumentsPart Number : 536490874\nProduct Description : SlimStack Board-to-\nBoard Connector, 0.635mm Pitch, 0.635\nSeries, Plug, 9.00 or 15.00mm Mated Height,\n6.40mm Mated Width, 80 Circuits, with\nEmbossed Tape with Cover Packaging\nSeries Number : 53649\nStatus : Active\nProduct Category : Board-to-Board\nConnectors\nGADSL/IMDS Not Relevant\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Not Low-Halogen per IEC 61249-2-\n21\nREACH SVHC Not Contained per D(2023)3788-DC\n(14 Jun 2023)\nEU RoHS Compliant per EU 2015/863\n-\n-\n-\n-\n-\nIPC 1752A Class C\nIPC 1752A Class D\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneral \n \n \nElectrical \n \n \nPhysical \n Status Active\nCategory Board-to-Board Connectors\nSeries 53649\nDescription SlimStack Board-to-Board\nConnector, 0.635mm Pitch, 0.635\nSeries, Plug, 9.00 or 15.00mm\nMated Height, 6.40mm Mated\nWidth, 80 Circuits, with Embossed\nTape with Cover Packaging\nSeries Name 0.635, Floating, Rigid\nApplication Board-to-Board, Signal\nComments Stacking-Type\nComponent Type PCB Header\nProduct Family SlimStack Board-to-Board/Board-\nto-FPC Connectors\nProduct Name SlimStack\nUPC 822348184187\nCurrent - Maximum per Contact 0.5A\nVoltage - Maximum 100V\nBreakaway No\nCircuits (Loaded) 80\nCircuits (maximum) 80\nColor - Resin Natural\nDurability (mating cycles max) 50\nFirst Mate / Last Break No\n \n \nMates With / Use With \nMates with Part(s) \n \n \n \n \n Glow-Wire Capable No\nGuide to Mating Part No\nKeying to Mating Part None\nLock to Mating Part None\nMated Height 15.00mm, 9.00mm\nMated Width 6.40mm\nMaterial - Metal Copper Alloy\nMaterial - Plating Mating Gold\nMaterial - Plating Termination Tin\nMaterial - Resin High Temperature Thermoplastic\nNet Weight 1590.461/mg\nNumber of Rows 2\nOrientation Vertical\nPackaging Type Embossed Tape on Reel\nPCB Locator Yes\nPCB Retention Yes\nPitch - Mating Interface 0.635mm\nPlating min - Mating 0.254µm\nPlating min - Termination 2.032µm\nPolarized to PCB Yes\nRobotic Placement Metal Cap\nShrouded Fully\nTemperature Range - Operating -55° to +105°C\nTermination Interface Style Surface Mount\nDescription Part Number\n0.635mm Pitch Vertical SlimStack\nReceptacles52885\n0.635mm Pitch Vertical SlimStack\nReceptacles52901\nThis document was generated on Dec 04, 2023 \n'}]
+!==============================================================================!
+### Component Summary for Part Number 536490874 (Molex)
+
+#### Key Specifications:
+- **Voltage Ratings:** Maximum 100V
+- **Current Ratings:** Maximum 0.5A per contact
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range:** -55°C to +105°C
+- **Package Type:** Embossed Tape on Reel
+- **Special Features or Notes:**
+  - 80 circuits (maximum)
+  - Mated height options: 9.00mm or 15.00mm
+  - Mated width: 6.40mm
+  - Durability: 50 mating cycles maximum
+  - Vertical orientation
+  - Fully shrouded design
+  - PCB retention and locator features
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided information.
+
+#### Component Description:
+The Molex 536490874 is a **SlimStack Board-to-Board Connector** designed for high-density applications. It features a 0.635mm pitch and is categorized under board-to-board connectors. This connector is intended for surface mount termination and is suitable for applications requiring a compact and reliable connection between printed circuit boards (PCBs).
+
+#### Typical Applications:
+The SlimStack connector is typically used in:
+- **Consumer Electronics:** For connecting various components within devices such as smartphones, tablets, and laptops.
+- **Telecommunications:** In networking equipment where space-saving and efficient connections are critical.
+- **Industrial Equipment:** For connecting PCBs in machinery and control systems.
+- **Automotive Applications:** In electronic control units (ECUs) and infotainment systems where robust and reliable connections are necessary.
+
+This connector is ideal for applications that require a compact design with a high number of circuits, making it suitable for modern electronic devices that prioritize space and efficiency.

@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CVS-2308 production of CUI INCORPORATED from the text:date 08/05/2022\npage1 of 4\nMODEL : CVS-2308 | DESCRIPTION:  SPEAKER\ncuidevices.com\nSPECIFICATIONS\nparameter conditions/description min typ max units\ndiameter 23 mm\ndepth 15 mm\ninput powermax. power: IEC-60268-5, filter 60 s on / 120 s off, 10 \ncycles at room temp0.1 0.15 W\nimpedance at 2 kHz, 1 V 6.8 8 9.2 Ω\nresonant frequency at 1 V 1,200 1,500 1,800 Hz\nsound pressure level0.1 W, 10 cm ave. at 2.0, 2.5, 3.0, 4.0 kHz  \n1 W, 1 m ave. at 2.0, 2.5, 3.0, 4.0 kHz85\n7488\n7791\n80dB\ndB\nresponse 6,000 Hz\ndistortion at 2 kHz, 0.1 W 10 %\nbuzz, rattle, etc. must be normal at sine wave 0.89 V\nmagnet size ø6.5 x 1.5 mm\noperating temperature -20 55 °C\nweight 3.2 g\nmaterial ABS UL-94 1/16” HB (black)\nwashable yes\nRoHS yesFEATURES\n• plastic frame\n• PET cone\n• plastic case\nRoHS\nMECHANICAL DRAWING\n10.0 0.394+\n-0.031\n0.05 (2 PLCS)(2 PLCS)0.2526.4\n0.8\n8.40.331removable\nmasking\nlabel\n23.0 0.906\nunits: mm\ntolerance: ± 0.3mmSOLDERABILITY\nparameter conditions/description\nhand soldering 350 ±5°C for 3 secondsAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\nCUI DEVICES  | MODEL : CVS-2308 | DESCRIPTION:  SPEAKER date 08/05/2022 | page  2 of 4\ncuidevices.com\nFREQUENCY RESPONSE CURVEAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\nCUI DEVICES  | MODEL : CVS-2308 | DESCRIPTION:  SPEAKER date 08/05/2022 | page  3 of 4\ncuidevices.com\nPACKAGINGAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\nCUI DEVICES  | MODEL : CVS-2308 | DESCRIPTION:  SPEAKER date 08/05/2022 | page  4 of 4\nCUI Devices offers a one (1) year limited warranty.  Complete warranty information is listed on our website.\nCUI Devices reserves the right to make changes to the product at any time without notice.  Information provided by CUI Devices is believed to be accurate \nand reliable.  However, no responsibility is assumed by CUI Devices for its use, nor for any infringements of patents or other rights of third parties which may \nresult from its use.\nCUI Devices products are not authorized or warranted for use as critical components in equipment that requires an extremely high level of reliability.  A \ncritical component is any component of a life support device or system whose failure to perform can be reasonably expected to cause the failure of the life \nsupport device or system, or to affect its safety or effectiveness.\ncuidevices.com\nrev. description date\n1.0 initial release 11/15/2011\n1.01 changed solder time from 5 seconds to 3 seconds 08/06/2012\n1.02 brand update 01/21/2020\n1.03 logo, datasheet style update 08/05/2022\nThe revision history provided is for informational purposes only and is believed to be accurate.REVISION HISTORYAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\n'}]
+!==============================================================================!
+### Component Summary: CVS-2308 Speaker
+
+**Key Specifications:**
+- **Diameter:** 23 mm
+- **Depth:** 15 mm
+- **Input Power:** 
+  - Maximum Power (IEC-60268-5): 0.1 W (min) to 0.15 W (max)
+- **Impedance:** 
+  - At 2 kHz, 1 V: 6.8 Ω (min) to 9.2 Ω (max)
+- **Resonant Frequency:** 
+  - At 1 V: 1,200 Hz (min) to 1,800 Hz (max)
+- **Sound Pressure Level:** 
+  - 0.1 W, 10 cm average at 2.0, 2.5, 3.0, 4.0 kHz: 85 dB (typical)
+  - 1 W, 1 m average at 2.0, 2.5, 3.0, 4.0 kHz: 80 dB (typical)
+- **Frequency Response:** Up to 6,000 Hz
+- **Distortion:** 
+  - At 2 kHz, 0.1 W: 10%
+- **Operating Temperature Range:** -20 °C to 55 °C
+- **Weight:** 3.2 g
+- **Material:** ABS UL-94 1/16” HB (black)
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+- **Special Features:** 
+  - Plastic frame
+  - PET cone
+  - Washable
+  - RoHS compliant
+
+**Description:**
+The CVS-2308 is a compact speaker designed for various audio applications. It features a diameter of 23 mm and a depth of 15 mm, making it suitable for integration into small electronic devices. The speaker operates efficiently with a maximum input power of 0.15 W and has an impedance of 8 Ω at 2 kHz. It is constructed with a plastic frame and a PET cone, ensuring durability and sound quality.
+
+**Typical Applications:**
+The CVS-2308 speaker is typically used in:
+- Portable audio devices
+- Consumer electronics (e.g., radios, toys)
+- Alarm systems
+- Communication devices
+- Any application requiring compact sound output
+
+This speaker is ideal for applications where space is limited but sound quality is still a priority. Its ability to operate within a wide temperature range and its washable feature make it versatile for various environments.

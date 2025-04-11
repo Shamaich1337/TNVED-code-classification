@@ -1,0 +1,66 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2020700194 production of BM-CAPACITOR from the text:Version:28-May-2021 Page1of5 Documentnumber:G21143\nSPECIFICATIONFORAPPROVAL\nDC-LinkCapacitor(Aluminumcase,Dry-Type)\nCustomerCode :\nSeries/Type： DKMJ-C 1100VDC 330μF±5%\nOrderingcode : 2020700194\nCustomer ’sP/N:\nDate： 28-May-2021\nMANUFACTURERINFORMATION:\nName: GUANGDONGFENGMINGELECTRONICTECH.CO.,LTD.\nAddress：No.1,Longleroad,Huanglongvillage,Beijiaotown,Shundedistrict,Foshan,Guangdong,\n528311,China\nWebsite: www.bm-cap.com\nTel:+86-757-223602928 Fax: +86-757-23608828\nEmail: powerelectech@bm-cap.com\n*ThespecificationarethepropertyofFENGMINGELECTRONICTECH.CO.,LTDandshallnotbecopiedorusedas\ncommercialpurposeswithoutpermission.FENGMINGELECTRONICTECH.CO.,LTD. APPROVEDBY\nPrepared Checked Approved\nLinhaoZeng jieYang YiHua\nDKMJ-C\n2020700194\nVersion:28-May-2021 Page 2of5 Documentnumber:G21143\nnRevisonrecord\nN0. Revisiondescription Reviser Date\n1 New LinhaoZeng 28-May-2021\n2 Changedimension LinhaoZeng 19-Jul-2021\n3 Changethevoltage LinhaoZeng 21-Jul-2021\nDKMJ-C\n2020700194\nVersion:28-May-2021 Page 3of5 Documentnumber:G21143\nnOUTLINEDRAWING_(mm)\nplastic\nM  \nH≥10mm\nØD±1\nM12×16 Ø12 SpacersH±1\n2±0.5\nP±1Ø14H2±1.5\n25\nM12 Outer hexagon nut\nTracking \nNumberDKMJ-C\n330μF ±5%\nUN      1100V  DC  \n-40℃～85℃terminal torque max.5Nm\nSH\nE215893IEC61071\nUL810MARK\nnAPPLICATIONS\nWidelyusedindifferentkindsofelectronicequipmentDClinkpartforDCsupport,energystorageand\nfilter.\nnFEATURES\nlMetallizedfilm,non-inductivestructure\nlSelf-healingproperty\nlHighripplecurrenthandlingcapabilities\nlLowESR,LowESL\nlLonglifetime\nnSAFETYAPPROVALS\nTUVEN61071:2007,5UF~2000UF,500Vdc~1200Vdc ，\n-40/85℃;CertificateNo：R50321876\nULUL810 ,Voltage Limits :MAX 4000VDC,85℃\nCertificateNo:E215893CN(μF) UN(VDC) ΦD(mm) H(mm) H2(mm) P(mm) M\n330 1100 86 120 125 32 M6\nE215893\nDKMJ-C\n2020700194\nVersion:28-May-2021 Page 4of5 Documentnumber:G21143\nnTESTCONDITIONS\nEnvironmentTemperature:T=20 ℃±10℃\nEnvironmentHumidity: RH≤65%\nnSPECIFICATIONS\nReferencestandard IEC61071\nRatedcapacitance CN 330μF\nCapacitancetolerance ±5%(J)\nRatedDCvoltage UNDC 1100V.DC\nMax.ripplevoltage Ur 0.2xU NDC\nOperatingtemperaturerange -40℃～+85℃(θhs≤85℃)\nClimaticcategory 40/85/21\nTangentofthelossangle tanδ≤0.0020(100Hz)\nTestvoltagebetweenterminals Ut-t 1.5U NDC(10s)\nTestvoltagebetweenterminalsandcase Ut-c 3000V.AC(10s，50/60Hz)\nMaximumcurrent(rms) Imax 60A@40℃\nMaximumpeakcurrent Ipeak 3.3kA\nMaximumsurgecurrent ÎS9.9kA\n(50mseverytime,1000timesduringthelifeofthecapacitor)\nMaximumrateofvoltagerise dv/dt 10V/μs\nEquivalentseriesresistance ESR 3.1mΩ(1kHz,20℃,Typicalvalue)\nEquivalentseriesinductance LS 60nH\nInsulationresistance IR IR×CN≥5000s(20℃,100VDC,1min)\nThermalresistance Rth 4.0K/W(Naturallyair-cooled)\nCreepagedistance ≥30mm\nClearance ≥17.5mm\nOvervoltage1.1xU N(30%ofon-load-dur.)\n1.15xU N(30min/day)\n1.2xU N(5min/day)\n1.3xU N(1min/day)\n1.5xU N\n(30mseverytime,1000timesduringthelifeofthecapacitor)\nMax.torqueofterminals 5N·m\nMax.torqueofinstallation 10N·m\nExpectedlifetime 100,000h@U N，θhs=70℃\nMax.altitude 2000m\nFailurerate 100FIT\nDKMJ-C\n2020700194\nVersion:28-May-2021 Page 5of5 Documentnumber:G21143\nnCHARACTERISTICS\n0.8 0.9 1.0 1.1 1.2 1.3 1.41000100001000001000000\nWorking/Rated Voltage Ratio(U W/UN)Expected lifetime (h )\n85℃80℃75℃70℃60℃50℃\n           Maximum Irms current4\n2\n0\n-2\n-4\n-6\n-50 0 50 100Tamb (℃)△C/C(%)\nCapacitance\n   (typical)80 90\nTamb (℃)1.4\n1.2\n1.0\n0.8\n0.6\n0.4\n0.2\n0\n30 40 50 60 70I    /I      (A)op RMS\n(typical)\n'}]
+!==============================================================================!
+### Component Summary for BM-CAPACITOR (Product Code: 2020700194)
+
+**Component Type:**  
+DC-Link Capacitor (Aluminum case, Dry-Type)
+
+**Manufacturer Information:**  
+- **Name:** Guangdong Fengming Electronic Tech Co., Ltd.  
+- **Address:** No.1, Longle Road, Huanglong Village, Beijiao Town, Shunde District, Foshan, Guangdong, 528311, China  
+- **Website:** [www.bm-cap.com](http://www.bm-cap.com)  
+- **Contact:** +86-757-223602928  
+
+---
+
+### Key Specifications:
+
+- **Voltage Ratings:**  
+  - Rated DC Voltage (UN): 1100 VDC  
+  - Maximum Surge Voltage: 1.5 x UN (30 ms every time, 1000 times during the life of the capacitor)  
+
+- **Current Ratings:**  
+  - Maximum RMS Current (Imax): 60 A @ 40°C  
+  - Maximum Peak Current (Ipeak): 3.3 kA  
+  - Maximum Surge Current (IS): 9.9 kA (50 ms every time, 1000 times during the life of the capacitor)  
+
+- **Power Consumption:**  
+  - Equivalent Series Resistance (ESR): 3.1 mΩ (1 kHz, 20°C, typical value)  
+  - Equivalent Series Inductance (ESL): 60 nH  
+
+- **Operating Temperature Range:**  
+  - -40°C to +85°C  
+
+- **Package Type:**  
+  - Aluminum case  
+
+- **Special Features or Notes:**  
+  - Metallized film, non-inductive structure  
+  - Self-healing property  
+  - High ripple current handling capabilities  
+  - Low ESR and ESL  
+  - Long lifetime (Expected lifetime: 100,000 hours at UN, θhs=70°C)  
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**  
+  - Not specified in the provided data  
+
+---
+
+### Description of the Component:
+
+The DKMJ-C series capacitor (2020700194) is a high-performance DC-link capacitor designed for energy storage and filtering applications in electronic equipment. It features a dry-type aluminum case and is constructed with a metallized film that provides a non-inductive structure, enhancing its performance in high-frequency applications. The capacitor is characterized by its self-healing properties, allowing it to recover from dielectric breakdowns, which contributes to its reliability and longevity.
+
+---
+
+### Typical Applications:
+
+This capacitor is widely used in various electronic equipment, particularly in applications requiring DC support, energy storage, and filtering. Typical applications include:
+
+- Power management systems  
+- Renewable energy systems (e.g., solar inverters)  
+- Industrial motor drives  
+- UPS (Uninterruptible Power Supply) systems  
+- Electric vehicles and hybrid systems  
+- Any application where high ripple current handling and reliability are critical  
+
+This summary provides a comprehensive overview of the DKMJ-C series capacitor, highlighting its key specifications, features, and applications.

@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-CRF-102-A254/A production of DECIGN from the text:No. of Contacts Tolerance\n02 ±0.05\n03 - 06 ±0.10\n07 - 11 ±0.15\n12 - 15 ±0.20\n16 - 19 ±0.25\n20 - 23 ±0.30\n24 - 25 ±0.35Tolerance for Dimension "A"  AB\n02 2.54 5.05\n03 5.08 7.59\n04 7.62 10.13\n05 10.16 12.67\n06 12.70 15.21\n07 15.24 17.75\n08 17.78 20.29\n09 20.32 22.83\n10 22.86 25.37\n11 25.40 27.91\n12 27.94 30.45\n13 30.48 32.99\n14 33.02 35.53\n15 35.56 38.07\n16 38.10 40.61\n17 40.64 43.15\n18 43.18 45.69\n19 45.72 48.23\n20 48.26 50.77\n21 50.80 53.31\n22 53.34 55.85\n23 55.88 58.39\n24 58.42 60.93\n25 60.96 63.47No. of \nContactsDimension mmTP-\nTP-\nTP-TP-\nTP-TP-\nTP-TP-\n'}]
+!==============================================================================!
+### Component Summary for TP-CRF-102-A254/A
+
+#### Key Specifications:
+- **No. of Contacts**: 2 to 25 contacts available.
+- **Tolerance**: Varies based on the number of contacts:
+  - 02 contacts: ±0.05 mm
+  - 03 to 06 contacts: ±0.10 mm
+  - 07 to 11 contacts: ±0.15 mm
+  - 12 to 15 contacts: ±0.20 mm
+  - 16 to 19 contacts: ±0.25 mm
+  - 20 to 23 contacts: ±0.30 mm
+  - 24 to 25 contacts: ±0.35 mm
+- **Dimension "A"**: Varies based on the number of contacts:
+  - 02 contacts: 2.54 mm
+  - 03 contacts: 5.08 mm
+  - 04 contacts: 7.62 mm
+  - 05 contacts: 10.16 mm
+  - 06 contacts: 12.70 mm
+  - 07 contacts: 15.24 mm
+  - 08 contacts: 17.78 mm
+  - 09 contacts: 20.32 mm
+  - 10 contacts: 22.86 mm
+  - 11 contacts: 25.40 mm
+  - 12 contacts: 27.94 mm
+  - 13 contacts: 30.48 mm
+  - 14 contacts: 33.02 mm
+  - 15 contacts: 35.56 mm
+  - 16 contacts: 38.10 mm
+  - 17 contacts: 40.64 mm
+  - 18 contacts: 43.18 mm
+  - 19 contacts: 45.72 mm
+  - 20 contacts: 48.26 mm
+  - 21 contacts: 50.80 mm
+  - 22 contacts: 53.34 mm
+  - 23 contacts: 55.88 mm
+  - 24 contacts: 58.42 mm
+  - 25 contacts: 60.96 mm
+
+#### Description:
+The TP-CRF-102-A254/A is a connector component produced by DECIGN. It is designed to facilitate electrical connections between various electronic circuits. The component features multiple contacts, allowing for versatile applications in different electronic systems. The precise tolerances and dimensions ensure reliable connectivity and compatibility with other components.
+
+#### Typical Applications:
+- **Interconnect Solutions**: Used in various electronic devices for connecting different circuit boards or components.
+- **Signal Transmission**: Ideal for applications requiring reliable signal transfer between devices.
+- **Data Communication**: Commonly used in data communication systems where multiple connections are necessary.
+- **Power Distribution**: Suitable for power management applications where multiple power lines need to be connected.
+
+This connector is essential in a wide range of electronic applications, providing flexibility and reliability in circuit design and implementation.

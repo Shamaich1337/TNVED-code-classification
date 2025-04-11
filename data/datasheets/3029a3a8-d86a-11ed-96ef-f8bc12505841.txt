@@ -1,0 +1,48 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of AZ952-1C-12DSE production of AMERICAN ZETTLER from the text:CONTACTS\nArrangement SPDT (1 Form C)\nRatings Resistive load:\nLight Duty Max. switched power: 30 W or 125 VA  \nMax. switched current:\n 1 A\nMax. switched voltage: 60 VDC or 220 VAC \nUL Rating: 1 A at 30 VDC\n1 A at 125 VAC\nMedium Duty Max. switched power: 90 W or 375 VA  \nMax. switched current:\n 3 A\nMax. switched voltage: 60 VDC or 220 VAC \nUL Rating: 3 A at 30 VDC\n3 A at 125 VAC\nHeavy Duty Max. switched power: 150 W or 625 V A \nMax. switched current:\n 5 A\nMax. switched voltage: 60 VDC or 220  VAC \nUL Rating: 5 A at 30 VDC\n5 A at 125 VAC\n270 VA, 120 VAC Pilot DutyN.O. 30k cycles, N.C. 6k cycles\nMaterial Light and Medium Duty: Silver, gold platedHeavy Duty: Silver nickel gold plated\nResistance < 100 milliohms initiallyGENERAL DATA\nLife Expectancy Minimum operations\nMechanical 1 x 10 7\nElectrical 1 x 10 5at 3 A 120 VAC Res.\nOperate Time (typical) 5 ms at nominal coil voltage\nRelease Time (typical) 1 ms at nominal coil voltage\n(with no coil suppressions)\nDielectric Strength 1250 Vrms coil to contact\n(at sea level for 1 min.) 750 Vrms between open contacts\nInsulation Resistance 100 megohms min. at 20°C, 500 VDC\nDropout Greater than 10% of nominal coil voltage\nAmbient Temperature At nominal coil voltage\nOperating Standard: -25°C (-13°F) to 55°C (131°F)Sensitive: -25°C (-13°F) to 75°C (167°F)\nStorage Both: -25°C (-13°F) to 105°C (221°F)\nVibration 0.062" DA at 10–55Hz\nShock 15 g\nEnclosure P.B.T. polyester\nTerminals Tinned copper alloy\nMax. Solder Temp. 270°C (518°F)\nMax. Solder Time 5 seconds\nMax. Solvent Temp. 80°C (176°F)\nMax. Immersion Time 30 seconds\nWeight 3.5 gramsSUBMINIATUREPOWER RELAY\nFEATURES\n•Subminiature size for high density packaging\n\x7fCoil sensitivity to 116 mW\n\x7fExtremely low cost\n\x7fCoils to 24 VDC\n\x7fEpoxy sealed for automatic wave soldering\n\x7f1 Amp, 3 Amp & 5 Amp contacts\n\x7fLife expectancy to 10 million operations\n\x7fUL, CUR file E43203\nCOIL\nPower\nAt Pickup Voltage Standard Coil: 253 mW\n(typical) Sensitive coil: 116 mW\nMax Continuous 0.8 W at 20°C (68°F) ambient\nDissipation 0.6 W at 40°C (104°F) ambient\nTemperature Rise At nominal coil voltage:\nStandard: 54°C (97°F)Sensitive: 30°C (54°F)\nMax.  Temperature 105°C (221°F)NOTES\n1. All values at 20°C (68°F).\n2. Relay may pull in with less than “Must Operate” value.3. Other coil resistances and sensitivities available upon request.4. Specifications subject to change without notice.\nAZ951/AZ952\n10/9/17\nSENSITIVE RELAYS — Medium Duty Type\nCOIL SPECIFICATIONS\nNominal Coil Max. Continuous Coil Resistance Must Operate ORDER NUMBER\nVDC VDC ±10% VDC\n5 8.5 120 3.75 AZ951–1CM–5DSE AZ952–1CM–5DSE\n6 10.4 180 4.50 AZ951–1CM–6DSE AZ952–1CM–6DSE\n9 15.3 400 6.75 AZ951–1CM–9DSE AZ952–1CM–9DSE\n12 20.5 700 9.00 AZ951–1CM–12DSE AZ952–1CM–12DSE\n15 25.6 1093 11.30 AZ951–1CM–15DSE AZ952–1CM–15DSE\n18 30.8 1575 13.50 AZ951–1CM–18DSE AZ952–1CM–18DSE\n24 41.0 2800 18.00 AZ951–1CM–24DSE AZ952–1CM–24DSERELAY ORDERING DATA\nSTANDARD RELAYS — Light Duty Type\nCOIL SPECIFICATIONS\nNominal Coil Max. Continuous Coil Resistance Must Operate ORDER NUMBER\nVDC VDC ±10% VDC\n5 6.7 56 3.75 AZ951–1C–5DE AZ952–1C–5DE\n6 8.0 80 4.50 AZ951–1C–6DE AZ952–1C–6DE\n12 16.0 320 9.00 AZ951–1C–12DE AZ952–1C–12DE\n24 32.0 1280 18.00 AZ951–1C–24DE AZ952–1C–24DE\nSENSITIVE RELAYS — Light Duty Type\nCOIL SPECIFICATIONS\nNominal Coil Max. Continuous Coil Resistance Must Operate ORDER NUMBER\nVDC VDC ±10% VDC\n5 8.5 120 3.75 AZ951–1C–5DSE AZ952–1C–5DSE\n6 10.4 180 4.50 AZ951–1C–6DSE AZ952–1C–6DSE\n9 15.3 400 6.75 AZ951–1C–9DSE AZ952–1C–9DSE\n12 20.5 700 9.00 AZ951–1C–12DSE AZ952–1C–12DSE\n24 41.0 2800 18.00 AZ951–1C–24DSE AZ952–1C–24DSEAZ951/AZ952\n10/9/17STANDARD RELAYS — Medium Duty Type\nCOIL SPECIFICATIONS\nNominal Coil Max. Continuous Coil Resistance Must Operate ORDER NUMBER\nVDC VDC ±10% VDC\n5 6.7 56 3.75 AZ951–1CM–5DE AZ952–1CM–5DE\n6 8.0 80 4.50 AZ951–1CM–6DE AZ952–1CM–6DE\n12 16.0 320 9.00 AZ951–1CM–12DE AZ952–1CM–12DE\n24 32.0 1280 18.00 AZ951–1CM–24DE AZ952–1CM–24DE3 3.3 2.25 20 AZ951–1C–3DE AZ952–1C–3DE\n3 3.3 45 2.25 AZ951–1C–3DSE AZ952–1C–3DSE\n3 3.3 45 2.25 AZ951–1CM–3DSE AZ952–1CM–3DSE3 3.3 2.25 20 AZ951–1CM–3DE AZ952–1CM–3DE\nAZ951/AZ952\n10/9/17MECHANICAL DATA\n[1.52].060 [ø1.0]5x ø.039±.005AZ951 PC BOARD LAYOUT\n[1.56]\n[7.62].300 [11.81].465 \n[3.18].125 [15.75].620 \n.062 \n[10.16].400 \n[2.54].100 \nVIEWED TOWARD TERMINALS\nAZ951 WIRING DIAGRAM\nVIEWED TOWARD TERMINALSAZ952 WIRING DIAGRAM\nVIEWED TOWARD TERMINALS712\n11 12\n[2.54]\nVIEWED TOWARD TERMINALS2\n116\n7\n[1.52].060 [ø1.0]6x ø.039±.005\n[7.62].300 [1.56]AZ952 PC BOARD LAYOUT\n1\n12[2.54].100 .060 \n[1.52]\n[7.62][10.75]\n.300 .423 \n.062 \n[10.16].400 \n.100 \nDimensions in inches with metric equivalents in parentheses. Tolerance:  ±0.010"STANDARD RELAYS — Heavy Duty Type\nCOIL SPECIFICATIONS\nNominal Coil Coil Resistance Must Operate ORDER NUMBER\nVDCMax. Continuous\nVDC ±10% VDC\n5 6.7 56 3.75 AZ951–1CH–5DE AZ952–1CH–5DE\n6 8.0 80 4.50 AZ951–1CH–6DE AZ952–1CH–6DE\n12 16.0 320 9.00 AZ951–1CH–12DE AZ952–1CH–12DE\n24 32.0 1280 18.00 AZ951–1CH–24DE AZ952–1CH–24DE3 3.3 2.25 20 AZ951–1CH–3DEAZ952–1CH–3DE\nThis specification provides an overview of the most significant part features. Any individual applications and operating conditions are not taken into consideration. It is recommended to test the product \nunder application conditions. Responsibility for the application remains with the customer. Proper operation and service life cannot be guaranteed if the part is operated outside the specified limits.\n'}]
+!==============================================================================!
+### Component Summary: AZ952-1C-12DSE
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Max. switched voltage: 60 VDC or 220 VAC
+  - UL Rating: 1 A at 30 VDC, 1 A at 125 VAC (Light Duty)
+  
+- **Current Ratings:**
+  - Light Duty: Max. switched current: 1 A
+  - Medium Duty: Max. switched current: 3 A
+  - Heavy Duty: Max. switched current: 5 A
+  
+- **Power Consumption:**
+  - Standard Coil: 253 mW (typical)
+  - Sensitive Coil: 116 mW (typical)
+  - Max Continuous Power: 0.8 W at 20°C (68°F) ambient
+
+- **Operating Temperature Range:**
+  - Standard: -25°C to 55°C (-13°F to 131°F)
+  - Sensitive: -25°C to 75°C (-13°F to 167°F)
+  - Storage: -25°C to 105°C (-13°F to 221°F)
+
+- **Package Type:**
+  - Subminiature Power Relay
+
+- **Special Features:**
+  - Extremely low cost
+  - Life expectancy of 10 million operations
+  - Epoxy sealed for automatic wave soldering
+  - Coil sensitivity options available
+  - UL, CUR file E43203
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided data.
+
+#### Description:
+The AZ952-1C-12DSE is a subminiature power relay designed for high-density packaging applications. It features a Single Pole Double Throw (SPDT) contact arrangement, allowing it to switch between two circuits. The relay is characterized by its low power consumption and high reliability, making it suitable for various control and switching applications.
+
+#### Typical Applications:
+- **Power Management:** Used in circuits to control power to devices, ensuring efficient energy use.
+- **Signal Processing:** Acts as a switch in signal paths, allowing for the routing of signals in electronic systems.
+- **Automation Systems:** Commonly found in industrial automation for controlling machinery and equipment.
+- **Consumer Electronics:** Utilized in various consumer devices for switching functions.
+- **Home Appliances:** Employed in appliances for controlling motors, lights, and other electrical components.
+
+This relay is particularly advantageous in applications where space is limited and reliability is critical, making it a versatile choice for engineers and designers in multiple fields.

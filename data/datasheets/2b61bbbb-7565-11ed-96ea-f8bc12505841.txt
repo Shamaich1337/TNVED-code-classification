@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ACHDM2210 production of AICO ELECTRONICS LIMITED from the text:AicoElectronicsLimited\nRoom1203,kairuiBuilding,kejiguanRoad,Binjiang,Hangzhou,China\nTEL:86-571-86619019\nFAX:86-571-81069179\ninfo@aico-lens.com\nProductname CCD&CMOSlensholder\nOutlinedimensions 18x17x10mm\nInnerdimensions 15x14x5.5mm\nColor Black\nPinholedistance 22mm\nMaterial Metal\nMount M12x0.5\nModel ACHDM2210\n'}]
+!==============================================================================!
+### Component Summary for ACHDM2210
+
+**Manufacturer:** Aico Electronics Limited  
+**Address:** Room 1203, Kairui Building, Kejiguan Road, Binjiang, Hangzhou, China  
+**Contact:** TEL: 86-571-86619019 | FAX: 86-571-81069179 | Email: info@aico-lens.com  
+
+#### Key Specifications:
+- **Product Type:** CCD & CMOS Lens Holder
+- **Outline Dimensions:** 18 mm x 17 mm x 10 mm
+- **Inner Dimensions:** 15 mm x 14 mm x 5.5 mm
+- **Color:** Black
+- **Pinhole Distance:** 22 mm
+- **Material:** Metal
+- **Mount Type:** M12 x 0.5
+
+#### Description:
+The ACHDM2210 is a lens holder designed specifically for CCD (Charge-Coupled Device) and CMOS (Complementary Metal-Oxide-Semiconductor) imaging applications. Its compact design allows for secure mounting of lenses, ensuring optimal alignment and stability for imaging systems. The metal construction provides durability and reliability in various environments.
+
+#### Typical Applications:
+- **Imaging Systems:** Used in cameras and optical devices that utilize CCD or CMOS sensors.
+- **Industrial Inspection:** Employed in automated inspection systems where precise imaging is critical.
+- **Medical Devices:** Utilized in endoscopes and other medical imaging equipment.
+- **Security Systems:** Integrated into surveillance cameras for enhanced image capture.
+
+This lens holder is essential for applications requiring high-quality imaging and precise optical alignment, making it a vital component in various technological fields.

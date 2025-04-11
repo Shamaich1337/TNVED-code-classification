@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 4-inch GaN Epi-On-Sapphire Wafer 660um production of HOMRAY MATERIAL TECHNOLOGY from the text:H\nO\nM\nR\nA\nY\nM\nA\nT\nE\nR\nI\nA\nL\nT\nE\nC\nH\nN\nO\nL\nO\nG\nY\nL\nI\nM\nI\nT\nE\nD\nS\nu\nZ\nh\no\nu\nA\nd\nd\n:\nL\ni\nS\nh\ne\nn\ng\nI\nn\nd\nu\ns\nt\nr\ni\na\nl\nB\nu\ni\nl\nd\ni\nn\ng\n,\n6\n0\nS\nu\nL\ni\nR\no\na\nd\n,\nS\nu\nZ\nh\no\nu\nC\ni\nt\ny\n,\nJ\ni\na\nn\ng\nS\nu\nC\nh\ni\nn\na\n.\nE\n-\nm\na\ni\nl\n:\nk\ni\nm\n@\nh\no\nm\nr\na\ny\n-\nm\na\nt\ne\nr\ni\na\nl\n.\nc\no\nm\n,\nW\ne\nb\ns\ni\nt\ne\n:\nh\nt\nt\np\n:\n/\n/\nw\nw\nw\n.\ng\na\nn\nw\na\nf\ne\nr\n-\nh\nm\nt\n.\nc\no\nm\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\nH\nM\nT\nG\na\nN\nE\np\ni\nW\na\nf\ne\nr\nF\no\nr\nB\nl\nu\ne\nL\nE\nD\nC\nh\ni\np\ns\nB\na\ns\ni\nc\nE\nl\ne\nc\nt\nr\no\n-\nO\np\nt\ni\nc\na\nl\nC\nh\na\nr\na\nc\nt\ne\nr\ni\ns\nt\ni\nc\ns\n：\nW\nL\nD\n:\nM\ni\nn\n4\n5\n0\n,\nM\na\nx\n4\n6\n0\n;\nL\nO\nP\n:\nM\ni\nn\n6\n0\n0\n;\nV\nF\n:\nM\na\nx\n3\nS\nu\nb\ns\nt\nr\na\nt\ne\nP\nS\nS\nS\na\np\np\nh\ni\nr\ne\nS\ni\nz\ne\n4\ni\nn\nc\nh\n(\nØ\n1\n0\n0\nm\nm\n)\nT\nh\ni\nc\nk\nn\ne\ns\ns\nO\nr\ni\ne\nn\nt\na\nt\ni\no\nn\nC\n-\np\nl\na\nn\ne\n(\n0\n0\n0\n1\n)\n0\n°\n±\n0\n.\n5\n°\nP\nr\ni\nm\na\nr\ny\nf\nl\na\nt\nl\ne\nn\ng\nt\nh\n3\n0\n±\n1\n,\n5\nm\nm\nP\nr\ni\nm\na\nr\ny\nf\nl\na\nt\no\nr\ni\ne\nn\nt\na\nt\ni\no\nn\nA\n-\np\nl\na\nn\ne\n(\n1\n1\n2\n0\n)\n0\n°\n±\n0\n.\n2\n5\n°\nS\nu\nb\ns\nt\nr\na\nt\ne\nB\no\nw\n<\n2\n0\nμ\nm\nF\nl\na\nt\nn\ne\ns\ns\n<\n1\n0\nμ\nm\nT\nh\ni\nc\nk\nn\ne\ns\ns\nv\na\nr\ni\na\nt\ni\no\nn\n<\n2\n0\nμ\nm\nL\na\ns\ne\nr\nm\na\nr\nk\nf\nr\no\nn\nt\ns\ni\nd\ne\nF\nr\no\nn\nt\ns\ni\nd\ne\ns\nu\nr\nf\na\nc\ne\nr\no\nu\ng\nh\nn\ne\ns\ns\ne\np\ni\n-\np\no\nl\ni\ns\nh\ne\nd\n(\n<\n0\n.\n3\nn\nm\n)\nB\na\nc\nk\ns\ni\nd\ne\ns\nu\nr\nf\na\nc\ne\nr\no\nu\ng\nh\nn\ne\ns\ns\nf\ni\nn\ne\ng\nr\no\nu\nn\nd\n(\n0\n.\n6\n-\n1\n.\n4\nμ\nm\n)\nE\np\ni\nl\na\ny\ne\nr\nG\na\nN\nU\ns\na\nb\nl\ne\na\nr\ne\na\n>\n9\n0\n%\nD\ni\ns\nl\no\nc\na\nt\ni\no\nn\nd\ne\nn\ns\ni\nt\ny\n<\n5\n*\n1\n0\n8\nc\nm\n-\n2\nT\nh\ni\nc\nk\nn\ne\ns\ns\np\n-\nG\na\nN\n0\n.\n1\nu\nm\nD\no\np\na\nn\nt\na\nn\nd\nc\na\nr\nr\ni\ne\nr\nc\no\nn\nc\ne\nn\nt\nr\na\nt\ni\no\nn\n>\n2\n*\n1\n0\n1\n7\nc\nm\n-\n3\n(\nM\ng\n-\nd\no\np\ne\nd\n)\np\n-\nG\na\nN\nM\no\nb\ni\nl\ni\nt\ny\np\n-\nG\na\nN\n>\n7\n0\nc\nm\n2\n/\nV\n*\ns\nT\nh\ni\nc\nk\nn\ne\ns\ns\nn\n-\nG\na\nN\n1\n.\n5\nu\nm\nD\no\np\na\nn\nt\na\nn\nd\nc\na\nr\nr\ni\ne\nr\nc\no\nn\nc\ne\nn\nt\nr\na\nt\ni\no\nn\n>\n1\n*\n1\n0\n1\n9\nc\nm\n-\n3\n(\nS\ni\n-\nd\no\np\ne\nd\n)\nn\n-\nG\na\nN\nM\no\nb\ni\nl\ni\nt\ny\nn\n-\nG\na\nN\n>\n5\n0\n0\nc\nm\n2\n/\nV\n*\ns\nT\no\nt\na\nl\ne\np\ni\nl\na\ny\ne\nr\nt\nh\ni\nc\nk\nn\ne\ns\ns\n5\n.\n8\n~\n6\nu\nm\nD\no\nm\ni\nn\na\nn\nt\nw\na\nv\ne\nl\ne\nn\ng\nt\nh\nW\nL\nD\n4\n5\n0\n-\n4\n6\n0\nn\nm\nC\nh\na\nn\ng\ni\nn\ng\nW\nL\nD\no\nn\nw\na\nf\ne\nr\n<\n5\nn\nm\nT\ne\ns\nt\nc\nh\ni\np\ns\nc\na\nn\nb\ne\nm\na\nd\ne\no\nn\nG\na\nN\nE\np\ni\nw\na\nf\ne\nr\nT\ne\ns\nt\nc\nh\ni\np\ns\ni\nz\ne\n4\n0\nх\n4\n0\nm\ni\nl\n(\n1\n0\n0\n0\nх\n1\n0\n0\n0\nμ\nm\n)\nC\nh\ni\np\nt\nh\ni\nc\nk\nn\ne\ns\ns\n1\n5\n0\nμ\nm\nF\no\nr\nw\na\nr\nd\nc\nu\nr\nr\ne\nn\nt\n3\n5\n0\nm\nA\nF\no\nr\nw\na\nr\nd\nv\no\nl\nt\na\ng\ne\n(\n1\n0\nμ\nA\n)\n>\n1\n.\n6\nV\nF\no\nr\nw\na\nr\nd\nv\no\nl\nt\na\ng\ne\n<\n3\nV\nR\na\nd\ni\na\nn\nt\np\no\nw\ne\nr\n>\n6\n0\n0\nm\nW\nR\ne\nv\ne\nr\ns\ne\nv\no\nl\nt\na\ng\ne\n(\n1\n0\nμ\nA\n)\n<\n1\n5\nV\nwww.ganwafer-hmt.com  www.ganwafer-hmt.com\n660±10\n \nμm\n \n/\n \nThinning\n \nto\n \n150~200um\n'}]
+!==============================================================================!
+### Component Summary: 4-inch GaN Epi-On-Sapphire Wafer (660μm)
+
+**Manufacturer:** HOMRAY MATERIAL TECHNOLOGY
+
+**Key Specifications:**
+- **Wafer Size:** 4 inches (Ø 100 mm)
+- **Thickness:** 660 ± 10 μm (can be thinned to 150-200 μm)
+- **Substrate Type:** Sapphire
+- **Orientation:** C-plane (0001) ± 0.5°
+- **Primary Flat Length:** 30 ± 1.5 mm
+- **Primary Flat Orientation:** A-plane (1120) ± 0.25°
+- **Flatness:** 
+  - Substrate Bow: < 20 μm
+  - Flatness: < 10 μm
+- **Thickness Variation:** < 20 μm
+- **Surface Roughness:**
+  - Front Side: < 0.3 nm (epi-polished)
+  - Back Side: 0.6 - 1.4 μm (fine ground)
+- **Epitaxial Layer:** GaN
+  - Usable Area: > 90%
+  - Dislocation Density: < 5 x 10^8 cm^-2
+  - Thickness of p-GaN: 0.1 μm
+  - Carrier Concentration (p-GaN): > 2 x 10^17 cm^-3 (Mg-doped)
+  - Mobility (p-GaN): > 70 cm²/V·s
+  - Thickness of n-GaN: 1.5 μm
+  - Carrier Concentration (n-GaN): > 1 x 10^19 cm^-3 (Si-doped)
+  - Mobility (n-GaN): > 500 cm²/V·s
+- **Total Epitaxial Layer Thickness:** 5.8 ~ 6 μm
+- **Dominant Wavelength (WLD):** 450 - 460 nm
+- **Changing WLD on Wafer:** < 5 nm
+- **Test Chip Size:** 40 x 40 mil (1000 x 1000 μm)
+- **Chip Thickness:** 150 μm
+- **Forward Current:** 350 mA
+- **Forward Voltage (10 μA):** > 1.6 V and < 3 V
+- **Radiant Power:** > 600 mW
+- **Reverse Voltage (10 μA):** < 15 V
+
+**Moisture Sensitive Level:** Not specified in the provided text.
+
+### Description:
+The 4-inch GaN Epi-On-Sapphire Wafer is a semiconductor substrate primarily used for the fabrication of blue LED chips. It consists of a gallium nitride (GaN) epitaxial layer grown on a sapphire substrate, which provides a suitable platform for high-performance optoelectronic devices. The wafer's specifications, such as thickness, surface roughness, and dislocation density, are critical for ensuring the quality and efficiency of the resulting LED devices.
+
+### Typical Applications:
+- **LED Manufacturing:** The primary application of this wafer is in the production of blue LED chips, which are widely used in lighting, displays, and various electronic devices.
+- **Optoelectronics:** The GaN material is also utilized in other optoelectronic applications, including laser diodes and high-frequency RF devices.
+- **Power Electronics:** Due to its high electron mobility and thermal conductivity, GaN is increasingly being used in power management applications, such as power converters and inverters.
+
+This wafer is essential for advancing LED technology and improving the performance of optoelectronic devices, making it a critical component in modern electronics.

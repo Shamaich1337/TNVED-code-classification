@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 61900113722DEC production of WURTHELEKTRONIKGMBH from the text:1 2 3 4 5\nA\nB\nC\nDSIZE\nA4\nREV DATE FILE BYA 11-MAY-10                          PDF                               JPBCDEFG\nAPPROVAL: BBu UNIT: MM DESCRIPTION: 2.54 MM FEMALE CRIMP TERMINAL \nSCALE: \nSHEET: 1/3 WERI PART NO: 619 001 137 22DEC\nDRAW: PEARLPROJECTION: GENERAL TOLERANCE\n.X = +/- 0.2\n.XX = +/- 0.15RoHS CompliantTECHNICAL CHARACTERISTICS\nMATERIAL\nCONTACT MATERIAL: COPPER ALLOY\nCONTACT TYPE: STAMPED\nCONTACT PLATING: TIN\nQUALITY CLASS: 25 MATING CYCLES\nPITCH: 2.54 MM\nENVIRONMENTAL\nOPERATING TEMPERATURE: -40 UP TO 125°C\nCOMPLIANCE: LEAD FREE AND ROHS\nELECTRICAL\nCURRENT RATING: 3 A\nWORKING VOLTAGE: 250 VAC\nCONTACT RESISTANCE: 20 mOHM MAX\nWIRE DIMENSION: 22-28 AWG\nPACKAGING\nBULK/LOOSE DELIVERY IN A BAG\nEACH TERMINAL SEPARATED FROM EACH OTHER\nNOT ON A REEL\n100PCS/PER BAG. MULTIPLE OF 100 PCS ONLY\n1PC OF 61900113722DEC=1 CRIMP TERMINAL\nSO 1 BAG MEANS 100 PCS OF 61900113722DEC\n06-AUG-13              CHARACTERISTIC                  QL 05-OCT-16                         TPK                               AK10-JUL-17                  CORRECTION                      AK07-AUG-17                          TPK                              AK25-JUL-18                          TPK                              AK\n1 2 3 4 5\nA\nB\nC\nDSIZE\nA4\nREV DATE FILE BYABCDEFG\nAPPROVAL: BBu UNIT: MM\nSCALE: \nSHEET: 2/3\nDRAW: MIKEPROJECTION: GENERAL TOLERANCE\n.X = +/- 0.2\n.XX = +/- 0.15RoHS Compliant\nDESCRIPTION: 2.54 MM FEMALE CRIMP TERMINAL \nWERI PART NO: 619 001 137 22DEC\n1 2 3 4 5\nA\nB\nC\nDSIZE\nA4\nREV DATE FILE BYA 10-SEP-14         PDF         QLB                C               D                EFG\nAPPROVAL: JC UNIT: MM DESCRIPTION: DISCLAIMER \nSCALE: \nSHEET: 3/3 WERI PART NO: DISCLAIMER\nDRAW: QLPROJECTION: GENERAL TOLERANCE\n.X = +/- 0.2\n.XX = +/- 0.15RoHS CompliantCautions and Warnings:\nThis electronic component is designed  and developed w ith the intention for use\nin general electronics equipments.\nBefore incorpora ting the components into any equipment s in the field such as aerospace, aviation,\nnuclear control, submarine, tran sportation, (automotive control, train control, ship control),\ntransportation signal, disaster prevention, medical, public information network etc. where higher safety\nand reliability are especially required or if there is possibility of direct damage or injury to human bod y,\nWurth Elektronik must be asked f or a written approval.\nIn addition, even electronic componen t in general electronic equipments, when used in electrical circuits\nthat require high safety, reliability functions or performance, the sufficient reliability evaluation-check\nfor the safety must be performed before by the user before usage. \n'}]
+!==============================================================================!
+### Component Summary for Wurth Elektronik Part No: 61900113722DEC
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - Working Voltage: 250 VAC
+- **Current Ratings**: 
+  - Current Rating: 3 A
+- **Power Consumption**: 
+  - Not specified directly; however, the current rating indicates the maximum current the terminal can handle.
+- **Operating Temperature Range**: 
+  - -40°C to 125°C
+- **Package Type**: 
+  - Bulk packaging; 100 pieces per bag, with each terminal separated.
+- **Special Features or Notes**: 
+  - RoHS compliant, lead-free, and designed for 25 mating cycles.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: 
+  - Not specified in the provided text.
+
+#### Description:
+The Wurth Elektronik 61900113722DEC is a **2.54 mm female crimp terminal** designed for use in general electronic equipment. It is made from copper alloy with a tin plating, ensuring good conductivity and resistance to corrosion. The terminal is intended for crimping onto wires of 22-28 AWG size, making it versatile for various applications.
+
+#### Typical Applications:
+This crimp terminal is typically used in:
+- **General Electronics**: Suitable for a wide range of electronic devices and applications.
+- **Power Connections**: Ideal for connecting wires in power distribution systems.
+- **Signal Transmission**: Can be used in signal processing applications where reliable connections are necessary.
+- **Automotive and Industrial Applications**: While it is designed for general use, caution is advised for applications requiring high safety and reliability, such as automotive control systems or medical devices.
+
+#### Cautions and Warnings:
+The component is not recommended for use in high-reliability applications such as aerospace, nuclear control, or medical devices without prior written approval from Wurth Elektronik. Users are advised to conduct thorough reliability evaluations before incorporating this component into critical systems.

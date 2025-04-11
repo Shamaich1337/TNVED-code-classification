@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 12.87885 production of GEYER ELECTRONIC from the text:GEYER ELECTRONIC  e.K.  Lochhamer Schlag 5  82166 Gräfelfing/München   \nTel. +49 89 546868-0   quartz@geyer-electronic.de    www.geyer-electronic.de  Version 01.10.2019 \nQuartz Crystal                                                                            SMD-version  \npart no. 12.87885 \nmodel KX - KT \nfrequency 8.0 MHz \nmode fundamental \noperating temperature -40° ~ +85°C \nfrequency tolerance at +25°C ±30 ppm \ntemperature tolerance \nat -40° ~ +85°C  \n±100 ppm \nload capacitance CL 16 pF \nseries resistance \nR1 max.  \n60 Ohm \naging at 25°C (first year) max. ±2 ppm \nshunt capacitance Co max. 7.0 pF \ndrive level max. 0.1 mW \ncontents of reel 1000 pcs. \n \n \n       \n  Dimensions (mm): \n \n Reflow soldering condition: \n \n \nTape specification:   \n \n \n                reel diameter 330 mm   Suggested soldering pad: \n \n   \n \n \n \n'}]
+!==============================================================================!
+### Component Summary for GEYER ELECTRONIC Part No. 12.87885
+
+**Component Type:** Quartz Crystal (SMD version)
+
+**Key Specifications:**
+- **Frequency:** 8.0 MHz
+- **Mode:** Fundamental
+- **Operating Temperature Range:** -40°C to +85°C
+- **Frequency Tolerance at +25°C:** ±30 ppm
+- **Temperature Tolerance (-40°C to +85°C):** ±100 ppm
+- **Load Capacitance (CL):** 16 pF
+- **Series Resistance (R1 max):** 60 Ohm
+- **Aging at 25°C (first year):** ±2 ppm
+- **Shunt Capacitance (Co max):** 7.0 pF
+- **Drive Level (max):** 0.1 mW
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+- **Contents of Reel:** 1000 pcs
+
+**Description:**
+The GEYER ELECTRONIC part number 12.87885 is a surface-mount device (SMD) quartz crystal oscillator designed to operate at a frequency of 8.0 MHz. It utilizes the fundamental mode of oscillation, which is common for quartz crystals used in various electronic applications. The component is characterized by its compact size and is suitable for automated assembly processes.
+
+**Typical Applications:**
+Quartz crystals like the 12.87885 are widely used in:
+- **Timing Applications:** Providing precise clock signals for microcontrollers, digital circuits, and communication devices.
+- **Frequency Control:** Ensuring stable frequency generation in oscillators and RF applications.
+- **Signal Processing:** Used in filters and other signal processing circuits to maintain signal integrity.
+- **Consumer Electronics:** Commonly found in devices such as watches, clocks, and audio equipment where accurate timing is essential.
+
+This component is particularly suitable for applications requiring reliable performance over a wide temperature range, making it ideal for industrial and automotive electronics.

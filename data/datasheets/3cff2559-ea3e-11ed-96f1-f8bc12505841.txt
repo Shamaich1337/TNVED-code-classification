@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SSQ-116-01-G-D production of SAMTEC from the text:Unless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.SERIES -1NO. PINS \nPER ROW -LEAD \nSTYLE -PLATING \nOPTION -ROW \nOPTION -TAIL\nOPTION -OTHER\nOPTION\nSSW\n= Solder \nTail\nSSQ\n= Square \nTail01 thru 50 Specify \nLEAD \nSTYLE \nfrom \nchart–F\n= Gold flash \non contact,  \nMatte Tin on tail\n–L\n= 10 µ" (0.25 µm) \nGold on contact, \nMatte Tin on tail\n–G\n= 20 µ" (0.51 µm) \nGold on contact,  \nGold flash on tail\n–T\n= Matte Tin   \n(-T N/A on \nLIF contacts)–S\n= Single Row\n–P\n= Single Row \n(36 pins max\n–D\n= Double Row\n–T\n= Triple Row\n–Q\n= Double Row \n.200" \n(5.08 mm) \nrow space\n(outer rows \nfilled only) Leave blank \nfor straight \npin version)\n–RA\n= Right-\nangle–LL\n= Locking \nLead\nAvailable \non tails from \n(2.29 mm) \n.090" to \n(7.87 mm) \n.310" only. \nNot Available \nwith single \nrow 1 or 2 \npositions)\n“XXX”\n= Polarized\n(Specify “XXX” as \nposition number)SPECIFICATIONS\nPROCESSINGSSW/SSQ\nMates:\nTSW, MTSW, MTLW, \nDW, EW, ZW, TSS, ZSS, \nTSM, TSSH, HTSS\nNote:  \nSome lengths, styles and \noptions are non-standard, \nnon-returnable.Insulator Material:   \nBlack Liquid Crystal Polymer \n(-S & -D) or \nBlack High Temperature \nThermoplastic (-T)\nContact Material:\nPhosphor Bronze\nPlating:  \nAu or Sn over \n50 µ" (1.27 µm) Ni\nCurrent Rating (SSW/TSM):\n4.7 A per pin\n(2 pins powered)\nCurrent Rating (SSQ/TSW):\n6.3 A per pin\n(2 pins powered)\nOperating Temp Range:\n-55 °C to +125 °C with Gold\n-55 °C to +105 °C with Tin  \nInsertion Depth:  \n(3.68 mm) .145" to\n(6.35 mm) .250"    \nMax Cycles:\n100 with 10 µ" (0.25 µm) Au\nVoltage Rating:\n465 VAC / 655 VDC\nLead–Free Solderable:\nYes: \n-S and -D row option\nNo, Lead Wave only: \n-P , -T and -Q row optionTHROUGH-HOLE\nLEAD STYLE SINGLE\nDOUBLE \nOR TRIPLEStandard \nInsertion\nForceLow \nInsertion\nForce* A\n–01 –21 (2.64) .104\n–02 –22 (4.93) .194\n–03 –24 (10.00) .394\n–04 –24 (14.83) .584\n–06** N/A (3.15) .124\n* LIF not available with Tin Plating  \n**Style –06 Not available with SSQ\nRIGHT-ANGLE\nLEAD STYLE SINGLE\n(–S )\nBDOUBLE\n(–D )\nBTRIPLE\n(–T & –Q )\nBStandard \nInsertion\nForceLow \nInsertion\nForce*\n–02 –22 (2.54) .100 (2.54) .100 (2.54) .100\n–03 –23 (7.62) .300 (7.62) .300 N/A\n–04 –24 (12.45) .490 N/A N/A\n*LIF not available with Tin Plating\n(2.54 mm) .100" PITCH  •  SSW/SSQ SERIESTHROUGH-HOLE\n.025" SQ POST SOCKET\nGbps8\nRight-angleThrough-hole —T \n—Q —D —S \n(7.49)\n.295(7.49)\n.295(4.95)\n.195\n(2.54)\n.100(2.41)\n.095(2.54) .100 x No . of P ositions + (0.51) .020\n—S & —P  —D —T —Q\nRight-angle VersionsB B(8.51)\n.335\nB B—S & —P —D —T —Q\nStraight Pin VersionsA A A A(8.51)\n.335\nF-221 (Rev 17MAR23) samtec.com?SSW or samtec.com?SSQ\n'}]
+!==============================================================================!
+### Component Summary: SSQ-116-01-G-D
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - 465 VAC / 655 VDC
+- **Current Ratings**: 
+  - 6.3 A per pin (when 2 pins are powered)
+- **Power Consumption**: 
+  - Not explicitly stated; power consumption can be derived from current and voltage ratings.
+- **Operating Temperature Range**: 
+  - -55 °C to +125 °C with Gold plating
+  - -55 °C to +105 °C with Tin plating
+- **Package Type**: 
+  - Through-hole, available in single, double, or triple row configurations.
+- **Special Features or Notes**: 
+  - Lead-free solderable options available.
+  - Mates with various Samtec connectors (e.g., TSW, MTSW).
+  - Maximum cycles: 100 with 10 µ" (0.25 µm) Au.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: 
+  - Not specified in the provided text.
+
+#### Description:
+The SSQ-116-01-G-D is a double-row, through-hole connector from Samtec's SSQ series. It features square tails for secure connections and is designed for high-performance applications. The connector is made from black liquid crystal polymer or high-temperature thermoplastic, with contacts made from phosphor bronze and available in various plating options (gold or tin).
+
+#### Typical Applications:
+The SSQ-116-01-G-D connector is typically used in applications requiring reliable electrical connections, such as:
+- **Power Management**: Suitable for power distribution in electronic devices.
+- **Signal Processing**: Used in data communication systems where signal integrity is crucial.
+- **Industrial Equipment**: Commonly found in machinery and control systems due to its robust design and high-temperature tolerance.
+- **Consumer Electronics**: Utilized in various consumer devices that require compact and reliable connectors.
+
+This connector is ideal for applications where space is limited, and high current capacity is needed, making it a versatile choice for engineers designing electronic systems.

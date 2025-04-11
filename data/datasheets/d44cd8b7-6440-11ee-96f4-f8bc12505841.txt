@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of GCM1885G2A300FA16J production of MURATA ELECTRONICS from the text:Product Search Data Sheet\nGCM1885G2A300FA16#“#” indicates a package specification code.Note: This datasheet may be out of date.\nPlease download the latest datasheet of GCM1885G2A300FA16# from the official website of Murata \nManufacturing Co., Ltd.\nhttp://www.murata.com/en/products/productdetail?partno=GCM1885G2A300FA16%23\nAttention\n1.This datasheet is downloaded from the website of Murata Manufacturing Co., Ltd. Therefore, it’s specifications are subject to change or our products in it may be discontinued\nwithout advance notice. Please check with our sales representatives or product engineers before ordering.\n2.This datasheet has only typical specifications because there is no space for detailed specifications.\nTherefore, please review our product specifications or consult the approval sheet for product specifications before ordering.\nURL : https://www.murata.com/Last updated10/06/2023\n< List of part numbers with package codes >\nGCM1885G2A300FA16D GCM1885G2A300FA16J\nApplications\nUnsuitable \nApplicationsPlease be sure to read and comply with \nthese "Precautions for use."\nSpecific \nApplicationsAutomotive powertrain/safety equipment,\nAutomotive infotainment/comfort \nequipment,Medical equipment [GHTF \nA/B/C] except for implant equipment\nPlease refer to Our Website and \nspecifications, etc. for information about \nthe performance, functions, quality, \nmanagement, and safety required for \nthe above applications, and use \nProducts after confirming the \nperformance and reliability of the actual \nProduct.\nAppearance & Shape\nReferences\nPackaging SpecificationsStandard \nPacking \nQuantity\nD φ180mm Reel Paper Tape 4000\nJ φ330mm Reel Paper Tape 10000\nMass (typ.)\n1 piece 6.3mg\n1 of 2\nProduct Search Data Sheet\nGCM1885G2A300FA16#“#” indicates a package specification code.Note: This datasheet may be out of date.\nPlease download the latest datasheet of GCM1885G2A300FA16# from the official website of Murata \nManufacturing Co., Ltd.\nhttp://www.murata.com/en/products/productdetail?partno=GCM1885G2A300FA16%23\nAttention\n1.This datasheet is downloaded from the website of Murata Manufacturing Co., Ltd. Therefore, it’s specifications are subject to change or our products in it may be discontinued\nwithout advance notice. Please check with our sales representatives or product engineers before ordering.\n2.This datasheet has only typical specifications because there is no space for detailed specifications.\nTherefore, please review our product specifications or consult the approval sheet for product specifications before ordering.\nURL : https://www.murata.com/Last updated10/06/2023\nSpecifications\nLength 1.6±0.1mm\nWidth 0.8±0.1mm\nThickness 0.8±0.1mm\nCapacitance 30pF ±1%\nDistance between external \nterminals g0.5mm min.\nExternal terminal size e 0.2 to 0.5mm\nOperating Temperature \nRange-55℃ to 150℃\nRated Voltage 100Vdc\nSize code in inch(mm) 0603 (1608M)\nTC 0±30ppm/℃\nTemperature characteristics \n(complied standard)X8G(Murata)\nTemperature range of \ntemperature characteristics25℃ to 150℃\n2 of 2\n'}]
+!==============================================================================!
+### Component Summary: GCM1885G2A300FA16J
+
+**Manufacturer:** Murata Electronics  
+**Product Type:** Capacitor (Multilayer Ceramic Capacitor - MLCC)
+
+#### Key Specifications:
+- **Voltage Rating:** 100 V DC
+- **Capacitance:** 30 pF ±1%
+- **Operating Temperature Range:** -55°C to 150°C
+- **Package Type:** 0603 (1608M) - Surface Mount
+- **Dimensions:** 
+  - Length: 1.6 ± 0.1 mm
+  - Width: 0.8 ± 0.1 mm
+  - Thickness: 0.8 ± 0.1 mm
+- **Moisture Sensitivity Level (MSL):** Not specified in the provided text, please refer to the latest datasheet for details.
+- **Temperature Characteristics:** X8G (Murata) with a temperature coefficient of 0 ± 30 ppm/°C, applicable in the temperature range of 25°C to 150°C.
+- **Mass:** Approximately 6.3 mg per piece.
+
+#### Description:
+The GCM1885G2A300FA16J is a multilayer ceramic capacitor (MLCC) designed for high-frequency applications. It features a small footprint, making it suitable for compact electronic devices. The capacitor is characterized by its stable capacitance over a wide temperature range and is capable of withstanding high voltage levels, making it ideal for various electronic applications.
+
+#### Typical Applications:
+- **Automotive:** Used in powertrain and safety equipment, as well as infotainment and comfort systems.
+- **Medical Equipment:** Suitable for non-implantable medical devices, adhering to GHTF A/B/C standards.
+- **Consumer Electronics:** Commonly utilized in high-frequency circuits, RF applications, and decoupling in power management systems.
+
+#### Special Notes:
+- The component is not suitable for certain unspecified applications, and users are advised to consult the latest specifications and performance data before use.
+- The datasheet indicates that specifications may change, and it is recommended to verify with Murata's sales representatives or product engineers prior to ordering.
+
+For the most accurate and up-to-date information, please refer to the official Murata website or the latest datasheet.

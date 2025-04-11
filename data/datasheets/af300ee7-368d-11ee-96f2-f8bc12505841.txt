@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 53047-0510 production of MOLEX from the text: \n \n \n \n \nDocuments & Resources \nDrawings\nDrawing  530470510_sd.pdf\n \n3D Models and Design Files\n2D Drawing DXF  530470510.dxf\n2D Drawing DXF PDF  530470510.pdf\n3D Model  530470510_stp.zip\n3D Model PDF  530470510.pdf\n \nSpecifications\nApplication Specification  510210000-AS-000.pdf\nPackaging Specification  SPK-53047-001-001.pdf\nProduct Specification  510211010-PS-000.pdf\nProduct Specification  510211110-PS-000.pdf\n \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance StatementsPart Number : 530470510\nProduct Description : 1.25mm Pitch,\nPicoBlade PCB Header, Single Row, Vertical,\nThrough Hole, Tin Plating, Friction Lock, 5\nCircuits, Tray, 2.30mm PC Tail Length\nSeries Number : 53047\nStatus : Active\nProduct Category : PCB Headers and\nReceptacles\nGADSL/IMDS Not Relevant\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Not Low-Halogen per IEC 61249-2-\n21\nREACH SVHC Not Contained per D(2023)3788-DC\n(14 Jun 2023)\nEU RoHS Compliant per EU 2015/863\n-\n-\n-\n-\n-\n-\n-\n-\nEu RoHS\nREACH SVHC\nLow-Halogen\n \nMultiple Part Industry Compliance Documents\nIPC 1752A Class C\nIPC 1752A Class D\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneral \n \n \nAgency \n \n \nElectrical \n \n \nPhysical \n Status Active\nCategory PCB Headers and Receptacles\nSeries 53047\nDescription 1.25mm Pitch, PicoBlade PCB\nHeader, Single Row, Vertical,\nThrough Hole, Tin Plating, Friction\nLock, 5 Circuits, Tray, 2.30mm PC\nTail Length\nApplication Signal, Wire-to-Board\nComponent Type PCB Header\nProduct Family PicoBlade Connector System\nProduct Name PicoBlade\nUPC 800753750524\nUL E29179\nCurrent - Maximum per Contact 1.0A\nVoltage - Maximum 125V\nBreakaway No\nCircuits (Loaded) 5\n \n \nMates With / Use With \nMates with Part(s) \n Circuits (maximum) 5\nColor - Resin Natural\nDurability (mating cycles max) 30\nFirst Mate / Last Break No\nFlammability 94V-0\nGlow-Wire Capable No\nGuide to Mating Part No\nKeying to Mating Part None\nLock to Mating Part Yes\nMated Height 5.20mm\nMaterial - Metal Phosphor Bronze\nMaterial - Plating Mating Tin\nMaterial - Plating Termination Tin\nMaterial - Resin Nylon\nNet Weight 111.200/mg\nNumber of Rows 1\nOrientation Vertical\nPackaging Type Tray\nPC Tail Length 2.30mm\nPCB Locator No\nPCB Retention None\nPCB Thickness - Recommended 0.80mm\nPitch - Mating Interface 1.25mm\nPolarized to PCB No\nShrouded Fully\nStackable No\nTemperature Range - Operating -40° to +85°C\nTermination Interface Style Through Hole\nDescription Part Number\nPicoBlade Single Row Receptacle\nHousings51021\n \n \n \n \nThis document was generated on Aug 08, 2023 PicoBlade Female-to-PicoBlade\nFemale Off-the-Shelf (OTS) Cable\nAssemblies15134\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Product Code 53047-0510
+
+#### Key Specifications:
+- **Voltage Ratings**: Maximum 125V
+- **Current Ratings**: Maximum per contact 1.0A
+- **Power Consumption**: Not specified directly; power can be calculated using voltage and current ratings.
+- **Operating Temperature Range**: -40°C to +85°C
+- **Package Type**: Tray
+- **Special Features/Notes**:
+  - Friction lock mechanism
+  - 5 circuits
+  - Vertical orientation
+  - Fully shrouded
+  - Not stackable
+  - Mating cycles durability: 30
+  - Flammability rating: 94V-0
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided information.
+
+#### Component Description:
+The MOLEX 53047-0510 is a **PicoBlade PCB Header**, which is a type of connector designed for wire-to-board applications. It features a single row configuration with a pitch of 1.25mm, allowing for compact connections in electronic assemblies. The header is designed for through-hole mounting on printed circuit boards (PCBs) and is made from materials such as phosphor bronze for the metal components and nylon for the resin.
+
+#### Typical Applications:
+The 53047-0510 connector is typically used in applications that require reliable signal transmission and power delivery between wires and PCBs. Common applications include:
+- **Signal Processing**: Connecting various electronic components on a PCB.
+- **Consumer Electronics**: Used in devices such as computers, smartphones, and other handheld devices.
+- **Industrial Equipment**: Employed in machinery and control systems where space-saving and efficient connections are necessary.
+- **Telecommunications**: Utilized in networking equipment and communication devices.
+
+This component is part of the PicoBlade connector system, which is known for its compact design and versatility in various electronic applications.

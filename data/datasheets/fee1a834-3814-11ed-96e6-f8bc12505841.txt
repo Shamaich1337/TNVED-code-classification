@@ -1,0 +1,23 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FCZ-004-H103-99/R production of E-TEC from the text:ABCD\n004 9.05 3.00 11.00 5.10\n005 10.05 4.00 12.00 6.10\n006 11.05 5.00 13.00 7.10\n007 12.05 6.00 14.00 8.10\n008 13.05 7.00 15.00 9.10\n009 14.05 8.00 16.00 10.10\n010 15.05 9.00 17.00 11.10\n011 16.05 10.00 18.00 12.10\n012 17.05 11.00 19.00 13.10\n013 18.05 12.00 20.00 14.10\n014 19.05 13.00 21.00 15.10\n015 20.05 14.00 22.00 16.10\n016 21.05 15.00 23.00 17.10\n017 22.05 16.00 24.00 18.10\n018 23.05 17.00 25.00 19.10\n019 24.05 18.00 26.00 20.10\n020 25.05 19.00 27.00 21.10\n021 26.05 20.00 28.00 22.10\n022 27.05 21.00 29.00 23.10\n023 28.05 22.00 30.00 24.10\n024 29.05 23.00 31.00 25.10\n025 30.05 24.00 32.00 26.10\n026 31.05 25.00 33.00 27.10\n027 32.05 26.00 34.00 28.10\n028 33.05 27.00 35.00 29.10\n029 34.05 28.00 36.00 30.10\n030 35.05 29.00 37.00 31.10\n034 39.05 33.00 41.00 35.10No. of\nContactsDimension mm\n'}]
+!==============================================================================!
+Based on the provided information, here is a concise summary of the component FCZ-004-H103-99/R from E-TEC:
+
+### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, this would be found in the full datasheet.
+- **Current Ratings:** Not explicitly stated in the provided text; typically, this would be found in the full datasheet.
+- **Power Consumption:** Not explicitly stated in the provided text; typically, this would be found in the full datasheet.
+- **Operating Temperature Range:** Not explicitly stated in the provided text; typically, this would be found in the full datasheet.
+- **Package Type:** Not explicitly stated in the provided text; typically, this would be found in the full datasheet.
+- **Special Features or Notes:** Not explicitly stated in the provided text; typically, this would be found in the full datasheet.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not explicitly stated in the provided text; typically, this would be found in the full datasheet.
+
+### Component Description:
+The FCZ-004-H103-99/R is likely a connector or a similar electronic component, as indicated by the format of the product code and the context of the provided dimensions. The numbers following the product code (004, 005, etc.) suggest variations in dimensions or specifications, possibly indicating different configurations or sizes of the same type of component.
+
+### Typical Applications:
+While specific applications are not detailed in the provided text, components like the FCZ-004-H103-99/R are typically used in:
+- **Interconnect Solutions:** Used in various electronic devices for connecting different parts of a circuit.
+- **Signal Transmission:** Facilitating the transfer of signals between components in electronic systems.
+- **Power Distribution:** Depending on the current and voltage ratings, it may be used in power management applications.
+
+For a complete and accurate technical summary, including voltage ratings, current ratings, and other specifications, it is recommended to refer to the full datasheet for the FCZ-004-H103-99/R component from E-TEC.

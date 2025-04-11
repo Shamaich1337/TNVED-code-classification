@@ -1,0 +1,51 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BO0907LH3I208EF40 production of CHIP SUN TECHNOLOGY from the text:深圳市炬烜科技有限公司\nCHIPSUNTECHNOLOGYCO.,LTD\nAPPROVAL\nSHEET\nCUSTOMER： MarcoGroup\nDESCRIPTION： OCXO40.000MHz\nMANUFACTURERPARTNO.:BO0907LH3I208EF40\nCUSTOMERPARTNO:\nUSEDINMODEL:\nREVISION A1\n承认 APPROVAL\n工程部\nTECHNOLOGYDEPT.品质部\nQUALITYDEPT.采购部\nPURCHASINGDEPT.\nDate:September19,2023\n深圳市炬烜科技有限公司\nCHIPSUNTECHNOLOGYCO.，LTD\n地址ADD:深圳市龙华新区大浪腾龙路淘金地电子商务孵化基地B座206\nRm.206,TowerB,TaojindiBuilding,TenglongRoad,DalangStreet,\nLonghuaNewDistrict,Shenzhen,China\n电话TEL:86-755-83458798传真FAX:86-755-83459818\n网址WEBADD:http://www.chinachipsun.com\nE-MAIL:sales04@chinachipsun.com\n\nCHIPSUNTECHNOLOGYCO.,LTD\nDESCRIPTIONOCXO40.0000MHzBO0907LH3I208EF40 Page:\nDATE2023-09-19 2/5RevRevisepage Revisecontents Date Ref.No. Reviser\nA1 ALL Initialreleased 2023-9-19 N/A DavidJiang\nCHIPSUNTECHNOLOGYCO.,LTD\nDESCRIPTIONOCXO40.0000MHzBO0907LH3I208EF40 Page:\nDATE2023-09-19 3/51.OVENCONTROLLEDCRYSTALOSCILLATORSPECIFICATION\n1.1DeviceName OCXO\n1.2ModelName BO0907LH3I208EF40\n1.3NominalFrequency40.000MHz\n2.ELECTRICALSPECIFICATIONS\n2.1OUTPUT(PIN=“R.F.OUTPUT”)\nParameter Min.Typ.Max.Unit TestCondition\n2.1.1Frequency 40.000 MHz\n2.1.2InitialAccuracy -100 +100ppb AtShipment,NominalEFC\n2.1.3Waveform Rectangular\n2.1.4Level CMOS\n“1”Level +2.4 V @+25±5°C\n“0”Level +0.4 V @+25±5°C\n2.1.5Load 15 pF\n2.1.6DutyCycle 45 55 %\n2.1.7Rise/FallTime 6 nS\n2.2FREQUENCYSTABILITY\nParameter Min.Typ.Max.Unit TestCondition\n2.2.1StabilityvsTemp-20 +20 ppb@-40~+85℃,referencedto25℃\n2.2.2AgingDaily -1 +1 ppbAfter30daysofoperation\nYearly -100 +100ppbAfter30daysofoperation\n2.2.3VoltageSensitivity-10 +10 ppbVcc±5%change\n2.2.4LoadSensitivity -10 +10 ppbLoad±5%change\n2.2.5Short-termStability 1*10-9AllanDev.1S\nCHIPSUNTECHNOLOGYCO.,LTD\nDESCRIPTIONOCXO40.0000MHzBO0907LH3I208EF40 Page:\nDATE2023-09-19 4/52.2.6PhaseNoise-90 dBc/Hz@10Hz,+25±5℃\n-110 dBc/Hz@100Hz,+25±5℃\n-140 dBc/Hz@1KHz,+25±5℃\n-150 dBc/Hz@10KHz,+25±5℃\n-150 dBc/Hz@100KHz,+25±5℃\n2.3INPUTFEATURE\nParameter Min.Typ.Max.Unit TestCondition\n2.3.1Voltage +3.135+3.3+3.465V\n2.3.2Start-upCurrent 600 mA@+25℃±5℃\n2.3.3SteadyCurrent 200 mA@+25℃±5℃，StillAir\n2.4TUNINGFEATURE\nParameter Min.Typ.Max.Unit TestCondition\n2.4.1ControlVoltageRange0 3 V\n2.4.2Freq.TuningRange-3000 +3000ppb\n3.ENVIRONMENTAL\nParameter ReferenceStd. TestCondition\n3.1OperatingTemperature -40℃~+85℃\n3.2StorageTemperature -60℃~+110℃\n3.3HumidityMIL-STD-202,Method103,\nTestConditionA95%RH@+40°C,\nnon-condensing,240hours\n3.4Vibration(non-operating)MIL-STD-202,Method201 0.06”Totalp-p,10to55Hz\n3.5Shock(non-operating)MIL-STD-202,Method213,\nTestConditionJ30g,11ms,half-sine\nCHIPSUNTECHNOLOGYCO.,LTD\nDESCRIPTIONOCXO40.0000MHzBO0907LH3I208EF40 Page:\nDATE2023-09-19 5/54.OUTLINE\nPinConnection\n1VCON\n2NC\n3GND\n4Output\n5NC\n6VCC\n'}]
+!==============================================================================!
+### Component Summary for BO0907LH3I208EF40
+
+**Component Type:** Oven Controlled Crystal Oscillator (OCXO)
+
+**Description:**  
+The BO0907LH3I208EF40 is an Oven Controlled Crystal Oscillator (OCXO) designed to provide a stable frequency output of 40.000 MHz. It utilizes a temperature-controlled environment to maintain high frequency stability and accuracy, making it suitable for applications requiring precise timing.
+
+### Key Specifications:
+
+- **Nominal Frequency:** 40.000 MHz
+- **Voltage Ratings:**
+  - Input Voltage: +3.135 V to +3.465 V
+- **Current Ratings:**
+  - Start-up Current: 600 mA at +25°C ±5%
+  - Steady Current: 200 mA at +25°C ±5% (Still Air)
+- **Power Consumption:** 
+  - Steady State: 200 mA
+- **Operating Temperature Range:** 
+  - -40°C to +85°C
+- **Storage Temperature Range:** 
+  - -60°C to +110°C
+- **Frequency Stability:**
+  - Stability vs. Temperature: -20 to +20 ppb (from -40°C to +85°C, referenced to 25°C)
+  - Aging: Daily -1 to +1 ppb; Yearly -100 to +100 ppb after 30 days of operation
+- **Output Characteristics:**
+  - Waveform: Rectangular
+  - Level: CMOS
+    - "1" Level: +2.4 V at +25°C ±5°C
+    - "0" Level: +0.4 V at +25°C ±5°C
+  - Load: 15 pF
+  - Duty Cycle: 45% to 55%
+  - Rise/Fall Time: 6 ns
+- **Phase Noise:**
+  - -90 dBc/Hz @ 10 Hz
+  - -110 dBc/Hz @ 100 Hz
+  - -140 dBc/Hz @ 1 kHz
+  - -150 dBc/Hz @ 10 kHz and 100 kHz
+- **Moisture Sensitive Level:** Not specified in the provided data.
+
+### Typical Applications:
+The BO0907LH3I208EF40 OCXO is typically used in applications that require high precision and stability in frequency generation. Common applications include:
+
+- **Telecommunications:** For clock generation in communication systems.
+- **GPS Systems:** Providing accurate timing signals for navigation systems.
+- **Test Equipment:** Used in oscillators and signal generators for testing purposes.
+- **Aerospace and Defense:** For applications requiring high reliability and stability under varying environmental conditions.
+- **Consumer Electronics:** In devices where precise timing is critical, such as in audio and video equipment.
+
+This OCXO is ideal for environments where temperature fluctuations can affect performance, ensuring consistent operation across a wide temperature range.

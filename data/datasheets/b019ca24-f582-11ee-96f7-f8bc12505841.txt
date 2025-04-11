@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-USS-BU18-RA32-98 production of DECIGN from the text:TP-USS-BU18-RA32-98NOTE:\n Material:\n HOUSING:PBT 30%GF,COLOR:BLUE\n TERMINAL:Copper Alloy T=0.25mm\n SHELL: SUS\n BACK SHELL:SUS T=0.3mm\n MIDDLE SPRING: SPCC T=0.3mm\n PLATING:\n TERMINAL:CONTACT:PLATING 30u"Au over 50u"Ni,\n SOLDER TAIL:PLATING 80u"Tin over 50u"Ni   \nSHELL:PLATING 80u"Ni\n  MIDDLE SPRING:PLATING 80u"Ni   \nSPECIFICATION:\n 1).Voltage Current Rating: 1A, 30VAC(rms)   \n2).Insulation Resistance: 1000M Ω Min.  \n3).Contact Resistance: 30m Ω Max.\n 4).Dielectric Withstanding Voltage: 500V AC   \nMECHANICAL: 1). Mating Force: 3.57Kgf (35N)  Max\n 2). Unmating force: 1.02Kgf (10N)  Min  3). \nDURABILITY: 1500 Cycles\n Storage Temperature :-20°C~+85°C    \nOperating Temperature :-20°C~+85°C\x00 \x00 \x00 \x00\n\x00\x00 \x00\x00 \x00\x00 \x00\x00\x00 \x00 \x00 \x00 \x00\n\x00\x00 \x00\x00 \x00\x00 \x00\x00 \x00\x00\n\x00 \x00 \x00 \x00\x00 \x00 \x00 \x00 \x00\x00\x00 \x00\x00 \x00\x00 \x00\x00\x00\x00 \x00\x00 \x00\x00 \x00\x00 \x00\x00\nTP-USS-BU18-RA32-98\n'}]
+!==============================================================================!
+### Component Summary for TP-USS-BU18-RA32-98
+
+**Component Type:** Connector
+
+**Description:**
+The TP-USS-BU18-RA32-98 is a connector designed for electrical interconnections. It features a robust construction with a housing made from PBT (Polybutylene Terephthalate) reinforced with 30% glass fiber, providing durability and resistance to environmental factors. The connector is designed to handle a voltage rating of 30VAC and a current rating of 1A, making it suitable for various low-power applications.
+
+**Key Specifications:**
+- **Voltage Rating:** 30VAC (rms)
+- **Current Rating:** 1A
+- **Power Consumption:** Not specified (dependent on application)
+- **Insulation Resistance:** 1000 MΩ Min
+- **Contact Resistance:** 30 mΩ Max
+- **Dielectric Withstanding Voltage:** 500V AC
+- **Operating Temperature Range:** -20°C to +85°C
+- **Storage Temperature Range:** -20°C to +85°C
+- **Package Type:** Not specified (connector type)
+- **Mating Force:** 3.57 Kgf (35N) Max
+- **Unmating Force:** 1.02 Kgf (10N) Min
+- **Durability:** 1500 cycles
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text
+
+**Special Features:**
+- The connector features gold plating on the contact area (30µ" Au over 50µ" Ni) and tin plating on the solder tail (80µ" Sn over 50µ" Ni), which enhances conductivity and corrosion resistance.
+- The shell and middle spring are plated with nickel (80µ" Ni), providing additional durability.
+
+**Typical Applications:**
+The TP-USS-BU18-RA32-98 connector is typically used in applications requiring reliable electrical connections in environments where durability and resistance to temperature variations are critical. Common applications include:
+- Consumer electronics
+- Industrial equipment
+- Telecommunications
+- Automotive systems
+- Power management systems
+
+This connector is ideal for situations where a compact and robust connection is necessary, ensuring stable performance in various electronic devices.

@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 53353-1071 production of MOLEX from the text:This document was generated on 09/10/2020\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nPart Number: 0533531071\nStatus: Active\nOverview:\nDescription: SlimStack Board-to-Board Connector, 0.80mm Pitch, Floating Series, Plug, 7.00 or\n8.00mm Mated Height, 10 Circuits, Vertical, without Boss\nGeneral\nProduct Family PCB Headers\nSeries 53353\nApplication Board-to-Board, Signal\nOverview slimstack_fine_pitch_smt_board_to_board_connectors\nProduct Name SlimStack\nSeries Name 0.80 Floating\nUPC 822348161430\nPhysical\nBreakaway No\nCircuits (Loaded) 10\nCircuits (maximum) 10\nDurability (mating cycles max) 30\nGlow-Wire Capable No\nLock to Mating Part None\nMated Height 7.00mm, 8.00mm\nMated Width 5.10mm, 7.20mm\nMaterial - Metal Phosphor Bronze\nMaterial - Plating Mating Tin\nMaterial - Plating Termination Tin\nNet Weight 300.100/mg\nNumber of Rows 2\nOrientation Vertical\nPCB Locator No\nPCB Retention None\nPackaging Type Embossed Tape on Reel\nPitch - Mating Interface 0.80mm\nPolarized to PCB No\nTemperature Range - Operating -40° to +105°C\nTermination Interface: Style Surface Mount\nElectrical\nCurrent - Maximum per Contact 0.5A\nVoltage - Maximum 50V\nMaterial Info\nReference - Drawing Numbers\nProduct Specification PS-52465-010-001\nSales Drawing SD-53353-003, SD-53353-004\nEU ELV\nNot Relevant\nEU RoHS China RoHS\nCompliant\nREACH SVHC\nNot Contained Per -\nD(2020)4578-DC (25\nJune 2020)\nHalogen-Free\nStatus\nNot Low-Halogen\nFor more information, please visit Contact US\nChina ROHS Green Image\nELV Not Relevant\nRoHS Phthalates Not Contained\nSearch Parts in this Series\n53353 Series\nMates With\n52465 , 52588 PCB Receptacle\nThis document was generated on 09/10/2020\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Molex:   \n\xa0 53353-1071\n'}]
+!==============================================================================!
+### Component Summary for Molex Part Number 0533531071
+
+**Component Type:**  
+SlimStack Board-to-Board Connector
+
+**Description:**  
+The Molex 0533531071 is a SlimStack Board-to-Board connector designed for applications requiring a compact and efficient connection between PCBs. It features a floating design with a pitch of 0.80mm, allowing for slight misalignment during mating. This connector is available in two mated heights (7.00mm and 8.00mm) and supports up to 10 circuits.
+
+### Key Specifications:
+
+- **Voltage Ratings:**  
+  Maximum Voltage: 50V
+
+- **Current Ratings:**  
+  Maximum Current per Contact: 0.5A
+
+- **Power Consumption:**  
+  Not specified directly; power consumption can be inferred from current and voltage ratings.
+
+- **Operating Temperature Range:**  
+  -40°C to +105°C
+
+- **Package Type:**  
+  Surface Mount, with a vertical orientation.
+
+- **Special Features or Notes:**  
+  - 10 Circuits (maximum and loaded)
+  - Durability: 30 mating cycles
+  - No glow-wire capability
+  - No PCB locator or retention features
+  - Packaging Type: Embossed Tape on Reel
+  - Not polarized to PCB
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**  
+  Not specified in the provided information.
+
+### Typical Applications:
+The Molex 0533531071 connector is typically used in board-to-board applications where space is limited and a reliable electrical connection is required. Common applications include:
+
+- **Consumer Electronics:** Connecting various circuit boards within devices such as smartphones, tablets, and laptops.
+- **Telecommunications:** Used in equipment that requires compact and efficient interconnections.
+- **Industrial Equipment:** Suitable for applications in machinery where space-saving designs are critical.
+- **Automotive:** Can be utilized in automotive electronics for connecting control units and sensors.
+
+This connector is ideal for applications that demand high-density connections while maintaining performance and reliability in a compact form factor.

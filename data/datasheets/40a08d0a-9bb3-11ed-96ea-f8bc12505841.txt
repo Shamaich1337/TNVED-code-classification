@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of C1210C106M5PAC7800 production of KEMET ELECTRONICS from the text:Generated 6/20/2017 - 4c44c1eb-8df2-43fd-a061-c55eb35c86f5KEMET Part Number: C1210C106M5PACTU\n(C1210C106M5PAC7800)\nCeramic, Commercial-(CxxxxC), 10 uF, 20%, 50 V, 1210, X5R, SMD, MLCC, Temperature Stable, Class II\nDimensions\nL 3.2mm +/-0.2mm\nW 2.5mm +/-0.2mm\nT 2.5mm +/-0.30mm\nB 0.5mm +/-0.25mm\nPackaging Specifications\nPackaging: T&R, 180mm, Plastic Tape\nPackaging Quantity: 1000General Information\nStyle: SMD Chip\nSeries: Commercial-(CxxxxC)\nChip Size: 1210\nDescription:SMD, MLCC, Temperature\nStable, Class II\nFeatures: Temperature Stable, Class II\nRoHS: Yes\nTermination: Tin\nMarking: No\nFailure Rate: N/A\nMiscellaneous:Note: Referee time for X5R\ndielectric for this part number is\n48 hours\nSpecifications\nCapacitance: 10 uF\nCapacitance Tolerance: 20%\nVoltage DC: 50 VDC\nDielectric Withstanding\nVoltage:125 V\nTemperature Range: -55/+85C\nTemperature Coefficient: X5R\nDissipation Factor: 10%\nAging Rate: 5% Loss/Decade Hour\nInsulation Resistance: 10 MOhms\n© 2006 - 2017 IntelliData.netStatements of suitability for certain applications are based on our knowledge of typical operating conditions for such applications, but are not intended to constitute - and\nwe specifically disclaim - any warranty concerning suitability for a specific customer application or use. This Information is intended for use only by customers who have the\nrequisite experience and capability to determine the correct products for their application. Any technical advice inferred from this Information or otherwise provided by us\nwith reference to the use of our products is given gratis, and we assume no obligation or liability for the advice given or results obtained.\n'}]
+!==============================================================================!
+### Component Summary for KEMET Part Number: C1210C106M5PAC7800
+
+#### Key Specifications:
+- **Capacitance**: 10 µF
+- **Capacitance Tolerance**: ±20%
+- **Voltage Ratings**: 
+  - **DC Voltage**: 50 VDC
+  - **Dielectric Withstanding Voltage**: 125 V
+- **Power Consumption**: Not specified (typical for capacitors)
+- **Operating Temperature Range**: -55°C to +85°C
+- **Package Type**: 1210 (3.2mm x 2.5mm x 2.5mm)
+- **Moisture Sensitive Level**: Not specified, but typically follows JEDEC J-STD-020E guidelines for MLCCs.
+- **Special Features**: 
+  - Temperature Stable
+  - Class II Dielectric (X5R)
+  - RoHS Compliant
+  - Tin Termination
+  - Dissipation Factor: 10%
+  - Aging Rate: 5% Loss/Decade Hour
+  - Insulation Resistance: 10 MΩ
+
+#### Description:
+The KEMET C1210C106M5PAC7800 is a surface-mount multilayer ceramic capacitor (MLCC) designed for commercial applications. It features a capacitance of 10 µF with a voltage rating of 50 VDC, making it suitable for various electronic circuits. The capacitor utilizes an X5R dielectric, which provides stable capacitance over a wide temperature range, making it ideal for applications where temperature fluctuations are expected.
+
+#### Typical Applications:
+This capacitor is commonly used in:
+- **Power Management**: Filtering and decoupling in power supply circuits.
+- **Signal Processing**: Coupling and bypassing in audio and RF applications.
+- **Consumer Electronics**: Used in devices such as smartphones, tablets, and other portable electronics.
+- **Automotive Applications**: Suitable for automotive electronics due to its wide temperature range and reliability.
+
+Overall, the C1210C106M5PAC7800 is a versatile component that can be utilized in a variety of electronic applications requiring stable capacitance and reliability under varying environmental conditions.

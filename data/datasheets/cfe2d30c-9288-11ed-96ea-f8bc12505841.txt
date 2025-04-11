@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of LFCN-2500+ production of MINI-CIRCUITS from the text:Low Pass FilterCERAMIC\nLFCN-2500+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 1 OF 3 50Ω         DC1 to 2500 MHz  \nCASE STYLE: FV1206\n+RoHS Compliant\nThe +Suffix identifies RoHS Compliance. See our web site \nfor RoHS Compliance methodologies and qualificationsGeneric photo used for illustration purposes only\n3. Passband rating, derate linearly to 3.5W at 100°C ambient.\nPermanent damage may occur if any of these limits are exceeded. 1.  In Applications where DC isolation to ground is required, coupling capacitors are recommended to avoid DC leakage.  Alternatively, if DC pass IN-OUT is required, Mini-Circuits’ “D” \n     suffix version of this model will support DC IN-OUT, and provide>100 MOhm isolation to ground. \n2. Measured on Mini-Circuits Characterization Test Board TB-270.ELECTRICAL SPECIFICATIONS1,2 AT 25°C\nParameter F# Frequency (MHz) Min. Typ. Max. Units\nPassbandInsertion Loss DC-F1 DC-2500 — — 1.0 dB\nFreq. Cut-Off F2 3075 — 3.0 — dB\nVSWR DC-F1 DC-2500 — 1.2 — :1\nStop BandRejection LossF3 3675 20 — —\ndB F4-F5 3800-6100 — 30 —\nF6 8000 — 20 —\nVSWR F3-F6 3675-8000 — 20 —:1\nParameter Ratings\nOperating temperature -55°C to 100°C\nStorage temperature -55°C to 100°C\nRF Power Input310 W max. at 25°CMAXIMUM RATINGS TYPICAL FREQUENCY RESPONSE\nFUNCTIONAL SCHEMATIC\nREV. L\nECO-011696\nLFCN-2500+\nAD/CP/AM\n22012820\n340ATTENUATION (dB)1\nF2 F3 F1 DC F4 F5 F6\nFREQUENCY\nRF IN RF OUTFEATURES\n yExcellent power handling, 10W\n ySmall size\n y7 sections\n yTemperature stable\n yLTCC construction\n yProtected by U.S Patent 6,943,646\nAPPLICATIONS\n yHarmonic rejection \n yVHF/UHF transmitters/receivers\n yLab use\nLow Pass FilterCERAMIC\nLFCN-2500+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com www.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 2 OF 3RF IN 1\nRF OUT 3\nGROUND 2,4PIN CONNECTIONS OUTLINE DRAWING\nDEMO BOARD MCL P/N: TB-270\nSUGGESTED PCB LAYOUT  (PL-137)PRODUCT MARKING: N/A\nOUTLINE DIMENSIONS (Inches ) mmPCB Land Pattern \nSugges ted Layout, \nTolerance to be within ±.002  (ON TOP)\n (ON TOP)\nABCDE FG\n.126 .063 .037 .020 .032 .009 .169\n3.20 1.60 0.94 0.51 0.81 0.23 4.29\nH J K L M N P wt\n.087 .024 .122 .024 .087 .012 .071 grams\n2.21 0.61 3.10 0.61 2.21 0.30 1.80 .020\nTAPE & REEL INFORMATION: F71\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 3 OF 3\nNOTES\nA.Performance and quality attributes and conditions not expressly stated in this specification document are intended to be excluded and do not form a part of this specification document. \nB.Electrical specifications and performance data contained in this specification document are based on Mini-Circuit’s applicable established test performance criteria and measurement instructions. \nC.The parts covered by this specification document are subject to Mini-Circuits standard limited warranty and terms and conditions (collectively, “Standard Terms”); Purchasers of this part are entitled to the rights \nand benefits contained therein. For a full statement of the standard. Terms and the exclusive rights and remedies thereunder, please visit Mini-Circuits’ website at www.minicircuits.com/MCLStore/terms.jsp\nLow Pass FilterCERAMIC\nLFCN-2500+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.comFrequency \n(MHz)Insertion Loss\n(dB)VSWR\n(:1)\n50.00 0.05 1.02\n2000.00 0.50 1.26\n2530.00 0.80 1.24\n3000.00 2.72 2.58\n3660.00 24.30 23.81\n3760.00 29.63 28.03\n4000.00 43.19 31.03\n5000.00 34.98 26.33\n6000.00 34.38 24.48\n7000.00 26.29 26.74\n8000.00 22.85 27.59\n10000.00 19.22 18.30\n12000.00 14.60 13.09\n15000.00 17.48 3.73\n20000.00 15.48 4.84TYPICAL PERFORMANCE DATA AT 25°C\nLFCN-2500\nINSERTION LOSS\n0.010.020.030.040.050.0\n0 5000 10000 15000 20000\nFREQUENCY (MHz)INSERTION LOSS (-dB)LFCN-2500\nVSWR\n1101001000\n0 5000 10000 15000 20000\nFREQUENCY (MHz)VSWR\n'}]
+!==============================================================================!
+### Component Summary: LFCN-2500+
+
+**Description:**
+The LFCN-2500+ is a ceramic low pass filter designed for RF applications. It operates within a frequency range of DC to 2500 MHz and is suitable for applications requiring harmonic rejection and signal integrity. The filter is constructed using LTCC (Low-Temperature Co-fired Ceramic) technology, which provides excellent temperature stability and power handling capabilities.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated; however, the RF power input is rated at 10W max at 25°C.
+- **Current Ratings:** Not specified; current handling is typically inferred from power ratings.
+- **Power Consumption:** RF Power Input: 10W max at 25°C.
+- **Operating Temperature Range:** -55°C to 100°C.
+- **Storage Temperature Range:** -55°C to 100°C.
+- **Package Type:** FV1206 (small size).
+- **Special Features:**
+  - Excellent power handling (10W).
+  - Temperature stable.
+  - 7 sections for improved performance.
+  - Protected by U.S. Patent 6,943,646.
+  - RoHS compliant.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+**Typical Performance Data at 25°C:**
+- **Insertion Loss:** 
+  - DC to 2500 MHz: ≤ 1.0 dB
+  - Cut-off Frequency (3075 MHz): ≤ 3.0 dB
+- **VSWR (Voltage Standing Wave Ratio):** 
+  - DC to 2500 MHz: ≤ 1.2:1
+- **Stop Band Rejection Loss:**
+  - 3675 MHz: ≥ 20 dB
+  - 3800-6100 MHz: ≥ 30 dB
+  - 8000 MHz: ≥ 20 dB
+
+**Typical Applications:**
+- **Harmonic Rejection:** Used in systems where unwanted harmonics need to be filtered out.
+- **VHF/UHF Transmitters/Receivers:** Ideal for communication systems operating in VHF and UHF bands.
+- **Laboratory Use:** Suitable for testing and measurement applications requiring precise signal filtering.
+
+This low pass filter is particularly useful in RF applications where maintaining signal integrity while minimizing unwanted high-frequency signals is critical. Its compact size and robust performance make it a versatile choice for various electronic designs.

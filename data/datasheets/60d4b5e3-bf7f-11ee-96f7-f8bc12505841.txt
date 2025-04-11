@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PJ-083AH production of CUI INCORPORATED from the text:date10/11/2023\npage\n1 of 4\nMODEL : PJ-083AH | DESCRIPTION:  DC POWER JACK\ncuidevices.com\nFEATURES\n• 2.0 mm center pin\n• 5 A rating\n• shielded\n• through hole\n• 1 switch\nSPECIFICATIONS\nparameter conditions/description min typ max units\nrated input voltage 24 Vdc\nrated input current 5.0 A\ncontact resistancebetween terminal and mating plug\nbetween terminal in a closed circuit50\n30mΩ\nmΩ\ninsulation resistance at 500 Vdc 100 MΩ\nvoltage withstand for 1 minute 500 Vac\ninsertion/withdrawal force 0.5 2 kg\noperating temperature -25 85 °C\nlife at a rate of 10~20 cycles 5,000 cycles\nflammability rating UL94V-0\nRoHS yes\nSOLDERABILITY\nparameter conditions/description min typ max units\nreel storage 10~30°C, <70% humidity °C\nreflow soldering1see reflow profile 255 260 °C\ndrying conditions2 parts in reel: bake at 110°C for 4 hours\nparts removed from reel: bake at 110°C for 4 hours\nNote: 1.  CUI Devices recommends to solder within 72 hours from opening vacuum packaging at a temperature <30°C & relative humidity <60%.\n                        2.  When exceeding floor life by >240 hours.\nAdditional Resources:    Product Page\nCUI DEVICES  | MODEL : PJ-083AH | DESCRIPTION:  DC POWER JACK date 10/11/2023 | page  2 of 4\ncuidevices.comMECHANICAL DRAWING\n/gid00017/gid00015/gid00025/gid00057/gid00019/gid00015/gid00020/gid00009/gid00019/gid00057/gid00010\nRecommended PCB Layout\nTop Viewunits: mm\ntolerance:\nX.X ±0.20 mm\nX.XX ±0.10 mm\nX.XXX ±0.050 mm\nPCB: ±0.05 mmDESCRIPTION MATERIAL PLATING/COLOR\ncenter pin copper nickel\nterminal 1 brass silver\nterminal 2 brass silver\nterminal 3 brass silver\nshield A brass nickel\nshield B stainless steel\ninsulator PA10T (UL94V-0)\nSCHEMATIC1\n23\nModel PJ-083AH\nCenter Pin Ø2.0 mmMATING PLUG\nJack Insertion Depth: 8.2 mmAdditional Resources:    Product Page\nCUI DEVICES  | MODEL : PJ-083AH | DESCRIPTION:  DC POWER JACK date 10/11/2023 | page  3 of 4\ncuidevices.comPACKAGING\nunits: mm\nReel Size: Ø330 mm\nReel QTY: 400 pcs per reel\nAdditional Resources:    Product Page\nCUI DEVICES  | MODEL : PJ-083AH | DESCRIPTION:  DC POWER JACK date 10/11/2023 | page  4 of 4\nCUI Devices offers a one (1) year limited warranty.  Complete warranty information is listed on our website.\nCUI Devices reserves the right to make changes to the product at any time without notice.  Information provided by CUI Devices is believed to be accurate \nand reliable.  However, no responsibility is assumed by CUI Devices for its use, nor for any infringements of patents or other rights of third parties which may \nresult from its use.\nCUI Devices products are not authorized or warranted for use as critical components in equipment that requires an extremely high level of reliability.  A \ncritical component is any component of a life support device or system whose failure to perform can be reasonably expected to cause the failure of the life \nsupport device or system, or to affect its safety or effectiveness.\ncuidevices.com\nrev. description date\n1.0 initial release 12/12/2018\n1.01 brand update 10/30/2019\n1.02 logo, datasheet style update 08/05/2022\n1.03product reengineered for improved manufacturability and production yield, see \nPCN for details10/11/2023\nThe revision history provided is for informational purposes only and is believed to be accurate.REVISION HISTORYAdditional Resources:    Product Page\n'}]
+!==============================================================================!
+### Component Summary: PJ-083AH DC Power Jack
+
+**Manufacturer:** CUI Incorporated  
+**Product Code:** PJ-083AH  
+**Description:** DC Power Jack
+
+#### Key Specifications:
+- **Voltage Ratings:** 
+  - Rated Input Voltage: 24 Vdc
+- **Current Ratings:** 
+  - Rated Input Current: 5.0 A
+- **Power Consumption:** 
+  - Not explicitly stated; however, the power can be calculated as \( P = V \times I = 24V \times 5A = 120W \).
+- **Operating Temperature Range:** 
+  - -25°C to 85°C
+- **Package Type:** 
+  - Through-hole
+- **Special Features:**
+  - 2.0 mm center pin
+  - Shielded design
+  - Includes 1 switch
+  - Life expectancy of 5,000 cycles at a rate of 10-20 cycles
+  - Flammability rating: UL94V-0
+  - RoHS compliant
+- **Moisture Sensitive Level (MSL):** 
+  - Not specified in the provided data.
+
+#### Description:
+The PJ-083AH is a DC power jack designed for reliable power connection in various electronic applications. It features a 2.0 mm center pin and is rated for a maximum input voltage of 24 Vdc and a current of 5 A. The jack is shielded to minimize electromagnetic interference and is designed for through-hole mounting on printed circuit boards (PCBs).
+
+#### Typical Applications:
+The PJ-083AH DC power jack is commonly used in:
+- Power management systems
+- Consumer electronics
+- Industrial equipment
+- Telecommunications devices
+- Any application requiring a robust and reliable power connection
+
+This component is ideal for scenarios where a stable power supply is critical, and its design allows for easy integration into various electronic devices.

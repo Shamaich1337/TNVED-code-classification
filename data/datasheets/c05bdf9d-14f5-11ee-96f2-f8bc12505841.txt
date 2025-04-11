@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SFH756V production of KINZ from the text:Data Sheet\nFeatures\n•  2.2 mm Aperture holds Standard 1000 Micron Plastic \nFiber\n•  No Fiber Stripping Required\n•  Good Linearity (Forward current > 2 mA)\n•  Molded Microlens for Efficient Coupling\nPlastic Connector Housing\n•  Mounting Screw Attached to the Connector\n•  Interference Free Transmission from light-Tight \nHousing\n•  Transmitter and Receiver can be flexibly positioned\n•  No Cross Talk\n•  Auto insertable and Wave solderable\n•  Supplied in Tubes\nApplications\n•  Household Electronics\n•  Power Electronics\n•  Optical Networks\n•  Light BarriersDescription\nThe V-housing allows easy coupling of unconnectorized \n2.2mm plastic optical fiber by means of an axial locking \nscrew.\nThe transparent plastic package has an aperture where \nthe the 2.2mm fiber-end can be inserted and fixed with \nglue. This easy coupling method is extremely cost-\neffective.The Kinz Replacement SFH756 is a low-cost transmitter\n for simple optical data transmission with polymer \noptical fiber. The 650nm LED allows for speeds up to \n10MBd.Replacement SFH756V\nPlastic Fiber Optic Transmitter Diode\nPlastic Connector Housing\n2Technical Data\nAbsolute Maximum Ratings\nParameter SymbolLimit Values\nUnit min. max.\nOperating Temperature Range TOP –40 +85 °C\nStorage Temperature Range TSTG –40 +100 °C\nJunction Temperature TJ 100 °C\nSoldering Temperature(2?mm from case bottom, t ≤ 5 s) TS 260 °C\nReverse Voltage VR 3 V\nForward Current IF 50 mA\nSurge Current (t ≤ 10 μs, D = 0) IFSM 1 A\nPower Dissipation PTOT 120 mW\nThermal Resistance, Junction/Air RthJA 450 K/W\nCharacteristics (T A = 25°C)\nParameter Symbol Value Unit\nPeak Wavelength λPeak 660 nm\nSpectral Bandwidth Δλ 25 nm\nSwitching Times (R G = 50 Ω, IF(LOW)  = 0.1mA, I F(HIGH)  = 50 mA)\n10% to 90%\n90% to 10%tR\ntF0.1\n0.1μs\nCapacitance (f = 1 MHz, V R = 0 V) CO 30 pF\nForward Voltage (I F = 50 mA) VF 2.1 (≤ 2.8) V\nOutput Power Coupled Into Plastic Fiber \n(IF = 10 mA) [1]ΦIN 200\n(≥ 100)μW\nTemperature Coefficient ΦIN TCΦ –0.4 %/K\nTemperature Coefficient V F TCV –3 mV/K\nTemperature Coefficient λPeak TCλ 0.16 nm/K\nNotes:\n1. The output power coupled into plastic fiber is measured with a large area detector after a short fiber (about 30 cm). This value must not used for \ncalculating the power budget for a fiber optic system with a long fiber because the numerical aperture of plastics fibers is decreasing on the first \nmeters. Therefore the fiber seems to have compared with the specified value a higher attenuation on the first meters.\n3Figure 1. Relative Spectral Emission I rel = f(λ) Figure 2. Forward Current I F = f(V F) single pulse, duration = 20 μs\nFigure 3. Relative Output Power, I e/Ie(50 mA)  = f(I F) single pulse,  \nduration = 20 μsFigure 4. Maximum Permissible Forward Current, I F = f(T A), R thJA  = 450 K/W\n4Figure 5. Permissible Pulse Handling Capability, I F = f(t P),  \nduty cycle D = parameter, T A = 25°C\n5Dimensions in mm\nDimensions in mmPackage Outlines\n'}]
+!==============================================================================!
+### Component Summary: SFH756V
+
+**Component Type:**  
+Plastic Fiber Optic Transmitter Diode
+
+**Description:**  
+The SFH756V is a low-cost optical transmitter designed for simple data transmission using polymer optical fibers. It features a 650 nm LED that enables data transmission speeds of up to 10 MBd. The component is housed in a transparent plastic package with a 2.2 mm aperture that allows for easy coupling of unconnectorized plastic optical fibers. The design includes an axial locking screw for secure fiber attachment, making it a cost-effective solution for various optical applications.
+
+### Key Specifications:
+
+- **Voltage Ratings:**
+  - Forward Voltage (I_F = 50 mA): 2.1 V (max 2.8 V)
+  - Reverse Voltage (V_R): 3 V
+
+- **Current Ratings:**
+  - Forward Current (I_F): 50 mA
+  - Surge Current (t ≤ 10 μs): 1 A
+
+- **Power Consumption:**
+  - Power Dissipation (P_TOT): 120 mW
+  - Output Power Coupled Into Plastic Fiber (I_F = 10 mA): 200 μW (min 100 μW)
+
+- **Operating Temperature Range:**
+  - Operating Temperature (T_OP): -40 °C to +85 °C
+  - Storage Temperature (T_STG): -40 °C to +100 °C
+  - Junction Temperature (T_J): 100 °C
+  - Soldering Temperature (TS): 260 °C (for 2 mm from case bottom, t ≤ 5 s)
+
+- **Package Type:**
+  - Plastic Connector Housing
+
+- **Special Features:**
+  - Good linearity with forward current > 2 mA
+  - Molded microlens for efficient coupling
+  - Interference-free transmission from light-tight housing
+  - Auto insertable and wave solderable
+  - Supplied in tubes
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+### Typical Applications:
+- **Household Electronics:** Used in devices requiring optical data transmission.
+- **Power Electronics:** Suitable for applications where optical isolation is needed.
+- **Optical Networks:** Ideal for short-distance data communication in fiber optic networks.
+- **Light Barriers:** Can be utilized in safety and automation systems where light detection is essential.
+
+This summary provides a comprehensive overview of the SFH756V, highlighting its key specifications and typical applications in various electronic systems.

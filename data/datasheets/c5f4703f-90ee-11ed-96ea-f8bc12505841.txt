@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 1N4148W production of YANGZHOU YANGJIE ELECTRONIC from the text:1N4148W \xa0\n\xa0\n 1 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S283 \nRev. 2.9, 16-Dec-22 www.21yangjie.com\nSmall-Signal Fast Switching Diodes  \n \n                      Features     \n●VR 75V \n●IFAV 150mA  \n \n \n                                         Typical Applications  \n● Extreme fast switches \n                           \n \n      Mechanical Data \n● Package: SOD123 \n● Terminals: Tin plated leads, solderable per  \n J-STD-002 and JESD22-B102 \n● Polarity: Cathode line denotes  the cathode end  \n● Marking:  T4 \n \n \n■ Maximum Ratings  (Ta=25℃ Unless otherwise specified) \nPARAMETER SYMBOL UNIT Conditions VALUE \nRepetitive peak reverse voltage V RRM V  100 \nReverse voltage V R V  75 \nPeak forward surge current I FSM A  Pulse width=1 us \nPulse width=1 s 2 \n0.5 \nRepetitive peak forward current I FRM mA  300 \nAverage forward current I FAV mA  150 \nPower dissipation PD mW  400 \nMaximum junction temperature Tj ℃  -55 ~+150 \nStorage temperature range T stg ℃  -55 ~+150 \nThermal Resistance Junction to Ambient Air  RθJA ℃/W  315 \n \n■ Electrical Characteristics (Ta=25℃ Unless otherwise specified) \nPARAMETER Symbol UNIT Conditions Min Max \nBreakdown Voltage  VR V  I R=10uA  100  \nForward Voltage  V F V  IF=10mA  \nIF=100mA   1.00 \n1.25 \nReverse Leakage Current IR1 n A  V R=20V  25 \nIR2 u A  VR=75V  1 \nCapacitance C  pF V R=0V,f=1MHz  4 \nReverse Recovery Time T RR n s  IF=10mA，VR=6V，Irr=1mA, \nRL=100Ω   4  \n COMPLIANT RoHS  \n\n1N4148W \xa0\n\xa0\n 2 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S283 \nRev. 2.9, 16-Dec-22 www.21yangjie.com\n■ Ordering Information  (Example) \nPREFERED P/N PACKING  \nCODE UNIT WEIGHT(g)MINIMUM \nPACKAGE(pcs)INNER BOX \nQUANTITY(pcs)OUTER CARTON \nQUANTITY(pcs) DELIVERY MODE\n1N4148W F2 Approximate 0.011 3000 30000 120000 7” reel \n \n■ Characteristics  (Typical) \n \n \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n     \n  \n \n  \n\n1N4148W \xa0\n\xa0\n 3 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S283 \nRev. 2.9, 16-Dec-22 www.21yangjie.com\n■ Outline Dimensions  \n \n\xa0\n \n \n  \n \n     \n \n     \n \n  ■ Soldering Footprint \n \n  \n \n \n    \n \n     \n \n     \n \n     \n \n \n\n1N4148W \xa0\n\xa0\n 4 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S283 \nRev. 2.9, 16-Dec-22 www.21yangjie.com\nDisclaimer \n \nThe information presented in this  document is for reference onl y. Yangzhou Yangjie Electronic Technology Co., Ltd. reserves th e \nright to make changes without not ice for the specification of t he products displayed herein to improve reliability, function o r design \nor otherwise.     The product listed herein is designed to be used with ordinary electronic equipment or devices, and not designed to be used wi th \nequipment or devices which require high level of reliability an d the malfunction of with woul d directly endanger human life (s uch as \nmedical instruments, transportat ion equipment, aerospace machin ery, nuclear-reactor controller s, fuel controller s and other sa fety \ndevices), Yangjie or anyone on its behalf, assumes no responsib ility or liability for any damages resulting from such improper  use \nof sale.    This publication supersedes & r eplaces all information previous ly supplied. For additional information, please visit our websi te \nhttp:// www.21yangjie.com  , or consult your nearest Yangjie’s sales office for further a ssistance. \n \n \n'}]
+!==============================================================================!
+### Component Summary: 1N4148W
+
+**Manufacturer:** Yangzhou Yangjie Electronic Technology Co., Ltd.  
+**Product Code:** 1N4148W  
+**Type:** Small-Signal Fast Switching Diode
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Repetitive Peak Reverse Voltage (V_RRM): 100 V
+  - Reverse Voltage (V_R): 75 V
+- **Current Ratings:**
+  - Average Forward Current (I_FAV): 150 mA
+  - Repetitive Peak Forward Current (I_FRM): 300 mA
+  - Peak Forward Surge Current (I_FSM): 2 A (1 ms pulse), 0.5 A (1 s pulse)
+- **Power Consumption:**
+  - Power Dissipation (P_D): 400 mW
+- **Operating Temperature Range:**
+  - Maximum Junction Temperature (T_j): -55°C to +150°C
+  - Storage Temperature Range (T_stg): -55°C to +150°C
+- **Package Type:**
+  - SOD123
+- **Special Features:**
+  - Fast switching capability
+  - Tin plated leads, solderable per J-STD-002 and JESD22-B102
+  - Cathode line denotes the cathode end
+- **Moisture Sensitive Level:** Compliant with JEDEC J-STD-020E
+
+#### Description:
+The 1N4148W is a small-signal fast switching diode designed for high-speed switching applications. It is characterized by its ability to handle moderate current levels while providing a high reverse voltage rating, making it suitable for various electronic circuits.
+
+#### Typical Applications:
+- **Extreme Fast Switching:** The diode is commonly used in applications requiring rapid switching, such as in digital circuits and signal processing.
+- **Rectification:** It can be utilized in rectifier circuits for converting AC to DC.
+- **Clamping and Protection:** The 1N4148W is often employed in clamping circuits to protect sensitive components from voltage spikes.
+- **General Purpose:** It serves as a general-purpose diode in various electronic devices, including power management systems and signal conditioning circuits.
+
+This summary provides a comprehensive overview of the 1N4148W diode, highlighting its key specifications and typical applications in electronic design.

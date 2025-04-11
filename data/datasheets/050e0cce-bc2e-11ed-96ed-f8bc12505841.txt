@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 28LB-BP-36720-37120_Cu production of AINFO from the text: \n \n  \n  \n   \nRoom201,Zone7.No.2666 \nKongGang 4th Road,Shuangliu  \ndist. 610200 CHENG DU \nTel: +86-28-8519-2786\nFax: +86-28-8519-3068\nWebsite: www.ainfoinc.com   Email: Sales@ainfoinc.comWR28 Band Pass Filter \n \nP/N: 28LB-BP-36720-37120_Cu  \nCenter Freq.  36.92GHz \n3dB Bandwidth 400MHz Min. \nInsertion Loss @ Center Freq.  0.5dB Max. \nRejection 40dB Min. @ 36.02GHz & 37.82GHz \nVSWR 1.4 Max. \nPower Handling 100W Max. \nWaveguide WR28 \nFlange FBP320 \nMaterial Cu \n         A-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n'}]
+!==============================================================================!
+### Component Summary: WR28 Band Pass Filter (P/N: 28LB-BP-36720-37120_Cu)
+
+#### Key Specifications:
+- **Center Frequency:** 36.92 GHz
+- **3dB Bandwidth:** 400 MHz Minimum
+- **Insertion Loss @ Center Frequency:** 0.5 dB Maximum
+- **Rejection:** 40 dB Minimum at 36.02 GHz & 37.82 GHz
+- **Voltage Ratings:** Not specified (typically not applicable for passive components like filters)
+- **Current Ratings:** Not specified (typically not applicable for passive components like filters)
+- **Power Handling:** 100 W Maximum
+- **VSWR (Voltage Standing Wave Ratio):** 1.4 Maximum
+- **Operating Temperature Range:** Not specified (check manufacturer for details)
+- **Package Type:** Waveguide WR28
+- **Flange Type:** FBP320
+- **Material:** Copper (Cu)
+- **Moisture Sensitive Level (MSL):** Not specified (check manufacturer for details)
+
+#### Description:
+The WR28 Band Pass Filter (P/N: 28LB-BP-36720-37120_Cu) is a passive microwave component designed to allow signals within a specific frequency range to pass while attenuating signals outside that range. It is constructed using copper material and is designed for use in waveguide applications, specifically in the WR28 waveguide standard.
+
+#### Typical Applications:
+This band pass filter is typically used in high-frequency communication systems, radar systems, and other microwave applications where selective frequency filtering is required. It is particularly useful in applications such as:
+- **Telecommunications:** To filter out unwanted frequencies and allow only the desired signal to pass through.
+- **Radar Systems:** To enhance signal clarity by rejecting out-of-band signals.
+- **Test Equipment:** In laboratory settings for signal processing and analysis.
+- **Satellite Communication:** To ensure that only specific frequency bands are utilized for transmission and reception.
+
+This component is essential for maintaining signal integrity and performance in high-frequency applications.

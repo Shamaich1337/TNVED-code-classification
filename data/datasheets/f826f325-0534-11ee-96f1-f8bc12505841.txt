@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TC-40180-10S production of TALENT MICROWAVE from the text:Suzhou Talent Microwave Inc.  \nsales@TalentMW.com  \nwww.TalentMW.com   \n© 2014 Talent Microwave  外形尺寸 Outline  Drawing :  10dB Directional Coupler  SMA - Female 50Ω  4000 -18000MHz   \n \n \n工作频率  Frequency Range:  4-18GHz                \n耦合度  Coupling:  10±1.0dB  \n插入损耗  Insertion Loss:  ≤1.0dB  \n驻波     VSWR:   ≤1.5:1   \n方向性   Directivity:  ≥12dB  \n耐功率    Power Handling:  30Watt   \n阻抗      Impedance:  50Ω Part  No.: TC-40180 -10S \n温度范围 Temperature Range:        -40°C - +80°C \n接口 Connectors:          SMA -Female  \n相对湿度 Relative Humidity:            0 ~ 90%  电气特性   Electrical :  \n机械特性   Mechanical:  \nUnit:  mm  \n\nSuzhou Talent Microwave Inc.\nsales@TalentMW.com\nwww.TalentMW.com  \n© 2014 Talent Microwave\n\n'}]
+!==============================================================================!
+### Component Summary for TC-40180-10S
+
+**Component Type:**  
+10dB Directional Coupler
+
+**Manufacturer:**  
+Suzhou Talent Microwave Inc.
+
+**Key Specifications:**
+
+- **Frequency Range:** 4 - 18 GHz
+- **Coupling:** 10 ± 1.0 dB
+- **Insertion Loss:** ≤ 1.0 dB
+- **VSWR (Voltage Standing Wave Ratio):** ≤ 1.5:1
+- **Directivity:** ≥ 12 dB
+- **Power Handling:** 30 Watts
+- **Impedance:** 50 Ω
+- **Temperature Range:** -40°C to +80°C
+- **Connectors:** SMA - Female
+- **Relative Humidity:** 0% to 90%
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Description:**  
+The TC-40180-10S is a 10dB directional coupler designed for microwave applications. It allows for the sampling of a portion of the signal power traveling in a transmission line while maintaining a high level of isolation between the input and output ports. This component is particularly useful in RF and microwave systems for monitoring and measuring signal levels.
+
+**Typical Applications:**  
+- **Signal Monitoring:** Used in systems where it is necessary to monitor the power levels of RF signals without interrupting the main signal path.
+- **Test Equipment:** Commonly found in laboratory setups for testing and measurement of RF components and systems.
+- **Communication Systems:** Employed in various communication systems to ensure signal integrity and performance.
+- **Power Management:** Helps in managing and distributing power in RF circuits, ensuring that signals are properly routed and monitored.
+
+This summary provides a clear overview of the TC-40180-10S directional coupler, highlighting its key specifications and typical applications in the field of microwave technology.

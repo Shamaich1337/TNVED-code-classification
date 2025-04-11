@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-WiFi-505P-3mSMA production of MG ANTENNAS from the text:Special for MACRO GROU P    E-mail: wireless@macrogroup.ru     Tel: +7 (8 12) 370 60 70  \n1 \n \n \n \nPRODUCT DATASHEET  \n MODEL:    MMMGGG---WWWiiiFFFiii---555000555PPP---333mmmSSSMMMAAA   wwwiiittthhh   lllooogggooo   \nType  Wi-Fi External Antenna  \nFrequencies  2400~2500 MHz \nMounting  Adhesive / Patch  \nBrand Name  MG ANTENNAS  \n \n \n \n \n \nRevision # Content  Page  Date  \n0 First, document  - 12.01.2022 \n \n \n \n \n2 \n 1. SPECIFICATION  \n1.1 Electrical Specifications  \n \n 1.2 Mechanical  and Environmental Specification  \nCable  (type and length )  RG17 4, 3m or other * \nConnector  SMA  male  Nickel  or other * \nH.S T ube Heat shrink tube  \nShell material , Color  ABS Black  \nMounting Type  3M Glue  \nDimensions  116 * 21.5 mm \nOperating / Storage  \nTemperature  - 45˚C ~ + 8 5˚C \nSubstance Compliance  RoHS  \n * Customizable Cable and Connector   \n2. DIMENSIONS  \n Frequency  2400~2500 MHz \nPolari zation  Vertical  \nGain  2.5DBi \nVSWR  2 :1 \nImpedance  50 Ω \nRadiation  Omnidirectional  \nMax power   25W \n'}]
+!==============================================================================!
+### Component Summary: MG-WiFi-505P-3mSMA
+
+#### Key Specifications:
+- **Type**: Wi-Fi External Antenna
+- **Frequencies**: 2400 ~ 2500 MHz
+- **Gain**: 2.5 dBi
+- **VSWR (Voltage Standing Wave Ratio)**: 2:1
+- **Impedance**: 50 Ω
+- **Radiation Pattern**: Omnidirectional
+- **Max Power**: 25 W
+- **Cable Type**: RG17, 3m (customizable)
+- **Connector**: SMA male (Nickel or customizable)
+- **Mounting Type**: Adhesive / Patch (3M Glue)
+- **Shell Material**: ABS (Black)
+- **Dimensions**: 116 mm x 21.5 mm
+- **Operating Temperature Range**: -45°C to +85°C
+- **Storage Temperature Range**: -45°C to +85°C
+- **Substance Compliance**: RoHS
+- **Moisture Sensitive Level**: Not specified in the provided data.
+
+#### Description:
+The MG-WiFi-505P-3mSMA is an external Wi-Fi antenna designed for enhancing wireless communication in the 2.4 GHz frequency band. It features an omnidirectional radiation pattern, allowing it to receive and transmit signals from all directions, making it suitable for various applications where broad coverage is required. The antenna is constructed with durable ABS material and is designed for easy installation using a strong adhesive mount.
+
+#### Typical Applications:
+- **Wireless Networking**: Ideal for improving Wi-Fi signal strength in residential or commercial environments.
+- **IoT Devices**: Suitable for Internet of Things applications where reliable wireless connectivity is essential.
+- **Consumer Electronics**: Can be used in devices such as routers, access points, and other wireless communication devices.
+- **Remote Monitoring Systems**: Effective in applications requiring stable wireless communication over extended distances.
+
+This antenna is particularly useful in scenarios where space is limited, and a compact, efficient solution is needed to enhance wireless connectivity.

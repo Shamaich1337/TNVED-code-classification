@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CVCO55BE-1690-1810 production of CRYSTEK CORPORATION from the text:MIN TYP UNITS MAX PERFORMANCE SPECIFICATION\nMHz pk-pkLower Frequency:\nUpper Frequency:\nTuning Voltage:\nSupply Voltage:\nOutput Power:\nSupply Current:\nHarmonic Suppression (2ndHarmonic):\nPushing:\nPulling, all Phases:\nTuning Sensitivity:\nInput Capacitance:\nStorage Temperature Range:Operating Temperature Range:Load Impedance:Phase Noise @ 10kHz offset:MHz\nMHz\nVDC\nVDC\ndBm\nmA\ndBc\nMHz/V\nMHz/V\ndBc/Hz\npF\n°C\n°C1690\n1810\n4.5 0.5\n4.75 5.0 5.25\n+5.0\n35\n-15\n50\n-106\n50\n22\n-40\n-45+85\n+90+7.0 +3.0\n1.00.5\nPhase Noise @ 100kHz offset: -128 dBc/Hz -1261.0\n2.025\n-10\n12730 Commonwealth Drive • Fort Myers, Florida 33913\nPhone: 239-561-3311 • 800-237-3061\nFax: 239-561-1025 • www.crystek.comCRYSTEKCORPORATIONMICROWAVE\nA Division of Crystek Corporation\n-104\nPage 1 of 2Phase Noise (1 Hz BW, Typical) Tuning Curve (Typical)\n\n13\n1415\n16\n12349 10 11 12\n0.000\n0.115\n0.2150.315\n0.415\n0.5000.3800.2800.1800.080\n0.500\n5678\n0.1050.2050.3050.405 0.415\n0.315\n0.215\n0.115\n0.000PAD LOCATION0.500\n(12.70)\n0.500\n(12.70)\nTOP ORIENTATION MARKTOP VIEW\nCRYSTEK\nCVCO55BE\n1690-1810\nYYWWBOTTOM VIEW\n[RF]\n[Vt]0.030\n(0.76)\n0.025\n(0.64) 0.040\n(1.02)0.052\n(1.32)0.465 SQ\n(11.81 SQ)SIDE VIEW\n0.100\n(2.54)\n0.150\n(3.81)\nProduct Control:\nCrystek Part Number:\nRevision Level:Release Date:\nResponsible: A C. Vales12-May-08 CVCO55BE-1690-1810Pad Connection\n2\n1014\nOthers Vt\nRF-OUTPUT\nVcc\nGROUND \nUnless otherwise specified, \nDimensions are in: IN \n(mm) \nPad Location \nDimensions are in: InchesGold Finish\nSpecification is subjec t to change without noticeSolder Mask\nBOTTOM ORIENTATION MARK[Vcc]\n12730 Commonwealth Drive • Fort Myers, Florida 33913\nPhone: 239-561-3311 • 800-237-3061\nFax: 239-561-1025 • www.crystek.comCRYSTEKCORPORATIONMICROWAVE\nA Division of Crystek Corporation\nTAPE AND REEL\nDIRECTION OF FEED\nDrawing not to scale0.157±0.004\n(4.00±0.10)0.059 Ø TYP\n(1.50 Ø) TYP\n0.945±0.012\n(24.00±0.30)\n0.630±0.004\n(16.00±0.10)\nPage 2 of 2\n'}]
+!==============================================================================!
+### Component Summary: CVCO55BE-1690-1810
+
+**Description:**
+The CVCO55BE-1690-1810 is a voltage-controlled oscillator (VCO) produced by Crystek Corporation. It operates within the frequency range of 1690 MHz to 1810 MHz and is designed for applications requiring precise frequency generation. VCOs are critical components in RF (radio frequency) systems, where they are used to generate signals that can be modulated for various communication purposes.
+
+**Key Specifications:**
+- **Lower Frequency:** 1690 MHz
+- **Upper Frequency:** 1810 MHz
+- **Tuning Voltage:** 4.5 V to 5.25 V
+- **Supply Voltage:** +5.0 V DC
+- **Output Power:** +35 dBm
+- **Supply Current:** 50 mA
+- **Harmonic Suppression (2nd Harmonic):** -15 dBc
+- **Pushing:** 7.0 MHz/V
+- **Pulling (all Phases):** 3.0 MHz/V
+- **Tuning Sensitivity:** 1.0 MHz/V
+- **Input Capacitance:** 22 pF
+- **Operating Temperature Range:** -40 °C to +85 °C
+- **Storage Temperature Range:** -45 °C to +90 °C
+- **Load Impedance:** 50 Ohms
+- **Phase Noise @ 10 kHz offset:** -106 dBc/Hz
+- **Phase Noise @ 100 kHz offset:** -128 dBc/Hz
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+**Typical Applications:**
+The CVCO55BE-1690-1810 is typically used in:
+- **RF Communication Systems:** For generating carrier signals in transmitters and receivers.
+- **Signal Processing:** In applications where precise frequency control is necessary.
+- **Telecommunications:** For frequency synthesis in mobile and satellite communication systems.
+- **Test Equipment:** Used in RF test setups for signal generation and analysis.
+
+This VCO is ideal for applications that require high-frequency stability and low phase noise, making it suitable for advanced communication systems and RF applications.

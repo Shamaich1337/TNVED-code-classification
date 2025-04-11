@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PLP5-2-125 production of BIVAR from the text:www.bivar.com 14 cage code (FSCM) 32559 © copyright 2004 Bivar Inc.\nrigid light pipes\nPanel Light Pipes\n• Dual-Lens Geometry\n• Improved Lighting Intensity• PLP5 Series Panel Light Pipes Press Fit into Panel• Available in Lengths from 0.125"-1.50"in increments of 0.125"• No Additional Hardware or Special Tools Required for Installation\nPLP5-XXX\nPLP5-2-XXXPart No.\nPLP5 Series PLP5-2 Series X=Length Price Code\nPLP5-125 PLP5-2-125 .125 (3.2) E\nPLP5-250 PLP5-2-250 .250 (6.4) E\nPLP5-350 PLP5-2-350 .350 (8.9) E\nPLP5-375 PLP5-2-375 .375 (9.5) E\nPLP5-500 PLP5-2-500 .500 (12.7) E\nPLP5-625 PLP5-2-625 .625 (15.9) E\nPLP5-750 PLP5-2-750 .750 (19.0) E\nPLP5-1000 PLP5-2-1000 1.000 (25.4) E\nPLP5-1250 PLP5-2-1250 1.250 (31.8) E\nPLP5-1500 PLP5-2-1500 1.500 (38.1) ENote:\nStandard, leave blank for clear, Price Code: EDyed Color, Price Code: L\nRED: RD\nGREEN: GNBLUE: BEYELLOW: YW\nPanel Light Pipes, Rear Mount,\nStandard Color: ClearColor: See Chart\nPanel Light Pipes, Front Mount,Low Profile, Round FaceStandard Color: ClearColor: See Chart\n'}]
+!==============================================================================!
+### Component Summary: PLP5-2-125 by Bivar
+
+**Component Type:** Rigid Light Pipe
+
+**Description:**
+The PLP5-2-125 is a rigid light pipe designed for panel applications. It features a dual-lens geometry that enhances lighting intensity, making it suitable for various lighting applications. The light pipe is designed to press fit into panels, allowing for easy installation without the need for additional hardware or special tools. The PLP5-2-125 variant specifically has a length of 0.125 inches (3.2 mm).
+
+**Key Specifications:**
+- **Voltage Ratings:** Not applicable (light pipes do not have voltage ratings as they are passive optical components).
+- **Current Ratings:** Not applicable (light pipes do not have current ratings).
+- **Power Consumption:** Not applicable (light pipes do not consume power).
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Rigid light pipe.
+- **Special Features or Notes:** 
+  - Dual-lens geometry for improved lighting intensity.
+  - Press-fit installation into panels.
+  - Available in various lengths from 0.125" to 1.50" in increments of 0.125".
+  - Standard color is clear, with options for dyed colors (red, green, blue, yellow).
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Typical Applications:**
+The PLP5-2-125 light pipe is typically used in applications where light needs to be transmitted from a light source to a visible area on a panel. Common applications include:
+- Indicator lights in electronic devices.
+- Control panels for machinery and equipment.
+- Automotive dashboard lighting.
+- Consumer electronics where visual feedback is required.
+
+This component is ideal for enhancing visibility and aesthetics in various electronic and industrial applications, providing a reliable solution for light transmission without the need for complex installation processes.

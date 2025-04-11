@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of PICIR-1550-3-B-10-FA production of SEAGNOL PHOTONICS CO., LTD from the text:Application:\nSpecification:\nUnit\nnm\nnm\ndB\ndB\ndB\ndB\ndB\nps\ndB\ndB\ndB\nmW\nN\n-\n℃\n℃\nmm\nNotice: Above specifications are tested at center wavelength without connector in room temperature @23 ℃.\n             For devices with connectors, IL will be 0.3dB higher, RL will be 5dB lower.\nDrawing:\nOrdering Information (Part Number):\n WWWW  P  LL  CC\n Wavelength  Port  Fiber Jacket  Fiber Length  Connector\n 1310  - 1310nm  3 - 3 Ports  B - 250um Bare Fiber  05 - 0.5m  NE - None\n 1450 - 1450nm  9 - 900um Loose Tube  10 - 1.0m  FA - FC/APC\n 1480 - 1480nm  15 - 1.5m  FU - FC/UPC\n 1550 - 1550nm  20 - 2.0m  SA - SC/APC\n 1580 - 1580nm      SS - Specify  SU - SU/APC\n LA - LC/APC\n  LU - LC/UPC\n SS - Specify\nsales@seagnol.com Page 1 of 1 PICIR- WWWW-P-J-LL-CC\n JStorage Temperature T -40~85\nPackage Dimension Φ5.5×L50Fiber Type SMF-28e fiber\nOperating Temperature T 0~70Max. Optical Power (CW) P 500\nMax. Tensil Load 5Min. Directivity 50\nMin. Return Loss RL 50Max. Polarization Mode Dispersion PMD 0.1\nMin. Cross Talk Ct 50Min. Isolation (Port 2 to 1, 3 to 2) Iso 40\nMax. Polarization Dependent Loss PDL 0.15Max. Insertion Loss (Port 1 to 2, 2 to 3) IL 0.8\nTyp. Isolation (Port 2 to 1, 3 to 2) Iso 50Bandwidth BW ± 30\nTyp. Insertion Loss (Port 1 to 2, 2 to 3) IL 0.6Parameter Symbol Value\nCenter Wavelength λ 1550       www.seagnol.com\n1550nm 3-port Polarization Insensitive Optical Circulator\n    1550nm 3-port Polarization Insensitive Optical Circulator is a fiber passive component built with SM fiber, which can change\nsignal light transmission path, the signal can be delivered from Port 1 to Port 2, the other signal light from Port 2 to Port 3, the\nhigh isolation can block the back reflection light. It's widely used in WDM System, Fiber Optic Sensor and Coherent Detecting\nfield. High Power type is available upon request.\nFeatures:\nFiber Optic Sensor\nCWDM, DWDM System\nCoherent Detecting\nFiber Optic AmplifierLow PDL\nHigh Isolation\nLow Insertion Loss\nHigh Reliability\nPort 3Port 1Port 2\n50mm5.5mm\nPort 2Port 1 Port 3\n                     \n"}]
+!==============================================================================!
+### Component Summary: PICIR-1550-3-B-10-FA
+
+**Description:**
+The PICIR-1550-3-B-10-FA is a 1550nm 3-port Polarization Insensitive Optical Circulator manufactured by Seagnol Photonics Co., Ltd. This fiber passive component is designed to change the signal light transmission path, allowing signals to be routed from one port to another while providing high isolation to block back reflection light. It is built using SMF-28e fiber and is suitable for various optical applications.
+
+**Key Specifications:**
+- **Center Wavelength:** 1550 nm
+- **Operating Temperature Range:** 0 to 70 °C
+- **Storage Temperature Range:** -40 to 85 °C
+- **Max Optical Power (CW):** 500 mW
+- **Max Tensile Load:** 5 N
+- **Min Directivity:** 50 dB
+- **Min Return Loss (RL):** 50 dB
+- **Max Polarization Mode Dispersion (PMD):** 0.1 ps
+- **Min Cross Talk (Ct):** 50 dB
+- **Min Isolation (Port 2 to 1, 3 to 2):** 40 dB
+- **Max Polarization Dependent Loss (PDL):** 0.15 dB
+- **Max Insertion Loss (IL) (Port 1 to 2, 2 to 3):** 0.8 dB
+- **Typ. Insertion Loss (IL) (Port 1 to 2, 2 to 3):** 0.6 dB
+- **Bandwidth:** ± 30 nm
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided data.
+
+**Package Type:**
+- **Dimensions:** Φ5.5 × L50 mm
+- **Fiber Type:** SMF-28e fiber
+
+**Special Features:**
+- Low Polarization Dependent Loss (PDL)
+- High Isolation
+- Low Insertion Loss
+- High Reliability
+- Suitable for high power applications upon request
+
+### Typical Applications:
+The PICIR-1550-3-B-10-FA is commonly used in:
+- **Wavelength Division Multiplexing (WDM) Systems:** Facilitates the transmission of multiple signals over a single fiber.
+- **Fiber Optic Sensors:** Used in sensing applications where signal integrity is crucial.
+- **Coherent Detection Systems:** Enhances the performance of coherent optical communication systems.
+- **Fiber Optic Amplifiers:** Supports amplification of optical signals in fiber networks.
+
+This optical circulator is essential for improving signal routing and minimizing losses in various fiber optic applications, making it a valuable component in modern optical communication systems.

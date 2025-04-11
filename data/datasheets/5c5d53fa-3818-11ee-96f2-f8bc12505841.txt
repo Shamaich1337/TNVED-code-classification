@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TG310J34GBNR production of AMPHENOL from the text:NTC thermistor\nGlass sealed radial type \nthermistor\nAmphenol offers an innovative solution, \ni.e. glass sealed NTC thermistor series \nfeatures high temperature resistance \nand accuracy\nFeatures\n•Glass -sealed bead type\n•High temperature resistance up to \n+300℃\n•Chip type element is used\n•Short response time\n•Water & Oil proof design\nApplications\n•Automotive (water, oil & air \ntemperature sensing)\n•Heating / Cooling device\n•Boiler system\n•Appliance\nStandard Specifications\n•Thermal time constant : 5 sec. approx. (in still air)\n•Dissipation constant : 0.75 mW/℃approx. (in still air)\n•Operating t emperature : -40℃∼+300℃Dimensions\nD Hd\n(dumet )L\nΦ 1.3 2.2 Φ 0.2 65Type TG\nSpecifications\nPart No. R25 ( Ω) B (25/50)Operating temp. \n(max.)\nTG250J34GBNR 5K ±5% 3434K ±2% +300℃\nTG310J34GBNR 10K ±5% 3434K ±2% +300℃\nWire : NR ( dumet )\nCenter temperature : B (25℃)\nTolerance of B constant : G(±2%)\nB constant : 3434K\nTolerance of resistance : J(±5%) \nResistance at 25 ℃: 250 = 50 x 102= 5kΩ, 310 = 10x103= 10kΩ\nGlass sealed radial type thermistorPart No .\nTG  250 J  34 G B NR(unit :mm)\nHD\nd\nL\n'}]
+!==============================================================================!
+### Component Summary for TG310J34GBNR
+
+**Component Type:**  
+NTC Thermistor (Negative Temperature Coefficient Thermistor)
+
+**Description:**  
+The TG310J34GBNR is a glass-sealed radial type NTC thermistor designed for high-temperature applications. It features a chip-type element that provides high accuracy and a short response time, making it suitable for various temperature sensing applications.
+
+### Key Specifications:
+- **Voltage Ratings:** Not specified in the provided text.
+- **Current Ratings:** Not specified in the provided text.
+- **Power Consumption:** Dissipation constant of approximately 0.75 mW/°C (in still air).
+- **Operating Temperature Range:** -40°C to +300°C.
+- **Package Type:** Glass-sealed bead type.
+- **Special Features:**
+  - High temperature resistance up to +300°C.
+  - Water and oil-proof design.
+  - Short response time.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+### Typical Applications:
+- **Automotive:** Used for sensing water, oil, and air temperatures.
+- **Heating/Cooling Devices:** Employed in systems that require precise temperature monitoring.
+- **Boiler Systems:** Utilized for temperature regulation and monitoring.
+- **Appliances:** Integrated into various household appliances for temperature sensing.
+
+### Additional Information:
+- **Thermal Time Constant:** Approximately 5 seconds (in still air).
+- **Resistance at 25°C (R25):** 10KΩ ±5%.
+- **B Constant (B (25/50)):** 3434K ±2%.
+- **Tolerance of B Constant:** ±2%.
+- **Tolerance of Resistance:** ±5%.
+
+The TG310J34GBNR thermistor is ideal for applications requiring reliable temperature measurement in harsh environments, thanks to its robust design and high-temperature capabilities.

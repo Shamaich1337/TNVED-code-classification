@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 03T-JWPF-VSLE-S production of JST from the text:1\x13 \x18\x0f\x16 \x15\x0f\x16\x12\x16\x0f\x13\n\x17 \x15\x0f\x16\x12\x12\x0f\x18Tab contact\nReceptacle contactTab contact: Phosphor bronze, tin-plated (reflow treatment)\nReceptacle contact: Copper alloy, tin-plated (reflow treatment)Material and FinishModel No.\nmm2 AWG #Insulation \nO.D.\n(mm)Applicable wire\nQ\'ty /\nreel Tab contactReceptacle\ncontact\nSWPT-001T-P025 SWPR-001T-P025 0.13ʙ0.33 26 ʙ22 1.4ʙ1.7 8,200\nRoHS compliance\nNote: Contact JST for brass products.\nSWPT-001T-P025\nSWPR-001T-P025ContactCrimping\nmachine Crimp applicator with dies\n"1\x0e,\x13/.,\x104813\x105\x0e\x11\x11\x12\x0e\x11\x13\x16\x01\nʵ\x01Crimp applicator Dies\n.,4\x0e-\x01\nʵ\x01"1-.,\x014813\x105\x11\x11\x12\x0e\x11\x13\x16\x01\nʵ\x01Applicator\nApplicable for waterproof usage. This is\nthe wire-to-wire connector that is grade 7ingress protection of JIS C 0920 (IEC 60529 IPX7). \n• Waterproof grade\n• Contained seal ring • Solid rubber seal• Double-spring construction• Housing-to-terminal locks• Inner-housing lockSpecifications –––––––––––––––––––\n• Current rating:  3A AC, DC (AWG #22)\n• Voltage rating:  100V AC, DC• Temperature range:  -55˚C to +85˚C\n(including temperature rise in applying\nelectrical current)\n• Contact resistance:  Initial value/ 10m Ωmax. \nAfter environmental testing/ 15m Ωmax. \n• Insulation resistance:  1,000M Ωmin. \n• Withstanding voltage:  1,000V AC/minute • Applicable wire:  AWG #26 to #22\n0.13 to 0.33mm\n2\nInsulation O.D./ 1.4 to 1.7mm\n• Waterproof grade:   Grade 7 ingress protection \nof JIS C 0920(IEC 60529 IPX7)\n*Compliant with RoHS.\n*Refer to "General Instruction and Notice when using \nTerminals and Connectors" at the end of this catalog.\n* Contact JST for details.\nStandards ––––––––––––––––––––––\n0Recognized E60389JWPF  CONNECTOR\n2.0mm pitch/Crimp style wire-to-wire connectors\n30.2\nJST\x15\x15\nContact \n2JWPF CONNECTOR\nMaterial: PBT, UL94V-0, natural (white) \nQ\'ty /\nbagQ\'ty /\nbag\nQ\'ty /\nbagQ\'ty /\nbag\nQ\'ty /\nbagQ\'ty /\nbag02T-JWPF-VSLE-S ɹ\x01\n03T-JWPF-VSLE-S\n04T-JWPF-VSLE-S02R-JWPF-VSLE-S ɹ\x01\n03R-JWPF-VSLE-S ɹ\x01\n04R-JWPF-VSLE-S ɹ\x01\nQ\'ty /\nbagQ\'ty /\nbag2\n3\n4\n6\n806T-JWPF-VSLE-D 06R-JWPF-VSLE-D ɹ\x01\nQ\'ty /\nbagQ\'ty /\nbag08T-JWPF-VSLE-D 08R-JWPF-VSLE-D ɹ\x01Circuits 5BC\x01IPVTJOH\x01\tGPS\x01 5BC\x01DPOUBDU\n Receptacle housing \x01\tGPS\x01Receptacle contact)\n1,000\n1,000\n1,000\n1,000\n1,0001,000\n1,000\n1,000\n1,000\n1,00028.1\n725.8\n925.8\n28.4\n28.4 25.8\n11225.8 12.8\n4\n9.82412.1 25.8\n11\n27\n5.516.56.7\n7\n5.516.528.7\n210.77\n5.516.5\n11\n9.516.5248.7\n210.711\n9.516.5\n4\nRoHS compliance\nNote: 1. Receptacle housing comes with seal rubber plate.\n2. Tab housing comes with seal rubber plate, seal ring and seal ring holder.Housing \n'}]
+!==============================================================================!
+### Component Summary: 03T-JWPF-VSLE-S
+
+#### Key Specifications:
+- **Voltage Rating:** 100V AC, DC
+- **Current Rating:** 3A AC, DC (for AWG #22)
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range:** -55°C to +85°C (including temperature rise during operation)
+- **Package Type:** Wire-to-wire connector with a 2.0mm pitch
+- **Special Features:**
+  - Waterproof grade: Grade 7 ingress protection (JIS C 0920 / IEC 60529 IPX7)
+  - Contains a seal ring and solid rubber seal
+  - Double-spring construction for secure connections
+  - Housing-to-terminal locks and inner-housing lock
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The **03T-JWPF-VSLE-S** is a wire-to-wire connector designed for reliable electrical connections in various applications. It features crimp-style contacts and is constructed from materials that ensure durability and resistance to environmental factors. The connector is particularly noted for its waterproof capabilities, making it suitable for use in harsh conditions.
+
+#### Typical Applications:
+This connector is typically used in applications where secure and waterproof electrical connections are critical. Common uses include:
+- Automotive wiring harnesses
+- Outdoor electronic devices
+- Industrial equipment
+- Consumer electronics that require moisture protection
+- Any application requiring reliable connections in environments exposed to water or humidity
+
+Overall, the **03T-JWPF-VSLE-S** connector is ideal for applications that demand both electrical reliability and protection against environmental factors.

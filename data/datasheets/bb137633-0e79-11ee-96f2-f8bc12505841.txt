@@ -1,0 +1,69 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of QWSD-34-K2Z production of QUALWAVE INC from the text:WaveguideSwitch\nQualwaveInc. +86-28-6115-4929 sales@qualwave.com www.qualwave.com Rev1.2\n1QWSD-34\nDPDT,22~33GHz,WR-34\nFeatures: Applications:\n*LowVSWR *Wireless\n*HighIsolation *Transmitter\n*LowInsertionLoss *LaboratoryTest\n*Radar\nElectrical\nFrequency:22~33GHz\nInsertionLoss:0.15dBmax.\nVSWR:1.1max.\nIsolation:55dBmin.\nVoltage:24VDCtyp.\nCurrent:2.6A@24VDC\nMechanical\nInterface:WR-34(BJ260)\nOperationLife:0.1MCycles\nSwitchingTime:50mS\nEnvironmental\nOperatingTemperature:-40~+85℃\nExtendedTemperature:-55~+85℃\nNon-operatingtemperature:-55~+105℃\nPinNumbering\nPin Function Pin Function\nA VDC D Indicator1\nB GND E COM(Indicator)\nC VDC F Indicator2\nControlLogic\nPositionABCRFWorkingConditionIndicatorstatus\nPOS1VDCGNDNCPORT1-PORT2ON\nPORT3-PORT4OND-EON\nF-EOPEN\nPOS2NCGNDVDCPORT1-PORT4ON\nPORT3-PORT2OND-EOPEN\nF-EONOutlineDrawings\nUnit:mm[in]\nTolerance:±0.2mm[±0.008in]\nAdditionalOptions\nTTL:T\nIndicators:I\nExtendedTemperature:Z\nHowToOrder\nQWSD-34-XYZ\nX:Voltage.+15V:F,+24V:K.\nY:InterfaceCircularconnector:2.\nZ:AdditionalOptions.\nExamples:\nToorderaWaveguideSwitch,DPDT,WR-34,+24V,TTL,Indicators,\nspecifyQWSD-34-K2TI.\nCustomizationisavailableuponrequest.\nWaveguideSwitch\nQualwaveInc. +86-28-6115-4929 sales@qualwave.com www.qualwave.com Rev1.2\n2DrivingSchematicDiagram\n'}]
+!==============================================================================!
+### Component Summary: QWSD-34-K2Z
+
+**Component Type:**  
+Waveguide Switch (DPDT - Double Pole Double Throw)
+
+**Manufacturer:**  
+Qualwave Inc.
+
+---
+
+### Key Specifications:
+
+- **Voltage Ratings:**  
+  - Typical: 24V DC
+  - Options: 15V DC (F), 24V DC (K)
+
+- **Current Ratings:**  
+  - 2.6A @ 24V DC
+
+- **Power Consumption:**  
+  - Not explicitly stated, but can be inferred from voltage and current ratings.
+
+- **Operating Temperature Range:**  
+  - Standard: -40°C to +85°C
+  - Extended: -55°C to +85°C
+
+- **Non-Operating Temperature Range:**  
+  - -55°C to +105°C
+
+- **Package Type:**  
+  - WR-34 (Waveguide Interface)
+
+- **Special Features/Notes:**  
+  - Low VSWR (1.1 max)
+  - High Isolation (55 dB min)
+  - Low Insertion Loss (0.15 dB max)
+  - Switching Time: 50 ms
+  - Operation Life: 0.1 million cycles
+
+- **Moisture Sensitive Level (MSL):**  
+  - Not specified in the provided text.
+
+---
+
+### Description of the Component:
+
+The QWSD-34-K2Z is a Double Pole Double Throw (DPDT) waveguide switch designed for high-frequency applications ranging from 22 to 33 GHz. It is utilized to route signals between different ports with minimal loss and high isolation, making it suitable for various RF and microwave applications.
+
+---
+
+### Typical Applications:
+
+- **Wireless Communication:**  
+  Used in systems that require signal routing with low loss and high isolation.
+
+- **Transmitter Systems:**  
+  Ideal for switching between different signal paths in transmitter setups.
+
+- **Laboratory Testing:**  
+  Employed in test setups where precise control of signal paths is necessary.
+
+- **Radar Systems:**  
+  Utilized in radar applications for switching between different antennas or signal processing paths.
+
+---
+
+This summary provides a comprehensive overview of the QWSD-34-K2Z waveguide switch, highlighting its key specifications, functionality, and typical applications in the field of electronics and telecommunications.

@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of IH-FR220008 production of I-PEX CONNECTORS from the text:Confidential B1.50 MAX.\nBONDING\nAREA\nQKE-DFFDE03-03 REV.7All other trademarks are owned by their respective companies.\nSCALE UNITTITLE\nSHEETDATE\nPROJECTIONCHK'D BYDESIGN'D BY\nAll specifications of the products shown here are subject to change without notice.\nI-PEX Inc. assumes no responsibility for any inaccuracies or obligation to update Information on these documents.\n2:1SCALE UNIT\nmm 1/1CONCEPT DRAWINGTITLE\nSHEETDATE\nPROJECTIONCHK'D BYDESIGN'D BY\nH.Ikari2022/04/25 K.BabaCABLINER-CA 30P\nHARNESS\n(IH-FR220008)PIN ASSIGNMENT\nCONNECTOR 1 CABLE CONNECTOR 2\n30 MICRO-COAXIAL AWG #40 50 OHM, BLUE 1\n29 MICRO-COAXIAL AWG #40 50 OHM, BLUE 2\n・\n・\n・MICRO-COAXIAL AWG #40 50 OHM, BLUE・\n・\n・\n2 MICRO-COAXIAL AWG #40 50 OHM, BLUE 29\n1 MICRO-COAXIAL AWG #40 50 OHM, BLUE 30CONNECTOR 1&2\n(S=5/1)\n5 BONDING - - UV GLUE\n4 CABLE - 30 MICRO-COAXIAL AWG #40 50 OHM, BLUE\n3 PULL BAR 2766-0301 2 CONNECTOR 1＆2\nCABLINE-CA PLUG P/N : 20633-230T-01S\nCONNECTOR TO BE MATED : 20525-030E-022 SHELL-A 2764-0301-002 2\n1HOUSING ASS'Y 20634-130T-02 2\nNO. DESCRIPTION PARTS NO. QTY REMARKNOTE.\n1. TO HANDLE THIS CONNECTOR\nYOU MUST READ AND FOLLOW THE INSTRUCTION MANUAL BELOW.\nI-PEX INSTRUCTION MANUAL No.HIM-09008.DETAIL X\n(S=5/1)0.88±0.10POS.30 POS.1POS.30POS.1 300.0 ±5.0\n⑤BONDING②SHELL-ASOLDERING\n④CABLE±0.3014.6618.95+\n-0.50\n0.20\n③PULL BAR⑤BONDING\n①HOUSING ASS'YSOLDERING\nINSULATION COATX CONNECTOR 1 CONNECTOR 2\n"}]
+!==============================================================================!
+### Component Summary for IH-FR220008 (I-PEX CONNECTORS)
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, micro-coaxial connectors like this one are rated for low voltage applications.
+- **Current Ratings**: Not specified; however, micro-coaxial connectors generally handle low current levels suitable for signal transmission.
+- **Power Consumption**: Not applicable as this is a passive connector.
+- **Operating Temperature Range**: Not specified in the provided text; typical ranges for similar connectors are -40°C to +85°C.
+- **Package Type**: Micro-coaxial connector.
+- **Special Features or Notes**: 
+  - Utilizes UV glue for bonding.
+  - Designed for use with AWG #40 50 Ohm micro-coaxial cables.
+  - Specific mating connectors mentioned (e.g., CABLINE-CA Plug P/N: 20633-230T-01S).
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The IH-FR220008 is a micro-coaxial connector designed for high-frequency signal transmission. It features a compact design suitable for applications requiring minimal space while maintaining reliable connectivity. The connector is intended to be used with 30 micro-coaxial AWG #40 50 Ohm cables, making it ideal for applications in telecommunications and data transmission.
+
+#### Typical Applications:
+- **Telecommunications**: Used in devices that require high-frequency signal transmission, such as mobile phones and networking equipment.
+- **Consumer Electronics**: Commonly found in devices like cameras, drones, and other compact electronic devices where space is limited.
+- **Data Transmission**: Suitable for applications that involve the transfer of data signals, ensuring minimal loss and interference.
+- **Medical Devices**: Can be utilized in medical imaging and diagnostic equipment where reliable signal integrity is crucial.
+
+This summary provides a concise overview of the IH-FR220008 connector, highlighting its specifications, functionality, and typical use cases in various electronic applications.

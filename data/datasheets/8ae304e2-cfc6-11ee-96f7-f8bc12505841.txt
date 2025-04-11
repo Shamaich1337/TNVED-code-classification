@@ -1,0 +1,49 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HE3621A0510 production of LITTELFUSE from the text:Reed Relay Datasheet© 2020 Littelfuse, Inc.\nSpecifications are subject to change without notice.\nRevised: BA.12/16/201\nHE3600\nMiniature Single In-line Reed RelayThe HE3600 is a miniature reed relay in a SIL package with a \nnormally open contacts capable of switching up to 200Vdc at 10W. \nIt is available with 5V, 12V, and 24V coils and has external \nmagnetic shield and diode suppressed coil options.\nAgency Agency File Number\nE47258 ■Sub-miniature size and single \nin line configuration allows \nvery high packing densities, \nminimizing space and cost\n ■Transfer molded package \ngives maximum component \nprotection\n ■Lower power coil \nconsumption than competing \nelectromechanical devices\n ■Hermetically sealed switching \ncontact is immune to the \neffects of its environment\n ■Miniature single in-line \npackage ■Optional coil suppression \ndiode to protect coil drive \ncircuits\n ■Normally open contact \nversion\n ■RoHS Compliant\n ■External magnetic shield \noption\n ■Diode suppression option\n ■UL Recognized to UL 508 as \nan Industrial Control Switch\n ■Security Systems\n ■Telecom Equipment\n ■Process Control Systems ■Automatic Test Equipment\n ■InstrumentationDimensions\nDimensions in mm (inch)\nRelay Type Body Type L W H\nHE3600Transfer Molded 19.05 (.750) 5.08 (.200) 7.45 (.293)\nExternal Shield 19.70 (.776) 5.65 (.222) 7.87 (.310)\n3.00NOM.\n(.118)H0.51\n(0.020)19.70\n(.776)\n3 Pitches of\n5.08 NOM.\n(.200)0.51 NOM.\n(0.020)W\n0.25 NOM.\n(.010)Note: Not all parts are UL Recognized. Contact Littelfuse for specific parts and agency approval ratings.Description\nFeatures & Benefits\nApplicationsAgency Approvals\nReed Relay Datasheet© 2020 Littelfuse, Inc.\nSpecifications are subject to change without notice.\nRevised: BA.12/16/202\nHE3600\nMiniature Single In-line Reed RelayCharacteristicsContact Type\nForm A SPST-NO\nStandard\nRelay Type\nHE3621A\nContact Rating1Power, Switching Watt - Max. 10\nVoltage, Switching²Vdc - Max.\nVac - Max200\n140\nCurrent, Switching3 Adc - Max.\nAac - Max.0.5\n0.35\nCurrent, Carry Adc - Max. 1.2\nVoltage Hold-off4Across Open Contacts\nContacts to Coil \nBetween Isolated TerminalsVdc - Min.\nVac - Min.\nVac - Min.250\n1500\n1500\nResistanceContact, Initial\nInsulation Across Open Contacts\nInsulation Between Isolated TerminalsΩ Max.\nΩ Min.\nΩ Min.0.150\n1010\n1010\nTimingOperate Time\nRelease Timems - Max.\nms - Max.1.0\n1.0\nEnvironmentalTemperature, Operating\nTemperature, Storage5\nVibration Resistance\nShock Resistance°C\n°C\nG - Max. 10-2000 Hz.\nG - Max. 11 ms ½ sine-40 to +85\n-40 to +105\n20\n50\nContact\nForm \n& \nTypeElectrical \n& \nOperating\nCharacteristicsDimensionsPart\nNumberNominal\nCoil \nVoltage\nVdcCoil\nResistance\n±10% \nOhmsMust\nOperate\nVdcMust\nRelease\nVdcMaximum\nCoil\nVoltage\nVdcTop View 2.54mm (0.1") \nGrid Dot on Case: \nPin 1 Numbers not \nprinted on case.\n1A\nSPST-NOSee Table 2 See Table 1HE3621A0500\nHE3621A1200\nHE3621A24005\n12\n24500\n1000\n21503.75\n8.0\n16.00.5\n1.0\n2.014\n22\n3112\n+34T able 2\nElectrical and Operating Characteristics @ 25°C\nNotes:\n1. Contact rating - Product of the switching voltage and current should never exceed the wattage rating. Contact Littelfuse for additional load/lofe information. \n2. When switching inductive and/or capacitive loads, the effects of transient voltages and/or currents should be considered. Refer to Application Notes AN108A & AN107 for details.\n3. Electrical Load Life Expectancy - Contact Littelfuse with voltage current values along with type of load. \n4. Breakdown Voltage - Per MIL-STD-202, Method 301. \n5. Storage Temperature - Long time exposure at elevated temperature may degrade solderability of the leads.\nT able 3\nCoil Characteristics @ 25°C\nReed Relay Datasheet© 2020 Littelfuse, Inc.\nSpecifications are subject to change without notice.\nRevised: BA.12/16/203\nHE3600\nMiniature Single In-line Reed RelayØ0.80\n(.032) Hole\n 5.08 TYP\n(.200) 10.16\n(.400)15.24\n(.600)HE3600 - X - XX - XX\nContact Type \nA - Form A (SPS T-NO)\nGener al Options\n00 - No Options\n10 - Diode Suppressed CoilModel Number\nHE3621 - St andard\nStandar d Coil\n05 - 5 Volt\n12 - 12 Volt\n24 - 24 Volt\n50 - Ext. Magnetic Shield & Diode40 - External Magnetic Shield\nNote: Not all combinations of Part Number suffixes are available. Contact Littelfuse for details.HE3600 PCB Layout\n(Bottom View)Part Numbering System\nPackaging Option Packaging Specification Quantity Quantity & Packaging Code Taping Width\nBulk Bulk 5367/5600 N/A N/APackaging\nDisclaimer Notice - Information furnished is believed to be accurate and reliable. However, users should independently evaluate the suitability of and test each product selected for their own \napplications.  Littelfuse products are not designed for, and may not be used in, all applications. Read complete Disclaimer Notice at http://www.littelfuse.com/disclaimer-electronics.\n'}]
+!==============================================================================!
+### Component Summary for HE3621A0510 (Littelfuse)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Maximum Switching Voltage (DC): 200 Vdc
+  - Maximum Switching Voltage (AC): 140 Vac
+  - Breakdown Voltage (Across Open Contacts): 250 Vdc
+  - Insulation Voltage (Between Isolated Terminals): 1500 Vac
+
+- **Current Ratings:**
+  - Maximum Switching Current (DC): 0.5 A
+  - Maximum Switching Current (AC): 0.35 A
+  - Maximum Carry Current (DC): 1.2 A
+
+- **Power Consumption:**
+  - Maximum Power Switching: 10 W
+
+- **Operating Temperature Range:**
+  - Operating Temperature: -40°C to +85°C
+  - Storage Temperature: -40°C to +105°C
+
+- **Package Type:**
+  - Miniature Single In-line (SIL) package
+  - Dimensions: 19.05 mm (L) x 5.08 mm (W) x 7.45 mm (H)
+
+- **Special Features:**
+  - Normally open contact (Form A SPST-NO)
+  - Hermetically sealed contacts for environmental immunity
+  - Optional external magnetic shield and diode suppression
+  - UL Recognized to UL 508 as an Industrial Control Switch
+  - RoHS Compliant
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided text.
+
+#### Description:
+The **HE3621A0510** is a miniature reed relay designed for applications requiring compact size and efficient switching capabilities. It features normally open contacts and is capable of switching high voltages (up to 200 Vdc) while maintaining a low power consumption profile. The relay is housed in a transfer molded package that provides robust protection against environmental factors.
+
+#### Typical Applications:
+The HE3621A0510 is suitable for a variety of applications, including:
+- **Security Systems:** Used for switching in alarm systems and access control.
+- **Telecom Equipment:** Ideal for signal routing and switching in communication devices.
+- **Process Control Systems:** Employed in automation and control systems for switching tasks.
+- **Automatic Test Equipment:** Utilized in testing setups for switching circuits.
+- **Instrumentation:** Commonly found in measurement and monitoring devices.
+
+This relay is particularly advantageous in scenarios where space is limited, and reliability is critical, making it a preferred choice in modern electronic designs.

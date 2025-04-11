@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ER341245-FT-A03338 production of EEMB CO.LTD from the text:Note:  Any representations in this brochure concerning performance, are for informational purposes only and are not construed as \nwarranties either expressed or implied, of future performance.\nHttp://eemb.com                               G lobal@eemb.comENERGY TYPEER 124 34 5 ER 124 34 5Lithu hionyl Chlorid  tter imT  eBa y\n3 Electrical Characteristicsifaase Bre Dthet\n(Typical values relative to cells stored for one year or less \nat + 30  C m ax.)\nNominal capacity ( at 2mA  +23  C,2.0V cut off )\nNominal voltage\nStandard discharge current \nMaximum continuous current\nMaximum pulse current\nOperating temperature range \nStorage temperature  (recommended )\nWeight 36000mAh\n3.6V\n2mA\n450mA\n1000mA\n-55  C- +85  C\n+30  C M ax\n200g1 Basic Specification\n2 DimensionEEMB BATTERY124.5M\nax.0.7   0.3\nUnit:mm 34.0Max.\n9.0Max.Time(h)  Voltage(V)3.54.0\n3.0\n2.0\n10                    2.5ER341245 Typical Discharge Characteristics At 25  C\n1.5\n1.0\n10   33\n100mA\n  25Ah\n                                                           1.75k\n    2mA\n    36Ah\n                                                             12k\n    0.3mA\n   35.5Ah\n                                                         2\n103\n104\n105\nTemperature( C)  Voltage(V)3.53.7\n3.3\n2.9\n-50 10 90ER341245 Typical Voltage Plateau Versus \nCurrent and Temperature\n3.1\n503.03.23.43.6\n-30 -10 30 700.4mA\n5mA\n10mA\n18mA\n35mA\n100mA\nCurrent(mA)Capacity(Ah)\n14\n0.1 1 100ER341245 Typical Capacity Versus Current and Temperature\n1018\n102226303438\n25 C\n50 C\n70 C\n-30 C 0 C*Energy type is bobbin structure and best suit for low current discharge. \n   It may require depassivation before medium currents can be delivered.\n*Underwriters Laboratories (UL) Component Recognition (File Number MH 20555).\n'}]
+!==============================================================================!
+### Component Summary for ER341245-FT-A03338
+
+**Component Type:** Lithium Thionyl Chloride Battery
+
+**Description:**
+The ER341245-FT-A03338 is a lithium thionyl chloride (Li-SOCl2) battery designed for low current discharge applications. It features a bobbin structure, which is optimal for providing stable voltage and capacity over extended periods. This battery is recognized by Underwriters Laboratories (UL) under File Number MH 20555, ensuring compliance with safety standards.
+
+### Key Specifications:
+- **Nominal Voltage:** 3.6 V
+- **Nominal Capacity:** 36,000 mAh (at 2 mA, +23°C, 2.0V cut-off)
+- **Standard Discharge Current:** 2 mA
+- **Maximum Continuous Current:** 450 mA
+- **Maximum Pulse Current:** 1000 mA
+- **Operating Temperature Range:** -55°C to +85°C
+- **Storage Temperature (Recommended):** +30°C Max
+- **Weight:** 200 g
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+### Special Features:
+- The battery is designed for low current discharge applications and may require depassivation before medium currents can be delivered.
+- It has a long shelf life and is suitable for applications requiring reliable performance over time.
+
+### Typical Applications:
+- **Power Management:** Ideal for devices that require low power consumption over extended periods, such as remote sensors and monitoring equipment.
+- **Signal Processing:** Used in applications where stable voltage is critical for signal integrity.
+- **Data Storage:** Suitable for backup power in data logging devices and memory storage systems.
+- **Medical Devices:** Commonly found in medical telemetry and implantable devices due to its reliability and long life.
+
+This summary provides a comprehensive overview of the ER341245-FT-A03338 battery, highlighting its key specifications and typical applications in various fields.

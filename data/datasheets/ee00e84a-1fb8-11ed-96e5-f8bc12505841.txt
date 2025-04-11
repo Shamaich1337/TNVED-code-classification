@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 5151023803F production of DIALIGHT from the text:2-51 Dialight Corporation \x7f 1501 Route 34 South \x7f Farmingdale, NJ 07727 \x7f TEL: (732) 919-3119 \x7f FAX: (732) 751-5778 \x7fwww.dialight.co m23mm Square\n®OptopipeTM\nOptical Light Pipe, Quad High 515-1023-803\n4.95\n[.195]\n5.16\n[.203]4.95\n[.195]\n4.95\n[.195]\n5.31\n[.209]3.53\n[.139]21.59[.850]3.18\n[.125]3.20\n[.126].76\n[.030]\nREF.\n.99\n[.039]\n.51\n[.020].99\n[.039]2.01\n[.079]1.24\n[.049]4.45\n[.175]9.07\n[.357]13.34[.525]\nRECOMMENDED PIN HOLES AND SOLDER PAD\nLAYOUT FOR SUGGESTED MicroLED LEDs\nCOMPONENT SIDE OF PRINTED CIRCUIT BOARDDirection\nof Light4.31\n[.170]\n8.23\n[.324][.116 DIA] TYP .\n(2) PLACES\n4.12\n[.162]28.75\n[1.132]19.69[.775]6.02\n[.237]4.45\n[.175]4.45\n[.175]NOTE:\nC.L. of LED4.45\n[.175]\nØ [.113 ± .002]LIGHTSHIELDS\n2 PLCS\nDimensions in mm [inches]\nNOTE: designed for\npost-reflowPC board insertion.Recommended\nMicroLED SMT LEDs\nfor use with 515-1023-803\nPART NO.COLORPAGE #\n597-3001-1xx Red 1-19\n597-3111-1xx AlGaAs Red 1-19597-3211-1xx Orange 1-19597-3301-1xx Green 1-19597-3401-1xx Yellow 1-19597-7701-1xx Red/Green 1-20597-7721-1xx Yellow/Green 1-20597-7731-1xx Red/Yellow 1-20\nFeatures\n\x7f High transmissivity polycarbonate material\n\x7f UL94V-0 compliance\x7f ESD protection (circuit isolation from front panel)\x7f Wide viewing angle\x7f Arrays reduce insertion costs\x7f Allows quad level SMTindicators\x7f Secures to PCB by press-fitLED Data\nFor absolute maximum ratings and other\nelectrical and optical data on the recommendedLEDs, refer to LED data sheets.\nDialight Optopipe Light Pipe Description\nThis Optopipe™ has a relatively low vertical height considering the number of light pipe elements.  The element’s\nsquare emitting surfaces are vertically spaced 0.203" from the PCB to the first element, and then 0.195" between each ofthe other elements.  This Optopipe™ is held in place by 2 press-fit pins on the bottom of the device.  The wide base offersadded stability to the installed part. The light pipe is not attached to the panel at any point, but protrudes through holes inthe panel. This Optopipe™ was specifically designed to accept Dialight’s 597 Series Type 1210 LEDs. The light pipematerial is water clear transmissive polycarbonate rated UL94-V0, and has a 35% oxygen index.\nDialight can provide custom Optopipe™ solutions for your applications.\nOperating/Storage Temperature\n–30°C to +100°CNEW\n'}]
+!==============================================================================!
+### Component Summary for Dialight Optopipe™ 5151023803F
+
+**Component Type:**  
+Optical Light Pipe
+
+**Key Specifications:**
+
+- **Voltage Ratings:** Not specified (Optical component, typically does not have voltage ratings)
+- **Current Ratings:** Not specified (Optical component, typically does not have current ratings)
+- **Power Consumption:** Not applicable (Optical component)
+- **Operating Temperature Range:** -30°C to +100°C
+- **Package Type:** 23mm Square
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text
+- **Special Features:**
+  - High transmissivity polycarbonate material
+  - UL94V-0 compliance
+  - ESD protection (circuit isolation from front panel)
+  - Wide viewing angle
+  - Arrays reduce insertion costs
+  - Allows quad level SMT indicators
+  - Secures to PCB by press-fit
+
+**Description:**  
+The Dialight Optopipe™ 5151023803F is an optical light pipe designed to transmit light from surface-mounted LEDs to the exterior of a device. It features a square emitting surface with multiple light pipe elements arranged vertically. The light pipe is constructed from water-clear transmissive polycarbonate, ensuring high light transmission efficiency. It is designed for use with Dialight’s 597 Series Type 1210 LEDs and is secured to the printed circuit board (PCB) using press-fit pins.
+
+**Typical Applications:**  
+The Optopipe™ is commonly used in applications where visual indicators are required, such as in control panels, electronic devices, and appliances. It is particularly useful in environments where space is limited, and multiple indicators are needed in a compact arrangement. The light pipe allows for effective light transmission while providing a clean and professional appearance for user interfaces. Additionally, its ESD protection feature makes it suitable for sensitive electronic applications.

@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of iHA417+9.7mm+USB3.0 production of GLOBAL SENSOR TECHNOLOGY CO., LTD from the text: \n iHA417  module Specification  V1.0 \n                                                         \niHA417  module Specification   \nDetector  \nMaterial  Uncooled vanadium oxide  \nUse Resolution  384×288 \nPixel size  17µm \nNETD  <40mK/ F1.0/25℃ \nSpectral  8～14um  \nTemperature measurement  \nMeasuring range  20℃～50℃ \nEffective \nmeasuring range  -10℃～50℃ \nTemperature  \neasurement \naccuracy  Measuring range : 16℃~32℃ \nDistance:0.5~1m  \nAccuracy  : ≤±0.5℃(Indoor windless environment, 32 ℃ to 42℃) \nImage process  \nResolution  384×288 \nDigital frame rate  25Hz  \nDigital video  USB3.0  \nBoot screen  INFRARED,  acceptable customization  \nBoot time  ≤10s \naiming  Linear / histogram / mixed  \nImage \nenhancement  IDE \nImage direction  Vertical /  horizontal / diagonal flip  \nElectron double  From 1x to 8x magnification, step by 0.125  \nPseudo color  10kinds  \nSDK Linux or windows for full -screen temperature measurement and image display  \n  \nElectrical interface  \nStandard e xternal \ninterface  Type -C \nCommunication  USB3.0  \nPower system  \nPower supply  DC：4.5V～6V \nPower dissipation  ≤1.6W/5V @23±3 ℃ \nEnvironmental adaptability  \nOperation \ntemperature  -40℃～+70℃ \n \n Storage \ntemperature  -45℃～85℃ \nhumidity  5%～95%，non-condensing  \nVibration  \nresistance  random vibration  5.35grms ，3-axis \nImpact  resistance  half sine wave ，40g/11ms ，3-axis 6 -direction  \nseal Reserve the seal slot to support the customer's complete machine seal design  \nPhysical property  \nSize 44.5× 42.5× 58.9mm （with 7mm lens ） \n44.5× 42.5× 60.4mm （with 9.7mm lens ） \nWeight  123g(with 7mm lens)  \n  125g(with 9.7mm lens)  \nCertification  Rohs2.0/Reach  \nLens  \nFocus/F# 7mm/F1.1  (field angle  :50° X 38.6° ) \nfield angle  9.7mm/F1. 0 (field angle  : 37.2° X 28.3° )  \n \n"}]
+!==============================================================================!
+### Component Summary: iHA417+9.7mm+USB3.0
+
+#### Key Specifications:
+- **Detector Material**: Uncooled vanadium oxide
+- **Use Resolution**: 384×288 pixels
+- **Pixel Size**: 17µm
+- **NETD (Noise Equivalent Temperature Difference)**: <40mK at F1.0 and 25°C
+- **Spectral Range**: 8 to 14 µm
+- **Temperature Measurement**:
+  - **Measuring Range**: 20°C to 50°C
+  - **Effective Measuring Range**: -10°C to 50°C
+  - **Accuracy**: ≤±0.5°C (for measuring range of 16°C to 32°C, distance of 0.5 to 1m, in indoor windless environment, 32°C to 42°C)
+- **Digital Frame Rate**: 25Hz
+- **Digital Video Output**: USB 3.0
+- **Boot Time**: ≤10 seconds
+- **Power Supply**: DC 4.5V to 6V
+- **Power Dissipation**: ≤1.6W at 5V and 23±3°C
+- **Operating Temperature Range**: -40°C to +70°C
+- **Storage Temperature Range**: -45°C to +85°C
+- **Humidity**: 5% to 95%, non-condensing
+- **Vibration Resistance**: Random vibration 5.35g rms, 3-axis
+- **Impact Resistance**: Half sine wave, 40g/11ms, 3-axis, 6-direction
+- **Size**: 44.5×42.5×60.4mm (with 9.7mm lens)
+- **Weight**: 125g (with 9.7mm lens)
+- **Moisture Sensitive Level (MSL)**: Not specified in the provided text.
+
+#### Description:
+The iHA417 is a thermal imaging module designed for temperature measurement and infrared imaging applications. It utilizes an uncooled vanadium oxide detector with a resolution of 384×288 pixels, allowing for precise thermal imaging across a spectral range of 8 to 14 µm. The module is equipped with a USB 3.0 interface for digital video output and supports various image processing features, including image enhancement and pseudo-color options.
+
+#### Typical Applications:
+The iHA417 module is suitable for a variety of applications, including:
+- **Thermal Imaging**: Used in surveillance, building inspections, and maintenance to detect heat loss or overheating components.
+- **Temperature Measurement**: Ideal for industrial applications where monitoring temperature is critical, such as in HVAC systems, electrical equipment, and manufacturing processes.
+- **Medical Applications**: Can be utilized in medical diagnostics to monitor body temperature and detect anomalies.
+- **Research and Development**: Useful in scientific research where thermal analysis is required.
+
+This module's robust design, wide operating temperature range, and high accuracy make it a versatile tool for professionals in various fields requiring thermal imaging and temperature measurement capabilities.

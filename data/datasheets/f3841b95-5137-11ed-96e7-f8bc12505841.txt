@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-GSM-822-3MSMA production of MG ANTENNAS from the text:Special for MACRO GROU P    E-mail: wireless@macrogroup.ru     Tel: +7 (812) 370 60 70  \n \n \nDATASHEET    \nMMMGGG---GGGSSSMMM---888222222---333MMMSSSMMMAAA   \nType  868/GSM/3G antenna  \nFrequencies  824-960/1710 -2170 MHz \nMounting  Magnetic base & with cabl e \nBrand Name  MG ANTENNAS  \n \n \n \n \nRevision #  Content  Page  Date  \n0 First, document  - 03.09.2007 \n1. SPECIFICATION  \n1.1 Electrical Specifica tions  \n                                                                        \n 1.2 Mechanical specification s \nCable  (type and length )  RG174, 3m / or other * \nConnector  SMA  male  / or other * \nHousing  Color  Black  \nMounting  Magnetic base  \nDimensions  H89*29.4 mm \n    * Customizable Cable and Connector  \n \n1.3 Environ mental specifications  \n \n \n \n \n \n \n \n \n \n \n Frequency  824-960/1710 -2170 MHz \nPolari zation  Linear  \nGain  2dBi \nVSWR  2.5 :1 \nImpedance  50 Ω \nTemperature   \nOperating  / Storage  -40 ~ + 85°C \nHumidity   \nOperating  / Storage  0 ~ 85% \nLighting protection  DC grounding  \nVibration  10 to 55Hz with 1.5mm amplitude 2hours  \n \nE-mail: wireless@macrogroup.ru     Tel: +7 (812) 370 60 70  \n2. MEASUREMENT  \n \n \n'}]
+!==============================================================================!
+### Component Summary for MG-GSM-822-3MSMA
+
+**Product Code:** MG-GSM-822-3MSMA  
+**Manufacturer:** MG ANTENNAS  
+**Type:** 868/GSM/3G Antenna
+
+#### Key Specifications:
+- **Frequencies:** 824-960 MHz / 1710-2170 MHz
+- **Gain:** 2 dBi
+- **VSWR (Voltage Standing Wave Ratio):** 2.5:1
+- **Impedance:** 50 Ω
+- **Operating Temperature Range:** -40°C to +85°C
+- **Storage Temperature Range:** -40°C to +85°C
+- **Humidity Range:** 0% to 85% (Operating and Storage)
+- **Mounting Type:** Magnetic base with cable
+- **Cable Type and Length:** RG174, 3m (customizable)
+- **Connector Type:** SMA male (customizable)
+- **Housing Color:** Black
+- **Dimensions:** Height 89 mm, Diameter 29.4 mm
+- **Vibration Resistance:** 10 to 55 Hz with 1.5 mm amplitude for 2 hours
+- **Lighting Protection:** DC grounding
+- **Moisture Sensitive Level:** Not specified in the provided data.
+
+#### Description:
+The MG-GSM-822-3MSMA is a specialized antenna designed for 868 MHz, GSM, and 3G frequency bands. It features a magnetic base for easy mounting and is equipped with a 3-meter RG174 cable, which can be customized based on user requirements. The antenna is characterized by its linear polarization and a gain of 2 dBi, making it suitable for various wireless communication applications.
+
+#### Typical Applications:
+This antenna is typically used in:
+- **Wireless Communication:** Enhancing signal reception and transmission for GSM and 3G devices.
+- **IoT Devices:** Supporting connectivity for Internet of Things applications operating in the specified frequency ranges.
+- **Telecommunications:** Used in base stations and mobile devices to improve network performance.
+- **Remote Monitoring Systems:** Facilitating reliable data transmission in remote locations.
+
+The MG-GSM-822-3MSMA antenna is ideal for applications requiring robust performance in challenging environmental conditions, given its wide operating temperature range and humidity tolerance.

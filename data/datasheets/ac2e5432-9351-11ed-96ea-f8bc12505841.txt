@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BS1-008-H751-55 production of E-TEC from the text:2.54mm pitch  Female Header  - SMT -  \nTop & Bottom Entry   7.50mm & 5.00mm profile  \n  \n  \n \n \n \nApplication and Features  PCB  Surface Mount & Hole Layout  \n\uf06e Standard:  Tube packing and \nwithout “ PickUp cap ” \n\uf06e 5.00mm  & 7.50mm  height abov e board. \nHi-rel dual beam contacts.  \n\uf06e Mating with 2.54mm pitch, 0.64mm sq.       \nor round Pin Headers.   \nSpecifications  \n Current rating  3 A \n Insulat ion resistance  1000 M\uf057 min. \n Contact resistance  20 m\uf057 max.  \n Withstanding voltag e 500 V AC   Operating temperature  -40° C  to  +105°C  \n Processing temperature  +250°C  +0/-5°C  for 5sec.  \n Contact material   (RoHS compliant)  Phosphor Bronze  \n Insulator material  (RoHS compliant)  PA6T     UL 94 V -0 \n How to order  \n BS x - xxx - H xxx - 55/ X  \n \n \n \nRows   Nbr of contacts   Style   Plating   Option s \n1 \nsingle row   002 to 040   500 DIM “A” = 5.00  mm \n  501 (option al foot Style ) \n 750  DIM “A” = 7.50  mm \n  751 (option al foot Style ) \nPls. cho ose 500 or 750 Style  \nif odd pin count  55 = Gold \n \n \n \nother platings  \non request   A = Tube packing; with „PickUp Cap“  \n B = Reel packing; with „PickUp Cap“  \n2 \ndual row   004 to 080  500 DIM “A” = 5.00  mm \n 750  DIM “A” = 7.50  mm without “locating pegs”  \n A =  Tube packing; with „PickUp Cap“  \n B = Reel packing; with „PickUp Cap“  \nwith “locating pegs”  \n C = Tube packing; without „PickUp Cap“  \n D = Tube packing; with „PickUp Cap“  \n E =  Reel packing; with „PickUp Cap“  \n77 Foot Style  500 & 750     501 & 751 \n 500 & 750    \n     \n  Style  500 & 750  \nFoot S tyle \n   500 & 750             501 & 751 \n \n'}]
+!==============================================================================!
+### Component Summary for BS1-008-H751-55
+
+**Component Type:**  
+- Female Header (Surface Mount Technology - SMT)
+
+**Key Specifications:**
+- **Voltage Ratings:** 500 V AC (withstanding voltage)
+- **Current Ratings:** 3 A
+- **Power Consumption:** Not specified; typically determined by the load connected.
+- **Operating Temperature Range:** -40°C to +105°C
+- **Processing Temperature:** +250°C ± 5°C for 5 seconds
+- **Package Type:** Surface Mount, 2.54mm pitch
+- **Profile Heights:** 5.00mm and 7.50mm above the board
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+- **Special Features:**
+  - Hi-rel dual beam contacts
+  - Mates with 2.54mm pitch, 0.64mm square or round pin headers
+  - RoHS compliant materials (Phosphor Bronze for contacts, PA6T for insulator)
+  - UL 94 V-0 rated insulator material
+  - Available in tube packing or reel packing with options for "PickUp Cap"
+
+**Description:**  
+The BS1-008-H751-55 is a surface mount female header designed for PCB applications. It features a 2.54mm pitch and is available in two profile heights (5.00mm and 7.50mm). The header is constructed with dual beam contacts for reliable electrical connections and is compatible with standard pin headers of the same pitch.
+
+**Typical Applications:**  
+This component is commonly used in various electronic applications, including:
+- **PCB Interconnections:** Providing a reliable connection point for other components on a printed circuit board.
+- **Signal Processing:** Used in devices that require signal transmission between different circuit elements.
+- **Power Management:** Suitable for applications where power distribution is necessary, given its current rating of 3 A.
+- **Consumer Electronics:** Often found in devices such as computers, telecommunications equipment, and other electronic devices where space-saving and reliable connections are essential.
+
+This summary encapsulates the key characteristics and applications of the BS1-008-H751-55 female header, providing a clear understanding of its functionality and use cases in electronic designs.

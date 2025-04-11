@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TCK-050 production of TRACO POWER from the text:TCK-050 Common  Mode  Choke\nOrder  Code TCK-050\nInductance  (each  winding) 325 µH ±35% (at 100 kHz / 100 mV)\nImpedance  (DCR) 35 mΩ max.\nRated  Current 3.3 A max.\nRated  Voltage 500 VDC max. (between  windings)\nOperating  Temperature -40°C to +105°C\nRoHS  Exemptions No Exemptions\nImpedance  Curve\nOutline  Dimensions\nAll specifications  valid at +25°C,  unless  otherwise  stated.\nDimensions  [mm]\nA 11.5 max.\nB 11.5 max.\nC 8.8 max.\nD 2.5 min \nE 7.62 ±0.2 \nF 7.62 ±0.2 \nG ø 0.6 ±0.1 \n©   Copyright 2021 Traco Electronic AG Speciﬁcations can be changed without notice. \nwww.tracopower.com \nRev. December  6, 2021\nPage  1 / 1\n'}]
+!==============================================================================!
+### Component Summary: TCK-050 Common Mode Choke
+
+**Product Code:** TCK-050  
+**Manufacturer:** TRACO POWER
+
+#### Key Specifications:
+- **Inductance (each winding):** 325 µH ±35% (measured at 100 kHz / 100 mV)
+- **Impedance (DCR):** 35 mΩ max.
+- **Rated Current:** 3.3 A max.
+- **Rated Voltage:** 500 VDC max. (between windings)
+- **Operating Temperature Range:** -40°C to +105°C
+- **Package Type:** Not specified in the provided text, but typically in a compact form factor suitable for PCB mounting.
+- **Special Features/Notes:** RoHS Exemptions: No Exemptions; all specifications valid at +25°C unless otherwise stated.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The TCK-050 is a common mode choke, which is an inductive component used to suppress high-frequency noise in electrical circuits. It consists of two or more windings on a magnetic core, allowing it to filter out common mode noise while allowing differential signals to pass through. This component is essential in applications where electromagnetic interference (EMI) needs to be minimized.
+
+#### Typical Applications:
+- **Power Management:** Used in power supply circuits to reduce noise and improve efficiency.
+- **Signal Processing:** Helps in maintaining signal integrity in communication lines by filtering out unwanted noise.
+- **Data Storage:** Employed in data transmission lines to ensure reliable data transfer by minimizing interference.
+- **Automotive Electronics:** Commonly used in automotive applications to protect sensitive electronic components from noise.
+
+This summary provides a clear overview of the TCK-050 common mode choke, highlighting its key specifications and typical applications in electronic circuits.

@@ -1,0 +1,62 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DT06-2S production of DEUTSCH from the text: \nDT06-2S\nHousing for Female Terminals, Wire-to-Wire, 2 Position, .215 in [5.46 mm] Centerline, \nSealable, Gray, Wire & Cable, Power & Signal, DEUTSCH DT\n10/02/2023 10:41AM | Page\xa0 1  For support call +1 800 522 6752 \uf095   Connectors >  Automotive Connectors >  Automotive Housings\n Sealable: Yes Centerline (Pitch): 5.46 mm [ .215 in ] Connector & Housing Type: Housing for Female Terminals Number of Positions: 2 Connector System: Wire-to-Wire\nFeatures\nProduct Type Features\nMixed & Hybrid Connector No\nConnector Shape Rectangular\nConnector System Wire-to-Wire\nConnector & Housing Type Housing for Female Terminals\nSealable Yes\nConnector & Contact Terminates To Wire & Cable\nPrimary Locking Feature Integrated in Housing\nConfiguration Features\nBlank Cavity Position 0\nNumber of Positions 2\nNumber of Rows 1\nElectrical Characteristics\nOperating Voltage 250 VAC\nNominal Voltage Architecture 12 V, 24 V, 48 V\nBody Features\nCable Exit Angle 180°\nPrimary Product Color Gray\nContact Features\nContact Size Size 16  DT06-2S \uf00c ACTIVE\n DEUTSCH\n TE Internal #: DT06-2S\nHousing for Female Terminals, Wire-to-Wire, 2 Position, .215 in \n[5.46 mm] Centerline, Sealable, Gray, Wire & Cable, Power & \nSignal, DEUTSCH DT\nView on TE.com\xa0>\nDEUTSCH DT|\n \nDT06-2S\nHousing for Female Terminals, Wire-to-Wire, 2 Position, .215 in [5.46 mm] Centerline, \nSealable, Gray, Wire & Cable, Power & Signal, DEUTSCH DT\n10/02/2023 10:41AM | Page\xa0 2  For support call +1 800 522 6752 \uf095Contact Size Size 16\nContact Type Socket\nMating Pin Diameter 1.59 mm[.063 in]\nContact Current Rating (Max) 13 A\nMechanical Attachment\nTerminal Position Assurance Yes\nStrain Relief Add By Accessory\nMating Alignment Type Polarized\nMating Alignment With\nConnector Mounting Type Cable Mount (Free-Hanging)\nHousing Features\nHousing Material PA GF\nCenterline (Pitch) 5.46 mm[.215 in]\nDimensions\nConnector Height 15.77 mm[.621 in]\nProduct Width 15.01 mm[.591 in]\nProduct Length 28.4 mm[1.118 in]\nCompatible Insulation Diameter Range 2.23 – 3.68 mm[.087 – .144 in]\nUsage Conditions\nOperating Temperature (Max) 125 °C[257 °F]\nOperating Temperature Range -55 – 125 °C[-67 – 257 °F]\nOperation/Application\nCircuit Application Power & Signal\nIndustry Standards\nDegree of Protection IP68, IP6K9K\nAgency/Standard SAE J2030\nUL Flammability Rating 12mm Flame Test per Standard UL-94\nPackaging Features\nPackaging Quantity 1800\nPackaging Method Box\nOther\nServiceable Yes\n \nDT06-2S\nHousing for Female Terminals, Wire-to-Wire, 2 Position, .215 in [5.46 mm] Centerline, \nSealable, Gray, Wire & Cable, Power & Signal, DEUTSCH DT\n10/02/2023 10:41AM | Page\xa0 3  For support call +1 800 522 6752 \uf095Serviceable Yes\nConnector Position Assurance Capable No\nProduct Compliance\nFor compliance documentation, visit the product page on TE.com>\nEU RoHS Directive 2011/65/EU Compliant\nEU ELV Directive 2000/53/EC Compliant\nChina RoHS 2 Directive MIIT Order No 32, 2016 No Restricted Materials Above Threshold\nEU REACH Regulation (EC) No. 1907/2006 Current ECHA Candidate List: JUNE 2023 \n(235)\nCandidate List Declared Against: JUNE \n2023 (235)\nSVHC > Threshold:\nOctamethylcyclotetrasiloxane (D4) (.5% in \nComponent Part)\nDodecamethylcyclohexasiloxane (D6) (.5% \nin Component Part)\nDecamethylcyclopentasiloxane (D5) (.5% in \nComponent Part)\nArticle Safe Usage Statements:\nWash thoroughly after handling. Recycle if possible and dispose of the article by \nfollowing all applicable governmental regulations relevant to your geographic \nlocation.\nHalogen Content Low Halogen - Br, Cl, F, I < 900 ppm per \nhomogenous material. Also BFR/CFR/PVC \nFree\nSolder Process Capability Not reviewed for solder process capability\nProduct Compliance Disclaimer\nThis information is provided based on reasonable inquiry of our suppliers and represents our current actual knowledge \nbased on the information they provided. This information is subject to change. The part numbers that TE has identified as \nEU RoHS compliant have a maximum concentration of 0.1% by weight in homogenous materials for lead, hexavalent \nchromium, mercury, PBB, PBDE, DBP, BBP, DEHP, DIBP, and 0.01% for cadmium, or qualify for an exemption to these \nlimits as defined in the Annexes of Directive 2011/65/EU (RoHS2). Finished electrical and electronic equipment products \nwill be CE marked as required by Directive 2011/65/EU. Components may not be CE marked. Additionally, the part \nnumbers that TE has identified as EU ELV compliant have a maximum concentration of 0.1% by weight in homogenous \nmaterials for lead, hexavalent chromium, and mercury, and 0.01% for cadmium, or qualify for an exemption to these limits \nas defined in the Annexes of Directive 2000/53/EC (ELV). Regarding the REACH Regulation, the information TE provides \non SVHC in articles for this part number is based on the latest European Chemicals Agency (ECHA) ‘Guidance on \nrequirements for substances in articles’ posted at this URL: https://echa.europa.eu/guidance-documents/guidance-on-\nreach\nCompatible Parts\n \nDT06-2S\nHousing for Female Terminals, Wire-to-Wire, 2 Position, .215 in [5.46 mm] Centerline, \nSealable, Gray, Wire & Cable, Power & Signal, DEUTSCH DT\n10/02/2023 10:41AM | Page\xa0 4  For support call +1 800 522 6752 \uf095 TE Part # 1062-14-0177\nSOC, SF, SIZE 16, 14-18, SN/SN TE Part # W2S-P070-Y\nSEAL RETN WEDGE. ORANGE DT 2 W TE Part # W2S-P070-U\nSEAL RETN WEDGE. BLUE.DT 2 WAY TE Part # W2S-P070-R\nSEAL RETN WEDGE.RED. DT 2 WAY. TE Part # DT-RT1\nEXT TOOL, FRONT RELEASE TE Part # 1-2303812-5\nDT04-2P-TB31, REC, 2POS, GRY, \nBLKED, CAP TE Part # 1-2297507-1\n2POS,CE,PIN HSG,16, DT, CODE A,\nASSY,SLD TE Part # DT2S-BT-BK\nBOOT, 2P, PLG, ST, BLK TE Part # DT2S-BT\nBOOT, 2P, PLG, ST, GRY TE Part # CAT-D485-CH8172\nDEUTSCH DTM Housings TE Part # 776363-1\nSEALING PLUG, SZ 16 CAVITY TE Part # 1011-344-0205\nDUST CAP, 2P, PLG, BLK, DT TE Part # CAT-J41-DDRC\nDEUTSCH DT Receptacle Connectors TE Part # CAT-D487-M8649\nDEUTSCH DT Mounting Clips TE Part # CAT-D48-ST273\nDEUTSCH Solid Contacts TE Part # CAT-D487-W416\nWedgelocks: DEUTSCH DT TE Part # CAT-D487-B128\nDEUTSCH DT Backshells TE Part # CAT-D48-SP729\nDEUTSCH Sealing Plugs TE Part # CAT-D487-H342\nDEUTSCH DT Headers TE Part # CAT-J67-DSCC16\nDEUTSCH Size 16 Crimp Contacts\n Also in the Series DEUTSCH DT\n\n \nDT06-2S\nHousing for Female Terminals, Wire-to-Wire, 2 Position, .215 in [5.46 mm] Centerline, \nSealable, Gray, Wire & Cable, Power & Signal, DEUTSCH DT\n10/02/2023 10:41AM | Page\xa0 5  For support call +1 800 522 6752 \uf095TE Part # DT06-6S\nPLG, 6P, GRY, NTE Part # DT06-12SA\nPLG, 12P, GRY, N, ATE Part # DT06-08SA\nPLG, 8P, GRY, N, ATE Part # 0460-215-16141\nPIN, SOLID, SIZE 16, 14AWG, NITE Part # DT06-3S\nPLG, 3P, GRY, NTE Part # W6S\nWedgelocks: DEUTSCH DTTE Part # DT04-3P\nREC, 3P, GRY, NPCB Headers & Receptacles(103)Other Automotive Connector \nAccessories(27)Insertion & Extraction Tools(3) Connector Strain Relief(28) Connector Seals & Cavity Plugs(6)Connector Backshells(58) Automotive Housings(620) Automotive Connector Locks & \nPosition Assurance(74)Automotive Connector Caps & Covers\n(19)\nCustomers Also Bought\nDocuments\nProduct Drawings\n \nDT06-2S\nHousing for Female Terminals, Wire-to-Wire, 2 Position, .215 in [5.46 mm] Centerline, \nSealable, Gray, Wire & Cable, Power & Signal, DEUTSCH DT\n10/02/2023 10:41AM | Page\xa0 6  For support call +1 800 522 6752 \uf095Product Drawings\nPLG, 2P, GRY, N\nEnglish\nCAD Files\n3D PDF\n3D\nCustomer View Model\nENG_CVM_CVM_DT06-2S_A.2d_dxf.zip\nEnglish\nCustomer View Model\nENG_CVM_CVM_DT06-2S_A.3d_igs.zip\nEnglish\nCustomer View Model\nENG_CVM_CVM_DT06-2S_A.3d_stp.zip\nEnglish\nBy downloading the CAD file I accept and agree to the  of use. Terms and Conditions\nDatasheets & Catalog Pages\nICT Terminals and Connectors Catalogue\nEnglish\nCONNECTOR SELECTOR\nEnglish\nProduct Specifications\nApplication Specification\nEnglish\nAgency Approvals\nUL Report\nEnglish\n'}]
+!==============================================================================!
+### Component Summary: DEUTSCH DT06-2S
+
+**Component Type:**  
+Housing for Female Terminals
+
+**Description:**  
+The DEUTSCH DT06-2S is a wire-to-wire connector housing designed for female terminals. It features a 2-position configuration with a centerline (pitch) of 5.46 mm (0.215 in). The housing is sealable and is primarily used for power and signal applications in various industries, particularly automotive.
+
+### Key Specifications:
+
+- **Voltage Ratings:**
+  - Operating Voltage: 250 VAC
+  - Nominal Voltage Architecture: 12 V, 24 V, 48 V
+
+- **Current Ratings:**
+  - Maximum Contact Current Rating: 13 A
+
+- **Power Consumption:**  
+  Not specified directly, but the current rating indicates the maximum load the connector can handle.
+
+- **Operating Temperature Range:**  
+  - Minimum: -55 °C (-67 °F)
+  - Maximum: 125 °C (257 °F)
+
+- **Package Type:**  
+  Free-hanging cable mount
+
+- **Special Features:**
+  - Sealable design for enhanced protection against environmental factors.
+  - Integrated primary locking feature within the housing.
+  - Terminal position assurance to ensure proper alignment and connection.
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**  
+  Not specified in the provided data.
+
+### Additional Features:
+
+- **Connector Shape:** Rectangular
+- **Number of Positions:** 2
+- **Number of Rows:** 1
+- **Cable Exit Angle:** 180°
+- **Primary Product Color:** Gray
+- **Contact Size:** Size 16
+- **Contact Type:** Socket
+- **Mating Pin Diameter:** 1.59 mm (0.063 in)
+- **Housing Material:** PA GF (Polyamide Glass Fiber)
+- **Degree of Protection:** IP68, IP6K9K (dust-tight and protected against water immersion)
+- **UL Flammability Rating:** 12mm Flame Test per Standard UL-94
+
+### Typical Applications:
+
+The DEUTSCH DT06-2S connector is commonly used in automotive and industrial applications where reliable power and signal connections are required. Its robust design and sealing capabilities make it suitable for harsh environments, including:
+
+- Automotive wiring harnesses
+- Power distribution systems
+- Signal transmission in vehicles
+- Industrial machinery and equipment
+- Marine applications
+
+This connector is ideal for applications that demand durability and resistance to moisture and contaminants, ensuring long-term performance in challenging conditions.

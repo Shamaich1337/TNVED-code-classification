@@ -1,0 +1,55 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MABA-007748-CT1160 production of M/A-COM from the text:1:1 RF Transformer  \n5-1200MHz   \nRev.  V3  \nMABA -007748 -CT1160  \n1 1 \nMACOM Technology Solutions Inc. (MACOM) and its affiliates reserve the right to make changes to the product(s) or information  contained herein without notice.  \nVisit www.macom.com  for additional data sheets and product information.  \n \n \nFor further information and support please visit:  \nhttps://www.macom.com/support  \nDS-MABA -007748 -CT1160  1 Features  \n\uf0b7 Key Surface Mount  \n\uf0b7 1:1 RF Transformer  \n\uf0b7 260°C Reflow Compatible  \n\uf0b7 RoHS Compliant and Pb Free  \n\uf0b7 RoHS version of ETC1 -1T-75  \n\uf0b7 Available on Tape and Reel  \n \n \nDescription  \nM/A-COM’s MABA -007748 -CT1160 is a 1:1 RF \nTransformer in a low cost, surface mount \npackage. Ideally suited for high volume CATV/\nBroadband applications.  \n \n \nOrdering Information  Functional Schematic  \nPin Configuration  \nMABA -007748 -CT1160  2000 piece reel  \nMABA -007748 -CT11TB  Sample Board  \n1 Secondary (Dot)  \n2 Not connected   \n3 Secondary  \n4 Primary  \n5 Primary (Dot)  \nDimensions in inches [mm] Tolerance: .xx ± .02, .xxx ± .010  Case Style: SM -22 \n\n1:1 RF Transformer  \n5-1200MHz   \nRev.  V3  \nMABA -007748 -CT1160  \n2 2 \nMACOM Technology Solutions Inc. (MACOM) and its affiliates reserve the right to make changes to the product(s) or information  contained herein without notice.  \nVisit www.macom.com  for additional data sheets and product information.  \n \n \nFor further information and support please visit:  \nhttps://www.macom.com/support  \nDS-MABA -007748 -CT1160  2 Electrical Specifications :  Freq. = 5 -1200MHz, T A = +25°C, Z 0 = 75Ω \nInsertion Loss  5 - 40 MHz  \n40 - 600 MHz  \n600 - 1000 MHz  \n1000 - 1200 MHz  dB \ndB \ndB \ndB - \n- \n- \n- 0.27 \n0.32 \n0.57 \n1.62 0.5 \n1.0 \n2.0 \n3.0 \nAmplitude Balance  5 - 1200 MHz  dB - 0.36 1.0 \nPhase Balance  \n 5 - 1000 MHz  \n1000 - 1200 MHz  º \nº - \n- \n 0.58 \n9.15 10 \n20 \nInput Return Loss  5 - 40 MHz  \n40 - 200 MHz  \n200 - 400 MHz  \n400 - 600 MHz  \n600 - 1200 MHz  dB \ndB \ndB \ndB \ndB 17 \n22 \n15 \n10 \n6 27 \n29 \n22 \n17 \n11 - \n- \n- \n- \n- \nAbsolute Maximum Ratings  \nRF Power  250 mW  \nDC current  30mA  \nOperating Temperature  -40°C to +85°C  \nStorage Temperature  -40°C to +85°C  Recommended PCB Configuration  \n\n1:1 RF Transformer  \n5-1200MHz   \nRev.  V3  \nMABA -007748 -CT1160  \n3 3 \nMACOM Technology Solutions Inc. (MACOM) and its affiliates reserve the right to make changes to the product(s) or information  contained herein without notice.  \nVisit www.macom.com  for additional data sheets and product information.  \n \n \nFor further information and support please visit:  \nhttps://www.macom.com/support  \nDS-MABA -007748 -CT1160  3 \nTypical Performance Curves:  TA = 25°C, Z0 = 75 Ω \nAmplitude Balance  Insertion Loss 1: Pin5 - Pin3  Insertion Loss 2: Pin5 - Pin1  \nPhase Balance  \nReturn Loss: Input  \n1:1 RF Transformer  \n5-1200MHz   \nRev.  V3  \nMABA -007748 -CT1160  \n4 4 \nMACOM Technology Solutions Inc. (MACOM) and its affiliates reserve the right to make changes to the product(s) or information  contained herein without notice.  \nVisit www.macom.com  for additional data sheets and product information.  \n \n \nFor further information and support please visit:  \nhttps://www.macom.com/support  \nDS-MABA -007748 -CT1160  4 MACOM Technology Solutions Inc. All rights reserved.  \nInformation in this document is provided in connection with MACOM Technology Solutions Inc ("MACOM")\nproducts. These materials are provided by MACOM as a service to its customers and may be used for             \ninformational purposes only. Except as provided in MACOM\'s Terms and Conditions of Sale for such products or \nin any separate agreement related to this document, MACOM assumes no liability whatsoever. MACOM        \nassumes no responsibility for errors or omissions in these materials. MACOM may make changes to           spec-\nifications and product descriptions at any time, without notice. MACOM makes no commitment to update the in-\nformation and shall have no responsibility whatsoever for conflicts or incompatibilities arising from future chang-\nes to its specifications and product descriptions. No license, express or implied, by estoppels or otherwise, to \nany intellectual property rights is granted by this document.  \n \nTHESE MATERIALS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR \nIMPLIED, RELATING TO SALE AND/OR USE OF MACOM PRODUCTS INCLUDING LIABILITY OR          \nWARRANTIES RELATING TO FITNESS FOR A PARTICULAR PURPOSE, CONSEQUENTIAL OR                 \nINCIDENTAL DAMAGES, MERCHANTABILITY, OR INFRINGEMENT OF ANY PATENT, COPYRIGHT OR \nOTHER INTELLECTUAL PROPERTY RIGHT. MACOM FURTHER DOES NOT WARRANT THE ACCURACY \nOR COMPLETENESS OF THE INFORMATION, TEXT, GRAPHICS OR OTHER ITEMS CONTAINED WITHIN \nTHESE MATERIALS. MACOM SHALL NOT BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, OR \nCONSEQUENTIAL DAMAGES, INCLUDING WITHOUT LIMITATION, LOST REVENUES OR LOST PROFITS, \nWHICH MAY RESULT FROM THE USE OF THESE MATERIALS.  \n \nMACOM products are not intended for use in medical, lifesaving or life sustaining applications. MACOM        \ncustomers using or selling MACOM products for use in such applications do so at their own risk and agree to \nfully indemnify MACOM for any damages resulting from such improper use or sale.  \n'}]
+!==============================================================================!
+### Component Summary: MABA-007748-CT1160
+
+**Component Type:**  
+1:1 RF Transformer
+
+**Manufacturer:**  
+M/A-COM Technology Solutions Inc.
+
+---
+
+### Key Specifications:
+
+- **Voltage Ratings:**  
+  Not explicitly stated; however, the component is designed for RF applications.
+
+- **Current Ratings:**  
+  - **DC Current:** 30 mA
+
+- **Power Consumption:**  
+  - **RF Power:** 250 mW
+
+- **Operating Temperature Range:**  
+  - **Operating Temperature:** -40°C to +85°C  
+  - **Storage Temperature:** -40°C to +85°C
+
+- **Package Type:**  
+  Surface Mount (Case Style: SM-22)
+
+- **Special Features or Notes:**  
+  - 260°C Reflow Compatible  
+  - RoHS Compliant and Pb Free  
+  - Available on Tape and Reel  
+  - Designed for high volume CATV/Broadband applications
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**  
+  Not specified in the provided text.
+
+---
+
+### Description of the Component:
+
+The MABA-007748-CT1160 is a 1:1 RF transformer designed for use in high-frequency applications ranging from 5 MHz to 1200 MHz. It is packaged in a low-cost surface mount format, making it suitable for high-volume production. This transformer is particularly useful in applications requiring impedance matching and signal isolation.
+
+---
+
+### Typical Applications:
+
+The MABA-007748-CT1160 is primarily used in:
+- **CATV (Cable Television) Systems:** For signal distribution and impedance matching.
+- **Broadband Applications:** To ensure efficient signal transfer and minimize losses.
+- **RF Signal Processing:** In various communication systems where RF signal integrity is crucial.
+
+This component is ideal for applications that require reliable performance in a compact form factor, making it a valuable choice for engineers designing RF circuits in consumer electronics, telecommunications, and broadcasting systems.

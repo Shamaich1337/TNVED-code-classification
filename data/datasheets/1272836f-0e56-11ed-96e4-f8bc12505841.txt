@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 281934-2 production of TE CONNECTIVITY from the text:A3DIMENSIONS:\n0 PLC\n1 PLC\n2 PLC\n3 PLC\n4 PLC\nANGLESD D\nC\nB\nAC\nB\nA4 3 2 1\nOF SCALE SHEET REVNAME\nSIZE CAGE CODE DRAWING NOTOLERANCES UNLESS\nOTHERWISE SPECIFIED:DWN\nCHK\nAPVD\nMATERIAL FINISHREVISIONS\nPLTR DATE APVD DWN DESCRIPTIONALL RIGHTS RESERVED.RELEASED FOR PUBLICATION\nCCOPYRIGHTTHIS DRAWING IS UNPUBLISHED.\nPRODUCT SPEC\nAPPLICATION SPEC\nWEIGHT\n1470-19 (3/13)RESTRICTED TOTHIS DRAWING IS A CONTROLLED DOCUMENT.\nTE Connectivity3.54.35.93.9+0.1\n 0\n3.4\n0.3+0.1\n 0\n7.8\nCustomer Drawing281934C.BERTINI12-\'88\nA.BRUNI05-\'92\n--\n15:1 11H2-\n-\n--mm\n0.3\n0.3\n-\n-\n-\n2\x01$\x02SINGLE WIRE SEAL \n-2020\n-BY -\nSEE TABLE -H2REDRAWN (ECR-15-005089) 09APR2015 M.G.M.G.\n4.40.24.00.20.80.2\n6.10.25.90.2\n1.2 - 1.6 1.0\x01#\x020.2 1.0\x01#\x020.2WHITEFLUORSILICONE\nRUBBER\n(FSL)H281934-5\nGREEN\nSILICONE\nRUBBER\n(LSR)H281934-4\n2.5 - 3.3 2.0\x01#\x020.2 1.8\x01#\x020.2 RED H281934-3\n1.7 - 2.4 1.4\x01#\x020.2 1.4\x01#\x020.2 YELLOW H281934-2\nSUITABLE FOR\n INS. DIADIM. "Y" DIM. "X" COLOUR MATERIAL REV. P/N1\n281934-2:21 8\n2\n281934-2:18 8\n3\n281934-2:19 8\n4\n281934-2:2 85\nDRAWING:27 8\n6\nDRAWING:31 8\n7\nDRAWING:30 8\n8\nDRAWING:40 89\n281934-2:5210\nDIMID11\n281934-2:57 812\n281934-2:58 813\n281934-2:53 8\n14\n281934-2:54 8\nSCALE  5:1\n'}]
+!==============================================================================!
+### Component Summary for TE Connectivity Product Code 281934-2
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text.
+- **Current Ratings:** Not explicitly stated in the provided text.
+- **Power Consumption:** Not explicitly stated in the provided text.
+- **Operating Temperature Range:** Not explicitly stated in the provided text.
+- **Package Type:** Not explicitly stated in the provided text.
+- **Special Features or Notes:** The component is a single wire seal, suitable for insulation diameter.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not explicitly stated in the provided text.
+
+#### Description:
+The component identified by the product code **281934-2** is a **single wire seal** made from **yellow silicone rubber (LSR)**. It is designed to provide a reliable seal for electrical connections, ensuring protection against moisture and contaminants. The dimensions and specifications for the insulation diameter are provided, indicating that it is tailored for specific wire sizes.
+
+#### Typical Applications:
+The **281934-2** single wire seal is typically used in applications where environmental sealing is critical. This includes:
+- **Automotive**: Protecting electrical connections from moisture and dirt.
+- **Industrial Equipment**: Ensuring reliability in harsh environments.
+- **Consumer Electronics**: Providing sealing solutions for connectors and wiring.
+- **Aerospace**: Used in applications requiring high reliability and resistance to environmental factors.
+
+This component is essential for maintaining the integrity of electrical connections in various applications, ensuring long-term performance and reliability.

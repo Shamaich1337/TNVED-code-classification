@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDNC01102-JF production of NEDITEK from the text:                                       NDNC01102 -JF \n14-18GHz GaN Power Amplifier Module  \n\uf0d8 Features                                    Functional table  \n\uf06c Frequency range ：14-18GHz \n\uf06c Typical small signal gain ：29dB \n\uf06c Typical output power ：46.5dBm @28V \n\uf06c Typical additional efficiency ：30% \n\uf06c Bias：-2.0V(Typ)，28V \n\uf06c Dimension ：18.03 mm× 8.7mmx2.5mm  \n\uf0d8 General Description  \nNDNC01102 -JF is a high power amplifier module c overs the frequency range from 14 to 18  GHz. Each \nchip is 100% DC and RF tested on -wafer to ensure performance compliance. The NDNC01102 -JF uses \ndual DC supply, can provide 4 6.5dBm output po wer, 21.5 po wer gain and PAE 30% under Vds=28V \nDrain voltage, Vgs= -2V Gate voltage  in frequency range 14 -18 GHz. Power amplifier module adopts \n18.03mm × 8.7mm × 2.5 mm metal ceramic shell package, the pin is made of Kovar material, and the \nsurface is nickel plated and gold plated, which is suitable for h igh temperature welding process . \n\uf0d8 Absolute Maximum Ratings （TA＝25℃）1 \nSymbol  Parameters  Values  Remark  \nVd Drain Voltage  32V  \nVg Gate Voltage  -10V  \nIg Gate Current  100m A  \nPin Input signal power  30dBm  \nOutput VSWR  Output VSWR  5:1  \nOperating Temperature range  Operating Temperature range  220℃  \nTstg Storage temperature  -65～150℃  \nESD Sensitivity, Human Body M odel Anti-Static level  Class A   \n【1】 Exceeding any one or combination of these limits may cause permanent damage  \n\uf0d8 Electrical Characteristics （TA=25℃） \nSymbol  Parameter  Test Condition  Value  \nUnit \nMin Typ Max \nGlin Small signal gain  Vg=-2.0V \nVd＝28V \nF：14～18GHz  \nTw=100us, D= 10% - 29 - dB \nGp Power gain (Pin=25dBm ) - 21.5 - dB \nPout Saturation output power (Pin=2 5dBm)  - 46.5 - dBm \nPAE Power add itional efficiency (Pin=25 dBm)  - 30 - % \n \n  \n\nNDNC01102 -JF \n14-18GHz GaN Power Amplifier Module  \n\uf0d8 Typical testing curve  \n \nOutput power  curve                              PAE curve  \n           \n \n\uf0d8 Chip size （Unit: m m）                               \n    \n \n \n  Symbol  Value \nMin Typ Max \nH - 2.24 2.50 \nL 17.83 18.03 18.23 \nW 8.50 8.70 8.909 \n                                            \n \n \n\uf0d8 Pin definition diagram  \nLeading -out No  Function  Leading -out No  Function  \n1 Gate (Vg)  4 Drain (Vd) \n2 RF in  5 RF out  \n3 Gate (Vg)  6 Drain (Vd) \n \n \n \n \n \n \n \n \n \n \nNEDI  \n\n     NDNC01102 -JF \n14-18GHz GaN Power Amplifier Module  \n\uf0d8 Note:  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\uf0d8 Recommended peripheral electrofeed  \nNo Recomme nded value  \nC1 10uF \nC2 1uF \nC3 1000uF  \n1. In the use of the product, the RF input and output terminals shall adopt the transmission line structure as shown in the f igure;  \n2. During power on, the voltage shall meet the working voltage recommended in the manual;  \n3. When the module is in continu ous wave working mode, please add µ level filter capacitor to the Vd port nearby according to the peripheral electrofeed;  \n4. If the module feed circuit needs to use voltage regulator for voltage conversion, please ensure that the over -current capacity of the selected voltage \nregulator is greater than that of the module  \nRecommended working current;  \n5. Pay attention to the sequence of negative electricity first and then positive electricity during the power on process;  \n6. Pay attention to the current limiting protection in use;  \n7. Pay attention to good grounding when using;  \n8. Effective anti -static measures shall be taken during use, storage and transportation;  \n9. The working temperature shall be strictly controlled w ithin the temperature range recommended in the manual;  \n10. If the product has problems, it should be returned to the original manufacturer for maintenance, and it is not allowed to  open the cover . \n\n'}]
+!==============================================================================!
+### Component Summary: NDNC01102-JF
+
+**Product Code:** NDNC01102-JF  
+**Manufacturer:** NEDITEK  
+**Type:** GaN Power Amplifier Module  
+**Frequency Range:** 14-18 GHz  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Drain Voltage (Vd): 28V (Max: 32V)
+  - Gate Voltage (Vg): -2.0V (Max: -10V)
+  
+- **Current Ratings:**
+  - Gate Current (Ig): 100 mA
+  
+- **Power Consumption:**
+  - Typical Output Power: 46.5 dBm @ 28V
+  - Typical Additional Efficiency: 30%
+  
+- **Operating Temperature Range:**
+  - Operating: -20°C to +220°C
+  - Storage: -65°C to +150°C
+  
+- **Package Type:**
+  - Metal ceramic shell package
+  - Dimensions: 18.03 mm x 8.7 mm x 2.5 mm
+  
+- **Special Features:**
+  - 100% DC and RF tested on-wafer
+  - Dual DC supply
+  - High-temperature welding compatible (Kovar material pins, nickel and gold plated)
+  
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+#### Description:
+The NDNC01102-JF is a high-power GaN (Gallium Nitride) power amplifier module designed for operation in the frequency range of 14 to 18 GHz. It is engineered to deliver significant output power and efficiency, making it suitable for various high-frequency applications. The module is tested for performance compliance, ensuring reliability in demanding environments.
+
+#### Typical Applications:
+The NDNC01102-JF is typically used in:
+- **Telecommunications:** For signal amplification in communication systems operating at microwave frequencies.
+- **Radar Systems:** Enhancing signal strength in radar applications.
+- **Satellite Communications:** Amplifying signals for satellite transmission and reception.
+- **Test Equipment:** Used in RF test setups for measuring and analyzing high-frequency signals.
+
+This power amplifier module is ideal for applications requiring robust performance in high-frequency ranges, making it a critical component in modern communication and radar technologies.

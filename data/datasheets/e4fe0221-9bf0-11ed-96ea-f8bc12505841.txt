@@ -1,0 +1,59 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of Cr4+:YAG passive gate dia 9.5 mm initial transmission 40 production of METALASER from the text:Cr4+: YAG (Cr4+:Y3Al5O12) is an excellent crystal \nfor passively Q-switching. It can be used as work -\ning medium of 1350~1600nm lasers and 900~1200nm passive Q-switching lasers, such as Nd: YAG, Nd: YLF, Nd: YVO4, Yb: YAG lasers. Typi-cally, Cr4+:YAG can be grown by Czochralski method. In recent years, Cr4+:YAG is taking the place of traditional crystal materials such as LiF and Dye owning a variety of prominent features, including merits of good chemical stability&ther-mal conductivity, UV resistant, and high damage threshold and easily to be operated.\nFeatures\nHigher reliability & longer lifetime \nradiation stability\nhigh thermal conductivity\nUV resistant and high damage threshold  SpecificationsApplications\nQ-switching and model-locking for Nd:YAG\nQ-switching and model-locking for Nd:YAP\nDescriptionCr4+: YAG Cr4+:Y3Al5O12\nXXX\x0fNFUB\x0eMBTFS\x0fDPN sales@meta-photonics.com\nQ-switching and model-locking for Nd:KGW\nQ-switching and model-locking for Nd:YVO4\nCr4+:YAG laser\nPumping erbium-doped lasers and amplifiers\nProperty Value \nChemical formula Cr4+:Y3Al5O12 \nCrystal structure cubic - la3d \nLattice parameters, Å 12.01 \nOrientation [100] or [110] < ±0.5°\nMass density 4.56 g/cm3 \nMohs hardness 8.5 \nYoung's modulus  335 GPa  \nTensile strength 2 GPa \nMelting point 1970°C \nThermal conductivity  0.1213  \nSpecific Heat/ (J·g-1·K-1) 0.59 \nThermal Expansion /(10-6/°C@25°C) 7.8 <111> \n7.7 <110> \n8.2 <100> \nThermal shock resistance parameter 800 W/m \nExtinction Ratio  25dB \nPoisson Ratio 0.25 \nRefractive Index @1064 nm 1.83 \nCharge compensating ion Ca2+, Mg2+ \nOptical properties\nXXX\x0fNFUB\x0eMBTFS\x0fDPN sales@meta-photonics.comCr4+: YAG Cr4+:Y3Al5O12\nPolishing Specification\nPolishing SpecificationProperty Value \nOptical Density 0.1 to 0.8 \nFluorescence lifetime 3.4µs \nConcentrations 0.5 mol % ~ 3 mol % \nEmission wavelength 1350 nm ~ 1600 nm \nAbsorption Coefficient 1.0 cm-1 ～ 7 cm-1 \nGround state absorption cross section 4.3x10-18 cm2 \nEmission state absorption cross section 8.2x10-19 cm2 \nTransmission 10% to 90% \nCoatings AR≤ 0.2% @1064nm \nDamage Threshold: > 500 MW / cm2Property  Value  \nOrientation Tolerence < 0.5° \nThickness/Diameter Tolerance ±0.05 mm \nSurface Flatness <λ/8@632 nm \nWavefront Distortion <λ/4@632 nm \nSurface Quality 10/5 \nParallel 10〞 \nPerpendicular 5ˊ \nClear Aperture  >90%\nChamfer <0.1×45° \nHR coating <= 0.2% (@ 1340nm) \nMaximum dimensions 2*2-15*15 mm×20mm \nInitial transmission @1064nm Dimensions, mm Coatings Surface Flatness Surface Quality (scratch/dig ) \nT0=30%-97% dia 5 \nAR≤0.2% @1064nm <λ/8@632 nm 10/5 3x3 \n5x5 \n"}]
+!==============================================================================!
+### Component Summary: Cr4+:YAG (Cr4+:Y3Al5O12)
+
+**Description:**
+Cr4+:YAG is a crystal used primarily for passive Q-switching in laser applications. It serves as a working medium for lasers operating in the wavelength range of 1350 to 1600 nm and for passive Q-switching in lasers such as Nd:YAG, Nd:YLF, Nd:YVO4, and Yb:YAG. The crystal is known for its excellent optical properties and is produced using the Czochralski method.
+
+**Key Specifications:**
+- **Chemical Formula:** Cr4+:Y3Al5O12
+- **Crystal Structure:** Cubic (la3d)
+- **Lattice Parameters:** 12.01 Å
+- **Mass Density:** 4.56 g/cm³
+- **Mohs Hardness:** 8.5
+- **Young's Modulus:** 335 GPa
+- **Tensile Strength:** 2 GPa
+- **Melting Point:** 1970°C
+- **Thermal Conductivity:** 0.1213 W/(m·K)
+- **Specific Heat:** 0.59 J/(g·K)
+- **Thermal Expansion:** 
+  - 7.8 (111)
+  - 7.7 (110)
+  - 8.2 (100) (10^-6/°C @ 25°C)
+- **Thermal Shock Resistance:** 800 W/m
+- **Extinction Ratio:** 25 dB
+- **Poisson Ratio:** 0.25
+- **Refractive Index @ 1064 nm:** 1.83
+- **Charge Compensating Ions:** Ca²⁺, Mg²⁺
+
+**Optical Properties:**
+- **Optical Density:** 0.1 to 0.8
+- **Fluorescence Lifetime:** 3.4 µs
+- **Concentration Range:** 0.5 mol % to 3 mol %
+- **Emission Wavelength:** 1350 nm to 1600 nm
+- **Absorption Coefficient:** 1.0 cm⁻¹ to 7 cm⁻¹
+- **Ground State Absorption Cross Section:** 4.3 x 10⁻¹⁸ cm²
+- **Emission State Absorption Cross Section:** 8.2 x 10⁻¹⁹ cm²
+- **Transmission:** 10% to 90%
+- **Damage Threshold:** > 500 MW/cm²
+
+**Package Type:**
+- Diameter: 9.5 mm (initial transmission 40%)
+
+**Special Features:**
+- High reliability and longer lifetime
+- Radiation stability
+- High thermal conductivity
+- UV resistant with a high damage threshold
+- Easily operable
+
+**Moisture Sensitive Level:**
+- Not specified in the provided text.
+
+### Typical Applications:
+Cr4+:YAG is primarily used in:
+- **Q-switching and model-locking** for various laser types including Nd:YAG, Nd:YAP, Nd:KGW, and Nd:YVO4 lasers.
+- **Pumping** erbium-doped lasers and amplifiers.
+- It is increasingly replacing traditional materials like LiF and dye due to its superior properties, making it suitable for high-performance laser systems in industrial, medical, and scientific applications. 
+
+This summary encapsulates the essential characteristics and applications of the Cr4+:YAG crystal, highlighting its significance in laser technology.

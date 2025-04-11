@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ZMCT182-4 production of QINGXIAN ZEMING LANGXI ELECTRONIC DEVICES CO.,LTD from the text:QingxianZemingLangxiElectronic www.micro-transformer.com\nTel:86-25-52601870 E-mail:zm@zeming-e.comZMCT182-4CurrentTransformer\nSmallsize,highaccuracy,goodconsistency,forcurrentandpowermeasurement\nStructuralparameters:\n\nQingxianZemingLangxiElectronic www.micro-transformer.com\nTel:86-25-52601870 E-mail:zm@zeming-e.comThemaintechnicalparameters:\nModel ZMCT182-4\ninputcurrent 0~50A(10Ω)\nRatedoutputcurrent 2.5mAat5A\nturnsratio 2000:1\nphaseangleerror ≤8＇(input5A,samplingresistor10Ω)\nAccuracyclass 0.1\nPermissibleerror -0.1%≤f≤+0.1%(input5A,samplingresistor10Ω)\nisolationvoltage 4500V\napplication currentandpowermeasurement\nEncapsulation Epoxy\ninstallation PCBmounting\noperatingtemperature -40℃~+85℃\nDirectionforuse:\nFigureⅠ FigureⅡ\n1.ZMCT182-4usedformeasurement.TypicalusageisshowninFigure1andFigure2.Risasamplingresistor.\n2.Emptypincannotbegrounded.\n'}]
+!==============================================================================!
+### Component Summary: ZMCT182-4
+
+**Manufacturer:** Qingxian Zeming Langxi Electronic Devices Co., Ltd  
+**Product Code:** ZMCT182-4  
+**Type:** Current Transformer
+
+#### Key Specifications:
+- **Input Current Range:** 0 to 50 A (with a 10Ω sampling resistor)
+- **Rated Output Current:** 2.5 mA at 5 A input
+- **Turns Ratio:** 2000:1
+- **Phase Angle Error:** ≤ 8' (at 5 A input with a 10Ω sampling resistor)
+- **Accuracy Class:** 0.1
+- **Permissible Error:** -0.1% to +0.1% (at 5 A input with a 10Ω sampling resistor)
+- **Isolation Voltage:** 4500 V
+- **Operating Temperature Range:** -40°C to +85°C
+- **Package Type:** PCB Mounting
+- **Encapsulation:** Epoxy
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The ZMCT182-4 is a small-sized, high-accuracy current transformer designed for current and power measurement applications. It features a high turns ratio of 2000:1, allowing it to effectively convert high input currents into a manageable output current for measurement purposes. The device is encapsulated in epoxy for durability and is suitable for PCB mounting.
+
+#### Typical Applications:
+The ZMCT182-4 is primarily used in applications requiring precise current and power measurement. Typical uses include:
+- Power monitoring systems
+- Energy management systems
+- Industrial automation
+- Electrical metering
+- Protection relays in electrical circuits
+
+This component is particularly valuable in scenarios where accurate current sensing is critical, such as in power distribution and energy efficiency applications.

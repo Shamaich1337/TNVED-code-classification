@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FJ940A13 production of NAKU TECHNOLOGY CO., LTD from the text:www.CivilLaser.comEmail:manager@civillaser.comModel#：FJ940X14\nFiberCoupled940nmLaserwith105umCoreDiameterand4WOutputPower.\nParameters：\nTypicalparameters SymbolUnit Value\nOptical\nparametersOutputpower P W 4\nCentralwavelength λ nm 940\nWavelengthrange - nm ±10\nOpticalFiber\nParametersFiberCoreDiameter W105 μm 105\nNumericalaperture NA - 0.22\nConnector - - FC/SMA\nElectrical\nParametersWorkingCurrent Iop A 5\nThresholdcurrent Ith A 0.4\nPowerconversion\nefficiencyη % ~40\nDifferentialquantum\nefficiencyηDW/A 0.9~1.1\nWorkingvoltage Vop V ~1.8\nOthers workingtemperature Top\n℃10~30\nStoragetemperature Tst\n℃-20~+60\nlifeexpectancy MTTF h >10000\nwww.CivilLaser.comEmail:manager@civillaser.comPackagingdimensions:\nPin Explain Pin Explain\nA Laser+ B Laser-\nMattersneedingattention:\n\uf06cAvoidlaserirradiationofeyesandskinwhenlaserworks.\n\uf06cAntistaticmeasuresmustbetakenintransportation,storageanduse.\n\uf06cConstantcurrentpowersupplyisusedtoavoidsurgewhenworking.\n\uf06cItshouldbeusedunderratedcurrentandratedpower.\n\uf06cGoodheatdissipationshouldbeguaranteedwhenthelaserworks.\n\uf06cTheendfaceoftheopticalfibershouldbecleanedbeforeuse.\n\uf06cOpticalfibersshouldnotbendatlargeangles.Thebendingdiametershouldbegreater\nthan300timesthediameterofopticalfibers.\n\n'}]
+!==============================================================================!
+### Component Summary: FJ940A13 from NAKU TECHNOLOGY CO., LTD
+
+#### Key Specifications:
+- **Output Power**: 4 W
+- **Central Wavelength**: 940 nm
+- **Wavelength Range**: ±10 nm
+- **Fiber Core Diameter**: 105 μm
+- **Numerical Aperture**: 0.22
+- **Connector Type**: FC/SMA
+- **Working Current (Iop)**: 5 A
+- **Threshold Current (Ith)**: 0.4 A
+- **Power Conversion Efficiency (η)**: ~40%
+- **Differential Quantum Efficiency (ηDW/A)**: 0.9 ~ 1.1
+- **Working Voltage (Vop)**: ~1.8 V
+- **Operating Temperature Range**: 10°C to 30°C
+- **Storage Temperature Range**: -20°C to +60°C
+- **Mean Time to Failure (MTTF)**: >10,000 hours
+- **Moisture Sensitive Level**: Not specified in the provided data.
+
+#### Description:
+The FJ940A13 is a fiber-coupled laser diode designed to emit light at a central wavelength of 940 nm. It is specifically engineered for applications requiring high output power (4 W) and is compatible with optical fibers having a core diameter of 105 μm. The laser features a numerical aperture of 0.22, allowing for efficient coupling into optical fibers. The device operates at a low threshold current of 0.4 A and has a working current of 5 A, making it suitable for various applications in optical systems.
+
+#### Typical Applications:
+The FJ940A13 laser diode is typically used in:
+- **Optical Communication**: As a light source for transmitting data over fiber optic cables.
+- **Medical Devices**: In applications such as phototherapy or laser surgery where specific wavelengths are required.
+- **Industrial Applications**: For laser marking, cutting, or sensing applications that utilize fiber optics.
+- **Research and Development**: In laboratories for experiments requiring precise light sources in the near-infrared spectrum.
+
+#### Important Notes:
+- Users must take precautions to avoid laser exposure to eyes and skin during operation.
+- Antistatic measures should be implemented during transportation, storage, and usage.
+- A constant current power supply is recommended to prevent surges during operation.
+- Proper heat dissipation must be ensured while the laser is in use.
+- The end face of the optical fiber should be cleaned before use, and care should be taken to avoid sharp bends in the fiber, maintaining a bending diameter greater than 300 times the fiber's diameter. 
+
+This summary provides a comprehensive overview of the FJ940A13 laser diode, highlighting its specifications, functionality, and applications.

@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of LPJE108-0AG-MGNL production of LINK-PP from the text: \nSCALE: SHEET:2/1 1/1ANGLES ±1° UNIT: \nREV:APART NO.:TITLE:X:X    ±0.20\nX:XX   ±0.10X:XXX  ±0.05 DR:CHKD:APPD:\nDWG NO.:APPD DATE DESCRIPTION ECN NO. REV.\nREL A\nmmTOMMechanical:\n2015/12/29\n2×4 SIDE ENTRY PCB JACK WITH SHIELD   NOTES:\nMACHANICAL:\n   1.HOUSING MATERIAL      :GLASS FILLED POLYESTER OR HIGH TEMP. UL94V-0.\n   2.CONTACT MATERIAL               :PHOSPHOR BRONZE t=0.35mm.   3.PLATING                        :CONTACT AREA-SELECTIVE GOLD PLATING.                                      TAILS-PLATED TIN OVER NICKEL.   4.OPERATING LIFE                 :750 CYCLES MIN   5.PCB RETENTION PRE-SOLDER       :1 LB MIN     6.PCB RETENTION POST-SOLDER      :10 LBS MIM\n   7.LED SIZE                       :3.2*2.0*4.0*P=2.29mm                        \nELECTRICAL:\n   1.VOLTAGE RATING                 :125VAC RMS.   2.CURRENT RATING                 :1.5AMP.   3.CONTACT RESISTANCE             :50 MILLIOHMS MAX.   4.INSULATION RESISTANCE          :1000MEGOHMS MIN @ 500V DC.   5.DIELECTRIC STRENGTH            :1000V AC RMS 60Hz. 1MIN.\nENVIRONMENTAL:\n   1.STORAGE                        :-40℃  +85℃.\n   2.OPERATION                      :-40℃  +85℃.\nMATES WITH MODULAR PLUG CONFORMING TO FCC PART 68, SUBPART F.～\n～\nLP081112299 10 11 12YELLOW/LEFT LED GREEN/RIGHT LEDYELLOW LED GREEN LED\nYELLOW LED GREEN LED\nSUGGESTED PCB LAYOUT(TOP VIEW)  \n1357246886427531\n8 27 1\n1 72 88 27 1\n1 72 88 27 1\n1 72 8910 1112\n910 1211 910 1211\nLPJE108-0AG-MGNL\n'}]
+!==============================================================================!
+### Component Summary for LPJE108-0AG-MGNL
+
+#### Key Specifications:
+- **Voltage Rating:** 125 VAC RMS
+- **Current Rating:** 1.5 A
+- **Contact Resistance:** 50 milliohms max
+- **Insulation Resistance:** 1000 megaohms min @ 500 V DC
+- **Dielectric Strength:** 1000 V AC RMS for 1 minute at 60 Hz
+- **Operating Temperature Range:** -40°C to +85°C
+- **Storage Temperature Range:** -40°C to +85°C
+- **Package Type:** 2×4 Side Entry PCB Jack with Shield
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text
+- **Special Features/Notes:**
+  - Housing Material: Glass filled polyester or high temp UL94V-0
+  - Contact Material: Phosphor bronze (t=0.35mm)
+  - Plating: Selective gold plating on contact area; tin over nickel on tails
+  - Operating Life: 750 cycles minimum
+  - PCB Retention Pre-Solder: 1 lb minimum
+  - PCB Retention Post-Solder: 10 lbs minimum
+  - LED Size: 3.2 x 2.0 x 4.0 mm with a pitch of 2.29 mm
+
+#### Description:
+The LPJE108-0AG-MGNL is a 2×4 side entry PCB jack designed for modular plug connections, conforming to FCC Part 68, Subpart F. It features a shielded design to minimize electromagnetic interference and ensure reliable connections. The component is constructed from durable materials, ensuring longevity and performance in various applications.
+
+#### Typical Applications:
+This PCB jack is typically used in telecommunications and networking equipment, where reliable connections are essential. It is suitable for applications such as:
+- Data communication systems
+- Networking devices (e.g., routers, switches)
+- Audio/video equipment
+- Consumer electronics that require modular connectivity
+
+The robust design and electrical specifications make it ideal for environments where durability and performance are critical.

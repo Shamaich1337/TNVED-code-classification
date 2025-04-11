@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MF2W300FTR production of WEE TECHNOLOGY  from the text:1/1\nMetalFilmPrecisionResistor\nWEETechnologyCompanyLimited\nFLAT/RM705,7/F,\nFAYUENCOMMBLDGNO.75,\nFAYUENSTREET,MONGKOK,KL,HK\nwww.weetcap.com\ninfo@weetcap.comAlldetailsinthisdatasheetaresubjecttochangewithoutnotice.\nFormoredetailsandupdates,pleasevisitourwebsite.\nCopyright©2000WEETechnology,Allrightsreserved.\nFEATURES\n\uf0d8Highprecisionandlowtemperaturecoefficient\n\uf0d8ResistanceTolerance:±0.1%,±0.25%,±0.5%,±1%,±0.05%,±0.01%,\n\uf0d8T.C.R/℃:±5ppm/℃,±10ppm/℃,±15ppm/℃,±25ppm/℃,±50ppm/℃,±100ppm/℃\n\uf0d8Mainlyusedintheindustriesofprecisioninstruments,electronicmeasurement.\nDRAWINGandDIMENSIONS(mm)\nSPECIFICATIONS\nPowerRating70℃ 1/6W,1/8W,1/4WS1/4W,1/2WS 1/2W,1WS 1W,2WS 2W,3WS,3W,5W5WS\nSeriesNumber MF\nOperatingTemp.Range -55℃~+155℃\nMax.WorkingVoltage 200V 250V 350V 500V 500V\nMax.OverloadVoltage 400V 600V 700V 1000V 1000V\nDielectricWithstandingVoltage(AC) 300V 500V 700V 1000V 1000V\nMax.IntermittenceOverloadVoltage 400V 600V 700V 1000V 1000V\nValueRange±0.25%,±0.5%,±1%,±0.1% 10Ω-1MΩ\nValueRange±0.05%,±0.1% 100Ω-100KΩ\nTemp.Coefficient(byType) ±5ppm/℃,±10ppm/℃,±15ppm/℃,±25ppm/℃,±50ppm/℃,±100ppm/℃\nFIG.1DERATINGCURVE FIG.2HOT-SPOTTEMPERATURE\nNote:Otherresistanceisavailableonrequest.WEETiscapableofdoingcustomserviceforyou.SeriesPowerRating Dimension(mm) Value\nRange (Watt) L ØD H Ød\nMF1/6W,1/8W,\n1/4WS3.2±0.21.8±0.328±20.45±0.051Ω~10MΩ\nMF1/4W,1/2WS6.0±0.22.3±0.326.5±20.50±0.051Ω~10MΩ\nMF1/2W,1WS 9.0±0.53.2±0.326±20.58±0.051Ω~10MΩ\nMF1W,2WS 11.0±0.54.5±0.535±20.68±0.051Ω~10MΩ\nMF2W,3WS 15.0±0.55.0±0.532±20.78±0.051Ω~10MΩ\nMF3W,5WS 17.0±0.56.0±0.532±20.78±0.051Ω~10MΩ\nMF5W 25.0±18.0±0.535±30.78±0.051Ω~10MΩ\n'}]
+!==============================================================================!
+### Component Summary: MF2W300FTR - Metal Film Precision Resistor
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Maximum Working Voltage: 500V
+  - Maximum Overload Voltage: 1000V
+  - Dielectric Withstanding Voltage (AC): 1000V
+  - Maximum Intermittence Overload Voltage: 1000V
+
+- **Current Ratings:**
+  - Power Rating at 70°C: 2W
+
+- **Power Consumption:**
+  - Power Rating: 2W
+
+- **Operating Temperature Range:**
+  - -55°C to +155°C
+
+- **Package Type:**
+  - Standard cylindrical resistor package (dimensions: 15.0mm length, 5.0mm diameter)
+
+- **Special Features or Notes:**
+  - High precision with low temperature coefficient.
+  - Resistance tolerance options: ±0.1%, ±0.25%, ±0.5%, ±1%, ±0.05%, ±0.01%.
+  - Temperature Coefficient of Resistance (TCR): ±5ppm/°C, ±10ppm/°C, ±15ppm/°C, ±25ppm/°C, ±50ppm/°C, ±100ppm/°C.
+  - Custom resistance values available upon request.
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+#### Description:
+The MF2W300FTR is a metal film precision resistor designed for high accuracy and stability in electronic circuits. It is characterized by its low temperature coefficient, making it suitable for applications requiring precise resistance values over varying temperatures. The resistor is available in various resistance tolerances and temperature coefficients, allowing for flexibility in design.
+
+#### Typical Applications:
+The MF2W300FTR is primarily used in:
+- **Precision Instruments:** For accurate measurements and control in scientific and industrial applications.
+- **Electronic Measurement:** In devices that require high precision in resistance values, such as multimeters and oscilloscopes.
+- **Signal Processing:** Where stable and precise resistive values are critical for signal integrity.
+- **Calibration Equipment:** Used in setups that require precise resistance for calibration purposes.
+
+This component is ideal for applications in industries such as telecommunications, automotive, and consumer electronics, where reliability and precision are paramount.

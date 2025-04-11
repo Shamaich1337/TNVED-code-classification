@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MSS-2235 production of NINIGI from the text:22.08.2023, 10:57 PRODUCT  - MSS 2235\nwww .msswitch.co.kr/index.php?mid=product&document_srl=60234&ckattempt=1&listStyle=viewer 1/3Dip type\nMSS 2235\nby anonymous  posted MAR 05, 2015\nSumma tion\n1. Category : Slide Switch\n2. Model No : MSS 2235\n3. Soldering Type : Auto & Manual\n4. Rating : DC 6V 0.3A\n5. Operating Force : 250 , 300gf\nDrawing\n en\n22.08.2023, 10:57 PRODUCT  - MSS 2235\nwww .msswitch.co.kr/index.php?mid=product&document_srl=60234&ckattempt=1&listStyle=viewer 2/3\nSpecifica tion\nGeneral\nRating DC 6V 0.3AOperation temperature\nrange-10 ~ 60 ℃\nPreservative temperature\nrange-20 ~ 70 ℃\nElectrical characteristics\nContact Resistance 70mΩ Max. Insulation Resistance 100MΩ Min.\n \nMechanical characteristics\nOperation Force 200 ±100gf Travel 2.0± 0.1mm\nClimatic characteristics\nCold -20 ± 2 ℃  / 96Hours Heat 80 ± 2 ℃  / 96Hoursen\n22.08.2023, 10:57 PRODUCT  - MSS 2235\nwww .msswitch.co.kr/index.php?mid=product&document_srl=60234&ckattempt=1&listStyle=viewer 3/3Humidity40 ± 2 ℃  / 90 ~ 95% /\n96HoursOperating Life 10,000cycles\nSalt mist35±2 ℃  / 5 ± 1% /\n48HoursSafety Keeping Condition 6 month\nSoldering Condutions\nSoldering Type Auto & Manual Manual Soldering Condition 300 ± 5 ℃  / 5sec max\nPreheat temperature 100 ℃  max Preheat time 45 sec max\nTemperature of solder 255 ℃  max Time of immersion Within 5 sec\nMaterial List\nCase Terminal\nStem (Knob) Cover\nContact (Clip) Dust cover\nSpring Camstick\nPacking\nPacking Type Bag  Packing Packing QTY 1,000pcs / Bag\nDrawing Download : MSS 2235.pdfen\n'}]
+!==============================================================================!
+### Component Summary: MSS-2235 Slide Switch
+
+#### Key Specifications:
+- **Voltage Rating:** DC 6V
+- **Current Rating:** 0.3A
+- **Power Consumption:** Not explicitly stated; inferred from voltage and current ratings (1.8W max).
+- **Operating Temperature Range:** -10°C to 60°C
+- **Preservative Temperature Range:** -20°C to 70°C
+- **Package Type:** Dip type
+- **Contact Resistance:** 70 mΩ Max
+- **Insulation Resistance:** 100 MΩ Min
+- **Mechanical Characteristics:**
+  - **Operating Force:** 200 ± 100 gf
+  - **Travel Distance:** 2.0 ± 0.1 mm
+- **Operating Life:** 10,000 cycles
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided data.
+
+#### Description:
+The MSS-2235 is a dip-type slide switch designed for manual and automatic soldering applications. It is primarily used to control the flow of electrical current in a circuit, allowing users to toggle between different states (on/off). The switch features a compact design suitable for various electronic devices.
+
+#### Typical Applications:
+The MSS-2235 slide switch is commonly used in:
+- **Consumer Electronics:** Such as remote controls, toys, and small appliances.
+- **Industrial Equipment:** For controlling machinery and equipment settings.
+- **Automotive Applications:** In dashboard controls and lighting systems.
+- **Home Automation:** For controlling lights and other devices in smart home systems.
+
+This component is ideal for applications requiring reliable switching in a compact form factor, making it versatile for both consumer and industrial uses.

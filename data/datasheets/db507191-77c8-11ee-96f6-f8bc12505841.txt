@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of L-914CK/4GDT production of KINGBRIGHT from the text:SPEC NO: DSAE7347                  REV NO: V.6                                 DATE: JUL/14/2007                                    PAGE:  1  OF  3 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: Y.H.CHEN                                    ERP: 1102002264  2x3mm QUAD-LEVEL LED INDICATOR  \nPart Number: L-914CK/4GDT              Green  \nFeatures \nz QUAD-LEVEL DESIGN, SAVE BOARD SPACE. \nz DIFFERENT COLOR COMBINATION AVAILABLE . \nz BLACK CASE ENHANCES CONTRAST. \nz UL RATING : 94V-0. \nz HOUSING MATERIAL: TYPE 66 NYLON. \nz RoHS COMPLIANT.  Description  \nThe Green source color devices are made with Gallium \nPhosphide Green Light Emitting Diode.  \nPackage Dimensions  \nNotes: \n1. All dimensions are in millimeters (inches). 2. Tolerance is ±0.25(0.01") unless otherwise noted. \n3. Lead spacing is measured where the leads emerge from the package. \n4. Specifications are subject to change without notice.  \n\nSPEC NO: DSAE7347                  REV NO: V.6                                 DATE: JUL/14/2007                                    PAGE:  2  OF  3 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: Y.H.CHEN                                    ERP: 1102002264  Selection Guide  \nNotes: \n1. θ1/2 is the angle from optical centerline where the lumi nous intensity is 1/2 the optical centerline value. \n2. Luminous intensity/ luminous Flux: +/-15%.  \nAbsolute Maximum Ratings at TA=25°C  Electrical / Optical Characteristics at TA=25°C  \nNotes: \n1.Wavelength: +/-1nm. 2. Forward Voltage: +/-0.1V.  \nNotes: \n1. 1/10 Duty Cycle, 0.1ms Pulse Width. 2. 2mm below package base. \n3. 5mm below package base.  Part No.  Dice  Lens Type  Viewing                                          \nAngle [1]  \nMin. Typ. 2θ1/2 \nL-914CK/4GDT  Green (GaP)  GREEN DIFFUSED  1.8 6 100° Iv (mcd) [2] \n@ 10mA  \nSymbol Parameter  Device Typ. Max. Units Test Conditions  \nλpeak Peak Wavelength  Green 565  nm IF=20mA \nλD [1] Dominant Wavelength  Green 568  nm IF=20mA \nΔλ1/2 Spectral Line  Half-width  Green 30  nm IF=20mA \nC Capacitance  Green 15  pF VF=0V;f=1MHz  \nVF [2] Forward Voltage  Green 2.2 2.5 V IF=20mA \nIR Reverse Current  Green  10 uA VR = 5V \nParameter  Green Units \nPower dissipation  62.5 mW \nDC Forward Current  25 mA \nPeak Forward Current [1]  140 mA \nReverse Voltage  5 V \nOperating/Storage Temperature  -40°C To +85°C  \nLead Solder Temperature [2]  260°C For 3 Seconds  \nLead Solder Temperature [3]  260°C For 5 Seconds  \nSPEC NO: DSAE7347                  REV NO: V.6                                 DATE: JUL/14/2007                                    PAGE:  3  OF  3 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: Y.H.CHEN                                    ERP: 1102002264  Green                         L-914CK/4GDT  \n'}]
+!==============================================================================!
+### Component Summary for L-914CK/4GDT (KINGBRIGHT)
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Forward Voltage (VF): 2.2V (typical) to 2.5V (maximum) at IF = 20mA
+  - Reverse Voltage (VR): 5V
+- **Current Ratings:**
+  - DC Forward Current: 25mA
+  - Peak Forward Current: 140mA (for short pulses)
+- **Power Consumption:**
+  - Power Dissipation: 62.5mW
+- **Operating Temperature Range:**
+  - -40°C to +85°C
+- **Package Type:**
+  - 2x3mm Quad-Level LED Indicator
+- **Special Features:**
+  - Quad-level design saves board space
+  - Different color combinations available
+  - Black case enhances contrast
+  - UL Rating: 94V-0
+  - RoHS Compliant
+- **Moisture Sensitive Level:**
+  - Not specified in the provided text, but typically follows JEDEC J-STD-020E standards for moisture sensitivity.
+
+**Description:**
+The L-914CK/4GDT is a green light-emitting diode (LED) indicator made with Gallium Phosphide (GaP). It features a quad-level design that allows for multiple brightness levels while occupying minimal board space. The LED emits light in the green spectrum, with a peak wavelength of 565nm and a dominant wavelength of 568nm.
+
+**Typical Applications:**
+This component is commonly used in various applications, including:
+- **Indicator Lights:** For signaling purposes in electronic devices.
+- **Status Indicators:** To show the operational status of equipment (on/off, error states, etc.).
+- **Consumer Electronics:** In devices such as televisions, computers, and appliances where visual feedback is necessary.
+- **Control Panels:** For visual alerts in industrial and commercial equipment.
+
+The L-914CK/4GDT is ideal for applications requiring reliable and visible indication in a compact form factor, making it suitable for both consumer and industrial electronics.

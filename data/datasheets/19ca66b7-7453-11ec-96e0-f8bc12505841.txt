@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of IDP-010-S100-N5 production of E-TEC from the text:IDC – DIP Plugs   2 .54mm  \nIDC pitch  1.27mm  \n \n  \n \n \nStyle  S100 S300 S600 \nAPPLICATION AND FEATURES  \n\uf06e A perfect solution for attaching a 1 .27mm pitch               \n flat ribbon cable to a PC -board  \n\uf06e Low-profile, only 6 .00mm height  with cable  \n\uf06e Designe d for direct soldering to a PC -Board \n or plugging into DIP Socket  PCB  Hole Layout  \n  S100  S300  S600  \n \nSPECIFICATIONS  \n Current rating  1 A \n Insulato r resistance  1000 M\uf057 min. \n Contact resistance  30 m\uf057 max.  \n Withstanding voltage  500 V  AC  Operating temperature  - 40°C  to  +105°C  \n Contact material  (RoHS compliant)  Cpper Alloy  \n Insulator material  (RoHS compliant)  PBT  UL 94 V -0 \n \n How to order  \nIDP - xxx - Sxxx - N5 \n \n \n \nNbr of contacts   DIP Plug Style  \nPlating  \nS100  Style S300  Style S600  Style  Code  Pitch  (mm)  \n006; 008; 010 \n012; 014; 016 \n020; 024; 026 \n030; 034; 040 \n050; 060; 064 008; 010; 014 \n016; 018; 020 \n024; 028; 040 024; 028; 032 \n036; 040  S100  2.54 \n   N5 \n \nNi on IDC pierce area  \nAu on solder t ail S300 7.62 \nS600 15.24 \n85 \n'}]
+!==============================================================================!
+### Component Summary for IDP-010-S100-N5
+
+#### Key Specifications:
+- **Voltage Ratings**: Withstanding voltage of 500 V AC
+- **Current Ratings**: 1 A
+- **Power Consumption**: Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range**: -40°C to +105°C
+- **Package Type**: DIP Plug (Dual In-line Package)
+- **Special Features or Notes**: 
+  - Low-profile design with a height of only 6.00 mm when the cable is attached.
+  - Designed for direct soldering to a PCB or for plugging into a DIP socket.
+  - RoHS compliant materials used for both contact and insulator.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The IDP-010-S100-N5 is an IDC (Insulation Displacement Connector) DIP plug designed for connecting flat ribbon cables to printed circuit boards (PCBs). It features a 2.54 mm pitch and is specifically designed to accommodate a 1.27 mm pitch flat ribbon cable. The connector is characterized by its low-profile design, making it suitable for applications where space is limited.
+
+#### Typical Applications:
+The IDP-010-S100-N5 is typically used in:
+- **Data Communication**: Connecting ribbon cables in computer systems and peripherals.
+- **Consumer Electronics**: Used in devices where space-saving connectors are required.
+- **Industrial Equipment**: For reliable connections in harsh environments due to its wide operating temperature range.
+- **Telecommunications**: Facilitating connections in telecom equipment where compactness and reliability are crucial.
+
+This connector is ideal for applications that require a robust and space-efficient solution for connecting flat ribbon cables to PCBs, ensuring reliable electrical connections in various electronic devices.

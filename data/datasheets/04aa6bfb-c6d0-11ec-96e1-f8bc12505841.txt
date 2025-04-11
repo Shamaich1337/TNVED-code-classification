@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of T15R13-4L1-1-RFC3 production of APPOINTECH from the text: \n   \nSingle Mode 1310/1550nm Bi -directional Single Fiber Module with PIN-TIA \n1 \n2020-01                        \n  \nLaser Diode (T= 25 \uf0b0C) \nParameter  Symbol  Test Conditions  Min Typical  Max Units  \nData Rate    100M   2.5G b/s \nCenter Wavelength  \uf06c P B0B \n-40 to 85ºC  1260  1310  1360  nm 1491 1550  1606 \nSpectral Width  \uf044\uf06c P B0, B(RMS , -20dB)  - 1 2 nm - 1 3 \nThreshold Current  I BthB P B0, B25ºC  5 15 mA  10 15 \nOperating  Voltage  V BopB P B0B - 1.1 1.5 V - 1.1 1.5 \nRise/fall Time  t Br B/ t BfB 10-90% - 0.3 0.7 ns - 0.3 0.7 \nOptical Output Power   P B0B 1310nm, I BthB+20mA  \n1550nm, I BthB+30mA   \n        \n  -1    0.1 - 0.4 mW \n  -2    0.4 - 0.7 mW \n  -3    0.7 - 1.2 mW \nMonitor  Current (PD)  I BmB P B0 B,V B RDB =1V 0.1 0.5 - mA \nDark Current (PD)  I BdB V BRDB=10V  - - 0.1 uA \nTracking Error  E BtB -40 to 85ºC  - \uf0b11.0 - dB \n    \nPIN-TIA (T=25ºC, V  = 3.3V or 5V) \nParameter  Symbol  Min. Typical  Max.  Unit \nData Rate  B 100M  - 2.5G b/s \nOptical Input Sensitivity  S        \n  155Mbps  \n 1 \n2  - \n- - \n- -28 \n-31 dBm \n  622Mbps  1 \n2  - \n- - \n- -22 \n-25 dBm \n  1.25Gbps  1 \n2  - \n- - \n- -17 \n-20 dBm \n  2.5Gbps     1 \n   2    -15 \n-17 dBm \nSaturation  - -3 0 3 dBm \n \n \n \n Single Fiber UBi-Direct ionalU Optical Module  \n \n   \nSingle Mode 1310/1550nm Bi -directional Single Fiber Module with PIN-TIA \n2 \n2020-01  \nAbsolute Maximum Ratings (T=25ºC)  \nParameter  Symbol  Min. Max.  Unit \nForward Current  (LD) Iop - 85 mA \nReverse Voltage  (LD) VRL - 2 V \nForward Current  (PD) IFD - 2 mA \nReverse Voltage  (PD) VRD - 20 V \nOperating Temperature  TO -40 85 ºC \nStorage Temperature  Tstg -40 85 ºC \nLead Soldering Temperature (10 s ec) TL - 260 ºC \nSupply Voltage            5V  - -0.2 6 V \n                         3.3V - -0.2 4 V \n \nOrdering Information  \n \nT □ □ R □ □ - □ □ □ - □ - □ □ □ - □ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Connector type  \nSC, FC, ST  or other  \nGrade  \n1 for 0.1~0.4mW  \n2 for 0.4~0.7mW  \n3 for 0.7~1.2mW  \nRx Wavelength  \n13 for 1310nm  \n15 for 1550nm  \nTx Wavelength  \n13 for 1310nm  FP \n15 for 15 50nm  FP \n55 for 1550nm DFB etc  Sensitivity  \n(Please see the specs above)  \nData rate  \n1 for 155Mbps  \n2 for 622Mbps  \n3 for 1.25Gbps  \n4 for 2.5Gbps  P for Pigtail  \nR for Receptacle  \n \nL for FP LD  \nF for DFB  LD \n Supply voltage  \n5 for 5V  \n3 for 3.3V  \n \n \n   \nSingle Mode 1310/1550nm Bi -directional Single Fiber Module with PIN-TIA \n3 \n2020-01  \nOutline Dimension : \nPigtailed ： \nUNITS:mmLD+\nPD-GNDLD-LD\nPD+\nGND155Mbps\nData- Data+\nVcc GND1.25Gbps\nData+Data- Vcc\n \nReceptacle （SC）： \nUNITS:mmLD+\nPD-GNDLD-LD\nPD+\nGND155Mbps\nData- Data+\nVcc GND1.25Gbps\nData+Data- Vcc\n \n \n   \nSingle Mode 1310/1550nm Bi -directional Single Fiber Module with PIN-TIA \n4 \n2020-01  \nReceptacle （ST）： \n \nUNITS:mmLD+\nPD-GNDLD-LD\nPD+\nGND155Mbps\nData- Data+\nVcc GND1.25Gbps\nData+Data- Vcc\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n   \nSingle Mode 1310/1550nm Bi -directional Single Fiber Module with PIN-TIA \n5 \n2020-01  \nReceptacle （FC）： \n \nUNITS:mmLD+\nPD-GNDLD-LD\nPD+\nGND155Mbps\nData- Data+\nVcc GND1.25Gbps\nData+Data- Vcc\n \n'}]
+!==============================================================================!
+### Component Summary for T15R13-4L1-1-RFC3
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Operating Voltage (Laser Diode): 1.1 to 1.5 V
+  - Supply Voltage (PIN-TIA): 3.3V or 5V (with limits of -0.2V to 4V for 3.3V and -0.2V to 6V for 5V)
+  
+- **Current Ratings:**
+  - Threshold Current (Laser Diode): 5 to 15 mA
+  - Forward Current (Laser Diode): Max 85 mA
+  - Forward Current (Photodiode): Max 2 mA
+  - Monitor Current (Photodiode): 0.1 to 0.5 mA
+  - Dark Current (Photodiode): Max 0.1 µA
+
+- **Power Consumption:**
+  - Operating Power (Laser Diode): Not explicitly stated, but related to the operating voltage and current.
+  
+- **Operating Temperature Range:**
+  - -40 to 85 ºC
+
+- **Package Type:**
+  - Single Fiber Module (specific connector types include SC, FC, ST, or other)
+
+- **Special Features or Notes:**
+  - Bi-directional single fiber module
+  - Supports data rates up to 2.5 Gbps
+  - Center wavelengths of 1310 nm and 1550 nm
+  - Includes a PIN-TIA (Photodiode with Transimpedance Amplifier)
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+#### Component Description:
+The T15R13-4L1-1-RFC3 is a **bi-directional single fiber optical module** that operates at both 1310 nm and 1550 nm wavelengths. It integrates a laser diode (LD) and a photodiode (PD) with a transimpedance amplifier (TIA) to facilitate high-speed data transmission over a single optical fiber. The module is designed for applications requiring efficient and compact optical communication solutions.
+
+#### Typical Applications:
+- **Telecommunications:** Used in fiber optic communication systems for data transmission over long distances.
+- **Data Centers:** Ideal for high-speed data links between servers and network switches.
+- **Optical Networks:** Suitable for both passive and active optical networks (PONs).
+- **Signal Processing:** Employed in systems that require high data rates and low latency, such as video streaming and real-time data processing.
+
+This module is particularly useful in environments where space is limited and high performance is required, making it a versatile choice for modern optical communication systems.

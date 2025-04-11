@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MJS-188-MQLBM-96/71CA production of E-TEC from the text: SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±E-tec 2020 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.25Cherry\nCheng\nFagi24.08.2020\n24.08.2020\n24.08.20201342574\nMJS-188-MQLBM-9x/71CA1/1\nAA New 24.08.2020 Cherry\nRoHS\ncompliant\nRJ45  PCB JACK <8P8C> "Tab up"\nSide Entry, Long Profile Type with LED\nFully Shielded, with Gnd. Latches around\nType "BM" 10/100 Mbps 5 Core TX FilteredRecommended PCB Layout Top View\n(Tolerance ±0.05)Electrical Characteristics\nTest Notes: (25°C ±5°C)\n1. TR: (100KHz 0.1V):\n           Pins : (P1-P2):(J1- J2) = 1:1±2%\n           Pins : (P7-P8):(J3- J6) = 1:1±2%\n2. LX: (100KHz 100mV 8mA DC Bias)\n           Pins: (P 1,P2), (P7,P8) = 350µH min.\n3. DCR:\n           Pins : (J1,J2), (J3,J6) = 1.2 Ω max.\n4. HIPOT:\n             Pins : (P1,P2) to (J1,J2) = 1500V AC or 2250V DC for 60 Sec.\n             Pins : (P7,P8) to (J3,J6) = 1500V AC or 2250V DC for 60 Sec.\n5. INSERTION LOSS:\n           -1.0 dB max. @ 1MHz to 100MHz\n6. RETURN LOSS:\n           -20dB min. @   1MHz to   10MHz, load 100 Ω\n           -16dB min. @ 10MHz to    30MHz, load 100 Ω\n           -12dB min.  @ 30MHz to   60MHz, load 100 Ω\n           -10dB mi n. @ 60MHz to 100MHz, load 100 Ω\n7. CROSS TALK:\n           -40dB mi n. @   1MHz to   30MHz\n           -35dB min. @ 30MHz to   60MHz\n           -30dB  min. @ 60MHz to 100MHz\n8. COMMON TO COMMON MODE REJECTION:\n           -35dB min. @  1MHz to  100MHz\n           -20dB  min. @ 50MHz to 150MHzGOLD PLATING\nCONTACT AREA PART  NUMBER\nMJS-188-MQLBM-96/71CA\nMJS-188-MQLBM-97/71CA\nMJS-188-MQLBM-98/71CA\nMJS-188-MQLBM-9H/71CASpecifications\nMaterial\nInsulator: PBT (black) UL 94-V0\nContact: Phosphor Bronze\nPlating: 100µ" Sn on solder,\n              Au on contact area;\nentire contact Ni 50µ" underplated\nShield: Copper Allo y; Ni 30µ" plated\nStorage temperature:  -40°C to +85°C\nOperating temperature: 0°C to +70°C\nCavity comply with FCC Rules and\nRegulations Part 68, Subpart FLED Schematic\nTypical for single color LED\nD4 D3 D2 D1\nYellow GreenSchematic: "BM" Type\nD4\n11.433.051.272.54\n2.54\n8.89\n16.008x∅0.90\n2x∅1.60\n2x∅3.15D3 D2 D15.8510.93\n4x∅1.02\n13.7211.4316.15\nLED2\nYellowLED1\nGreen\n3.301 825.40\n13.50\n2.55\n3.05\n2.544.83\n10.80 8.893.20 3.50\nRECEIVE1000 pF\n2KV75 OHM 75 OHM\n75 OHM 75 OHM\n1CT : 1CT1CT : 1CT\nTRANSMITRJ CABLE SIDE\nRD- P8RD+ P7TD- P2CT P3TD+ P1\nJ6 RX-J3 RX+\nJ8J7J2 TX-J4\nJ5J1 TX+\nCT P6\nP5PC-BOARD SIDE\nP4\n5\n86 4 27 3 1\n6µ"\n15µ"\n30µ"\n50µ"\n'}]
+!==============================================================================!
+### Component Summary: MJS-188-MQLBM-96/71CA
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - HIPOT: 1500V AC or 2250V DC for 60 seconds between specified pins.
+- **Current Ratings**: 
+  - DCR: 1.2 Ω max.
+- **Power Consumption**: 
+  - Not explicitly stated; however, insertion loss is -1.0 dB max. @ 1MHz to 100MHz.
+- **Operating Temperature Range**: 
+  - 0°C to +70°C.
+- **Storage Temperature Range**: 
+  - -40°C to +85°C.
+- **Package Type**: 
+  - RJ45 PCB Jack, Side Entry, Long Profile Type.
+- **Special Features**: 
+  - Fully shielded with ground latches, LED indicators (Green and Yellow), and complies with FCC Rules and Regulations Part 68, Subpart F.
+- **Moisture Sensitive Level (MSL)**: 
+  - Not specified in the provided text.
+
+#### Description:
+The MJS-188-MQLBM-96/71CA is an RJ45 PCB jack designed for Ethernet connections, specifically supporting 10/100 Mbps data rates. It features a long profile design with side entry and is equipped with LED indicators for visual status feedback. The component is fully shielded to minimize electromagnetic interference and includes ground latches for secure mounting on the PCB.
+
+#### Typical Applications:
+This component is typically used in networking applications, including:
+- **Ethernet connections**: Ideal for connecting devices in local area networks (LANs).
+- **Data communication**: Suitable for devices requiring reliable data transmission, such as routers, switches, and computers.
+- **Telecommunications**: Can be utilized in telecommunication equipment where RJ45 connections are standard.
+- **Industrial automation**: Often found in industrial settings where robust and reliable network connections are necessary.
+
+Overall, the MJS-188-MQLBM-96/71CA is a versatile and essential component for establishing Ethernet connectivity in various electronic and networking applications.

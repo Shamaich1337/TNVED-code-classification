@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PKLCS1212E4001-R1 production of MURATA ELECTRONICS from the text:Product Search Data Sheet\nPKLCS1212E4001-R1Note: This datasheet may be out of date.\nPlease download the latest datasheet of PKLCS1212E4001-R1 from the official website of Murata \nManufacturing Co., Ltd.\nhttp://www.murata.com/en-us/products/productdetail?partno=PKLCS1212E4001-R1\nAttention\n1.This datasheet is downloaded from the website of Murata Manufacturing Co., Ltd. Therefore, it’s specifications are subject to change or our products in it may be discontinued\nwithout advance notice. Please check with our sales representatives or product engineers before ordering.\n2.This datasheet has only typical specifications because there is no space for detailed specifications.\nTherefore, please review our product specifications or consult the approval sheet for product specifications before ordering.\nURL : https://www.murata.com/Last updated03/13/2023\nApplications\nUnsuitable \nApplicationsPlease be sure to read and comply with \nthese "Precautions for use."\nSpecific \nApplicationsConsumer equipment,Industrial \nEquipment\nPlease refer to Our Website and \nspecifications, etc. for information about \nthe performance, functions, quality, \nmanagement, and safety required for \nthe above applications, and use \nProducts after confirming the \nperformance and reliability of the actual \nProduct.\nAppearance & Shape\nPackaging Information\nPackaging SpecificationsStandard \nPacking \nQuantity\n-R1 Embossed Tape 1000\nFeatures\nTaking advantage of extensive acoustic and mechanical design \ntechnology and high performance ceramics, Murata has developed \nSMD piezoelectric sounders that suit the thin, high- density design \nof electronic equipment.\nFeatures\n1. Small, thin and lightweight\n2. High sound pressure level and clear sound\n3. Reflowable\n4. Tape & Reel supply\n1 of 3\nProduct Search Data Sheet\nPKLCS1212E4001-R1Note: This datasheet may be out of date.\nPlease download the latest datasheet of PKLCS1212E4001-R1 from the official website of Murata \nManufacturing Co., Ltd.\nhttp://www.murata.com/en-us/products/productdetail?partno=PKLCS1212E4001-R1\nAttention\n1.This datasheet is downloaded from the website of Murata Manufacturing Co., Ltd. Therefore, it’s specifications are subject to change or our products in it may be discontinued\nwithout advance notice. Please check with our sales representatives or product engineers before ordering.\n2.This datasheet has only typical specifications because there is no space for detailed specifications.\nTherefore, please review our product specifications or consult the approval sheet for product specifications before ordering.\nURL : https://www.murata.com/Last updated03/13/2023\nSpecifications\nOscillation circuits Not built-in\nSize 12.0×12.0×3.0 mm\nFrequency 4.0kHz\nSound Pressure Level 84dB (typ.)\nSound Pressure Level 75dB (min.)\nMeasure Condition of Sound \nPressure Level[±1.5Vo-p,4.0kHz,square wave,\n10cm]\nMaximum input voltage ±12.5Vo-p max.\nOperating Temperature \nRange-20℃ to 70℃\nStorage Temperature Range -30℃ to 80℃\nShape SMD\nDrive Type External Drive\nMass 360mg\n2 of 3\nProduct Search Data Sheet\nPKLCS1212E4001-R1Note: This datasheet may be out of date.\nPlease download the latest datasheet of PKLCS1212E4001-R1 from the official website of Murata \nManufacturing Co., Ltd.\nhttp://www.murata.com/en-us/products/productdetail?partno=PKLCS1212E4001-R1\nAttention\n1.This datasheet is downloaded from the website of Murata Manufacturing Co., Ltd. Therefore, it’s specifications are subject to change or our products in it may be discontinued\nwithout advance notice. Please check with our sales representatives or product engineers before ordering.\n2.This datasheet has only typical specifications because there is no space for detailed specifications.\nTherefore, please review our product specifications or consult the approval sheet for product specifications before ordering.\nURL : https://www.murata.com/Last updated03/13/2023\nProduct Data\nFrequency Response\n Recommended Circuit\n3 of 3\n'}]
+!==============================================================================!
+### Component Summary: PKLCS1212E4001-R1
+
+**Manufacturer:** Murata Electronics  
+**Component Type:** SMD Piezoelectric Sounder
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Maximum Input Voltage: ±12.5 Vo-p
+- **Current Ratings:** 
+  - Not specified in the provided data.
+- **Power Consumption:** 
+  - Not specified in the provided data.
+- **Operating Temperature Range:** 
+  - -20°C to 70°C
+- **Storage Temperature Range:** 
+  - -30°C to 80°C
+- **Package Type:** 
+  - Surface Mount Device (SMD)
+- **Size:** 
+  - 12.0 mm x 12.0 mm x 3.0 mm
+- **Frequency:** 
+  - 4.0 kHz
+- **Sound Pressure Level:** 
+  - 84 dB (typical), 75 dB (minimum) at ±1.5 Vo-p, 4.0 kHz, measured at 10 cm
+- **Mass:** 
+  - 360 mg
+- **Moisture Sensitive Level (MSL):** 
+  - Not specified in the provided data.
+- **Special Features:**
+  - Small, thin, and lightweight design
+  - High sound pressure level and clear sound
+  - Reflowable for surface mount assembly
+  - Supplied in Tape & Reel format for automated assembly
+
+#### Description:
+The PKLCS1212E4001-R1 is a surface mount piezoelectric sounder designed for use in electronic devices. It utilizes advanced acoustic and mechanical design technologies along with high-performance ceramics to produce sound. This component is particularly suited for applications where space is limited, as it is compact and lightweight.
+
+#### Typical Applications:
+- **Consumer Equipment:** Used in devices such as alarms, timers, and notification systems.
+- **Industrial Equipment:** Employed in machinery and equipment for alerts and notifications.
+- **General Electronics:** Suitable for various applications requiring sound output, including toys, appliances, and communication devices.
+
+This sounder is ideal for applications that require a reliable and efficient sound output while maintaining a small footprint in the design of electronic equipment.

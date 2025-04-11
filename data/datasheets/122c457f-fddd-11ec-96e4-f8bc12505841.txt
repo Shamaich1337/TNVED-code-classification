@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DTH-30000V-0.035UF production of SHENZHEN DAWN ELECTRONIC from the text:DTHSeriesCapacitors\nDAWNCAPDTHseriescapacitorsDTHseriesCapacitors\nMediumPowerFilm\nCapacitors\n薄膜电容器\nSpecification\n规格书\n深圳市天明伟业电子有限公司\nTEL:0755-28095986FAX:0755-27044648http://www.dawn-cap.cn\n地址:深圳市龙华区上塘中环路煌辉华三楼CD区\nDTHSeriesCapacitors\nDAWNCAPDTHseriescapacitorsDTHseriesCapacitors\nGENERALTECHNICALCHARACTERISTICS\nDielectric: Polypropylenefilm\nConstruction:Dryconstruction,filledbysolidresin\nNon-inductivetype\nCase: Extendedmetalizedrfilm,dryconstruction\nLeads: TinneadedinsertM6orM8filldewithresin\nELECTRICALCHARACTERISTICS\nWorkingteGperature:-40to+85℃\nCapacitance: 0.01to1μF\nRatedVoltage: 5000~30000Vdc\nTolerance: ±5%,±10%\nDissipationfactor: Geasuredat1000±20HzAND25±5℃.\nWhenCr≤1.0µF，4×10-4；\nWhenCr>1.0µF，6×10-4\nLifeexpectancy:10,000hoursatUnand70℃\n(Hotsportemperature)\nTESTGETHODSANDPERFORGANCES\nDielectricstrength: 1.5Un(DC)appliedfor10sat25±5℃\n(1minutefortypetest)\nTestvoltageterminaltocase:3000Vac,(10s50Hz20±5℃)\nInsulationresistance:3000sbutneednotexceed30GΩ\n(typicalvalue)，after1minuteof\nelectrificationat100Vdc(25±5℃)\n应用电路图:\n\nDTHSeriesCapacitors\nDAWNCAPDTHseriescapacitorsDTHseriesCapacitors\n\nDTHSeriesCapacitors\nDAWNCAPDTHseriescapacitorsDTHseriesCapacitors\nArticletable/参数表 (M8铜头电极引出)\n超高压系列\nPartNumberCAP\nμFDimension(mm) du/dt\nv/μsIpeak\nAESR@\n1.0kHzIrms@25C\n@10kHz L D T Output\nUrms30000VDc\nDTH30000J0.035-*-# 0.035 110 35 6.0 M6 2000 60 2.0 20A\n更多规格，为您提供，欢迎咨询！\nHowtoOrder:\nM6orM8\nJ=5%K=10%\nCapacitance\nVoltageDTH–3000-334KM8\n'}]
+!==============================================================================!
+### Component Summary for DTH-30000V-0.035UF
+
+**Component Type:** Capacitor  
+**Manufacturer:** Shenzhen Dawn Electronic  
+**Series:** DTH Series Capacitors  
+**Dielectric Material:** Polypropylene film  
+**Construction:** Dry construction, filled with solid resin, non-inductive type  
+**Leads:** Tinned lead, M6 or M8, filled with resin  
+
+#### Key Specifications:
+- **Capacitance:** 0.035 µF
+- **Rated Voltage:** 30,000 V DC
+- **Voltage Ratings:** 5000 V to 30,000 V DC
+- **Current Ratings:** 
+  - **Ipeak:** 20 A
+  - **Irms @ 25°C:** 60 A (at 1 kHz)
+- **Power Consumption:** Not specified directly; however, the dissipation factor indicates low power loss.
+- **Operating Temperature Range:** -40°C to +85°C
+- **Tolerance:** ±5%, ±10%
+- **Dissipation Factor:** 
+  - For capacitance ≤ 1.0 µF: 4 × 10^-4
+  - For capacitance > 1.0 µF: 6 × 10^-4
+- **Life Expectancy:** 10,000 hours at rated voltage and 70°C (hot spot temperature)
+- **Dielectric Strength:** 1.5 times rated voltage (DC) applied for 10 seconds at 25°C
+- **Insulation Resistance:** 30 GΩ (typical value) after 1 minute of electrification at 100 V DC (25°C)
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The DTH-30000V-0.035UF is a high-voltage film capacitor designed for medium power applications. It utilizes a polypropylene dielectric and features a dry construction filled with solid resin, which enhances its reliability and performance in high-voltage environments. The capacitor is non-inductive, making it suitable for applications where low inductance is critical.
+
+#### Typical Applications:
+- **Power Management:** Used in power supply circuits, energy storage, and filtering applications.
+- **Signal Processing:** Suitable for coupling and decoupling applications in high-frequency circuits.
+- **High Voltage Applications:** Ideal for use in circuits that require high voltage handling capabilities, such as in industrial equipment, medical devices, and telecommunications.
+- **Energy Conversion:** Can be utilized in applications involving energy conversion and power conditioning.
+
+This capacitor is particularly well-suited for environments where high reliability and performance under high voltage and temperature conditions are required.

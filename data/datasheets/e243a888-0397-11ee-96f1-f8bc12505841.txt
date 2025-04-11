@@ -1,0 +1,21 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MCRF plug to MCRF plug, L=110mm production of RAYNOOL from the text:B ACkd by Drawn by Appd byTitle\nScale\nSheet 1 of 1Date\nRoHS Compliant.2\n100 Sketch Only\n31/05/2023\n31/05/2023\nSpecifications \n1.Impedance: 50 Ω\n2.Frequency: 0~6 GHz\n3.VSWR: ≤1.30\n3C022M05-1 10P/N1.13mm Assembly, MHF1 to MHF1, \nL=110mm110.00 ± 3.00\n'}]
+!==============================================================================!
+### Technical Summary for MCRF Plug to MCRF Plug (L=110mm) by RAYNOOL
+
+#### Key Specifications:
+- **Impedance:** 50 Ω
+- **Frequency Range:** 0 to 6 GHz
+- **Voltage Standing Wave Ratio (VSWR):** ≤ 1.30
+- **Length:** 110.00 ± 3.00 mm
+- **RoHS Compliance:** Yes
+
+#### Description:
+The MCRF plug to MCRF plug is a coaxial cable assembly designed for high-frequency applications. It features MHF1 connectors on both ends, which are commonly used in RF (radio frequency) applications. The assembly is characterized by its low loss and high performance, making it suitable for various communication systems.
+
+#### Typical Applications:
+- **Telecommunications:** Used in mobile and wireless communication systems for signal transmission.
+- **Data Communication:** Ideal for connecting devices in data networks, ensuring minimal signal degradation.
+- **Test Equipment:** Utilized in laboratory settings for testing RF components and systems.
+- **Antenna Systems:** Employed in connecting antennas to transmitters or receivers in RF applications.
+
+This component is particularly useful in environments where maintaining signal integrity is crucial, such as in RF testing and high-frequency data transmission.

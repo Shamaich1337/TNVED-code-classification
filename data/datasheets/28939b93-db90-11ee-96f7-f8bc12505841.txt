@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DSB221SDN 50 MHz production of KDS DAISHINKU CORP. from the text:Type\nItemVC-TCXO TCXO\nDSA1612SDN DSA211SDN DSA221SDN DSA321SDN DSB1612SDN DSB211SDN DSB221SDN DSB321SDN\nFrequency ･Range･16･to･60MHz 12.288･to･52MHz 9.6･to･52MHz 16･to･60MHz 12.288･to･52MHz 9.6･to･52MHz\nStandard ･Frequency 19.2MHz/26MHz/38.4MHz/40MHz/52MHz 16.3676MHz/16.367667MHz/16.368MHz/16.369MHz/16.8MHz/26MHz/33.6MHz\nSupply･Voltage･Range +1.68･to･+3.5V\nSupply･Voltage （V CC） +1.8V/+2.6V/+2.8V/+3.0V/+3.3V\nCurrent･Consumption +1.5mA ･max. （f≦26MHz） /+2.0mA ･max. （26MHz＜f≦52MHz） /+2.5mA ･max. （f≦60MHz）\nOutput･Level 0.8Vp-p ･min. （f≦52MHz） （Clipped ･Sinewave/DC-coupled）\nOutput･Load 10kΩ//10pF\nFrequency ･Stability\nTolerance ±1.5×10-6･max. （After ･2･reflows）\nvs.･Temperature ±1.0×10-6,･±2.5×106･max/-40 ･to･+85℃ ±0.5×10-6,･±2.5×106･max/-40 ･to･+85℃\nvs.･Supply･Voltage ±0.2×10-6･max. （Vcc ･± 5%）\nvs.･Load･Variation ±0.2×10-6･max. （10kΩ//10pF±10%）\nvs.･Aging ±1.0×10-6･max./year\nFrequency ･Control±3.0×10-6･to･± 5.0×10-6/Vcont=+1.4V±1V\u3000@Vcc≧+2.6V\n±3.0×10-6･to･± 5.0×10-6/Vcont=+0.9V±0.6V\u3000@Vcc=+1.8V－\nControl･Sensitivity\nResponse ･Slope Positive －\nStart･up･Time 2.0ms･max.\nPhase･Noise\nOffset･100Hz\nOffset･1kHz\nOffset･10kHz\nOffset･100kHz[f≦26MHz]\n-115dBc/Hz\n-130dBc/Hz\n-150dBc/Hz\n-155dBc/Hz[26MHz＜f≦40MHz]\n-110dBc/Hz-130dBc/Hz\n-150dBc/Hz\n-155dBc/Hz[40MHz＜f≦52MHz]\n-105dBc/Hz-125dBc/Hz\n-145dBc/Hz\n-150dBc/Hz\nReliability AEC-Q100/AEC-Q200\nPacking ･Unit･(1)DSA1612SDN/DSA211SDN/DSA221SDN, ･DSB1612SDN/DSB211SDN/DSB221SDN: ･3000pcs./reel （φ180）\nDSA321SDN, ･DSB321SDN: ･2000pcs./reel （φ180）\n(1)･Moisture ･ prevention ･ packing ･ is ･ unnecessary. ･\nMoisture ･Sensitivity ･Level:･LEVEL･1･(IPC/JEDEC ･J-STD-033)DSA1612SDN/DSA211SDN/DSA221SDN/DSA321SDN, DSB1612SDN/DSB211SDN/DSB221SDN/DSB321SDN\nActual･size･DSA1612SDN ･DSA211SDN ･\nDSA221SDN ･DSA321SDN ･[Type]\nVC-TCXO TCXO Size\nDSA1612SDN DSB1612SDN 1612･size\nDSA211SDN DSB211SDN 2016･size\nDSA221SDN DSB221SDN 2520･size\nDSA321SDN DSB321SDN 3225･sizePb-Free\n■ Standard SpecificationHigh-precision SMD VC-TCXO/TCXO 〈For Automotive〉\nConsult ･our･sales･representative ･for･other･specifications.■Features\n●Low･voltage･operation\n●Low･phase･noise\n●Single･p ackaged ･st ructure\n●AEC-Q200 ･Compliant ･(Option: ･Equivalent ･to･AEC-Q100）\n■Applications\n●Telematics, ･S atellite･r adio\nRoHS/ELV Compliant\n［mm］\nPin No.Pin Connections\nConnection\n#1\n#2\n#3#4Vcont(VC-TCXO)/GND(TCXO)\nGNDOutputVcc■DSA1612SDN/DSB1612SDN\n＜Top View＞0.50±0.05A26.01.6±0.11.2±0.1D701\nIndex#1 #1 #2 #4 #3\n0.40 0.40 0.40\n0.35 0.35 0.90（Index）0.12\n#1 #2 \n#4 #3 \n0.950.550.50\n1.40Model Code Frequency\nLot No. LogoModel Code\nA ： VC-TCXO(DSA1612SDN)\nB ： TCXO(DSB1612SDN)\n■ Recommended\nLand PatternPin No.Pin Connections\nConnection\n#1\n#2\n#3#4Vcont(VC-TCXO)/GND(TCXO)\nGNDOutputVcc■ DSA211SDN/DSB211SDN\n＜Top View＞#1 Index2.0±0.151.6±0.15\n0.7±0.11.80\n0.60\n0.80\n1.20D701AN26.0\n#1 #2\n#4 #3（Index）0.40\n0.60\n1.200.400.15Model Code Frequency\nLot No. LogoModel Code\nAN : VC-TCXO (DSA211SDN)\nBN : TCXO (DSB211SDN)\n■ Recommended\nLand Pattern\n■ DSA221SDN/DSB221SDN\nPin No.Pin Connections\nConnection\n#1\n#2\n#3#4Vcont(VC-TCXO)/GND(TCXO)\nGNDOutputVcc\n＜Top View＞\n1.951.35\n0.850.750.8±0.1\n(Index)\n#3 #4#1 #20.620.50\n1.27□0.201.90#1 Index2.5±0.152.0±0.15AN\n701\n■ Recommended\nLand PatternFrequencyModel Code\nLogo Lot No.Model Code\nAN : VC-TCXO (DSA221SDN)BN : TCXO (DSB221SDN)■DSA321SDN/DSB321SDN\nPin No.Pin Connections\nConnection\n#1\n#2\n#3#4Vcont(VC-TCXO)/GND(TCXO)\nGNDOutputVcc\n＜Top View＞\n1.65\n3.021.150.780.9±0.10.82\n0.40\n2.64\n1.52#1 #2\n#3 #4(Index)□0.203.2±0.152.5±0.15\n#1 Index701AN\n■ Recommended\nLand PatternFrequencyModel Code\nLogo Lot No.Model Code\nAN : VC-TCXO (DSA321SDN)\nBN : TCXO (DSB321SDN)High-precision SMD VC-TCXO/TCXO 〈For Automotive〉\nFor Automotive Applications\n■ Dimensions\n'}]
+!==============================================================================!
+### Component Summary: DSB221SDN (50 MHz) - KDS Daishinku Corp.
+
+#### Key Specifications:
+- **Type**: TCXO (Temperature Compensated Crystal Oscillator)
+- **Frequency Range**: 16 to 60 MHz
+- **Standard Frequency**: 19.2 MHz, 26 MHz, 38.4 MHz, 40 MHz, 52 MHz
+- **Supply Voltage Range**: +1.68 to +3.5 V
+- **Supply Voltage (Vcc)**: +1.8V, +2.6V, +2.8V, +3.0V, +3.3V
+- **Current Consumption**: 
+  - +1.5 mA max (f ≤ 26 MHz)
+  - +2.0 mA max (26 MHz < f ≤ 52 MHz)
+  - +2.5 mA max (f ≤ 60 MHz)
+- **Output Level**: 0.8 Vp-p min (f ≤ 52 MHz, Clipped Sinewave/DC-coupled)
+- **Output Load**: 10 kΩ // 10 pF
+- **Frequency Stability**:
+  - Tolerance: ±1.5 × 10^-6 max (after 2 reflows)
+  - vs. Temperature: ±1.0 × 10^-6, ±2.5 × 10^-6 max (-40 to +85°C)
+  - vs. Supply Voltage: ±0.2 × 10^-6 max (Vcc ± 5%)
+  - vs. Load Variation: ±0.2 × 10^-6 max (10 kΩ // 10 pF ± 10%)
+  - vs. Aging: ±1.0 × 10^-6 max/year
+- **Frequency Control Sensitivity**: ±3.0 × 10^-6 to ±5.0 × 10^-6/V (Vcont = +1.4V ± 1V @ Vcc ≥ +2.6V)
+- **Start-up Time**: 2.0 ms max
+- **Phase Noise**:
+  - Offset 100 Hz: -115 dBc/Hz
+  - Offset 1 kHz: -130 dBc/Hz
+  - Offset 10 kHz: -150 dBc/Hz
+  - Offset 100 kHz: -155 dBc/Hz (for f ≤ 26 MHz)
+- **Moisture Sensitivity Level**: Level 1 (IPC/JEDEC J-STD-033)
+- **Package Type**: 2520 size (2.5 mm x 2.0 mm)
+- **Reliability**: AEC-Q100/AEC-Q200 compliant
+
+#### Description:
+The DSB221SDN is a high-precision Surface Mount Device (SMD) Temperature Compensated Crystal Oscillator (TCXO) designed for automotive applications. It operates within a frequency range of 16 to 60 MHz and is characterized by low voltage operation and low phase noise, making it suitable for high-performance timing applications.
+
+#### Typical Applications:
+The DSB221SDN TCXO is typically used in:
+- **Telematics**: For vehicle tracking and communication systems.
+- **Satellite Radio**: Providing stable frequency references for signal processing.
+- **Automotive Electronics**: Ensuring precise timing in various automotive systems.
+- **Communication Systems**: Used in devices requiring accurate frequency generation and stability.
+
+This component is ideal for applications where precision timing and stability are critical, particularly in automotive and communication sectors.

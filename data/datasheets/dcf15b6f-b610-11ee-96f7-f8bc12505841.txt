@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SJ-43515TS production of CUI INCORPORATED from the text:date01/31/2020\npage\n1 of 3\nSERIES :  SJ-4351X │ DESCRIPTION: AUDIO JACK\ncuidevices .com\nFEATURES\n• PCB mount\n• plastic bushing\n• low profile design \nRoHS\nSJ - 4351 X\nSwitch Options\n 4 = no switch\n 5TS = tip switchBase NumberPART NUMBER KEY\nSPECIFICATIONS\nparameter conditions/description min typ max units\nrated input voltage 16 Vdc\nrated input current 300 mA\ncontact resistance* between terminal and mating plug\nbetween terminal in a closed circuit50\n30mΩ\nmΩ\ninsulation resistance at 500 Vdc 100 MΩ\nvoltage withstand at 50/60Hz for 1 minute 500 Vac\ninsertion/withdrawal force 0.4 3 kg\nterminal strength any direction for 10 seconds 500 g\noperating temperature -25 85 °C\nlife 5,000 cycles\nRoHS yes\nNotes: *When measured at a current of less than 100 mA / 1 kHz\nSOLDERABILITY\nparameter conditions/description min typ max units\nwave soldering dipped in solder pot for 5±0.5 seconds at 255 260 265 °CAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\ncuidevices .com\nCUI Devices │ SERIES : SJ-4351X │ DESCRIPTION: AUDIO JACK date  01/31/2020 │ page  2 of 3\n4.50 0.1771.30 0.051\n2.90 0.114\n7.90 0.31111.00 .433\n3.20 0.126\n3.60 0.1424.80 0.189\n4.50 0.177\n1.10 0.043\n(7 PLCS)3.20 .1263.60 .1424.50 .177\n4.80 .1892.25 0.089\n0.24.90.193\n4.70.184 0.1694.35.30.209\n1.00 0.039\n(TYP)\n1.00.039\n0.30.32.90 .1140.37.90 .311\n11.00 .4331.000 0.039\n(2 PLCS)0.1183.0\n3.50.1380.031\n(5 PLCS)0.30.551 14.0\n0.802.50 .098\n3.60.142 6.00 0.2360.1975.0 0.1774.5\n2.00.079\n0.3\nPCB Edge\nTOP VIEWPCB LAYOUT\nNOTE: Tolerance for PCB Layout is ± 0.05mm145\n231 4 2\n5\n3MECHANICAL DRAWING\nMATERIAL PLATING\nterminal 1 phosphor bronze gold\nterminal 2 titanium copper tin\nterminal 3 phosphor bronze tin\nterminal 4 phosphor bronze tin\nterminal 5 brass tin\nplastic PA66\nModel No. SJ-43514 SJ-43515TS\nSchematic \n \n \n \n \n \nPIN\n1 sleeve sleeve\n2 tip tip\n3 ring 1 ring 1\n4 ring 2 ring 2\n5 NP tip switchunits: mm[inches]\nTOLERANCE:\nX.X ±0.2mm\nX.XX ±0.1mm\nX.XXX ±0.05mm\n14\nØ 3.5 MATING PLUG354\n2\n134\n2\n1Additional Resources:    Product Page     |    3D Model     |    PCB Footprint\nCUI Devices │ SERIES : SJ-4351X │ DESCRIPTION: AUDIO JACK date  01/31/2020 │ page  3 of 3\ncuidevices .com\nCUI Devices offers a one (1) year limited warranty.  Complete warranty information is listed on our website.\nCUI Devices reserves the right to make changes to the product at any time without notice.  Information provided by CUI Devices is believed to be accurate and reliable.  However, no \nresponsibility is assumed by CUI Devices for its use, nor for any infringements of patents or other rights of third parties which may result from its use.\nCUI Devices products are not authorized or warranted for use as critical components in equipment that requires an extremely high level of reliability.  A critical component is any \ncomponent of a life support device or system whose failure to perform can be reasonably expected to cause the failure of the life support device or system, or to affect its safet y or \neffectiveness.rev. description date\n1.0 initial release 05/01/2006\n1.01 new template applied 02/21/2012\n1.02 pin numbering changed 03/09/2012\n1.03 added notch to pcb layout 04/05/2012\n1.04 updated drawing 06/05/2012\n1.05 brand update 01/31/2020\nThe revision history provided is for informational purposes only and is believed to be accurate.REVISION HISTORYAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\n'}]
+!==============================================================================!
+### Component Summary for SJ-43515TS (CUI Incorporated)
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - Rated Input Voltage: 16 Vdc
+  - Voltage Withstand: 500 Vac (for 1 minute at 50/60Hz)
+  
+- **Current Ratings**: 
+  - Rated Input Current: 300 mA
+  
+- **Power Consumption**: 
+  - Not explicitly stated; however, the current rating indicates the maximum load the component can handle.
+  
+- **Operating Temperature Range**: 
+  - -25°C to 85°C
+  
+- **Package Type**: 
+  - PCB mount with a low-profile design
+  
+- **Special Features or Notes**: 
+  - Plastic bushing
+  - Available with a tip switch (designated as 5TS)
+  - Life expectancy of 5,000 cycles
+  - Insertion/withdrawal force: 0.4 to 3 kg
+  - Contact resistance: 30 mΩ (closed circuit), 50 mΩ (between terminal and mating plug)
+  - Insulation resistance at 500 Vdc: 100 MΩ
+  
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: 
+  - Not specified in the provided data.
+
+#### Description:
+The SJ-43515TS is an audio jack designed for PCB mounting applications. It features a low-profile design and is constructed with a plastic bushing, making it suitable for various electronic devices that require audio input/output connections. The component includes a tip switch, which allows for additional functionality, such as detecting when a plug is inserted.
+
+#### Typical Applications:
+The SJ-43515TS audio jack is typically used in:
+- Consumer electronics (e.g., headphones, portable speakers)
+- Audio equipment (e.g., mixers, amplifiers)
+- Communication devices (e.g., smartphones, tablets)
+- Any application requiring audio signal transmission and reception.
+
+This component is ideal for applications where space is limited due to its low-profile design, and its robust specifications make it suitable for a wide range of audio-related uses.

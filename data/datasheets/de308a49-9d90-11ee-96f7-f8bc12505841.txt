@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CH160FC NDVI-2 production of FUZHOU CHUANGAN OPTICS CO., LTD from the text:PRODUCT: CH160FC\n3D Angle Projection1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27Type\nResolution\nImage Format\nImage Circle\nEFL\nTTL\nF/NO.\nFFL（M)\nBFL（O)\nFor Sensor\nTV Distortion\nRelative Ill.\nChief Ray Angle\nM.O.D\nMount Type\nDimension Figure\nLens Structure\nIR-Filter\nWeight\nIris Operation\nZoom Operation\nFocus Operation\nOperating Temperature\nStorage TemperatureLow Distortion Lens\n8.8MP\n6.4*4.8*8.0mm\nф8.0mm(MAX)\n3.5mm\n23.71mm\n2.8\n5.12mm\n5.65mm\n0.1m~∞\nM12*P0.5\nф20.0*L18.59mm\n   6G+1MO All Glass\nIR660+850nm\n7.3g\nFixed\nFixed\nManual\n-20° ~+85°\n-20° ~+85°F.O.V1/2" 1/3"\n <-1% <-0.5%\nScale\n4：1\nUnits\nmmRemark\nX\nX.0\nX.00\nX.000\nAngle福州创安光电科技有限公司\nFUZHOU CHUANGAN OPTICS CO.，LTDTolerances\n0.1\n0.05\n0.03\n0.001\n0.5Design\nChecked\nApprovalLinda\nAnna\nSanmu2017-02-10\n2017-10-12\n2017-12-10 >78%\n<24º\nDate\n2019-07-29Revised\nCH160FC Rev1.0DiagonalHorizontal\nVertical86°\n70°\n100°70°\n50°\n82°\nIR No.:CH6085A5.12\nImage PlaneCover GlassM12*P0.5Ø15.304.003.00 10.79∅20.00\nL:18.59Ø16.00\nØ17.00\nØ18.00\nTTL:23.710.50.50.5∅16.00∅17.00∅18.00\n∅16.00\n7.59\n'}]
+!==============================================================================!
+### Component Summary: CH160FC NDVI-2
+
+**Manufacturer:** FUZHOU CHUANGAN OPTICS CO., LTD  
+**Product Code:** CH160FC
+
+#### Key Specifications:
+- **Type:** Low Distortion Lens
+- **Resolution:** 8.8 MP
+- **Image Format:** 6.4 x 4.8 mm
+- **Image Circle:** φ8.0 mm (MAX)
+- **Effective Focal Length (EFL):** 3.5 mm
+- **Total Length (TTL):** 23.71 mm
+- **F-number (F/NO.):** 2.8
+- **Front Focal Length (FFL):** 5.12 mm
+- **Back Focal Length (BFL):** 5.65 mm
+- **For Sensor:** 1/2" and 1/3" formats
+- **TV Distortion:** < -1%
+- **Relative Illumination:** > 78%
+- **Chief Ray Angle:** < 24°
+- **Minimum Object Distance (M.O.D):** 0.1 m to ∞
+- **Mount Type:** M12 x P0.5
+- **Dimensions:** φ20.0 x L18.59 mm
+- **Lens Structure:** 6G + 1MO All Glass
+- **IR Filter:** IR660 + 850 nm
+- **Weight:** 7.3 g
+- **Iris Operation:** Fixed
+- **Zoom Operation:** Fixed
+- **Focus Operation:** Manual
+- **Operating Temperature Range:** -20°C to +85°C
+- **Storage Temperature Range:** -20°C to +85°C
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The CH160FC is a low distortion lens designed for high-resolution imaging applications. It features an 8.8 MP resolution and is optimized for use with 1/2" and 1/3" sensors. The lens is constructed with high-quality glass elements, ensuring minimal distortion and high relative illumination. The fixed iris and focus operations make it suitable for applications where consistent performance is required.
+
+#### Typical Applications:
+The CH160FC lens is typically used in various optical systems, including:
+- **Machine Vision:** For industrial automation and quality control.
+- **Surveillance Systems:** Providing clear images in security applications.
+- **Medical Imaging:** Used in endoscopes and other imaging devices.
+- **Robotics:** For navigation and object recognition.
+- **Optical Sensors:** In applications requiring precise imaging and measurement.
+
+This lens is particularly beneficial in environments where temperature variations are present, as it operates effectively within a wide temperature range. Its low distortion characteristics make it ideal for applications requiring high fidelity in image capture.

@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SDM-009-N900-95/NJ-M025 production of E-TEC from the text:male female\n1.385\nPCB EDGE\nRecommended PCB Layout2.84\n8.08Fork Type Grounding thread rivet\n4-40 UNC12.55 ±0.38\n2.848.08 ±0.25\n3.18 ±0.3812.40 ±0.256.00\nJack Screw 4-40 UNCassembled with7.90 ±0.13 8.36 ±0.13\nOption   J \nA\nB\nC\nD\nE\nF\nG\nHA\nB\nC\nD\nE\nF\nG\nH12 3 4 5 6 78\n1 2 1 2 3 1 2 3 4 5 6 7 8Cherry New\nStandard - D-Sub 90°\nMale / Female\n8.08mm US Style Footprint\nwith Fork Board Lock Clip25.07.2022 AREV. DESCRIPTION DATE DRAWN\nDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATESHEET 1/1\nREV. ADWG. NO.\nSERIES NO.UNIT\nSCALEmm\nFreeGENERAL TOLERANCE\nCherry\nKent\nSH25.07.2022\n25.07.2022\n25.07.2022SDX-N900/N-M025\nSDX-xxx-N900-xx/XX-M025  X.°  ±\n  .X°  ±\n .XX°  ±\nAngles  ±  1°X.   ±\n.X    ±\n.XX   ±  0.20\n.XXX ±Board Lock Clip \nØ1.10BEfemale "D""C" maleB±0.25A±0.38\n2.77Order Code\nSDX-xxx-N900 -xx/NX-M025\nType\nfemale = F\n   male = MOption\nJ = with 4-40 UNC\njack screw\nPlating\n55 = gold flash\n95 = tin / gold flash\n97 = tin / gold 15µ"\n98 = tin / gold 30µ"\nABCDE\n009 30,81 24,99 16,92 16,33 11,08\n015 39,14 33,32 25,25 24,66 19,39\n025 53,04 47,04 38,96 38,38 33,24\n037 69,32 63,50 55,42 54,84 49,86No. of \nContactsDimension mm\n9.50 ±0.25\n9.50Ø3.10\nE-tec 2022 © - all rights reserved   www.e-tec.asiaSpecifications\nElectrical\nCurrent rating: 5A/25°   3A/70°C\nInsulation resistance: 1000MΩ min. @500V DC\nContact resistance: 30mΩ max.\nVoltage rating: 25V DC\nWithstanding voltage: 1000V AC/MinuteMaterial\nContact: Copper Alloy\n          Plating: s ee above plating code;\n      entire contact Ni underplated\nInsulator: PBT (black)  UL 94V-0\nOperating temperature: -55°C to +105°C\nProcessing temperature: +250°C +0/-5°C\n                                         for 5 seconds\n'}]
+!==============================================================================!
+### Component Summary: SDM-009-N900-95/NJ-M025
+
+#### Key Specifications:
+- **Voltage Rating**: 25V DC
+- **Current Rating**: 
+  - 5A at 25°C
+  - 3A at 70°C
+- **Power Consumption**: Not specified directly; power can be calculated using P = V x I.
+- **Operating Temperature Range**: -55°C to +105°C
+- **Package Type**: D-Sub connector (male/female)
+- **Special Features**: 
+  - Includes a fork type grounding thread rivet.
+  - Jack screw option (4-40 UNC) for secure mounting.
+  - Insulation resistance of 1000MΩ min. @ 500V DC.
+  - Contact resistance of 30mΩ max.
+  - Withstanding voltage of 1000V AC for 1 minute.
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The SDM-009-N900-95/NJ-M025 is a D-Sub connector designed for PCB edge mounting. It features a male/female configuration with a fork board lock clip for secure attachment. The connector is constructed from copper alloy with a PBT insulator rated UL 94V-0, ensuring durability and reliability in various applications. The component is designed to handle a maximum voltage of 25V DC and current ratings of up to 5A at lower temperatures.
+
+#### Typical Applications:
+This connector is typically used in applications requiring reliable electrical connections in harsh environments. Common uses include:
+- **Data Communication**: Connecting devices in computer and telecommunications equipment.
+- **Industrial Automation**: Used in control systems and machinery for signal transmission.
+- **Consumer Electronics**: Connecting peripherals and components in electronic devices.
+- **Automotive Applications**: Providing connections in automotive electronics and control systems.
+
+The SDM-009-N900-95/NJ-M025 is ideal for applications where secure and robust connections are necessary, particularly in environments with varying temperatures and potential exposure to moisture.

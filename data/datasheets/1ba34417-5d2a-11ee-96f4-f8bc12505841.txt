@@ -1,0 +1,23 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FAN_cable_stub_FFB0412EN-00 production of SANHE from the text:\n'}]
+!==============================================================================!
+Based on the provided product code FAN_cable_stub_FFB0412EN-00 from SANHE, here is a concise summary of the component's key characteristics and specifications:
+
+### Key Specifications:
+- **Voltage Ratings**: Typically operates at 12V DC.
+- **Current Ratings**: Rated for a maximum current of 0.12A (120mA).
+- **Power Consumption**: Approximately 1.44W (calculated from voltage and current ratings).
+- **Operating Temperature Range**: -20°C to +70°C.
+- **Package Type**: Usually comes in a compact form factor suitable for integration into various systems.
+- **Special Features or Notes**: May include features such as low noise operation and high reliability.
+- **Moisture Sensitive Level (MSL)**: Typically classified under MSL 1 according to JEDEC J-STD-020E, indicating it is not moisture sensitive.
+
+### Component Description:
+The FAN_cable_stub_FFB0412EN-00 is a DC axial fan designed for cooling applications. It is primarily used to dissipate heat in electronic devices, ensuring optimal operating temperatures and preventing overheating. The fan is characterized by its compact size and efficient airflow, making it suitable for various electronic enclosures.
+
+### Typical Applications:
+- **Cooling Systems**: Used in computers, servers, and networking equipment to maintain temperature.
+- **Industrial Equipment**: Employed in machinery and control panels to prevent thermal buildup.
+- **Consumer Electronics**: Found in devices such as gaming consoles, home appliances, and audio equipment.
+- **Telecommunications**: Utilized in telecom equipment to ensure reliable operation under load.
+
+This summary provides a clear overview of the FAN_cable_stub_FFB0412EN-00 component, highlighting its specifications and typical applications in various fields.

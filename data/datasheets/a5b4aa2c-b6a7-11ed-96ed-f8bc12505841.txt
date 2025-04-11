@@ -1,0 +1,23 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MAXYZ-60L production of OPTICS FOCUS INSTRUMENTS CO., LTD. from the text:MAXYZ-60L-HXP8Z4.5 252560 20 41.5\n25\n2560\n2812.6 1.572Њ82 50\n50    4-P4.5\n8-M4Z6\n'}]
+!==============================================================================!
+Based on the provided product code MAXYZ-60L-HXP8Z4.5 from OPTICS FOCUS INSTRUMENTS CO., LTD., here is a concise summary of the component's key characteristics and specifications:
+
+### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text; please refer to the full datasheet for specific voltage ratings.
+- **Current Ratings:** Not explicitly stated in the provided text; please refer to the full datasheet for specific current ratings.
+- **Power Consumption:** Not explicitly stated in the provided text; please refer to the full datasheet for specific power consumption details.
+- **Operating Temperature Range:** Not explicitly stated in the provided text; please refer to the full datasheet for specific temperature range.
+- **Package Type:** 4-P4.5 (indicating a specific package configuration).
+- **Special Features or Notes:** The text does not provide specific features; please refer to the full datasheet for additional features or notes.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not explicitly stated in the provided text; please refer to the full datasheet for this information.
+
+### Component Description:
+The MAXYZ-60L is likely a specialized optical component or instrument used in applications requiring precise focus and alignment. Given the context of its production by OPTICS FOCUS INSTRUMENTS CO., LTD., it may be designed for use in optical systems, such as cameras, microscopes, or other imaging devices.
+
+### Typical Applications:
+Typical applications for the MAXYZ-60L may include:
+- **Optical Systems:** Used in cameras, microscopes, or other imaging devices where precise focus is critical.
+- **Measurement Instruments:** Employed in devices that require accurate optical measurements.
+- **Research and Development:** Utilized in laboratories for experiments involving light manipulation and measurement.
+
+For a complete understanding of the component's specifications and capabilities, it is recommended to consult the full datasheet from the manufacturer.

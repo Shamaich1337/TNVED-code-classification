@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 282107-1 production of TE CONNECTIVITY from the text:A3DIMENSIONS:\n0 PLC\n1 PLC\n2 PLC\n3 PLC\n4 PLC\nANGLESD D\nC\nB\nAC\nB\nA4 3 2 1\nOF SCALE SHEET REVNAME\nSIZE CAGE CODE DRAWING NOTOLERANCES UNLESS\nOTHERWISE SPECIFIED:DWN\nCHK\nAPVD\nMATERIAL FINISHREVISIONS\nPLTR DATE APVD DWN DESCRIPTIONALL RIGHTS RESERVED.RELEASED FOR PUBLICATION\nCCOPYRIGHTTHIS DRAWING IS UNPUBLISHED.\nPRODUCT SPEC\nAPPLICATION SPEC\nWEIGHT\n1470-19 (3/13)RESTRICTED TOTHIS DRAWING IS A CONTROLLED DOCUMENT.\nTE ConnectivityBROWN PA66-GF B4-282107-1\nCUSTOMER DRAWING282107C. BERTINI02-1990\nA.BRUNI02-1990\n--\n14:5 12B3108-20090\n412-20000\n7.72g- -mm\n-\n 0.3\n-\n-\n-\n 2°AMP SUPERSEAL 1.5 SRS.\n5 POSITIONS TAB ASS\'Y\n-20092009\n00779BY -\nSEE TABLE SEE TABLEB1REVISED PER ECO-17-009774 06SEP2017 M.G.M.G.\nB2REVISED PER ECO-20-002019 12FEB2020 APVN\nB3REVISED PER ECN-21-125377 08NOV2021 VNVN37.8\n33.7\n33.331.4\n24.0 0.2\n6.00.2\n3.00.2\n42.0\n30.0\n9.6+0.2\n-0.313.8 0.3\n-0.8\n10.6 0.23.00.2\n7.40.2\n9.30.25.50.2\n0.80+0.15\n-0.055.6+0.3\n-0.2\n8.10 0.15\n10.7\x01#\x020.3GRAY PA66-GF B282107-2\nBLACK PA66-GF B282107-1\nFINISH/COLOR MATERIAL REVPART NUMBER\nTE CONNECTIVITY TRADE MARK,\n(IN ALTERNATIVE: "     " LOGO, OR "           " LOGO)1\nPRE-ASSEMBLED SECONDARY LOCK\n(RED COLOR)PART.SECTION  B-B\n1\nA3DIMENSIONS:\n0 PLC\n1 PLC\n2 PLC\n3 PLC\n4 PLC\nANGLESD D\nC\nB\nAC\nB\nA4 3 2 1\nOF SCALE SHEET REVNAME\nSIZE CAGE CODE DRAWING NOTOLERANCES UNLESS\nOTHERWISE SPECIFIED:DWN\nCHK\nAPVD\nMATERIAL FINISHREVISIONS\nPLTR DATE APVD DWN DESCRIPTIONALL RIGHTS RESERVED.RELEASED FOR PUBLICATION\nCCOPYRIGHTTHIS DRAWING IS UNPUBLISHED.\nPRODUCT SPEC\nAPPLICATION SPEC\nWEIGHT\n1470-19 (3/13)RESTRICTED TOTHIS DRAWING IS A CONTROLLED DOCUMENT.\nTE Connectivity\nCUSTOMER DRAWING282107C. BERTINI02-1990\nA.BRUNI02-1990\n--\n14:5 22B3108-20090\n412-20000\n7.72g- -mm\n-\n 0.3\n-\n-\n-\n 2°AMP SUPERSEAL 1.5 SRS.\n5 POSITIONS TAB ASS\'Y\n-20092009\n00779BY -\nSEE TABLE SEE TABLE-SEE SHEET 1 ---\n0.90.20.95 0.1\n2.60.25.10.23.00.2\n4-282107-1 AS SHOWNREFER SHEET 1 FOR MISSING DIMENSIONS\n'}]
+!==============================================================================!
+### Component Summary for TE Connectivity 282107-1
+
+**Component Type:** Connector Assembly
+
+**Description:**
+The TE Connectivity 282107-1 is a 5-position tab assembly connector designed for use in various electrical applications. It is part of the AMP Superseal 1.5 series, which is known for its robust design and reliability in harsh environments. The connector is made from high-quality materials, ensuring durability and performance.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, Superseal connectors are rated for up to 14V.
+- **Current Ratings:** Not explicitly stated; however, Superseal connectors generally support current ratings up to 10A depending on the application.
+- **Power Consumption:** Not applicable as this is a passive connector.
+- **Operating Temperature Range:** Not specified in the provided text; Superseal connectors usually operate within -40°C to +125°C.
+- **Package Type:** Connector assembly with 5 positions.
+- **Special Features/Notes:** 
+  - Pre-assembled secondary lock (red color).
+  - Designed for use in automotive and industrial applications.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Typical Applications:**
+The TE Connectivity 282107-1 connector is commonly used in:
+- Automotive applications for connecting various electrical components.
+- Industrial equipment where reliable connections are necessary in challenging environments.
+- Any application requiring a secure and moisture-resistant electrical connection.
+
+This connector is ideal for power management and signal transmission in systems where durability and resistance to environmental factors are critical.

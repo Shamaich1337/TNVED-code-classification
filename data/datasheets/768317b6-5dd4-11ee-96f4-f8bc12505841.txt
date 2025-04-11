@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 5988070107F production of DIALIGHT from the text:FEATURES / BENEFITS\nPART NUMBERSpCompatible with automatic placement equipment\npRoHS compliant\npPackaged in 8mm tape, 7” reel and 20 per strip\npMSL 3\npMeets EIA-481-1 pkg. std.Micro LED®SMD LED \n“598 SERIES” 0603 PACKAGE\n(1.6mm X 0.8mm X 0.7mm) Single Color\nABSOLUTE RATINGS (@ Ta = 25ºC)\nDIALIGHT P/NPower \nDissipationForward \nCurrentReverse \nVoltageOperating \nTemperature\nRangeStorage \nTemperature\nRangePeak Pulse\nForward\nCurrentElectrostatic\nDischarge\n(mW) (mA) (V) (ºC) (ºC) (mA) (V)\n598-8010-107F 60 25 5 -40~+100 -40~+100 100 2000(HBM)\n598-8020-107F 55 25 5 -40~+100 -40~+100 100 2000(HBM)\n598-8030-107F 55 25 5 -40~+100 -40~+100 100 2000(HBM)\n598-8040-107F 55 25 5 -40~+100 -40~+100 100 2000(HBM)\n598-8050-107F 55 25 5 -40~+100 -40~+100 100 2000(HBM)\n598-8060-107F 60 25 5 -40~+100 -40~+100 100 2000(HBM)\n598-8070-107F 60 25 5 -40~+100 -40~+100 100 2000(HBM)\n598-8081-107F 70 20 5 -40~+100 -40~+100 100 1000(HBM)\n598-8091-107F 70 20 5 -40~+100 -40~+100 100 1000(HBM)\n2 20 pieces on tape\n7 7” reel  4000pcs / reelORDERING INFORMATION\nDIALIGHT P/N EMITTED COLOR MATERIALLENS\nCOLORLUMINOUS\nINTENSITYDOMINANT \nWAVELENGTHFORWARD \nVOLTAGEVIEWING\nANGLE\nmcd @ If = 20 ma nm @ If = 20 ma V @ If = 20 ma ° DEGREES\nMIN TYP MAX MIN TYP MAX MIN TYP MAX\n598-8010-107F RED AlInGaP Water Clear 40 60 80 630 635 640 1.8 2 2.4 140\n598-8020-107F RED-ORANGE AlInGaP Water Clear 150 240 330 620 625 630 1.8 2 2.2 140\n598-8030-107F ORANGE AlInGaP Water Clear 90 120 150 600 605 610 1.8 2 2.2 140\n598-8040-107F YELLOW AlInGaP Water Clear 80 140 200 590 593 595 1.8 2 2.2 140\n598-8050-107F YELLOW AlInGaP Water Clear 80 140 200 585 588 590 1.8 2 2.2 140\n598-8060-107F YELLOW-GREEN AlInGaP Water Clear 28 40 60 567 571 575 1.8 2 2.4 140\n598-8070-107F GREEN GaP Water Clear 10 20 40 565 568 570 1.8 2 2.4 140\n598-8081-107F GREEN InGaN Water Clear 260 340 430 520 523 525 2.8 3.2 3.5 140\n598-8091-107F BLUE InGaN Water Clear 90 140 200 465 470 475 2.9 3.2 3.5 140Package Outline Drawing:\nNotes 1. All dimensions are in mm [inches];\n2. Tolerances are ±0.1mm [0.004inch] unless noted.\nwww.dialight.com\nMicro LED®SMD LED \n“598 SERIES” 0603 PACKAGE\n(1.6mm X 0.8mm X 0.7mm) Single Color\nMECHANICAL DIMENSIONS\nRED 630-640NM, RED-ORANGE 620-630NM, ORANGE 600-610NM, YELLOW 590-595NM, YELLOW 585-590NM, YELLOW GREEN 567-575NM, GREEN 565-57 0NM \nGREEN 520-525NM, BLUE 465-475NM\nOOPTICAL AND ELECTRICAL CHARACTERISTICS CURVES\nREFLOW SOLDERING HAND SOLDERING\nPre-heat 160~180oC Temperature 300oC Max.\nPre-heat time 120 seconds Max.\nPeak\ntemperature260oC Max.Soldering\ntime3 second Max\n(one time only)\nSoldering time 10 seconds Max.\nConditionRefer to\ntemperature -profile\nRecommended Soldering Pattern For\nReflow SolderingDIMENSIONS OF REEL (UNIT:mm) DIMENSIONS OF TAPE (UNIT:mm)\nFORWARD VOLTAGE VS FORWARD CURRENT (Ta=25 °C) RELATIVE INTENSITY VS FORWARD CURRENT  (Ta=25 °C) DERATING RELATIVE INTENSITY VS AMBIENT TEMPERATURE\nFORWARD VOLTAGE VS FORWARD CURRENT (Ta=25 °C) RELATIVE INTENSITY VS FORWARD CURRENT  (Ta=25 °C) DERATING RELATIVE INTENSITY VS AMBIENT TEMPERATURE\nMDEI5980603_B\nDialight reserves the right to make changes at any time in order to supply the best product possible.  \nThe most current version of this document will always be available at:\nwww.dialight.com/Assets/Brochures_And_Catalogs/Illumination/MDTFSFSTHB001.pdf\n'}]
+!==============================================================================!
+### Component Summary for DIALIGHT 5988070107F
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage: 1.8V (typical) at 20 mA
+  - Reverse Voltage: 5V
+- **Current Ratings:**
+  - Forward Current: 25 mA
+  - Peak Pulse Forward Current: 100 mA
+- **Power Consumption:**
+  - Power Dissipation: 60 mW
+- **Operating Temperature Range:**
+  - -40°C to +100°C
+- **Storage Temperature Range:**
+  - -40°C to +100°C
+- **Package Type:**
+  - 0603 (1.6mm x 0.8mm x 0.7mm) SMD LED
+- **Special Features:**
+  - Compatible with automatic placement equipment
+  - RoHS compliant
+  - Packaged in 8mm tape, 7” reel, 20 pieces per strip
+  - Moisture Sensitivity Level (MSL): 3
+  - Meets EIA-481-1 package standard
+
+#### Component Description:
+The DIALIGHT 5988070107F is a Micro LED® SMD LED component from the "598 SERIES." It is a single-color LED designed for surface mounting, featuring a compact 0603 package size. This LED emits green light with a dominant wavelength of 565-570 nm and is characterized by its low forward voltage and current requirements, making it suitable for various electronic applications.
+
+#### Typical Applications:
+The 5988070107F LED is typically used in:
+- **Indicator Lights:** For signaling and status indication in electronic devices.
+- **Backlighting:** In displays and control panels where space is limited.
+- **Illumination:** In applications requiring compact light sources, such as automotive lighting and consumer electronics.
+- **Decorative Lighting:** In various decorative applications due to its vibrant color and small size.
+
+This component is ideal for applications where energy efficiency and compact design are critical, making it a versatile choice for modern electronic designs.

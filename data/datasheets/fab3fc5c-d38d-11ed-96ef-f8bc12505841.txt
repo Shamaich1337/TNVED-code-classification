@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ZMCT102W-1 production of QINGXIAN ZEMING LANGXI ELECTRONIC DEVICES CO.,LTD from the text:QingxianZemingLangxiElectronic www.micro-transformer.com\nTel:86-25-52601870 E-mail:zm@zeming-e.comZMCT102W-1CurrentTransformer\nSmallsize,highaccuracy,goodconsistency,fortheprecisemeasurementofcurrentandpower\nStructuralparameters:\n“*”→samepolarity\nFrontview LeftView\nThemaintechnicalparameters：\nModel ZMCT102W-1\ninputcurrent 0-10A（10Ω）\nRatedoutputcurrent 2.5mAatinput5A\nturnsratio 2000:1\nphaseangleerror5%dot~120%dotof5A,Phasedifferencevaluebetweenthetwopoints≤10＇\n（samplingresistor10Ω）\nlinearrange 0~10A（samplingresistor10Ω）\nlinearity 0.05%（5%dot~120%dotof5A）\nPermissibleerror -0.05%≤f≤+0.05%（input5A,samplingresistor10Ω）\napplication 4500V\nisolationvoltage Highprecisionmeasurementofcurrentandpower\nEncapsulation Epoxy\ninstallation Flyingwirestype\nQingxianZemingLangxiElectronic www.micro-transformer.com\nTel:86-25-52601870 E-mail:zm@zeming-e.comoperatingtemperature -40℃~+85℃\nDirectionforuse：\nFigureⅠ FigureⅡ\n1.Thetypicalusageoftheproductisfortheactiveoutput(FigureⅠ).Risasamplingresistor.\n2.Theproductcanbedirectlythroughtheresistancesampling,easytouse(FigureⅡ).\n'}]
+!==============================================================================!
+### Component Summary: ZMCT102W-1
+
+**Manufacturer:** Qingxian Zeming Langxi Electronic Devices Co., Ltd  
+**Product Code:** ZMCT102W-1  
+**Type:** Current Transformer
+
+#### Key Specifications:
+- **Input Current Range:** 0-10A (with a sampling resistor of 10Ω)
+- **Rated Output Current:** 2.5mA at an input of 5A
+- **Turns Ratio:** 2000:1
+- **Phase Angle Error:** 5% for 5A to 120% of 5A; phase difference value between two points ≤ 10'
+- **Linearity:** 0.05% (for 5% to 120% of 5A)
+- **Permissible Error:** -0.05% to +0.05% (at input of 5A with a sampling resistor of 10Ω)
+- **Isolation Voltage:** 4500V
+- **Operating Temperature Range:** -40°C to +85°C
+- **Package Type:** Epoxy encapsulation
+- **Installation Type:** Flying wire type
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text
+
+#### Description:
+The ZMCT102W-1 is a high-precision current transformer designed for the accurate measurement of current and power. It features a compact size and high accuracy, making it suitable for various applications where precise current measurement is critical. The transformer operates by converting high input currents into a lower output current, which can then be measured easily.
+
+#### Typical Applications:
+- **Power Measurement:** Used in devices that require accurate monitoring of electrical power consumption.
+- **Current Sensing:** Ideal for applications in energy management systems, smart meters, and industrial automation.
+- **Signal Processing:** Can be utilized in circuits that require current feedback for control systems.
+- **Safety Isolation:** The high isolation voltage allows it to be used in applications where electrical isolation is necessary for safety.
+
+This component is particularly useful in environments where precise current measurement is essential, and its wide operating temperature range makes it versatile for various industrial applications.

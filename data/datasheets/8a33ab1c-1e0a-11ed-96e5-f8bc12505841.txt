@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HX-CUX003A production of HARXON from the text: 58 +\n 4  151 \n 60* \n 50* \n 4 îòâ. 2,6*  102* \nA\n1 3Ðèñ. 2\n 16,7* \n 5,1* \n 5*  2,1* \nï.3 \n 151 \n 10 +\n 2 A (2 : 1)\n2 4À1\nÂèä ñî ñòîðîíû âûâîäà êàáåëÿ\nÌåñòî âûâîäà\nX1\nÂèä ñî ñòîðîíû ïîäêëþ÷åíèÿ\n*Ðàçìåðû äëÿ ñïðàâîê.1\nÒåõíè÷åñêèå òðåáîâàíèÿ:2\n          à) ê ýëåêòðîìîíòàæó ïî ÎÑÒ4 Ã0.010.016.\n          á) ê ìîíòàæó ïî IPC/WHMA-A-620 êëàññ 2.\nÏàÿòü ÏÎÑ 61 ÃÎÑÒ 21931-76. Äîïóñêàåòñÿ çàìåíà íà Sn60Pb40.3\nÎñòàëüíûå òåõíè÷åñêèå òðåáîâàíèÿ - ïî ÎÑÒ4 Ã0.070.015.4À1 Õ1\n1 3 4 \n2 Ðèñ. 1\nï.3 \nÏËÀÑ.468157.100ÑÁ\nÔîðìàò A3ÎÎÎ "ÏËÀÇ"Ëèñò Ëèñòîâ 11:1 50 ãÌàñøòàá Ìàññà Ëèò.ÏËÀÑ.468157.100ÑÁ\nHarxon Àíòåííà \nìîäåðíèçèðîâàííàÿ\nÑáîðî÷íûé ÷åðòåæ\nÊîïèðîâàëÏîäï. ¹ äîêóì. ËèñòÈçì.\n Äàòà\nÈíâ. ¹ ïîäë.Ïîäï. è äàòàÂçàì. èíâ. ¹Èíâ. ¹ äóáë.Ïîäï. è äàòàÏåðâ. ïðèìåí.\nÑïðàâ. ¹\nÐàçðàá.\nÏðîâ.\nÒ. êîíòð.\n \nÍ. êîíòð.\nÓòâ.\nØèôð: Ðûáàëêèí\n \n     \n       \n \n Äîêóìåíòàöèÿ\n \n ÏËÀÑ.468157.100ÑÁ Ñáîðî÷íûé ÷åðòåæ\n \n Ïðî÷èå èçäåëèÿ\n \n1 Àíòåííà Harxon HX-CUX003A 1À1\n2 Ðàçúåì MMCX Right-Angle Plug 1734150951\n \n Ìàòåðèàëû\n \n3 Êàáåëü RG-178 70ìì\n4 Òðóáêà ÒÓÒíã-LS-3/1,5 ÷åðíàÿ \n(ÊÂÒ)20ìì\nÈíâ. ¹ ïîäë.Ïîäï. è äàòàÂçàì. èíâ. ¹Èíâ. ¹ äóáë.Ïîäï. è äàòàÏåðâ. ïðèìåí.\nÑïðàâ. ¹\nÔîðìàò À4ÎÎÎ "ÏËÀÇ"Ëèñò Ëèñòîâ Ëèò.ÏËÀÑ.468157.100\nHarxon Àíòåííà \nìîäåðíèçèðîâàííàÿ\nÊîïèðîâàëÄàòà Ïîäï. ¹ äîêóì. ËèñòÈçì.\nØèôð: 1  ÔîðìàòÇîíàÏîç.Îáîçíà÷åíèå ÍàèìåíîâàíèåÊîë.Ïðèìå-\n÷àíèå\n \n \n   Ðûáàëêèí Ðàçðàá.\nÏðîâ.\nÍ.êîíòð.\nÓòâ.  \n'}]
+!==============================================================================!
+### Component Summary: HX-CUX003A by Harxon
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text.
+- **Current Ratings**: Not explicitly stated in the provided text.
+- **Power Consumption**: Not explicitly stated in the provided text.
+- **Operating Temperature Range**: Not explicitly stated in the provided text.
+- **Package Type**: Not explicitly stated in the provided text.
+- **Special Features or Notes**: The component appears to be a connector type, specifically an MMCX Right-Angle Plug.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not explicitly stated in the provided text.
+
+#### Description:
+The HX-CUX003A is a connector component produced by Harxon. It is identified as an MMCX Right-Angle Plug, which is typically used for RF (radio frequency) applications. MMCX connectors are known for their compact size and ability to provide a secure connection in tight spaces, making them suitable for various electronic devices.
+
+#### Typical Applications:
+The HX-CUX003A connector is commonly used in applications that require RF signal transmission, such as:
+- Wireless communication systems
+- GPS devices
+- Antenna connections
+- Mobile devices
+- Test and measurement equipment
+
+These connectors are particularly useful in scenarios where space is limited, and a reliable connection is essential for maintaining signal integrity.

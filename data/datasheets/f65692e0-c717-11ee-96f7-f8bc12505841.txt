@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of QA33H-FF production of QUALWAVE INC from the text:CoaxialAdapters\nQualwaveInc. +86-28-6115-4929 sales@qualwave.com www.qualwave.com Rev1.6QA33\n3.5mmto3.5mm\nFeatures: Applications:\n*LowVSWR *Wireless\n*Transmitter\n*LaboratoryTest\n*Radar\nElectrical\nFrequency:DC~33GHz\nVSWR:1.15max.\n1.25max.(bulkhead)\n1.25max.(rightangle)\nImpedance:50Ω\nMechanical\nRFConnectors:3.5mm\nOuterConductor:Passivatedstainlesssteel\nDielectric:PEI\nInnerConductor:Goldplatedberylliumcopper\norgoldplatedbrass\nEnvironmental\nTemperature:-55~+125℃\nHowToOrder\nQA33-MM-3.5mm(m)to3.5mm(m),OutlineA\nQA33-MF-3.5mm(m)to3.5mm(f),OutlineB\nQA33-FF-3.5mm(f)to3.5mm(f),OutlineC\nQA33R-MM-3.5mm(m)to3.5mm(m),rightangle,OutlineD\nQA33R-MF-3.5mm(m)to3.5mm(f),rightangle,OutlineE\nQA33R-FF-3.5mm(f)to3.5mm(f),rightangle,OutlineF\nQA33L-FF-3.5mm(f)to3.5mm(f)flangemount,OutlineG\nQA33H-FF-3.5mm(f)to3.5mm(f)bulkhead,OutlineH\nCustomizationisavailableuponrequest.OutlineDrawings\nUnit:mm[in]\nTolerance:±0.2mm[±0.008in]\n'}]
+!==============================================================================!
+### Component Summary for QA33H-FF from Qualwave Inc.
+
+#### Key Specifications:
+- **Type**: Coaxial Adapter
+- **Frequency Range**: DC to 33 GHz
+- **Voltage Ratings**: Not specified (typically determined by the application and connector ratings)
+- **Current Ratings**: Not specified (dependent on application and connector design)
+- **Power Consumption**: Not applicable (passive component)
+- **Operating Temperature Range**: -55°C to +125°C
+- **Package Type**: Coaxial Adapter (3.5mm to 3.5mm)
+- **Special Features**:
+  - Low Voltage Standing Wave Ratio (VSWR):
+    - 1.15 max.
+    - 1.25 max. (bulkhead)
+    - 1.25 max. (right angle)
+  - Impedance: 50Ω
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The QA33H-FF is a coaxial adapter designed to connect two 3.5mm female connectors. It is part of a series of adapters that facilitate RF signal transmission with minimal signal loss and reflection, characterized by a low VSWR. The adapter is constructed with high-quality materials, including passivated stainless steel for the outer conductor and gold-plated beryllium copper or brass for the inner conductor, ensuring durability and excellent conductivity.
+
+#### Typical Applications:
+The QA33H-FF coaxial adapter is commonly used in various applications, including:
+- **Wireless Communication**: Connecting RF components in wireless systems.
+- **Transmitter Systems**: Ensuring efficient signal transmission in transmitter setups.
+- **Laboratory Testing**: Used in test setups for RF measurements and evaluations.
+- **Radar Systems**: Facilitating connections in radar equipment for signal integrity.
+
+This component is essential for maintaining signal quality in high-frequency applications, making it suitable for both commercial and research environments where RF performance is critical.

@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of APM32F407IG MINI Board production of GEEHY from the text: \n \n \nAPM32F 407IG  MINI BOARD  \nVersion : V1.1 User Manual  \n \n \n \n \nwww.geehy.com                                                   Page 1 \n1.  Performance  \n\uf06e 32-bit Arm® Cortex®-M4 \n\uf06e Max frequency: 168MHz \n\uf06e Flash: 1MB \n\uf06e SRAM: 1 92+4 KB \n \n2.   Interface and Resources  \n\uf06e USB: 1  (Type B)  \n\uf06e JTAG/SWD: 1  \n\uf06e LED: 2  \n\uf06e KEY: 2  \n\uf06e RESET KEY: 1  \n\uf06e GPIO: 1 34 \n\uf06e USART: 1 (Switch to USART1 or USART2 by jumper)  \n \n3.   Start  \n1) Ensure a solid connection for jumper J6,  J7, J8, J9, J10 and J15.  \n2) Connect the USB in development board with  PC by a Type B cable and power the \ndevelopment board.  \n3) Connect the emulator with SWD interface for MCU programming and debugging.  \n \n4.   System Requirements  \n\uf06e Windows OS (7/8/10)  \n \nwww.geehy.com                                                   Page 2 \n \n5.   Development Tool  \n\uf06e Keil: MDK -ARM  \n \n6.   Appearance  \n \n \n7.   Schematic Diagram  \nRefer to\n APM32F 407IG  MINIBOARD V1.0. PDF\n  \n \n \n \n \n \n\n'}]
+!==============================================================================!
+### APM32F407IG MINI Board Summary
+
+**Component Overview:**
+The APM32F407IG MINI Board is a development board based on the 32-bit Arm® Cortex®-M4 microcontroller. It is designed for embedded system development and prototyping, providing a versatile platform for various applications.
+
+**Key Specifications:**
+- **Microcontroller:** 32-bit Arm® Cortex®-M4
+- **Max Frequency:** 168 MHz
+- **Flash Memory:** 1 MB
+- **SRAM:** 192 + 4 KB
+- **USB Interface:** 1 (Type B)
+- **JTAG/SWD Interface:** 1
+- **LEDs:** 2
+- **User Keys:** 2
+- **Reset Key:** 1
+- **GPIO Pins:** 134
+- **USART:** 1 (configurable to USART1 or USART2 via jumper)
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Not specified in the provided text.
+- **Power Consumption:** Not specified in the provided text.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Special Features:**
+- The board includes a USB interface for power and communication, as well as JTAG/SWD for programming and debugging.
+- Jumper settings allow for configuration of USART communication.
+
+**Description:**
+The APM32F407IG MINI Board is a compact development platform featuring the Arm Cortex-M4 microcontroller, which is known for its high performance and efficiency in processing tasks. The board is equipped with ample memory resources, including 1 MB of flash and 196 KB of SRAM, making it suitable for a variety of applications.
+
+**Typical Applications:**
+- **Embedded Systems Development:** Ideal for developers looking to create and test embedded applications.
+- **Prototyping:** Useful for rapid prototyping of electronic devices and systems.
+- **IoT Applications:** Can be utilized in Internet of Things (IoT) projects due to its connectivity options.
+- **Signal Processing:** The Cortex-M4 architecture is well-suited for applications requiring digital signal processing capabilities.
+- **Control Systems:** Suitable for motor control, automation, and other control system applications.
+
+This board serves as a powerful tool for engineers and developers in the fields of electronics and embedded systems, providing a robust platform for experimentation and development.

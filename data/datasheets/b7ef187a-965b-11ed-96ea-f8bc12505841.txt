@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ECS-2016MV-250-CN-TR3 production of ECS from the text: \n \n15351 West 109th Street  |  Lenexa, KS 66219  |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \n \n   \n \n \n \n  PARAMETERS CONDITIONS ECS-2016MV UNITS \n  MIN TYP MAX  \nFrequency Range  1.500  54.000 MHz \n* Frequency Stability -40 ~ +85°C (CN Opt)    ±25 ppm \nSupply Voltage  1.6  3.6 V \nOutput Load  CMOS   15 pF \nOutput voltage Level                               VOL: 10% Vdd max. / VOH: 90% Vdd min.V DC  \nRise & Fall time 10% Vdd – 90% Vdd   6.5 ns \nStart Up Time @ 90% Vdd   5 mS \nPhase Jitter 12 kHz to 5 MHz   1 pS \nDuty Cycle @ ½ Vdd   45/55 % \nStandby Current    10 µA \nOperating Temp*  -40   +85 °C \nStorage Temp  -55  +125 °C \nECS            -                 SERIES        FREQUENCY        \nABBREVIATION          -            * STABILITY                    TEMP RANGE -  \n         PACKAGING FREQ.   ~ 19 MHz  ~ 39.9 MHz  ~ 50 MHz  ~ 60 MHz  \n+1.8V 2.5 3.0 3.5 4.0 \n+2.5V 4.5 5.5 6.5 7.0 \n+3.3V 6.0 7.0 8.0 8.5 \nTri State Function  \nPin 1 Output \n0.7 * Vdd Min or NC Active \n0.3 * Vdd Max.  High Impedance  PAD CONNECTIONS  \n1 Tri-state \n2 Gnd  \n3 Output \n4 Vdd OPERATING CONDITIONS / ELECTRICAL CHARACTERISTICS  \nCURRENT CONSUMPTION mA Max  The ECS-2016MV is a miniature  SMD HCMOS Oscillator  with \nMultiVolt \uf0e4 capability of 1.6 ~ 3.6 V.  The 2.0 x 1.6 x 0.85 mm \nceramic package is ideal for LoRa WAN, Low Power/Portable, \nIndustrial and IoT applications. \nECS-2016MV  \nSMD MultiVolt \uf0e4 Crystal Oscillator  \nECS-2016MV SMD XO \n\uf0b7 2.0 x 1.6 mm Footprint \n\uf0b7 Extended Temp Range \n\uf0b7 RoHS Compliant \n\uf0b7 Wide Supply Voltage \n\uf0b7 Low Jitter \n\uf0b7 Compatible with 1.8V, 2.5V \nor 3.3V Power Supply  \n\uf0b7  \nDIMENSIONS (mm)  \nPART NUMBERING GUIDE:  Example ECS-2016MV-250-BN-TR  Figure 2)  Suggested Land Pattern \nFigure 1)  Top, Side, and Bottom views \n \n2016MV \n2.0 x 1.6 mm  \n Multi Volt Oscillator 250 = 25.000 MHz  \nSee Developed \nFrequencies Pg.2     A= ±100 ppm  \n   B = ±50 ppm \n   C=  ±25 ppm \n   D = ±20 ppm \n   M = -20 ~ +70°C \n   N = -40 ~ +85°C -TR = 1K \n-TR3=3K \nQty/Reel \nRev. 2021 * Frequency Stability includes initial tolerance, temperature, supply voltage and load change reflow frequency shift, and aging. \nRequest a Sample \nECS \n \n \n15351 West 109th Street  |  Lenexa, KS 66219  |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \n \n   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n FREQUENCY MHz  CODE \n8.000 080 \n10.000 100 \n12.000 120 \n16.000 160 \n24.000 240 \n25.000 250 \n26.000 260 \n33.3333 333.3 \n48.000 480 \n50.000 500 \nSOLDER PROFILE  \nPeak solder Temp +260°C ±5°C \n10 ±5 Sec Max. \n2 Cycles Max. \nMSL 1, Lead Finish Au \nApplication / Temperature Time  T1 / t1 T2 / t2 \nLead Free  260 ± 5°C / 10 ± 5 See Max.  217°C Min / 60 ~ 150 Sec  \nNon-Lead Free  260 ± 5°C / 10 ± 5 See Max.  183°C Min / 60 ~ 150 Sec  DEVELOPED FREQUENCIES  \nPOCKET TAPE DIMENSIONS (mm)  \nFigure 3)  Suggested Reflow Profile ECS-2016MV  \nSMD MultiVolt \uf0e4 Crystal Oscillator  \n\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n ECS:   \n\xa0 ECS-2016MV-250-CN-TR\xa0 ECS-2016MV-480-CN-TR\xa0 ECS-2016MV-250-BN-TR\xa0 ECS-2016MV-260-CN-TR\xa0 ECS-\n2016MV-333.3-BN-TR\xa0 ECS-2016MV-480-BN-TR\xa0 ECS-2016MV-260-BN-TR\xa0 ECS-2016MV-500-BN-TR\xa0 ECS-2016MV-\n240-BN-TR\xa0 ECS-2016MV-500-CN-TR\xa0 ECS-2016MV-120-BN-TR\n'}]
+!==============================================================================!
+### Component Summary: ECS-2016MV-250-CN-TR3
+
+**Key Specifications:**
+- **Frequency Range:** 1.500 MHz to 54.000 MHz
+- **Frequency Stability:** ±25 ppm (over -40°C to +85°C)
+- **Supply Voltage:** 1.6 V to 3.6 V
+- **Output Load:** 15 pF (CMOS)
+- **Output Voltage Levels:** 
+  - VOL: 10% Vdd max
+  - VOH: 90% Vdd min
+- **Rise & Fall Time:** 6.5 ns (10% Vdd to 90% Vdd)
+- **Start-Up Time:** 5 ms (to reach 90% Vdd)
+- **Phase Jitter:** 1 ps (from 12 kHz to 5 MHz)
+- **Duty Cycle:** 45/55% at ½ Vdd
+- **Standby Current:** 10 µA
+- **Operating Temperature Range:** -40°C to +85°C
+- **Storage Temperature Range:** -55°C to +125°C
+- **Package Type:** 2.0 x 1.6 x 0.85 mm ceramic SMD
+- **Moisture Sensitive Level (MSL):** 1 (according to JEDEC J-STD-020E)
+- **Special Features:** 
+  - MultiVolt capability (compatible with 1.8V, 2.5V, or 3.3V power supply)
+  - RoHS compliant
+  - Low jitter performance
+
+**Component Description:**
+The ECS-2016MV-250-CN-TR3 is a miniature surface-mount HCMOS oscillator designed for a wide range of applications. It operates within a frequency range of 1.500 MHz to 54.000 MHz, with a specific frequency of 25.000 MHz for this variant. The oscillator is characterized by its low power consumption and compact size, making it suitable for various electronic devices.
+
+**Typical Applications:**
+The ECS-2016MV-250-CN-TR3 is commonly used in:
+- **LoRa WAN (Long Range Wide Area Network):** Ideal for low-power, long-range communication applications.
+- **Low Power/Portable Devices:** Suitable for battery-operated devices due to its low standby current.
+- **Industrial Applications:** Used in various industrial control systems where precise timing is crucial.
+- **IoT (Internet of Things):** Perfect for IoT devices that require reliable timing and low power consumption.
+
+This oscillator's features make it a versatile choice for engineers looking to implement precise timing solutions in compact electronic designs.

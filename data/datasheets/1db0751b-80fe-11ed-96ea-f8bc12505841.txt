@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 0530471010 production of MOLEX from the text:This document was generated on 12/24/2021\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nPart Number: 0530471010\nStatus: Active\nOverview: PicoBlade Connector System\nDescription: 1.25mm Pitch, PicoBlade PCB Header, Single Row, Vertical, Through Hole, Tin Plating,\nFriction Lock, 10 Circuits, Tray, 2.30mm PC Tail Length\nDocuments:\n3D Model Product Specification 510211010-PS-000 (PDF)\nDrawing (PDF) Product Specification PS-51021-010-001 (PDF)\n2D Drawing (DXF) Application Specification 510210000-AS-000 (PDF)\n2D Drawing DXF (PDF) Packaging Specification SPK-53047-001-001 (PDF)\n3D Model (PDF) RoHS Certificate of Compliance (PDF)\nAgency Certification\nUL E29179\nGeneral\nProduct Family PCB Headers\nSeries 53047\nApplication Signal, Wire-to-Board\nCurrent Derating Order No 987651-3691\nOverview PicoBlade Connector System\nProduct Name PicoBlade\nUPC 800753565852\nPhysical\nBreakaway No\nCircuits (Loaded) 10\nCircuits (maximum) 10\nColor - Resin Natural\nDurability (mating cycles max) 30\nFirst Mate / Last Break No\nFlammability 94V-0\nGlow-Wire Capable No\nGuide to Mating Part No\nKeying to Mating Part None\nLock to Mating Part Yes\nMated Height 5.20mm\nMaterial - Metal Phosphor Bronze\nMaterial - Plating Mating Tin\nMaterial - Plating Termination Tin\nMaterial - Resin Nylon\nNet Weight 200.200/mg\nNumber of Rows 1\nOrientation Vertical\nPC Tail Length 2.30mm\nPCB Locator No\nPCB Retention None\nPCB Thickness - Recommended 0.80mm\nPackaging Type Tray\nPitch - Mating Interface 1.25mm\nPolarized to PCB No\nShrouded Fully\nStackable No\nSurface Mount Compatible (SMC) No\nTemperature Range - Operating -40° to +85°C\nTermination Interface: Style Through Hole\nSeries image - Reference only\nEU ELV\nNot Relevant\nEU RoHS China RoHS\nCompliant\nREACH SVHC\nNot Contained Per -\nD(2021)4569-DC (8\nJuly 2021)\nHalogen-Free\nStatus\nNot Low-Halogen\nFor more information, please visit Contact US\nChina ROHS Green Image\nELV Not Relevant\nRoHS Phthalates Not Contained\nSearch Parts in this Series\n53047 Series\nMates With\nPicoBlade Housing 51021 <br>PicoBlade\nCable Assembly 15134\nElectrical\nCurrent - Maximum per Contact 1.0A\nVoltage - Maximum 125V\nMaterial Info\nReference - Drawing Numbers\nApplication Specification 510210000-AS-000\nPackaging Specification SPK-53047-001-001\nProduct Specification 510211010-PS-000, PS-51021-010-001\nSales Drawing 530470000-SD-000\nThis document was generated on 12/24/2021\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Molex:   \n\xa0 53047-1010\n'}]
+!==============================================================================!
+### Component Summary for Molex Part Number 0530471010
+
+#### Key Specifications:
+- **Voltage Rating:** 125V
+- **Current Rating:** 1.0A per contact
+- **Power Consumption:** Not specified (dependent on application)
+- **Operating Temperature Range:** -40°C to +85°C
+- **Package Type:** Tray
+- **Special Features:**
+  - Friction lock mechanism
+  - 10 circuits (maximum)
+  - Vertical orientation
+  - Through hole termination style
+  - Fully shrouded design
+  - UL E29179 certified
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+#### Description:
+The Molex 0530471010 is a **PicoBlade PCB Header** connector designed for wire-to-board applications. It features a 1.25mm pitch and is configured as a single row, vertical connector with a through-hole mounting style. The connector is made from durable materials, including phosphor bronze for the metal components and nylon for the resin, with tin plating for both mating and termination interfaces. It is designed to accommodate a maximum of 10 circuits and is suitable for a variety of electronic applications.
+
+#### Typical Applications:
+The PicoBlade connector system is commonly used in applications that require reliable signal transmission and wire-to-board connections. Typical applications include:
+- Consumer electronics
+- Telecommunications equipment
+- Industrial automation
+- Automotive electronics
+- Medical devices
+
+This connector is particularly useful in scenarios where space is limited, and a compact, reliable connection is essential. Its durability rating of 30 mating cycles ensures longevity in applications where connectors may need to be frequently connected and disconnected.

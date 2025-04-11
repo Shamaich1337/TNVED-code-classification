@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SSW-109-22-F-S-VS production of SAMTEC from the text:SSW -1NO. PINS \nPER ROW -22-PLATING \nOPTION -ROW \nOPTION -VS-OTHER\nOPTION\n02 thru 36 –F\n= Gold flash \non contact, \nMatte Tin on tail\n–L\n= 10 µ" (0.25 µm) \nGold on contact, \nMatte Tin on tail\n–G\n= 20 µ" (0.51 µm) \nGold on contact,  \nGold flash on tail–S\n= Single \nRow\n–D\n= Double \nRow–“XX”\n= Polarized \nPosition\n–K\n= –S: (3.50 mm) \n.138" DIA,\n–D: (6.50 mm) \n.256" DIA \nPolyimide film \nPick & Place Pad\n(03 positions min.)\n–P\n= Pick & Place Pad\n(05 positions min.)\n–TR\n= Tape & Reel\n(–02 thru –28)\n–FR\n= Full Reel \nTape & Reel \n(must order max. \nquantity per reel; \ncontact Samtec \nfor quantity \nbreaks)\n(–02 thru –28)SPECIFICATIONS\nPROCESSINGSSW\nMates:\nTSW, MTSW, HTSW, \nHMTSW, MTLW,  EW, ZW, \nTSS, HTSS, ZSS, TSM, \nTSSH, DW, HW\nNote:  \nSome lengths, styles and \noptions are non-standard, \nnon-returnable.Insulator Material:   \nBlack LCP\nContact Material:\nPhosphor Bronze\nPlating:  \nAu or Sn over \n50 µ" (1.27 µm) Ni\nCurrent Rating (SSW/TSM):\n4.7 A per pin\n(2 pins powered)\nOperating Temp Range:\n-55 °C to +125 °C with Gold\n-55 °C to +105 °C with Tin  \nInsertion Depth:  \n(3.68 mm) .145" to  \n(6.35 mm) .250"\nMax Cycles:\n100 with 10 µ" (0.25 µm) Au\nVoltage Rating:\n465 VAC / 655 VDC\nLead–Free Solderable:  \nYes\nSMT Lead Coplanarity:\n(0.10 mm) .004" max\n—D —S(4.95)\n.195(2.41)\n.095(2.54) .100 x No. of Positions + (0.51) .020\n(8.51) \n.335Other platings\nNotch optionALSO AVAILABLE\nMOQ Required\n—P OPTION(2.54 mm) .100" PITCH  •  SSW SERIES\nsamtec.com?SSW\nUnless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.SURFACE MOUNT\n.025" SQ POST SOCKET\nGbps8\nF-221\n'}]
+!==============================================================================!
+### Component Summary: SSW-109-22-F-S-VS
+
+**Description:**
+The SSW-109-22-F-S-VS is a surface mount socket connector produced by Samtec. It features a single row configuration with 22 pins per row and is designed for high-density applications. The connector is suitable for various electronic applications where reliable electrical connections are required.
+
+**Key Specifications:**
+- **Voltage Rating:** 465 VAC / 655 VDC
+- **Current Rating:** 4.7 A per pin (when 2 pins are powered)
+- **Power Consumption:** Not specified directly; power consumption can be inferred from current and voltage ratings.
+- **Operating Temperature Range:** 
+  - -55 °C to +125 °C with Gold plating
+  - -55 °C to +105 °C with Tin plating
+- **Package Type:** Surface Mount Technology (SMT) connector
+- **Special Features:**
+  - Lead-Free Solderable
+  - Insertion Depth: 3.68 mm (0.145") to 6.35 mm (0.250")
+  - Maximum Cycles: 100 with 10 µ" (0.25 µm) Au plating
+  - SMT Lead Coplanarity: 0.10 mm (0.004") max
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text; typically, this information can be found in the full datasheet.
+
+**Typical Applications:**
+The SSW-109-22-F-S-VS connector is commonly used in:
+- **Data Communication:** For connecting various components in data transmission systems.
+- **Consumer Electronics:** In devices requiring compact and reliable connections.
+- **Industrial Equipment:** For robust connections in harsh environments.
+- **Telecommunications:** In systems where high-speed data transfer is essential.
+
+This connector is ideal for applications that require a reliable and compact connection solution, particularly in environments where space is limited and performance is critical.

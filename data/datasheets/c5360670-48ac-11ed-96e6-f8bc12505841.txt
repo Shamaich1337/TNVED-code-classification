@@ -1,0 +1,49 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of IGA200-APD production of OTRON SENSOR from the text:                                                                   IGA200-APD  \nOTRON ELE CTRONIC TECHNOLOGY CO. , LTD \nTEL:+86 -21-54971821                                       EMAL: frank.shuai@e -otron.com  \nFAX:+86 -21-54971823                         1            http://www.e -otron.com        \n  InGaAs  Avalanched  Photodiode  \n      IGA200 -APD  \n \n \n \n \n \n \n \n \n \nDescription  \nIGA200 -APD  is a large  area InGaAs APD designed for distance  \nMeasurement, spatial light transmission and low light levle  \nDetection etc. Despite its large active area of φ200um. \n \nIGA200 -APD provide high responsivity and low noise in the  \nSpectral range between 1100nm with 1700nm, it ’s optimized  \nFor use at a waveleng th of 1550nm, suitable for use in  \nEye-safe laser range finding systems.  \nThe chip is hermetically sealed in a modified TO -46 package.  \n \n \nFeatures  \n* Back  illumination planar APD                * High operation Frequency  \n* Low voltage operation                     * Large Active Area Diameter  \n* Low dark current                         * Spectral Range 950nm to 1700nm  \nApplications  \n* Range finding                            *Optical communication systems  \n* OTDR                                   * Low light level detection  \n \n \nInformation in this technical datasheet is believed to be correct and reliable. However, no responsibility is assumed for pos sible inaccuracies or omission. \nSpecifications are subject change without notice   \n     \n \nNOTES:  \nAll dimension are in millimeters.  \n \n\n                                                                   IGA200-APD  \nOTRON ELE CTRONIC TECHNOLOGY CO. , LTD \nTEL:+86 -21-54971821                                       EMAL: frank.shuai@e -otron.com  \nFAX:+86 -21-54971823                         2            http://www.e -otron.com        \nAbsolute Maximum Ratings (Ta=25 ℃)                                    \nParameter  Symbol  Condition  Min.  Typ.  Max.  Unit  \nActive area  A Φ200 um \nBandwidth  BW                 550  MHz  \nOperating Gain  M  1 15 20  \nReverse breakdown voltage  V(BR) IR=100µA Ev=0lx , Id>0.1m A,T=294 K     40 45 60  V \n⊿Vbr/⊿T       34 37 40 Mv/K \nJunction Capacitance  CJ M>3, VR=VBR*0.9, f=1M    2.2  pF \nPhoto sensitivity @M -=10 SR  λp=1.55um, M=10  9.1 10.1 10.4 \nA/W  \nλp=1.064um, M=10  6.6 7.3 7.8 \nSpectral Application Range  λrange VR=10mV  950  1700 nm \nSpectral Response -Peak  λp VR=0V   1064 -1550   nm \nExcess Noise Factor   M=5   2.1   \n M=10  3.4   \n M=15   4.3   \nNoise S pectral Density   M=10   0.94  PA/√Hz \nDark Current   M=10, T =298K  60 81 96 nA \nOperation Voltage  V 0.9* V(BR) \nAbsolute Opti cal Input  IF 5dBm \nAbsolute Reverse Current   3mA  \nAbsolute Forward Current   5mA \nOperating temperature   -75~+75℃ \nStorage temperature   -80~+125℃ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nInformation in this technical datasheet is believed to be correct and reliable. However, no responsibility is assumed for pos sible inaccuracies or  \nomission. Specifications are subject change without notice  \n\n                                                                   IGA200-APD  \nOTRON ELE CTRONIC TECHNOLOGY CO. , LTD \nTEL:+86 -21-54971821                                       EMAL: frank.shuai@e -otron.com  \nFAX:+86 -21-54971823                         3            http://www.e -otron.com        \n■Dark current vs. reverse voltage        ■ Spectr al response  （M=10)  \n \n \n \n \n \n■Relative Junction Capacitance               \nVS. Voltage  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nInformation in this technical datasheet is believed to be correct and reliable. However, no responsibility is assumed for pos sible inaccuracies or omission. \nSpecifications are subject change without notice   1E-111E-101E-09\n0123456789101112131415Dack current (A)\nReverse voltage (V)\n \n \n 3.15E-123.20E-123.25E-123.30E-123.35E-123.40E-123.45E-12\n0 2 4 6 8 10Capacitance （F)\nVoltage(V)\n'}]
+!==============================================================================!
+### Component Summary: IGA200-APD
+
+**Manufacturer:** OTRON Electronic Technology Co., Ltd  
+**Product Code:** IGA200-APD  
+**Type:** InGaAs Avalanche Photodiode (APD)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Reverse Breakdown Voltage (V(BR)): 40V (Min) to 60V (Max)
+  - Operating Voltage: 0.9 * V(BR)
+  
+- **Current Ratings:**
+  - Dark Current: 60 nA (Min) to 96 nA (Max) at M=10, T=298K
+  - Absolute Reverse Current: 3 mA
+  - Absolute Forward Current: 5 mA
+  
+- **Power Consumption:**
+  - Not explicitly stated; however, the low dark current indicates low power consumption in operation.
+
+- **Operating Temperature Range:**
+  - Operating: -75°C to +75°C
+  - Storage: -80°C to +125°C
+
+- **Package Type:**
+  - Hermetically sealed in a modified TO-46 package.
+
+- **Special Features:**
+  - Back illumination planar APD
+  - High operation frequency (Bandwidth: 550 MHz)
+  - Low voltage operation
+  - Large active area diameter (Φ200 µm)
+  - Low dark current
+  - Spectral range from 950 nm to 1700 nm, optimized for 1550 nm.
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+#### Description:
+The IGA200-APD is a large-area InGaAs avalanche photodiode designed for applications requiring high sensitivity and low noise in the near-infrared spectrum. It is particularly optimized for use in eye-safe laser range-finding systems, making it suitable for various optical applications.
+
+#### Typical Applications:
+- **Range Finding:** Utilized in distance measurement systems, particularly in environments where safety is a concern due to laser usage.
+- **Optical Communication Systems:** Employed in fiber optic communication for signal detection.
+- **Optical Time-Domain Reflectometry (OTDR):** Used for testing and monitoring fiber optic cables.
+- **Low Light Level Detection:** Effective in applications requiring detection of weak optical signals.
+
+This component is ideal for systems that require precise distance measurements and reliable performance in low-light conditions, making it a versatile choice in both industrial and research applications.

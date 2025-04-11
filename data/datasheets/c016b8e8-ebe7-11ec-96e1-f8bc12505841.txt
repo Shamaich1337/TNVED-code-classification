@@ -1,0 +1,48 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TSM-840-144YEC/6SZ production of E-TEC from the text:A New 09.05.2022 Cherry\nOrder Code\nTSM-840-144YEC/6SZ\nSpecifications\nElectrical\nCurrent rating: 50mA@16V DC\nInsulation resistance: 100MΩ min.\nContact resistance: 500mΩ max.\nWithstanding voltage: 250V AC\nMaterial\nCover : Stainless steel\nStem: Silicone (yellow)\nContact: Stainless steel; Silver Plated\nTerminal: Brass; Silver Plated\nBase: LCP (black)  UL 94V-0\nOperating temperature: -40°C to +90°C\nStorage temperature: -40°C to +90°C\nProcessing temperature: +250°C +0/-5°C\n                                         for 5 seconds\nMechanical Requirements\nOperating force: 6.90N±1.47N\nOperating life: 500,000 cycles\nPacking\nReelRoHS\ncompliant\nTactile Switch\n-SMT- 8.40x8.40mmRecommended PCB Layout  Top View\n(Tolerance ±0.05)\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all  rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.20Cherry\nCheng\nFagi09.05.2022\n10.05.2022\n10.05.2022TSM-840-144YEC/6SZ\nTSM-840-144YEC/6SZ1/1\nA128.408.40\n2.553.95\n1.00 ±0.10\n1 2\n8.10\n2.70\n1 2∅4.30\n8.70 2.10\n1.70Schematic Diagram\n'}]
+!==============================================================================!
+### Component Summary for TSM-840-144YEC/6SZ
+
+**Component Type:** Tactile Switch (SMT)
+
+**Description:**
+The TSM-840-144YEC/6SZ is a tactile switch designed for surface mount technology (SMT) applications. It features a compact design with a stainless steel cover and a silicone stem, providing a reliable tactile feedback mechanism for user interfaces in electronic devices.
+
+### Key Specifications:
+
+- **Voltage Ratings:**
+  - Maximum Voltage: 16V DC
+
+- **Current Ratings:**
+  - Current Rating: 50mA
+
+- **Power Consumption:**
+  - Not explicitly stated, but power can be calculated using P = V x I. For maximum ratings, P = 16V x 0.05A = 0.8W.
+
+- **Operating Temperature Range:**
+  - Operating Temperature: -40°C to +90°C
+  - Storage Temperature: -40°C to +90°C
+
+- **Package Type:**
+  - SMT (Surface Mount Technology) with dimensions of 8.40mm x 8.40mm
+
+- **Special Features or Notes:**
+  - Insulation Resistance: 100MΩ minimum
+  - Contact Resistance: 500mΩ maximum
+  - Withstanding Voltage: 250V AC
+  - Operating Force: 6.90N ± 1.47N
+  - Operating Life: 500,000 cycles
+  - Processing Temperature: +250°C +0/-5°C for 5 seconds
+  - RoHS compliant
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+### Typical Applications:
+The TSM-840-144YEC/6SZ tactile switch is typically used in various electronic devices where user interaction is required. Common applications include:
+
+- **Consumer Electronics:** Used in devices like remote controls, keyboards, and handheld devices for user input.
+- **Industrial Equipment:** Employed in control panels and machinery where tactile feedback is necessary for operation.
+- **Automotive Applications:** Utilized in dashboards and control systems for user interface controls.
+- **Medical Devices:** Incorporated in devices requiring user input with tactile feedback for safety and reliability.
+
+This tactile switch is ideal for applications that require a compact, reliable, and durable switch with a long operational life and good environmental resistance.

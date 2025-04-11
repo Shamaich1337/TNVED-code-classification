@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FJ405A106 production of NAKU TECHNOLOGY CO., LTD from the text:www.CivilLaser.comEmail:manager@civillaser.comModel#：FJ405A106\nFiberCoupled405nmLaserwith105umCoreDiameterand0.6WOutputPower\nFJ405A106isafibercoupledsinglecoresemiconductorlaserwithoutputpowergreater\nthan0.6W.4-pinstandardpackagingform,reliableperformance,easytouse.Theoptical\nfiberparameterscanbecustomized,andtheperformanceofthedevicewillbemorereliable\nandstablebyusingtherefrigerationchip.\nParameters：\nTypicalparameters SymbolUnit Value\nOptical\nparametersOutputpower P mW 600\nCentralwavelength λ nm 405\nWavelengthrange - nm 395-405\nSpectralWidth △λ nm -\nTemperaturecoefficient - nm/℃ -\nOpticalFiber\nParametersFiberCoreDiameter W105 μm 105\nNumericalaperture NA - 0.22\nConnector - - FC/PC\nElectrical\nParametersWorkingCurrent Iop mA 450\nThresholdcurrent Ith mA 110\nPowerconversion\nefficiencyη % ~15\nDifferentialquantum\nefficiencyηDW/A 1.5\nWorkingvoltage Vop V 4.5~5.5\nOthers workingtemperature Top\n℃10~30\nStoragetemperature Tst\n℃-20~+60\nlifeexpectancy MTTF h >10000\nwww.CivilLaser.comEmail:manager@civillaser.comPackagingdimensions:\nPin Explain Pin Explain\n1(Leftone) None 3 Laser-\n2 None 4 Laser+\nMattersneedingattention:\n\uf06cAvoidlaserirradiationofeyesandskinwhenlaserworks.\n\uf06cAntistaticmeasuresmustbetakenintransportation,storageanduse.\n\uf06cConstantcurrentpowersupplyisusedtoavoidsurgewhenworking.\n\uf06cItshouldbeusedunderratedcurrentandratedpower.\n\uf06cGoodheatdissipationshouldbeguaranteedwhenthelaserworks.\n\uf06cTheendfaceoftheopticalfibershouldbecleanedbeforeuse.\n\uf06cOpticalfibersshouldnotbendatlargeangles.Thebendingdiametershouldbegreater\nthan300timesthediameterofopticalfibers.\n\n'}]
+!==============================================================================!
+### Component Summary: FJ405A106
+
+**Manufacturer:** NAKU TECHNOLOGY CO., LTD  
+**Product Code:** FJ405A106  
+**Type:** Fiber-Coupled Semiconductor Laser
+
+#### Key Specifications:
+- **Output Power:** 600 mW
+- **Central Wavelength:** 405 nm
+- **Wavelength Range:** 395 - 405 nm
+- **Optical Fiber Core Diameter:** 105 μm
+- **Numerical Aperture:** 0.22
+- **Connector Type:** FC/PC
+- **Working Current (Iop):** 450 mA
+- **Threshold Current (Ith):** 110 mA
+- **Power Conversion Efficiency (η):** ~15%
+- **Differential Quantum Efficiency (ηDW/A):** 1.5
+- **Working Voltage (Vop):** 4.5 - 5.5 V
+- **Operating Temperature Range:** 10°C to 30°C
+- **Storage Temperature Range:** -20°C to +60°C
+- **Mean Time To Failure (MTTF):** >10,000 hours
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The FJ405A106 is a fiber-coupled single-core semiconductor laser designed to emit light at a central wavelength of 405 nm. It is capable of delivering an output power greater than 0.6 W, making it suitable for various applications that require high-intensity light. The device features a 4-pin standard packaging form, ensuring reliable performance and ease of use. The optical fiber parameters can be customized to meet specific application needs, and the inclusion of a refrigeration chip enhances the stability and reliability of the laser's performance.
+
+#### Typical Applications:
+The FJ405A106 is primarily used in applications that require precise and powerful laser light, such as:
+- **Laser Material Processing:** Cutting, engraving, or marking materials.
+- **Biomedical Applications:** Laser therapy, diagnostics, and imaging.
+- **Optical Communication:** Fiber optic systems where high precision and power are necessary.
+- **Research and Development:** Experiments requiring specific wavelengths and high output power.
+- **Lighting Solutions:** Specialized lighting in displays or projectors.
+
+#### Safety and Handling Notes:
+- Avoid direct exposure of the laser beam to eyes and skin.
+- Implement antistatic measures during transportation, storage, and usage.
+- Use a constant current power supply to prevent surges during operation.
+- Ensure good heat dissipation while the laser is in operation.
+- Clean the end face of the optical fiber before use.
+- Avoid bending the optical fibers at sharp angles; the bending diameter should exceed 300 times the fiber diameter. 
+
+This summary provides a comprehensive overview of the FJ405A106 laser, highlighting its specifications, functionality, and applications.

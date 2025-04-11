@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TBG-40124-3S-90 production of TALENT MICROWAVE from the text:© 2014 Talent MicrowaveSuzhou\xa0Talent\xa0Microwave \xa0Inc.\nsales@TalentMW.com\nwww.TalentMW.com \xa0\xa0\n外形尺寸 Outline Drawing:90 Degree 3dB  Bridge \n工作频率 Frequency \xa0Range: 4 ‐12.4GHz\n耦合度 Coupling\xa0:\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 3dB\n插入损耗 Insertion\xa0Loss:\xa0\xa0\xa00.8db\xa0typ,\xa01.0db\xa0max\n隔离度 Isolation:\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 18db\xa0typ,\xa0\xa016db\xa0min\n驻波 VSWR: 1.3 \xa0typ,\xa01.5\xa0max\n幅度平衡 Amplitude Balance: ±0.7dB\xa0max\xa0\n相位平衡 Phase Balance:  ≤±7\xa0degree\n耐功率 Power\xa0Handling: 50 \xa0Watt\xa0\xa0\xa0\n阻抗 Impedance: 50 \xa0OHMS\nPart\xa0No.:\xa0TBG‐40124‐3S‐90\n温度范围 Temperature \xa0Range:\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0‐ 45°C\xa0‐+85°C\n接口 Connectors: \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 SMA‐Female\n相对湿度 Relative\xa0Humidity: \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 0\xa0~\xa090%\n电气特性 Electrical:\n机械特性 Mechanical:\nUnit:\xa0mm\n2-2.3[0.09]\n THRU\n11 [0.43]5.5 [0.22]\n34.7 [1.37]22 [0.87]\n17.35 [0.68]\n21.7 [0.85]17 [0.67]IN1 IN2\nOUT2 OUT1\n'}]
+!==============================================================================!
+### Component Summary for TBG-40124-3S-90
+
+**Component Type:** 3dB Bridge Coupler
+
+**Description:**
+The TBG-40124-3S-90 is a 3dB bridge coupler designed for RF applications, operating within a frequency range of 4 to 12.4 GHz. It is used to split or combine RF signals with minimal loss and is characterized by its compact design and robust performance in various environments.
+
+### Key Specifications:
+- **Frequency Range:** 4 - 12.4 GHz
+- **Coupling:** 3dB
+- **Insertion Loss:** 
+  - Typical: 0.8 dB
+  - Maximum: 1.0 dB
+- **Isolation:** 
+  - Typical: 18 dB
+  - Minimum: 16 dB
+- **VSWR (Voltage Standing Wave Ratio):** 
+  - Typical: 1.3
+  - Maximum: 1.5
+- **Amplitude Balance:** ±0.7 dB (maximum)
+- **Phase Balance:** ≤ ±7 degrees
+- **Power Handling:** 50 Watts
+- **Impedance:** 50 Ohms
+- **Temperature Range:** -45°C to +85°C
+- **Connectors:** SMA-Female
+- **Relative Humidity:** 0% to 90%
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+### Typical Applications:
+The TBG-40124-3S-90 is typically used in applications such as:
+- RF signal distribution and combining
+- Communication systems
+- Test and measurement equipment
+- Radar systems
+- Wireless communication devices
+
+This component is essential in scenarios where signal integrity and minimal loss are critical, making it suitable for high-frequency applications in both commercial and military sectors.

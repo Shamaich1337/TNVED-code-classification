@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 09-4716-00-05 production of BINDER from the text:Иллюстрация Масштабный чертеж Расположение контактов (со\nстороны подключения)\nОписание изделия и инструкция по монтажу находятся на следующей странице.\nТехнические характеристики\nОбщие характеристики\nНомер для заказа\n09 4716 00 05\nКонструкция соединителя Фланцевая розетка\nВерсия Pазъем розетка прямой\nСистема фиксации разъема Вставной-вытяжной микро\nКонцевая заделка пайка\nСтепень защиты IP67\nПлощадь сечения 0,14 мм² / AWG 26\nТемпературный диапазон от/до -40 °C / 80 °C\nМеханическая операция > 1000 циклов соединения\nВес (г) 1.58\nНомер таможенного тарифа 85369010\nЭлектрические параметры\nНоминальное напряжение 125 V\nНоминальное импульсное напряжение 1500 V\nНоминальный ток 1,0 A\nСтепень загрязнения 2\nКатегория перенапряжения II\nГруппа материала II\nСоответствие EMV не экранированный\nПродуктовый лист\nТовар Вставной-вытяжной микро IP67 Фланцевая розетка, Количество полюсов: 5, не экранированный, пайка, IP67\n\xa0 \xa0\nПлощадь Вставной-вытяжной микро IP67 серия 420\nНомер статьи 09 4716 00 05\nДата: 17.07.2023\nМатериал\nМатериал корпуса ПА\nМатериал тела контакта ПА\nМатериал контакта CuSn (бронза)\nПокрытие контактов Au (золото)\nREACH SVHC CAS 7439-92-1 (Lead)\nНомер SCIP 11f26d25-7900-43b3-bea3-277051f8675c\nКлассификация\neCl@ss 11.1 27-44-01-09\nETIM 9.0 EC003569\nПродуктовый лист\nТовар Вставной-вытяжной микро IP67 Фланцевая розетка, Количество полюсов: 5, не экранированный, пайка, IP67\n\xa0 \xa0\nПлощадь Вставной-вытяжной микро IP67 серия 420\nНомер статьи 09 4716 00 05\nДата: 17.07.2023\nобразец сборки\nПродуктовый лист\nТовар Вставной-вытяжной микро IP67 Фланцевая розетка, Количество полюсов: 5, не экранированный, пайка, IP67\n\xa0 \xa0\nПлощадь Вставной-вытяжной микро IP67 серия 420\nНомер статьи 09 4716 00 05\nДата: 17.07.2023\nОписание товара\nПродуктовый лист\nТовар Вставной-вытяжной микро IP67 Фланцевая розетка, Количество полюсов: 5, не экранированный, пайка, IP67\n\xa0 \xa0\nПлощадь Вставной-вытяжной микро IP67 серия 420\nНомер статьи 09 4716 00 05\nДата: 17.07.2023\nУведомления о безопасности\nЗапрещается соединять и рассоединять разъемы под нагрузкой. Несоблюдение этого требования и\nнеправильное использование могут привести к травмам.\nЭти разъемы были разработаны для применения в производственном, контрольном и электрическом\nоборудовании. Пользователь сам должен убедиться, что эти разъемы можно использовать и в других\nобластях применения.\nРазъемы, которые используются в цепях с опасным напряжением, могут устанавливаться и\nэксплуатироваться только лицами, прошедшими обучение по электротехнике, или под их надзором, а\nтакже с учетом действующих норм и стандартов.\nШтекерные разъемы, оболочка которых обеспечивает степень защиты IP67 и IP68, не подходят для\nиспользования под водой. При использовании вне помещений штекерные разъемы необходимо отдельно\nзащищать от коррозии. Подробнее о классах защиты IP см. в центре материалов для скачивания\n«Техническая информация».\nПродуктовый лист\nТовар Вставной-вытяжной микро IP67 Фланцевая розетка, Количество полюсов: 5, не экранированный, пайка, IP67\n\xa0 \xa0\nПлощадь Вставной-вытяжной микро IP67 серия 420\nНомер статьи 09 4716 00 05\nДата: 17.07.2023\n'}]
+!==============================================================================!
+### Component Summary for BINDER Product Code 09-4716-00-05
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Nominal Voltage: 125 V
+  - Nominal Impulse Voltage: 1500 V
+- **Current Ratings:**
+  - Nominal Current: 1.0 A
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range:** -40 °C to 80 °C
+- **Package Type:** Flange socket connector
+- **Special Features:**
+  - IP67 protection rating (dust-tight and protected against immersion in water)
+  - Mechanical operation rated for over 1000 mating cycles
+  - Non-shielded design
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The BINDER 09-4716-00-05 is a micro flange socket connector designed for reliable electrical connections in various applications. It features a direct plug-in and pull-out mechanism, making it user-friendly for assembly and disassembly. The connector is constructed from durable materials, including PA (polyamide) for the housing and CuSn (copper-tin alloy) for the contacts, which are gold-plated for enhanced conductivity and corrosion resistance.
+
+#### Typical Applications:
+This connector is suitable for use in manufacturing, control, and electrical equipment. Its robust design and IP67 rating make it ideal for environments where dust and moisture are concerns, although it is not intended for underwater use. Typical applications may include:
+- Industrial automation systems
+- Control panels
+- Electrical devices requiring secure and weather-resistant connections
+- Equipment in harsh environments where reliability is critical
+
+#### Safety Notices:
+- It is prohibited to connect or disconnect the connectors under load, as this may lead to injury.
+- Users must ensure that the connectors are suitable for their specific applications, especially in circuits with hazardous voltages.
+- Installation and operation should be performed by qualified personnel in accordance with applicable standards and regulations. 
+
+This summary provides a comprehensive overview of the BINDER 09-4716-00-05 connector, highlighting its key specifications, functionality, and typical use cases.

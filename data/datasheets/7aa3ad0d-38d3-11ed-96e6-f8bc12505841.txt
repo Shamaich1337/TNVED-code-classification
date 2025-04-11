@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 109-059 production of SANYO DENKI from the text:AC DC Finger guards  Dimensions (unit: mm)\n38.5ø1.63.5±0.349+1.5\n-0.54+1\n\u30000\nø29.5ø1 .6\nø18.3ø45.3Inlet side, Outlet side40 mm sq. type\nModel no. Surface treatment Mass (g)\n109-059 Nickel-chrome plating (silver)7109-059HCation electropainting (black)\nChassisFanHexagonal nuts\nScrewsSpring washersPlain washersFinger guardMounting example\n Axial fan \nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Sanyo Denki:   \n\xa0 109-059\xa0 109-059H\n'}]
+!==============================================================================!
+### Component Summary for SANYO DENKI 109-059
+
+#### Key Specifications:
+- **Type**: Finger Guard
+- **Dimensions**: 
+  - Diameter: 38.5 mm
+  - Thickness: 1.6 mm
+  - Inlet/Outlet Side: 40 mm square type
+- **Surface Treatment**: 
+  - 109-059: Nickel-chrome plating (silver)
+  - 109-059H: Cation electropainting (black)
+- **Mass**: 71 grams
+- **Moisture Sensitive Level (MSL)**: Not specified in the provided text.
+
+#### Description:
+The SANYO DENKI 109-059 is a finger guard designed for use with axial fans. Its primary function is to provide safety by preventing accidental contact with the fan blades while allowing airflow. The guard is constructed with a durable surface treatment to enhance corrosion resistance and longevity.
+
+#### Typical Applications:
+- **Cooling Systems**: Used in conjunction with axial fans in various electronic and electrical equipment to ensure safe operation.
+- **Industrial Equipment**: Commonly found in machinery where fan protection is necessary to prevent injury.
+- **Consumer Electronics**: Implemented in devices that require cooling solutions while maintaining user safety.
+
+This component is essential for ensuring the safe operation of fans in various applications, providing both protection and functionality.

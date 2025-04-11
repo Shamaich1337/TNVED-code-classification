@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DE1E3RA102MA4BQ01F production of MURATA ELECTRONICS from the text:Product Search Data Sheet\nDE1E3RA102MA4BQ01FNote: This datasheet may be out of date.\nPlease download the latest datasheet of DE1E3RA102MA4BQ01F from the official website of Murata \nManufacturing Co., Ltd.\nhttp://www.murata.com/en/products/productdetail?partno=DE1E3RA102MA4BQ01F\nAttention\n1.This datasheet is downloaded from the website of Murata Manufacturing Co., Ltd. Therefore, it’s specifications are subject to change or our products in it may be discontinued\nwithout advance notice. Please check with our sales representatives or product engineers before ordering.\n2.This datasheet has only typical specifications because there is no space for detailed specifications.\nTherefore, please review our product specifications or consult the approval sheet for product specifications before ordering.\nURL : https://www.murata.com/Last updated09/13/2022\nAppearance & Shape\nNotices\nX1/Y1 Class Certified Products, Halogen-free \nProducts, Rated Voltage   X1:500Vac(r.m.\ns.)/Y1:500Vac(r.m.s.)/1.5kVdc\nReferences\nPackaging SpecificationsStandard \nPacking \nQuantity\nB Bulk(Bag) 250\nMass (typ.)\n1 piece 0.42g\n1 of 4\nProduct Search Data Sheet\nDE1E3RA102MA4BQ01FNote: This datasheet may be out of date.\nPlease download the latest datasheet of DE1E3RA102MA4BQ01F from the official website of Murata \nManufacturing Co., Ltd.\nhttp://www.murata.com/en/products/productdetail?partno=DE1E3RA102MA4BQ01F\nAttention\n1.This datasheet is downloaded from the website of Murata Manufacturing Co., Ltd. Therefore, it’s specifications are subject to change or our products in it may be discontinued\nwithout advance notice. Please check with our sales representatives or product engineers before ordering.\n2.This datasheet has only typical specifications because there is no space for detailed specifications.\nTherefore, please review our product specifications or consult the approval sheet for product specifications before ordering.\nURL : https://www.murata.com/Last updated09/13/2022\nSpecifications\nL size or Outer diameter D 8.0mm max.\nT size 6.0mm max.\nLead spacing F 10.0±1.0mm\nLead diameter d 0.6±0.05mm\nPaint dripping e Up to the end of crimp\nCapacitance 1000pF ±20%\nRated voltage 500Vac(r.m.s.)\nTemperature characteristics E(JIS)\nCapacitance change rate +20/-55%\nTemperature range of \ntemperature characteristics-25℃ to 85℃\nOperating Temperature \nRange-40℃ to 125℃\n2 of 4\nProduct Search Data Sheet\nDE1E3RA102MA4BQ01FNote: This datasheet may be out of date.\nPlease download the latest datasheet of DE1E3RA102MA4BQ01F from the official website of Murata \nManufacturing Co., Ltd.\nhttp://www.murata.com/en/products/productdetail?partno=DE1E3RA102MA4BQ01F\nAttention\n1.This datasheet is downloaded from the website of Murata Manufacturing Co., Ltd. Therefore, it’s specifications are subject to change or our products in it may be discontinued\nwithout advance notice. Please check with our sales representatives or product engineers before ordering.\n2.This datasheet has only typical specifications because there is no space for detailed specifications.\nTherefore, please review our product specifications or consult the approval sheet for product specifications before ordering.\nURL : https://www.murata.com/Last updated09/13/2022\nCharacteristic Data\nThe charts below may show another part number which shares its characteristics.\n3 of 4\nProduct Search Data Sheet\nDE1E3RA102MA4BQ01FNote: This datasheet may be out of date.\nPlease download the latest datasheet of DE1E3RA102MA4BQ01F from the official website of Murata \nManufacturing Co., Ltd.\nhttp://www.murata.com/en/products/productdetail?partno=DE1E3RA102MA4BQ01F\nAttention\n1.This datasheet is downloaded from the website of Murata Manufacturing Co., Ltd. Therefore, it’s specifications are subject to change or our products in it may be discontinued\nwithout advance notice. Please check with our sales representatives or product engineers before ordering.\n2.This datasheet has only typical specifications because there is no space for detailed specifications.\nTherefore, please review our product specifications or consult the approval sheet for product specifications before ordering.\nURL : https://www.murata.com/Last updated09/13/2022\n4 of 4\n'}]
+!==============================================================================!
+### Component Summary for DE1E3RA102MA4BQ01F
+
+**Component Type:** Capacitor (specifically a film capacitor)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Rated Voltage: 500 Vac (r.m.s.)
+  - DC Voltage: 1.5 kV
+  
+- **Current Ratings:** Not explicitly stated in the provided data.
+
+- **Power Consumption:** Not applicable for capacitors in the same way as active components.
+
+- **Operating Temperature Range:**
+  - Standard Operating Temperature: -40°C to 125°C
+  - Temperature Characteristics: -25°C to 85°C
+
+- **Package Type:**
+  - Size (Outer Diameter): 8.0 mm max
+  - Height (T size): 6.0 mm max
+  - Lead Spacing: 10.0 ± 1.0 mm
+  - Lead Diameter: 0.6 ± 0.05 mm
+
+- **Capacitance:** 
+  - 1000 pF ± 20%
+
+- **Special Features or Notes:**
+  - X1/Y1 Class Certified Products
+  - Halogen-free
+  - Capacitance change rate: +20/-55%
+
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+#### Description:
+The DE1E3RA102MA4BQ01F is a film capacitor manufactured by Murata Electronics. It is designed for applications requiring reliable performance in AC voltage environments. The capacitor features a capacitance of 1000 pF with a tolerance of ±20%, making it suitable for various electronic circuits.
+
+#### Typical Applications:
+This capacitor is typically used in:
+- **Power Management:** Filtering and decoupling in power supply circuits.
+- **Signal Processing:** Coupling and decoupling applications in audio and RF circuits.
+- **General Electronics:** Used in various consumer electronics, industrial equipment, and automotive applications where stable capacitance and high voltage ratings are required.
+
+This component is particularly valuable in environments where high reliability and performance under varying temperature conditions are critical.

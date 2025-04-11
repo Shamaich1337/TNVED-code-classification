@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PJ-083BH production of CUI INCORPORATED from the text:date10/31/2019\npage\n1 of 4\nMODEL :  PJ-083BH │ DESCRIPTION:  DC POWER JACK\ncuidevices .com\nFEATURES\n• 2.5 mm center pin\n• 5 A rating\n• shielded\n• through hole\n• 1 switch\nSPECIFICATIONS\nparameter conditions/description min typ max units\nrated input voltage 24 Vdc\nrated input current 5.0 A\ncontact resistance1 between terminal and mating plug\nbetween terminal in a closed circuit50\n30mΩ\nmΩ\ninsulation resistance at 500 Vdc between adjacent contacts 100 MΩ\nvoltage withstand for 1 minute, 0.5 mA between adjacent contacts 500 Vac\ninsertion/withdrawal force 0.3 3 kg\noperating temperature -25 85 °C\nlife at a rate of 24 cycles/minute 5,000 cycles\nflammability rating UL94V-0\nRoHS yes\nNote: 1.  When measured at a current of less than 100 mA/1 kHz\n                 2.  All specifications measured at 10~35°C, humidit y at 45~85%, under standard atmospheric pressure, unless otherwise noted.\nSOLDERABILITY\nparameter conditions/description min typ max units\nreel storage at relative humidity <80% 40 °C\nreflow soldering3see reflow profile 255 260 265 °C\ndrying conditions4 parts in reel: bake at 40°C ±5°C for 72 hours\nparts removed from reel: bake at 40°C ±5°C for 10 hours\nNote: 3.  It is recommended to reflow solder within 72 hours from opening v acuum packaging at a temperature <30°C & relative humidity <60%.\n                 4.  When exceeding floor life by >72 hours.\n150\n50270\n260\n250\n240\n217\n180\n120\n60\n70 140 2503 40 3804 30\n60 120 180 2403 00 360 420 480Temperature (°C)\nTime (sec )Additional Resources:    Product Page     |    3D Model     |    PCB Footprint\nCUI Devices │ MODEL : PJ-083BH │ DESCRIPTION: DC POWER JACK date  10/31/2019 │ page  2 of 4\ncuidevices .comMECHANICAL DRAWING\nRecommended PCB Layout\nTop Viewunits: mm\ntolerance:\nX.X ±0.2 mm\nX.XX ±0.10 mm\nX.XXX ±0.050 mm\nPCB: ±0.05 mmMATERIAL PLATING\ncenter pin copper nickel\nterminal 1 brass silver\nterminal 2 copper alloy silver\nterminal 3 brass silver\nshield A brass nickel\nshield B stainless steel\ninsulator PA10T\nSCHEMATIC1\n23\nModel PJ-083BH\nCenter Pin Ø2.5 mmMATING PLUG\nJack Insertion Depth: 8.2 mmAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\nCUI Devices │ MODEL : PJ-083BH │ DESCRIPTION: DC POWER JACK date  10/31/2019 │ page  3 of 4\ncuidevices .comPACKAGING\nunits: mm\nReel Size: Ø381 mm\nReel QTY: 500 pcs per reelAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\nCUI Devices │ MODEL : PJ-083BH │ DESCRIPTION: DC POWER JACK date  10/31/2019 │ page  4 of 4\ncuidevices .com\nCUI Devices offers a one (1) year limited warranty.  Complete warranty information is listed on our website.\nCUI Devices reserves the right to make changes to the product at any time without notice.  Information provided by CUI Devices is believed to be accurate and reliable.  However, no \nresponsibility is assumed by CUI Devices for its use, nor for any infringements of patents or other rights of third parties which may result from its use.\nCUI Devices products are not authorized or warranted for use as critical components in equipment that requires an extremely high level of reliability.  A critical component is any \ncomponent of a life support device or system whose failure to perform can be reasonably expected to cause the failure of the life support device or system, or to affect its safet y or \neffectiveness.rev. description date\n1.0 initial release 12/12/2018\n1.01 brand update 10/31/2019\nThe revision history provided is for informational purposes only and is believed to be accurate.REVISION HISTORYAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\n'}]
+!==============================================================================!
+### Component Summary: PJ-083BH DC Power Jack
+
+**Manufacturer:** CUI Incorporated  
+**Date:** 10/31/2019  
+**Description:** DC Power Jack
+
+#### Key Specifications:
+- **Voltage Ratings:** 
+  - Rated Input Voltage: 24 Vdc
+- **Current Ratings:** 
+  - Rated Input Current: 5.0 A
+- **Power Consumption:** 
+  - Not explicitly stated; however, the current rating indicates the maximum load it can handle.
+- **Operating Temperature Range:** 
+  - -25 °C to 85 °C
+- **Package Type:** 
+  - Through-hole mount
+- **Special Features or Notes:**
+  - 2.5 mm center pin
+  - Shielded design
+  - Includes 1 switch
+  - Life expectancy of 5,000 cycles at a rate of 24 cycles/minute
+  - Flammability rating: UL94V-0
+  - RoHS compliant
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** 
+  - Not specified in the provided data.
+
+#### Component Description:
+The PJ-083BH is a DC power jack designed for connecting power supplies to electronic devices. It features a 2.5 mm center pin and is rated for a maximum input voltage of 24 Vdc and a current of 5 A. The jack is shielded to reduce electromagnetic interference and is designed for through-hole mounting on printed circuit boards (PCBs).
+
+#### Typical Applications:
+The PJ-083BH DC power jack is commonly used in various electronic applications, including:
+- Power management systems
+- Consumer electronics (e.g., laptops, portable devices)
+- Industrial equipment
+- Telecommunications devices
+- Any application requiring a reliable power connection with a compact form factor.
+
+This component is ideal for scenarios where a stable and secure power connection is necessary, and its robust design ensures longevity and reliability in various operating conditions.

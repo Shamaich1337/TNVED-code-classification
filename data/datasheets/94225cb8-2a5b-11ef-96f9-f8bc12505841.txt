@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SPM6530T-2R2M production of TDK from the text:SMD / SMT Inductors (Coils)1 of 5\nCreation Date : June 14, 2024 (GMT)\nSPM6530T-2R2M   \n! Images are for reference only and show exemplary products.\n! This PDF document was created based on the data listed on the TDK Corporation website.\n! All speciﬁcations are subject to change without notice.\nCopyright(c) TDK Corporation. All rights reserved.Applications Commercial Grade\nFeatureWire Wound Wire Wound\nShield Magnetic Shield\nMetal Core Metal Core\nSeries | Type SPM\nStatus Production\nBrand TDK\nSize\nLength(L) 7.10mm ±0.30mm\nWidth(W) 6.50mm ±0.30mm\nThickness | Height 3.00mm Max.\nRecommended Land Pattern (A) 1.85mm Nom.\nRecommended Land Pattern (B) 3.70mm Nom.\nRecommended Land Pattern (C) 3.40mm Nom.\nElectrical Characteristics\nInductance 2.2μH ±20% at 100kHz\nRated Current (L Change) [Typ.] 8.4A (20% Down)\nRated Current (L Change) [Max.]\nRated Current (Temperature Rise) [Typ.] 8.2A (40°C Rise)\nRated Current (Temperature Rise) [Max.]\nDC Resistance [Typ.] 17.3mΩ\nDC Resistance [Max.] 19.1mΩ\nRated Voltage [Max.]\nSelf Resonant Frequency [Min.]\nSelf Resonant Frequency [Typ.]\nQ [Min.]\nQ [Typ.]\nOther\nOperating Temp. Range (Including Self-Temp. Rise) -40 to 125°C\nSoldering MethodReﬂow\nIron Soldering\nAEC-Q200 NO\nPacking Embossed (Plastic)Taping [330mm Reel, Tape width 16mm]\nPackage Quantity 1000pcs\nSMD / SMT Inductors (Coils)2 of 5\nCreation Date : June 14, 2024 (GMT)\nSPM6530T-2R2M   \n! Images are for reference only and show exemplary products.\n! This PDF document was created based on the data listed on the TDK Corporation website.\n! All speciﬁcations are subject to change without notice.\nCopyright(c) TDK Corporation. All rights reserved.Weight 0.656g\nSMD / SMT Inductors (Coils)3 of 5\nCreation Date : June 14, 2024 (GMT)\nSPM6530T-2R2M   \n! Images are for reference only and show exemplary products.\n! This PDF document was created based on the data listed on the TDK Corporation website.\n! All speciﬁcations are subject to change without notice.\nCopyright(c) TDK Corporation. All rights reserved.Characteristic Graphs (This is reference data, and does not guarantee the products characteristics.)\nImpedance\nSPM6530T-2R2MRac\nSPM6530T-2R2M\nInductance\nSPM6530T-2R2MQ\nSPM6530T-2R2M\nDC Bias Characteristic\nSPM6530T-2R2M (Amb. Temp. = 20 °C)Temperature Characteristic\nSPM6530T-2R2M(No Bias)\nSMD / SMT Inductors (Coils)4 of 5\nCreation Date : June 14, 2024 (GMT)\nSPM6530T-2R2M   \n! Images are for reference only and show exemplary products.\n! This PDF document was created based on the data listed on the TDK Corporation website.\n! All speciﬁcations are subject to change without notice.\nCopyright(c) TDK Corporation. All rights reserved.Characteristic Graphs (This is reference data, and does not guarantee the products characteristics.)\nTemperature Rise by DC\nSPM6530T-2R2M (Amb. Temp. = 20 °C)\nSMD / SMT Inductors (Coils)5 of 5\nCreation Date : June 14, 2024 (GMT)\nSPM6530T-2R2M   \n! Images are for reference only and show exemplary products.\n! This PDF document was created based on the data listed on the TDK Corporation website.\n! All speciﬁcations are subject to change without notice.\nCopyright(c) TDK Corporation. All rights reserved.Associated Images\nShapes and Dimensions\n Land Pattern (Terminal Connection)\n\n'}]
+!==============================================================================!
+### Component Summary: SPM6530T-2R2M
+
+**Manufacturer:** TDK  
+**Type:** SMD/SMT Inductor (Coil)  
+**Series:** SPM  
+**Status:** Production  
+
+#### Key Specifications:
+- **Inductance:** 2.2 μH ±20% at 100 kHz
+- **Rated Current (L Change) [Typ]:** 8.4 A (20% Down)
+- **Rated Current (Temperature Rise) [Typ]:** 8.2 A (40°C Rise)
+- **DC Resistance [Typ]:** 17.3 mΩ
+- **DC Resistance [Max]:** 19.1 mΩ
+- **Operating Temperature Range:** -40°C to 125°C
+- **Package Type:** SMD (Surface Mount Device)
+- **Dimensions:** 
+  - Length: 7.10 mm ±0.30 mm
+  - Width: 6.50 mm ±0.30 mm
+  - Thickness/Height: 3.00 mm Max.
+- **Weight:** 0.656 g
+- **Moisture Sensitivity Level (MSL):** Not specified in the provided data.
+- **Soldering Method:** Reflow, Iron Soldering
+- **Packing:** Embossed (Plastic) Taping [330 mm Reel, Tape width 16 mm]
+- **Package Quantity:** 1000 pcs
+
+#### Description:
+The SPM6530T-2R2M is a surface mount inductor designed for use in various electronic applications. It features a wire-wound construction with a magnetic shield and a metal core, which enhances its performance in terms of inductance stability and efficiency. The component is compact, making it suitable for space-constrained applications.
+
+#### Typical Applications:
+The SPM6530T-2R2M inductor is typically used in:
+- **Power Management:** It is ideal for DC-DC converters, voltage regulators, and power supply circuits where energy efficiency is critical.
+- **Signal Processing:** The inductor can be utilized in filtering applications to smooth out voltage fluctuations and reduce noise in signal lines.
+- **Consumer Electronics:** Commonly found in devices such as smartphones, tablets, and laptops where compact and efficient components are required.
+- **Automotive Applications:** Although it is not AEC-Q200 qualified, it can still be used in non-critical automotive electronics where temperature resilience is necessary.
+
+This inductor is well-suited for applications requiring reliable performance under varying temperature conditions and high current handling capabilities.

@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PHP-BM-205-55-148-1-9SW production of DECIGN from the text:A NEW 10.25.2023\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\nPAUL11.15.2023\n11.15.2023\n11.15.2023A\n0.20Tom\nJerryTom\n0.100.300.40\nSP2-xxx-HX065/xx-xx/2XSP2-H065/2 Board Spacer Pin Header\n2.0mm Pitch-SMT-Straight Dual Row\nSpecifications\nElectrical\nCurrent rating: 2A\nInsulation resistance: 1000 MΩ min.\nContact resistance: 20mΩ max.\nWithstanding voltage: 500V ACMaterial\nContact:Brass\nPlating: Gold, Tin or Duplex\n*Duplex = Tin on solder, Gold on contact area\nInsulator: PA 9T (black) UL 94V-0\nOperating temperature: -40 °C to +105 °C\nProcessing temperature: +250 °C +0/-5 °C\nfor 5 secondsPHP-BM-2XX-55-148-1-9SWOrder Code\n4.0±0.20\nDIMB   2.0*PIN NO./2 ±0.50DIMA  2.0(PIN NO./2-1) ±0.30\n1.5±0.10\n1.5±0.10\n1.0±0.20∅\n2.20±0.20\nB 6.50±0.30\nA 6.0±0.20\nDIMC  2.0(PIN NO./2-2) ±0.30SQ 0.50±0.02 2.0±0.106.50±0.20\n1.0±0.106.50±0.20\n4.50±0.202.0±0.10\n2.0±0.10\nRecommended PCB layout\n6.0±0.25\n2 0.9\n7.5\n2.75\n1.2\n1.2DIMCDIMA14.012.02*7\n2*1018.020.012.010.08.06.0\n8.0\n10.02*62*52*42*34.06.04.02.02*2PIN\n NO.DIMADIMENSION\nDIMB\n34.032.02*17\n2*2038.040.032.030.028.026.0\n28.0\n30.02*162*152*142*1324.026.024.022.02*1222.020.02*11PIN\n NO.DIMENSION\n54.052.02*27\n2*3058.060.052.050.048.046.0\n48.0\n50.02*262*252*242*2344.046.044.042.02*2242.040.02*21PIN\n NO.DIMENSION\n76.074.02*37\n2*4074.072.070.068.0\n70.0\n72.02*362*352*342*3364.0\n68.064.062.02*3262.060.02*31PIN\n NO.DIMENSION\n2*916.018.0 2*1936.038.0 2*2956.058.0 2*39\n78.080.02*814.016.0 2*1834.036.0 2*2854.056.0 2*38\n76.088.066.066.0DIMADIMB DIMADIMB DIMADIMB\n14.020.0\n12.010.08.06.0DIMC\n18.0\n16.034.040.0\n32.030.028.026.024.022.038.0\n36.0DIMC\n54.060.0\n52.050.048.046.044.042.058.0\n56.0DIMC\n76.074.072.070.068.064.062.0\n66.0DIMC\n2.0\n4.0\nPDF      pdfFactory        www.fineprint.cn\n'}]
+!==============================================================================!
+### Component Summary for PHP-BM-205-55-148-1-9SW
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated, but withstanding voltage is 500V AC.
+- **Current Ratings**: 2A maximum.
+- **Power Consumption**: Not specified; however, the current rating indicates the maximum load it can handle.
+- **Operating Temperature Range**: -40 °C to +105 °C.
+- **Package Type**: Board Spacer Pin Header, 2.0mm Pitch, SMT, Straight Dual Row.
+- **Special Features/Notes**: 
+  - Insulation resistance of 1000 MΩ minimum.
+  - Contact resistance of 20 mΩ maximum.
+  - Plating options include Gold, Tin, or Duplex (Tin on solder, Gold on contact area).
+  - Insulator material is PA 9T (black) with UL 94V-0 rating.
+  - Processing temperature of +250 °C with a tolerance of +0/-5 °C for 5 seconds.
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The PHP-BM-205-55-148-1-9SW is a Board Spacer Pin Header designed for surface mount technology (SMT) applications. It features a dual-row configuration with a 2.0mm pitch, making it suitable for various electronic assembly needs. The component is primarily used to connect printed circuit boards (PCBs) while providing spacing between them, which can be critical for thermal management and signal integrity.
+
+#### Typical Applications:
+- **Power Management**: Used in power distribution circuits where multiple connections are required.
+- **Signal Processing**: Facilitates connections in signal processing applications, ensuring reliable signal transmission.
+- **Data Storage**: Can be utilized in data storage devices where multiple connections are necessary for data transfer.
+- **General PCB Interconnects**: Commonly found in various electronic devices for interconnecting different PCB sections or modules.
+
+This component is ideal for applications requiring robust electrical connections in compact spaces, making it a versatile choice in modern electronic designs.

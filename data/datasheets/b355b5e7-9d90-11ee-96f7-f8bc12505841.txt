@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of СH1108B NDVI-2 production of FUZHOU CHUANGAN OPTICS CO., LTD from the text:∅17.304.92∅14.00Image PlaneCover Glass4.31\nML:19.66\nTTL:20.99M12*P0.5L:16.68PRODUCT: CH1108B\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28Type Wide Angle Lens\nResolution\nImage Format 1/2.3"\nImage Circle ф8.0mm(MAX)\nEFL 3mm\nTTL 20.99mm\nF/NO. 2.0\nFFL（M) 4.31mm\nBFL（O) 5.53mm\nFor Sensor IMX117\n120°\nTV Distortion <-15%\nRelative Ill. >70%\nChief Ray Angle <10º\nM.O.D 0.1m~∞\nMount Type M12*P0.5\nDimension Figure ф17.3*L16.68mm\nLens Structure 6G\nIR-Filter Non-IR\nWaterproof No\nWeight 7.3g\nIris Operation Fixed\nZoom Operation Fixed\nFocus Operation Manual\nOperating Temperature -20° ~+85°\nStorage Temperature -20° ~+85°F.O.VHorizontal\nVertical\nDiagonal\nScale\n4:1\nUnits\nmmRemark\nX\nX.0\nX.00\nX.000\nAngle福州创安光电科技有限公司\nFUZHOU CHUANGAN OPTICS CO.，LTD\n3D Angle ProjectionTolerances\n±0.2\n±0.15\n±0.10\n±0.001\n±0.5°Date\n2019-07-22\nDesign\nChecked\nApprovalLinda\nAnna\nSanmu2015-02-03\n2015-03-16\n2015-03-19Revised\nCH1108B Rev1.090°\n153°16MP\n'}]
+!==============================================================================!
+### Component Summary: CH1108B NDVI-2
+
+**Manufacturer:** FUZHOU CHUANGAN OPTICS CO., LTD  
+**Product Code:** CH1108B
+
+#### Key Specifications:
+- **Type:** Wide Angle Lens
+- **Image Format:** 1/2.3"
+- **Image Circle:** ф8.0mm (MAX)
+- **Effective Focal Length (EFL):** 3mm
+- **Total Length (TTL):** 20.99mm
+- **F-number (F/NO):** 2.0
+- **Front Focal Length (FFL):** 4.31mm
+- **Back Focal Length (BFL):** 5.53mm
+- **Sensor Compatibility:** IMX117
+- **Field of View (F.O.V):** 120°
+- **TV Distortion:** <-15%
+- **Relative Illumination:** >70%
+- **Chief Ray Angle:** <10º
+- **Minimum Object Distance (M.O.D):** 0.1m to ∞
+- **Mount Type:** M12*P0.5
+- **Dimensions:** ф17.3mm x L16.68mm
+- **Lens Structure:** 6G (6 elements)
+- **IR Filter:** Non-IR
+- **Waterproof:** No
+- **Weight:** 7.3g
+- **Iris Operation:** Fixed
+- **Zoom Operation:** Fixed
+- **Focus Operation:** Manual
+- **Operating Temperature Range:** -20°C to +85°C
+- **Storage Temperature Range:** -20°C to +85°C
+- **Moisture Sensitivity Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The CH1108B is a wide-angle lens designed for use with image sensors, specifically the IMX117. It features a compact design with a fixed iris and manual focus operation, making it suitable for applications requiring a broad field of view and high resolution. The lens has a relatively low F-number of 2.0, allowing for good light transmission and performance in various lighting conditions.
+
+#### Typical Applications:
+The CH1108B lens is typically used in applications such as:
+- **Surveillance Systems:** Due to its wide field of view and high resolution, it is ideal for security cameras.
+- **Machine Vision:** Used in industrial automation for inspecting products and processes.
+- **Robotics:** For navigation and obstacle detection in robotic systems.
+- **Drones and Aerial Imaging:** Suitable for capturing wide-angle images from aerial platforms.
+- **Consumer Electronics:** Can be integrated into cameras and smartphones for enhanced imaging capabilities.
+
+This lens is particularly beneficial in scenarios where capturing a wide scene is essential, and its manual focus allows for precise adjustments based on the specific requirements of the application.

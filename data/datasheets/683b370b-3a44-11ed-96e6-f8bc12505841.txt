@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HSMFOC-G-50-Z5-01-9-20-FA production of SEAGNOL PHOTONICS CO., LTD from the text:Application: Features:\nOptical Specification:\nUnit\nnm\nnm\ndB\ndB\nmm\nmm\ndB\ndB\n-\nN\nW\n℃\n℃\nDrawing:\nOrdering Information (Part Number):\n L  DD  DD  HH  J  LL  CC\n Lens Type  Working Distance  Beam Diameter Handling\n Power Fiber Jacket Fiber\n Length Connector 2\n 1550  - 1550nm  C - C Lens  05 - 5mm  Z5 - 0.5mm  01 - 1W  B - 250um Bare  05 - 0.5m  FA - FC/APC\n SSSS  - Specify  G - G Lens  10 - 10mm  SS - Specify  03 - 3W         Fiber  10 - 1.0m  FU - FC/UPC\n 50 - 50mm  05 - 5W  9 - 900um Loose  15 - 1.5m  SA - SC/APC\n 100 - 100mm  SS - Specify        Tube  20 - 2.0m  SU - SC/UPC\n SS - Specify  SS - Specify  LA - LC/APC\n LU - LC/UPC\n ST - ST/UPC\nsales@seagnol.com Page 1 of 1Max. Polarization Dependent Loss PDL 0.02\nTensil Load50\nSMF-28eRL Min. Return Loss\nFiber Type1550nm High Power SM Fiber Optic Collimator\n    1550nm High Power Singlemode (SM) Fiber Optic Collimator is a passive component which can convert the\ntransmitted light in the fiber into collimated light (parallel light), or couple the external parallel (approximately parallel)\nlight into the single-mode fiber, the working axis, beam diameter, package can be customized upon request.\nFiber Components\nTesting System\nFiber Laser\nFiber Optic\nλ\nILValueLow Insertion Loss\nPrecise Beam Diameter\nHigh Transmission\nEfficiency\nTyp. Insertion LossParameter\n1550\n0.2\nMax. Insertion Loss\n1, 3, 5 or customized\nT0.3Symbol\nIL\n5\nMax. Optical PowerCenter Wavelength\nHSMFOC- WWWW-L-DD-DD-HH-J-LL-CCBandwidth BW ±30\nMax. Beam Diameter 0.5, 1, 2 or customized\nWorking Distance 5, 10, 50, 100 or specify\n-5~70\n-40~85Operating TemperatureP\n WWWW\n WavelengthNotice: Above specifications are tested at center wavelength in room temperature @23 ℃.Storage Temperature T\n10±0.1mm3.2mm\n1.8mm\n0.7mm\n\n'}]
+!==============================================================================!
+### Component Summary for HSMFOC-G-50-Z5-01-9-20-FA
+
+#### Key Specifications:
+- **Voltage Ratings**: Not applicable (passive optical component)
+- **Current Ratings**: Not applicable (passive optical component)
+- **Power Consumption**: Not applicable (passive optical component)
+- **Operating Temperature Range**: -5°C to 70°C
+- **Storage Temperature**: -40°C to 85°C
+- **Package Type**: Not specified in the provided text
+- **Special Features or Notes**:
+  - Low Insertion Loss (typical: 0.2 dB, maximum: 1 dB)
+  - High Transmission Efficiency
+  - Customizable working axis, beam diameter, and package upon request
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text
+
+#### Description:
+The HSMFOC-G-50-Z5-01-9-20-FA is a **1550nm High Power Singlemode (SM) Fiber Optic Collimator**. It is a passive optical component designed to convert light transmitted through a fiber into collimated (parallel) light or to couple external parallel light into a single-mode fiber. This component is essential for applications requiring precise light transmission and minimal loss.
+
+#### Typical Applications:
+- **Fiber Laser Systems**: Used to collimate the output of fiber lasers for efficient beam delivery.
+- **Optical Communication**: Facilitates the coupling of light into single-mode fibers, enhancing signal integrity and transmission distance.
+- **Optical Sensing**: Employed in systems where precise light delivery is critical for sensor performance.
+- **Research and Development**: Useful in experimental setups requiring controlled light propagation.
+
+This component is particularly valuable in high-power applications where maintaining low insertion loss and high transmission efficiency is crucial for optimal performance.

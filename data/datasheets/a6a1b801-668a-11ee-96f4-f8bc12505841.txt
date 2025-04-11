@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HDB36-24-91SN-059 production of TE CONNECTIVITY from the text:A3DIMENSIONS:\n0 PLC\n1 PLC2 PLC\n3 PLC\n4 PLC\nANGLESD D\nC\nB\nAC\nB\nA4 3 2 1\nOF SCALE SHEET REVNAME\nSIZE CAGE CODE DRAWING NOTOLERANCES UNLESS\nOTHERWISE SPECIFIED:DWN\nCHKAPVD\nMATERIAL FINISHREVISIONS\nPLTR DATE APVD DWN DESCRIPTIONC\nPRODUCT SPEC\nAPPLICATION SPEC\nWEIGHT\n1470-19 (3/13)RESTRICTED TOTHIS DRAWING IS A CONTROLLED DOCUMENT.\nTE Connectivity6. CAVITY 5 IS WITH CONTACT SIZE 16 AND THE GROMMET IS SEALED.\n \n5. CONTACTS 4 AND 5 ARE INTERNALLY CONNECTED. (BUILT-IN BRIDGE)\n 4. CABLE CLAMP ACCEPTS CABLE O.D. \x01n\x02.300 MIN. THRU \x01n\x02.948 MAX.\n \n3. FOR CONTACTS AND WIRES PERFORMANCE AND APPLICATION   CHARACTERISTICS SEE ENVELOPE DRAWING 0425-015-0000.\n \n2. FOR PERFORMANCE AND APPLICATION CHARACTERISTICS SEE\n   ENVELOPE DRAWING 0425-016-0000.\n 1. CONSULT THE FACTORY FOR ELECTRICAL AND MATERIAL \n   SPECIFICATIONS.\n NOTES:8. BREAKAWAY FUNCTION OCCURS AT AN AXIAL LOAD OF 50 TO 100 LBS. 7. THIS CONNECTOR MATES WITH HD34-24-91P*-****\n   (* = SEAL TYPE, **** = ALL MODIFICATIONS) AND HDBOX24-91P*.\nCUSTOMER DRAWINGHDB36-24-91SX-059R. MESSENGER29NOV2005\nB. BYFORD13DEC2005\nS. BEARD13DEC2005\n1:1 11A108-151014\n114-151014INCHES [mm]\n.025 [0.63]PLUG, BREAKAWAY BAYONET\nCOUPLING CONNECTOR 24-91 ARR.059 MOD HDB SERIES\n-2021\n00779TE Connectivity. All Rights Reserved.\nNCNEW RELEASE PER E.O. P19108 13DEC2005 RMRDR\nAREVISED PER ECR-21-000055 15JAN2021 APIG\n.635\n16.13[]\n.750\n19.05[].927\n23.55[]3.191.125\n81.053.18 [ ]\n1.570\n39.88[]4.596.050\n116.74 1.27 [ ]\nOVER KNURL1.942+.000\n-.100\n49.32+.00-2.54[]1.353\n34.37[]1.688\n42.88[]OUTER BUSHING\nINNER BUSHING\n8-32 X 1 1/8 LG SCREW\n1.4375-18 THREADPOLARIZING\nINDICATOR\nSECTION  A-ASEALING PLUG 56\n'}]
+!==============================================================================!
+### Component Summary for HDB36-24-91SN-059 (TE Connectivity)
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this information can be found in the detailed specifications or performance characteristics.
+- **Current Ratings**: Not explicitly stated; refer to the envelope drawing for performance characteristics.
+- **Power Consumption**: Not applicable for connectors; power consumption is generally determined by the connected devices.
+- **Operating Temperature Range**: Not specified in the provided text; typically found in the detailed specifications.
+- **Package Type**: Plug, Breakaway Bayonet Coupling Connector.
+- **Special Features or Notes**:
+  - Built-in bridge connecting contacts 4 and 5.
+  - Breakaway function occurs at an axial load of 50 to 100 lbs.
+  - Mates with HD34-24-91P* and HDBOX24-91P* connectors.
+  - Cable clamp accepts cable outer diameter from 0.300 inches (7.62 mm) to 0.948 inches (24.09 mm).
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The HDB36-24-91SN-059 is a plug-type connector designed for use in applications requiring a breakaway bayonet coupling mechanism. It is part of the HDB series of connectors from TE Connectivity, which are known for their robust design and reliability in various environments. The connector features a sealing plug and is designed to accommodate a range of cable sizes, making it versatile for different applications.
+
+#### Typical Applications:
+This connector is typically used in:
+- **Industrial Equipment**: For connecting various components in machinery where secure and reliable connections are critical.
+- **Automotive Applications**: Often utilized in automotive wiring harnesses due to its durability and ability to withstand harsh conditions.
+- **Aerospace and Defense**: Suitable for applications requiring high reliability and performance under extreme conditions.
+- **Telecommunications**: Used in systems where secure connections are necessary for data transmission.
+
+Overall, the HDB36-24-91SN-059 connector is designed for applications that demand a secure, breakaway connection, ensuring that components can be easily disconnected without damage while maintaining a reliable electrical connection during operation.

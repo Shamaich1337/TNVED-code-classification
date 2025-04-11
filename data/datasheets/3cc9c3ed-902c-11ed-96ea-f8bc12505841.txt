@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DR0608-4.7uH production of XUYI OUGE ELECTRONIC CO.,LTD. from the text: \n \n \nSPECIFICATION  FOR  APPROVAL \n \nOWNER  \n            Makpo  \n \nItem No：  DR0608-4.7uH \nCUSTOMER NO:  CUSTOMER  \nREVISION:  1.0 \nOUGE  No：  DR0608-4.7uH  OU GE   \nREVISION:  A1 \n \nNote:Please send con firmation to us with signature and seal  \nsign and seal  by seller Sign and seal by buyer \nPreparer Reviewer Approver Reviewer Approver confirmer \n ZhiHua Zhang      \nDate： 1st Dec. 2020 Date   \n \n \n1.Dimen sions(unit:mm) \n \nA B C D E \n8.5mm max 10.5mm max 15.0±1.0 3.0±0.2 0.6±0.1 \n \n2．Circuit dargram: \n \n \n \n \n Ouge Item No DR0608-4.7uH  \nName DR6*8-4.7uH  \nRevision A1 Page No 1/3 \n \n4. winding process: \n№ Pin  star-stop Specification of \ncopper line Turns Tube \nST FIN \nN1 S－F 2UEW φ0.50mm×1P 11.5 / / \n5．Description：  \n           1．DR2W6*8 core \n           2. shrink Tube            3.Solder：Pb free \n          4.pin length: 14.0mm±0.5mm \n          5.Inductance dro p =10% typ at IDC 5A  current \n6. Electrical  Parameter \n○1 Inductance \n№ Pins Specification Test condition Test equipment \n1 S-F 4.7uH±10% 10.0KHZ 0.3V  TH2819XB \n \n○2  DC.RESISTANCE \n№ Pins Specification Test condition Test equipment \n1 1-2 0.1Ω max 100.0K HZ 0.25V TH2773A or EQU \n \n7. BOM List \n№ Name Specification Remark \n1 core DR6*8 core SGS \n2 Magnet wire 2UEW 1 55℃ E85640  \n3 Heat Shrinkable Tube Φ6.5mm black sleeve UL \n4 High temperature tin  63/37 SGS \n                    \n     \n Item No DR0608-4.7uH  \nName: DR6*8-4.7uH  \n \nRevision A1 Page No 3/3 \n \n'}]
+!==============================================================================!
+### Component Summary for DR0608-4.7uH
+
+**Manufacturer:** XUYI OUGE ELECTRONIC CO., LTD.  
+**Product Code:** DR0608-4.7uH  
+**Revision:** A1  
+**Date of Specification:** December 1, 2020  
+
+#### Key Specifications:
+- **Inductance:** 4.7 µH ±10% at 10.0 kHz, 0.3V
+- **DC Resistance:** 0.1 Ω max at 100.0 kHz, 0.25V
+- **Current Rating:** Inductance drop of 10% typical at IDC 5A
+- **Operating Temperature Range:** Not explicitly stated, but components are rated for 55°C (based on BOM list)
+- **Package Type:** Not specified in detail, but dimensions are provided:
+  - A: 8.5 mm max
+  - B: 10.5 mm max
+  - C: 15.0 ± 1.0 mm
+  - D: 3.0 ± 0.2 mm
+  - E: 0.6 ± 0.1 mm
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+#### Description:
+The DR0608-4.7uH is an inductor, specifically designed for use in electronic circuits to store energy in a magnetic field when electrical current flows through it. The component features a core made from DR2W6*8 material and is constructed with a copper winding (2UEW) that has a diameter of 0.50 mm. The inductor is designed to be soldered with lead-free solder and has a pin length of 14.0 mm ± 0.5 mm.
+
+#### Typical Applications:
+Inductors like the DR0608-4.7uH are commonly used in various applications, including:
+- **Power Management:** Used in DC-DC converters and power supply circuits to smooth out voltage fluctuations.
+- **Signal Processing:** Employed in filters and oscillators to manage signal integrity and reduce noise.
+- **Energy Storage:** Utilized in energy storage applications where temporary energy storage is required.
+- **RF Applications:** Can be used in radio frequency circuits for tuning and impedance matching.
+
+This component is essential in ensuring stable operation in electronic devices, particularly in power supply and signal processing applications.

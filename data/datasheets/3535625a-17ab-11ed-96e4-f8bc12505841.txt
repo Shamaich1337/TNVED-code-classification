@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PCR-104-SW300-99/R-M025 production of E-TEC from the text:A New 14.06.2022 Cherry\nOrder Code\nPCR-1xx-SW300-xx/R-M025\nMaterial\nContact: Copper Alloy\nPlating: Sn on solder , Au on contact area\n                    entire contact Ni underplated\nInsulator: LCP (black)  UL 94V-0\nOperating temperature: -40°C to +105°C\nPacking\nReelPlating\nRoHS\ncompliant\nPower Connector 3.00mm pitch\nSMT single row - right angle\nwith wing solder tabRecommended PCB Layout  Top View\n(Tolerance ±0.05)\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.25Cherry\nKent\nSH14.06.2022\n14.06.2022\n14.06.2022PCR-1-SW300-99-M025\nPCR-1xx-SW300-99-M0251/1\nA4.609.90\nB 2.001.27\n1.203.00A\n4.37\n1.27\n2.92\n1.65\n3.433.006.93\n5.61AB\n02 3.00 9.65\n03 6.00 12.65\n04 9.00 15.65\n05 12.00 18.65\n06 15.00 21.65\n07 18.00 24.65\n08 21.00 27.65\n09 24.00 30.65\n10 27.00 33.65\n11 30.00 36.65\n12 33.00 39.65Dimension mm No. of\nPins\nSpecifications\nElectrical\nCurrent rating:   99=  Tin \nDuplex plating\n95=  Tin/Gold flash\n97=  Tin/15µ" Gold\n98=  Tin/30µ" Gold\n   other on request\nAmpere 5A 5A 4A 3A 2A 1A\nWire size #20 #22 #24 #26 #28 #30\nInsulation resistance: 1000MΩ min.\nContact resistance: 10mΩ max.\nVoltage rating: 25V AC max.\nWithstanding voltage: 1500V AC\n'}]
+!==============================================================================!
+### Component Summary for PCR-104-SW300-99/R-M025
+
+**Component Type:** Power Connector
+
+**Description:**
+The PCR-104-SW300-99/R-M025 is a surface mount technology (SMT) power connector designed for applications requiring a reliable electrical connection in a compact form factor. It features a right-angle configuration with a 3.00mm pitch and is equipped with wing solder tabs for enhanced mechanical stability during soldering.
+
+**Key Specifications:**
+- **Voltage Rating:** 25V AC maximum
+- **Current Rating:** 
+  - 5A for Tin duplex plating (99)
+  - 4A for Tin/Gold flash (95)
+  - 3A for Tin/15µ" Gold (97)
+  - 2A for Tin/30µ" Gold (98)
+  - 1A for other configurations (on request)
+- **Power Consumption:** Not specified directly; current rating indicates maximum load capacity.
+- **Operating Temperature Range:** -40°C to +105°C
+- **Package Type:** SMT single row, right angle
+- **Special Features:**
+  - Contact material: Copper Alloy
+  - Plating: Sn on solder, Au on contact area with entire contact Ni underplated
+  - Insulator material: LCP (black), UL 94V-0 rated
+  - Moisture Sensitive Level: Not specified in the provided text, but typically assessed per JEDEC J-STD-020E standards.
+
+**Typical Applications:**
+The PCR-104-SW300-99/R-M025 is suitable for various applications, including:
+- Power management systems in consumer electronics
+- Industrial equipment requiring reliable power connections
+- Telecommunications devices
+- Automotive electronics where space and reliability are critical
+- Any application needing a compact, robust power connector with SMT capabilities.
+
+This connector is particularly useful in environments where space is limited, and a secure connection is essential for maintaining electrical integrity.

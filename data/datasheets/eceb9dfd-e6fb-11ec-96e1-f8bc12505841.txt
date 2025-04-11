@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2J2004B-B05H-500RG58-C91NST_MARU production of 2J from the text: \nwww.2j -antennae.com  Page: 1/5 \n \n \n \n \n \n \n \n \n2J200 4B-B05H  \n(DATASHEET)  \n \n Type  Wall mount omnidirectional antenna  \n Frequencies  AMPS (850 MHz)  \nGSM (900 MHz)  \nDCS (1800 MHz)  \nPCS (1900 MHz)  \n3G (UMTS 2.1 GHz)  \n Mounting  Wall Mount  \n Revision  00 \n   \n \n \nwww.2j -antennae.com  Page: 2/5 \n  \n \n1. PRODUCT SELECTOR  \n2J200 4B-B05H   Standard black version  \n2J200 4BW-B05H   White version  \n \n2. SPECIFICATION  \n2.1. Electrical Specifications  \nMobile (Cable 1)  \nFrequencies  AMPS (850 MHz)  \nGSM (900 MHz)  \nDCS (1800 MHz)  \nPCS (1900 MHz)  \n3G (UMTS 2.1 GHz)  \nImpedance  50 Ohms  \nPolarization  Vertical  \nGain  2.2 dBi Max  \nVSWR * <4:1 \nPower handling  100W  \n*Stated when measured with 3m of RG58  \n \n2.2. General Specifications  \nOperating temperature  -40°C to +85°C  \n \n \n2.3. Connection Specifications  \n Connector type:  FME  \n Cable:  RG58  \n Cable length:  300 cm  \n \n For different cable length and connector type ask our sales team.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nwww.2j -antennae.com  Page: 3/5 \n 2.4.  \n2.5. Mechanical Specifications and Dimensions  \n \n Material:  Tube: ABS  / Base: Brass / Bracket: Steel  \n Max. dimensions:  369 mm x 155  mm x 36 mm (H x L x W)  \n Colour:  Black (for different colours please ask our sales team)  \n \n\n \nwww.2j -antennae.com  Page: 4/5 \n  \n3. MEASUREMENT  \n \nVSWR for LTE band  Log Mag for LTE band  \n \n  \nTested with 3m of RG58  Tested with 3m of  RG58 \n \n \n \nAzimuthal Pattern (Z,Y or H-Plane)\n \n \n \nElevation Pattern (X,Y or E-Plane)\n \n \nwww.2j -antennae.com  Page: 5/5 \n  \n4. IMAGES  \n \n \n'}]
+!==============================================================================!
+### Component Summary: 2J2004B-B05H-500RG58-C91NST_MARU
+
+#### Key Specifications:
+- **Type**: Wall mount omnidirectional antenna
+- **Frequencies**: 
+  - AMPS: 850 MHz
+  - GSM: 900 MHz
+  - DCS: 1800 MHz
+  - PCS: 1900 MHz
+  - 3G (UMTS): 2.1 GHz
+- **Impedance**: 50 Ohms
+- **Polarization**: Vertical
+- **Gain**: 2.2 dBi Max
+- **VSWR**: <4:1 (measured with 3m of RG58)
+- **Power Handling**: 100W
+- **Operating Temperature Range**: -40°C to +85°C
+- **Connector Type**: FME
+- **Cable Type**: RG58
+- **Cable Length**: 300 cm
+- **Material**: 
+  - Tube: ABS
+  - Base: Brass
+  - Bracket: Steel
+- **Max Dimensions**: 369 mm x 155 mm x 36 mm (H x L x W)
+- **Color**: Black (custom colors available upon request)
+
+#### Special Features:
+- Designed for wall mounting.
+- Suitable for various mobile communication frequencies.
+- High power handling capability (100W).
+
+#### Moisture Sensitive Level:
+- Not specified in the provided data.
+
+### Description:
+The 2J2004B-B05H-500RG58-C91NST_MARU is a wall mount omnidirectional antenna designed for mobile communication applications. It operates across multiple frequency bands, making it versatile for various wireless communication standards, including AMPS, GSM, DCS, PCS, and 3G (UMTS). The antenna features a vertical polarization and provides a maximum gain of 2.2 dBi, ensuring effective signal transmission and reception.
+
+### Typical Applications:
+This antenna is typically used in:
+- Mobile communication systems, including cellular networks.
+- Wireless data transmission applications.
+- Telecommunications infrastructure where omnidirectional coverage is required.
+- Environments where robust performance is needed across a range of frequencies, such as urban areas with high mobile traffic.
+
+Overall, the 2J2004B-B05H-500RG58-C91NST_MARU is an essential component for enhancing wireless communication capabilities in various applications.

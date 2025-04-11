@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CRF-104-H254 production of E-TEC from the text:DIM "A" DIM "B"\n06 - 20 ±0.20 ±0.15\n22 - 40 ±0.25 ±0.20\n42 - 60 ±0.35 ±0.30\n62 - 80 ±0.45 ±0.40No. of\nPositionsTolerancesAB\n04 5.08 2.54\n06 7.62 5.08\n08 10.16 7.62\n10 12.70 10.16\n12 15.24 12.70\n14 17.78 15.24\n16 20.32 17.78\n18 22.86 20.32\n20 25.40 22.86\n22 27.94 25.40\n24 30.48 27.94\n26 33.02 30.48\n28 35.56 33.02\n30 38.10 35.56\n32 40.64 38.10\n34 43.18 40.64\n36 45.72 43.18\n38 48.26 45.72\n40 50.80 48.26\n42 53.34 50.80\n44 55.88 53.34\n46 58.42 55.88\n48 60.96 58.42\n50 63.50 60.96\n52 66.04 63.50\n54 68.58 66.04\n56 71.12 68.58\n58 73.66 71.12\n60 76.20 73.66\n62 78.74 76.20\n64 81.28 78.74\n66 83.82 81.28\n68 86.36 83.82\n70 88.90 86.36\n72 91.44 88.90\n74 93.98 91.44\n76 96.52 93.98\n78 99.06 96.52\n80 101.60 99.06Dimension mm No. of \nContacts\n\n\n'}]
+!==============================================================================!
+### Component Summary: CRF-104-H254 by E-TEC
+
+#### Key Specifications:
+- **Voltage Ratings**: Not specified in the provided text; typically, this information can be found in the full datasheet.
+- **Current Ratings**: Not specified in the provided text; typically, this information can be found in the full datasheet.
+- **Power Consumption**: Not specified in the provided text; typically, this information can be found in the full datasheet.
+- **Operating Temperature Range**: Not specified in the provided text; typically, this information can be found in the full datasheet.
+- **Package Type**: Not specified in the provided text; typically, this information can be found in the full datasheet.
+- **Special Features or Notes**: The dimensions and tolerances for various configurations are provided, indicating a customizable or modular design.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text; typically, this information can be found in the full datasheet.
+
+#### Component Description:
+The CRF-104-H254 is a connector component, likely a type of header or socket used in electronic assemblies. It is characterized by its modular design, allowing for various configurations based on the number of positions (contacts) specified. The dimensions provided indicate the physical size of the connector, which is critical for ensuring compatibility with circuit boards and other components.
+
+#### Typical Applications:
+Connectors like the CRF-104-H254 are commonly used in a variety of applications, including:
+- **Power Management**: Connecting power supplies to circuit boards or other components.
+- **Signal Processing**: Facilitating communication between different parts of an electronic system.
+- **Data Storage**: Used in devices that require connections to storage media or interfaces.
+- **Modular Systems**: Ideal for applications where components need to be easily replaced or upgraded.
+
+In summary, the CRF-104-H254 is a versatile connector component designed for various electronic applications, with specific dimensions and tolerances that allow for customization based on the needs of the design. For complete specifications, including electrical ratings and environmental conditions, consulting the full datasheet is recommended.

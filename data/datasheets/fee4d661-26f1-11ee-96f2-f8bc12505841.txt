@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of MKPE225D1250A25K042HW production of RUVA CAPACITORS from the text:P0529Rated capacitance \x15\x11\x15ȝ)\nCapacitance tolerance \x93\x14\x13\x08\nRated voltage 1250 V.DC(500Vrms)\nBiggest current 15.0A (60ć)\nBiggest impact current ,S\x95\x15\x15\x14$\nChange rate of votage GY\x12GW\x95\x14\x13\x139\x12ȝ6\nTangent of loss angle WJ\x94\x13\x11\x13\x13\x14\x13 ˄10kHz˅\nEquivalent\nresistor in series(65\x94\x15\x11\x1bPȍ (100kHz)\nMixed inductance (6/\x94\x16\x18Q+\nInsulation resistor 5Vā&\x95\x14\x13\x13\x13\x136\nShape plastic case\nFilling material Flame-resistant epoxy resin\nMedium material PP\nConnect terminal copper termainl\nMax warp distance of terminal\nHumidity of environment 0̚95%\nClimation sort 40/105/56\nCooling way Natural cooling\nStandard GB/T17702 ǃIEC61071\nFlame-resistant class UL94-V0Purchase no.\nDetailed data\nCharacteristic of structure\nWorking condition\nSafty classVT-T(terminal and terminal)\nVT-C(terminal and case)\nProduct Drawing\ndate authorize auditing design plot scaleName\nof productName of\npart\nDrawing\n No.1.5U R.DC/10 SMKPE225D1250A25K042HW\nMKPE\nSnubber CapacitorNingguo Yuhua Electric Co., Ltd.\nMKPE225D1250A25K042HW\x17\x15\x11\x18\x93\x14 \x16\x13\x93\x14\x17\x18\x93\x14\x19f\x140.8146.5\n9.5\n7\n\x94\x14\x1a\x14\x14\x93\x1422~28\nMKPE\n\x15\x11\x15\x03ȝ)\x03\x93\x14\x13\x08\x03\x03\x14\x15\x18\x139'&\n40/105/56         S H\nN0320001\n"}]
+!==============================================================================!
+### Component Summary for MKPE225D1250A25K042HW
+
+#### Key Specifications:
+- **Rated Capacitance**: 2.25 µF
+- **Capacitance Tolerance**: ±10%
+- **Rated Voltage**: 1250 V DC (500 V RMS)
+- **Maximum Current**: 15.0 A (at 60°C)
+- **Maximum Impulse Current**: Not specified in the provided text
+- **Change Rate of Voltage**: Not specified in the provided text
+- **Tangent of Loss Angle**: Not specified in the provided text (typically measured at 10 kHz)
+- **Equivalent Series Resistance (ESR)**: Not specified in the provided text (typically measured at 100 kHz)
+- **Mixed Inductance**: Not specified in the provided text
+- **Insulation Resistance**: ≥ 5 MΩ
+- **Package Type**: Plastic case
+- **Filling Material**: Flame-resistant epoxy resin
+- **Medium Material**: Polypropylene (PP)
+- **Connect Terminal**: Copper terminal
+- **Maximum Warp Distance of Terminal**: Not specified in the provided text
+- **Environmental Humidity**: 95% max
+- **Climatic Category**: 40/105/56 (operating temperature range of -40°C to +105°C with 56 days of damp heat)
+- **Cooling Method**: Natural cooling
+- **Moisture Sensitive Level (MSL)**: Not specified in the provided text
+- **Safety Class**: 
+  - VT-T (terminal to terminal)
+  - VT-C (terminal to case)
+
+#### Component Description:
+The MKPE225D1250A25K042HW is a **snubber capacitor** designed for high-voltage applications. It is primarily used to suppress voltage spikes and transients in electrical circuits, thereby protecting sensitive components from damage. The capacitor is constructed with a flame-resistant epoxy resin and polypropylene dielectric, ensuring durability and reliability in various operating conditions.
+
+#### Typical Applications:
+- **Power Management**: Used in power electronics to manage voltage spikes and improve the stability of power supplies.
+- **Signal Processing**: Helps in filtering and smoothing signals in electronic circuits.
+- **Motor Drives**: Commonly used in motor control applications to protect against voltage transients.
+- **Switching Power Supplies**: Employed in power supply circuits to reduce electromagnetic interference (EMI) and enhance performance.
+
+This capacitor is suitable for applications requiring high reliability and performance under demanding environmental conditions, making it ideal for industrial and commercial electronic systems.

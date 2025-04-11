@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of QF051D production of SINOPACK from the text:2.80\n6.602-5.46\n2-6.20\n9.20±0.151.520.10+0.05\n-0.03\n2.03±0.15\n5.84±0.155.84±0.25\n20.32\n3.00\n4.00\n14.282-Ø3.304-0.90x45 °2-6.35\n5.84±0.25\n日期签名 更改单号数量标记\n比 例质 量\n共   1   张 第   1   张\n中国电子科技集团公司第十三研究所旧底图总号\n日期签名底图总号\n   格式 (1)                         制图：                                      描图：                                         幅面： A4设  计\n审  核\n工  艺\n批  准标准化会  签镀  涂\n标 记阶 段\nS 3:1QF051D型\n陶瓷外壳底座\n外形确认图AT5.07.1698.00WXQ\nAT5.07.1698.00WXQ\n电镀： Ni:(1.30~8.90)μm;Au:(1.30~5.70)μm技术要求：\n1、未注公差为 ±0.13mm 。\n2、  为金属化区域。\n3、材料：引线：可伐；瓷体: 95%白色氧化铝；底盘： CPC(1:4:1) 。\n4、封口方式：胶粘封口；\n5、绝缘电阻： ≥1X1010 Ω，DC500V. 。\n'}]
+!==============================================================================!
+Based on the provided text, here is a concise summary of the QF051D component from SINOPACK:
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text.
+- **Current Ratings**: Not explicitly stated in the provided text.
+- **Power Consumption**: Not explicitly stated in the provided text.
+- **Operating Temperature Range**: Not explicitly stated in the provided text.
+- **Package Type**: Ceramic package.
+- **Special Features or Notes**:
+  - Material Composition: 
+    - Lead: Copper alloy.
+    - Ceramic Body: 95% white alumina.
+    - Base: CPC (1:4:1).
+  - Plating: Nickel (1.30~8.90 μm); Gold (1.30~5.70 μm).
+  - Insulation Resistance: ≥ 1 x 10^10 Ω at DC 500V.
+  - Sealing Method: Adhesive sealing.
+- **Moisture Sensitive Level (MSL)**: Not explicitly stated in the provided text.
+
+### Component Description:
+The QF051D is a ceramic package component, likely used for housing electronic devices or circuits. The ceramic material provides excellent thermal stability and electrical insulation, making it suitable for high-performance applications.
+
+### Typical Applications:
+The QF051D component is typically used in:
+- **High-frequency applications**: Due to its ceramic construction, it can be used in RF (radio frequency) circuits.
+- **Power management**: The component may be utilized in power supply circuits where reliability and thermal performance are critical.
+- **Signal processing**: It can be part of circuits that require stable signal transmission with minimal interference.
+
+### Summary:
+The QF051D from SINOPACK is a ceramic package component designed for high-performance electronic applications. Its robust construction and excellent insulation properties make it suitable for various applications, including RF circuits, power management, and signal processing. However, specific voltage, current ratings, and operating temperature ranges were not provided in the text.

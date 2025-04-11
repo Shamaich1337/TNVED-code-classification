@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of Lens DH475 NIR AR coating production of DAHENG OPTICAL THIN FILM CENTER from the text:           DAHENG New Epoch Technology OTF\nAdd：No.7 Haiying Road, Fengtai Science Park, Fengtai District, Beijing,100070,CHINA\nTEL：（8610）-83681493 ; （8610）-63792961-309\nFAX：（8610）-63792951\nWebsite: www.dahengoptics.com\nE-MAIL：xieying@dahengoptics.com\nWeight: 10.5g\nMaterial ： B270\nSize:25.4+0/-0.1*14+/-0.1mm\nFocal length: EFL=16mm+/-8%\nNumber Aperture:0.79\nBack focal length(REF) :7.3mm\nSurface Quality:80-50\nCentration:<30min\nClear Aperture:>D22.9mm\nCoating: both sides R<0.5%@1030nmLens DH475 NIR AR coating\nApplication:focusing of laser radiation \n\n'}]
+!==============================================================================!
+### Technical Summary of Lens DH475 NIR AR Coating
+
+**Component Description:**
+The Lens DH475 is an optical lens designed for near-infrared (NIR) applications, specifically optimized with anti-reflective (AR) coatings. It is primarily used for focusing laser radiation, making it suitable for various optical systems that require precise light manipulation.
+
+**Key Specifications:**
+- **Material:** B270 glass
+- **Weight:** 10.5 g
+- **Size:** 25.4 mm (length) x 14 mm (width) with a tolerance of ±0.1 mm
+- **Effective Focal Length (EFL):** 16 mm ± 8%
+- **Numerical Aperture (NA):** 0.79
+- **Back Focal Length (BFL):** 7.3 mm (reference)
+- **Surface Quality:** 80-50 (indicating the quality of the lens surface)
+- **Centration:** <30 minutes of arc
+- **Clear Aperture:** >22.9 mm diameter
+- **Coating Performance:** Reflectance (R) < 0.5% at 1030 nm for both sides
+
+**Special Features:**
+- The lens features a high numerical aperture, which allows for better light gathering and focusing capabilities.
+- The anti-reflective coating significantly reduces light loss due to reflection, enhancing the efficiency of laser applications.
+
+**Moisture Sensitive Level:**
+- The datasheet does not specify the Moisture Sensitive Level (MSL) according to JEDEC J-STD-020E, which may need to be confirmed with the manufacturer for specific handling requirements.
+
+### Typical Applications:
+The Lens DH475 is typically used in:
+- **Laser Systems:** For focusing and directing laser beams in various applications, including industrial laser processing and medical laser systems.
+- **Optical Instruments:** In devices that require precise optical components for imaging or measurement.
+- **Research and Development:** In laboratories where NIR light sources are utilized for experiments and testing.
+
+This lens is particularly valuable in fields such as telecommunications, material processing, and scientific research, where efficient light manipulation is crucial.

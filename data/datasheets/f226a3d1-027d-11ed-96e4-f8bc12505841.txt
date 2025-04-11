@@ -1,0 +1,56 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TX7T-H33-NNu28-STR3-50.000MHz production of QUARTZCOM AG from the text:VTX 7T -STR3   \n \nSTRATUM -III, high reliable,  \nTemperature compensated (VC)TCXO   \n \n 2011/65/EU  RoHS  compliant  Page 1 of 2 29 Aug. 19 \nQuartzCom  AG Fax +41 32 644 24 05 \nBruehlstrasse 15  Tel +41 32 644 24 00 \nCH 2540 Grenchen  E-Mail sales@quartzcom.com  \nSwitzerland   www.quartzcom.com   From design to production  \nin Switzerland  \n \nVTX 7T -STR3 5 -52MHz_Rev1.doc  QuartzCom AG reserves the right to make spec changes to this product  Frequency range  5.000 ~ 52.000  MHz \nStandard frequencies (fundamental)  5, 10, 12, 12.8, 13, 15.36, 16, 16.384, 19.2, 1 9.44, 20  \n25, 26, 27, 30, 30.72, 32, 40 and 50 MHz  \nFrequency stability :  \n vs. temperature  \n reference d to (F MAX+FMIN)/2 ≤ ±0.50 ppm over -40 to +85 °C  (∗) \n vs. supply voltage changes  \n reference d to frequency at nominal supply  ≤ ±0. 1 ppm ±5 %  \n vs. load changes  \n reference d to frequency at nominal load  ≤ ±0. 1 ppm ±5 % \n vs. aging @ +40 °C  ≤ ±1.0 ppm  1st year \nG-sensitivity  2.0 ppb/g  per axis  \nFrequency tolerance ex. factory  @ +25 °C   0 ~ +1.0  ppm @ +25 °C  \nSupply voltage (nominal value ±5 %)  +2.8 V, +3.3 V  or +5.0 V   (∗) \nOutput signal  Clipped sine wave  (LV)CMOS  (∗) \nOutput level  > 0.8 Vp-p  VOH > 0.9∗Vcc  /  V OL < 0.1∗Vcc \nOutput load  10 kΩ // 10 pF  15 pF  Max.  \nCurrent consumptio n, depending on frequency  1.5 ~ 7 mA 2 ~ 10  mA \nElectronic Frequency Control (EFC)  ∆F = ±5 to ±10 ppm  positive slope  (∗) \nControl voltage (Vc)  +1.50 V  ±1.0 V  for 3.3 V  +2.50 V  ±2.0 V  for 5.0 V  (∗) \nEFC inp ut impedance  > 100 kΩ  \nPhase noise (typical value for 40 MHz )  \n \n \n \n   -90 dBc/Hz  @ 10 Hz  \n-118 dBc/Hz  @ 100 Hz  \n-140 dBc/Hz  @ 1 kHz  \n-151 dBc/Hz  @ 10 kHz  \n-156 dBc/Hz  @ 100 kHz  \nOperating temperature range  -40  ~   +85 °C  (∗) \nStorage temperature range  -55  ~ +1 05 °C \nReflow Profiles as per IPC/JEDEC J -STD -020C  ≤  260 °C over 10 sec. Max.  \nMoisture sensitivity  Level 1 (unlimited)  \n(∗) See available options on page #2  Note:  Unless otherwise specified conditions are @+25 °C  \n \n Pin function  \n \n# 1 Vc (EFC) for VC -TCXO  \n GND or NC for TCXO  \n# 2 GND  \n# 3 Output  \n# 4 Vcc  \n Soldering pattern  \n \n \nTest circuit for CMOS  \n \n Test circuit for Clipped Sine Wave \n \n \nVTX 7T -STR3   \n \nSTRATUM -III, high reliable,  \nTemperature compensated (VC)TCXO   \n \n 2011/65/EU  RoHS  compliant  Page 2 of 2 29 Aug. 19 \nQuartzCom  AG Fax +41 32 644 24 05 \nBruehlstrasse 15  Tel +41 32 644 24 00 \nCH 2540 Grenchen  E-Mail sales@quartzcom.com  \nSwitzerland   www.quartzcom.com   From design to production  \nin Switzerland  \n \nVTX 7T -STR3 5 -52MHz_Rev1.doc  QuartzCom AG reserves the right to make spec changes to this product   \nEnvironmental conditions  \n \n \nTest IEC \n60068 \nPart…  IEC \n60679- 1 \nClause  MIL-STD- \n202G  \nMethod  MIL-STD- \n810F  \nMethod  MIL-PRF- \n55310D  \nClause  Test conditions (IEC)  \nSealing tests  \n(if applicable)  2-17 5.6.2  112E   3.6.1.2  Gross leak: Test Qc,  \nFine leak: Test Qk  \n \nSolderability  \nResistance to  \nsoldering heat  2-20 \n2-58 5.6.3  208H  \n210F   3.6.52  \n3.6.48  Test Ta method 1,  \nTest Td 1 method 2,  \nTest Td 2 method 2  \nShock *  \n 2-27 5.6.8  213B  516.4  3.6.40  Test Ea, 3 x per axis 100 g,  \n6 ms half -sine pulse  \n \nVibration,  \nsinusoidal*  2-6 5.6.7.1  201A  \n204D  516.4 -4 3.6.38.1  \n3.6.38.2  Test Fc, 30 min per axis, 1 oc t/min  \n10 Hz –  55 Hz 0,75 mm; 55 Hz –  2 kHz, \n10 g \n \nVibration,  \nrandom*  2-64 5.6.7.3  214A  514.5  3.6.38.3  \n3.6.38.4  Test Fdb  \n \n \nEndurance tests  \n- ageing \n- extended ageing    \n5.7.1  \n5.7.2  108A    \n4.8.35   \n30 days @ 85 °C  \n1000 h, 2000 h, 8000 h @ 85 °C \nOther envir onmental conditions on request  \n \n \n \nOrdering code  \n \n(0)7T-(1)(2) -(3)(4) -(5)-STR3 -40.000 MHz  Example:  TX7T-C33-NNu50 -STR3 -40.000MHz  \n \nOscillator type  \n \nTX = TCXO   \nVT = VC -TCXO   \n (1) Output signal  \n \nH = (LV)CMOS  \nC= Clipped s ine wave  \n (2) Supply voltage  \n \n28 = 2.8 V  \n30 = 3.0 V  \n33 = 3.3 V  \n50 = 5.0 V  \n \n (5) Pulling range  \n (VT only)  \n \nV05 = 1.5 ± 1.0 V  ±5  ppm  \nV10 = 1.5 ± 1.0 V  ±10  ppm  \n \nX05 = 2.5 ± 2.0 V  ±5  ppm  \nX10 = 2.5 ± 2.0 V  ±10  ppm  \n \nZ = special spec  \n (3) Operating temperature  \n \nJK =  -20 to +70 °C  \nNN = -40 to +85 °C  \n (4) Frequency stability   \n \nu28 = ± 0. 28  ppm  \n  \n \n'}]
+!==============================================================================!
+### Component Summary: TX7T-H33-NNu28-STR3-50.000MHz
+
+**Component Type:** Temperature Compensated Crystal Oscillator (TCXO)
+
+**Description:**
+The TX7T-H33-NNu28-STR3-50.000MHz is a high-reliability, Stratum III temperature compensated crystal oscillator (TCXO) produced by QuartzCom AG. It is designed to provide precise frequency stability over a wide temperature range, making it suitable for applications requiring accurate timing and frequency control.
+
+### Key Specifications:
+- **Frequency Range:** 5.000 MHz to 52.000 MHz (standard frequency: 50.000 MHz)
+- **Voltage Ratings:** 
+  - Nominal Supply Voltage: +2.8 V, +3.3 V, or +5.0 V (±5%)
+- **Current Ratings:** 
+  - Current Consumption: 1.5 mA to 7 mA (depending on frequency)
+- **Power Consumption:** 
+  - Varies with frequency; typically between 1.5 mA and 10 mA
+- **Operating Temperature Range:** 
+  - -40 °C to +85 °C
+- **Storage Temperature Range:** 
+  - -55 °C to +105 °C
+- **Package Type:** 
+  - Surface Mount (specific package details not provided)
+- **Frequency Stability:**
+  - ±0.50 ppm over -40 °C to +85 °C
+  - ±0.1 ppm for supply voltage changes (±5%)
+  - ±0.1 ppm for load changes (±5%)
+  - Aging: ≤ ±1.0 ppm in the first year at +40 °C
+- **Output Signal:** 
+  - Clipped sine wave (LV)CMOS
+- **Output Level:** 
+  - > 0.8 Vp-p
+- **Output Load:** 
+  - 10 kΩ // 10 pF (max 15 pF)
+- **Electronic Frequency Control (EFC):** 
+  - Control Voltage (Vc): +1.50 V ±1.0 V for 3.3 V, +2.50 V ±2.0 V for 5.0 V
+  - EFC Input Impedance: > 100 kΩ
+- **Phase Noise (typical for 40 MHz):**
+  - -90 dBc/Hz @ 10 Hz
+  - -118 dBc/Hz @ 100 Hz
+  - -140 dBc/Hz @ 1 kHz
+  - -151 dBc/Hz @ 10 kHz
+  - -156 dBc/Hz @ 100 kHz
+- **Moisture Sensitivity Level (JEDEC J-STD-020E):** 
+  - Level 1 (unlimited)
+
+### Typical Applications:
+The TX7T-H33-NNu28-STR3-50.000MHz TCXO is typically used in applications that require precise timing and frequency control, such as:
+- Telecommunications equipment
+- Networking devices
+- GPS systems
+- Industrial automation
+- Consumer electronics
+- Medical devices
+
+This component is particularly valuable in systems where frequency stability is critical, such as in Stratum III timing applications, ensuring reliable performance in various environmental conditions.

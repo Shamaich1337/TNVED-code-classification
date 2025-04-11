@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TC4-1T+ production of MINI-CIRCUITS from the text:Notes\nA. Performance and quality attributes and conditions not expressly stated in this specification document are intended to be excluded and do not form a part of this specification document. \nB. Electrical specifications and performance data contained in this specification document are based on Mini-Circuit’s applicable established test performance criteria and measurement instructions. \nC. The parts covered by this specification document are subject to Mini-Circuits standard limited warranty and terms and conditions (collectively, “Standard Terms”); Purchasers of this part are entitled   \n to the rights and benefits contained therein. For a full statement of the Standard Terms and the exclusive rights and remedies thereunder, please visit Mini-Circuits’ website at www.minicircuits.com/MCLStore/terms.jsp\nMini-Circuits®\nwww.minicircuits.com    P .O. Box 350166, Brooklyn, NY 11235-0003  (718) 934-4500  sales@minicircuits.com Page 1 of 150Ω              0.5 to 300 MHz RF TransformerSurface Mount\nTC4-1T+\nCASE STYLE:  AT224-1A\nOutline Dimensions  (     )inch\nmmMaximum Ratings\nPin ConnectionsFeatures\nPRIMARY DOT 6\nPRIMARY 4\nSECONDARY DOT 1\nSECONDARY 3\nSECONDARY CT 2\nNOT USED 5ApplicationsOperating Temperature  -20°C to 85°C\nStorage Temperature  -55°C to 100°C\nRF Power 0.25W\nDC Current 30mA\nTransformer Electrical Specifications\nREV. D\nM151573\nTC4-1T+\nED-6398/2\nIG/TD/CP/AM\n140629Typical Performance Data\nConfig. A* Insertion Loss is referenced to mid-band loss, 0.3 dB typ.• wide band 0.5-300 MHz, \n  usable over 0.2-450 MHz\n• good return loss\n• impedance matching\n• plastic base with leads\n• aqueous washable\n• catv\n 0.50 0.51 16.81 \n 1.00 0.44 20.73 \n 10.00 0.27 30.31 \n 50.00 0.30 32.32 \n 70.00 0.32 30.95 \n 100.00 0.36 28.39 \n 150.00 0.40 24.12 \n 200.00 0.45 20.32 \n 250.00 0.54 17.09 \n 300.00 0.62 14.29 Outline Drawing  AT224-1A\nFREQUENCY\n(MHz)INSERTION\nLOSS\n(dB)INPUT\n R. LOSS\n(dB)\nABCDEF\n.150 .150 .160 .050 .040 .025\n3.81 3.81 4.06 1.27 1.02 0.64\nGH J K wt\n.028 .065 .190 .030 grams0.71 1.65 4.83 0.76 0.15Ω\nRATIO\n(Secondary/Primary)FREQUENCY\n(MHz)INSERTION LOSS*\n3 dB\nMHz2 dB\nMHz1 dB\nMHz\n4 0.5-300 — 0.5-300 1.5-100\nPermanent damage may occur if any of these limits are exceeded.  \nSuggested Layout, \nTolerance to be within ±.002 PCB Land Pattern Lead #1 identifier shall be located in the cross-hatc hed area shown. \nIdentifier may be either a molded or marked feature. \nINSERTION LOSS\n0.00.20.40.60.81.0\n0 50 100 150 200 250 300\nFREQUENCY (MHz)INSERTION LOSS (dB)INPUT RETURN LOSS\n01020304050\n0 50 100 150 200 250 300\nFREQUENCY (MHz)RETURN LOSS (dB)\n+RoHS Compliant\nThe +Suffix identifies RoHS Compliance. See our web site \nfor RoHS Compliance methodologies and qualifications* Addition of Top hat™ feature \n Benefits\n • Allows faster pick-and-place\n • Enables visual identification marking\nTC4-1TX+ Upgraded Version*\nAvailable Tape and Reel \nat no extra cost \n Reel Size Devices/Reel\n 7” 20, 50, 100, 200, 500 \n 13” 1000, 2000\n\n'}]
+!==============================================================================!
+### Component Summary: TC4-1T+ RF Transformer
+
+**Manufacturer:** Mini-Circuits  
+**Product Code:** TC4-1T+  
+**Type:** RF Transformer  
+**Package Type:** Surface Mount (Case Style: AT224-1A)
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated; typically determined by RF power handling.
+- **Current Ratings:** 
+  - **DC Current:** 30 mA
+- **Power Consumption:** 
+  - **RF Power:** 0.25 W
+- **Operating Temperature Range:** 
+  - **Operating:** -20°C to 85°C
+  - **Storage:** -55°C to 100°C
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+- **Special Features:**
+  - Wide bandwidth (0.5 to 300 MHz, usable over 0.2-450 MHz)
+  - Good return loss
+  - Impedance matching capabilities
+  - Plastic base with leads
+  - Aqueous washable
+  - RoHS compliant (indicated by the + suffix)
+  - Available with Top Hat™ feature for easier handling and identification
+
+#### Description:
+The TC4-1T+ is a surface mount RF transformer designed for applications in the frequency range of 0.5 to 300 MHz. It is primarily used for impedance matching in RF circuits, ensuring efficient signal transfer and minimizing losses. The transformer features a compact design suitable for high-density PCB layouts.
+
+#### Typical Applications:
+- **CATV (Cable Television):** Used in signal distribution and amplification circuits.
+- **RF Signal Processing:** Ideal for applications requiring impedance transformation and signal isolation.
+- **Communication Systems:** Utilized in various RF communication devices for improved signal integrity.
+- **Consumer Electronics:** Commonly found in devices that require RF signal handling, such as televisions and radios.
+
+This component is designed to meet the performance and quality standards set by Mini-Circuits, ensuring reliability in various electronic applications.

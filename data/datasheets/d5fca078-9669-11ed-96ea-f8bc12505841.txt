@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 29S211-302L5 production of ROSENBERGER from the text:Technical Data Sheet   \nMCX  Right Angle Plug  29S211 -302L5  \n \n \nRosenberger Hochfrequenztechnik GmbH & Co. KG  \nP.O.Box 1260       D -84526 Tittmoning       Germany  \nwww.rosenberger.de  Tel.    : +49 8684 18 -0  \nEmail : info@rosenberger.de  Page  \n \n1 / 2 \n \nRF_35/0 9.14/6.2 Dieses Dokument ist urheberrechtlich geschützt ● This document is protected by copyright  ● Rosenberger Hochfrequenztechnik GmbH & Co. KG  \n \n \n \n  \nAll dimensions are in mm; tolerances according to ISO 2768 m -H \n \nInterface  \nAccording to  CECC 22 220, IEC 6 1169-36 \n \nDocuments  \nAssembly instruction  29 C  \n \nMaterial and plating  \nConnector parts  Material  Plating  \nCenter contact  Brass  AuroDur®, gold plated  \nOuter contact  CuBe  AuroDur®, gold plated  \nBody  Brass  AuroDur®, gold plated  \nDielectric  PTFE  \nCrimping sleeve  Copper  Gold, 0.1 µm min.  \n \n \n \n \n \n \nTechnical Data Sheet   \nMCX  Right Angle Plug  29S211 -302L5  \n \n \nRosenberger Hochfrequenztechnik GmbH & Co. KG  \nP.O.Box 1260       D -84526 Tittmoning       Germany  \nwww.rosenberger.de  Tel.    : +49 8684 18 -0  \nEmail : info@rosenberger.de  Page  \n \n2 / 2 \n \nRF_35/0 9.14/6.2 Dieses Dokument ist urheberrechtlich geschützt ● This document is protected by copyright  ● Rosenberger Hochfrequenztechnik GmbH & Co. KG  \nf(GHz)Electrical data  \nImpedance  50 \uf057 \nFrequency  DC to 6 GHz  \nReturn loss  \uf0b3 32 dB, DC to 2 GHz  \n \uf0b3 26 dB, 2 to 3 GHz  \n \uf0b3 22 dB, 3 to 4 GHz  \nInsertion loss  \uf0a3 0.05 x    dB, DC to 4 GHz  \nInsulation resistance  \uf0b3 1 G\uf057 \nCenter contact resistance  \uf0a3 5.0 m\uf057 \nOuter contact resistance  \uf0a3 2.5 m\uf057 \nTest voltage  750 V rms  \nWorking voltage  335 V rms  \nContact Current  1.5A DC max.  \n \n- Limitations are possible due to the used cable type –  \n \nMechanical data  \nMating cycles  \uf0b3 500 \nCenter contact captivation  \uf0b3 10 N \nEngagement force  \uf0a3 25 N \nDisengagement force  8 N min. to 20 N max.  \n \nEnvironmental data  \nTemperature range  -55°C to +155°C  \nThermal shock  CECC 22 220, Chapter 4.6.7  \nVibration  CECC 22 220, Chapter 4.6.3  \nCorrosion  CECC 22 220, Chapter 4.6.10  \nMoisture resistance  CECC 22 220, Chapter 4.6.6  \nRoHS  compliant  \n \nTooling  \nCrimping tool  11W150 -000 \nCrimp insert  11W150 -102 \n \nSuitable cables  \n RG 316 /U, RG 174 A/U, RG 188 A/U   \n \nWeight  \nWeight  1.2 g/pce  \n \n \nDraft  Date  Approved  Date   Rev.  Engineering change number  Name  Date  \nKönig A.  29.06.08  Chr. Janßen  04.11.20   d00 20-1927  S. Huber -Siegl  04.11.20  \nWhile the information has been carefully compiled to the best of our knowledge, nothing is \nintended as representation or warranty on our part and no statement herein shall be \nconstrued as recommendation to infringe existing patents. In the effort to improve our \nproducts, we reserve the right to make changes judged to be nec essary.  \nFor the installation of  the \nelectrotechnical equipment, \nparticular electrotechnical \nexpertise is required.  \nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Rosenberger:   \n\xa0 29S211-302L5\n'}]
+!==============================================================================!
+### Component Summary: MCX Right Angle Plug 29S211-302L5
+
+**Manufacturer:** Rosenberger Hochfrequenztechnik GmbH & Co. KG  
+**Product Code:** 29S211-302L5  
+**Type:** RF Connector (MCX Right Angle Plug)
+
+#### Key Specifications:
+- **Impedance:** 50 Ω
+- **Frequency Range:** DC to 6 GHz
+- **Return Loss:**
+  - ≥ 32 dB (DC to 2 GHz)
+  - ≥ 26 dB (2 to 3 GHz)
+  - ≥ 22 dB (3 to 4 GHz)
+- **Insertion Loss:** ≤ 0.05 x dB (DC to 4 GHz)
+- **Insulation Resistance:** ≥ 1 GΩ
+- **Center Contact Resistance:** ≤ 5.0 mΩ
+- **Outer Contact Resistance:** ≤ 2.5 mΩ
+- **Test Voltage:** 750 V rms
+- **Working Voltage:** 335 V rms
+- **Contact Current:** 1.5 A DC max.
+- **Mating Cycles:** ≥ 500
+- **Temperature Range:** -55°C to +155°C
+- **Moisture Sensitivity Level (MSL):** Not specified in the provided data, but the component is RoHS compliant.
+
+#### Package Type:
+- **Weight:** 1.2 g/piece
+
+#### Material and Plating:
+- **Center Contact:** Brass, AuroDur® gold plated
+- **Outer Contact:** CuBe, AuroDur® gold plated
+- **Body:** Brass, AuroDur® gold plated
+- **Dielectric:** PTFE
+- **Crimping Sleeve:** Copper, gold plated (0.1 µm min.)
+
+#### Special Features:
+- Designed according to CECC 22 220 and IEC 61169-36 standards.
+- Suitable for use with RG 316/U, RG 174 A/U, and RG 188 A/U cables.
+
+### Description:
+The MCX Right Angle Plug 29S211-302L5 is a high-frequency RF connector designed for applications requiring reliable signal transmission in compact spaces. It features a right-angle design that allows for easier routing of cables in tight environments, making it ideal for various RF applications.
+
+### Typical Applications:
+- **Telecommunications:** Used in RF communication systems for connecting cables in base stations and antennas.
+- **Broadcasting:** Suitable for use in broadcasting equipment where space constraints are a concern.
+- **Test and Measurement Equipment:** Commonly used in laboratory setups for RF testing and measurement.
+- **Consumer Electronics:** Employed in devices that require RF connectivity, such as wireless communication devices.
+
+This connector is particularly useful in applications where low insertion loss and high return loss are critical for maintaining signal integrity.

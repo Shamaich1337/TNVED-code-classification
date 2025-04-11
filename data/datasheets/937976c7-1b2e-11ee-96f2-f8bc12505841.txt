@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ECS-2520MVQ 1250-BN production of ECS from the text: \n \n15351 West 109th Street   |  Lenexa , KS 66219   |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \n \n   \n \n  \n \n  \nECS            -                 SERIES        FREQUENCY        \nABBREVIATION          -          * STABILITY -             TEMP RANGE  - \n         PACKAGING  PARAMETERS  CONDITIONS  ECS-2520MV Q UNITS  \n   MIN  TYP         MAX   \nFrequency Range   1.000   160.000  MHz \n* Frequency Stability  -40 ~ +85°C (BN Opt)    ±50 ppm \nSupply Voltage   1.6  3.6 V \nOutput Load  CMOS    15 pF \nOutput voltage Level  VOL:  0.2 Vdd max.  / VOH:  0.8 Vdd min.V DC  \nRise & Fall time  20% Vdd – 80% Vdd   7 ns \nStart Up Time     10 mS \nPhase Jitter  12 kHz to 20 MHz   1 pS \nDuty Cycle  @ ½ Vdd   45/55   % \nInput Current  \n(No Load)  1.000 ~ 9.999 MHz    8 mA \n10.000 ~ 39.999 MHz    10  mA \n40.000 ~ 50.000 MHz    12  mA \n50.100 ~ 160.000 MHz    20 mA \nAging  Per year    ±3 ppm \nStandby Current     10 µA \nOperating Temp*   -40   +85 °C \nStorage Temp   -55  +125  °C \nPAD CONNECTIONS  \n1 Tri-state  \n2 Gnd  \n3 Output  \n4 Vdd \nTri State Function  \nPin 1  Output  \n0.7 * Vdd Min or NC  Active  \n0.3 * Vdd Max.  High Impedance  \nPART NUMBERING GUIDE:  Example ECS -2520 MVQ-250-BN-TR \n2520 MVQ \n2.5 x 2.0 mm  \n MultiVolt \uf0e4 Oscillator  250 = 25.000 MHz  \nSee Developed \nFrequencies Pg.2     A= ±100 ppm  \n   B = ±50 ppm \n   C=  ±25 ppm  \n   D = ±20 ppm \n \n   M = -20 ~ +70°C \n  N = -40 ~ +85°C \n  P = -40 ~ +105°C  \n  S = -40 ~ +125°C  OPERATING CONDITIONS / ELECTRICAL CHARACTERISTICS  \n-TR = Tape  & Reel  \n1K/Reel  \nRev. 2019 * Frequency Stability includes initial tolerance, temperature, supply voltage load change  and reflow frequency shift.  The E CS-2520MVQ is a miniature  SMD HCMOS Oscillator  with \nMultiVolt \uf0e4 capability of 1.6 ~ 3.6 V .  The 2. 5 x 2.0 x 0.8 mm cera mic \npackage is ideal for  LoRa WAN, Low Power /Portable , Indus trial and \nAutomotive  application s. \nECS-2520 MVQ \nSMD MultiVolt \uf0e4 Crystal Oscillator  \nRequest a Sample  \nFigure 2)  Suggested Land \nPattern  ECS-2520 MVQ SMD  XO \nECS • 2.5 x 2.0 mm Footprint  \n• Extended Temp Range  \n• RoHS Compliant  \n• Wide Supply Voltage  \n• Low Jitter  \n• Compatible with 1.8V, 2.5V \nor 3.3V Power Supply  \n• AEC-Q200 Qualified  \n•  \n DIMENSIONS (mm)  \nFigure 1)  Top, Side , and Bottom views  \n \n\n \n \n15351 West 109th Street   |  Lenexa , KS 66219   |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \n \n   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n FREQUENCY MHz  CODE \n12.000  120 \n24.000  240 \n25.000  250 \n26.000  260 \n33.3333  333.3  \n48.000  480 \n50.000  500 \n125.000  1250  \nSOLDER  PROFILE  \nPeak solder Temp +260°C  ±5°C  10 ±5 Sec Max.  \n2 Cycles Max.  \nMSL 1, Lead Finish Au  Application / Temperature Time  T1 / t1  T2 / t2  \nLead Free  260 ± 5°C / 10 ± 5 See Max.  217°C Min / 60 ~ 150 Sec  \nNon-Lead Free  260 ± 5°C / 10 ± 5 See Max.  183°C Min / 60 ~ 150 Sec  DEVELOPED FREQUENC IES \nPOCKET TAPE DIMENSIONS (mm)  \nFigure 3) Suggested Reflow Profile  ECS-2520MV Q \nSMD MultiVolt \uf0e4 Crystal Oscillator  \n\n'}]
+!==============================================================================!
+### Component Summary: ECS-2520MVQ 1250-BN
+
+#### Key Specifications:
+- **Frequency Range**: 1.000 to 160.000 MHz
+- **Frequency Stability**: ±50 ppm (at -40 to +85°C)
+- **Supply Voltage**: 1.6 to 3.6 V
+- **Output Load**: CMOS, 15 pF
+- **Output Voltage Levels**: 
+  - VOL: 0.2 Vdd max
+  - VOH: 0.8 Vdd min
+- **Rise & Fall Time**: 7 ns (20% Vdd to 80% Vdd)
+- **Start-Up Time**: 10 ms
+- **Phase Jitter**: 1 ps (12 kHz to 20 MHz)
+- **Duty Cycle**: 45/55% @ ½ Vdd
+- **Input Current (No Load)**:
+  - 1.000 to 9.999 MHz: 8 mA
+  - 10.000 to 39.999 MHz: 10 mA
+  - 40.000 to 50.000 MHz: 12 mA
+  - 50.100 to 160.000 MHz: 20 mA
+- **Aging**: ±3 ppm per year
+- **Standby Current**: 10 µA
+- **Operating Temperature Range**: -40 to +85 °C
+- **Storage Temperature Range**: -55 to +125 °C
+- **Package Type**: 2.5 x 2.0 x 0.8 mm ceramic SMD
+- **Moisture Sensitive Level (MSL)**: 1 (according to JEDEC J-STD-020E)
+- **Special Features**: 
+  - MultiVolt capability (compatible with 1.8V, 2.5V, or 3.3V power supply)
+  - Low jitter performance
+  - AEC-Q200 qualified for automotive applications
+  - RoHS compliant
+
+#### Description:
+The ECS-2520MVQ is a miniature surface-mount HCMOS oscillator designed for a wide range of applications. It operates within a frequency range of 1 MHz to 160 MHz and features a MultiVolt capability, allowing it to function with supply voltages from 1.6V to 3.6V. The device is housed in a compact 2.5 x 2.0 mm ceramic package, making it suitable for space-constrained applications.
+
+#### Typical Applications:
+The ECS-2520MVQ oscillator is ideal for various applications, including:
+- **LoRa WAN**: Used in low-power, long-range communication systems.
+- **Low Power/Portable Devices**: Suitable for battery-operated devices requiring efficient power management.
+- **Industrial Applications**: Provides reliable timing solutions in industrial control systems.
+- **Automotive Applications**: AEC-Q200 qualification ensures reliability in automotive environments.
+- **Consumer Electronics**: Used in devices requiring precise timing and frequency generation.
+
+This oscillator is particularly beneficial in applications where low power consumption, compact size, and high frequency stability are critical.

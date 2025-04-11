@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DLWIFI4-H7 production of DOLIN GROUP LIMITED from the text:DOLIN GROUP LIMITED  \n                                        \nDOLIN GROUP LIMITED  www.dolinele.com                           \nSales@dolinele.com   dolinsales@163.com  \nSkype: dolinsales  What’s APP: +86 19 5858 4601  \n \n \n \nWIFI 2.4G+5G Flat Rotation Antenna  \nSpecification \n \nModel: DL WIFI 4-H7 \nMain Technical Specifications  \nFrequency  2400- 2500 & 5150- 5950Mhz  \nPeak Gain  ≤ 5dBi \nVSWR  ≤2.0:1 \nInput Impedance  50ohm  \nRadiation  OMNI  \nPolarization Type  Vertical  \nMax Input power  50w \nAntenna Length 158mm  \nAntenna Width 18mm \nConnecto r Type  SMA  male or specified  \nAntenna Color  Black  (available in gray and white ) \nWorking Temperature  -45℃ to + 85℃  \nStorage Temperature     -45℃ to + 85℃  \n \n \nDOLIN GROUP LIMITED  \n                                        \nDOLIN GROUP LIMITED  www.dolinele.com                           \nSales@dolinele.com   dolinsales@163.com  \nSkype: dolinsales  What’s APP: +86 19 5858 4601  \n \n \n \nCharacteristic curve  \n \n \n  \n \n  \n \n  \n \n \n \n  \nDOLIN GROUP LIMITED  \n                                        \nDOLIN GROUP LIMITED  www.dolinele.com                           \nSales@dolinele.com   dolinsales@163.com  \nSkype: dolinsales  What’s APP: +86 19 5858 4601  \n \n \n \nSize drawing  \n \n \n \n \n \n'}]
+!==============================================================================!
+### Component Summary: DLWIFI4-H7
+
+**Description:**
+The DLWIFI4-H7 is a dual-band flat rotation antenna designed for wireless communication applications. It operates in the 2.4 GHz and 5 GHz frequency bands, making it suitable for Wi-Fi connectivity. The antenna features an omnidirectional radiation pattern, which allows it to receive and transmit signals from all directions, enhancing its performance in various environments.
+
+**Key Specifications:**
+- **Frequency Range:** 2400 - 2500 MHz (2.4 GHz) & 5150 - 5950 MHz (5 GHz)
+- **Peak Gain:** ≤ 5 dBi
+- **Voltage Standing Wave Ratio (VSWR):** ≤ 2.0:1
+- **Input Impedance:** 50 ohms
+- **Radiation Pattern:** Omnidirectional
+- **Polarization Type:** Vertical
+- **Maximum Input Power:** 50 W
+- **Antenna Dimensions:** 
+  - Length: 158 mm
+  - Width: 18 mm
+- **Connector Type:** SMA male (or specified)
+- **Antenna Color:** Black (also available in gray and white)
+- **Operating Temperature Range:** -45°C to +85°C
+- **Storage Temperature Range:** -45°C to +85°C
+
+**Moisture Sensitive Level:** Not specified in the provided information.
+
+**Typical Applications:**
+The DLWIFI4-H7 antenna is typically used in:
+- Wireless communication systems, including Wi-Fi routers and access points.
+- IoT devices that require reliable wireless connectivity.
+- Consumer electronics that utilize wireless networking.
+- Industrial applications where robust wireless communication is essential.
+- Any application requiring dual-band wireless connectivity for enhanced data transmission and reception.
+
+This antenna is ideal for environments where both 2.4 GHz and 5 GHz bands are utilized, providing flexibility and improved performance in data transmission.

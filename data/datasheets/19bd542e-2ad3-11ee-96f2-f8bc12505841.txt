@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of GRA10-NF production of SHENZHEN GEMS NAVIGATION ELECTRONICS CO., LTD. from the text:GEMSNAVIGATIONElectronicsCo.,Ltd.Add:F2,Building6,RunDongShengIndustryPark,BaoanDistrict,Shenzhen,China\nTel:+86-755-29644311 Fax:+86-755-29644383 Email:sales@gemsnav.com\nDocumentNumber121001Rev0022023-06-05Page1/3GRA10\nRe-RadiatePassiveAntenna\n\uf0b2Gain\n\uf06ePassive:3dBi\n\uf0b2Frequency:1150-1700MHz\n\uf0b2TypicalApplications：\n\uf06eForGNSSSignalRe-radiate\n\uf06ePassiveantenna\nWWW.GEMSNAV.COM\nPage2/3AntennaSpecifications\nFrequencyRange[MHz] 1150~1700\nGain 3dBi\nPolarization Verticalpolarization\nInput（VSWR） ≤1.45\nIntermodulation ＜110dBm\nInputimpendence 50Ω\nMaxpower 50W\nConnector N(Female),SMA(Female),etc.\nMechanicalSpecifications\nLightningProtection DCGround\nRadomematerial UV-ProtectedABS\nDimension[mm] Ø186×85\nWeight[g] 400\nOperatingTemperature[℃] -40~+60\nLimitTemperature[℃] -55~+70\nOperatingHumidity[%] 5~95\nCircumstance Indoor\nInstallationTips:\n1.Pleaseselecttheappropriatelocationontheceilingdrilling,poresizeofwhich\nabout20MM,thentightenthenutfixingtheantennaontheceiling;\n2.Thethicknessoftheceilingdon’texceed20MM;\n3.Theantennadon’tclosetothefire.\nPage3/3\nDimensions\nFrequencyReferenceTable:\n\n'}]
+!==============================================================================!
+### Component Summary: GRA10-NF
+
+**Manufacturer:** Shenzhen Gems Navigation Electronics Co., Ltd.  
+**Document Number:** 121001 Rev 002 2023-06-05
+
+#### Key Specifications:
+- **Type:** Passive Antenna
+- **Gain:** 3 dBi
+- **Frequency Range:** 1150 - 1700 MHz
+- **Input VSWR:** ≤ 1.45
+- **Intermodulation:** < 110 dBm
+- **Input Impedance:** 50 Ω
+- **Maximum Power:** 50 W
+- **Connector Types:** N (Female), SMA (Female), etc.
+- **Operating Temperature Range:** -40°C to +60°C
+- **Limit Temperature Range:** -55°C to +70°C
+- **Operating Humidity:** 5% to 95%
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+- **Package Type:** Not explicitly mentioned, but the dimensions are Ø186 × 85 mm.
+- **Weight:** 400 g
+- **Material:** UV-Protected ABS
+- **Lightning Protection:** DC Ground
+- **Circumstance:** Indoor
+
+#### Description:
+The GRA10-NF is a passive antenna designed for GNSS (Global Navigation Satellite System) signal re-radiation. It operates within a frequency range of 1150 to 1700 MHz and provides a gain of 3 dBi, making it suitable for enhancing GNSS signal reception in various applications.
+
+#### Typical Applications:
+- **GNSS Signal Re-radiation:** The primary function of the GRA10-NF is to re-radiate GNSS signals, which can be crucial in environments where direct satellite signals are weak or obstructed.
+- **Indoor Navigation Systems:** It can be used in indoor navigation systems to improve the accuracy of location services.
+- **Telematics and Fleet Management:** The antenna can be utilized in telematics applications to ensure reliable GNSS signal reception for tracking and navigation purposes.
+- **Surveying and Mapping:** It is also applicable in surveying and mapping applications where precise GNSS data is required.
+
+### Installation Tips:
+- Ensure the installation location on the ceiling is appropriate, with a drill hole size of about 20 mm.
+- The thickness of the ceiling should not exceed 20 mm.
+- Avoid placing the antenna close to fire sources to prevent damage.
+
+This summary provides a comprehensive overview of the GRA10-NF passive antenna, highlighting its specifications, functionality, and applications.

@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 90136-2203 production of MOLEX from the text:This document was generated on 09/13/2021\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nPart Number: 0901362203\nStatus: Active\nOverview: C-Grid III Interconnects\nDescription: C-Grid III Header, Single Row, Right-Angle, Shrouded, 3 Circuits, 0.38µm Gold (Au)\nSelective Plating\nDocuments:\n3D Model Application Specification 901190001-AS-000 (PDF)\n3D Model (PDF) Packaging Specification PK-90136-001-001 (PDF)\nDrawing (PDF) RoHS Certificate of Compliance (PDF)\nProduct Specification PS-99020-0001-001 (PDF)\nAgency Certification\nCSA LR19980\nUL E29179\nGeneral\nProduct Family PCB Headers\nSeries 90136\nApplication Signal, Wire-to-Board\nOverview C-Grid III Interconnects\nProduct Name C-Grid III\nUPC 800753666931\nPhysical\nBreakaway No\nCircuits (Loaded) 3\nCircuits (maximum) 3\nColor - Resin Black\nFirst Mate / Last Break No\nFlammability 94V-0\nGlow-Wire Capable No\nGuide to Mating Part No\nKeying to Mating Part None\nLock to Mating Part Yes\nMaterial - Metal Brass\nMaterial - Plating Mating Gold\nMaterial - Plating Termination Tin\nMaterial - Resin Polyester\nNet Weight 0.686/g\nNumber of Rows 1\nOrientation Right Angle\nPC Tail Length 2.90mm\nPCB Locator No\nPCB Retention None\nPCB Thickness - Recommended 1.60mm\nPackaging Type Tray\nPitch - Mating Interface 2.54mm\nPitch - Termination Interface 2.54mm\nPlating min - Mating 0.381µm\nPlating min - Termination 3.048µm\nPolarized to PCB No\nShrouded Fully\nStackable No\nTemperature Range - Operating -55° to +125°C\nTermination Interface: Style Through Hole\nSeries image - Reference only\nEU ELV\nNot Relevant\nEU RoHS China RoHS\nCompliant\nREACH SVHC\nNot Contained Per -\nD(2021)4569-DC (8\nJuly 2021)\nHalogen-Free\nStatus\nNot Low-Halogen\nFor more information, please visit Contact US\nChina ROHS Green Image\nELV Not Relevant\nRoHS Phthalates Not Contained\nSearch Parts in this Series\n90136 Series\nMates With\n90123 C-Grid III Modular Crimp Housing,\n90156 C-Grid III Crimp Housing\nElectrical\nCurrent - Maximum per Contact 3.0A\nVoltage - Maximum 350V AC/DC\nSolder Process Data\nLead-freeProcess Capability WAVE\nMaterial Info\nReference - Drawing Numbers\nApplication Specification 901190001-AS-000\nPackaging Specification PK-90136-001-001\nProduct Specification PS-99020-0001-001\nSales Drawing SDA-90136-001\nThis document was generated on 09/13/2021\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Molex:   \n\xa0 90136-2203\n'}]
+!==============================================================================!
+### Component Summary for Molex Part Number 90136-2203
+
+**Component Type:**  
+C-Grid III Header
+
+**Description:**  
+The Molex 90136-2203 is a single-row, right-angle, shrouded header designed for wire-to-board applications. It features 3 circuits and is constructed with a combination of brass metal and polyester resin. The mating surfaces are plated with 0.38µm gold for optimal conductivity, while the termination is plated with tin.
+
+### Key Specifications:
+
+- **Voltage Ratings:**  
+  Maximum voltage: 350V AC/DC
+
+- **Current Ratings:**  
+  Maximum current per contact: 3.0A
+
+- **Power Consumption:**  
+  Not specified directly; power can be calculated based on voltage and current ratings.
+
+- **Operating Temperature Range:**  
+  -55°C to +125°C
+
+- **Package Type:**  
+  Tray packaging
+
+- **Special Features or Notes:**  
+  - Fully shrouded design
+  - Locking mechanism to mating part
+  - Not stackable
+  - No PCB retention features
+  - Compliant with RoHS and REACH regulations
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**  
+  Not specified in the provided information.
+
+### Typical Applications:
+The Molex 90136-2203 header is typically used in signal and wire-to-board applications. It is suitable for various electronic devices where reliable connections are required, such as:
+
+- Consumer electronics
+- Telecommunications equipment
+- Industrial machinery
+- Automotive applications
+
+This component is ideal for applications that require a compact and robust interconnect solution, ensuring secure connections in environments with varying temperature conditions.

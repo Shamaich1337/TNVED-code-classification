@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of R04A-21RHJ production of SUNKYE INTERNATIONAL CO., LTD from the text:Drawing No.\nArchivesSignature\n/11Plnte\nDesign\nStandard checkAuditing\nApproveScale Sheet of REVTechnics\nWeight Phase markerCheckDenomination:\nMaterial\nacreage (mm  ):2DWG No.: Character\nDIN\nA000 4:1 DR\nP/N:Unit:mmHeat\ntreatment\nGeneral  toleranceCritical  Dimension  **Important  Dimension  *\nX  ±0.15 X°  ±1°\n.X  ±0.10 .X°  ±0.5°\n.XX  ±0.05 .XX°  ±0.05°\n.XXX  ± .XXX°  ±Wo  wo\nWu  gang\nXianghuaming11 112 2111 1\n17.6\n4.9 2.4\n10.94.7\n7.6\n17.5\n22\n27.42×∅2.31±0.08\nDrawing No.\nArchivesSignature\n/11Plnte\nDesign\nStandard checkAuditing\nApproveScale Sheet of REVTechnics\nWeight Phase markerCheckDenomination:\nMaterial\nacreage (mm  ):2DWG No.: Character\nDIN\nA000 4:1 DR\nP/N:\nLHs6.604.4203Unit:mmHeat\ntreatment\nGeneral  toleranceCritical  Dimension  **Important  Dimension  *\nX  ±0.15 X°  ±1°\n.X  ±0.10 .X°  ±0.5°\n.XX  ±0.05 .XX°  ±0.05°\n.XXX  ± .XXX°  ±Wo  wo\nWu  gang\nXianghuaming11 112 2111 1SUNKYE\n17.6\n4.9 2.4\n10.94.7\n7.6\n17.5\n22\n27.42×∅2.31±0.08\n2022.03.31\n2022.04.05\n2022.04.086.81.5 0\n-0.1\n6.81.5 0\n-0.1\n3\nR04A-21RHJSUNKYESPECIFICATIONS\nEnvironment: -55 ℃~+125℃\nVibration: 10Hz~2000Hz 196m/s²\nShock: 735m/s² 11ms\nRated current: 3A\nRandom vibration: power spectrum density 0.4G² /Hz, r.m.s value of total acceleration 23.1G\nContact resistance: ≤10mΩ\nInsulation resistance: ≥5000MΩ 100VDC\nDielectric strength: 600V\nMachine life: 800 timesMicro-D Connector\n'}]
+!==============================================================================!
+### Component Summary for R04A-21RHJ
+
+**Component Type:** Micro-D Connector
+
+**Description:**
+The R04A-21RHJ is a Micro-D connector produced by SUNKYE INTERNATIONAL CO., LTD. Micro-D connectors are compact, high-density connectors commonly used in applications requiring reliable electrical connections in a small form factor. They are designed to withstand harsh environmental conditions and are often utilized in aerospace, military, and industrial applications.
+
+### Key Specifications:
+- **Voltage Ratings:** 600V
+- **Current Ratings:** 3A
+- **Power Consumption:** Not specified directly; however, the current rating indicates the maximum load capacity.
+- **Operating Temperature Range:** -55°C to +125°C
+- **Package Type:** Micro-D Connector
+- **Special Features/Notes:**
+  - Contact resistance: ≤10mΩ
+  - Insulation resistance: ≥5000MΩ at 100VDC
+  - Dielectric strength: 600V
+  - Machine life: 800 cycles
+  - Vibration resistance: 10Hz to 2000Hz at 196m/s²
+  - Shock resistance: 735m/s² for 11ms
+  - Random vibration: Power spectrum density of 0.4G²/Hz, with a total acceleration r.m.s value of 23.1G
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+### Typical Applications:
+Micro-D connectors like the R04A-21RHJ are typically used in:
+- Aerospace and defense systems for reliable connections in rugged environments.
+- Industrial automation equipment where space is limited but robust connectivity is required.
+- Medical devices that require compact and reliable electrical connections.
+- Telecommunications and data communication systems where high-density interconnects are essential.
+
+This connector is ideal for applications that demand durability, high performance, and resistance to environmental stressors.

@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of Z-SD10112530200010 production of NEXTRONICS ENGINEERING CORP. from the text:**0.400.250.15**\n********1 2 3 4 5 6 7 8\nA\nB\nC\nD\nE\n1 2 3 4 5 6 7 8A\nB\nC\nD\nE\nREV. DESCRIPTION DATENEXTRONICSENGINEERING CORPORATIONISSUE DATE\nThis file is automatically\nand is not valid without   issued by EPDM\nthe issue date\nANGLES1 PLACE2 PLACE3 PLACE4 PLACEmm inch\n±      ±.     \nX°±   REV.PART NO:\nAPPD:\nCHKD:\nDRAW:\nDESIGN:TITLE:\nDWG NO:NAME: UNITS:\nmm inch\nGENERAL TOLERANCE:\n(UNLESS SPECIFIED)\nC\nCONFIDENTIAL:  THIS DOCUMENT CONTAINED THE INF ORMATION IS PROPRIETARY AND CONF IDENTIAL TO Nextronics Engineeri ng Corp.\nNO PERSON IS ALLOWED TO USE COPY , PUBLISH OR OTHERWISE DISCLOSE THE INFORMATION TO OTHERS, UNLES S BY THE PRIOR\nWRITTEN EXPRESS AUTHORIZATION OF  Nextronics Engineering Corp. (C )COPYRIGHT- Nextronics Engineeri ng Corp.SHEET SCALESIZE\nA3\nA6 D-PRD-034±      \n±      \n±      ±.     \n±.     \n±.     NEXTRONICS ENGINEERING CORP.\nA010-0000-AW1\nLu 陳惠枝Linson曾偉雄Linson曾偉雄\n1/1 1/1A NEW RELEASED 2022/05/19CUSTOMER DWGTB101-9.5- 4C\nZ-SD101XX5X0X00XX0Number of Contacts\n3 contacts2 contacts 02\n03.\n32Code\n..\nPitch (Pin Spacing)\n9.5mm 5Code\nHousing\nWith Flange 2Code\nLogo\nNo Logo 0Code\nNextron Logo 2Screw Head\n"-" head Cr3+ 0Code\n"+" head Cr3+ 1\nHSG Material\nPA66 0Code\nPBT 132 contacts...0 Z 1 D 5 XX X X X00X 0 -S 10\n2\n3"-" head Ni plated\n"+" head Ni plated\nWithout Flange 0\n3\n4With Flange\nhave plastic colume\nWithout Flange\nhave plastic colume(N+2)X9.5\n(N-1)X9.5\n9.5NX9.5+1.5\n16.0\n19.0\n27.0 10.76.4\n8.00.8\nPCB LAYOUT\n(N+2)X9.5\n(N-1)X9.5\n9.5\n8.0\n16.0\n6.7X1.1N=NUMBER OF CONTACTS\nTechnical Data:\n1.Material:\n    Insulator body (Housing): Polyamide (Glass filled) (UL94V-0),black.\n    Terminal:  Copper, Tin plated.\n    Terminal screw: Steel galvanized and chromatized\n2. Electrical:\n    Voltage rating: 30V DC\n    Current rating: 25 Amps/way max\n    Contact resistance: 20mΩ (max)\n    Withstanding voltage: 2500VAC (1min) test time = 60sec/1pcs\n    Wire recommendation: 12-22AWG\n    Operating temperature: -40°C to +105°C\n3. Mechanical:\n    Torque: 10kgf.cm/M3.5\n'}]
+!==============================================================================!
+### Component Summary for Z-SD10112530200010
+
+**Key Specifications:**
+- **Voltage Rating:** 30V DC
+- **Current Rating:** 25 Amps per way (maximum)
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range:** -40°C to +105°C
+- **Package Type:** Not explicitly stated, but it is a connector type with multiple contacts.
+- **Special Features/Notes:**
+  - Contact resistance: 20 mΩ (maximum)
+  - Withstanding voltage: 2500 VAC (1 minute test time)
+  - Wire recommendation: 12-22 AWG
+  - Torque specification: 10 kgf.cm/M3.5
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Description:**
+The Z-SD10112530200010 is a multi-contact electrical connector designed for robust applications. It features a housing made from glass-filled polyamide (UL94V-0 rated), ensuring durability and resistance to high temperatures. The connector is designed to accommodate wire sizes ranging from 12 to 22 AWG, making it versatile for various electrical connections.
+
+**Typical Applications:**
+This connector is typically used in applications requiring reliable electrical connections in harsh environments. Common applications include:
+- Power distribution systems
+- Industrial machinery
+- Automotive applications
+- Electrical panels
+- Any application where secure and high-current connections are necessary
+
+The Z-SD10112530200010 is particularly suited for environments where temperature fluctuations and mechanical stress are prevalent, making it ideal for industrial and automotive sectors.

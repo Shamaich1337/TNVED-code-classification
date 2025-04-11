@@ -1,0 +1,23 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-CRS-103-S125-99/S production of DECIGN from the text:A NEW 08.28.2023\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\nPAUL08.28.2023\n08.28.2023\n08.28.2023A\n0.20Tom\nJerryTom\n0.100.300.40\nVertical Header.049"（1.25mm）pitch TP-CRS\nTP-CRS-1xx-S125-99/S\n'}]
+!==============================================================================!
+Based on the provided text, here is a concise summary of the component TP-CRS-103-S125-99/S from DECIGN:
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly mentioned in the provided text; typically, this information can be found in the full datasheet.
+- **Current Ratings**: Not specified in the provided text; refer to the complete datasheet for details.
+- **Power Consumption**: Not provided; usually detailed in the full datasheet.
+- **Operating Temperature Range**: Not mentioned; check the datasheet for this information.
+- **Package Type**: Vertical Header with a pitch of 1.25mm.
+- **Special Features or Notes**: The component is part of the TP-CRS series, which indicates it may have specific design features or applications.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text; this would typically be included in the full datasheet.
+
+### Component Description:
+The TP-CRS-103-S125-99/S is a vertical header connector designed for use in electronic applications. It features a pitch of 1.25mm, which is a standard spacing for connecting multiple pins in a compact arrangement. This type of connector is commonly used to establish connections between printed circuit boards (PCBs) or between a PCB and other components.
+
+### Typical Applications:
+- **Power Management**: Used in power distribution circuits where multiple connections are required.
+- **Signal Processing**: Facilitates connections in signal processing applications, allowing for the transfer of data between components.
+- **Data Storage**: Can be utilized in devices that require reliable connections for data transfer, such as memory modules or storage devices.
+- **Consumer Electronics**: Commonly found in various consumer electronic devices where space-saving and efficient connectivity are essential.
+
+For precise specifications and additional details, it is recommended to consult the complete datasheet for the TP-CRS-103-S125-99/S component.

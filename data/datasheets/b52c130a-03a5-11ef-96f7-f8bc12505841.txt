@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HXH773 production of HISIWELL from the text:      \n    \n \n 性能特点：\nRF/LO 频段：6GHz-26GHz\nIF 频段：DC-10GHz\n变频损耗：8dB\nRF-IF 隔离度：12dB\nLO-IF 隔离度：25dB\nLO-RF 隔离度：35dB\n本振功率：13dBm\uf06c\n\uf06c\n\uf06c\n\uf06c\n\uf06c\n\uf06c\n\uf06c\n\uf06c 芯片尺寸：1.422mm×0.842mm×0.1mm\n产品简介：\nHXH773 是一种 GaAs MMIC 无源双平衡混频器，射频/本振频率分别覆盖 6-26GHz，中频频率覆盖 DC-10GHz，变\n频损耗小于 10dB，射频到中频隔离度大于 7dB,本振到中频隔离度大于 20dB,本振到射频隔离度大于 29dB,典型本振输入功\n率为 13dBm。\n电参数： ( TA=25℃,IF=0.5GHz,LO=13dBm)\n指标 最小值 典型值 最大值 单位\n射频频率 6-26 GHz\n本振频率 6-26 GHz\n中频频率 DC-10 GHz\n变频损耗 7 8 10 dB\nRF-IF 隔离度 7 12 23 dB\nLO-IF 隔离度 20 25 33 dB\nLO-RF 隔离度 29 35 55 dB\nP1dB(input) 9.5 12 13.5 dBm\n使用限制参数：\n射频/中频功率 21dBm\n本振功率 21dBm\n存储温度 -65℃-150℃\n使用温度 -55℃-125℃\n Hisiwell Technolog y Co., Ltd                          Email:   sales@his iwell.com           6-26GHz GaAs MMIC Mixer\n HXH773\n典型曲线：\n变频损耗曲线@LO=13dBm，中频频率 0.5GHz 隔离度@LO=13dBm,中频频率 0.5GHz\n变频损耗曲线@中频频率 0.5GHz 中频带宽@LO=26GHz,LO=13dBm\n射频回波损耗 中频回波损耗\n Hisiwell Technolog y Co., Ltd                          Email:   sales@his iwell.com           \n6-26GHz GaAs MMIC Mixer\n HXH773\n输入 P-1@LO=13dBm 输入 IP3@LO=13dBm\n实物尺寸图：(单位µm)\n实物建议装配图：\nLO RF\nIF50欧姆微带线50欧姆微带线\n50欧姆微带线 3mil典型缝隙\n使用说明：\n存储：芯片必须放置于具有静电防护功能的容器中，并在氮气环境下保存。\n清洁处理 ：裸芯片必须在净化环境中操作使用，禁止采用液态清洁剂对芯片进行清洁处理。\n静电防护 ：请严格遵守 ESD 防护要求，避免器件静电损伤。\n Hisiwell Technolog y Co., Ltd                          Email:   sales@his iwell.com           6-26GHz GaAs MMIC Mixer\n HXH773\n常规操作 ：拿取芯片请使用真空夹头或精密尖头镊子。操作过程中要避免工具或手指触碰到芯片表面。\n装架操作 ：芯片安装可采用 AuSn 焊料共晶焊接或导电胶粘接工艺。安装面必须清洁平整。\n键合操作 ：输入输出各用 2 根（建议直径 25um 金丝）键合线，键合线长度小于 250um 最优。建议采用尽可能小的超声\n波能量。键合时起始于芯片上的压点，终止于封装（或基板） 。\n Hisiwell Technolog y Co., Ltd                          Email:   sales@his iwell.com           6-26GHz GaAs MMIC Mixer\n HXH773\n'}]
+!==============================================================================!
+### Component Summary: HXH773
+
+**Description:**
+The HXH773 is a GaAs MMIC (Gallium Arsenide Monolithic Microwave Integrated Circuit) passive double-balanced mixer. It operates within the RF/LO frequency range of 6 GHz to 26 GHz and the IF (Intermediate Frequency) range of DC to 10 GHz. This component is designed for applications requiring efficient frequency conversion with low conversion loss and high isolation between ports.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not specified (typically not applicable for mixers)
+- **Current Ratings:** Not specified (typically not applicable for mixers)
+- **Power Consumption:** 
+  - LO (Local Oscillator) input power: 13 dBm (typical)
+  - Maximum RF/IF power: 21 dBm
+- **Operating Temperature Range:** 
+  - Storage Temperature: -65°C to 150°C
+  - Operating Temperature: -55°C to 125°C
+- **Package Type:** Chip dimensions of 1.422 mm x 0.842 mm x 0.1 mm
+- **Special Features:**
+  - Conversion loss: 7 dB (min), 8 dB (typ), 10 dB (max)
+  - RF-IF isolation: 7 dB (min), 12 dB (typ), 23 dB (max)
+  - LO-IF isolation: 20 dB (min), 25 dB (typ), 33 dB (max)
+  - LO-RF isolation: 29 dB (min), 35 dB (typ), 55 dB (max)
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Typical Applications:**
+The HXH773 is typically used in:
+- **RF Communication Systems:** For frequency conversion in transmitters and receivers.
+- **Radar Systems:** As part of the signal processing chain to mix RF signals.
+- **Satellite Communication:** For down-conversion of signals in satellite transceivers.
+- **Test Equipment:** In laboratory setups for signal generation and analysis.
+
+### Additional Notes:
+- The component requires careful handling due to its sensitivity to electrostatic discharge (ESD). It should be stored in ESD-protective containers and handled in a clean environment.
+- The recommended bonding techniques include using gold wire for connections, with specific guidelines for bond lengths and ultrasonic energy levels to minimize damage during assembly. 
+
+This summary encapsulates the essential characteristics and applications of the HXH773 mixer, providing a clear understanding of its functionality and operational parameters.

@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 21033814430 production of HARTING from the text:Product data sheet\n21 03 381 4430\nM12 panel feed though/PCB angled D-coded\nM12 panel feed though/PCB angled D-coded\nImage is for illustration purposes only. Please refer to product description.Part number 21 03 381 4430\nSpecificationM12 panel feed though/PCB angled D-\ncoded\nHARTING eCatalogue https://b2b.harting.com/21033814430\nIdentification\nCategory Connectors\nSeries Circular connectors\xa0M12\nElement PCB adapter\nSpecificationAngled\nfor rear mounting\nVersion\nTermination method Reflow soldering termination (THR)\nGender Female\nLocking type Screw locking\nShielding Shielded\nNumber of contacts 4\nCoding D-coding\nDetails Coding bottom left = Cable entry direction on the angled connector: to the right\nTechnical characteristics\nRated current 4\xa0A\nRated voltage 50\xa0V\nRated impulse voltage 1.5\xa0kV\nPollution degree 3\nTransmission characteristics Cat. 5\xa0Class D up to 100 MHz\nOvervoltage category III\nInsulation resistance >108 Ω\nPage\xa0 1\xa0/\xa02 | Creation date\xa02021-04-15 | Please note that the data specified here were taken as extracts from the online catalogue. Please refer to\nthe user documentation for the complete and up-to-date information and data. Please also note that the user is responsible for validating functionality,\nconformity with applicable laws and directives, as well as for the electrical safety in the particular application.\nHARTING Electronics GmbH | Marienwerderstraße 3 | 32339 Espelkamp | Germany\nPhone +49 5772 47-97200 | electronics@HARTING.com | www.HARTING.com\nProduct data sheet\n21 03 381 4430\nM12 panel feed though/PCB angled D-coded\nTechnical characteristics\nContact resistance ≤10\xa0mΩ\nTightening torque 2 Nm Lock nut\nAmbient temperature -40 ... +85 °C\nMating cycles ≥100\nDegree of protection acc. to IEC 60529 IP67\xa0mated condition\nIsolation group I\xa0(600 ≤ CTI)\nMaterial properties\nMaterial (insert) Liquid crystal polymer (LCP)\nMaterial (contacts) Copper alloy\nSurface (contacts) Gold plated\nMaterial (hood/housing) Zinc die-cast\nRoHS compliant with exemption\nRoHS exemptions 6(c): Copper alloy containing up to 4 % lead by weight\nELV status compliant with exemption\nChina RoHS 50\nREACH Annex XVII substances No\nREACH ANNEX XIV substances No\nREACH SVHC substances Yes\nREACH SVHC substances Lead\nSpecifications and approvals\nSpecifications IEC 61076-2-101\nUL / CSAUL 1977 ECBT2.E235076\nCSA-C22.2 No. 182.3 ECBT8.E235076\nPROFINET Yes\nCommercial data\nPackaging size 10\nNet weight 25.16\xa0g\nCountry of origin Romania\nEuropean customs tariff number 85366990\neCl@ss 27460201 PCB connector (board connector)\nPage\xa0 2\xa0/\xa02 | Creation date\xa02021-04-15 | Please note that the data specified here were taken as extracts from the online catalogue. Please refer to the\nuser documentation for the complete and up-to-date information and data. Please also note that the user is responsible for validating functionality,\nconformity with applicable laws and directives, as well as for the electrical safety in the particular application.\nHARTING Electronics GmbH | Marienwerderstraße 3 | 32339 Espelkamp | Germany\nPhone +49 5772 47-97200 | electronics@HARTING.com | www.HARTING.com\n'}]
+!==============================================================================!
+### Component Summary for HARTING Part Number 21033814430
+
+**Component Description:**
+The HARTING part number 21033814430 is an M12 panel feed-through connector designed for PCB applications. It features an angled D-coded configuration for rear mounting, making it suitable for space-constrained environments. This connector is primarily used to establish reliable electrical connections in various industrial applications.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Rated Voltage: 50 V
+  - Rated Impulse Voltage: 1.5 kV
+- **Current Ratings:**
+  - Rated Current: 4 A
+- **Power Consumption:** Not specified directly; however, the current and voltage ratings can be used to calculate power (P = V x I).
+- **Operating Temperature Range:** -40 °C to +85 °C
+- **Package Type:** PCB angled connector
+- **Special Features:**
+  - Gender: Female
+  - Locking Type: Screw locking
+  - Shielding: Shielded
+  - Number of Contacts: 4
+  - Coding: D-coding
+  - Degree of Protection: IP67 (mated condition)
+  - Mating Cycles: ≥100
+  - Tightening Torque: 2 Nm (Lock nut)
+  - Insulation Resistance: >10^8 Ω
+  - Contact Resistance: ≤10 mΩ
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided data.
+
+**Material Properties:**
+- Insert Material: Liquid crystal polymer (LCP)
+- Contact Material: Copper alloy (Gold plated surface)
+- Hood/Housing Material: Zinc die-cast
+- RoHS Compliant: Yes, with exemptions for lead in copper alloy.
+
+**Typical Applications:**
+The M12 panel feed-through connector is commonly used in industrial automation, robotics, and control systems where reliable data and power transmission is required. Its robust design and IP67 rating make it suitable for harsh environments, including outdoor applications and areas exposed to moisture and dust. Typical applications include:
+- Sensor connections
+- Actuator interfaces
+- Data communication in industrial networks (e.g., PROFINET)
+- Power distribution in machinery and equipment
+
+This connector is ideal for applications requiring high durability and reliability in electrical connections, particularly in environments with challenging conditions.

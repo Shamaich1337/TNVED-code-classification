@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BST1-700IOV1HB production of BYD SEMICONDUCTOR from the text:                                                   \nDatasheet                               WI-D06F06 -H-0019  Rev. A/0                                 Page  1 of 4  \nBST1-IOV1H B \nBYD Microelectronics Co., Ltd.                           \n                                        Current Sensor s \nDescription  \nFor the electronic measu rement  of curre nts: DC, AC, pulsed , mixed , with a galvanic  \nisolation between the primary circuit and the  secondary  circuit .\n \nFeatures  \n\uf075 Open  loop transducer using the Hall  effect  \n\uf075 Low voltage application  \n\uf075 Unipolar  +5VDC  power supply  \n\uf075 Operating temperature range:  \n-40℃< TA <+125℃ \n\uf075 Output voltage:  fully ratio -metric(gain  \nand offset)  \n \nAdvantage s \n\uf075 High  accuracy  \n\uf075 Excellent linearity  \n\uf075 Low temperature drift  \n\uf075 Hermetic package  \n \nIPN =200...900A \nIndustrial a pplication s \n\uf075 Standard battery monitoring  \n\uf075 Hybrid  and EV  battery pack current  \nsensing   \n\uf075 Fuel cell current control  \n\uf075 DC/DC converters and AC/DC inverters  \n\uf075 Hybrid and EV motor inverter drive  \n\uf075 EPS and X -by-wire applications  \n\uf075 Electric compressors for air conditioning  \n \nTYPES OF PRODUCTS  \nType  Primary nominal  curre nt   \nIPN (A) Primary curre nt measuring \nrange  IP (A) \nBST1-200IOV1H B 200 ± 200  \nBST1-300IOV1H B 300 ± 300  \nBST1-400IOV1H B 400 ± 400  \nBST1-500IOV1H B 500 ± 500  \nBST1-600IOV1H B 600 ±600 \nBST1-700IOV1H B 700 ±700 \nBST1-800IOV1H B 800 ±800 \nBST1-900IOV1H B 900 ±900 \n                                                  BST1-IOV1H B \n    Current Sensor s \nDatasheet                               WI-D06F06 -H-0019  Rev.  A/0                                 Page  2 of 4 \nBYD M icroelectronics  Co., Ltd.Parameters  Table  \n \nNotes:   \n(1) The indicated offset voltage is the one after the core hyst eresis is removed.  \n \n \n \n PARAMETERS  SYMBOL  UNIT  VALUE  CONDITIONS  Min.  Typ.  Max.  \nElectrical data \nSupply voltage  Vc V 4.75 5 5.25  \nCurrent consumption  Icc mA - 6.5 12 @T A = 25° C  \nOutput Load Capacitance  CL nF - - 0.1 @VOUT to GND  \nOutput voltage  VOUT V Vc /5 × (2.5+ 2/Ipn × Ip) @T A = 25° C \nVc=5V \nOutput Linearity  εL % -1% - +1%  @Ipn<800  \n-2% - +2% @Ipn<900  \nAccuracy  X % -2% - +2%  ＠TA = 25° C  \nQuiescent Output Voltage(1) VOUT Q V 2.5V± 15mV @T A = 25° C B=0  \nPerformance data  \nMagnetic Sensitivity  Sens mV/G  0.5 - 4 @T A = 25° C  \nOutput Bandwidth  BW kH - 50 - @-3dB \nResp onse time  tr µS - 2 5  \nRms voltage isolation test  Vd kV - - 2.5 @AC 50Hz 1Min  \nGeneral data  \nAmbient operating temperature  TA ℃ -40～+125  \nAmbient storage temperature  TS ℃ -40～+125  \n                                                  BST1-IOV1H B \n    Current Sensor s \nDatasheet                               WI-D06F06 -H-0019  Rev.  A/0                                 Page  3 of 4 \nBYD M icroelectronics  Co., Ltd.Dimensions  BST1-IOV1H B(in mm. 1 mm = 0.0394 inch)  \n \n◆Instructions of use  \n1. When the test current passes through the sensor s, you can get the size of the output voltage.  \n(Warning: wrong connection may lead to sensor s damage) . \n2. Based on user needs, the output range  of the  sensor s can be appropriately regulated.  \n3. According to user needs, different rated input currents and output voltages of the sensor s can \nbe customized.  \n \n \n                                                  BST1-IOV1H B \n    Current Sensor s \nDatasheet                               WI-D06F06 -H-0019  Rev.  A/0                                 Page  4 of 4 \nBYD M icroelectronics  Co., Ltd.RESTRICTIONS ON PRODUCT USE  \n\uf06e The informa tion contained herein is subject to change without notice.  \n \n\uf06e BYD Microelectronics Co., Ltd. (short for BME) exerts the greatest possible effort to ensure high quality and \nreliability. Nevertheless, semiconductor devices in general can malfunction or fail du e to their inherent \nelectrical sensitivity and vulnerability to physical stress. It is the responsibility of the buyer, when utilizing \nBME products, to comply with the standards of safety in making a safe design for the entire system, \nincluding redundancy,  fire-prevention measures, and malfunction prevention, to prevent any accidents, fires, \nor community damage that may ensue. In developing your designs, please ensure that BME products are used \nwithin specified operating ranges as set forth in the most rece nt BME products specifications.  \n \n\uf06e The BME products listed in this document are intended for usage in general electronics applications \n(computer, personal equipment, office equipment, measuring equipment, industrial robotics, domestic \nappliances, etc.). The se BME products are neither intended nor warranted for usage in equipment that \nrequires extraordin arily high quality and/or reliability or a malfunction or failure of which may cause loss of \nhuman life or bodily injury (“Unintended Usage”). Unintended Usage include atomic energy control \ninstruments, airplane or spaceship instruments, transportation ins truments, traffic signal instruments, \ncombustion control instruments, medical instruments, all types of safety devices, etc.. Unintended Usage of \nBME products listed in this document shall be made at the customer’s own risk.  \n'}]
+!==============================================================================!
+### Component Summary: BST1-700IOV1HB
+
+**Manufacturer:** BYD Microelectronics Co., Ltd.  
+**Product Type:** Current Sensor
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Supply Voltage (Vc): 4.75V to 5.25V (typical 5V)
+  
+- **Current Ratings:**
+  - Primary Nominal Current (IPN): 700A
+  - Primary Current Measuring Range (IP): ±700A
+  
+- **Power Consumption:**
+  - Current Consumption (Icc): 6.5mA to 12mA at TA = 25°C
+  
+- **Operating Temperature Range:**
+  - Ambient Operating Temperature (TA): -40°C to +125°C
+  - Ambient Storage Temperature (TS): -40°C to +125°C
+  
+- **Package Type:**
+  - Hermetic package (specific dimensions not provided in the summary)
+
+- **Special Features:**
+  - Open loop transducer using Hall effect
+  - Low voltage application
+  - Unipolar +5VDC power supply
+  - High accuracy and excellent linearity
+  - Low temperature drift
+  - Fully ratio-metric output voltage (gain and offset)
+  
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Description:
+The BST1-700IOV1HB is a current sensor designed for the electronic measurement of various types of currents, including DC, AC, pulsed, and mixed currents. It provides galvanic isolation between the primary circuit (where the current is measured) and the secondary circuit (where the output is processed). The sensor utilizes the Hall effect for its operation, ensuring high accuracy and excellent linearity in its measurements.
+
+#### Typical Applications:
+The BST1-700IOV1HB is suitable for a wide range of industrial applications, including:
+- Standard battery monitoring
+- Current sensing in hybrid and electric vehicle (EV) battery packs
+- Fuel cell current control
+- Monitoring in DC/DC converters and AC/DC inverters
+- Inverter drive applications for hybrid and electric motors
+- Electric power steering (EPS) and X-by-wire systems
+- Current sensing in electric compressors for air conditioning systems
+
+This component is particularly valuable in applications where precise current measurement is critical for performance and safety, such as in automotive and industrial power management systems.

@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SUN-DLC-2M-FCOM2-D1X-3P production of SUN TELECOM from the text:            F i b e r  O p t i c  S o l u t i o n s  P r o v i d e r                  1/1 \n \n \nwww.suntelecom .cn • +86 -21-60138638  • ics@suntelecom.cn  Table: SUN -DS-PC-FOPC005 -E                                                                  Version:  A/0     \n \nSUN -DLC-2M-FC-OM2 -D1X-3P Fiber Optic Patch  Cords  \n \nFeatures  \n\uf06c Low insertion loss \n\uf06c High return loss  \n\uf06c Good repeatability  \n\uf06c High temperature stability  \n \nApplications  \n\uf06c Fiber optic  communication systems  \n\uf06c Fiber optic  access network  \n\uf06c Test equipment  \n \nSpecification  \nParameters  Specifications  \nFiber Type  OM2 \nFiber Cores  2 \nConnector Type  Duplex LC --- FC \nInsertion  Loss (dB)  ≤0.3 \nReturn  Loss (dB)  ≥50 \nFiber Jacket  PVC \nDiameter of Jacket (mm)  3.0 \nCable Length  (m) 2 tolerance (0~0.1m)  \nRepeatability  (dB) ≤0.1 \nOperating  Temperature  (℃) -20~ +70 \n \n \n \n \n \n \n \n \n \nNote:  For the necessity of improvement, the material contained in this document is subject to change without notice.  \nVersion 20220811  \n'}]
+!==============================================================================!
+### Component Summary: SUN-DLC-2M-FC-OM2-D1X-3P
+
+#### Key Specifications:
+- **Fiber Type:** OM2
+- **Fiber Cores:** 2
+- **Connector Type:** Duplex LC to FC
+- **Insertion Loss:** ≤ 0.3 dB
+- **Return Loss:** ≥ 50 dB
+- **Fiber Jacket Material:** PVC
+- **Diameter of Jacket:** 3.0 mm
+- **Cable Length:** 2 m (with a tolerance of 0 to 0.1 m)
+- **Repeatability:** ≤ 0.1 dB
+- **Operating Temperature Range:** -20°C to +70°C
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The SUN-DLC-2M-FC-OM2-D1X-3P is a fiber optic patch cord designed for high-performance optical communication. It features a duplex LC connector on one end and an FC connector on the other, facilitating efficient data transmission in fiber optic networks. The OM2 fiber type indicates that it is optimized for multimode applications, supporting a range of data rates and distances.
+
+#### Typical Applications:
+This fiber optic patch cord is commonly used in:
+- **Fiber Optic Communication Systems:** It is essential for connecting various components in a fiber optic network, ensuring minimal signal loss and high-quality data transmission.
+- **Fiber Optic Access Networks:** It plays a crucial role in connecting end-user devices to the broader fiber optic infrastructure.
+- **Test Equipment:** The low insertion loss and high return loss make it suitable for use in testing and measurement applications, where accurate signal integrity is critical.
+
+Overall, the SUN-DLC-2M-FC-OM2-D1X-3P is a reliable choice for various fiber optic applications, providing excellent performance and durability across a wide temperature range.

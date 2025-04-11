@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 53261-0871 production of MOLEX from the text:This document was generated on 01/03/2023\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nPart Number: 0532610871\nStatus: Active\nOverview: PicoBlade Connector System\nDescription: 1.25mm Pitch, PicoBlade PCB Header, Single Row, Right-Angle, Surface Mount, Tin\n(Sn) Plating, Friction Lock, 8 Circuits, Tape and Reel\nDocuments:\n3D Model (PDF) Product Specification 510211124-PS-000 (PDF)\n3D Model Product Specification PS-51021-024-001 (PDF)\nDrawing (PDF) Application Specification 510210000-AS-000 (PDF)\n2D Drawing (DXF) Packaging Specification SPK-53261-002-001 (PDF)\n2D Drawing DXF (PDF) Datasheet (PDF)\nProduct Specification 510211024-PS-000 (PDF) RoHS Certificate of Compliance (PDF)\nAgency Certification\nCSA LR19980\nUL E29179\nGeneral\nProduct Family PCB Headers\nSeries 53261\nApplication Signal, Wire-to-Board\nComponent Type PCB Header\nOverview PicoBlade Connector System\nProduct Name PicoBlade\nTaxonomy PCB Headers and Receptacles\nUPC 822348164219\nPhysical\nBreakaway No\nCircuits (Loaded) 8\nCircuits (maximum) 8\nColor - Resin Natural\nDurability (mating cycles max) 30\nFirst Mate / Last Break No\nFlammability 94V-0\nGlow-Wire Capable No\nGuide to Mating Part Yes\nKeying to Mating Part None\nLock to Mating Part Yes\nMated Height 3.40mm\nMaterial - Metal Phosphor Bronze\nMaterial - Plating Mating Tin\nMaterial - Plating Termination Tin\nMaterial - Resin Polyamide\nNet Weight 239.000/mg\nNumber of Rows 1\nOrientation Right Angle\nPCB Locator No\nPCB Retention Yes\nPackaging Type Embossed Tape on Reel\nPitch - Mating Interface 1.25mm\nPlating min - Mating 1.016µm\nPlating min - Termination 1.016µm\nPolarized to PCB Yes\nShrouded Fully\nStackable No\nSeries image - Reference only\nEU ELV\nNot Relevant\nEU RoHS China RoHS\nCompliant\nREACH SVHC\nNot Contained Per -\nD(2022)4187-DC (10\nJune 2022)\nHalogen-Free\nStatus\nNot Low-Halogen\nFor more information, please visit Contact US\nChina ROHS Green Image\nELV Not Relevant\nRoHS Phthalates Not Contained\nSearch Parts in this Series\n53261 Series\nMates With\nPicoBlade Housing 51021 <br>PicoBlade\nCable Assembly 15134\nTemperature Range - Operating -40° to +105°C\nTermination Interface: Style Surface Mount\nElectrical\nCurrent - Maximum per Contact 1.0A\nVoltage - Maximum 125V\nMaterial Info\nReference - Drawing Numbers\nApplication Specification 510210000-AS-000\nPackaging Specification SPK-53261-002-001\nProduct Specification 510211024-PS-000, 510211124-PS-000,\nPS-51021-024-001\nSales Drawing 532610001-SD-000, SD-51021-002-001\nThis document was generated on 01/03/2023\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 0532610871
+
+**Component Type:**  
+PicoBlade PCB Header
+
+**Description:**  
+The MOLEX 0532610871 is a single-row, right-angle PCB header designed for the PicoBlade Connector System. It features a 1.25mm pitch and is suitable for surface mount applications. The header has 8 circuits and is constructed with a natural resin color, providing a reliable connection with a friction lock mechanism. The component is packaged in embossed tape on a reel for efficient handling and assembly.
+
+### Key Specifications:
+
+- **Voltage Rating:** 125V
+- **Current Rating:** 1.0A per contact
+- **Power Consumption:** Not specified (dependent on application)
+- **Operating Temperature Range:** -40°C to +105°C
+- **Package Type:** Surface Mount
+- **Circuits (Loaded/Maximum):** 8
+- **Durability (Mating Cycles):** 30
+- **Material - Metal:** Phosphor Bronze
+- **Material - Plating (Mating and Termination):** Tin
+- **Material - Resin:** Polyamide
+- **Mated Height:** 3.40mm
+- **Flammability Rating:** 94V-0
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified
+- **Special Features:** Friction lock, polarized to PCB, fully shrouded
+
+### Description of the Component:
+The MOLEX 0532610871 is a PCB header that serves as a connector interface for electronic circuits. It is designed to facilitate wire-to-board connections, making it ideal for applications where space is limited and reliable connectivity is essential. The right-angle orientation allows for efficient use of PCB space, while the surface mount design simplifies assembly processes.
+
+### Typical Applications:
+The PicoBlade PCB header is commonly used in various electronic applications, including:
+- **Signal Transmission:** Ideal for connecting wires to circuit boards in signal processing applications.
+- **Consumer Electronics:** Utilized in devices such as computers, smartphones, and other handheld devices where compact and reliable connections are required.
+- **Industrial Equipment:** Suitable for use in machinery and equipment that require robust and durable connections.
+- **Telecommunications:** Employed in communication devices for efficient data transfer.
+
+This component is particularly valuable in applications that demand high-density connections and reliable performance under varying environmental conditions.

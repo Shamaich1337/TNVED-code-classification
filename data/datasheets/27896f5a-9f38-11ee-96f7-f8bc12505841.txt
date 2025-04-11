@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-PBH-060-H383W22-L5/5E production of DECIGN from the text: SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.25Cherry\nRonny\nFagi28.09.2020\n22.11.2022\n22.11.2022PBH-HW22/5\nPBH-xxx-HxxxW22-xx/5X1/1\nBRoHS\ncompliant\nBoard to Board Connector\nHeader  -SMT- "W22" Type\n0.50mm Pitch - Dual Row - Vertical\nwith solder tabsSpecifications\nMaterial\nContact: Copper Alloy\nPlating: Au over Ni\nSolder Tabs: Copper Alloy; Sn plated\nInsulator: PA9T (natural)  UL 94V-0\nOperating temperature: -25°C to +105°C\nProcessing temperature: +250°C +0/-5°C\n                                         for 5 secondsA New 28.09.2020 Cherry\nAssembly Detail\nH1\nH2H\n0.50 0.30 ±0.02B\nD1.501.80 ±0.021.60 ±0.02\n5.20+0.30\n-0.00\nRecommended PCB Layout Top View\n(Tolerance ±0.05)0.80 ±0.02\n0.70Assembly Height\nDIM  "H" (mm)Header \nDIM  " H2" \n(mm)Header\nOrder CodePlug \nDIM  " H1"\n(mm)Plug\nOrder Code\n3.00 2.33 PBH-xxx-H233W22-L5/5X PBS- xxx-H 220W22-L5/5X\n3.50 2.80 PBH-xxx-H280W22-L5/5X PBS- xxx-H 220W22-L5/5X\n4.00 2.80 PBH-xxx-H280W22-L5/5X\n4.50 3.33 PBH-xxx-H333W22-L5/5X\n5.00 3.83 PBH-xxx-H383W22-L5/5X\n5.50 4.33 PBH-xxx-H433W22-L5/5X\n6.00 4.83 PBH-xxx-H483W22-L5/5X\n6.50 3.33 PBH-xxx-H333W22-L5/5X\n7.00 3.83 PBH-xxx-H383W22-L5/5X\n7.50 4.33 PBH-xxx-H433W22-L5/5X\n8.00 4.83 PBH-xxx-H483W22-L5/5XPBS-xxx-H 273W22-L5/5X2.20\n4.702.73\nPBS-xxx-H 470W22-L5/5X∅0.60+0.10\n-0.05Order Code\nPBH-xxx-HxxxW22-L5/5X\nwith “locating pegs”\nC = Tube; without PickUp Cap\nD = Tube; with PickUp Cap\nE = Reel; with PickUp Cap\nG = Reel; without PickUp Cap\nPlatingPacking\n233 = 2.33mm\n280 = 2.80mm\n333 = 3.33mm\n383 = 3.83mm\n  433 = 4.33mm\n483 = 4.83mmHeight Option H2L5  =  Gold  3µ"\n(others on request)0.50 ±0.05 0.20 ±0.030.15 XA±0.25 0.45\n2.46\n3.80 ±0.10\nB±0.20\nC±0.101.00 2.30 ±0.15\n0.90+0.05\n-0.10\n∅0.50+0.05\n-0.08 0.75\nD±0.10\n-X-0.101.50\nH2+0.20\n-0.10\n1.50\n4.60 ±0.200.905.20\n3.00 if 14 contact4.84\nPickUp Cap\n0.20 0.30ABCD\n5.60 3.00 4.20 5.10 014\n7.10 4.50 5.70 6.60 020\n8.10 5.50 6.70 7.60 024\n9.60 7.00 8.20 9.10 030\n10.10 7.50 8.70 9.60 032\n11.10 8.50 9.70 10.60 036\n12.10 9.50 10.70 11.60 040\n14.60 12.00 13.20 14.10 050\n17.10 14.50 15.70 16.60 060\n19.60 17.00 18.20 19.10 070\n22.10 19.50 20.70 21.60 080\n24.60 22.00 23.20 24.10 090\n27.10 24.50 25.70 26.60 100No. of\nContactsDimension mm\n(with PickUp Cap)\n(with PickUp Cap)\n(without PickUp Cap)\n(without PickUp Cap)\n(without PickUp Cap)\n(without PickUp Cap)B add 70/80/90p; add packing "G" option 22.11.2022 Cherry\nElectrical\nCurrent rating: 0.5A\nInsulation resistance: 500MΩ min.\nContact resistance: 30mΩ max.\nVoltage rating: 30V DC\nWithstanding voltage: 100V AC / 1 \nMinute\n'}]
+!==============================================================================!
+### Component Summary for TP-PBH-060-H383W22-L5/5E
+
+**Component Type:** Board to Board Connector Header (SMT)  
+**Description:** The TP-PBH-060-H383W22-L5/5E is a dual-row vertical board-to-board connector with a 0.50mm pitch. It features solder tabs for secure mounting and is designed for surface mount technology (SMT) applications.
+
+#### Key Specifications:
+- **Voltage Rating:** 30V DC
+- **Current Rating:** 0.5A
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range:** -25°C to +105°C
+- **Processing Temperature:** +250°C ± 5°C for 5 seconds
+- **Package Type:** SMT (Surface Mount Technology), Dual Row, Vertical
+- **Special Features:**
+  - Gold plating (3µ") on contacts
+  - Insulator material: PA9T (natural) UL 94V-0
+  - Moisture Sensitive Level: Not specified in the provided text, but typically assessed according to JEDEC J-STD-020E.
+- **Mechanical Specifications:**
+  - Insulation Resistance: 500MΩ minimum
+  - Contact Resistance: 30mΩ maximum
+  - Withstanding Voltage: 100V AC for 1 minute
+
+#### Typical Applications:
+The TP-PBH-060-H383W22-L5/5E connector is typically used in applications requiring reliable board-to-board connections, such as:
+- Consumer electronics
+- Telecommunications equipment
+- Computer hardware
+- Industrial automation systems
+- Any application where compact and efficient interconnect solutions are needed.
+
+This connector is particularly suitable for high-density PCB designs due to its small pitch and dual-row configuration, allowing for space-saving layouts while maintaining electrical integrity.

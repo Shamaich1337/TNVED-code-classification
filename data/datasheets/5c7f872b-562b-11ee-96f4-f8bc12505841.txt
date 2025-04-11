@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of GSE 3000 N4 production of HIRSCHMANN from the text:\xa0\nBelden Deutschland GmbH \xa0 www.beldensolutions.com\n\xa0 30-05-2012\nPage\xa0 1\xa0of\xa02\xa0Product information\nGSE 3000 N4 schwarz/black\nIndustrial Connectors:Rectangular connectors GDM-series:Type A EN 175301-803 (DIN 43650) / ISO 4400:Appliance connector:GSE 3000 N4 schwarz/black\nhttp://e-catalog.hirschmann.com/link/57078-24228-24309-24310-24313-35144/en/conf/uistate\nName GSE 3000 N4 schwarz/black\n\xa0\nappliance connector for installation in sheet metal , rotating round collar, retaining nut and 4 screws M 3 x 6\nDelivery informations\nAvailability available\nProduct description\nDescription appliance connector for installation in sheet metal , rotating round collar, retaining nut and 4 screws M 3 x 6\nType GSE 3000 N4 schwarz/black\nOrder No. 932 890-100\nNumber of contacts 3 + PE\nStandard DIN EN 175 301-803-A\nHousing Color black\nConstruction type A\nTechnical data\nRated voltage AC/DC 400 V\nRated current 16 A\nContact resistance <= 4 mOhm\nType of termination solder\nMounting screw\nMaterial\nContact surface material Sn\nContact bearer material PA\nHousing material PA\nEnvironmental conditions\nProtection class (IEC 60529) IP 65 (gasket necessary) (mated)\nPollution severity 3\nTemperature range -40 ºC to +125 ºC\nInflammability class\nContact bearer 94 HB\nApprovals\nVDE VDE\nSEV SEV\nPacking unit\nPackaging unit 200 pieces\nScope of delivery and accessories\nAccessories to order separately (NBR) flat gasket GSE 2000-2, Order no. 733 973-002; (EPDM) flat gasket GSE 2000-3, Order no. 733 846-003\n\xa0\nBelden Deutschland GmbH \xa0 www.beldensolutions.com\n\xa0 30-05-2012\nPage\xa0 2\xa0of\xa02\xa0Industrial Connectors:Rectangular connectors GDM-series:Type A EN 175301-803 (DIN 43650) / ISO 4400:Appliance connector:GSE 3000 N4 schwarz/black\nhttp://e-catalog.hirschmann.com/link/57078-24228-24309-24310-24313-35144/en/conf/uistate\nPicture\nDrawing\nBelden Deutschland GmbH\nIm Gewerbepark 2\n58579 Schalksmühle\nGermany\nPhone: +49 7127/14-1806\nE-Mail: icos-sales@belden.com\xa0\nThe information published in the websites has been compiled as carefully as possible. It is subject to alteration without notice in technical as well as in price-related/commercial respect.\nThe complete information and data were available on user documentation. Mandatory information can only be obtained by a concrete query.\n'}]
+!==============================================================================!
+### Component Summary: GSE 3000 N4 schwarz/black
+
+**Product Code:** GSE 3000 N4  
+**Manufacturer:** Hirschmann (Belden Deutschland GmbH)  
+**Type:** Appliance Connector (Rectangular Connector, GDM-series)
+
+#### Key Specifications:
+- **Voltage Ratings:** 
+  - Rated Voltage: AC/DC 400 V
+- **Current Ratings:** 
+  - Rated Current: 16 A
+- **Power Consumption:** 
+  - Not specified directly; power can be calculated using voltage and current ratings (P = V x I).
+- **Operating Temperature Range:** 
+  - -40 ºC to +125 ºC
+- **Package Type:** 
+  - Not specified; typically sold in bulk (Packaging unit: 200 pieces).
+- **Special Features or Notes:** 
+  - Protection class: IP 65 (gasket necessary when mated)
+  - Pollution severity: 3
+  - Contact resistance: <= 4 mOhm
+  - Type of termination: Solder
+  - Mounting: Screw
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** 
+  - Not specified in the provided information.
+
+#### Description:
+The GSE 3000 N4 is an appliance connector designed for installation in sheet metal. It features a rotating round collar, a retaining nut, and is secured with four screws (M3 x 6). The connector is constructed to meet the standards of DIN EN 175 301-803-A and is suitable for various industrial applications.
+
+#### Typical Applications:
+The GSE 3000 N4 connector is typically used in industrial environments where reliable electrical connections are required. Its robust design and high protection class make it suitable for applications such as:
+- Power management systems
+- Automation technology
+- Machinery and equipment connections
+- Control systems in harsh environments
+
+This connector is ideal for scenarios where durability and resistance to environmental factors (like moisture and dust) are critical, making it a preferred choice in industrial settings.

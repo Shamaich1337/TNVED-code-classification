@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SC3013T-300A/60mA production of 3E SENSOR from the text:3E     Hall Effect Current Transducer              \n      Shenzhen  3E Sensor Co.,Ltd. http://www.3ese.com    \n                                                \n3E reserves the right to carry out the modifications without prior notice \nhttp://www.3ese.com   Page 1 of 2   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Type：    SC3013                 300A    \nPrimary nominal  \nCurrent RMS                     300A   \n(Ipn Amp) \nPrimary current                ± 950A   \nMeasuring range  \n(Ipm,Amp) \n \nElectrical data \nVc Supply Voltage                             ±24V DC﹙± 5%﹚ \nRM Measuring Resistance(@±24 V DC@85 ºC@±950A)     0-20Ω \nSecondary Nominal Current RMS                  60mA  \nConversion  Ratio                               1:5000 \nCurrent Consumption                            25mA + output  \nX Overall Accuracy 1)@Ipn TA=25 ºC @ ±15V      ±1.2% \nεL Linearity Error1) (@0... ±Ipn)            <±0.1 % \nVOE Electric Offset Current @Ip=0, TA  =25ºC   ＜±0.15mA  \nVOE Magnetic Offset Voltage@Ip=0,  TA =25ºC  \nafter 3* I pn for 1 minute          ＜±0.15mA  \nTCVOE Thermal Drift of VOE TA  =-40 ºC...85 ºC   ＜±0.2mA(typical)  \n                          ＜± 0.5mA(Max.)  \nTr  Response time  @ Ip *90%                   ＜1μ s \ndi/dt di/dt Accurately Followed               ＞50A/us  \nBW Band Width     @-3db                       DC to 100Khz  \nVIS Isolation Voltage@50Hz,1minute            5KV \nGeneral data \nTA  Ambient Operating Temperature               -40℃..+85℃ \nTs Ambient Storage Temperature                 -45℃ ..+90℃ \nM mass                                         140g       \nHousing                                        PA66+GS15%  \nNotes 1) excludes the electrical offset  2) standard  EN50155:2001  \n3E     Hall Effect Current Transducer              \n      Shenzhen  3E Sensor Co.,Ltd. http://www.3ese.com    \n                                                \n3E reserves the right to carry out the modifications without prior notice \nhttp://www.3ese.com   Page 2 of 2   dimension (mm)  \n \nMechanical characteristics  \n  General tolerance: 0.5mm  \nPrimary through -hole: 30mm*13mm  \nConnector: Terminal 3.81 \n'}]
+!==============================================================================!
+### Component Summary: SC3013T-300A/60mA
+
+**Description:**
+The SC3013T-300A/60mA is a Hall Effect Current Transducer manufactured by Shenzhen 3E Sensor Co., Ltd. This component is designed to measure high currents with high accuracy and is primarily used in applications requiring precise current monitoring and control.
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Supply Voltage (Vc): ±24V DC (±5%)
+
+- **Current Ratings:**
+  - Primary Nominal Current RMS (Ipn): 300A
+  - Maximum Primary Current (Ipm): ±950A
+  - Secondary Nominal Current RMS: 60mA
+
+- **Power Consumption:**
+  - Current Consumption: 25mA + output
+
+- **Operating Temperature Range:**
+  - Ambient Operating Temperature (TA): -40°C to +85°C
+  - Ambient Storage Temperature (Ts): -45°C to +90°C
+
+- **Package Type:**
+  - Housing Material: PA66 + GS15%
+  - Mass: 140g
+
+- **Special Features or Notes:**
+  - Conversion Ratio: 1:5000
+  - Overall Accuracy: ±1.2% at Ipn, TA=25°C
+  - Linearity Error: <±0.1% at 0...±Ipn
+  - Response Time: <1μs at Ip * 90%
+  - Isolation Voltage: 5kV @ 50Hz for 1 minute
+  - Thermal Drift of Electric Offset Current: <±0.2mA (typical), <±0.5mA (max) over -40°C to +85°C
+  - Bandwidth: DC to 100kHz
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided data.
+
+**Typical Applications:**
+The SC3013T-300A/60mA Hall Effect Current Transducer is typically used in:
+- Power management systems
+- Motor control applications
+- Renewable energy systems (e.g., solar inverters)
+- Industrial automation and robotics
+- Electric vehicle charging stations
+- Any application requiring precise current measurement and monitoring.
+
+This component is ideal for environments where high accuracy and reliability are critical, especially in high-current applications.

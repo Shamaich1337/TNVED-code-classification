@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of EDR2K1A0500Z production of ECE from the text:1 \n \n \n \n \nFor the latest product information, Please visit ou r website at http://www.ece.com.tw  Rely on ECE’s Relays,  \nand You Always Relax!  \n \nREED RELAY \nEDR1,2,3 SERIES  \n E155181(R)  \n \n \n  \n  \nSIP (PIN OUT:1357) DIP SMD \n \n  \n  \nSIP (PIN OUT:1267) HIGH INSULATION (DIP) HIGH INSUL ATION (SMD) \n \n■ FEATURES \n/circle6 Miniature, cost-effective switching solution \n/circle6 Molded construction for compatibility with automat ic board processing \n/circle6 Completely washable \n/circle6 Dip type construction with the same terminal pitch  as ICs or TTLs \n/circle6 The high sensitivity allows direct driving by TTL,  etc. \n/circle6 Magnetic shield cover is available \n/circle6 Electrostatic shield cover is available \n \n■ SPECIFICATIONS (at 20 ℃℃ ℃℃) \n1.COIL RATING \nContact form  Nominal \nVoltage(VDC)  Max. Operate \nVoltage(VDC)  Pull-in \nVoltage(VDC)  Dropout \nVoltage(VDC)  Coil ※\nResistance( Ω) Nominal input \npower(mW)  \n5 16 3.75 0.8 500±10%  50 \n12 20 9.00 1.0 1000±10%  144 1A \n24 32 18.00 2.0 2150±10%  268 \n5 11 3.75 0.8 140±10%  179 \n12 20 9.00 1.0 500±10%  288 2A \n24 32 18.00 2.0 2150±10%  268 \n5 6 4.20 0.6 500±10%  50 \n12 14.5 9.00 1.0 1000±10%  144 1B \n24 29 18.00 2.0 2150±10%  268 \n5 11 3.75 0.8 200±10%  125 \n12 20 9.00 1.0 500±10%  288 1C \n24 32 18.00 2.0 2150±10%  268 \nSpecial design are available on request. ※  \n2 \n \n \n \n \nFor the latest product information, Please visit ou r website at http://www.ece.com.tw  Rely on ECE’s Relays,  \nand You Always Relax!  \n \n2.CONTACT RATING \nContact form 1A 2A 1B 1C \nSwitching current 0.5 ADC Max. 0.5 ADC Max. 0.5 ADC  Max. 0.2 ADC Max. \nCarry current 1.0 ADC Max. 1.0 ADC Max. 1.0 ADC Max . 0.5 ADC Max. \nSwitching power 10 VA Max. 10 VA Max. 10 VA Max. 3 VA Max. \nElectrical life (Typ.)  \n(Resistive load) 1×10 8 \n(Ref 10VDC,10mA)  1×10 8 \n(Ref 10VDC,10mA)  1×10 8 \n(Ref 10VDC,10mA)  5×10 7 \n(Ref 5VDC,1mA)  \nContact resistance 150 m Ω Max. 150 m Ω Max. 150 m Ω Max. 150 m Ω Max. \nOperate time 1.0 ms Max. \n(including bounce \ntime) 1.0 ms Max. \n(including bounce \ntime) 1.0 ms Max. \n(including bounce \ntime) 1.5 ms Max. \n(including bounce \ntime) \nRelease time 0.5 ms Max. 0.5 ms Max. 0.5 ms Max. 2. 0 ms Max. \nMaximum voltage 100 VDC Max. 100 VDC Max. 100 VDC M ax. 30 VDC Max. \nInsulation resistance 10 10 Ω Min. \n(at 100 VDC) 10 10 Ω Min. \n(at 100 VDC) 10 10 Ω Min. \n(at 100 VDC) 10 9Ω Min. \n(at 100 VDC) \nCoil to  \ncontact 1400 VDC Min. \n(Gene ral) \n4000 VDC Min. \n(high insulation) 1400 VDC Min. 1400 VDC Min. 1400 VDC Min. \nDielectric \nstrength \nAcross \ncontacts 250 VDC Min. 250 VDC Min. 250 VDC Min. 150 VDC Min.  \nOperating \ntemperature -40  ~ +85 ℃ ℃  -40  ~ +85 ℃ ℃  -40  ~ +85 ℃ ℃  -40  ~ +85 ℃ ℃  \nTemperature \nrange Storage \ntemperature -55  ~ +125 ℃ ℃  -55  ~ +125 ℃ ℃  -55  ~ +125 ℃ ℃  -55  ~ +125 ℃ ℃  \nShock resistance 30G Min. 30G Min. 30G Min. 30G Min . \n3 \n \n \n \n \nFor the latest product information, Please visit ou r website at http://www.ece.com.tw  Rely on ECE’s Relays,  \nand You Always Relax!  \n \n■ PART NUMBER SYSTEM \nEDR   1  0  1A   05   00   Z \n \nZ: RoHS Compliant \nSpecial code: 00~99 \n00: Pin out 1357 \n50: Pin out 1267 \nNominal voltage: \n05: 5 VDC, 12: 12VDC, 24: 24VDC \nContact form: 1A: Open type, 1 form A \nFunction: \n0: Normal function \nD: With diode type \nM: With magnetic shield type \nN: With diode and magnetic shield type \nType: 1: SIP type \nSeries name \n \nEDR   2  0  1A   05   00   Z \n \nZ: RoHS Compliant \nSpecial code: 00~99 \n00: Standard (Pin2 and Pin13 are connected) \n50: Pin2 and Pin13 are disconnected \nNominal voltage: \n05: 5VDC, 12: 12VDC, 24: 24VDC \nContact Form: \n1A: Open type, 1 form A \n2A: Open type, 2 form A \n1B: Close type, 1 form B \n1C: 1 open 1 close type, 1 form C \nFunction: \n0: Normal function \nD: With diode type \nH: High insulation (Apply to 1A &1B) \nK: High insulation with diode type (Apply to 1A &1B ) \nM: Normal function with magnetic shield \nN: Diode type with magnetic shield \nE: With electrostatic shield ( Apply to 1A &2A ) \nF: With electrostatic shield and diode type(Apply t o 1A&2A) \nType: \n2: DIP type \n3: SMD type \nSeries name \n4 \n \n \n \n \nFor the latest product information, Please visit ou r website at http://www.ece.com.tw  Rely on ECE’s Relays,  \nand You Always Relax!  \n \n■ DIMENSIONS   UNIT:mm(inch) \nSIP TYPE \n \n \n \n5 \n \n \n \n \nFor the latest product information, Please visit ou r website at http://www.ece.com.tw  Rely on ECE’s Relays,  \nand You Always Relax!  \n \nSIP TYPE \n \n \n \n \n6 \n \n \n \n \nFor the latest product information, Please visit ou r website at http://www.ece.com.tw  Rely on ECE’s Relays,  \nand You Always Relax!  \n \nDIP TYPE / SMD TYPE \n \n \n \n \n7 \n \n \n \n \nFor the latest product information, Please visit ou r website at http://www.ece.com.tw  Rely on ECE’s Relays,  \nand You Always Relax!  \n \n \n \n \n \n \n \n8 \n \n \n \n \nFor the latest product information, Please visit ou r website at http://www.ece.com.tw  Rely on ECE’s Relays,  \nand You Always Relax!  \nHIGH INSULATION TYPE \n \n \n \n \n \n \n'}]
+!==============================================================================!
+### Component Summary for EDR2K1A0500Z
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Nominal Voltage: 5 VDC
+  - Max. Operate Voltage: 11 VDC
+  - Pull-in Voltage: 3.75 VDC
+  - Dropout Voltage: 0.8 VDC
+
+- **Current Ratings:**
+  - Switching Current: 0.5 A DC Max
+  - Carry Current: 1.0 A DC Max
+
+- **Power Consumption:**
+  - Nominal Input Power: 125 mW
+
+- **Operating Temperature Range:**
+  - -40°C to +85°C
+
+- **Package Type:**
+  - SIP (Single In-line Package) with pin out 1357
+
+- **Special Features:**
+  - High sensitivity allows direct driving by TTL
+  - Molded construction for compatibility with automatic board processing
+  - Completely washable
+  - Magnetic shield cover available
+  - Electrostatic shield cover available
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Component Description:
+The EDR2K1A0500Z is a reed relay, which is a type of electromechanical switch that uses a magnetic field to operate. It is designed for low power applications and is characterized by its miniature size and cost-effectiveness. The relay features a molded construction that allows for compatibility with automatic board processing, making it suitable for high-volume manufacturing.
+
+#### Typical Applications:
+Reed relays like the EDR2K1A0500Z are commonly used in various applications, including:
+- **Signal Switching:** Ideal for switching low-level signals in telecommunications and data acquisition systems.
+- **Automation Systems:** Used in industrial automation for controlling devices and processes.
+- **Consumer Electronics:** Employed in devices that require reliable switching with minimal power consumption.
+- **Measurement Equipment:** Utilized in test and measurement applications where precise control of signals is necessary.
+
+This relay's high sensitivity and ability to be driven directly by TTL logic make it particularly useful in digital circuits and applications where space and power efficiency are critical.

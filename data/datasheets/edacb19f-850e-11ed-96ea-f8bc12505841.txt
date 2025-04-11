@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TY-808±3nm-10.0W-25C-DG-01 production of JIANGSU SKYERA LASER TECHNOLOGY CO., LTD. from the text: \n \n Data Sheet  \n \nTel: 0511 -86738588  Fax: 0511 -86739955  Website: www.skyeralaser.com  800nm 10W COS  AuSn bonding  Laser Diode Module  \nTY -808±3nm-10.0W-25C-DG-01 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSpecification ： \nFunctional parameters are tested at the temperature of the heat sink is 25 degree, contact resistance of the component  and \nheat sink is less than 1  CM2 K/W . Reduced lifetime if used above nominal operating conditions. A non -condensing \nenvironment is required for storage and operation below the ambient dew point .  \nParameters  Min Typ Max  Unit  Conditions  \nOutput Power  - 10 - W  \nCenter Wavelength  \nPolaris  805 \n803 808 811 \nnm  \n808 813  \nSpectral Width  (FWHM)  - 2.5 - nm  \nSpectral Width  (90%)  - 6.0 - nm  \nFast-Axis Divergence  (95%)  - 64 68 °  \nFast-Axis Divergence  (FWHM)  - 33 35 °  \nSlow -Axis Divergence  (95%)  - 9 10 °  \nSlow -Axis Divergence  (FWHM)  - 7 8 °  \nPolarization Mode  TE/(TE+TM) 95 - - %  \nWavelength Tuning vs. Temperature  - 0.35 - nm/℃  \nEmitter Size  185 190 195 μm  \nThreshold Current  - 1.35 1.5 A  \nOperating Current  - 9.5 10.5 A  \nOperating Voltage  - 1.85 2.0 V  \nPower Conversion Efficiency  - 55 - %  \nSlop Efficiency  - 1.2 - W/A   \nStorage Temperature  0 25 80 °C  \nOperating Temperature  15 25 55 °C  \nApparent Size  4.5x5.7 5x0.482 mm  \n Features : \n⚫ Chip on submount design  \n⚫ P Down sealed package  \n⚫ High stability  \n⚫ Long lifetime  \n⚫ High reliability  \n⚫ AuSn bonding  \n⚫ RoHS compliance  \nApplication:  \n⚫ Medical  \n⚫ Printing  \n⚫ Industry  \n⚫ Pumping  \n \n SkyEra delivers  TY-808±3nm-10.0W-25C-DG-01 chip on submount \ndiode lasers, employing AuSn  bonding and P Down package with multiple \nadvantages of high reliability, stable output power, high power, high \nefficiency, long lifetime and high compatibility, and are widely applied in \nthe market.  \nThe performance and aging tests have been performed upon  the \nproduction line to ensure reliable, stable and long lifetime of products.  \nTo provide customers with high -quality, high cost performance products is \nthe company’s goal.  \n  \n\n \n \n Data Sheet  \n \nTel: 0511 -86738588  Fax: 0511 -86739955  Website: www.skyeralaser.com  2. Package Dimension  \nUnit：MM \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n3. Instructions  \n⚫ Avoid eyes or skin exposure to direct or scattered radiation ; \n⚫ ESD protection is required for transportation, storage and operation;  \n⚫ Max soldering temperature is 260 ℃; \n⚫ Drive constant current power supply by laser and avoid surge while working;  \n⚫ Operate under rated current and rated power;  \n⚫ Good heat dissipation is required;  \n⚫ Operating temperature  is 15℃~55℃; \n⚫ Storage temperature  is 0℃~＋80℃. \n \n \n \n \n  \n \n \n \n \n \nLaser Cathode -    Laser Anode+     \n \n \n \n\n \n \n Data Sheet  \n \nTel: 0511 -86738588  Fax: 0511 -86739955  Website: www.skyeralaser.com  ⚫ LIV \n \n⚫ FA \n \n⚫ SA \n \n\n'}]
+!==============================================================================!
+### Component Summary: TY-808±3nm-10.0W-25C-DG-01
+
+**Manufacturer:** JIANGSU SKYERA LASER TECHNOLOGY CO., LTD.
+
+#### Key Specifications:
+- **Output Power:** 10 W (typical)
+- **Center Wavelength:** 808 nm (with a range of 803 nm to 813 nm)
+- **Spectral Width (FWHM):** 2.5 nm
+- **Fast-Axis Divergence (FWHM):** 33° to 35°
+- **Slow-Axis Divergence (FWHM):** 7° to 8°
+- **Threshold Current:** 1.35 A (typical), 1.5 A (max)
+- **Operating Current:** 9.5 A (typical), 10.5 A (max)
+- **Operating Voltage:** 1.85 V (typical), 2.0 V (max)
+- **Power Conversion Efficiency:** 55%
+- **Operating Temperature Range:** 15°C to 55°C
+- **Storage Temperature Range:** 0°C to 80°C
+- **Package Type:** Chip on submount (P Down sealed package)
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data, but typically assessed under JEDEC J-STD-020E.
+
+#### Special Features:
+- High stability and reliability
+- Long lifetime
+- AuSn bonding technology
+- RoHS compliance
+- Designed for efficient heat dissipation
+
+#### Description:
+The TY-808±3nm-10.0W-25C-DG-01 is a high-performance laser diode module designed for various applications requiring stable and efficient laser output. It operates at a center wavelength of 808 nm and delivers a maximum output power of 10 W. The module features a chip-on-submount design, which enhances its thermal management and reliability.
+
+#### Typical Applications:
+- **Medical:** Used in laser therapies and surgical procedures.
+- **Printing:** Employed in laser printing technologies.
+- **Industrial:** Utilized in manufacturing processes that require precise laser cutting or marking.
+- **Pumping:** Acts as a pump source for solid-state lasers.
+
+This laser diode module is engineered to provide high efficiency and long operational life, making it suitable for demanding applications across various industries. The product is designed to operate under controlled conditions to ensure optimal performance and longevity.

@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SDF-009-S101-95/T0 production of E-TEC from the text: \nSD  Series - D-Sub  \nS101    solder cup type  \n  \n  \nfemale \n \n No. of Dimension   \n contacts A B C D  Ordering Code  \n 009 30.81  \n1.213 24.99  \n.984 16.33  \n.643 19.28  \n.795   \n 015 39.14  \n1.541 33.32  \n1.312 24.66  \n.971 27.51  \n1.083   SDF - xxx - S101 - 95 / XX  \n 025 53.04  \n2.088 47.04  \n1.852 38.38  \n1.511 41.30  \n1.652   \n 037 69.32  \n2.729 63.50  \n2.500 54.84  \n2.159 57.40  \n2.272  No. of contacts   Option  \n    General Specification page 72   Plating:  -95 = tin (leadfree) /gold \nmale \n \n No. of Dimension    \n contacts A B C D  Ordering Code  \n 009 30.81  \n1.213 24.99  \n.984 16.92  \n.666 19.28  \n.795   \n 015 39.14  \n1.541 33.32  \n1.312 25.25  \n.994 27.51  \n1.083    SDM - xxx - S101 - 95 / XX \n 025 53.04  \n2.088 47.04  \n1.852 38.96  \n1.534 41.30  \n1.652   \n 037 69.32  \n2.729 63.50  \n2.500 55.42  \n2.182 57.40  \n2.272  No. of contacts   Option  \n    General Specification page 72  Plating:  -95 = tin (leadfree) /gold  \n15 Option: \nT T0 \nOption: \nT T0 \n'}]
+!==============================================================================!
+### Component Summary for SDF-009-S101-95/T0
+
+**Component Type:**  
+D-Sub Connector (Female)
+
+**Key Specifications:**
+
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, D-Sub connectors can handle voltages up to 250V depending on the application.
+- **Current Ratings:** Not specified; however, standard D-Sub connectors can typically handle currents ranging from 1A to 5A per contact.
+- **Power Consumption:** Not applicable for connectors; power consumption is determined by the connected devices.
+- **Operating Temperature Range:** Not specified in the provided text; typical operating ranges for connectors are from -40°C to +85°C.
+- **Package Type:** D-Sub connector with solder cup type contacts.
+- **Special Features or Notes:** 
+  - Plating option: -95 indicates tin (lead-free) with gold plating.
+  - Solder cup type contacts for easy soldering.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Description:**  
+The SDF-009-S101-95/T0 is a female D-Sub connector featuring 9 contacts. It is designed for solder cup termination, allowing for secure and reliable connections in various electronic applications. The connector is part of the SD series, which is known for its robust design and versatility in interconnect solutions.
+
+**Typical Applications:**  
+D-Sub connectors like the SDF-009-S101-95/T0 are commonly used in a variety of applications, including:
+
+- **Data Communication:** Used in serial and parallel data transmission.
+- **Industrial Equipment:** Connecting sensors, actuators, and control systems.
+- **Computer Interfaces:** Often found in legacy computer systems for peripheral connections.
+- **Telecommunications:** Used in networking equipment for reliable signal transmission.
+- **Test and Measurement Equipment:** Providing connections for test probes and measurement devices.
+
+This connector is suitable for applications requiring a durable and reliable connection, particularly in environments where space is limited and soldering is preferred for secure connections.

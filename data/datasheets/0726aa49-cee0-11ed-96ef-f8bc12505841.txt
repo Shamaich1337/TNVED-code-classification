@@ -1,0 +1,52 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 28S107-302N5 production of ROSENBERGER from the text:Technical Data Sheet   \nQMA  Straight Plug  28S107 -302N5  \n \n \nRosenberger Hochfrequenztechnik GmbH & Co. KG  \nP.O.Box 1260       D -84526 Tittmoning       Germany  \nwww.rosenberger.de  Tel.    : +49 8684 18 -0  \nEmail : info@rosenberger.de  Page  \n \n1 / 2 \n \nRF_35/0 9.14/6.2 Dieses Dokument ist urheberrechtlich geschützt ● This document is protected by copyright  ● Rosenberger Hochfrequenztechnik GmbH & Co. KG  \n \n \n \nAll dimensions are in mm; tolerances according to ISO 2768 m -H \n \nInterface  \nAccording to  IEC 61169 -50 \n \nDocuments  \nAssembly instruction  28 D  \n \nMaterial and plating  \nConnector parts  Material  Plating  \nCenter contact  Brass  AuroDur®, gold plated  \nOuter contact  Spring bronze  White bronze(e.g. Optalloy®)  \nBody  Brass  Flash white bronze over silver(e.g. Optargen®)  \nDielectric  PTFE  \nUnlocking sleeve  Brass  White bronze(e.g. Optalloy®)  \nCrimping ferrule  Copper  Flash white bronze over silver(e.g. Optargen®)  \n \n \n \n \n \n \n \nTechnical Data Sheet   \nQMA  Straight Plug  28S107 -302N5  \n \n \nRosenberger Hochfrequenztechnik GmbH & Co. KG  \nP.O.Box 1260       D -84526 Tittmoning       Germany  \nwww.rosenberger.de  Tel.    : +49 8684 18 -0  \nEmail : info@rosenberger.de  Page  \n \n2 / 2 \n \nRF_35/0 9.14/6.2 Dieses Dokument ist urheberrechtlich geschützt ● This document is protected by copyright  ● Rosenberger Hochfrequenztechnik GmbH & Co. KG  \nf(GHz)Elect rical data  \nImpedance  50 \uf057 \nFrequency  DC to 18 GHz  \nReturn Loss  \uf0b3 32 dB, DC to 3 GHz   \n \uf0b3 28 dB, 3 to 4 GHz  \n \uf0b3 25 dB, 4 to 6 GHz  \nInsertion loss  \uf0a3 0.05 x    dB, DC to 6 GHz  \nInsulation resistance  \uf0b3 5 x103 M\uf057 \nCenter contact resistance  \uf0a3 3 m\uf057 \nOuter contact resistance  \uf0a3 2.5 m\uf057 \nTest voltage, at sea level, 50Hz  750 V rms  \nWorking voltage, at sea level, 50Hz  350 V rms  \nRF-leakage  \uf0b3 95 dB up to 2 GHz  \n \uf0b3 80 dB up to 4 GHz  \n \uf0b3 70 dB up to 6 GHz  \n \n- Limitations are possible due to the used cable type -  \n \nMechanical data  \nMating cycles  min. 100  \nCenter contact captivation: axia l \uf0b3 20 N  \nEngagement force  typ. 25 N  \nDisengagement  force  typ. 20 N  \nRetention force for interface  60 N min.  \n \nEnvironmental data  \nTemperature range  -40°C to +85°C  \nStorage temperature  -40°C to +85°C  \nThermal shock  IEC 60169 -1 16.4 ( -40 / +85°C)  \nCorrosion  IEC 60169 -1 16.7 (48 hrs)  \nVibration  IEC 60068 -2-64 random  \nDamp heat, steady state  IEC 60169 -1 16.3 (96 hrs)  \nRoHS  compliant  \n \nTooling  \nCrimping tool  11W150 -000  \nCrimp insert  11W150 -102 \n \nSuitable cables  \n RG 316 /U, RG 174 A/U, RG 188 A/U   \n \nWeight  \nWeight  5.3 g/pce\n \n \nDraft  Date  Approved  Date   Rev.  Engineering change number  Name  Date  \nInge Mühlauer  05.10.04  Chr. Janßen  03.11.20   g00 20-1927  S. Huber -Siegl  03.11.20  \nWhile the information has been carefully compiled to the best of our knowledge, nothing is \nintended as representation or warranty on our part and no statement herein shall be \nconstrued as recommendation to infringe existing patents. In the effort to improve our \nproducts, we reserve the right to make changes judged to be necessary.  \nFor the installation of  the \nelectrotechnical equipment, \nparticular electrotechnical \nexpertise is required.  \n'}]
+!==============================================================================!
+### Component Summary: QMA Straight Plug 28S107-302N5
+
+**Manufacturer:** Rosenberger Hochfrequenztechnik GmbH & Co. KG  
+**Product Code:** 28S107-302N5  
+**Type:** RF Connector (QMA Straight Plug)
+
+#### Key Specifications:
+- **Impedance:** 50 Ω
+- **Frequency Range:** DC to 18 GHz
+- **Return Loss:**
+  - ≥ 32 dB (DC to 3 GHz)
+  - ≥ 28 dB (3 to 4 GHz)
+  - ≥ 25 dB (4 to 6 GHz)
+- **Insertion Loss:** ≤ 0.05 dB (DC to 6 GHz)
+- **Insulation Resistance:** ≥ 5 x 10³ MΩ
+- **Center Contact Resistance:** ≤ 3 mΩ
+- **Outer Contact Resistance:** ≤ 2.5 mΩ
+- **Test Voltage (at sea level, 50Hz):** 750 V rms
+- **Working Voltage (at sea level, 50Hz):** 350 V rms
+- **RF Leakage:**
+  - ≥ 95 dB up to 2 GHz
+  - ≥ 80 dB up to 4 GHz
+  - ≥ 70 dB up to 6 GHz
+- **Mating Cycles:** Minimum 100
+- **Engagement Force:** Typical 25 N
+- **Disengagement Force:** Typical 20 N
+- **Retention Force for Interface:** Minimum 60 N
+- **Operating Temperature Range:** -40°C to +85°C
+- **Storage Temperature:** -40°C to +85°C
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data
+- **Weight:** 5.3 g/piece
+
+#### Material and Plating:
+- **Center Contact:** Brass, AuroDur® (gold plated)
+- **Outer Contact:** Spring bronze, White bronze (e.g., Optalloy®)
+- **Body:** Brass, Flash white bronze over silver (e.g., Optargen®)
+- **Dielectric:** PTFE
+- **Unlocking Sleeve:** Brass, White bronze (e.g., Optalloy®)
+- **Crimping Ferrule:** Copper, Flash white bronze over silver (e.g., Optargen®)
+
+#### Description:
+The QMA Straight Plug 28S107-302N5 is a high-frequency RF connector designed for applications requiring reliable signal transmission in a compact form factor. It features a robust design with gold-plated contacts for enhanced conductivity and corrosion resistance. The connector is suitable for use in various RF applications, including telecommunications and data transmission.
+
+#### Typical Applications:
+- **Telecommunications:** Used in base stations, antennas, and other RF communication devices.
+- **Data Transmission:** Ideal for high-speed data connections in networking equipment.
+- **Test and Measurement Equipment:** Commonly utilized in laboratory settings for RF testing and measurement.
+- **Broadcasting:** Employed in broadcasting equipment for reliable signal transmission.
+
+This connector is particularly well-suited for environments where durability and performance are critical, such as in outdoor installations or industrial applications.

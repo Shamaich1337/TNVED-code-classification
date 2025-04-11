@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of DX07B024JJ2R1500 production of JAE (JAPAN AVIATION ELECTR.) from the text:DX07B024JJ2R1500\nFeatures\nInput/Output Connector, USB Type-C connector, Without rear shield, 24 pos., Center height: 0.47mm, 2-row SMT, Mid-mount,\nReceptacle\nPart Number DX07B024JJ2R1500\nStatus Active\nNumber of Positions 24 pos.\nRated Current 5 A max.\nRated Voltage 48 Vr.m.s.\nApplicable Specifications USB 3.2 Gen2 Type-C\nWaterproof/ Non-waterproof \u3000\u3000\nApplicationsSmartphones, Game machine, Drive recorder, Digital still cameras, HDD/SSD,\nHub, Printer, and others\nConnector Type Receptacle\nConnector Style Right angle\nPCB Mounting Method 2 row SMT horizontal\nReplacement \u3000\u3000\nUSB-IF Certification \u3000\u3000\nTID \u3000\u3000\nMounting Type Mid-mountProduct Details\nCenter Height 0.47 mm\nRecommended Board\nThickness\u3000\u3000\nFinish of Contact in Connecting\nAreaGold flash over Palladium Nickel over Nickel plating\nShell Without rear shield\nContact Resistance 40 milliohm max. initial\nDielectric Withstanding\nVoltageAC 100 Vr.m.s. (1 minute)\nInsulation Resistance 100 megaohm min.\nOperating Temperature Range -40 deg. C to +85 deg. C\nMating Cycles 10,000 times\nPackaging Type Embossed tape packaging\nQuantity in The Standard\nPackaging1,500 pcs./reel\nRoHS compliant 10 substances (2011/65/EU, (EU)2015/863)\nREACH compliant 240 substances (23/01/2024)\nCombinationDX07518B10N19114\nDX07518S20K18747\nDX07P024AJ5R1500\nDX07518B20K19114\nDX07518S10N18747\nRemarks \u3000\u3000\nRelated information\nProduct Videos\n\nNotice\nThe values specified in this web site are only for reference. The products and their specifications\nare subject to change without notice. Contact our sales staff for further information before\nconsidering or ordering any of our products.\nFor purchase, a product specification must be agreed upon.1.\nUsers are requested to provide protection circuits and redundancy circuits to ensure safety of\nthe equipment, and sufficiently review the suitability of JAE's products to the equipment.2.\nThe products presented in this web site are designed for the uses recommended below.\nWe strongly suggest you contact our sales staff when considering use of any of the products in\nany other way than the recommended applications or for a specific use that requires an\nextremely high reliability.3.\nApplications that require consultation: （1）\nPlease contact us if you are considering use involving a quality assurance program that\nyou specify or that is peculiar to the industry, such as:\nAutomotive electrical components, train control, telecommunications devices (mainline),\ntraffic light control, electric power, combustion control, fire prevention or security systems,\ndisaster evention equipment, etc.＊\nWe may separately give you our support with a quality assurance program that\nyou specify, when you think of a use such as :\nAviation or space equipment, submarine repeaters, nuclear power control systems, medical\nequipment for life support, etc.＊\nRecommended applications include: （2）\nComputers, office appliances, telecommunications devices (terminals, mobile units),\nmeasuring equipment, audiovisual equipment, home electric appliances, factory＊\nautomation equipment, etc\n"}]
+!==============================================================================!
+### Component Summary for DX07B024JJ2R1500
+
+**Component Type:**  
+USB Type-C Connector (Receptacle)
+
+**Key Specifications:**
+- **Voltage Ratings:** 48 Vr.m.s.
+- **Current Ratings:** 5 A max.
+- **Power Consumption:** Not specified; however, the current rating indicates the maximum load capacity.
+- **Operating Temperature Range:** -40 °C to +85 °C
+- **Package Type:** 2-row SMT (Surface Mount Technology), Mid-mount
+- **Special Features:**
+  - 24 positions
+  - Right angle connector style
+  - Gold flash over Palladium Nickel over Nickel plating for contact finish
+  - 10,000 mating cycles
+  - Waterproof/Non-waterproof: Not specified
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified
+
+**Description:**  
+The DX07B024JJ2R1500 is a USB Type-C receptacle connector designed for surface mounting on printed circuit boards (PCBs). It features a compact design with a center height of 0.47 mm and is suitable for various electronic applications. The connector is compliant with USB 3.2 Gen2 specifications, ensuring high-speed data transfer capabilities.
+
+**Typical Applications:**  
+This connector is commonly used in a variety of electronic devices, including:
+- Smartphones
+- Game machines
+- Drive recorders
+- Digital still cameras
+- HDD/SSD storage devices
+- USB hubs
+- Printers
+
+The DX07B024JJ2R1500 is ideal for applications requiring reliable data and power connections in compact spaces, making it suitable for consumer electronics and portable devices. 
+
+**Additional Notes:**  
+The connector is RoHS and REACH compliant, indicating it meets environmental regulations regarding hazardous substances. It is packaged in embossed tape with a standard quantity of 1,500 pieces per reel, facilitating automated assembly processes. 
+
+For any specific applications or requirements, it is recommended to consult with JAE's sales staff to ensure compatibility and reliability.

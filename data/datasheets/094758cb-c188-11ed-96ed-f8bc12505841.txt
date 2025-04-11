@@ -1,0 +1,48 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDNC01065 production of NEDITEK from the text:                                      NDNC01065  \n2-18 GHz Power Amplifier MMIC  \n\uf0d8  Features  \n\uf06c Frequency range ：2～18GHz \n\uf06c Typical small signal gain ：23dB \n\uf06c Typical output power ：40dBm@ 28V  \n\uf06c 0.2um HEMT  technology  \n\uf06c Bias：28 V，1A（CW） \n\uf06c Dimensions ：3.5mm×4.8mm×0.08mm \n \n\uf0d8 General Description  \nThe NDNC0106 5 is a driving amplifier chip with the 0.2 um length \nGaN HEMT technology which covers the frequency range from 2 to 18 \nGHz. This amplifier with dual DC power supply, can provide 40dBm of \noutput power by Vds=28V drain voltage in frequency range 2 -18GHz. \nEach chip is 100% DC and RF tested on -wafer to ensure performance \ncompliance. The NDNC0106 5 is an ideal chip for T/R Module, wireless \ncommunication and so on.  \n \n\uf0d8 Absolute Maximum Ratings （TA＝25℃）15 \nSymbol  Parameter  Value  Note \nVd Drain voltage  32V  \nId Drain current  3.5A  \nPd DC power  100W  \nPin Input signal power  30dBm   \nTch Channel Temperature  175℃  \nTm Mounting Temperature  310℃ 1min，N2 protection  \nTstg Storage Temperature  -55～175℃  \n【1】 Exceeding any of the above maximum quota will possibly induce permanent damage.  \n \n \n \n \n\n\uf0d8 Electrical parameter （TA=25℃） \nSymbol  Parameter  Testing \ncondition  Value  \nUnit \nMin Typ Max \nG Small signal gain  \nVd＝28V， \nIdq＝1A \nF：2～\n18GHz - 23 - dB \nGp Power gain  - 15 - dB \nPout  Saturation output power  - 40 - dBm  \nPAE Power additional \nefficiency   20  % \nId Dynamic current  - 2.0 - A \n \nNDNC01065  \n2-18 GHz Power Amplifier MMIC  \n\uf0d8 Typical testing curve  \nSmall signal gain curve              Input VSWR curve  \n123456789101112131415161718190510152025303540\n  Gain/dB\nFreq/GHz Pin=-20dBmVD=28V\n1234567891011121314151617181912345678\n  VSWRin\nFreq/GHz Pin=-20dBmVD=28V\n \n \nSaturation output power curve           Drain current curve  \n2345678910111213141516171820253035404550\n  Pout(dBm)\nFreq(GHz) 常温\n 低温\n 高温VD=28V,CW\n2 4 6 8 10 12 14 16 180.00.51.01.52.02.53.03.54.04.55.0\n  ID(A)\n 常温\n 低温\n 高温VD=28V,CW\n \nNDNC01065  \n  2-18 GHz Power Amplifier MMIC  \n \nPAE curve                     Gate current curve  \n2 4 6 8 10 12 14 16 181015202530354045\n  PAE(%)\nFreq(GHz) 常温\n 低温\n 高温VD=28V,CW\n2 4 6 8 10 12 14 16 18-80-60-40-2002040\n  Ig/mA\nFreq(GHz)VD=28V,CW\n \n \n\uf0d8 Outline drawing （Unit: um ）            Assembly diagram  \n \n1200\n004800350\n1100\n2009504660\n140\n150p1000p\n150p1000p\n150p\n1000p\nVg1150p\n1000p\nVg2RFin RFout5欧姆(0402)\n1uF(0402)漏加电\n \nPower on at \nDrain source  \n'}]
+!==============================================================================!
+### Component Summary for NDNC01065
+
+**Component Type:**  
+2-18 GHz Power Amplifier MMIC
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Drain Voltage (Vd): 28V (maximum 32V)
+  
+- **Current Ratings:**
+  - Drain Current (Id): 1A (typical), maximum 3.5A
+  - Dynamic Current (Id): 2.0A
+
+- **Power Consumption:**
+  - DC Power (Pd): 100W
+  - Input Signal Power (Pin): 30dBm
+
+- **Operating Temperature Range:**
+  - Channel Temperature (Tch): 175°C
+  - Storage Temperature (Tstg): -55°C to 175°C
+  - Mounting Temperature (Tm): 310°C (1 min, N2 protection)
+
+- **Package Type:**
+  - Dimensions: 3.5mm x 4.8mm x 0.08mm
+
+- **Special Features:**
+  - Utilizes 0.2um GaN HEMT technology
+  - 100% DC and RF tested on-wafer for performance compliance
+  - Typical small signal gain: 23dB
+  - Typical output power: 40dBm at 28V
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+**Description:**
+The NDNC01065 is a high-performance power amplifier MMIC designed for operation in the frequency range of 2 to 18 GHz. It employs advanced 0.2um GaN HEMT technology, which allows it to deliver significant output power while maintaining efficiency. The amplifier is optimized for driving applications, making it suitable for various high-frequency communication systems.
+
+**Typical Applications:**
+The NDNC01065 is primarily used in:
+- Transmit/Receive (T/R) modules for wireless communication systems
+- RF amplification in radar and satellite communication
+- Signal processing in telecommunications
+- Other applications requiring high output power and efficiency in the specified frequency range.
+
+This component is ideal for engineers looking to enhance the performance of RF systems, particularly in environments where high power and efficiency are critical.

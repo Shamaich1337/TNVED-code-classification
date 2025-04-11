@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of 0470531000 production of MOLEX from the text:RECOMMENDER PCB LAYOUTB10.20\nCIRCUIT 1\n ⌀1.02±0.05(4X)\n5.08±0.05NOTES:\n  1. MATERIAL: HOUSING: NYLON, UL94V-0. COLOR: NATURAL (WHITE).\n                          PIN: COPPER ALLOY.\n  2. PLATING: 0.00254 MIN. MATTE TIN OVER 0.00127 MIN. NICKEL\n  3. PACKAGING SPECIFICATION: SEE TABLE\n  4. PARTS CONFORM TO PRODUCT SPEC PS-47053-001.\n  5. MATES WITH 47054 SERIES.\n  6. THIS PART CONFORMS TO CLASS B REQUIREMENTS OF COSMETIC\n      SPECIFICATION PS-45499-002\n  7. PIN PUSH OUT FORCE: 0.91Kgf.\n  8. SOLDERABILITY: PER SMES-152C\n7.50(2.54)\n0.95±0.05(7.62)\n ⌀1.25±0.052.16±0.057.62±0.05\n2.54±0.05TYP.1.08\n5.08±0.10\n0.65±0.03(4X)0.65±0.03(4X)\n5.842.16 (R0.475 )\n2.30\n2.54±0.08\nA±0.25\n2.54\n7.62±0.130.70±0.05PART NUMBER DIM A DIM B DIM C PACKAGING\n47053-1000 3.50 13.50 7.50 470530000-PK\n47053-3000 4.00 13.84 7.34 470530000-PK\n47053-5000 3.50 13.50 7.50 470535000-PK\nTHIS DRAWING CONTAINS INFORMATION THAT IS PROPRIETARY TO MOLEX ELECTRONIC TECHNOLOGIES, LLC AND SHOULD NOT BE USED WITHOUT WRITTEN PERMISSION\nDIMENSION UNITS SCALE\nmm\nGENERAL TOLERANCES\n   (UNLESS SPECIFIED)\nANGULAR TOL ± 3.0 °\n4 PLACES ±\n3 PLACES ±\n2 PLACES ± 0.2\n1 PLACE ± 0.25\n0 PLACES ±\nDRAFT WHERE APPLICABLE\nMUST REMAIN\nWITHIN DIMENSIONS4 PIN HEADER HOUSING \nWITH FRICTION LOCK\n PRODUCT CUSTOMER DRAWING\nDOCUMENT NUMBER DOC TYPE DOC PART REVISION\nSD-47053-001 PSD 000C4\nMATERIAL NUMBER CUSTOMER SHEET NUMBER\nSEE TABLE GENERAL MARKET  1 OF 1CURRENT REV DESC: ADDED 470535000\nEC NO: 620463\nDRWN: SS06 2018/06/15\nCHK'D: ISHWARG 2019/07/11\nAPPR: ISHWARG 2019/07/11\nINITIAL REVISION:\nDRWN: JDFOX 2014/06/11\nAPPR: FSMITH 2014/06/11\nTHIRD ANGLE PROJECTION DRAWING SERIES\nB-SIZE 47053\nFORMAT: master-tb-prod-B\nREVISION: H\nDATE: 2018/01/18DOCUMENT STATUS P1 RELEASE DATE 2019/07/11 11:33:52SYMBOLS\n=0\n=0\n=0\n=0\n=0\n=0\n=0\n=0\n=0 \n \n \nC\n11\n22\n33\n44\n55\n66\n77\n88\n99\nA AB BC CD DE E\n"}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 0470531000
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, headers like this can handle standard low voltage applications (up to 250V).
+- **Current Ratings**: Not specified in the text; however, standard 4-pin headers can typically handle currents in the range of 1A to 3A per pin depending on the application.
+- **Power Consumption**: Not applicable as this is a passive component (header).
+- **Operating Temperature Range**: Not specified; typical operating ranges for nylon housings are usually from -40°C to +105°C.
+- **Package Type**: 4-pin header housing.
+- **Special Features or Notes**:
+  - Material: Housing made of nylon (UL94V-0 rated), color natural (white).
+  - Pin material: Copper alloy with matte tin plating over nickel.
+  - Mates with 47054 series connectors.
+  - Conforms to Class B requirements of cosmetic specification PS-45499-002.
+  - Pin push-out force: 0.91 Kgf.
+  - Solderability: Per SMES-152C.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The MOLEX 0470531000 is a 4-pin header housing designed for use in various electronic applications. It features a friction lock mechanism that ensures a secure connection when mated with compatible connectors, specifically the 47054 series. The housing is constructed from durable nylon material, which is flame-retardant (UL94V-0), making it suitable for a range of environments.
+
+#### Typical Applications:
+This component is typically used in:
+- **Interconnect Solutions**: Providing a reliable connection point for circuit boards in various electronic devices.
+- **Signal Transmission**: Facilitating the transfer of signals between different components in a system.
+- **Power Distribution**: Used in power management applications where multiple connections are required.
+- **Consumer Electronics**: Commonly found in devices such as computers, appliances, and automotive electronics.
+
+Overall, the MOLEX 0470531000 is a versatile and reliable component suitable for a wide range of electronic applications, particularly where secure and efficient connections are necessary.

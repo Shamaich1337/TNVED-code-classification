@@ -1,0 +1,42 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of AM2520SYC03 production of KINGBRIGHT from the text:SPEC NO: DSAC2795                  REV NO: V.7                                 DATE: JAN/17/2008                                    PAGE:  1  OF  5 \nAPPROVED: WYNEC                   CHECKED: Allen Liu                    DRAWN: D.M.Su                                         E RP: 1202000714 SUBMINIATURE SOLID STATE LAMP \nPRELIMINARY SPEC Part Number: AM2520SYC03               Super Bright Yellow \nFeatures \nz SUBMINIATURE PACKAGE. \nz WIDE VIEWING ANGLE. \nz GULL WING LEAD. \nz LONG LIFE - SOLID STATE RELIABILITY. \nz LOW PACKAGE PROFILE. \nz MOISTURE SENSITIVITY LEVEL : LEVEL 3. \nz PACKAGE : 1000PCS / REEL. \nz RoHS COMPLIANT. Description  \nThe Super Bright Yellow device is made with InGaAlP (on \nGaAs substrate) light emitting diode chip. \nPackage Dimensions \nNotes: \n1. All dimensions are in millimeters (inches). 2. Tolerance is ±0.25(0.01") unless otherwise noted. \n3. Lead spacing is measured where the leads emerge from the package. \n4. Specifications are subject to change without notice. 5. The device has a single mounting surface. The devi ce must be mounted according to the specifications. \n\nSPEC NO: DSAC2795                  REV NO: V.7                                 DATE: JAN/17/2008                                    PAGE:  2  OF  5 \nAPPROVED: WYNEC                   CHECKED: Allen Liu                    DRAWN: D.M.Su                                         E RP: 1202000714 Selection Guide \nNotes: \n1. θ1/2 is the angle from optical centerline where the lumi nous intensity is 1/2 the optical centerline value. \n2. Luminous intensity/ luminous Flux: +/-15%. \nAbsolute Maximum Ratings at TA=25°C Electrical / Optical Characteristics at TA=25°C \nNotes: \n1.Wavelength: +/-1nm. 2. Forward Voltage: +/-0.1V. \nNote: \n1. 1/10 Duty Cycle, 0.1ms Pulse Width. Part No.  Dice  Lens Type  Viewing                                     \nAngle [1] \nMin. Typ. 2 θ1/2 \nAM2520SYC03 Super Bright Yellow (InGaAlP) WATER CLEAR 900 1500 20° Iv (mcd) [2]                                         \n@ 20mA     \nSymbol Parameter Device Typ. Max. Units Test Conditions \nλpeak Peak Wavelength Super Bright Yellow 590  nm I F=20mA \nλD [1] Dominant Wavelength Super Bright Yellow 588  nm I F=20mA \nΔλ1/2 Spectral Line  Half-width Super Bright Yellow 28  nm I F=20mA \nC Capacitance Super Bright Yellow 25  pF V F=0V;f=1MHz \nVF [2] Forward Voltage Super Bright Yellow 2 2.5 V I F=20mA \nIR Reverse Current Super Bright Yellow  10 uA V R=5V \nParameter Super Bright Yellow Units \nPower dissipation 75 mW \nDC Forward Current 30 mA Peak Forward Current [1] 150 mA Reverse Voltage 5 V Operating Temperature -40°C To +85°C \nStorage Temperature -40°C To +85°C \nSPEC NO: DSAC2795                  REV NO: V.7                                 DATE: JAN/17/2008                                    PAGE:  3  OF  5 \nAPPROVED: WYNEC                   CHECKED: Allen Liu                    DRAWN: D.M.Su                                         E RP: 1202000714 Super Bright Yellow           AM2520SYC03 \nSPEC NO: DSAC2795                  REV NO: V.7                                 DATE: JAN/17/2008                                    PAGE:  4  OF  5 \nAPPROVED: WYNEC                   CHECKED: Allen Liu                    DRAWN: D.M.Su                                         E RP: 1202000714 AM2520SYC03 \nRecommended Soldering Pattern \n(Units : mm; Tolerance: ± 0.1) \nTape Specifications \n(Units : mm) \nSPEC NO: DSAC2795                  REV NO: V.7                                 DATE: JAN/17/2008                                    PAGE:  5  OF  5 \nAPPROVED: WYNEC                   CHECKED: Allen Liu                    DRAWN: D.M.Su                                         E RP: 1202000714 PACKING & LABEL SPECIFICATIONS                              AM2520SYC03 \nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Kingbright:   \n\xa0 AM2520SYC03\n'}]
+!==============================================================================!
+### Component Summary: AM2520SYC03
+
+**Manufacturer:** Kingbright  
+**Product Code:** AM2520SYC03  
+**Type:** Subminiature Solid State Lamp (LED)  
+**Color:** Super Bright Yellow  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (VF): 2.0 - 2.5 V @ 20 mA
+  - Reverse Voltage (VR): 5 V
+- **Current Ratings:**
+  - DC Forward Current: 30 mA
+  - Peak Forward Current: 150 mA (1/10 Duty Cycle, 0.1 ms Pulse Width)
+- **Power Consumption:**
+  - Power Dissipation: 75 mW
+- **Operating Temperature Range:**
+  - Operating Temperature: -40°C to +85°C
+  - Storage Temperature: -40°C to +85°C
+- **Package Type:**
+  - Subminiature package with gull wing leads
+  - Moisture Sensitivity Level: Level 3 (according to JEDEC J-STD-020E)
+  - Packaging: 1000 pieces per reel
+- **Special Features:**
+  - Wide viewing angle (20°)
+  - Long life and solid-state reliability
+  - Low package profile
+  - RoHS compliant
+
+#### Description:
+The AM2520SYC03 is a super bright yellow light-emitting diode (LED) made from InGaAlP on a GaAs substrate. It is designed for applications requiring high brightness and reliability in a compact form factor. The device features a water-clear lens and is optimized for a wide viewing angle, making it suitable for various lighting applications.
+
+#### Typical Applications:
+- **Indicator Lights:** Used in devices to signal operational status.
+- **Backlighting:** Ideal for backlighting in displays and panels.
+- **Automotive Lighting:** Can be used in dashboard indicators and other automotive applications.
+- **Consumer Electronics:** Suitable for use in various electronic devices requiring visual indicators.
+- **Signage:** Effective in illuminated signs due to its brightness and visibility.
+
+This LED is particularly useful in applications where space is limited, and high visibility is required, making it a versatile choice for designers and engineers in the electronics field.

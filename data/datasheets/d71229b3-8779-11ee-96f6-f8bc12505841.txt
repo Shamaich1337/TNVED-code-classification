@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-GNSS-9001-WB-1 production of SHENZHEN SHINE INDUSTRY CO.,LTD from the text:GNSS Timming Antenna Datasheet\nwww.macrogroup.ru                                                                                                                 MACRO GROUP LTDGNSS Timming Antenna\nMG-GNSS-9001-WB-1\nVersion:  V1.0\nDate:   2023-11\n    Part Number :\n\nGNSS Timming Antenna Datasheet\nwww.macrogroup.ru                                                                                                                 MACRO GROUP LTD\n1. Type : Marine Antenna\n2. Frequencies : GPS (1575.42 MHz), GLONASS (1592 - 1610 MHz)3. Mounting : screws\nFrequencies GPS (1575.42 MHz) GLONASS (1592 - 1610 MHZ)\nImpedance 50 Ohm\nPolarization Right Circular Polarization\nLNA Gain 35±2dB\nVSWR  2.0:1\nVoltage supply 3.0~16VDC\nCurrent <35mA\nPower (max.) 0.56W\nOperating temperature -40°C to +85°C\nIP certi ﬁ cation IP67\nConnector TNC-F\nExtension cable Optional\nShell Material ASA\nDimension 110*116*94mm\nWeight 0.18Kg\nColor White1. Product Description\n2. Technical Paremeters\nGNSS Timming Antenna Datasheet\nwww.macrogroup.ru                                                                                                                 MACRO GROUP LTD3. Dimension (in mm)\n4. Gain Test-Based Value -30 DB\n\nGNSS Timming Antenna Datasheet\nwww.macrogroup.ru                                                                                                                 MACRO GROUP LTD\n5. Product Pictures\n\n'}]
+!==============================================================================!
+### Component Summary: MG-GNSS-9001-WB-1
+
+**Description:**
+The MG-GNSS-9001-WB-1 is a GNSS (Global Navigation Satellite System) timing antenna designed for marine applications. It is capable of receiving signals from GPS and GLONASS satellites, making it suitable for precise timing and positioning tasks in various marine environments.
+
+**Key Specifications:**
+- **Type:** Marine Antenna
+- **Frequencies:**
+  - GPS: 1575.42 MHz
+  - GLONASS: 1592 - 1610 MHz
+- **Impedance:** 50 Ohm
+- **Polarization:** Right Circular Polarization
+- **LNA Gain:** 35 ± 2 dB
+- **Voltage Supply:** 3.0 to 16 VDC
+- **Current Rating:** < 35 mA
+- **Power Consumption (max):** 0.56 W
+- **Operating Temperature Range:** -40°C to +85°C
+- **Moisture Sensitivity Level (MSL):** Not specified in the provided text.
+- **Package Type:** Not explicitly mentioned, but the dimensions are provided.
+- **IP Certification:** IP67 (dust-tight and protected against immersion in water)
+- **Connector Type:** TNC-F
+- **Shell Material:** ASA (Acrylonitrile Styrene Acrylate)
+- **Dimensions:** 110 mm x 116 mm x 94 mm
+- **Weight:** 0.18 kg
+- **Color:** White
+
+**Typical Applications:**
+The MG-GNSS-9001-WB-1 is primarily used in marine environments for applications that require accurate timing and positioning. Typical applications include:
+- Marine navigation systems
+- Timing synchronization for marine equipment
+- Surveying and mapping in marine settings
+- Integration into autonomous marine vehicles
+- Any application requiring reliable GNSS signals in challenging environments
+
+This antenna is particularly suited for use in harsh conditions due to its wide operating temperature range and IP67 rating, ensuring durability and reliability in marine applications.

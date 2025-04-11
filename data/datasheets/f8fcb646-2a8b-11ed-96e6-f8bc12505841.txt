@@ -1,0 +1,62 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 02K243-40ME3 production of ROSENBERGER from the text:Technical Data Sheet   \nRPC-2 .92 Right Angle Jack PCB  02K243- 40ME3  \n \n \nRosenberger Hochfrequenztechnik GmbH & Co. KG  \nP.O.Box 1260       D -84526 Tittmoning       Germany  \nwww.rosenberger.de  Tel.    : +49 8684 18-0  \nEmail : info@rosenberger.de  Page  \n \n1 / 2 \n Dieses Dokument ist urheberrechtlich geschützt ● This document is protected by copyright  ● Rosenberger Hochfrequenztechnik GmbH & Co. KG  RF_35/05.10/6.1   \n \n \nAll dimensions are in mm; tolerances according to ISO 2768 m -H \n \nInterface  \nAccording to  IEC 6 1169- 35 \nMechanically compatible with  RPC -3.50 and SMA  \n \n \nDocuments  \nPCB Layout  B 208  \n \nMaterial and plating  \nConnector parts  Material  Plating  \nCenter contact  CuBe  Gold, min. 1.27 µm, over chemical nickel  \nOuter contact  Brass  Gold, min. 0.8 µm, over chemical nickel  \nDielectric  1 PEEK \nDielectric  2 PTFE \nScrews  Stainless steel  \n   \n \n \nTechnical Data Sheet   \nRPC-2 .92 Right Angle Jack PCB  02K243- 40ME3  \n \n \nRosenberger Hochfrequenztechnik GmbH & Co. KG  \nP.O.Box 1260       D -84526 Tittmoning       Germany  \nwww.rosenberger.de  Tel.    : +49 8684 18-0  \nEmail : info@rosenberger.de  Page  \n \n2 / 2 \n Dieses Dokument ist urheberrechtlich geschützt ● This document is protected by copyright  ● Rosenberger Hochfrequenztechnik GmbH & Co. KG  RF_35/05.10/6.1  f(GHz)Electrical data  \nImpedance 50 Ω \nFrequency  DC to 40 GHz \nReturn loss  ≥ 14 dB, DC to 4 0 GHz \nInsertion loss  ≤ 0.1 x    dB \nInsulation resistance  ≥ 5 GΩ \nCenter contact resistance  ≤ 3.0 mΩ \nOuter contact resistance  ≤ 2.0 mΩ \nTest voltage  750 V rms  \nWorking voltage  250 V rms  \nRF-leakage  ≥ 100 dB up to 1 GHz  \n \n- Connector only, VSWR in application depends decisive on PCB layout -   \n \nMechanical data  \nMating cycles  ≥ 500 \nCenter contact captivation  ≥ 20 N \nCoupling test torque  max. 0.40 Nm \nRecommended torque  0.30 Nm  \n \n \nEnvironmental data   \nTemperature range  -40°C to +85°C  \nThermal shock  MIL-STD-202, Method 107, Condition B  \nCorrosion  MIL-STD-202, Method 101, Condition B  \nVibration  MIL-STD-202, Method 204, Condition D  \nShock  MIL-STD-202, Method 213,  Condition I  \nMoisture resistance  MIL-STD-202, Method 106  \nMax. soldering temperature IEC 61760- 1, +260°C for 10 sec.  \nRoHS  compliant  \n \n \nTooling \n N/A \n \n \n \nWeight  \n 4.3 g/pce  \n \nDraft  Date  Approved Date   Rev. Engineering change number  Name  Date  \nHerbert Babinger  04.08.06 Martin Moder  11.02.16  c00 16-0004  Georg Schiele  11.02.16 While the information has been carefully compiled to the best of our knowledge, nothing is intended as representation or warr anty on \nour part and no statement herein shall be construed as recommendation to infringe existing patents. In the effort to improve our \nproducts, we reserve the right to make changes judged to be necessary.  \n'}]
+!==============================================================================!
+### Component Summary for 02K243-40ME3
+
+**Component Type:**  
+RPC-2 .92 Right Angle Jack PCB
+
+**Manufacturer:**  
+Rosenberger Hochfrequenztechnik GmbH & Co. KG
+
+---
+
+### Key Specifications:
+
+- **Voltage Ratings:**
+  - Working Voltage: 250 V rms
+  - Test Voltage: 750 V rms
+
+- **Current Ratings:**
+  - Not explicitly stated; typically determined by application and PCB layout.
+
+- **Power Consumption:**
+  - Not applicable for connectors; power handling is determined by voltage and current ratings.
+
+- **Operating Temperature Range:**
+  - -40°C to +85°C
+
+- **Package Type:**
+  - Right Angle Jack PCB Connector
+
+- **Special Features or Notes:**
+  - Impedance: 50 Ω
+  - Frequency Range: DC to 40 GHz
+  - Return Loss: ≥ 14 dB (DC to 40 GHz)
+  - Insertion Loss: ≤ 0.1 dB
+  - Insulation Resistance: ≥ 5 GΩ
+  - RF Leakage: ≥ 100 dB up to 1 GHz
+  - Mating Cycles: ≥ 500
+  - RoHS compliant
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided data.
+
+---
+
+### Description of the Component:
+
+The 02K243-40ME3 is a high-frequency right-angle jack connector designed for PCB mounting. It is part of the RPC-2 series and is mechanically compatible with RPC-3.50 and SMA connectors. The connector is constructed with high-quality materials, including copper beryllium for the center contact and brass for the outer contact, both plated with gold over nickel for enhanced conductivity and corrosion resistance. The dielectric materials used are PEEK and PTFE, which provide excellent thermal and electrical insulation.
+
+---
+
+### Typical Applications:
+
+The RPC-2 .92 Right Angle Jack PCB connector is primarily used in high-frequency applications, including:
+
+- **Telecommunications:** For connecting RF signals in communication devices.
+- **Aerospace and Defense:** Due to its robust design and environmental resistance, it is suitable for military and aerospace applications.
+- **Test and Measurement Equipment:** Used in devices that require precise RF connections.
+- **Broadcasting:** For RF signal transmission in broadcasting equipment.
+- **Consumer Electronics:** In devices that operate at high frequencies, such as wireless communication devices.
+
+This connector is ideal for applications where space is limited, and reliable high-frequency performance is required.

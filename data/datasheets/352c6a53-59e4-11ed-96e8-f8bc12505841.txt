@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HX-DU8608D production of HARXON from the text: \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \nWireless Application  \n \n \n \n \n \nFeatures  \n● 60MHz Bandwidth Coverage 410-470 \nMHz bands  \nAdvanced data link design for high \nperformance over entire band . \n● Multi -function user interface  \nIt was designed for easy mobile use in \ndemand -ing field conditions.  \n● Configurable Transmit Power  \nSupport for 5W,10W,15W,20W,30W, 35W \npower  switch ing. \n● Software -Derived Channel Bandwidth  \nCompatible with both 12.5 and 25 kHz \nradios.  \n● High Environmental Capabilities  \nAccording to the IP67 standard  \n● Repeater Function  \nIn the same frequency or different \nfrequency . \n Base  Radio \nHX-DU8608 D \nHarxon radio modems provide reliable data communications \nfor mission -critical applications  where a combination of \nstability, supreme performance and long range are required.  \nHX-DU8608D is a high speed, high power, wireless data link \nbuilt to survive the rigors of GNSS/RTK surveying and \nprecise positioning. This radio ’s 35W of power maximize \nrange, enabling you to work in difficult urban areas.  The \nHX-DU8608D is equipped with digital tube , LED and keypad, \nused to indicate the current operating status, as well as for \nchanging the operating channel and power level of the radio \nmodem. For the most rugged and reliable  long-range data \nlink, go with the Geomatic s industry’s new standard in \nwireless communications HX -DU8608D.  \n \n\n \n \n \n \n \n \n \n \n  \n \n \n \n \n General Specification  \nFrequency \nrange  410~470MHz  \nOperating \nmode  Half-duplex  \nChannel \nspacing  25KHz , 12.5KHz  \nModulation \ntype GMSK  \nOperation \nvoltage  12V \nPower \ndissipation(Ty\npical)  High power \nlevel（35W） ≤110W @ DC  \n12V \nHigh power \nlevel（30W） ≤100W @ DC  \n12V \nHigh power \nlevel（20W） ≤75W @ DC  \n12V \nLow power \nlevel  (15W)  ≤60W @ DC  \n12V \nLow power \nlevel  (10W)  ≤45W @ DC  \n12V \nLow power \nlevel  (5W)  ≤25W @ DC  \n12V \nStandby  ≤1.5W @ DC  \n12V \nFrequency \nstability  ≤±1.0ppm  \nSize 186× 140× 73mm \nWeight  About 1.5kg  \nTemperature(\noperation)  -30℃~+65℃ \nTemperature\n(storage)  -40℃~+85℃ Antenna port  TNC，female  \nAntenna \nimpedance  50ohm  \nData interface  LEMO  5Pin  \nTransmitter  \nRF output power  High level\n（35W） 45.5±0.5dBm@D\nC12V \nHigh level\n（30W） 44.8±0.5dBm@D\nC12V \nHigh level\n（20W） 43± 1dBm@DC 12\nV \nLow level\n（15W） 41.8± 1dBm@DC\n12V \nLow level\n（10W） 40± 1dBm@DC 12\nV \nLow level\n（5W） 37.5± 1dBm@DC\n12V \nPower stability  ± 1dB  \nHarmonics  >50dB \nReceiver  \nSensitivity  -114dBm@BER 10-3，9600bps  \nCo-channel \nrejection  >-12dB  \nAdjacent channel \nselectivity  >50dB@25KHz  \nModem  \nAir baud rate 9600bps 、19200bps  \nModulation type  GMSK  \nSerial port baud \nrate 9600  bps、19200  bps、38400  \nbps、57600  bps、115200  bps  \nTechnical Specifications  \n \n \n \n \n \n Harxon Corporation  \nwww.harxon.com      sales@harxon.com  \nTel: +86 0755 -26989948  Fax:+86 0755 -26989994  \n \n \n \nHARXON AUTHORIZERD DISTRIBUTION PARTNER  \n\n'}]
+!==============================================================================!
+### Component Summary: HX-DU8608D
+
+**Description:**
+The HX-DU8608D is a high-speed, high-power wireless data link designed for GNSS/RTK surveying and precise positioning applications. It operates in the 410-470 MHz frequency range and is built to withstand harsh environmental conditions, making it suitable for mission-critical communications. The device features a user-friendly interface with a digital tube, LED indicators, and a keypad for easy operation in the field.
+
+**Key Specifications:**
+- **Voltage Ratings:** 
+  - Operating Voltage: 12V DC
+- **Current Ratings:** 
+  - Power dissipation varies with output power levels:
+    - 35W: ≤110W
+    - 30W: ≤100W
+    - 20W: ≤75W
+    - 15W: ≤60W
+    - 10W: ≤45W
+    - 5W: ≤25W
+    - Standby: ≤1.5W
+- **Power Consumption:** 
+  - Maximum power consumption at high levels can reach up to 110W at 35W output.
+- **Operating Temperature Range:** 
+  - Operating: -30°C to +65°C
+  - Storage: -40°C to +85°C
+- **Package Type:** 
+  - Dimensions: 186mm x 140mm x 73mm
+  - Weight: Approximately 1.5 kg
+- **Special Features:**
+  - Configurable transmit power (5W to 35W)
+  - Supports both 12.5 kHz and 25 kHz channel bandwidths
+  - IP67 rated for high environmental capabilities
+  - Repeater function for frequency flexibility
+  - GMSK modulation type
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Typical Applications:**
+The HX-DU8608D is primarily used in:
+- GNSS/RTK surveying
+- Precise positioning applications
+- Long-range data communications in challenging environments
+- Mission-critical data links where reliability and performance are essential
+
+This component is ideal for professionals in fields such as surveying, construction, and any application requiring robust wireless communication capabilities in demanding conditions.

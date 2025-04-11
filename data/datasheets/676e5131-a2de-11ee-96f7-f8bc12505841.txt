@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of IPX1.13-50MM production of KAWEEI from the text:HIRD ANGLE PROJEC ION1:XXDATE\nEREV\n1\n2REV:\nmmUNIT:A/2\nSCALE比例:\nD CSHEET:DESCRIPTION\nAPPROVAL核准DRAWN(製圖 :\nCHECKED確認 :\nPART  NO:\n(料          號\nDWG NO圖號 ):\nB A1\n2C D E A B\n1\n2\nFILE NO: KW-4E-094 A4DESCRIPTION內容 :\n1/1X.:±0.30\nX.X:±0.20\nX.XX:±0.15\nX.XXX: ±0.10X°:±5.0°\nX.X°:±.0°\nX.XX°: ±2.0°\nX.XX X°: ±1.0°GENER L TOLER NCE\nLINEAR ANGLES\nIPX1.13-50MMSep-08-2021\nKWRD211004ORIGINAL\nJack  Wu\nKane He\n'}]
+!==============================================================================!
+Based on the provided text, it appears to be a technical drawing or specification sheet for a component identified as "IPX1.13-50MM" produced by KAWEEI. However, the text does not provide specific electrical characteristics or detailed specifications typically found in a datasheet for electronic components. 
+
+### Key Characteristics and Specifications:
+- **Component Type**: The designation "IPX1.13-50MM" suggests that this is likely a connector or jack, possibly related to RF (radio frequency) applications, given the "IP" prefix which often indicates a type of connector.
+- **Voltage Ratings**: Not specified in the provided text.
+- **Current Ratings**: Not specified in the provided text.
+- **Power Consumption**: Not specified in the provided text.
+- **Operating Temperature Range**: Not specified in the provided text.
+- **Package Type**: Not specified in the provided text.
+- **Special Features or Notes**: Not specified in the provided text.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+### Description of the Component:
+The "IPX1.13-50MM" appears to be a type of RF connector, commonly used in applications requiring a compact connection for RF signals. These connectors are typically used in wireless communication devices, antennas, and other RF applications.
+
+### Typical Applications:
+- **Wireless Communication**: Used in devices such as smartphones, tablets, and other wireless communication equipment.
+- **Antenna Connections**: Commonly found in applications where antennas need to be connected to transmitters or receivers.
+- **Signal Processing**: Utilized in systems that require the transmission of RF signals with minimal loss.
+
+### Summary:
+While the provided text does not contain detailed specifications, the component "IPX1.13-50MM" is likely an RF connector used in various wireless communication applications. For precise electrical characteristics and specifications, a complete datasheet would be necessary.

@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of UNIVAL 30A production of MTA from the text: \n \n \nUniVAL® fuses are compliant with ISO 8820-3 \nStandard (Type “C”),  the first standard automotive  \nblade fuse.  \nUniVAL®  are made of Zinc alloy whose low \nmelting temperature avoids heavy over temperatures \n \nBreaking capacity:          1000[A] \nVoltage rating:         32[Vdc] \nAmbient temperature:   -40°C to +125°C  \nMTA/ISO UniVAL®  operating time limits \n% I N min [s] max [s] \n110 360000 - \n135 0,75 600 \n160 0,25 50 \n200 0,15 5 \n350 0,04 0,5 \n600 0,02 0,1  \n \n \nUniVAL® Re-Rating Curve. \nTest module ISO \n70%75%80%85%90%95%100%105%110%\n-40 -20 0 20 40 60 80 100 120 \nAmbient Temperature [°C] Rated Current \n UniVAL® Operating Time \n@23°C test module ISO \n0,01 0,1 110 100 \n0 100 200 300 \nCurrent [A] Time [s] 2 A \n3 A \n4 A \n5 A \n7,5 A \n10 A \n15 A \n20 A \n25 A \n30 A \n40 A \n CURRENT \nRATING [A] VOLTAGE \nDROP @ \ncurrent \nrating [mV] CABLE \nSIZE [mm 2] I2t \n2 142 157 \n3 135 200 \n4 126 0,35 \n205 \n5 119 0,5 218 \n7,5 139 0,75 304 \n10 112 1,0 320 \n15 104 1,5 480 \n20 117 720 \n25 104 2,5 1155 \n30 103 4,0 1843 \n40 101 6,0 2880  \n UNI VAL ®   BLADE TYPE FUSE \n\n'}]
+!==============================================================================!
+### Component Summary: UniVAL® 30A Fuse (MTA)
+
+#### Key Specifications:
+- **Voltage Rating:** 32 Vdc
+- **Current Rating:** 30 A
+- **Breaking Capacity:** 1000 A
+- **Power Consumption:** Not applicable (fuses do not consume power; they protect circuits)
+- **Operating Temperature Range:** -40°C to +125°C
+- **Package Type:** Blade type fuse
+- **Special Features/Notes:** 
+  - Compliant with ISO 8820-3 Standard (Type “C”)
+  - Made of zinc alloy with a low melting temperature to prevent heavy over temperatures
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text
+
+#### Description:
+The UniVAL® 30A fuse is a blade-type fuse designed for automotive applications. It serves as a protective device that interrupts the electrical circuit when the current exceeds a predetermined level, thereby preventing damage to electrical components and wiring due to overcurrent conditions. The fuse is constructed from a zinc alloy, which allows it to melt and break the circuit at elevated temperatures, ensuring safety and reliability in automotive environments.
+
+#### Typical Applications:
+- **Automotive Power Management:** Protects electrical circuits in vehicles from overcurrent situations, ensuring the safety of sensitive electronic components.
+- **Signal Processing:** Used in automotive electronics where signal integrity is crucial, preventing damage from excessive current.
+- **General Circuit Protection:** Suitable for various automotive applications, including lighting, infotainment systems, and other electronic modules that require reliable overcurrent protection.
+
+The UniVAL® 30A fuse is particularly valuable in automotive settings due to its compliance with industry standards and its ability to operate effectively across a wide temperature range, making it suitable for diverse environmental conditions encountered in vehicles.

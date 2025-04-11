@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of WJ2EDGRM-5.0-04P-140-00A production of WANJIE from the text:http://www.china-wj.com\nWJ2EDGRM-5.0/5.08\nPLUG-IN TERMINAL BLOCK Download date：2023-01-09\nPCB connector \nRated current: 15 A \nRated voltage: 300 V \nPitch: 5.0 mm/5.08 mm \nMounting: Wave soldering \nFor reference only! version1.0\nUL/CUL\nUse Group B C D\nRate Voltage [V] 300 - 300\nRated Current [A] 15 - 10\nWire Range [AWG] /\nDielectric Voltage-Withstand 1.6KV\nIEC\nOvervoltage Category III III II\nContamination Class 3 2 2\nRated Voltage [V] 250 320 630\nRated Current [A] 15 15 15\nImpulse withstand voltage [KV] 4 4 4\nConductor cross section[solid/flexible] [mm²] /\nMaterial\nInsulation Material PA66\n1/3TEL: +86-574-63510583 / 63510582E-mail: cjw@china-wj.com\nCIXI WANJIE ELECTRONIC CO.,LTD.\nhttp://www.china-wj.com\nWJ2EDGRM-5.0/5.08\nPLUG-IN TERMINAL BLOCK Download date：2023-01-09\nFlame relardant rating UL94V-0\nConductor Material Copper alloy\nPlating of conductor surface Sn plated\nOther Data\nPitch/Poles [mm]/[P] 5.0，5.08/2-24\nStripping Length [mm] /\nScrew/Torque(Max)[N.m] /\nOperating temperature [℃] -40~+105\nSoldering temperature 260℃/5S\nPin dimensions [mm] 1.0*1.0\nPCB Hole Diameter [mm] ∅1.7\nDimensions\n  \nPCB opening diagram\n  \nAccessories\n2/3TEL: +86-574-63510583 / 63510582E-mail: cjw@china-wj.com\nCIXI WANJIE ELECTRONIC CO.,LTD.\nhttp://www.china-wj.com\nWJ2EDGRM-5.0/5.08\nPLUG-IN TERMINAL BLOCK Download date：2023-01-09\nWJ2EDGKM-5.0/5.08 \n WJ2EDGKAM-5.0/5.08 \n WJ2EDGKBM-5.0/5.08 \nWJ2EDGKCM-5.0/5.08 \n WJ2EDGKDM-5.0/5.08 \n WJ2EDGKDAM-5.0/5.08 \n \nWJ2EDGKDBM-5.0/5.08 \n \nWJ2EDGKDHM-5.08 \n \nWJ2ED GKHM-5.08 \n \nWJ2EDGKAHM-5.08 \n \nWJ2EDGKZM-5.0/5.08 \n \nWJ2EDGKLM-5.0/5.08 \nPowered by TCPDF (www.tcpdf.org)3/3TEL: +86-574-63510583 / 63510582E-mail: cjw@china-wj.com\nCIXI WANJIE ELECTRONIC CO.,LTD.\n'}]
+!==============================================================================!
+### Component Summary: WJ2EDGRM-5.0-04P-140-00A
+
+**Description:**
+The WJ2EDGRM-5.0-04P-140-00A is a plug-in terminal block manufactured by WANJIE. It is designed for PCB (Printed Circuit Board) connections, allowing for easy and reliable electrical connections between wires and circuit boards. This component is particularly useful in applications where modular connections are required.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Rated Voltage: 300 V (IEC)
+  - Dielectric Voltage-Withstand: 1.6 kV
+  - Overvoltage Category: III
+  - Rated Voltage (other categories): 250 V, 320 V, 630 V
+
+- **Current Ratings:**
+  - Rated Current: 15 A
+
+- **Power Consumption:**
+  - Not specified directly, but the current rating indicates the maximum load it can handle.
+
+- **Operating Temperature Range:**
+  - -40°C to +105°C
+
+- **Package Type:**
+  - Plug-in terminal block with a pitch of 5.0 mm / 5.08 mm
+
+- **Special Features or Notes:**
+  - Flame retardant rating: UL94V-0
+  - Conductor Material: Copper alloy with Sn plating
+  - Mounting: Wave soldering
+  - Contamination Class: 3 (for rated voltage 300 V), 2 (for rated voltage 250 V, 320 V, 630 V)
+  - Impulse withstand voltage: 4 kV
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided data.
+
+**Typical Applications:**
+The WJ2EDGRM-5.0-04P-140-00A terminal block is typically used in various electronic applications, including:
+- Power management systems
+- Industrial automation equipment
+- Consumer electronics
+- Telecommunications
+- Control panels and electrical distribution systems
+
+This component is ideal for situations where secure and efficient connections are necessary, particularly in environments that require durability and resistance to high temperatures. Its design allows for easy installation and maintenance, making it a popular choice in both commercial and industrial applications.

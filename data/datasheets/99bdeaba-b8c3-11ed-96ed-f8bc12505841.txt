@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of SM1W741 production of DAHENG OPTICAL THIN FILM CENTER from the text:0.90in [ 21.6mm]\nCLEAR APERTURE1.00in\n[25.4mm]CL\nCLSPANNER WRENCH SLOT\nCOMPATIBLE WITHSPW602, SPW606 & SPW801(NOT INCLUDED)\n  0.05in\n1.3mm    0.18in\n4.6mm    7\n 41'  \nCL\nA\nSM1W741MATERIALDRAWN\nAPPROVAL REVKBC\nAK29/SEP/15DATE\n29/SEP/15w w w . t h o r  l a b s . c o m\nITEM # APPROX WEIGHTANODIZED ALUMINUM\n1.13 gVALUES IN PARENTHESIS ARE CALCULATED\nAND MAY CONTAIN ROUNDOFF ERRORSDRAWINGPROJECTION\nNAME\nFOR INFORMATION ONLY \nNOT FOR MANUFACTURING PURPOSES7 41' ANGLED WEDGE\nCOPYRIGHT © 2015 BY THORLABS \n"}]
+!==============================================================================!
+### Component Summary for SM1W741
+
+**Component Type:** Optical Component (Angled Wedge)
+
+**Key Specifications:**
+- **Clear Aperture:** 1.00 in (25.4 mm)
+- **Overall Dimensions:** 0.90 in (21.6 mm) height
+- **Material:** Anodized Aluminum
+- **Approximate Weight:** 1.13 g
+- **Special Features:** Compatible with SPW602, SPW606, and SPW801 spanner wrenches (not included).
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+**Description:**
+The SM1W741 is an optical component designed as a 7° angled wedge. It is primarily used in optical setups to manipulate light paths, typically for applications requiring precise alignment and adjustment of optical elements. The wedge shape allows for controlled angular displacement of light beams, which can be crucial in various optical experiments and systems.
+
+**Typical Applications:**
+- **Optical Alignment:** Used in setups where precise angular adjustments of light paths are necessary.
+- **Beam Steering:** Can be employed to redirect light beams in optical systems.
+- **Interferometry:** Useful in applications involving interference patterns where light path manipulation is required.
+- **Optical Testing:** Often utilized in laboratory settings for testing and calibration of optical systems.
+
+This component is particularly valuable in research and development environments, as well as in manufacturing processes that involve optical systems.

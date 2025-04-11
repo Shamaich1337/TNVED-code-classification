@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of RFP-NNS-C1N558-NL5 production of E-TEC from the text:A New 07.12.2022 Cherry\nOrder Code\nRFP-NNS-C1N558-NL5\nRoHS\ncompliant\nRF Connector\nN Series Straight Crimp Plug\nfor LMR400, B elden 9913 CableRecommended Cable Stripping\nDimensions\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.40Cherry\nKent\nSH07.12.2022\n07.12.202207.12.2022RFP-NNS-C1N558-NL5\nRFP-NNS-C1N558-NL51/1\nA4.508.5016.80\n20 HEX\n∅7.40\n∅9.30\n30.00∅2.90 ∅3.50\n17.60∅12.40∅10.90\n15.80\n12.70\n25.40Material\nContact Pin: Brass;Au 3µ" min., over Ni 50µ"min.,\nover Cu 50µ" min.\nInsulator: Teflon\nBody: Brass;Ni 100µ"min.,over Cu 50µ" min. plated\nShell: Brass; Ni 100µ"min.,over Cu 50µ" min. plate\nBarrel: Brass;Ni 100µ"min.,over Cu 50µ" min. plate\nRetainer Ring: SU304\nGasket: Silicone Rubber (red)\nFerrule: Brass;Ni 100µ"min.,over Cu 50µ" min. plate\n'}]
+!==============================================================================!
+### Component Summary for RFP-NNS-C1N558-NL5
+
+**Component Type:** RF Connector  
+**Description:** The RFP-NNS-C1N558-NL5 is an N Series Straight Crimp Plug designed for use with LMR400 and Belden 9913 cables. It is a high-quality RF connector that facilitates reliable connections in radio frequency applications.
+
+#### Key Specifications:
+- **Voltage Ratings:** Not specified in the provided text.
+- **Current Ratings:** Not specified in the provided text.
+- **Power Consumption:** Not applicable for connectors.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Not specified in the provided text.
+- **Special Features or Notes:** 
+  - RoHS compliant
+  - Designed for crimping onto specific cable types (LMR400, Belden 9913)
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Materials:
+- **Contact Pin:** Brass with a minimum of 3µ" gold plating over 50µ" nickel and 50µ" copper.
+- **Insulator:** Teflon.
+- **Body:** Brass with a minimum of 100µ" nickel plating over 50µ" copper.
+- **Shell:** Brass with a minimum of 100µ" nickel plating over 50µ" copper.
+- **Barrel:** Brass with a minimum of 100µ" nickel plating over 50µ" copper.
+- **Retainer Ring:** SU304 stainless steel.
+- **Gasket:** Silicone Rubber (red).
+- **Ferrule:** Brass with a minimum of 100µ" nickel plating over 50µ" copper.
+
+### Typical Applications:
+The RFP-NNS-C1N558-NL5 RF connector is typically used in applications that require reliable RF signal transmission, such as:
+- Telecommunications
+- Wireless communication systems
+- Antenna connections
+- RF test equipment
+- Broadcast and cable television systems
+
+This connector is essential for ensuring low-loss connections in high-frequency applications, making it suitable for both commercial and industrial uses.

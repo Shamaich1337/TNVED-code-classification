@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PJ-202B production of CUI INCORPORATED from the text:date04/21/2016\npage\n1 of 3\ncui.comMODEL :  PJ-202B │ DESCRIPTION:  DC POWER JACK\nFEATURES\n• 2.5 mm center pin\n• 2.5 A rating\n• right-angle orientation\n• through hole\n• kinked pins\nSPECIFICATIONS\nparameter conditions/description min typ max units\nrated input voltage 24 Vdc\nrated input current 2.5 A\ncontact resistance1 between terminal and mating plug\nbetween terminal in a closed circuit50\n30mΩ\nmΩ\ninsulation resistance at 500 Vdc 100 MΩ\nvoltage withstand at 50/60Hz for 1 minute 500 Vac\ninsertion/withdrawal force 0.3 3 kg\nterminal strength any direction for 10 seconds 500 g\noperating temperature -25 85 °C\nlife 5,000 cycles\nflammability rating UL94V-0\nRoHS 2011/65/EU\nNote: 1.  When measured at a current of less than 100 mA/1 kHz\nSOLDERABILITY\nparameter conditions/description min typ max units\nwave soldering dipped in solder pot for 5 ±0.5 seconds 255 260 265 °CRoHSAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\ncui.comCUI Inc │ MODEL : PJ-202B │ DESCRIPTION: DC POWER JACK date  04/21/2016 │ page  2 of 3\n0.123.0\n0.190.42 10.7\n4.73.00 .123.00 .12 0.123.0\n10.7 0.424.70 .193.50 .1414.4 0.57\n0.14 3.50\n(2 PLCS)2.50 .101.50 .06\n31\nPCB LAYOU T3 2\n1.00X3.50\nTOP VIE W1 2\n1.00X3.00\n(2 PLCS)\n3\n219.0\n6.500 .2611.0\n2.500 .100.43\n0.260.35\n6.50\n3.000 .12MECHANICAL DRAWING\nMATERIAL PLATING\ncenter pin copper nickel\nterminal 1 brass tin\nterminal 2 copper alloy tin\nterminal 3 brass tin\nplastic PBTunits: mm[inches]\ntolerance:\nX.X ±0.2mm\nX.XX ±0.1mm\nX.XXX ±0.05mm\nNote: 1. All specifications measured at 10~35°C, humidity at 45~85%, under standard atmospheric pressure, unless otherwise noted.SCHEMATIC\nModel PJ-202B\nCenter Pin Ø2.5 mmMATING PLUG\nJack Insertion Depth: 9.0 mmAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\nCUI Inc │ MODEL : PJ-202B │ DESCRIPTION: DC POWER JACK date  04/21/2016 │ page  3 of 3\nCUI offers a one (1) year limited warranty.  Complete warranty information is listed on our website.\nCUI reserves the right to make changes to the product at any time without notice.  Information provided by CUI is believed to be accurate and reliable.  However, no responsibility is \nassumed by CUI for its use, nor for any infringements of patents or other rights of third parties which may result from its use.\nCUI products are not authorized or warranted for use as critical components in equipment that requires an extremely high level of reliability.  A critical component is any component of a \nlife support device or system whose failure to perform can be reasonably expected to cause the failure of the life support device or system, or to affect its safet y or effectiveness.  \nHeadquarters\n20050 SW 112th Ave.\nTualatin, OR 97062\n800.275.4899Fax 503.612.2383\ncui.com\ntechsupport@cui.com\nrev. description date\n1.0 initial release 11/17/2005\n1.01 applied new spec template 10/25/2013\n1.02 increased voltage rating 04/21/2016\nThe revision history provided is for informational purposes only and is believed to be accurate.REVISION HISTORYAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n CUI Devices:   \n\xa0 PJ-202B\n'}]
+!==============================================================================!
+### Component Summary: PJ-202B DC Power Jack
+
+**Manufacturer:** CUI Incorporated  
+**Date:** 04/21/2016  
+**Description:** DC Power Jack
+
+#### Key Specifications:
+- **Voltage Ratings:** 
+  - Rated Input Voltage: 24 Vdc
+- **Current Ratings:** 
+  - Rated Input Current: 2.5 A
+- **Power Consumption:** 
+  - Not explicitly stated; however, the power can be calculated as \( P = V \times I = 24V \times 2.5A = 60W \).
+- **Operating Temperature Range:** 
+  - -25°C to 85°C
+- **Package Type:** 
+  - Through-hole, right-angle orientation
+- **Special Features/Notes:** 
+  - 2.5 mm center pin
+  - Kinked pins for secure mounting
+  - Life expectancy of 5,000 cycles
+  - Flammability rating: UL94V-0
+  - RoHS compliant (2011/65/EU)
+- **Moisture Sensitive Level (MSL):** 
+  - Not specified in the provided data.
+
+#### Description:
+The PJ-202B is a DC power jack designed for connecting power supplies to electronic devices. It features a 2.5 mm center pin and is rated for a maximum input voltage of 24 Vdc and a current of 2.5 A. The jack is designed with a right-angle orientation and through-hole mounting, making it suitable for various PCB layouts. The kinked pins provide additional mechanical stability during installation.
+
+#### Typical Applications:
+The PJ-202B DC power jack is commonly used in:
+- **Power Management:** Connecting external power supplies to devices such as consumer electronics, industrial equipment, and battery-operated devices.
+- **Signal Processing:** Providing power to signal processing circuits in audio and video equipment.
+- **Data Storage:** Powering devices that require stable DC input for operation, such as external hard drives and data acquisition systems.
+
+This component is ideal for applications where a reliable and secure power connection is necessary, particularly in environments with varying temperatures and mechanical stresses.

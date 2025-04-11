@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CHK900HC5FW5S2L production of CHEEMI TECH from the text:CheemiTechnologyCo.,Ltd\nCheemiTechnologyCo.,Ltd\nTel:025-85996365E-mail:info@cheemi-tech.com www.cheemi-tech.com\nAdd:N22,Xianlongwan,XianyinSouthRoad,QixiaDistrict,Nanjing-China.1Electricaldata：（Ta=25°C，Vc=+5.0VDC）\nParameter\nRefCHK100\nHC5FW\n5S2LCHK200\nHC5FW5\nS2LCHK300\nHC5FW5\nS2LCHK400\nHC5FW5\nS2LCHK500\nHC5FW5\nS2LCHK600\nHC5FW5\nS2LCHK700\nHC5FW5\nS2LCHK800\nHC5FW5\nS2LCHK900\nHC5FW\n5S2L\nRatedinputIpn(A) 100 200 300 400 500 600 700 800 900\nMeasuringrangeIp(A)0～±1000～±2000～±3000～±4000～±5000～±6000～±7000～±8000～±900\nRatedmeasurement\noutputVout(V)Vc/5*(VO+2.0/IpN*Ip）\nSupplyvoltageVc(V) +5.0±5%\nCurrentconsumption\nIc(mA)≤12\nLoadresistanceRL(Ω) ≥3KΩ\nCapacitiveloadCL ≤10nF\nOffsetvoltageVOE(mV)(TA=25℃,UC=+5V) <±5.0\nResidualmagneticoffset\nvoltageVOM(mV)(Testzeropointafteradding±IPN,25℃,UC=+5V)<±5.0\nZerovoltagetemperature\ncoefficientTCVOE(Mv/K)(-40℃~125℃) ≤±0.08\nOutputvoltage\ntemperaturecoefficient\nTCVOUT(%/K)(-40℃~125℃) ≤±0.05DATASHEET\nHallEffectCurrentSensor\nP/N:CHK-HC5FW5S2L IPN=100-900A\nFeature\n●Open-loop ●Supplyvoltage:DC+5.0V\n●Capablemeasurementofcurrents:DC,AC,pulsewithgalvanicisolationbetweenprimarycircuitand\nsecondarycircuit.\n●InternalcircuitadoptsASICpackagingtechnologyproducts\nAdvantages\n●Goodaccuracyforhighandlowcurrentrange\n●Goodlinearity\n●Lowthermaloffsetdrift\n●Lowthermalsensitivitydrift\nApplications\n●EVandutilityvehicle\n●Batterypackmonitoring\n●HybirdVehicles\n●UninterruptiblePowerSupplies(UPS)\n●Inverterapplications\n\nCheemiTechnologyCo.,Ltd\nCheemiTechnologyCo.,Ltd\nTel:025-85996365E-mail:info@cheemi-tech.com www.cheemi-tech.com\nAdd:N22,Xianlongwan,XianyinSouthRoad,QixiaDistrict,Nanjing-China.2AccuracyX(%) (TA=25℃,VC=+5V,IPN) ≤±0.5%\nLinearityεL(%) (TA=25℃,VC=+5V,IPN) ≤±1%\nOutputvoltagenoiseVno\np-p(mV)(DC…1MHz) ≤10\nBandwidthBW(KHZ)@-3DB DC...50KHZ\nResponsetimeTr(µs)(di/dt=100A/us) ≤6us\nGeneraldata：\nParameter Value\nOperatingtemperatureTA(°C) -40~+125\nStoragetemperatureTS(°C) -55~+125\nMassM(g) 25\nStandardsHighandlowtemperaturesmeetthetestingrequirementsofEN50178standard9.4.2.1.\nDampheatmeetsthetestingrequirementsofEN50178standard9.4.2.2.\nVibrationmeetsthetestingrequirementsofEN50178standard9.4.3.2.\nElectromagneticcompatibilityinaccordancewithEN50178standard9.4.6.1and9.4.6.2\ntestingrequirements.\nDimensions(mm):\nConnection\nGeneraltolerance\nGeneraltolerance:<±0.5mm\nRemarks：\n\uf0d8Whenthecurrenttobemeasuredflowsthroughtheinputpinofthesensor,thecurrentmagnitudecanbemeasuredatthe\noutputend.(Note:Incorrectwiringmaycausesensordamage)Customdesignisavailableforthedifferentratedinputcurrent\nandtheoutputvoltage.\n\uf0d8Thedynamicperformance(di/dtandresponsetime)isthebestwhenthebusbarisfullyfilledwithprimaryperforation.The\nprimaryconductorshouldbe<100°C.\n\uf0d8Sensorswithdifferentratedinputcurrentsandoutputvoltagescanbecustomizedaccordingtouserneeds.\nWARNING:Incorrectwiringmaycausedamagetothesensor.\n'}]
+!==============================================================================!
+### Component Summary: CHK900HC5FW5S2L
+
+**Manufacturer:** Cheemi Technology Co., Ltd  
+**Product Code:** CHK900HC5FW5S2L  
+**Type:** Hall Effect Current Sensor
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Supply Voltage (Vc): +5.0 ± 5%
+  
+- **Current Ratings:**
+  - Rated Input Current (IpN): 900 A
+  - Measuring Range (Ip): 0 to ±9000 A
+
+- **Power Consumption:**
+  - Current Consumption (Ic): ≤ 12 mA
+
+- **Operating Temperature Range:**
+  - Operating Temperature (TA): -40°C to +125°C
+  - Storage Temperature (TS): -55°C to +125°C
+
+- **Package Type:**
+  - Not specified in the provided data, but typically in a compact form factor suitable for PCB mounting.
+
+- **Special Features or Notes:**
+  - Open-loop design
+  - Capable of measuring DC, AC, and pulse currents with galvanic isolation between primary and secondary circuits.
+  - Utilizes ASIC packaging technology for internal circuits.
+  - Good accuracy for both high and low current ranges.
+  - Low thermal offset drift and thermal sensitivity drift.
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided data.
+
+#### Description:
+The CHK900HC5FW5S2L is a Hall Effect current sensor designed for high-precision current measurement in various applications. It operates on a supply voltage of +5V and can measure currents up to 900 A with a high degree of accuracy and linearity. The sensor provides galvanic isolation, making it suitable for applications where electrical isolation is critical.
+
+#### Typical Applications:
+- **Electric Vehicles (EVs) and Utility Vehicles:** Monitoring battery currents and overall power management.
+- **Battery Pack Monitoring:** Ensuring safe and efficient operation of battery systems.
+- **Hybrid Vehicles:** Current measurement for hybrid power systems.
+- **Uninterruptible Power Supplies (UPS):** Monitoring input and output currents for reliability.
+- **Inverter Applications:** Current sensing in power conversion systems.
+
+This sensor is particularly useful in environments where high accuracy and reliability are required, such as in automotive and industrial applications. Its robust design allows it to function effectively across a wide temperature range, making it suitable for various demanding conditions.

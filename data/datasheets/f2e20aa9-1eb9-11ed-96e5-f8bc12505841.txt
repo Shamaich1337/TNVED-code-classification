@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SHF-015-SS94-95/VNJ-M025 production of E-TEC from the text: SHEET UNITmm\nFreeSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO. REV.GENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±REV. DESCRIPTION DATE DRAWN\n  E-tec 2022 © - all rights reserved   www.e-tec.asia\n0.25Cherry\nKent\nSH25.07.2022\n25.07.202225.07.2022SHF-015-SS94/VN-M025\nSHF-015-SS94-55/VNX-M0251/1\nAA New 25.07.2022 Cherry\n30.80\n24.99\n16.30\n7.90 ±0.13 12.55\n0.64Order Code\nSHF-015-SS94-xx/VNX-M025\n95 = Sn / Au flash (Standard )\n97 = Sn / Au 15µ"\n98 = Sn / Au 30µ"\n4.80 ±0.10 7.00 ±0.104.75 ±0.10 4.20 ±0.20Jack Screwblank =  No Jack Screw\nJ = Jack Screw\nRecommended PCB Layout Top View3.080.252.2924.99 ±0.10\nPCB Edge15×∅1.192x∅3.20\n2.002.00Material\nContact: Brass\nPlating: Sn on solder , Au on contact area\n                    entire contact Ni underplated\nInsulator: PBT (blue)  UL 94V-0\nShell: SPCC; Ni plated\nBoardlock: Steel; Sn plated\nRivet: Steel; Ni plated\nOperating temperature: -25°C to +85°C\nMechanical Requirements\nInsertion force: 44.5N max.\nExtraction force: 9.8N min.RoHS\ncompliant\nSpecifications\nElectrical\nCurrent rating: 5A/25°C  3A/70°C\nInsulation resistance : 1000MΩ min. @500V DC\nContact resistance: 20mΩ max.\nVoltage rating: 25V DC\nWithstanding voltage: 1000V AC\nHigh Density D-Sub 90° Female\n"THT" Type - Ultra Slim Profile\n15-Contact - SS94 Series - Blue\n1st Pin-Row to PCB Edge 3.08mm#4-40 UNC3.80 ±0.38\n#4-40 UNC1\n6\n11 15105\n2.294.8014.60\n5.80\n3.085.063.80 3.186.3010.60\n1\n6\n11 15105PlatingOption\n5.06\n'}]
+!==============================================================================!
+### Component Summary for SHF-015-SS94-95/VNJ-M025
+
+#### Key Specifications:
+- **Voltage Rating:** 25V DC
+- **Current Rating:** 
+  - 5A at 25°C
+  - 3A at 70°C
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range:** -25°C to +85°C
+- **Package Type:** High Density D-Sub 90° Female, THT (Through-Hole Technology) Type
+- **Special Features/Notes:**
+  - Ultra Slim Profile
+  - 15-Contact configuration
+  - RoHS compliant
+  - Insulation resistance: 1000MΩ min. @ 500V DC
+  - Contact resistance: 20mΩ max.
+  - Withstanding voltage: 1000V AC
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Component Description:
+The SHF-015-SS94-95/VNJ-M025 is a high-density D-sub connector designed for through-hole mounting. It features a female connector with 15 contacts, making it suitable for various electronic applications. The connector is characterized by its ultra-slim profile, which allows for space-saving designs in electronic assemblies.
+
+#### Typical Applications:
+This component is typically used in applications requiring reliable electrical connections in a compact form factor. Common applications include:
+- **Data Communication:** Used in computer and networking equipment for data transfer.
+- **Industrial Automation:** Employed in control systems and machinery for signal transmission.
+- **Consumer Electronics:** Utilized in devices where space is limited but reliable connections are necessary.
+- **Telecommunications:** Used in equipment that requires robust and secure connections.
+
+Overall, the SHF-015-SS94-95/VNJ-M025 connector is ideal for applications where space efficiency and electrical performance are critical.

@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TX-H1935SW17C-2860V36-03H95 production of GUANGZHOU TIANXIN PHOTOELECTRIC CO., LTD from the text:PartNo. TX-H1935SW17C-2860V36-03H95 SpecNo.WKF-BF0376Page1of10\nwww.txled.cn Version:2.2\nTX-H1935SW17C-2860V36-03H95\nPRODUCTSPECIFICATION\nFeatures:\n◆ExcellenttransitingheatfromLEDchipoperatingunder1600mA.\n◆Provideuniformcrossdistributionofpositivewhiteandwarmwhitedualcolorscheme,mixedpure.\n◆Highluminousoutput.\n◆NoUV.\n◆Encapsulatedmaterialsareenvironmentallycertifiedandmeetenvironmentalrequirements.\nChipMaterial: EmittingColor: Applications:\n◆GaInN ◆White ◆Commerciallighting\n◆Warmwhite ◆GeneralLighting\nPartNo. TX-H1935SW17C-2860V36-03H95 SpecNo.WKF-BF0376Page2of10\nwww.txled.cn Version:2.2\nPackageDimensions:\nI：Warm white ；II：White1919\n1Ф16.8\n1.6±0.1010.8 TX-H19351209-32\n0.8R2\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesunlessotherwisementionedare±0.25mm.\nCodeFormats:\nTX-H1935SW17C-2860V36-03H95\nTX—H1935SW17C—2860V36—03H95\nTYANSHINE—highdensityserieswatt\ntypperformanceLEStexture— CCTVOLTs—BOMRa\nPartNo. TX-H1935SW17C-2860V36-03H95 SpecNo.WKF-BF0376Page3of10\nwww.txled.cn Version:2.2\nAbsoluteMaximumRatings\nParameter Symbol Ratings Unit\nForwardCurrent IF 1600 mA\nReverseVoltage VRNotdesignedforreverse\noperationV\nPowerDissipation PDW 57\nW S 57\nS+W 57\nJunctionTemperature TjW 135\n℃\nS 135\nCaseTemperature(C) Tc 85 ℃\nElectrostaticDischargeThreshold(ESD) ESD 2000 V\nStorageTemperature Tstg -30~+100\n℃\nOperationTemperature Topr -30~+80\nNotes:\n1.Specificationsaresubjecttochangewithoutnotice.\n2.Thedataonthisspecificationisforreferenceonlyandtheactualdataisinaccordancewiththe\nacknowledgment.\n3.PrecautionsforESD:\nSTATICSHIELDElectricityandsurgedamagestheLED.Itisrecommendedtouseawristbandor\nanti-electrostaticglovewhenhandlingtheLED.Alldevices,equipmentandmachinerymustbeproperly\ngrounded.\nPartNo. TX-H1935SW17C-2860V36-03H95 SpecNo.WKF-BF0376Page4of10\nwww.txled.cn Version:2.2\nElectricalOpticalCharacteristics(Tc=25°C)\nParameterSymbolConditionEmitting\ncolorMin.Typ.Max.Units\nLuminousFlux φv\nIf=1050mAS — 2600 —\nlm\nW — 3400 —\nForwardVoltage VfS 33 35 37\nV\nW 33 35 37\nCorrelatedColour\nTemperatureCCTS — 2800 —\nK\nW — 6000 —\nViewingAngleat50﹪IV 2θ1/2S — 115 —\nDeg\nW — 115 —\nReverseCurrent IR — — — — — µA\nThermalResistance\nJunctiontoCaseRθJ-C\nIf=1050mA— — 0.5 — K/W\nTemperatureCoefficient\nofVoltageV△F/TS — -13.2 —\nmV/℃\nW — -13.2 —\nColorRenderingIndex RaS — 95 ——\nW — 95 —\nNotes:\n1.LuminousintensityismeasuredwithalightsensorandfiltercombinationthatapproximatestheCIE\neye-responsecurve.\n2.θ1/2istheoff-axisangleatwhichtheluminousintensityishalftheaxialluminousintensity.\n3.Luminousfluxmeasurementtolerance:±15%.\n4.Forwardvoltagemeasurementtolerance:±3%.\n5.Rameasurementtolerance:±2.\nPartNo. TX-H1935SW17C-2860V36-03H95 SpecNo.WKF-BF0376Page5of10\nwww.txled.cn Version:2.2\nTypicalElectrical/OpticalCharacteristicsCurves\n(25℃AmbientTemperatureUnlessOtherwiseNoted)\n800 1000 1200 1400 16003233343536Forward Current VS. Relative Forward VoltageForward  Voltage  VF  (V)Warm White\nForward Current IF (mA)60037\nWhite\n0Warm White\nWhite\nForward Current IF (mA)Forward Current VS. Relative Luminous FluxRelative Luminous Flux (%)\n4080120160200\n600 800 1000 1200 1400 1600\nPartNo. TX-H1935SW17C-2860V36-03H95 SpecNo.WKF-BF0376Page6of10\nwww.txled.cn Version:2.2\n25 45 65 85 105 125313233343536\nWarm WhiteTemperature VS. Relative Luminous FLux (IF=1050mA)\nTc  (℃)Forward  Voltage  Vf   (V)\nWhite\n020406080100\nWarm White\nWhiteTemperature VS. Forward Voltage  (IF=1050mA)\nTc  (℃)Relative Luminous Flux  (%)\n25 45 65 85 105 125\nPartNo. TX-H1935SW17C-2860V36-03H95 SpecNo.WKF-BF0376Page7of10\nwww.txled.cn Version:2.2\n600-0.016-0.012-0.008-0.00400.0040.0080.0120.016\nForward Current (mA)Warm white(x)\nWarm white(y)\nWhite(x)\nWhite(y)Relative Chromaticity VS. Current\n800 1000 1200 1400 1600\n25-0.08-0.06-0.04-0.0200.020.040.060.08\nTc (℃)Warm white(x)\nWarm white(y)\nWhite(x)\nWhite(y)Relative Chromaticity VS. Temperature (IF=1050mA)\n45 65 85 105\nPartNo. TX-H1935SW17C-2860V36-03H95 SpecNo.WKF-BF0376Page8of10\nwww.txled.cn Version:2.2\n380.0 420.0 460.0 500.0 540.0 580.0 620.0 660.0 700.0 740.0 780.00.0000.1000.2000.3000.4000.5000.6000.7000.8000.9001.0001.100\nWave length (nm)Spectrum\nWhiteWarm whiteRelative Spectral Distribution\nRelative intensity(LOP@ MAX=1)1.00.80.60.40.2 0.20.40.60.81.0-90-60-300\n30\n60\n90Beam Patter\nNotes:\n1.2θ1/2istheoffaxisanglefromlampcenterlinewheretheluminousintensityis1/2ofthepeakvalue.\n2.Viewangletoleranceis±5°.\nPartNo. TX-H1935SW17C-2860V36-03H95 SpecNo.WKF-BF0376Page9of10\nwww.txled.cn Version:2.2\nChromaticityCoordinates（Condition：IF=1050mA，Tc=25℃）\n5C2B2C\n2A\n6C5B3000K2700K\n2780K2900K\n6000K5750K5600K\n6300K\n0.310.330.350.370.390.410.430.450.470.493-Step\n5-StepBinning\n0.43\n0.41\n0.39\n0.37\n0.35\n0.33\n0.310.45\nNotes:\n1.chromaticity(x,y)measurementstolerance:±0.005.\nReliabilityTest\nTestItem TestCondition\nContinuousOperationTest IF=1050mATa=25℃×1000hrs\nLowTemperatureStorageTest -30℃×1000hours\nHighTemperatureStorageTest 100℃×1000hours\nMoisture-proofTest 85℃,85%RHfor500hours\nThermalShockTest -40℃×15minutes–125℃×15minutes,100cycle\nPartNo. TX-H1935SW17C-2860V36-03H95 SpecNo.WKF-BF0376Page10of10\nwww.txled.cn Version:2.2\nDimensionsForCannulationAndPackaging\nQuantity:36PCS\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesare±2.0mmunlessotherwisenoted.\n3.Theproductsarepackagedtogetherwithsilicagel,Transport,nottotheweightofweldingLED\nlight-emittingarea,AsaresultoftheweightofLEDlight-emittingzoneinthequalityof,Irresponsibleofthe\nCompany.\n'}]
+!==============================================================================!
+### Component Summary: TX-H1935SW17C-2860V36-03H95
+
+**Manufacturer:** Guangzhou Tianxin Photoelectric Co., Ltd  
+**Product Code:** TX-H1935SW17C-2860V36-03H95  
+**Version:** 2.2  
+**Page:** 1 of 10  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (Vf): 33V (typical), 35V (max), 37V (max)
+  
+- **Current Ratings:**
+  - Forward Current (IF): 1600 mA (maximum)
+  
+- **Power Consumption:**
+  - Power Dissipation (PD): 57 W
+  
+- **Operating Temperature Range:**
+  - Storage Temperature (Tstg): -30°C to +100°C
+  - Operating Temperature (Topr): -30°C to +80°C
+  - Junction Temperature (Tj): 135°C (max)
+  
+- **Package Type:**
+  - Dimensions: 19mm x 19mm x 1.6mm (L x W x H)
+  
+- **Special Features:**
+  - High luminous output with no UV emissions.
+  - Environmentally certified encapsulated materials.
+  - Excellent heat dissipation at 1600 mA.
+  
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Description:
+The TX-H1935SW17C-2860V36-03H95 is a high-power LED component designed for commercial and general lighting applications. It utilizes GaInN (Gallium Indium Nitride) as the chip material, emitting both warm white and white light. The LED is characterized by its high luminous output and efficient heat management, making it suitable for various lighting solutions.
+
+#### Typical Applications:
+- **Commercial Lighting:** Ideal for use in retail spaces, offices, and public buildings where high-quality illumination is required.
+- **General Lighting:** Suitable for residential lighting, including ceiling fixtures and lamps.
+- **Architectural Lighting:** Can be used in decorative lighting applications to enhance aesthetics.
+- **CCTV and Security Lighting:** Provides effective illumination for surveillance systems.
+
+This LED component is particularly advantageous in applications where energy efficiency and high luminous efficacy are critical, while also ensuring compliance with environmental standards.

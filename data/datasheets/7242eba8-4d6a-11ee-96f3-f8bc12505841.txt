@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of UL1007LVDC 16 AWG(1*1,32) dark blue production of MINZAN from the text:广东民赞实业集团有限公司\nGuangdongMinzanIndustrialGroupCo.,LTD\n规格承认书\nSPECIFICATIONFORAPPROVAL\n品\nST名\nYL/\nE规格\nS&SI:\nZ\n客户名称: 客户料号:\nCUSTOMER CUSTOMERP/N\n设计卡号: 承认书号:\nEDNO. APPROVALNO\n制\nDA定\nTE日期: 版\nED本\nIT版\nIO次\nN:\n民赞签章栏:\nMINZANAPPROVALCOLUMMN\n制定 审核 核准\n张营营\n广东民赞实业集团有限公司GuangdongMinzanIndustrialGroupCo.,LTD\n地址：东莞市东城街道温塘社区温增路1150号2FB区\n电话：4008626399 传真：0769-85653099\n网址：www.mzxl98.com E-mail:minzancable@163.com\n表单编号：MZ-2022-107客户确认栏:\nCUSTOMERAPPROVALCOLUMMN\n确认 核准S-202210106UL1007LVDC16AWG(1*1.32)\n2022-10-29 A/0\n广东民赞实业集团有限公司\nGuangdongMinzanIndustrialGroupCo.,LTD\n规格承认书\nSPECIFICATIONFORAPPROVAL\n规格型号\nSPECNO. UL1007LVDC16AWG(1*1.32)\n额定温度\nRATEDTEMPERATURE 80℃额定电压\nRATEDVOLTAGE50VDC/50VAC\n环保标准\nENVIRONMENTAL\nSTANDARDSROHS参照标准\nREFERENCESTANDARDUL758-2019\nCONSTRUCTION\nFIGURE\n结构简图INSULATION绝缘\nTECHNICALPARAMETERS技术参数\nAWG\n线号数mm2\n平方数(NO./mm)(±0.008)\n线数/线径Dia.(mm)\n导体外径Nom.Thick.(mm)\n平均厚度Dia.(mm)\n成品外径COND.RESISTANCE\n导体电阻(Ω/KM20℃)RATEDCURRENT\n安全电流(A/30℃)DIELECTRICTEST\n耐压测试(ACV/min)\n300.0557/0.10TS0.30(Ref)0.381.1±0.1 381 1.7 2000\n280.0897/0.127TS0.38(Ref)0.381.2±0.1 239 2.3 2000\n260.147/0.16TS0.48(Ref)0.381.3±0.1 150 3.0 2000\n240.2211/0.16TS0.61(Ref)0.381.4±0.1 94.2 3.9 2000\n220.3417/0.16TS0.76(Ref)0.381.6±0.1 59.4 5.6 2000\n200.5221/0.178TS0.94(Ref)0.381.8±0.1 36.7 7.5 2000\n180.8534/0.178TS1.18(Ref)0.382.1±0.1 23.2 12.0 2000\n161.3226/0.254TS1.50(Ref)0.382.4±0.1 14.6 17 2000\nCONDUCTOR\n导体MATERIAL 材质 TINNEDSTRANDEDCOPPER(镀锡铜)\nINSULATION\n绝缘MATERIAL材质 PVC(RoHS)\nCOLOR\n颜色BLACK.BROWN.RED.ORANGE.YELLOW.GREEN.BLUE.PURPLE.GREY.WHITE.PINK.YELLOWNOTEGREEN.\nYELLOWROLLINGGREEN(黑.棕.红.橙.黄.绿.蓝.紫.灰.白.粉红.黄注绿.黄滚绿)\nPHYSICAL\nCHARACTERS\n物性AGINGTEST老化测试TENSILESTRENGTH(MIN)\n抗张强度(最小)ELONGATION(MIN)\n伸长率(最小)\nINSULATION\n绝缘UNAGED老化前 10.3MPa 100%\nAGING老化后\n(113±2℃*168hr)70% 65%\nREMARK\n备注1\nNEWMARKING\n印字\nREMARK\n备注2\n表单编号：MZ-2022-107CONDUCTOR导体\n'}]
+!==============================================================================!
+### Component Summary: UL1007LVDC 16 AWG (1*1.32) Dark Blue
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - Rated Voltage: 50V DC / 50V AC
+- **Current Ratings**: 
+  - Rated Current: Varies by conductor size; for 16 AWG, the safe current is approximately 17A at 30°C.
+- **Power Consumption**: 
+  - Not explicitly stated; power consumption can be derived from current and voltage ratings.
+- **Operating Temperature Range**: 
+  - Rated Temperature: Up to 80°C.
+- **Package Type**: 
+  - Not specified in the provided text; typically, this would refer to the physical form of the wire (e.g., spool, reel).
+- **Special Features or Notes**: 
+  - Insulation Material: PVC (RoHS compliant).
+  - Conductor Material: Tinned stranded copper.
+  - Color: Dark Blue.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: 
+  - Not specified in the provided text.
+
+#### Description:
+The UL1007LVDC 16 AWG (1*1.32) is a type of electrical wire designed for low-voltage applications. It features a stranded copper conductor that is tinned for enhanced corrosion resistance, and it is insulated with PVC material. This wire is compliant with RoHS environmental standards, making it suitable for use in applications where environmental regulations are a concern.
+
+#### Typical Applications:
+This wire is commonly used in various electrical and electronic applications, including:
+- **Power Management**: Suitable for connecting power supplies to devices in low-voltage systems.
+- **Signal Processing**: Can be used in signal transmission applications where low voltage is required.
+- **Consumer Electronics**: Often found in wiring for appliances, computers, and other electronic devices.
+- **Automotive Applications**: Used in automotive wiring harnesses for low-voltage connections.
+
+Overall, the UL1007LVDC 16 AWG wire is a versatile component ideal for a range of low-voltage electrical applications, providing reliable performance and compliance with safety standards.

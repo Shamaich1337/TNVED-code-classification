@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ASC800N1200HPD production of AST SHENZHEN TECHNOLOGY CO., LTD from the text: \n                                             ASC 800N1200HPD \nDatasheet V1. 3 \n1 \n \n     1200V SiC MOSFET Module  \n \n                                       \n• Cu Baseplate and Aluminum  Nitride Insulator  \n• Isolated voltage to DC 42 00 V  \n \nSystem Benefits  • Enables Compact, Lightweight, Efficient Systems  \n• Harsh Outdoor Environment Installation  \n• Mitigates Over -voltage Protection  \n• Reduced Thermal Requirements  \n• Reduced System Cost  \nPackage 1 54.5mm x 126.5 mm x 32mm \nPart Number  Package  Marking  \nASC 800N1200HPD  HPD  ASC 800N1200HPD  \n \n \n \nAbsolute Maximum Ratings  (TC = 25℃    unless otherwise specified ) \nSymbol  Parameter  Value  Unit  \nVDS Drain -Source Voltage  1200  V \nVGS Gate -Source Voltage (dynamic)  -10/+25 V \nID Drain Current   800 A \nIDM Drain Current (pulsed)  1600 A \nPD Power Dissipation T C = 25° C  1250 W \nTC,Tstg Operating and Storage Temperature Range  -40 to +150 ℃ \nTJ Junction Temperature  175 ℃ \nLStray Stray Inductance  8.5 nH \nVISOL Isolation  test voltage (DC 2mA,t=10s) 4.2 kV \n \n  Features  \n• High Temperature, Humidity, and Bias Operation  \n• Ultra Low Loss  <10nH  \n• High -Frequency Operation  \n• Zero Turn -off Tail Current from MOSFET  \n• Normally -off, Fail -safe Device Operation  \n• Ease of Paralleling  \n \n                                             ASC 800N1200HPD \nDatasheet V1. 3 \n2 \n \nElectrical Characteristic s (TC = 25℃  unless otherwise specified)  \nSymbol  Parameter  Test Conditions  Min.  Typ.  Max.  Unit  \nBV DS Drain -source BreakdownVoltage  VGS=0V 1200    V \nIDSS Zero Gate Voltage Drain Current  VDS =1200V , VGS =0V   800 uA \nIGSS Gate -body Leakage Current  VGS=20V,V DS=0V   8 uA \nVGS(th) Gate Threshold Voltage  VDS= V GS, ID=80mA 2.0  4.0 V \nRDS(on)  Static Drain -source On Resistance  VGS=20V, I D=400A  2.2 2.7 mΩ \nRG Gate Resistance  VGS=0V,f=1MHz   3.0  \uf057 \nCiss Input Capacitance  \nVDS=800V， f=100kHZ,  \nVAC=25mV   51  \nnF \nCoss Output Capacitance   1.97  \nCrss Reverse Transfer Capacitance   120  pF \nEon Turn -on energy loss per pulse  \n VDD=600V,V GS=-5/+20V \nID=400A,R G(ext=5\uf057) \nLoad=77uH,T J=25℃  19.3  mJ \nEoff Turn -off energy loss per pulse   18.1  mJ \nQGS Gate -Source Charge  \nVDD=1000V, V GS=-5/+20V \nID=600A,   537  \nnC QGD Gate -Drain Charge   548  \nQG Total Gate Charge   1666   \ntd（on） Turn -on delay time  VDD=600V,V GS=-5/+20V \nID=300A,R G(ext=5\uf057) \nLoad=77uH,T J=150℃  \n  76  \nnS tr Rise Time   69  \ntd(off)  Turn -off delay time   165  \ntf Fall Time   42  \nVsd Diode Forward voltage  If=400A, V GS=0   6 V \nTypical Performance -Reverse Diode(T J = 25 ℃ unless otherwise specified ) \nSymbol  Parameter  Test Conditions  Min.  Typ. Max.  Unit \nVFSD Forward Voltage   VGS =0V，IF =400A,  \nTJ =25℃   6 V \nIs Continuous Diode Forward Current  \nVGS =0V， TJ =25℃  400  A \nIspulse Pulsed body diode current   800  A \ntrr Reverse Recovery Time  VGS =-5V，IF =400A,  \nVR=800V ，di/dt= 7.2k A/μs  \n TJ =25℃  98  ns \nQrr Reverse Recovery Charge   613  nC \nIrrm Peak Reverse Recovery Current   104  A \nThermal Characteristics  \nSymbol  Parameter  Test Conditions  Min.  Typ. Max.  Unit \nR\uf071JC Thermal Resistance, Junction -to-Case   Tc=90℃，PD=150W    0.12 \uf0b0C/W  \nNTC -Thermistor   \nSymbol  Parameter  Test Conditions  Min.  Typ. Max.  Unit \nR25 Ratedresistance  Tc=25℃  5.00  k\uf057 \n∆R\uf02fR Deviation  of R100 TC = 100° C, R 100 = 477\uf057 -5  5 % \nB25/50 B-value R2 = R 25 exp [B 25/50(1/T 2 - 1/(298,15 K))]   3380   k \nB25/80 B-value  R2 = R 25 exp [B 25/80(1/T 2 - 1/(298,15 K))]   3468   k \nB25/100 B-value  R2 = R 25 exp [B 25/100(1/T 2 - 1/(298,15 K))]   3523   k \n \n                                             ASC 800N1200HPD \nDatasheet V1. 3 \n3 \n \n \nTypical Performance  \nFigure 1. Output Characteristics for Various T J                  Figure 2. Normalized On -Resistance vs. Temperature  \nFigure  3. Threshold Voltage vs. Temperature                    Figure  4. Transfer  Characteristic for Various  TJ \nFigure 5. Diode Characteristic at 25 ˚C                          Figure 6. Typical Gate Charge Characteristics  \n  \n \n \n \n \n \n \n  \nConditions:  \nVGS=V DS \nIDS=120mA  Conditions:  \nTp<300μs \nVGS=20V \n Tp<300μs \nVGS=20V  \nID=400A  \n \n\n \n                                             ASC 800N1200HPD \nDatasheet V1. 3 \n4 \n \nFigure 7. Typical Capacitances vs. Drain -Source Voltage        Figure 8. Inductive Switching Energy vs.Drain Current  \n \nFigure 9. Resistive Switching Time Description                Figure 10. Safe Operating Area  \n \n \n \n \n \n \n \n \n  \nTJ=25℃ \nVAC=25mV  \nf=100KHz  \n Conditions:  \nTJ =25℃ \nVDD=600V  \nRG(ext)=2.5Ω \nVgs=-5/20V  \nL=77μH \n \n \n                                             ASC 800N1200HPD \nDatasheet V1. 3 \n5 \n \n \nCircuit Diagram Headline  \n \n \n  \n\n \n                                             ASC 800N1200HPD \nDatasheet V1. 3 \n6 \n \nPackage Drawing:  \n \n \n \n \n  未标注线性公差按\nGB/1804 -2000c级执行  公差分段  0.5-3 3-6 6-30 30-120 120-400 \nc级 ±0.2 ±0.3 ±0.5 ±0.8 ±1.2 \n\n \n                                             ASC 800N1200HPD \nDatasheet V1. 3 \n7 \n \n \nRevision history  \nRevision Date of release  Description of changes  \nv1.0  2021-06-23  Target datasheet  \nv1.1 2022-11-09 Add Isolated voltage to DC 42 00 V  \nv1.2 2022-12-04 Add tolerance to drawing dimensions  \nv1.3 2022-12-07 Modify tolerance  \n   \n   \n \n'}]
+!==============================================================================!
+### Component Summary: ASC800N1200HPD
+
+**Description:**
+The ASC800N1200HPD is a 1200V Silicon Carbide (SiC) MOSFET module designed for high-performance power applications. It features a copper baseplate and aluminum nitride insulator, providing excellent thermal management and electrical isolation. This module is typically used in applications requiring high efficiency and compact design, such as power converters, inverters, and motor drives.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Drain-Source Voltage (VDS): 1200 V
+  - Gate-Source Voltage (VGS): -10/+25 V
+  - Isolation Test Voltage: 4200 V
+
+- **Current Ratings:**
+  - Continuous Drain Current (ID): 800 A
+  - Pulsed Drain Current (IDM): 1600 A
+
+- **Power Consumption:**
+  - Power Dissipation (PD) at TC = 25°C: 1250 W
+
+- **Operating Temperature Range:**
+  - Operating and Storage Temperature: -40 to +150 °C
+  - Junction Temperature (TJ): 175 °C
+
+- **Package Type:**
+  - Dimensions: 54.5 mm x 126.5 mm x 32 mm
+
+- **Special Features:**
+  - High temperature, humidity, and bias operation
+  - Ultra-low loss (<10 nH)
+  - High-frequency operation
+  - Zero turn-off tail current
+  - Normally-off, fail-safe device operation
+  - Ease of paralleling
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data, but typically assessed according to JEDEC J-STD-020E.
+
+**Typical Applications:**
+The ASC800N1200HPD is primarily used in:
+- Power management systems
+- Renewable energy systems (e.g., solar inverters)
+- Electric vehicle (EV) powertrains
+- Industrial motor drives
+- High-frequency switching applications
+
+This component is ideal for applications that require high efficiency, compactness, and the ability to operate in harsh environments, making it suitable for both commercial and industrial uses.

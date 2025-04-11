@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-CRF-103-A254/A production of DECIGN from the text:No. of Contacts Tolerance\n02 ±0.05\n03 - 06 ±0.10\n07 - 11 ±0.15\n12 - 15 ±0.20\n16 - 19 ±0.25\n20 - 23 ±0.30\n24 - 25 ±0.35Tolerance for Dimension "A"  AB\n02 2.54 5.05\n03 5.08 7.59\n04 7.62 10.13\n05 10.16 12.67\n06 12.70 15.21\n07 15.24 17.75\n08 17.78 20.29\n09 20.32 22.83\n10 22.86 25.37\n11 25.40 27.91\n12 27.94 30.45\n13 30.48 32.99\n14 33.02 35.53\n15 35.56 38.07\n16 38.10 40.61\n17 40.64 43.15\n18 43.18 45.69\n19 45.72 48.23\n20 48.26 50.77\n21 50.80 53.31\n22 53.34 55.85\n23 55.88 58.39\n24 58.42 60.93\n25 60.96 63.47No. of \nContactsDimension mmTP-\nTP-\nTP-TP-\nTP-TP-\nTP-TP-\n'}]
+!==============================================================================!
+### Component Summary for TP-CRF-103-A254/A
+
+#### Key Specifications:
+- **Voltage Ratings:** Not specified in the provided text.
+- **Current Ratings:** Not specified in the provided text.
+- **Power Consumption:** Not specified in the provided text.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Not specified in the provided text.
+- **Special Features or Notes:** The component appears to have a tolerance specification based on the number of contacts, which varies from ±0.05 mm to ±0.35 mm depending on the number of contacts.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The TP-CRF-103-A254/A is likely a type of connector or terminal block, given the context of the provided information. It features a series of contact configurations with specific tolerances for dimension "A," which suggests it is designed for precise applications where the spacing and alignment of contacts are critical.
+
+#### Typical Applications:
+This component is typically used in applications that require reliable electrical connections, such as:
+- **Signal Transmission:** In communication devices where multiple signals need to be routed.
+- **Power Distribution:** In power management systems where connections must handle varying loads.
+- **Data Interfaces:** In electronic devices that require multiple connections for data transfer.
+- **Industrial Equipment:** In machinery where robust and precise connections are necessary for operation.
+
+The detailed tolerances for dimensions indicate that this component is designed for applications where precision is essential, possibly in automated systems or high-density circuit boards.

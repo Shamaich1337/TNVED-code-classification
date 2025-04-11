@@ -1,0 +1,54 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SM-SM-A050-1000 production of AINFO from the text:DC-26.5GHzCableAssemblies\nP/N:SM-SM-A050-1000\nFreq.Range DC-26.5GHz\nInsertionLoss 2.56dBTyp.;2.82dBMax.\nInsertionLoss1 0.87dBTyp.;0.97dBMax.(DC-3GHz)\nInsertionLoss2 1.18dBTyp.;1.298dBMax.(DC-6GHz)\nInsertionLoss3 1.69dBTyp.;1.859dBMax.(DC-12GHz)\nInsertionLoss4 2.09dBTyp.;2.299dBMax.(DC-18GHz)\nVSWR 1.25:1Typ.;1.35:1Max.\nVSWR1 1.0:1Typ.;1.10:1Max.(DC-3GHz)\nVSWR2 1.05:1Typ.;1.15:1Max.(DC-6GHz)\nVSWR3 1.15:1Typ.;1.25:1Max.(DC-12GHz)\nVSWR4 1.15:1Typ.;1.25:1Max.(DC-18GHz)\nPhaseStability ±8deg\nPhaseStability1 ±2deg(DC-3GHz)\nPhaseStability2 ±4deg(DC-6GHz)\nPhaseStability3 ±6deg(DC-12GHz)\nPhaseStability4 ±7deg(DC-18GHz)\nAmplitudeStability ±0.30dB\nAmplitudeStability1 ±0.10dB(DC-3GHz)\nAmplitudeStability2 ±0.15dB(DC-6GHz)\nAmplitudeStability3 ±0.20dB(DC-12GHz)\nAmplitudeStability4 ±0.25dB(DC-18GHz)\nImpedance 50Ohm\nConnector SMA-Male/SMA-Male\nConnectorBodyMaterial PassivatedStainlessSteel\nOperatingTemp. -40~+85°C\nStorageTemp. -40~+85°C\nLength 1000mmApprox.\nOuterDiameter 3.6mm\nMinimumBendingRadius 36mm\n'}]
+!==============================================================================!
+### Component Summary for SM-SM-A050-1000
+
+**Component Type:** Cable Assembly
+
+**Description:**  
+The SM-SM-A050-1000 is a high-frequency cable assembly designed for applications requiring reliable signal transmission in the DC to 26.5 GHz frequency range. It features SMA male connectors on both ends and is constructed with passivated stainless steel for durability and corrosion resistance. This cable assembly is engineered to minimize signal loss and maintain signal integrity across a wide frequency spectrum.
+
+### Key Specifications:
+
+- **Frequency Range:** DC - 26.5 GHz
+- **Insertion Loss:**
+  - 2.56 dB Typ.; 2.82 dB Max. (overall)
+  - 0.87 dB Typ.; 0.97 dB Max. (DC-3 GHz)
+  - 1.18 dB Typ.; 1.298 dB Max. (DC-6 GHz)
+  - 1.69 dB Typ.; 1.859 dB Max. (DC-12 GHz)
+  - 2.09 dB Typ.; 2.299 dB Max. (DC-18 GHz)
+- **VSWR (Voltage Standing Wave Ratio):**
+  - 1.25:1 Typ.; 1.35:1 Max. (overall)
+  - 1.0:1 Typ.; 1.10:1 Max. (DC-3 GHz)
+  - 1.05:1 Typ.; 1.15:1 Max. (DC-6 GHz)
+  - 1.15:1 Typ.; 1.25:1 Max. (DC-12 GHz)
+  - 1.15:1 Typ.; 1.25:1 Max. (DC-18 GHz)
+- **Phase Stability:** 
+  - ±8° overall
+  - ±2° (DC-3 GHz)
+  - ±4° (DC-6 GHz)
+  - ±6° (DC-12 GHz)
+  - ±7° (DC-18 GHz)
+- **Amplitude Stability:** 
+  - ±0.30 dB overall
+  - ±0.10 dB (DC-3 GHz)
+  - ±0.15 dB (DC-6 GHz)
+  - ±0.20 dB (DC-12 GHz)
+  - ±0.25 dB (DC-18 GHz)
+- **Impedance:** 50 Ohm
+- **Connector Type:** SMA-Male/SMA-Male
+- **Connector Body Material:** Passivated Stainless Steel
+- **Operating Temperature Range:** -40°C to +85°C
+- **Storage Temperature Range:** -40°C to +85°C
+- **Length:** Approximately 1000 mm
+- **Outer Diameter:** 3.6 mm
+- **Minimum Bending Radius:** 36 mm
+
+### Typical Applications:
+The SM-SM-A050-1000 cable assembly is typically used in high-frequency applications such as:
+
+- **Telecommunications:** For connecting RF components in communication systems.
+- **Aerospace and Defense:** In radar and electronic warfare systems where signal integrity is critical.
+- **Test and Measurement Equipment:** For connecting test instruments to devices under test in RF applications.
+- **Broadcasting:** In television and radio transmission systems to ensure high-quality signal transmission.
+
+This cable assembly is ideal for environments where high performance and reliability are essential, particularly in applications involving microwave and millimeter-wave frequencies.

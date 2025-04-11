@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of I-V(ZN)Y 2K200/230 production of KINZ from the text:I-V(ZN)Y2K200/230 2.2*4.4mm IndoorPCFCable\n1. Structure\nI-V(ZN)Y2K200/230\nItemSpecification\nMin. Typ. Max.\nOpticalFiberCoreMaterial Quartz\nCoreDiameter [um] 200um\nCladDiameter[um] 230um\nNA 0.5\nWavelength 650nmor850nm\nCoreNumber 2\nJacketJacketMaterial PVC\nDiameter[mm] - 2.2*4.4 -\nJacketColor Orange\nApproximateWeight 8kg/km\nSectional View\n2. Performance\nI-V(ZN)Y2K200/230\nItemSpecification\nMin. Typ. Max.\nPerformanceStorage\nTemperature[ ℃]- -10 ﹣ 70\nOperation\nTemperature[ ℃]- -10 ﹣ 70\nAttenuation\n[dB/km]@650nm - 10 -\n@850nm - 8 -\nStrength - Kevlar\nMinimumBending\nRadius [mm]- ﹣ 22 ﹣\nStrength[N] - - 200 -\nAlltestsarecarried outundertemperatureof25 ℃unlessotherwisespecified.\n'}]
+!==============================================================================!
+### Component Summary: I-V(ZN)Y2K200/230
+
+#### Key Specifications:
+- **Voltage Ratings**: Not applicable (fiber optic cable)
+- **Current Ratings**: Not applicable (fiber optic cable)
+- **Power Consumption**: Not applicable (fiber optic cable)
+- **Operating Temperature Range**: -10°C to 70°C
+- **Package Type**: Not specified (fiber optic cable)
+- **Special Features or Notes**: 
+  - Core Material: Quartz
+  - Core Diameter: 200 µm
+  - Clad Diameter: 230 µm
+  - Numerical Aperture (NA): 0.5
+  - Wavelengths: 650 nm or 850 nm
+  - Jacket Material: PVC
+  - Jacket Color: Orange
+  - Approximate Weight: 8 kg/km
+  - Minimum Bending Radius: 22 mm
+  - Strength: Kevlar reinforcement
+  - Attenuation: 10 dB/km @ 650 nm, 8 dB/km @ 850 nm
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified
+
+#### Description:
+The I-V(ZN)Y2K200/230 is a fiber optic cable designed for indoor applications. It features a dual-core structure with a core diameter of 200 µm and a clad diameter of 230 µm, making it suitable for transmitting light signals with minimal loss. The cable is constructed with a PVC jacket, providing durability and flexibility, and is reinforced with Kevlar for added strength.
+
+#### Typical Applications:
+This fiber optic cable is typically used in:
+- **Data Communication**: Ideal for high-speed data transmission in local area networks (LANs) and other communication systems.
+- **Signal Processing**: Used in applications requiring the transmission of optical signals with low attenuation.
+- **Indoor Networking**: Suitable for connecting devices within buildings, such as computers, servers, and telecommunications equipment.
+- **Lighting Applications**: Can be utilized in fiber optic lighting systems due to its ability to transmit light effectively.
+
+Overall, the I-V(ZN)Y2K200/230 is a versatile fiber optic cable that meets the needs of various indoor communication and lighting applications, providing reliable performance across a range of operating conditions.

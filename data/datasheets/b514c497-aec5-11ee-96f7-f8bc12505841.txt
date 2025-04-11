@@ -1,0 +1,23 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CBH-125-T-120 production of KAWEEI from the text:Bill Of M aterial\nNo. Material Name and Name Qty Unit1 mm2\nNON-UL 28AWG Silver Plated Black\nVendor NAMEKWQS221 Wire PCS Molex 50058-8025 1.25 Phosphor Bronze, Gold Plated Molex TER. 1Black 黑\n2 1\n1.25 TERMINAL WIRE\nCBH-125-T -120Oct-16-2023\n3THIRD ANGLE PROJECTION1:XXDATE\nEREV\n1\n2REV:\nmmUNIT:A/1\nSCALE(比例):\nD CSHEET:DESCRIPTION\nAPPROVAL:DRAWN:\nCHECKED:\nPART  NO:\nB3\nA1\n2C D E A B\nFILE NO: KW-4E-094A4DESCRIPTION:\n1/2X.:\nX.X:±0.50\nX.XX:±0.30\nX.XXX:±0.20X°:±5.0°\nX.X°:±3.0°\nX.XX°:±2.0°\nX.XXX°:±1.0°GENERAL TOLERANCE\nLINEAR ANGLES\nORIGINAL±1.00\nTHIS DRAWING CONTAINS INFORMATION THAT IS PROPRIETARY TO KAWEEI\nINCORPORATED AND SHOULD NOT BE USED WITHOUT WRITTEN PERMISSI ONwww .kaweei.com\nJack Wu\nJeffJokerNOTES: UNLESS OTHERWISE SPECIFIED.\n1、Important Dim.\n2、Crimping PullOut Force:1.1Kgf Min.\n3、Electrical Character:100% Open/ShortA\nCAS-T001- HNS-0282-M LX-B Electronia part number :A120±10\nnext page\n'}]
+!==============================================================================!
+Based on the provided information regarding the component CBH-125-T-120 from KAWEEI, here is a concise summary of its key characteristics and specifications:
+
+### Key Specifications:
+- **Material**: Silver Plated Copper Wire (28AWG)
+- **Vendor**: KWQS221
+- **Terminal Type**: Molex 50058-8025
+- **Terminal Material**: Phosphor Bronze, Gold Plated
+- **Crimping Pull-Out Force**: 1.1 Kgf Min
+- **Electrical Characteristic**: 100% Open/Short Test
+- **Moisture Sensitive Level**: Not specified in the provided text, but typically referenced in JEDEC J-STD-020E.
+
+### Description:
+The CBH-125-T-120 is a terminal connector designed for use in various electronic applications. It features a crimp-style connection that allows for secure attachment to wires, ensuring reliable electrical connectivity. The use of phosphor bronze with gold plating enhances conductivity and resistance to corrosion, making it suitable for high-performance applications.
+
+### Typical Applications:
+- **Wire-to-Board Connections**: The CBH-125-T-120 is commonly used in wire-to-board applications where reliable connections are essential.
+- **Consumer Electronics**: It can be found in devices such as computers, smartphones, and other consumer electronics that require compact and efficient wiring solutions.
+- **Automotive Applications**: The component is also suitable for automotive wiring harnesses, where durability and reliability are critical.
+- **Industrial Equipment**: Used in various industrial applications for connecting sensors, actuators, and control systems.
+
+This summary provides a clear overview of the CBH-125-T-120 component, highlighting its specifications, description, and typical applications.

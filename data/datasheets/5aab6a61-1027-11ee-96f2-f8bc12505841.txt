@@ -1,0 +1,42 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of PMFUC-1550-22-B-50-9-20-FA production of SEAGNOL PHOTONICS CO., LTD from the text:Application:\nSpecification:\nUnit\nnm\nnm\ndB\n50/50 (±3.5) dB\n40/60 (±2.5) dB\n30/70 (±2.5) dB\n20/80 (±2.0) dB\n10/90 (±1.2) dB\n5/95 (±0.8) dB\n3/97 (±0.7) dB\n2/98 (±0.6) dB\n1/99 (±0.4) dB\ndB\ndB\ndB\ndB\ndB\n-\nN\nW\n℃\n℃\nmm\nNotice: Above specifications are tested at center wavelength without connector in room temperature @23 ℃.\n             For devices with connectors, IL will be 0.3dB higher, EL will be 0.2dB higher, ER will be 2dB lower, slow axis is default aligned to the connector key.\n             If need optical power more than 2W CW, please contact us to confirm. Connectors only 1W (Continue Wavelength) optical power guarantee. \nDrawing:\nsales@seagnol.com Page 1 of 2Storage Temperature T -40~85\nPackage Dimension Φ3.0×L54Max. Optical Power (CW) P 2\nOperating Temperature T -40~75Fiber Type PM Panda Fiber\nMax. Tensil Load 5Min. Directivity 50\nMin. Return Loss RL 5022/0.35\nMin. Extinction RatioFor Ratio>10% Port\nER20\nFor 5%≤Ratio≤10% Port 18\nFor Ratio<5% Port 16Max. Insertion Loss IL3.6/3.6\n5.2/3.1\n5.8/2.0\n8.0/1.5\n11.6/1.2\n14.8/0.8\n17.0/0.5\n18.4/0.4Bandwidth BW ±20\nMax. Excess Loss EL 0.4Parameter Symbol Value\nCenter Wavelength λ 1550       www.seagnol.com\n1550nm 1x2 2x2 PM Fiber Fused Coupler\n         1550nm 1x2, 2x2 Polarization Maintaining (PM) Fused Coupler is built with fused biconical taper (FBT) technology, it\ncan be used in split the optical signal power into two parts with even or various coupling ratio and keep the polarization\nmaintaining, it's widely applied in fiber optic sensor, fiber amplifier system and fiber optic diffraction field.\nFeatures:\nFiber Optic Amplifier\nFiber Optic Sensor\nFiber Laser\nOptical Diffraction SystemLow Excess Loss\nLow Insertion Loss\nHigh Extinction Ratio\nHigh Reliability\nL\nL\n         \nOrdering Information (Part Number):\n WWWW  A  RR  CC\n Wavelength  Working Axis  Fiber Length  Connector\n 1310  - 1310nm  B - Both Axes  B - 250um Bare Fiber  05 - 0.5m  NE - None\n 1480  - 1480nm       Working  9 - 900um Loose Tube  FA - FC/APC\n 1550  - 1550nm  S - Slow Axis        FU - FC/UPC\n 1570  - 1570nm       Working  20 - 2.0m  SA - SC/APC\n 1590  - 1590nm  F - Fast Axis  SU - SU/APC\n 1625  - 1625nm       Working  LA - LC/APC\n 1650  - 1650nm  LU - LC/UPC\n SS - Specify\nsales@seagnol.com Page 2 of 2 SS - Specify\n SS - Specify 30 - 30/70\n 40 - 40/60\n 50 - 50/50 20 - 20/80 12 - 1x2  01 - 1/99\n 22 - 2x2  02 - 2/98\n 05 - 5/95\n 10 - 10/90 10 - 1.0m\n 03 - 3/97  15 - 1.5m www.seagnol.com\n PMFUC- WWWW-PP-A-RR-J-LL-CC\n PP  J  LL\n Port Coupling\n Ratio Fiber Jacket\n         \n"}]
+!==============================================================================!
+### Component Summary for PMFUC-1550-22-B-50-9-20-FA
+
+#### Key Specifications:
+- **Center Wavelength (λ)**: 1550 nm
+- **Max Optical Power (CW)**: 2 W
+- **Operating Temperature Range**: -40°C to 75°C
+- **Storage Temperature**: -40°C to 85°C
+- **Package Dimensions**: Φ3.0 × L54 mm
+- **Fiber Type**: PM Panda Fiber
+- **Max Tensile Load**: 5 N
+- **Min Directivity**: 50 dB
+- **Min Return Loss (RL)**: 50 dB
+- **Min Extinction Ratio (ER)**:
+  - For Ratio > 10% Port: 20 dB
+  - For 5% ≤ Ratio ≤ 10% Port: 18 dB
+  - For Ratio < 5% Port: 16 dB
+- **Max Insertion Loss (IL)**: 
+  - 3.6 dB (for 50/50)
+  - 5.2 dB (for 40/60)
+  - 5.8 dB (for 30/70)
+  - 8.0 dB (for 20/80)
+  - 11.6 dB (for 10/90)
+  - 14.8 dB (for 5/95)
+  - 17.0 dB (for 3/97)
+  - 18.4 dB (for 2/98)
+  - 1.99 dB (for 1/99)
+- **Max Excess Loss (EL)**: 0.4 dB
+- **Bandwidth (BW)**: ±20 nm
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The PMFUC-1550-22-B-50-9-20-FA is a **Polarization Maintaining (PM) Fused Coupler** designed for optical fiber applications. It utilizes fused biconical taper (FBT) technology to split optical signal power into two parts while maintaining the polarization of the light. This component is specifically designed for the 1550 nm wavelength, making it suitable for various optical applications.
+
+#### Typical Applications:
+- **Fiber Optic Sensors**: Used in sensing applications where maintaining the polarization of light is critical.
+- **Fiber Amplifier Systems**: Essential in amplifying optical signals while preserving their polarization state.
+- **Fiber Lasers**: Utilized in laser systems that require polarization maintenance for optimal performance.
+- **Optical Diffraction Systems**: Applied in systems that rely on precise control of light propagation and polarization.
+
+This coupler is characterized by low excess loss, low insertion loss, high extinction ratio, and high reliability, making it a valuable component in advanced fiber optic systems.

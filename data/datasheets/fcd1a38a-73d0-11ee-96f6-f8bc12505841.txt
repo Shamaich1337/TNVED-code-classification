@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of R04A-21PIFA3N02G production of SUNKYE INTERNATIONAL CO., LTD from the text:Drawing No.\nArchivesSignature\n/1 1Plnte\nDesign\nStandard checkAuditing\nApproveScale Sheet of REVTechnics\nWeight Phase markerCheckDenomination:\nMaterial\nacreage (mm  ):2DWG No.: Character\nDIN\nA000 4:1 DP/N:\nLHs6.602.4073Unit:mmHeat\ntreatment\nGeneral  toleranceCritical  Dimension  **Important  Dimension  *\nX  ±0.15 X°  ±1°\n.X  ±0.10 .X°  ±0.5°\n.XX  ±0.05 .XX°  ±0.05°\n.XXX  ± .XXX°  ±Wo  wo\nWu  gang\nXianghuaming1 11SUNKYE\n4.6\n7.6\n22\n27.4\n2022.01.05\n2022.01.06\n2022.01.086.35\n10.60.51\nR4.716.1 2×∅2.31±0.08\n111\n112 2112 13 15 16 18 19 20 2111 9 7 17 4 14 12 3 5 6 8 10\n×+0.1\n0×+0.1\n0\n22±0.1051.272.54\n2.540.51\n2.54\n0.6+0.1\n 0\n4.37\n21×∅0.5±0.02\n12 13 15 16 18 19 20 2111 9 7 17 4 14 12 3 5 6 8 10PCB LAYOUT 2.54 ×2.54SUNKYE\nMicro-D ConnectorR04A-21PIFA 302GSPECIFICATIONS\nEnvironment: -55 ℃~+125℃\nVibration: 10Hz~2000Hz 196m/s²\nShock: 735m/s² 11ms\nRated current: 3A\nRandom vibration: power spectrum density 0.4G² /Hz, r.m.s value of total acceleration 23.1G \nContact resistance: ≤10mΩ\nInsulation resistance: ≥5000MΩ 100VDC\nDielectric strength: 600V\nMachine life: 800 times\nFinished, Cadmium\n'}]
+!==============================================================================!
+### Component Summary for R04A-21PIFA3N02G
+
+**Component Type:** Micro-D Connector
+
+**Description:**
+The R04A-21PIFA3N02G is a Micro-D connector manufactured by SUNKYE INTERNATIONAL CO., LTD. It is designed for high-density interconnect applications, providing reliable electrical connections in compact spaces. The connector is suitable for various environments, including those with extreme temperatures and mechanical stresses.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated, but dielectric strength is 600V.
+- **Current Ratings:** Rated current of 3A.
+- **Power Consumption:** Not specified; typically depends on the application and load.
+- **Operating Temperature Range:** -55°C to +125°C.
+- **Package Type:** Micro-D connector.
+- **Special Features/Notes:**
+  - Contact resistance ≤ 10 mΩ.
+  - Insulation resistance ≥ 5000 MΩ at 100VDC.
+  - Machine life rated for 800 cycles.
+  - Finished with Cadmium for corrosion resistance.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Typical Applications:**
+The R04A-21PIFA3N02G Micro-D connector is commonly used in:
+- Aerospace and defense systems for reliable connections in harsh environments.
+- Telecommunications equipment where space-saving and high-density connections are critical.
+- Industrial automation systems requiring robust and durable connectors.
+- Medical devices that demand high reliability and performance under varying conditions.
+
+This connector is ideal for applications that require a compact design without compromising on performance, making it suitable for a wide range of electronic and electrical systems.

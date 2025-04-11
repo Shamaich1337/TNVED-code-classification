@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SX34_R1_00001 production of PAN JIT from the text:SX32 SERIES\nPAGE  .  1 March 29,201 8-REV.1 2MECHANICAL  DATA\n• Case : JEDEC DO-214AC molded pla stic\n• Terminals : Solder plated, soldera ble per MIL-ST D-750,Method 2026\n• Polarity : Color band denotes cathode end\n• Standard packaging : 12mm ta pe (EIA-481)\n• Weight : 0.0023 ounces, 0.0679 gramsSURFACE MOUNT SCHOTTKY BARRIER RECTIFIER\nMAXIMUM RATINGS AND ELECTRICAL CHARACTERISTICS\nRatings at 25°C a mbient temperature unless otherwise specified.\nResistive or inductive load.\nNOTES :\n1. Pulse Test with PW =300µsec, 1% Duty Cycle.\n2. Mounted on a FR4 PCB, single-sided copper, with 100cm2 copper pad area.\n3. Mounted on a FR4 PCB, single-sided copper, mini pad.VOLTAGE 20 to 60 Volt CURRENT   3 Ampere\n1 2\nCathode Anode\nPARAMETER SYMBOL SX32 SX33 SX34 SX35 SX36 UNITS \nMaximum Recurrent Peak Reverse Voltage\nVRRM20 30 40 50 60 V\nMaximum RMS Voltage VRMS14 21 28 35 42 V\nMaximum DC Blocking Voltage\nVDC20 30 40 50 60 V\nMaximum Average Forward Current\nIF(AV)3A\nPeak Forward Surge Current : 8.3ms single half sine-wave\nsuperimposed on rated load\nIFSM80 A \nMaximum Forward Voltage at 3A (Note 1)\nVF0.5 0.75 V \nMaximum DC Reverse Current at Rated DC Blocking\nVoltage\nTJ=25OC\nTJ=100OCIR0.2\n20 0.1 \n20mA\nTypical Thermal Resistance\n(Note 2)\n(Note 3)\nRθJL\nRθJA25\n150OC / W\nOperating Junction and Storage Temperature Range\nTJ,TSTG-55 to +125 -55 to +150OCFEATURES\n• Plastic package has Underwriters Laboratory\n   Flammability Classification 94V-O\n• For surface mounted applications in order to optimize board space\n• Low power loss, high efficiency\n• High surge ca pacity\n• Lead free in compliance with EU RoHS 2.0  \n• Green molding compound as per IEC 61249 standard\nSX32 SERIES\nPAGE  .  2 March 29,201 8-REV.1 20 20 40 60 80 100 120 \n0 25 50 75 100 125 150 \nTJ, Junction Temperature  ( °C) 40~60V  \n20~30V   Percent of Reverse Voltage (%)  \nSX32 SERIES\nPAGE  .  3 March 29,201 8-REV.1 2MOUNTING  PAD  LAYOUT\nORDER  INFORMATION\n•  Packing information\n   T/R - 7.5K per 13" plastic Reel\n   T/R - 1.8K per 7" plastic ReelSMA / DO-214AC\n0\n.\n228\n(5\n.\n80)\n0\n.\n082\n(2\n.\n07)\n0\n.\n065\n(1\n.\n66)\n0.081\n(2\n.\n06)\nUnit\n：\n inch(mm)\nSX32 SERIES\nPAGE  .  4 March 29,201 8-REV.1 2Part No_pa cking code _Version\nSX32_R1_00001\nSX32_R2_00001\nFor exa mple :\nRB500V -40_R2_00001\nPart No.Serial number\nVersion code means HF\nPacking size code means 13"\nPacking type means T/R\nPacking Code XX Version Code XXXXX\nPacking type 1st Code Packing size code 2nd Code HF or RoHS 1st Code 2nd~5th Code\nTape and Ammunition Box\n(T/B)A N/A 0 HF 0 serial number\nTape and Reel\n (T/R)R 7" 1 RoHS 1 serial number\nBulk Packing\n(B/P)B 13" 2\nTube Packing\n(T/P)T 26mm X\nTape and Reel (Right Oriented)\n(TRR)S 52mm Y\nTape and Reel (Left Oriented)\n(TRL)LPANASERT T/B CATHODE UP\n(PBCU)U\nFORMING FPANASERT T/B CATHODE DOWN\n(PBCD)D\nSX32 SERIES\nPAGE  .  5 March 29,201 8-REV.1 2Disclaimer\n•Reproducing a nd modifying inf ormation of the document is prohibited without permission\nfrom Pa njit Intern ational Inc..\n•Panjit Intern ation al Inc. re serve s the rights to ma ke cha nges of the content here in the\ndocument a nytime without notif ication. Ple ase refer to our website f or the late st\ndocument.\nPanjit Internation al Inc. disclai ms any and all li ability arising out of the a pplication or use of\nany product including da mage s incidentally a nd con sequenti ally occurred.\n•Panjit Intern ation al Inc. doe s not a ssume a ny and all i mplied warra nties, including warra nties\nof fitness for particular purpose, non-infringe ment a nd mercha ntability.\n•Application s shown on the here in document are exa mples of sta ndard use a nd operation.\nCustomers are re spon sible in comprehending the suita ble use in particular a pplication s.\nPanjit Intern ation al Inc. ma kes no repre sentation or warra nty that such a pplications will be\nsuitable for the specified use without further testing or modification.\n•The products shown here in are not de signed a nd authorized f or equi pments requiring high\nlevel of reli ability or relating to huma n life a nd for any application s concerning life-saving\nor life-sustaining, such a s medical in struments, tra nsportation equi pment, a erospa ce\nmachinery et cetera. Customers using or selling the se products f or use in such a pplication s\ndo so at the ir own ris k and agree to fully inde mnify Pa njit Intern ation al Inc. f or any da mage s\nresulting from such improper use or sale.•\n•Since Pa njit use s lot number a s the tra cking ba se, ple ase provide the lot number f or tra cking\nwhen complaining.\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Panjit:   \n\xa0 SX34_R1_00001\xa0 SX34_R2_00001\n'}]
+!==============================================================================!
+### Component Summary for SX34_R1_00001 (Panjit)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Maximum Recurrent Peak Reverse Voltage (VRRM): 50V
+  - Maximum RMS Voltage (VRMS): 28V
+  - Maximum DC Blocking Voltage (VDC): 50V
+
+- **Current Ratings:**
+  - Maximum Average Forward Current (IF(AV)): 3A
+  - Peak Forward Surge Current (IFSM): 80A (8.3ms single half sine-wave)
+
+- **Power Consumption:**
+  - Maximum Forward Voltage at 3A (VF): 0.5V to 0.75V
+
+- **Operating Temperature Range:**
+  - Junction Temperature (TJ): -55°C to +125°C
+  - Storage Temperature (TSTG): -55°C to +150°C
+
+- **Package Type:**
+  - Case: JEDEC DO-214AC molded plastic
+
+- **Special Features:**
+  - Low power loss and high efficiency
+  - High surge capacity
+  - Lead-free and compliant with EU RoHS 2.0
+  - Green molding compound as per IEC 61249 standard
+  - Underwriters Laboratory Flammability Classification 94V-O
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided text.
+
+#### Component Description:
+The SX34_R1_00001 is a **surface mount Schottky barrier rectifier**. Schottky diodes are known for their low forward voltage drop and fast switching speeds, making them ideal for applications requiring efficient power management. This component is designed to rectify alternating current (AC) to direct current (DC) with minimal power loss.
+
+#### Typical Applications:
+- **Power Management:** Used in power supply circuits to convert AC to DC efficiently.
+- **Signal Processing:** Commonly utilized in RF applications due to their fast switching capabilities.
+- **Voltage Clamping:** Protects sensitive components from voltage spikes.
+- **DC-DC Converters:** Employed in switching power supplies for improved efficiency.
+- **Battery Charging Circuits:** Ideal for applications where low forward voltage drop is critical.
+
+This summary provides a comprehensive overview of the SX34_R1_00001 component, highlighting its key specifications and typical applications in electronic circuits.

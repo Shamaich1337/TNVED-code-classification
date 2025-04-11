@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of LFCN-2250D+ production of MINI-CIRCUITS from the text:Low Pass FilterCERAMIC\nLFCN-2250D+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 1 OF 3 50Ω         DC to 2200 MHz  \nCASE STYLE: FV1206\n+RoHS Compliant\nThe +Suffix identifies RoHS Compliance. See our web site \nfor RoHS Compliance methodologies and qualificationsGeneric photo used for illustration purposes only\n3. Derate linearly to 3.5W at 100°C ambient.\nPermanent damage may occur if any of these limits are exceeded. 1. DC Resistance to ground is 100 Mohms min.\n2. Measured on Mini-Circuits Characterization Test Board TB-270.ELECTRICAL SPECIFICATIONS1,2 AT 25°C\nParameter F# Frequency (MHz) Min. Typ. Max. Units\nPassbandInsertion Loss DC-F1 DC-2200 — — 1.2 dB\nFreq. Cut-Off F2 2575 — 3.0 — dB\nVSWR DC-F1 DC-2200 — 1.2 — :1\nStop BandRejection LossF3 2900 20 — —\ndB F4-F5 3000-5000 — 30 —\nF6 7200 — 20 —\nVSWR F3-F6 2900-7200 — 20 — :1\nParameter Ratings\nOperating temperature -55°C to 100°C\nStorage temperature -55°C to 100°C\nRF Power Input310 W max. at 25°C\nMax. DC Voltage at pins 1&3 25 VDC\nDC Current Input to Output 0.5A max. at 25°CMAXIMUM RATINGS TYPICAL FREQUENCY RESPONSE\nFUNCTIONAL SCHEMATIC\nREV. L\nECO-011331\nLFCN-2250D+\nAD/CP/AM\n22010420\n340ATTENUATION (dB)1\nF2 F3 F1 DC F4 F5 F6\nFREQUENCY\nRF IN RF OUTFEATURES\n yExcellent power handling, 10W\n ySmall size\n y7 sections\n yTemperature stable\n yLTCC construction\n yProtected by U.S Patent 6,943,646\nAPPLICATIONS\n yHarmonic rejection \n yVHF/UHF transmitters/receivers\n yLab use\nLow Pass FilterCERAMIC\nLFCN-2250D+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com www.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 2 OF 3RF IN 1\nRF OUT 3\nGROUND 2,4PIN CONNECTIONS OUTLINE DRAWING\nDEMO BOARD MCL P/N: TB-270\nSUGGESTED PCB LAYOUT  (PL-137)PRODUCT MARKING: EK\nOUTLINE DIMENSIONS (Inches ) mmPCB Land Pattern \nSugges ted Layout, \nTolerance to be within ±.002  (ON TOP)\n (ON TOP)\nABCDE FG\n.126 .063 .037 .020 .032 .009 .169\n3.20 1.60 0.94 0.51 0.81 0.23 4.29\nH J K L M N P wt\n.087 .024 .122 .024 .087 .012 .071 grams\n2.21 0.61 3.10 0.61 2.21 0.30 1.80 .020\nTAPE & REEL INFORMATION: F71\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 3 OF 3\nNOTES\nA.Performance and quality attributes and conditions not expressly stated in this specification document are intended to be excluded and do not form a part of this specification document. \nB.Electrical specifications and performance data contained in this specification document are based on Mini-Circuit’s applicable established test performance criteria and measurement instructions. \nC.The parts covered by this specification document are subject to Mini-Circuits standard limited warranty and terms and conditions (collectively, “Standard Terms”); Purchasers of this part are entitled to the rights \nand benefits contained therein. For a full statement of the standard. Terms and the exclusive rights and remedies thereunder, please visit Mini-Circuits’ website at www.minicircuits.com/MCLStore/terms.jsp\nLow Pass FilterCERAMIC\nLFCN-2250D+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.comFrequency \n(MHz)Insertion Loss\n(dB)VSWR\n(:1)\n10.00 0.02 1.03\n500.00 0.16 1.04\n1000.00 0.23 1.05\n2200.00 0.79 1.33\n2300.00 0.95 1.36\n2400.00 1.19 1.36\n2500.00 1.64 1.36\n2550.00 2.09 1.44\n2600.00 2.88 1.69\n2650.00 4.39 2.26\n2750.00 11.10 4.96\n2850.00 23.25 8.77\n2950.00 40.72 11.69\n7000.00 30.04 24.48\n8000.00 11.32 11.24TYPICAL PERFORMANCE DATA AT 25°C\nLFCN-2250D+\nINSERTION LOSS\n0.010.020.030.040.050.060.0\n0 1000 2000 3000 4000 5000 6000 7000 8000\nFREQUENCY (MHz)INSERTION LOSS (dB)LFCN-2250D+\nVSWR\n1.001.081.161.241.321.40\n0 200 400 600 800 1000 1200 1400 1600 1800 2000 2200\nFREQUENCY (MHz)VSWR\n'}]
+!==============================================================================!
+### Component Summary: LFCN-2250D+
+
+**Description:**
+The LFCN-2250D+ is a ceramic low pass filter designed for RF applications. It operates effectively from DC to 2200 MHz, providing excellent performance in filtering out high-frequency noise while allowing lower frequencies to pass through. This component is particularly useful in applications requiring harmonic rejection and signal integrity.
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Max DC Voltage at pins 1 & 3: 25 VDC
+
+- **Current Ratings:**
+  - DC Current Input to Output: 0.5 A max at 25°C
+
+- **Power Consumption:**
+  - RF Power Input: 10 W max at 25°C (derates to 3.5 W at 100°C)
+
+- **Operating Temperature Range:**
+  - Operating Temperature: -55°C to 100°C
+  - Storage Temperature: -55°C to 100°C
+
+- **Package Type:**
+  - Case Style: FV1206
+
+- **Special Features:**
+  - RoHS Compliant
+  - Excellent power handling capability
+  - Temperature stable
+  - LTCC (Low-Temperature Co-fired Ceramic) construction
+  - Protected by U.S. Patent 6,943,646
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided data, but typically assessed under JEDEC J-STD-020E.
+
+**Typical Applications:**
+The LFCN-2250D+ is commonly used in:
+- VHF/UHF transmitters and receivers
+- Harmonic rejection circuits
+- Laboratory equipment for signal processing
+- RF communication systems where filtering of unwanted high-frequency signals is critical
+
+This low pass filter is ideal for applications that require a compact size and high reliability in filtering out noise while maintaining signal integrity across a wide frequency range.

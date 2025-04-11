@@ -1,0 +1,64 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of YHF5014006K001HW production of RUVA CAPACITORS from the text:NingguoYuhuaElectricalProductsCo.,Ltd. YHFSeries \nPage ：1 ／6\nSPECIFICATION FOR APPROVAL \nProductName ：DC Link Capacitor \nProductcode ：YHF5014006K001HW \nCustomer ：\nCustomercode ：\nIssueDate ： 2023-04-11 \nNingguoYuhuaElectricalProductsCo.,Ltd. \nADD:No.31,ZhenningRoad,Ningguo city,AnhuiProvince,Ch ina \nTEL:+86-563-4030766 \nFAX:+86-563-4012888 \nMail:czy@ngyh.com \nHttp://www.ngyh.com \n*. The specification are the property of Ningguo Yuhua Electri cal Products Co.,Ltd. And shall not \nbe copied or used as commercial purposes without permissionNingguoYuhua Electrical Products Co.,Ltd. Approved by Cus tomer \nDrafted Checked Approved \nShaoweiLv Yuanxin Xiong YushenWang \nNingguoYuhuaElectricalProductsCo.,Ltd. YHF Series \nPage ：2 ／6Version update record \nN0. Version description Date Author Descriptionof revise \nA/0 NEW 2023.4.11 Shaowei Lv /\nNingguoYuhuaElectricalProductsCo.,Ltd. YHF Series \nPage ：3 ／6■Outline Drawing \n\nNingguoYuhuaElectricalProductsCo.,Ltd. YHF Series \nPage ：4 ／6■Features \n1. Plastic case packaging \n2. Low ESR,high ripple currenthandling capabilities \n3. Low ESL \n4. Long life-time \n5. Polypropylene dielectric,Self-healing property \n■Applications \n1.DC-Link,DCfiltercircuit \n2.Electricvehicle and hybrid electric vehicle \n■Technical Data \nReference Standard IEC 61071 AEC Q200D \nRated Voltage 500VDC \nPeak Voltage 750VDC \nRated Capacitance 400µF\nCapacitanceTolerance ±10%\nMain material and mechanical Characteristics \nMedium Polypropylene film \nSealing material resin(UL94V-0) \nShell plastic \nTerminal Tinned copper \nBody size Φ84.5×65mm (See drawing for details) \nMax.Torque ofterminals 8Nm \nApproximate weight 0.65kg \nElectrical Characteristics \nTemporarily Overvoltage (per day) 1.1 x Un,30% on load duration. \n1.15 x Un for 30min \n1.2 x Un for 5min \n1.3 x Un for 1min \n1.5 xUnfor100ms eachtime,1,000 timesduring thelifeof \nthe capacitor. \nNominal ripplecurrent (Irms) Θambient≤65 ℃，Irms=60A\nMaximumpeak current( Î) 5000A(t≤10 us,interval time≥ 0.6 s ) \nEquivalent series resistance (ESR) ＜0.9mΩ （10kHz ）\nEquivalent series inductance (ESL) ≤30nH \nTangent of lossangle (tanδ) ≤20×10 -4 （100Hz ，20 ℃±10 ℃）\nNingguoYuhuaElectricalProductsCo.,Ltd. YHF Series \nPage ：5 ／6*The above parameters arethe expected values oftheoretica l calculation, and the actual parameters \naresubjectto the sample testvalues \n■Expectedlifetimecurves \n■PackingandShipment \nForthe packing box with capacitors,any kinds of shipments are permitted.But the sprinkle of \nrain or snow and mechanicaldamage must be avoided. \n■CautionsandWarnings \n1.Inordertoeliminatethe riskofshock,the capacitorispack agedwithterminalsshorted.Butwhen \nit starts to work, the stockedenergy of the capacitormay be let hal. So please discharge through \nresistorbefore operating the capacitor,short-circuitcapacit oris not permitted. \n2.Do not use or store capacitorsin corrosiveatmosphere,especia lly wherechloride gas, sulfide \ngas,acid,alkali,saltor other similarsubstancethat exsi ts.In the dustyenvironment,it needs regular Insulation resistance (Ri×CN) ≥ 5000 s （500VDC ，10s,20 ℃±10 ℃）\nVoltage testbetween terminals ( U TT )750VDC (10s,20 ℃±10 ℃)\nVoltage testterminals to case( U TC ) 3000VAC (50Hz,60s,20 ℃±10 ℃)\nFailure rate ≤300 FIT \nThermal Characteristics \nClimatic category 55/70/56 \nOperatingTemperature Range -55 ℃～+85 ℃\nStorageTemperature Range -55 ℃～+85 ℃\nAltitude 2000m \nNingguoYuhuaElectricalProductsCo.,Ltd. YHF Series \nPage ：6 ／6maintenanceand cleaning, especiallythe terminals whichare required to avoid conductivepath \nbetween phases. \n3. If the depth of the dent is more than 1mm or any othermechanic aldamage, capacitors are \nforbidden to use.\n4.With the rise of the altitudeof the environment where the film capacitoris used, the air density \ndecreases gradually,and the heat dissipation capacityof th e capacitor decreases.The external\ninsulationand currentderatingshall be considered,and the rip plecurrentshallbe corrected.The \ncorrectioncoefficientis shown in the table below. \nAltitude （m）2000 2500 3000 3500 4000 \nCorrectionfactor 1.0 0.95 0.90 0.86 0.81 \n5.Don't hesitate to contactour technical service for any dou bts and more detail information. \n"}]
+!==============================================================================!
+### Component Summary for YHF5014006K001HW
+
+**Component Type:**  
+DC Link Capacitor
+
+**Manufacturer:**  
+Ningguo Yuhua Electrical Products Co., Ltd.
+
+---
+
+### Key Specifications:
+
+- **Voltage Ratings:**
+  - Rated Voltage: 500 VDC
+  - Peak Voltage: 750 VDC
+
+- **Current Ratings:**
+  - Nominal Ripple Current (Irms): 60 A (at ambient temperature ≤ 65 °C)
+  - Maximum Peak Current (I_peak): 5000 A (for t ≤ 10 µs, interval time ≥ 0.6 s)
+
+- **Capacitance:**
+  - Rated Capacitance: 400 µF
+  - Capacitance Tolerance: ±10%
+
+- **Power Consumption:**
+  - Equivalent Series Resistance (ESR): < 0.9 mΩ (at 10 kHz)
+  - Equivalent Series Inductance (ESL): ≤ 30 nH
+  - Tangent of Loss Angle (tan δ): ≤ 20 × 10^-4 (at 100 Hz, 20 °C ± 10 °C)
+
+- **Operating Temperature Range:**
+  - -55 °C to +85 °C
+
+- **Package Type:**
+  - Plastic case packaging
+  - Body Size: Φ84.5 × 65 mm
+  - Approximate Weight: 0.65 kg
+
+- **Special Features:**
+  - Low ESR and high ripple current handling capabilities
+  - Low ESL
+  - Long lifetime
+  - Polypropylene dielectric with self-healing properties
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+---
+
+### Description of the Component:
+
+The YHF5014006K001HW is a DC Link Capacitor designed for high-performance applications requiring reliable energy storage and filtering. It utilizes a polypropylene film as the dielectric material, which provides excellent electrical characteristics, including low equivalent series resistance (ESR) and low equivalent series inductance (ESL). The capacitor is packaged in a robust plastic case, ensuring durability and longevity.
+
+---
+
+### Typical Applications:
+
+1. **DC-Link Circuits:** Used in power electronics to connect the DC output of a rectifier to the DC input of an inverter, smoothing voltage fluctuations and providing energy storage.
+2. **DC Filter Circuits:** Employed in filtering applications to reduce ripple voltage and improve the quality of the DC signal.
+3. **Electric Vehicles (EVs) and Hybrid Electric Vehicles (HEVs):** Integral in energy management systems for storing and delivering power efficiently.
+4. **Renewable Energy Systems:** Utilized in solar inverters and wind turbine systems for energy storage and conversion.
+
+This capacitor is particularly suited for applications that demand high reliability and performance under varying environmental conditions, making it ideal for automotive and industrial applications.

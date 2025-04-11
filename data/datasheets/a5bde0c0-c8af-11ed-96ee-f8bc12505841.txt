@@ -1,0 +1,42 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BC817-16 production of YANGZHOU YANGJIE ELECTRONIC from the text:        BC817-16 THRU BC817-40                    \xa0\n\xa0\n 1 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1421 \nRev. 1.5, 10-Dec-19 www.21yangjie.com\n        NPN General Purpose Amplifier  \n  \nFeatures         \n●Capable of 0.3Watts(TA=25 ℃) of Power Dissipati on                           \n●Epoxy meets UL-94 V-0 flammability rating ●Halogen free available upon request by adding suffix ”HF” ●Moisture Sensitivity Level 1 ●Device Marking:  \n \n \n \n \n \n        \n■ Maximum Rating \nItem Symbol Unit Value \nCollector-Emitter  Voltage V CEO V  45 \nEmitter –Base Voltage  VEBO V  5 \nCollector Current  IC mA 500 \nCollector  Power Dissipation PC mW 300 \nOperation Junction Temperature Tj ℃ -55 to +150 \nStorage Temperature Tstg ℃ -55 to +150 \nThermal Resistance From Junction To Ambient R θJA ℃/W 417 \n \n■ Off Characteristics \nItem Symbol Unit Conditions MIN MAX \nCollector-Emitter Voltage V CEO V  I C=10mAdc, I B=0 45  \nCollector-Base Voltage V CBO  V I C=10uAdc, I E=0 50  \nEmitter-Base Voltage V EBO V  I E=1.0uAdc, I C=0 5.0  \nEmitter-base Cut-off Current I EBO uAdc  VEB=4.0Vdc, I C=0  0.1 \nCollector-base Cut-off Current I CBO u A d c  V CB=45Vdc, I E=0  0.1 BC817-16 6A \nBC817-25 6B \nBC817-40 6C COMPLIANT  RoHS  \n\n        BC817-16 THRU BC817-40                    \xa0\n\xa0\n 2 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1421 \nRev. 1.5, 10-Dec-19 www.21yangjie.com\n■ On Characteristics  \nItem Symbol Unit Conditions  Min Max \nDC Current  Gain BC817-16 \nhFE  I C=100mAdc, V CE=1.0Vdc 100 250 \nBC817-25 160 400 \nBC817-40  250 600 \nDC Current  Gain  hFE  I C=500mAdc, V CE=1.0Vdc 40  \nCollector-Emitter Saturation Voltage  VCE(sat)  V  I C=500mAdc, I B=50mAdc   0 . 7  \nBase-Emitter Saturation Voltage V BE(sat)  V  I C=500mAdc, I B=50mAdc   1 . 2  \n \n■ Small-signal Characteristics \nItem Symbol Unit Conditions  Min Typ Max \nTransition frequency f T M H z  IC=10mAdc,V CE=5.0Vdc, \nf=100MHz 100   \nCollector-base output capacitance C ob p F  V CB=10V,F=1MHz  10  \n \n■ Ordering Information (Example)  \nPREFERED P/N PACKING  \nCODE UNIT WEIGHT(g) MINIMUM \nPACKAGE(pcs)INNER BOX \nQUANTITY(pcs)OUTER CARTON \nQUANTITY(pcs) DELIVERY MODE \nBC817-16 Thru \nBC817-40 F2 Approximate 0.008 3000 30000 120000 7” reel \n \n \n \n \n                      \n        BC817-16 THRU BC817-40                    \xa0\n\xa0\n 3 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1421 \nRev. 1.5, 10-Dec-19 www.21yangjie.com\n■ Characteristics (Typical)   \n \n \n   \n \n   \n \n   \n \n   \n \n   \n \n   \n \n   \n \n   \n \n   \n \n   \n \n   \n \n  \n \n   \n \n   \n \n\n        BC817-16 THRU BC817-40                    \xa0\n\xa0\n 4 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1421 \nRev. 1.5, 10-Dec-19 www.21yangjie.com\n■SOT-23 Package Outline Dimensions  \n \n \n \n \n■SOT-23 Soldering Footprint  \n \n \n \n \n  \n \n  \n        BC817-16 THRU BC817-40                    \xa0\n\xa0\n 5 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1421 \nRev. 1.5, 10-Dec-19 www.21yangjie.com\nDisclaimer \n \nThe information presented in this  document is for reference onl y. Yangzhou Yangjie Electronic Technology Co., Ltd. reserves th e \nright to make changes without not ice for the specification of t he products displayed herein to improve reliability, function o r design \nor otherwise.     The product listed herein is designed to be used with ordinary electronic equipment or devices, and not designed to be used wi th \nequipment or devices which require high level of reliability an d the malfunction of with woul d directly endanger human life (s uch as \nmedical instruments, transportat ion equipment, aerospace machin ery, nuclear-reactor controller s, fuel controller s and other sa fety \ndevices), Yangjie or anyone on its behalf, assumes no responsib ility or liability for any damages resulting from such improper  use \nof sale.    This publication supersedes & r eplaces all information previous ly supplied. For additional information, please visit our websi te \nhttp:// www.21yangjie.com , or consult your nearest Yangjie’s s ales office for further assistance. \n \n'}]
+!==============================================================================!
+### Component Summary: BC817-16
+
+**Manufacturer:** Yangzhou Yangjie Electronic Technology Co., Ltd.  
+**Product Code:** BC817-16
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Collector-Emitter Voltage (V_CEO): 45 V
+  - Emitter-Base Voltage (V_EBO): 5 V
+  - Collector-Base Voltage (V_CBO): 50 V
+
+- **Current Ratings:**
+  - Collector Current (I_C): 500 mA
+
+- **Power Consumption:**
+  - Collector Power Dissipation (P_C): 300 mW
+
+- **Operating Temperature Range:**
+  - Junction Temperature (T_j): -55 to +150 °C
+  - Storage Temperature (T_stg): -55 to +150 °C
+
+- **Package Type:**
+  - SOT-23
+
+- **Special Features:**
+  - Capable of 0.3 Watts of power dissipation at 25 °C.
+  - Epoxy meets UL-94 V-0 flammability rating.
+  - Halogen-free option available (suffix "HF").
+  - Moisture Sensitivity Level: 1 (according to JEDEC J-STD-020E).
+
+#### Description:
+The BC817-16 is an NPN general-purpose amplifier transistor. It is designed for low to medium power applications, providing amplification and switching capabilities. The device is suitable for various electronic circuits where signal amplification is required.
+
+#### Typical Applications:
+- **Signal Amplification:** Used in audio and radio frequency applications to amplify weak signals.
+- **Switching Applications:** Can be utilized in digital circuits for switching purposes.
+- **Power Management:** Employed in power supply circuits to control power flow.
+- **General Purpose Use:** Suitable for a wide range of electronic devices, including consumer electronics, automotive applications, and industrial equipment.
+
+This transistor is a versatile component that can be found in many electronic designs, making it a staple in the electronics industry.

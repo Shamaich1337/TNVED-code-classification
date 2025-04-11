@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of CAS-M025-RF-0258-1 production of E-TEC from the text: SHEET UNITmm\nFreeSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO. REV.GENERAL TOLERANCE\n0 ~ 200mm  ->  ±10mm\n201 ~ 1000mm  ->  ±20mm\n1001 ~ 1500mm  ->  ±25mm\n1501 ~ 2100mm  ->  ±30mm\n2100mm↑->  ±40mm  E-tec 2022 © - all rights reserved   www.e-tec.asia\nRyan\nKent\nSH20.06.2022\n24.06.202224.06.2022CAS-M025-RF-0258-x\nCAS-M025- RF-0258-x1/1\nBL\nP1 P2\nZ Code Z Code12 3 21\nItem Description Q'TY\n1 FAKRA Plug, Z Code 2\n2 Heat Shrink Tube, Black 2\n3 Coaxial Cable, RG-316/URoHS\ncompliant\n RF Cable Assembly\nFAKRA Plug Z Code to\nFAKRA Plug Z Code\nRG-316/UItem No. Length(L) mm\nCAS-M025-RF-0258 7000\nCAS-M025-RF-0258-1 15000\n\n"}]
+!==============================================================================!
+### Component Summary for CAS-M025-RF-0258-1
+
+**Component Type:** RF Cable Assembly
+
+**Description:**
+The CAS-M025-RF-0258-1 is a coaxial RF cable assembly featuring FAKRA plugs of Z Code on both ends. It is designed for high-frequency signal transmission and is compliant with RoHS standards. The assembly includes heat shrink tubing for protection and insulation.
+
+**Key Specifications:**
+- **Length:** 15,000 mm (15 meters)
+- **Connector Type:** FAKRA Plug, Z Code (2 connectors)
+- **Cable Type:** RG-316/U
+- **Moisture Sensitive Level:** Not specified in the provided text, but typically RG-316/U cables have a moisture sensitivity level of MSL 1 according to JEDEC J-STD-020E.
+
+**Special Features:**
+- RoHS compliant, ensuring it meets environmental regulations.
+- Heat shrink tubing included for enhanced durability and protection against environmental factors.
+
+### Typical Applications:
+The CAS-M025-RF-0258-1 RF cable assembly is typically used in applications that require reliable high-frequency signal transmission. Common applications include:
+- Automotive communication systems
+- Telecommunications equipment
+- Wireless communication devices
+- Test and measurement setups
+- Any application requiring robust RF connections in a compact form factor.
+
+This cable assembly is particularly suited for environments where space is limited, and high performance is essential, such as in automotive and telecommunications sectors.

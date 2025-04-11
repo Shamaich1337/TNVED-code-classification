@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of WSLB-525-008-H-T production of WAVESPECTRUM LASER from the text: \n 520nm～525nm 8W Fiber Coupled Laser Dio de (LD) Module with HHL Package  | 525nm Green Laser Module \n525nm | 8W Output Power| HHL Package| Built-in PD Optional | Hi gh Power LD |With TEC cooler \nWSLB-525-008-H-T              W a v e s p e c t r u m  L a s e r  G r o u p             w w w . w a v e s p e c t r um-laser.com \nPARAMETER SYMBOL VALUE UNIT \nMAX Reverse Current V r 80 mA \nOperating Temperature Top +10~+30 °C \nStorage Temperature T stg -40~+85 °C \nLead soldering temperature (10 sec.) Tis 260 °C  \nFeatures: \n 525nm \n 8W Output Power  \n Built-in TEC Cooler  \n Built-in Photodiode Optional  \n Stainless Steel Armor Optional   \n Applications: \n Medical Laser Treatment  \n Laser Show  \n Others  \nSpecifications  WSLB-525-008-H-T \n Min. Type Max. \nCenter Wavelength@25 ℃                       525nm ±10nm \nSpectral Width (FWHM)                                ---- 8nm ---- \nOutput Power ---- 8W ---- \nTemperature Coefficient of Wavelength       ---- 0.1nm / °C ---- \nThreshold Current (Typ.) ---- 0.2A 0.6A \nOperating Current (Typ.) ---- 2.1A 2.3A \nOperating Voltage ---- 35.0V 42.0V \nTEC Max. Current 16A \nTEC Max. Voltage 17V \nThermistor 10K \nFiber Core Diameter ＜400um \nFiber Numerical Aperture 0.22 \nFiber Length ＞80cm \nConnector Type SMA905/ST/FC \nPackage P3 Package \n \n  \nP3 Package View  \n \n \n \nWavespectrum offer Customized  525nm Fiber Coupled LD. \nPlease let me know your special request: \n\uf06c Customized Output Power \n\uf06c Customized Fiber \n\uf06c Customized Fiber Connector \nContact us with info@wavespectrum-laser.com \n \nElectrically shorten LD module an d store in non-extreme conditions. \nSuggest using the constant current power supply. \n \n \n \n \n \n'}]
+!==============================================================================!
+### Component Summary: WSLB-525-008-H-T
+
+**Description:**
+The WSLB-525-008-H-T is a fiber-coupled laser diode (LD) module designed to emit light at a center wavelength of 525 nm. It is packaged in a High Heat Load (HHL) configuration and is capable of delivering an output power of 8W. This module is equipped with a built-in thermoelectric cooler (TEC) for temperature regulation and has an optional built-in photodiode for feedback applications.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Operating Voltage: 35.0V to 42.0V
+  - TEC Max. Voltage: 17V
+
+- **Current Ratings:**
+  - Max Reverse Current: 80 mA
+  - Threshold Current (Typical): 0.2A to 0.6A
+  - Operating Current (Typical): 2.1A to 2.3A
+  - TEC Max. Current: 16A
+
+- **Power Consumption:**
+  - Output Power: 8W
+
+- **Operating Temperature Range:**
+  - Operating Temperature: +10°C to +30°C
+  - Storage Temperature: -40°C to +85°C
+
+- **Package Type:**
+  - HHL Package (P3 Package)
+
+- **Special Features:**
+  - Built-in TEC cooler for temperature management
+  - Optional built-in photodiode
+  - Stainless steel armor available as an option
+  - Customized options for output power, fiber type, and fiber connector
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided information, but typically assessed according to JEDEC J-STD-020E standards.
+
+**Typical Applications:**
+The WSLB-525-008-H-T laser module is suitable for various applications, including:
+- **Medical Laser Treatment:** Utilized in therapeutic and surgical procedures due to its precise wavelength and high output power.
+- **Laser Show:** Employed in entertainment and display technologies for vibrant green laser effects.
+- **Others:** Potential use in industrial applications, scientific research, and optical sensing.
+
+This laser module is designed for high-performance applications requiring reliable and efficient laser output, making it a versatile choice for professionals in various fields.

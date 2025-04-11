@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DDG-102-SZ/C6 production of E-TEC from the text:AB\n01 4.06\n02 6.60 2.54\n03 9.14 5.08\n04 11.68 7.62\n05 14.22 10.16\n06 16.76 12.70\n07 19.30 15.24\n08 21.84 17.78\n09 24.38 20.32\n10 26.92 22.86\n12 32.00 27.94Dimension mm No. Of\nPos.\nItem Desc. Materials/Plating\n1 Base PBT UL 94V-0 (black)\n2 Cover PBT UL 94V-0\n3 Actuators PBT UL 94V-0 (white)\n4 Terminal Copper Alloy/Gold plated\n'}]
+!==============================================================================!
+### Component Summary for DDG-102-SZ/C6 by E-TEC
+
+#### Key Specifications:
+- **Voltage Ratings:** Not specified in the provided text.
+- **Current Ratings:** Not specified in the provided text.
+- **Power Consumption:** Not specified in the provided text.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Not explicitly mentioned, but the component appears to be a connector or switch based on the description.
+- **Special Features or Notes:** The materials used are PBT (Polybutylene Terephthalate) with a UL 94V-0 flame rating, indicating good flame resistance. The terminals are made of copper alloy and are gold plated, which enhances conductivity and corrosion resistance.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Component Description:
+The DDG-102-SZ/C6 is likely a type of connector or switch component, given the context of the materials and the mention of actuators and terminals. The use of PBT for the base, cover, and actuators suggests that it is designed for durability and resistance to environmental factors. The gold plating on the terminals indicates a focus on reliable electrical connections.
+
+#### Typical Applications:
+This component is typically used in applications where reliable electrical connections are necessary, such as:
+- **Consumer Electronics:** For connecting various electronic devices.
+- **Industrial Equipment:** In machinery where robust connectors are required.
+- **Automotive Applications:** For wiring harnesses and connections in vehicles.
+- **Telecommunications:** In devices that require secure and stable connections.
+
+Overall, the DDG-102-SZ/C6 is designed for applications that demand durability, reliability, and effective electrical performance, making it suitable for a wide range of electronic and industrial uses.

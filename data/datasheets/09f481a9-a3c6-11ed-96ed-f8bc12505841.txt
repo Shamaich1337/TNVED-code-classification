@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of PCJ-2005JA/1-DS058-AGZ production of E-TEC from the text:A New 14.02.2022 Cherry\nOrder Code\nPCJ-2005JX/1-DS058-AGZ\nA = Center Pin ∅2.0mm\nB = Center Pin ∅2.5mmOptionRoHS\ncompliant\nTHT DC-Power Jack\n3 Contact - Right Angle\nCenter Pin ∅2.0mm or ∅2.5mmRecommended PCB Layout  Top View\n(Tolerance ±0.05)\nPCB Thickness: 1.60\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X. ±\n.X    ±\n.XX   ±\n.XXX ± E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.30Cherry\nKent\nSH14.02.202214.02.202214.02.2022\nPCJ-2005J/1-DS058-AGZ\nPCJ-2005JA(B)/1-DS058-AGZ1/1\nA9.00 ±0.10\n2.406.50∅2.00 or ∅2.50\n10.93\n1\n3\n2SchematicItem Desc. Q'ty Material Plating\n1 Center Pin 1 H59(Copper Alloy) Sn\n2 Spring 1 C5191 Ag\n3 Curve Piece 1 C2680 Ag\n4 Housing 1 PBT, UL 94V-0 (black) -\n5 Cover 1 PBT, UL 94V-0 (black) -\n6 Flat Piece 1 C2680 AgCenter Pin∅6.30\n4.303.5014.20\n7.502.41\n10.70\n13.604.00\n3.003.70\n4.60\n4.60\n7.50\n10.70\n13.601.0x3.5\n1 2\n32x1.0x3.01\n234\n65\n"}]
+!==============================================================================!
+### Component Summary: PCJ-2005JA/1-DS058-AGZ
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, DC power jacks are rated for standard voltages (e.g., 12V, 24V).
+- **Current Ratings**: Not specified; common ratings for similar components range from 1A to 5A.
+- **Power Consumption**: Not applicable; power consumption is dependent on the load connected to the jack.
+- **Operating Temperature Range**: Not specified; typical operating ranges for similar components are -40°C to +85°C.
+- **Package Type**: Through-Hole (THT) DC-Power Jack.
+- **Special Features or Notes**: 
+  - Available with center pin diameters of 2.0mm or 2.5mm.
+  - Right-angle configuration.
+  - RoHS compliant.
+- **Moisture Sensitive Level (MSL)**: Not specified in the provided text.
+
+#### Description:
+The PCJ-2005JA/1-DS058-AGZ is a through-hole DC power jack designed for connecting power supplies to electronic devices. It features a right-angle configuration, which allows for space-efficient mounting on printed circuit boards (PCBs). The component includes three contacts and is available with two different center pin diameters (2.0mm and 2.5mm), making it versatile for various applications.
+
+#### Typical Applications:
+This DC power jack is commonly used in:
+- **Power Management**: Connecting external power supplies to devices such as laptops, portable electronics, and other consumer electronics.
+- **Signal Processing**: Providing power to signal processing circuits in audio and video equipment.
+- **Data Storage**: Powering external hard drives and other data storage devices.
+- **General Electronics**: Utilized in a wide range of electronic devices requiring a reliable power connection.
+
+This component is essential for ensuring a stable power supply in various electronic applications, making it a critical part of many consumer and industrial devices.

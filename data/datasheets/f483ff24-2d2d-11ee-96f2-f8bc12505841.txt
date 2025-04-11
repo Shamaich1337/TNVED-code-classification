@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 28WHB-30-30-15_Cu production of AINFO from the text:28WHB-30-30-15_Cu\n26.5–40.0GHz90degH-PlaneRadiusBendWG\nAINFOInc. Page1of3\nChina(Beijing): Tel:(+86)10-6266-7326, (+86)10-6266-7327Fax:(+86)10-6266-7379\nChina(Chengdu):Tel:(+86)28-8519-2786, (+86)28-8519-3044Fax:(+86)28-8519-3068 Website:www.ainfoinc.com\nUSA: Tel:(+1)949-639-9688, (+1)949-639-9608Fax:(+1)949-639-9670 Email:sales@ainfoinc.com\nDatasubjecttochangewithoutnotice.Forcurrentdatasheets,pleasecontact:Sales@ainfoinc.com\nForreferenceonly.Seedatasheetforthedetailedspecifications.\nTechnicalSpecification\nEIAWR WR28\nFrequencyRange(GHz) 26.5–40.0\nInsertionLoss(dB) 0.2Max.\nVSWR 1.15:1Max.\nFlange FBP320(UBR320)\nMaterial Cu\nSize(mm) 39.55x39.55x19.1\nNetWeight(Kg) 0.03Around\nOutlineDrawing(Size:mm)\n\n28WHB-30-30-15_Cu\n26.5–40.0GHz90degH-PlaneRadiusBendWG\nAINFOInc. Page2of3\nChina(Beijing): Tel:(+86)10-6266-7326, (+86)10-6266-7327Fax:(+86)10-6266-7379\nChina(Chengdu):Tel:(+86)28-8519-2786, (+86)28-8519-3044Fax:(+86)28-8519-3068 Website:www.ainfoinc.com\nUSA: Tel:(+1)949-639-9688, (+1)949-639-9608Fax:(+1)949-639-9670 Email:sales@ainfoinc.com\nDatasubjecttochangewithoutnotice.Forcurrentdatasheets,pleasecontact:Sales@ainfoinc.com\nFlangeDrawing(Size:mm)\n\n28WHB-30-30-15_Cu\n26.5–40.0GHz90degH-PlaneRadiusBendWG\nAINFOInc. Page3of3\nChina(Beijing): Tel:(+86)10-6266-7326, (+86)10-6266-7327Fax:(+86)10-6266-7379\nChina(Chengdu):Tel:(+86)28-8519-2786, (+86)28-8519-3044Fax:(+86)28-8519-3068 Website:www.ainfoinc.com\nUSA: Tel:(+1)949-639-9688, (+1)949-639-9608Fax:(+1)949-639-9670 Email:sales@ainfoinc.com\nDatasubjecttochangewithoutnotice.Forcurrentdatasheets,pleasecontact:Sales@ainfoinc.com\nTestResults\nI.L.\nVSWR\n\n'}]
+!==============================================================================!
+### Component Summary: 28WHB-30-30-15_Cu
+
+**Description:**
+The 28WHB-30-30-15_Cu is a waveguide bend component designed for high-frequency applications. It operates within the frequency range of 26.5 to 40.0 GHz and features a 90-degree H-plane radius bend. The component is constructed from copper (Cu), which is known for its excellent conductivity, making it suitable for microwave and RF applications.
+
+**Key Specifications:**
+- **Frequency Range:** 26.5 – 40.0 GHz
+- **Insertion Loss:** 0.2 dB Max
+- **VSWR (Voltage Standing Wave Ratio):** 1.15:1 Max
+- **Flange Type:** FBP320 (UBR320)
+- **Material:** Copper (Cu)
+- **Size:** 39.55 mm x 39.55 mm x 19.1 mm
+- **Net Weight:** Approximately 0.03 kg
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+**Special Features:**
+- The component is designed for minimal insertion loss, making it efficient for signal transmission.
+- The low VSWR indicates good impedance matching, which is crucial for maintaining signal integrity in high-frequency applications.
+
+**Typical Applications:**
+The 28WHB-30-30-15_Cu is typically used in:
+- **Microwave Communication Systems:** For routing signals in high-frequency communication links.
+- **Antenna Systems:** As part of antenna feed networks where waveguide components are required.
+- **Test Equipment:** In laboratory setups for testing and measurement of microwave signals.
+- **Radar Systems:** For signal processing and transmission in radar applications.
+
+This component is essential for applications that require reliable performance at microwave frequencies, ensuring efficient signal transmission with minimal loss.

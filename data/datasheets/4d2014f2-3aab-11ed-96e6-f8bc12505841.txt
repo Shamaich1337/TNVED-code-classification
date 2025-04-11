@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TSM-660-106EC1/6SZ production of E-TEC from the text: SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.30Cherry\nKent\nSH22.01.2021\n05.05.202205.05.2022TSM-660-C1/6SZ\nTSM-660-xxxXC1/6SZ1/1\nBA New 22.01.2021 Cherry\nRoHS\ncompliant\nTactile Switch  SMT  6.60X6.60Material\nHousing: PA6T (black) UL 94-V0\nStem: Rubber\nContact: Stainless Steel; Silver plated\nTerminal: Brass; Silver plated\nCover: Stainless Steel\nOperating temperature: -20°C to +70°C\nStorage temperature: -40°C to+85°C\nMechanical Requirements\nOperating life: see under "Operating Force"\nPacking\nReelOrder Code\nTSM-660-xx x XC1/6SZ\nStem height option (" H")\n0.95mm = 09\n1.05mm = 10\n2.65mm = 26Operating Force\nA = 100g± 40g (0.98N) (300,000 Cycles)\nB = 160g± 50g (1.57N) (300,000 Cycles)\nC= 260g± 80g (2.55N) (10,000 Cycles)\nD= 320g±100g (3.14N) (10,000 Cycles)\nG= 200g±  60g (1.96N) (10,000 Cycles)\nN= 400g±100g (3.92N) (10,000 Cycles)\nE= 550g±150g (5.39N) (10,000 Cycles)\nStem Color\n6 =b l u e\nSpecifications\nElectrical\nCurrent rating: 50mA @12V DC\nInsulation resistance: 100M Ω min.\nContact resistance: 100m Ω max.\nWithstanding voltage: 250V AC / Minute1 2\n4 36.60\n0.704.00\n6.20\n6.60\n6.602.45\n0.10H∅2.904.007.00\n4.00\n0.90\nRecommended PCB Layout\n1\n32\n4\nCircuit DiagramB add Stem height& Operating Force option 05.05.2022 Cherry\n'}]
+!==============================================================================!
+### Component Summary for TSM-660-106EC1/6SZ
+
+**Component Type:** Tactile Switch (Surface Mount Technology - SMT)
+
+**Description:**
+The TSM-660-106EC1/6SZ is a tactile switch designed for surface mounting on printed circuit boards (PCBs). It features a compact design with a square footprint of 6.60mm x 6.60mm. The switch is constructed with a durable housing made from PA6T material, which is UL 94-V0 rated for flame resistance. The stem is made of rubber, while the contacts are stainless steel with silver plating, ensuring reliable electrical performance.
+
+**Key Specifications:**
+- **Voltage Ratings:** 12V DC
+- **Current Ratings:** 50mA
+- **Power Consumption:** Not explicitly stated, but can be inferred from current rating (P = V x I = 12V x 0.05A = 0.6W)
+- **Operating Temperature Range:** -20°C to +70°C
+- **Storage Temperature Range:** -40°C to +85°C
+- **Package Type:** SMT (Surface Mount Technology)
+- **Operating Force Options:**
+  - A: 100g ± 40g (0.98N) - 300,000 cycles
+  - B: 160g ± 50g (1.57N) - 300,000 cycles
+  - C: 260g ± 80g (2.55N) - 10,000 cycles
+  - D: 320g ± 100g (3.14N) - 10,000 cycles
+  - G: 200g ± 60g (1.96N) - 10,000 cycles
+  - N: 400g ± 100g (3.92N) - 10,000 cycles
+  - E: 550g ± 150g (5.39N) - 10,000 cycles
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+- **Special Features:** RoHS compliant, high insulation resistance (100MΩ min), low contact resistance (100Ω max), and withstand voltage of 250V AC for 1 minute.
+
+**Typical Applications:**
+The TSM-660-106EC1/6SZ tactile switch is commonly used in various electronic devices for user interface applications. Typical applications include:
+- Consumer electronics (e.g., remote controls, keyboards)
+- Industrial equipment
+- Medical devices
+- Automotive controls
+- Home appliances
+
+This tactile switch is ideal for applications requiring a reliable and durable switch with a tactile feedback mechanism, making it suitable for both low-power and high-cycle applications.

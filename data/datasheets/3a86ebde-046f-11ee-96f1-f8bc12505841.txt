@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of 35362-0850 production of MOLEX from the text:H=8.5W=6.4\nMATED HEIGHT(C)\n(B)B\n(A)\n(A) BF1\n(C)NOTES\n \n 1. MATERIAL : UNFILLED POLYAMIDE, UL94V-0 \n               PIN : BRASS\n 2. FINISHES : PIN - Tin(Sn) 1.0~3.0㎛ OVERALL\n                                  Cu 1.5~3.75㎛ OVERAL\n 3. PRODUCT SPECIFICATION : PS-35507-003\n 4. MATING HOUSING : 35507-**0*\n     MATING TERMINAL : 50212-8000\n 5. KINKB\nFORMAT: master-tb-prod-A3\nREVISION: J\nDATE: 2020/01/14DOCUMENT STATUS P1 RELEASE DATE 2020/04/23 05:05:33 \n \n \nFUNCTIONAL\nSYMBOLS\n=0\n=0\n=0\nDIVISIONAL\nSYMBOLS2.0 W/B WAFER ASS'Y \n-LEAD FREE-\n PRODUCT CUSTOMER DRAWING\nDOCUMENT NUMBER DOC TYPE DOC PART REVISION\nSD-35362-002 PSD 001F3\nMATERIAL NUMBER CUSTOMER SHEET NUMBER\nSEE TABLE GENERAL MARKET  1 OF 1CURRENT REV DESC:\nEC NO: 636378\nDRWN: SCHONG03 2020/04/21\nCHK'D: JBJIN 2020/04/23\nAPPR: YSKIM02 2020/04/23\nINITIAL REVISION:\nDRWN: DYJANG 2004/09/01\nAPPR: CHANGWOOLEE 2004/09/02\nTHIRD ANGLE PROJECTION DRAWING SERIES\nA3-SIZE 35362DIMENSION UNITS SCALE\nmm 5:1\nGENERAL TOLERANCES\n   (UNLESS SPECIFIED)\nANGULAR TOL ±  °\n4 PLACES ±\n3 PLACES ±\n2 PLACES ±\n1 PLACE ±\n0 PLACES ±\nDRAFT WHERE APPLICABLE\nMUST REMAIN\nWITHIN DIMENSIONSTHIS DRAWING CONTAINS INFORMATION THAT IS PROPRIETARY TO MOLEX ELECTRONIC TECHNOLOGIES, LLC AND SHOULD NOT BE USED WITHOUT WRITTEN PERMISSION10 9\n98\n87\n7F6\nF\n6E5\nE\n5D4\nD\n4C3\nC\n3B2\nB\n2A1\nA\n1\n35362-0287B\n(A)(C)H=8.5\nMATED HEIGHTW=6.4B\nA1\n35362-0287F1\nBNOTES\n \n 1. MATERIAL : UNFILLED POLYAMIDE, UL94V-0 \n                          PIN : BRASS\n 2. FINISHES : PIN - Tin(Sn) 1.0~3.0㎛ OVERALL\n                                  Cu 1.5~3.75㎛ OVERAL\n 3. PRODUCT SPECIFICATION : PS-35507-003\n 4. MATING HOUSING : 35507-**0*\n     MATING TERMINAL : 50212-8000\n 5. KINK\n \n \n \n \n \n 6. 35362-0287 IS ONLY KINKED 2P\n2\nPRODUCT NO.\n(A) (C) B\nFORMAT: master-tb-prod-A3\nREVISION: J\nDATE: 2020/01/14DOCUMENT STATUS P1 RELEASE DATE 2020/04/23 05:05:34 \n \n \nFUNCTIONAL\nSYMBOLS\n=0\n=0\n=0\nDIVISIONAL\nSYMBOLS2.0 W/B WAFER ASS'Y \n-LEAD FREE-\n PRODUCT CUSTOMER DRAWING\nDOCUMENT NUMBER DOC TYPE DOC PART REVISION\nSD-35362-002 PSD 002F3\nMATERIAL NUMBER CUSTOMER SHEET NUMBER\nSEE TABLE GENERAL MARKET  1 OF 1CURRENT REV DESC:\nEC NO: 636378\nDRWN: SCHONG03 2020/04/21\nCHK'D: JBJIN 2020/04/23\nAPPR: YSKIM02 2020/04/23\nINITIAL REVISION:\nDRWN: DYJANG 2004/09/01\nAPPR: CHANGWOOLEE 2004/09/02\nTHIRD ANGLE PROJECTION DRAWING SERIES\nA3-SIZE 35362DIMENSION UNITS SCALE\nmm 5:1\nGENERAL TOLERANCES\n   (UNLESS SPECIFIED)\nANGULAR TOL ±  °\n4 PLACES ±\n3 PLACES ±\n2 PLACES ±\n1 PLACE ±\n0 PLACES ±\nDRAFT WHERE APPLICABLE\nMUST REMAIN\nWITHIN DIMENSIONSTHIS DRAWING CONTAINS INFORMATION THAT IS PROPRIETARY TO MOLEX ELECTRONIC TECHNOLOGIES, LLC AND SHOULD NOT BE USED WITHOUT WRITTEN PERMISSION10 9\n98\n87\n7F6\nF\n6E5\nE\n5D4\nD\n4C3\nC\n3B2\nB\n2A1\nA\n1\n"}]
+!==============================================================================!
+### Component Summary for MOLEX 35362-0850
+
+#### Key Specifications:
+- **Mated Height (H)**: 8.5 mm
+- **Width (W)**: 6.4 mm
+- **Material**: 
+  - Housing: Unfilled Polyamide, UL94V-0 rated
+  - Pins: Brass
+- **Finishes**: 
+  - Pin: Tin (Sn) 1.0~3.0 µm overall
+  - Copper (Cu) 1.5~3.75 µm overall
+- **Product Specification**: PS-35507-003
+- **Mating Housing**: 35507-**0*
+- **Mating Terminal**: 50212-8000
+- **Moisture Sensitivity Level**: Not specified in the provided text.
+
+#### Description:
+The MOLEX 35362-0850 is a 2.0 mm pitch wafer assembly connector designed for lead-free applications. It is primarily used for connecting electronic components in various devices. The connector features a compact design with a mated height of 8.5 mm and a width of 6.4 mm, making it suitable for space-constrained applications.
+
+#### Typical Applications:
+The MOLEX 35362-0850 connector is typically used in:
+- **Consumer Electronics**: Such as smartphones, tablets, and other portable devices.
+- **Computers and Peripherals**: For internal connections between components.
+- **Automotive Applications**: In wiring harnesses and electronic control units.
+- **Industrial Equipment**: For reliable connections in machinery and automation systems.
+
+This connector is ideal for applications requiring a robust and compact connection solution, ensuring reliable performance in various electronic assemblies.

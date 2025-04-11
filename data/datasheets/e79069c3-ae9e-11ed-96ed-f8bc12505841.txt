@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ADM6-60-01.5-L-4-2-A-TR production of SAMTEC from the text:• Up to 400 positions in 4-row design \n• 5 mm, 7 mm, 9 mm, 10 mm, 11 mm, 12 mm  \n14 mm & 16 mm stack heights\n• Slim 5 mm width body design\n• Edge Rate® contact system optimized  \nfor signal integrity performance\n• Open-pin-field for grounding and routing flexibility\n• PCIe® 5.0 capable\n• Compatible with mPower® (UMPT/UMPS)  \nfor a power signal solution\nKEY SPECIFICATIONS  FEATURES & BENEFITS\nPITCHTOTAL  \nPOSITIONSINSULATOR \nMATERIALCONTACT \nMATERIALPLATINGOPERATING \nTEMP RANGECURRENT \nRATINGWORKING \nVOLTAGELEAD-FREE \nSOLDERABLE\n(0.635 mm)  \n.025"40 - 400 Black  \nLCP Copper  \nAlloyAu or Sn over  \n50 µ"  (1.27 µm) Ni-55 ºC to  \n+125 ºC1.34 A per pin  \n(4 pins powered)Testing \nnowYesHIGH-DENSITY\nSLIM BODY ARRAYS\n(0.635 mm)  .025 " PITCH  \nUnless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.Solder ball technology  \nfor simplified processing\nHIGHER DENSITY THAN PREVIOUS GENERATION STRIPS \nADM6/ADF6 Series (400 total positions)\n(5.00)\n.248\n(5.00)\n.248\n(68.22) 2.69(68.22) 2.69\nF-221 (Rev 10MAR22) samtec.com/AcceleRateHD\n(0.635 mm) .025" PITCH  •  SLIM BODY OPEN-PIN-FIELD ARRAYS\nSERIES -NO. OF  \nPOSITIONS -LEAD\nSTYLE -PLATING\nOPTION -NO. OF\nROWS -SOLDER\nTYPE -OPTION -“X”R\nADM6\nTerminal \nADF6\nSocket–10, –20,  \n–30, –40,  \n–50, –60,  \n(per row )\n–100\n(–01.5 and –03.5 \nstack height only)–01.5\n= 1.5 mm \n(ADM6 only)\n–03.5\n= 3.5 mm\n–06.5\n= 6.5 mm \n(ADM6 only)\n–07.5\n= 7.5 mm \n(ADF6 only)\n–08.5\n= 8.5 mm\n(ADM6 only)–L\n= 10 µ" \n(0.25 µm)   \nGold on \ncontact area, \nMatte Tin on tail\n–S\n= 30 µ" \n(0.76 µm) \nGold on \ncontact area, \nMatte Tin on tail–4\n= Four Rows–2\n= Lead-Free \nSolder Ball(Leave blank  \nfor no  \nalignment pin)\n–A\n= Alignment Pin–TR \n= Tape & Reel\n–FR \n= Full Reel \nTape & Reel \n(must order \nmax. quantity \nper reel; \ncontact Samtec \nfor quantity \nbreaks)\nADF6ADM6\nBoard Mates:\nADF6\nStandoffs:\nJSO\nBoard Mates:\nADM6\nStandoffs:\nJSO\nUnless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.View complete specifications at: samtec.com?ADF6  01(5.00)\n.197\nANo. of Positions x \n(0.635) .025 + (4.72) .18601(5.00)\n.197No. of Positions x \n(0.635) .025 + (4.72) .186\n(2.90)\n.114 A\nView complete specifications at: samtec.com?ADM6  MATED HEIGHTS *\nADF6  \nLEAD STYLEADM6 LEAD STYLE\n—01.5 —03.5 —06.5 —08.5\n—03.5 (5 mm) .197" (7 mm) .276" (10 mm) .394" (12 mm) .472"\n—07.5 (9 mm) .354" (11 mm) .433" (14 mm) .551" (16 mm) .630"\n* Processing conditions will affect mated height.\nNotes:   \nSome sizes, styles and  \noptions are non-standard, \nnon-returnableLEAD\nSTYLEA\n–01.5 (3.40) .134\n–03.5 (5.40) .213\n–06.5 (8.40) .331\n–08.5 (10.40) .409\nLEAD\nSTYLEA\n–03.5(3.73) \n.147\n– 07.5(7.73) \n.304\nF-221 (Rev 10MAR22) samtec.com/AcceleRateHD\n'}]
+!==============================================================================!
+### Component Summary for ADM6-60-01.5-L-4-2-A-TR
+
+**Component Type:** High-Density Slim Body Array Connector
+
+**Description:**
+The ADM6-60-01.5-L-4-2-A-TR is a high-density, slim body array connector designed for applications requiring efficient space utilization and high signal integrity. It features a 4-row design with a total of up to 400 positions, making it suitable for various electronic applications, particularly in high-speed data transmission environments.
+
+### Key Specifications:
+- **Pitch:** 0.635 mm (0.025 inches)
+- **Total Positions:** 60 (per row)
+- **Insulator Material:** Black LCP (Liquid Crystal Polymer)
+- **Contact Material:** Copper Alloy
+- **Plating:** Gold (10 µ" or 0.25 µm) on contact area, Matte Tin on tail
+- **Operating Temperature Range:** -55 ºC to +125 ºC
+- **Current Rating:** 1.34 A per pin (with 4 pins powered)
+- **Working Voltage:** Not specified in the provided text
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text
+- **Lead-Free Solderable:** Yes
+- **Stack Heights Available:** 1.5 mm, 3.5 mm, 6.5 mm, 8.5 mm, 10 mm, 11 mm, 12 mm, 14 mm, and 16 mm
+
+### Special Features:
+- **Edge Rate® Contact System:** Optimized for signal integrity performance, reducing crosstalk and improving overall signal quality.
+- **Open-Pin-Field Design:** Provides flexibility for grounding and routing, allowing for customized PCB layouts.
+- **PCIe® 5.0 Capable:** Supports high-speed data transfer rates suitable for modern computing applications.
+- **Compatibility with mPower®:** Can be used in conjunction with mPower® (UMPT/UMPS) for power signal solutions.
+
+### Typical Applications:
+- **Data Communication:** Ideal for high-speed data transmission applications, such as PCIe interfaces in computers and servers.
+- **Telecommunications:** Suitable for use in telecom equipment where space and signal integrity are critical.
+- **Consumer Electronics:** Can be utilized in various consumer electronic devices requiring compact and efficient connectors.
+- **Industrial Automation:** Useful in industrial control systems where reliable connections are necessary for data and power distribution.
+
+This connector is designed to meet the demands of modern electronic systems, providing a reliable and efficient solution for high-density interconnect applications.

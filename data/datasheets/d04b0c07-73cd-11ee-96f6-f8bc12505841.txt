@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-SLS-016-H562G-55/2B production of DECIGN from the text:13.5\n15.56.04.0\n2*42*3PIN\nNO.DIMADIMENSION\nDIMB\n17.5\n19.510.08.0\n2*62*5\n21.5\n23.514.012.0\n2*82*7\n25.5\n27.518.016.0\n2*102*929.5\n31.522.020.0\n2*122*11PIN\nNO.DIMADIMENSION\nDIMB\n33.5\n35.526.024.0\n2*142*13\n37.5\n39.530.028.0\n2*162*15\n41.5\n43.534.032.0\n2*182*1745.5\n47.538.036.0\n2*202*19PIN\nNO.DIMADIMENSION\nDIMB\n49.5\n51.542.040.0\n2*222*21\n53.5\n55.546.044.0\n2*242*23\n57.5\n59.550.048.0\n2*262*25\n61.5\n63.554.052.0\n2*282*27\n65.567.558.0\n56.02*30\n2*2969.5\n71.562.060.0\n2*322*3173.5\n75.566.064.0\n2*342*337.5±0.305.6±0.20\n5.5±0.20\nDIMA  2.0*(PIN NO./2-1)±0.30SQ 0.5±0.02 2.0±0.10\n2.0±0.10\nDIMB  (2.0*PIN NO./2+7.5)±0.50\n2 0.85\n8.63.3\nRecommended P.C.B.Hole Layout6.50±0.20\n1.0±0.104.04.010.0\n6.75±0.25\n0.65±0.20A\nB\nC\nD\nE\nF\nG\nH1 2 3 4 5 6 7 8\nSHEET 1/1 UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n1 2 3 4 5 6 7 8A\nB\nC\nD\nE\nF\nG\nHTom\nTP-SLS-0XX-H562G-55/2B09.19.2023Jerry\nPaulNew\nB\nD\nREV.DPCR-N20009.19.2023\n09.19.2023A 09.19.2023 Tom\nC\n0.25Male Power Connector\n2.00mm pitch, dual row,\n H=6.75mm footprint 7.50mm, SMT Box\nHeader,Order Code\nSpecifications\nElectrical\nCurrent rating: 2A\nInsulation resistance: 1000M Ω min.\nContact resistance: 20mΩ max.\nWithstanding  voltage : 500V AC /DCMaterial\nContact: Brass\nPlating: Gold Flash  over Ni\nInsulator: PA9T (black)  UL 94V-0\nOperating temperature: - 40°C to + 105°CTP-SLS-0XX-H562G-55/2B\n \n'}]
+!==============================================================================!
+### Component Summary for TP-SLS-016-H562G-55/2B
+
+**Component Type:** Male Power Connector
+
+**Description:**
+The TP-SLS-016-H562G-55/2B is a male power connector designed for surface mount technology (SMT) applications. It features a dual-row configuration with a 2.00mm pitch and a compact footprint of 6.75mm in height. The connector is suitable for various electronic applications requiring reliable power connections.
+
+**Key Specifications:**
+- **Voltage Ratings:** 500V AC/DC (withstanding voltage)
+- **Current Ratings:** 2A
+- **Power Consumption:** Not specified directly; however, the current rating indicates the maximum load capacity.
+- **Operating Temperature Range:** -40°C to +105°C
+- **Package Type:** SMT Box Header
+- **Special Features:**
+  - Insulation resistance: 1000 MΩ minimum
+  - Contact resistance: 20 mΩ maximum
+  - Contact material: Brass with gold flash plating over nickel
+  - Insulator material: PA9T (black), UL 94V-0 rated
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Typical Applications:**
+The TP-SLS-016-H562G-55/2B connector is typically used in power management applications within electronic devices. Its robust design and high-temperature tolerance make it suitable for various environments, including industrial, automotive, and consumer electronics. It can be utilized in applications such as:
+- Power distribution in electronic circuits
+- Connection points for power supplies
+- Interfacing with circuit boards in compact electronic devices
+
+This connector is ideal for scenarios where space is limited, and reliable electrical connections are critical.

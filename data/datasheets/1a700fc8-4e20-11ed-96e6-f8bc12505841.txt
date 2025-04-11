@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of T4171010005-001 production of TE CONNECTIVITY from the text:3\nREVISIONS\n0 PLC\n1 PLC\n2 PLC\n3 PLC\n4 PLC\nANGLES\nOF SCALE SHEET REVNAME\nSIZE CAGE CODE DRAWING NODIMENSIONS: TOLERANCES UNLESS\nOTHERWISE SPECIFIED:DWN\nCHK\nAPVD\nMATERIAL FINISHPRODUCT SPEC\nAPPLICATION SPEC\nWEIGHTPLTR DATE APVD DWN DESCRIPTION4 2 1\nD\nB\nA ABC CDALL RIGHTS RESERVED.RELEASED FOR PUBLICATION\nCCOPYRIGHTTHIS DRAWING IS UNPUBLISHED.\n1471-9 (3/13)A2RESTRICTED TOTHIS DRAWING IS A CONTROLLED DOCUMENT.\nTE Connectivity\nCUSTOMER DRAWINGT417101000X00LBO GAO29MAR2016\nKOBBY ZHAO29MAR2016\nXIANG XU29MAR2016\n2:1 11A2108-106140\n114-137144\n-- -mm\n-\n0.2\n0.2\n0.2\n-\n-M12 PANEL MOUNT CONNECTOR\nA CODE, MALE, REAR MOUNTING\n-\n-copyright_date-\n-BY -\n- -HEX18.0\n13.5\nM12PG918.0\n1116.922.00 "L" M0.05\nCh1x45\x01$\x02Ch1x45\x01$\x02\nCh1x45\x01$\x02TECHNICAL DATA\nT4171010002-00L T4171010003-00L T4171010004-00L T4171010005-00L\nRATED VOLTAGE 250V 250V 250V 60V\nRATED CURRENT 4A 4A 4A 4A\nPOLLITION DEGREE 3 3 3 3\nOVERVOLTAGE CATEGORY II II II II\nMATERIAL GROUP II II II II\nCONTACT RESISTANCE <=10m\x01^\x02 <=10m\x01^\x02 <=10m\x01^\x02 <=10m\x01^\x02\nINSULATION RESISTANCE >100M\x01^\x02 >100M\x01^\x02 >100M\x01^\x02 >100M\x01^\x02\nDEGREE OF PROTECTION IP67 IP67 IP67 IP67\nOPERATION TEMPEATURE -40~85\x01$\x02C -40~85\x01$\x02C -40~85\x01$\x02C -40~85\x01$\x02C\nPIN ARRANGEMENT\nA-CODE\nT4171010002-00L T417101003-00L  T4171010004-00L\nT4171010005-00L- - CABLE 62345\nFLASH GOLD COPPER ALLOY CONTACT 52345 \n- COPPER ALLOY METAL NUT 41111\n- - O-RING 31111\n- COPPER ALLOY M12,MALE,METAL BODY 21 111\nBLACK NYLON M12,MALE HSG, A CODE, 5PINS 11111\nCOMMENT MATERIAL DESCRIPTION ITEM\nT4171010002-00L\nT4171010003-00L\nT4171010004-00L\nT4171010005-00LWIRES: 0.34MM^2(22AWG)\nWIRE PN AND COLOR:\n 1(BR)/2(WH)/3(BL)/4(BK)/5(GR)-001:0.2M\n-002:0.5M-003:1.0M-004:1.5M\n-005:3.0M\n-006:5.0M\n-007:7.0M\n-008:10.0MRPC-M12-MF-5CON-PG9-**LAU  5 T4171010005-00L\nRPC-M12-MF-4CON-PG9-**LAU  4 T4171010004-00L\nRPC-M12-MF-3CON-PG9-**LAU  3 T4171010003-00L\nRPC-M12-MF-2CON-PG9-**LAU  2\nT4171010002-00L\nCABLE\nCHARACTERISTICCABLE LENGTH\n"L"DESCRIPTION POSTABLE 2\nPNTABLE 1\nNOTE:\n1. TECHNICAL DATA: SEE TABLE 1 2. PRODUCT COMPLIES WITH IEC61076-2-1013. PLASTIC INERT MATERIAL:UL LISTED WITH UL94V0 FLAME RATING\n . CABLE LENGTH SEE TABLE 2  ::1:    ,  1\n2:      IEC61076-2-101\n3:      UL  ,UL-94V0    \n :     2\nRECOMMENDED PANEL CUTOUTA2  ECR-16-010931 UPDATE NAME                      02AUG2016 L.Z  X.X\n12\n3\n46PIN 1-BROWN\nPIN 2-WHITE\nPIN 5-GRAY\nPIN 3-BLUEPIN 4-BLACKPOTTING\n5\n4 4\n44\n4\n4\n4\n'}]
+!==============================================================================!
+### Component Summary for T4171010005-001 (TE Connectivity)
+
+#### Key Specifications:
+- **Voltage Rating**: 60V
+- **Current Rating**: 4A
+- **Power Consumption**: Not specified directly; however, power can be calculated as \( P = V \times I = 60V \times 4A = 240W \) (theoretical maximum).
+- **Operating Temperature Range**: -40°C to +85°C
+- **Package Type**: M12 Panel Mount Connector, A Code, Male, Rear Mounting
+- **Special Features**: 
+  - Degree of Protection: IP67 (dust-tight and protected against immersion in water)
+  - Overvoltage Category: II
+  - Pollution Degree: 3
+  - Insulation Resistance: >100 MΩ
+  - Contact Resistance: ≤10 mΩ
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The T4171010005-001 is an M12 panel mount connector designed for robust electrical connections in various applications. It features a male connector with an A-code pin arrangement, which typically includes five pins. The connector is constructed from durable materials, including a metal body and nylon housing, ensuring reliability in harsh environments.
+
+#### Typical Applications:
+This connector is commonly used in industrial automation, sensor connections, and other applications requiring reliable and secure connections in environments exposed to moisture and dust. Its IP67 rating makes it suitable for outdoor use and in applications where exposure to water is a concern. Typical applications include:
+- Industrial machinery
+- Robotics
+- Automotive systems
+- Data acquisition systems
+- Control systems in manufacturing processes
+
+This connector is ideal for environments where durability and resistance to environmental factors are critical, making it a preferred choice in various industrial and commercial applications.

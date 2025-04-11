@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 28WTA-55_Cu production of AINFO from the text:28WTA-55_Cu\n26.5\n-\n40.\n0GHz\nTwist\nWaveguide\nChengdu\nAINFO\nInc.\nPage\n1\nTel:\n+86-28-8519-2786\nor\n+86-28-8519-3047\nFax:\n+86-28-8519-\n3068\nWebsite\n:\nwww.ainfoinc.com\nData\nsubject\nto\nchange\nwithout\nnotice\n.\nF\nor\ncurrent\ndata\nsheets,\nplease\ncontac\nt:\nSales@ainfoinc.com\nTechnical\nSpecification\nEIA\nWR\nWR\n28\nFrequency\nRange\n(\nGHz\n)\n26.5\n-\n40.0\nVSWR\n1.\n10\nmax\nFlange\nF\nB\nP\n320\nMaterial\nCu\nNet\nWeight(Kg)\n0.\n06\nAround\nOutline\nDrawing\n(\nSize\n:\nmm)\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n28WTA-55_Cu\n26.5\n-\n40.\n0GHz\nTwist\nWaveguide\nChengdu\nAINFO\nInc.\nPage\n2\nTel:\n+86-28-8519-2786\nor\n+86-28-8519-3047\nFax:\n+86-28-8519-\n3068\nWebsite\n:\nwww.ainfoinc.com\nData\nsubject\nto\nchange\nwithout\nnotice\n.\nF\nor\ncurrent\ndata\nsheets,\nplease\ncontac\nt:\nSales@ainfoinc.com\nFlange\nDrawing\n(Size:\nmm)\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n28WTA-55_Cu\n26.5\n-\n40.\n0GHz\nTwist\nWaveguide\nChengdu\nAINFO\nInc.\nPage\n3\nTel:\n+86-28-8519-2786\nor\n+86-28-8519-3047\nFax:\n+86-28-8519-\n3068\nWebsite\n:\nwww.ainfoinc.com\nData\nsubject\nto\nchange\nwithout\nnotice\n.\nF\nor\ncurrent\ndata\nsheets,\nplease\ncontac\nt:\nSales@ainfoinc.com\nTest\nResults\nVSWR\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n'}]
+!==============================================================================!
+### Component Summary: 28WTA-55_Cu
+
+**Description:**
+The 28WTA-55_Cu is a twist waveguide designed for high-frequency applications. It operates within a frequency range of 26.5 to 40.0 GHz, making it suitable for microwave and millimeter-wave applications. The component is constructed from copper (Cu), which provides excellent conductivity and durability.
+
+**Key Specifications:**
+- **Frequency Range:** 26.5 - 40.0 GHz
+- **VSWR (Voltage Standing Wave Ratio):** 1.10 max
+- **Material:** Copper (Cu)
+- **Net Weight:** 0.06 Kg
+- **Flange Type:** EIA WR28
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+**Operating Characteristics:**
+- The component is designed to minimize signal reflection and maximize transmission efficiency, as indicated by the low VSWR value.
+- The twist waveguide configuration allows for flexibility in routing microwave signals in compact spaces.
+
+**Typical Applications:**
+- **Microwave Communication Systems:** Used in satellite communication, radar systems, and other high-frequency communication applications.
+- **Signal Processing:** Ideal for applications requiring precise signal transmission and minimal loss.
+- **Research and Development:** Utilized in laboratory settings for testing and experimentation with high-frequency signals.
+
+This component is particularly valuable in industries that require reliable performance at microwave frequencies, such as telecommunications, aerospace, and defense.

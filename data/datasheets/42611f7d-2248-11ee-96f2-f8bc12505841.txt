@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ROC-RK3568-PC SE Quad-Core 64-Bit Mini Computer production of FIREFLY from the text:ROC-RK3568-PC SE\nQuad-Core 64-Bit Mini Computer\nV1.0T-CHIP INTELLIGENCE TECHNOLOGY\n\nProduct features\nQuad-core 64-bit processor\nQuad-core 64bit Cortex-A55 processor\n22nm lithography process\nup to 2.0GHz8GB large RAM\nUp to 8GB RAM,\nfrequency up to 1600MHz\nGPU/VPU/NPU\nOpenGL ES3.2/2.0，Vulkan1.1\n4K@60fps H.265/VP9 video decoding\n1080P@100fps H.265 video encoding\n1TOPS NPUDual Gigabit Ethernet\nDual 1000Mbps（RJ45)\n2.4G/5G Dual-band WiFi、BT5.0\n4G LTE module can be expanded.\nSupports various systems\nAndroid、Ubuntu、Buildroot\nIt enables stable operation and \ncustomization for industries.A variety of interfaces\nControl Port (RS232 x2, RS485x1)\nHDMI2.0, GE (RJ45), USB3.0, USB2.0 \nUSB-C (OTG), \n\nSpecifications\nSOC RK3568\nCPU Quad-core 64-bit Cortex-A55 processor, 22nm lithography process, frequency up to 2.0GHz\nGPU ARM G52 2EE，Support OpenGL ES 1.1/2.0/3.2, OpenCL 2.0 and Vulkan 1.1，Built-in high-performance 2D acceleration hardware\nNPU 1Tops@INT8 RKNN NPU AI accelerator, Support one-click switching of Caffe/TensorFlow/TFLite/ONNX/PyTorch/Keras/Darknet\nVPU 4K@60fps H.265/H.264/VP9 video decoding,1080P@60fps H.265/H.264 video encoding\nRAM 2GB/4GB/8GB  LPDDR4\nStorage 16GB/32GB/64GB/128GB eMMC ，16MB SPI Flash\nStorage Expansion             \nEthernet 2*1000Mbps（RJ45）\nWireless 2.4G/5GHz Dual-band WiFi, 802.11 a/b/g/n/ac、Bluetooth 5.0，4G LTE network communication can be expanded.\nVideo output1 × HDMI2.0（4K@60Hz），1× MIPI DSI（1920*1080@60fps or Dual channel 1×MIPI DSI 2560*1440@60fps），\n1 × eDP1.3（2560x1600@60fps）, * Support up to three-screen output with different displays\nCamera 1 × MIPI-CSI, Support HDR function\nAudio1 × HDMI audio output,1 × Speaker output (1.3W/8Ω, located in PH2.0-30P),1 × Phone headphone jack (3.5mm),\n1 × SPDIF (located in PH2.0-30P)\nUSB 1*USB3.0 (Max:1A)、2*USB2.0 (Max:500mA)、1*USB-C (USB2.0 OTG）\nExtended Interface 1 × RJ45 Control Port（1×RS485 + 2×RS232），1 × PH2.0-30P（PWM、GPIO、I2S、I2C、UART、SPDIF），1 × PH2.0-6P（POE）\nPower DC 12V (5.5*2.1mm, voltage tolerance±5%)\nOS Android 11.0 、Ubuntu 18.04、Buildroot +QT、Station OS\nDimension 138.0 mm × 77.5 mm × 19.9 mm\nPower Consumption Idle: 0.3W, Typical: 4.2W，Max: 7.8W\nEnvironment Operating Temperature: -20℃- 60℃, Storage Temperature: -20℃- 70℃, Storage Humidity: 10%～80 %\nSpecifications\n1*SATA 3.0（2.5inch，7mm thickness SSD/HDD）,1*TF Card Slot\nInterface description\n\nDimension\nT-CHIP INTELLIGENCE TECHNOLOGY\nContact Us\nWebsite\nAddress(+86)18688117175\nwww.t-firefly.com\nRoom 2101, Hongyu Building, #57 Zhongshan 4Rd, East District, \nZhongshan, Guangdong, China.\nE-mail\nglobal@t-firefly.com\n\n'}]
+!==============================================================================!
+### Component Summary: ROC-RK3568-PC SE Quad-Core 64-Bit Mini Computer
+
+**Key Specifications:**
+- **Processor (SoC):** RK3568
+  - **CPU:** Quad-core 64-bit Cortex-A55, 22nm lithography, up to 2.0GHz
+  - **GPU:** ARM G52 2EE, supports OpenGL ES 1.1/2.0/3.2, OpenCL 2.0, Vulkan 1.1
+  - **NPU:** 1 TOPS INT8 RKNN AI accelerator
+  - **VPU:** 4K@60fps H.265/H.264/VP9 video decoding; 1080P@60fps H.265/H.264 video encoding
+- **RAM:** Options of 2GB, 4GB, or 8GB LPDDR4, frequency up to 1600MHz
+- **Storage:** Options of 16GB, 32GB, 64GB, or 128GB eMMC, plus 16MB SPI Flash
+- **Power Consumption:** 
+  - Idle: 0.3W
+  - Typical: 4.2W
+  - Max: 7.8W
+- **Operating Temperature Range:** -20°C to 60°C
+- **Storage Temperature Range:** -20°C to 70°C
+- **Moisture Sensitive Level:** Not specified in the provided text
+- **Package Type:** Not explicitly mentioned, but typically in a compact form factor for mini computers
+- **Special Features:**
+  - Supports multiple operating systems: Android 11.0, Ubuntu 18.04, Buildroot + QT, Station OS
+  - Dual Gigabit Ethernet (2 x 1000Mbps RJ45)
+  - Dual-band WiFi (2.4G/5G) and Bluetooth 5.0
+  - Expandable 4G LTE module
+  - Multiple video output options including HDMI 2.0 and MIPI DSI
+  - Supports up to three-screen output with different displays
+
+**Description:**
+The ROC-RK3568-PC SE is a compact, high-performance mini computer featuring a quad-core 64-bit processor designed for various computing tasks. It integrates advanced graphics processing capabilities and AI acceleration, making it suitable for applications requiring significant computational power in a small form factor.
+
+**Typical Applications:**
+- **Embedded Systems:** Ideal for industrial automation, smart home devices, and IoT applications due to its robust processing capabilities and connectivity options.
+- **Media Streaming:** Capable of 4K video decoding and encoding, making it suitable for media center applications and digital signage.
+- **AI and Machine Learning:** The integrated NPU allows for efficient processing of AI algorithms, making it suitable for edge computing applications.
+- **Networking:** With dual Gigabit Ethernet and wireless capabilities, it can serve as a network appliance or gateway.
+- **Development and Prototyping:** Supports various operating systems and interfaces, making it a versatile platform for developers and engineers.
+
+This mini computer is designed for stability and customization, catering to both consumer and industrial markets.

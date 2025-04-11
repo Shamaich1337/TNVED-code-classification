@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ZEMCT303A-2 production of QINGXIAN ZEMING LANGXI ELECTRONIC DEVICES CO.,LTD from the text:QingxianZemingLangxiElectronic www.micro-transformer.com\nTel:86-25-52601870 Fax:86-25-52633420 E-mail:zm@zeming-e.comZEMCT303A-2CurrentTransformer\nMainlyformotorsoft-startcurrentsampling\nStructuralparameters：\nFrontView Lateralview\nThemaintechnicalparameters：\nModel ZEMCT303A-2\ninputcurrent 0~400A（samplingresistor5Ω）\nRatedoutputcurrent 5mAatinput5A\nTurnsratio 1000:1\nphaseangleerror ≤200＇（input10A，samplingresistor5Ω）\nlinearity ≤5%(5%dot~120%dot)\nPermissibleerror -5%≤f≤0（input10A，samplingresistor5Ω）\nOutputleads Red,black（samepolarity:P1andredwire）\napplication motorsoft-startcurrentsampling\nEncapsulation Epoxy\ninstallation Straight-throughtype\noperatingtemperature -40℃~+85℃\nQingxianZemingLangxiElectronic www.micro-transformer.com\nTel:86-25-52601870 Fax:86-25-52633420 E-mail:zm@zeming-e.comDirectionforuse：\n1.ZEMCT303Ausedforprotection.Typicalusageasshown.\n'}]
+!==============================================================================!
+### Component Summary: ZEMCT303A-2
+
+**Manufacturer:** Qingxian Zeming Langxi Electronic Devices Co., Ltd  
+**Product Code:** ZEMCT303A-2  
+**Type:** Current Transformer
+
+#### Key Specifications:
+- **Input Current Range:** 0 to 400 A (with a sampling resistor of 5 Ω)
+- **Rated Output Current:** 5 mA at an input of 5 A
+- **Turns Ratio:** 1000:1
+- **Phase Angle Error:** ≤ 200' (at input of 10 A, sampling resistor of 5 Ω)
+- **Linearity:** ≤ 5% (from 5% dot to 120% dot)
+- **Permissible Error:** -5% ≤ f ≤ 0 (at input of 10 A, sampling resistor of 5 Ω)
+- **Output Leads:** Red and black (same polarity: P1 and red wire)
+- **Operating Temperature Range:** -40°C to +85°C
+- **Encapsulation:** Epoxy
+- **Installation Type:** Straight-through type
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text
+
+#### Description:
+The ZEMCT303A-2 is a current transformer designed primarily for sampling motor soft-start currents. It is capable of measuring high input currents (up to 400 A) and provides a scaled-down output current of 5 mA for easier processing and monitoring. The transformer features a high turns ratio of 1000:1, allowing it to effectively reduce large currents to manageable levels for measurement and control applications.
+
+#### Typical Applications:
+- **Motor Soft-Start Current Sampling:** The primary application of the ZEMCT303A-2 is in monitoring the inrush current of electric motors during startup, which is critical for protecting motor circuits and ensuring smooth operation.
+- **Protection Systems:** It can be used in protective relays and systems to prevent overload conditions in electrical circuits.
+- **Industrial Automation:** The component is suitable for use in various industrial automation applications where current monitoring is essential for operational efficiency and safety.
+
+This summary provides a clear overview of the ZEMCT303A-2 current transformer, highlighting its specifications and typical use cases in electrical and industrial applications.

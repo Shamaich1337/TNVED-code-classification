@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of iHA417w+9.1mm+USB2.0 production of GLOBAL SENSOR TECHNOLOGY CO., LTD from the text: \n iHA417 W module Specification  V1.1 \n                                                         \nDetector  \nMaterial  Uncooled vanadium oxide  \nUse Resolution  400×300 \nPixel size  17µm \nNETD  <50mk/ f1.0/25℃  \nSpectral  8～14um  \nImage process  \nResolution  384×288 \nDigital frame rate  25Hz  \nDigital video  YUV/RAW  \nBoot time  ≤5s \nFFC  ≤0.8s  \nImage \nenhancement  NUC/3D/2D/DRC/EE/SFFC  \nPseudo color  10kinds  \nSDK  Windows / Android  /Linux version, support video flow resolution, mo dule control, \nfull array temperature measurement, temp erature imaging, temperature window \nsetting, multi -cell integration (not supported by Android) . \nTemperature measurement  \nWorking \ntemperature range   15~50℃ \nTemperature \nmeasurement \nperformance  Measuring range : 32℃~42℃, Temperature measurement accuracy of human body \nrange:  ± 0.5℃, other: ± 1℃； \nTemperature measurement conditions: 23± 3℃，fixed distance of 5 meters / 0.5 \nmeters, 2 minutes after the boot ； \nTemperature uniformity of surface array measurement : ≤±0. 3℃； \nElectrical interface  \nStandard e xternal \ninterface  30Pin_HRS interface :DF40C -30DP -0.4V(51)  \nextension plate  USB2.0  \nCommunication  USB2.0  \nCore firmware upgrade and control  \nCommunication \nmode  USB2.0  \nPower system  \nPower supply  5V± 0.5V  \nPower dissipation  ≤0.85W/5V @23±3 ℃ \n \n \n \n \n iHA417W  module Specification  V1.0  \n \nEnvironmental adaptability  \nOperation \ntemperature  -10℃~+50℃ \nStorage \ntemperature  -40℃～85℃ \nhumidity  5%～95%，non-condensing  \nPhysical property  \nSize ≤25.4mm×25.4mm×30.3mm (With 9.1mm lens)  \nWeight  32.2± 3g  \nCertification  Rohs2.0/Reach  \nESD Contact ±  4kv, air discharge ±  8kv \nLens  \nFocus/F# 9.1mm/F1.1  \nfield angle  39.5°（H）X 30.1°（V）  \n  \n'}]
+!==============================================================================!
+### Component Summary: iHA417W+9.1mm+USB2.0
+
+#### Key Specifications:
+- **Detector Material**: Uncooled vanadium oxide
+- **Use Resolution**: 400×300 pixels
+- **Pixel Size**: 17µm
+- **NETD (Noise Equivalent Temperature Difference)**: <50mK at f1.0 and 25°C
+- **Spectral Range**: 8 to 14 µm
+- **Image Processing Resolution**: 384×288 pixels
+- **Digital Frame Rate**: 25 Hz
+- **Digital Video Formats**: YUV/RAW
+- **Boot Time**: ≤5 seconds
+- **FFC (Flat Field Correction) Time**: ≤0.8 seconds
+- **Image Enhancement Features**: NUC (Non-Uniformity Correction), 3D, 2D, DRC (Dynamic Range Compression), EE (Edge Enhancement), SFFC (Smart Flat Field Correction)
+- **Pseudo Color Options**: 10 kinds
+- **SDK Support**: Windows, Android, Linux (with specific limitations for Android)
+- **Temperature Measurement Range**: 32°C to 42°C
+- **Temperature Measurement Accuracy**: ±0.5°C for human body range, ±1°C for others
+- **Temperature Uniformity**: ≤±0.3°C
+- **Power Supply**: 5V ± 0.5V
+- **Power Dissipation**: ≤0.85W at 5V and 23±3°C
+- **Operating Temperature Range**: -10°C to +50°C
+- **Storage Temperature Range**: -40°C to +85°C
+- **Humidity Range**: 5% to 95%, non-condensing
+- **Package Type**: Size ≤25.4mm × 25.4mm × 30.3mm (with 9.1mm lens)
+- **Weight**: 32.2 ± 3g
+- **Moisture Sensitive Level (MSL)**: Not specified in the provided text
+- **ESD Ratings**: Contact ±4kV, Air Discharge ±8kV
+- **Lens Specifications**: 9.1mm focal length, F1.1 aperture, field angle of 39.5° (H) x 30.1° (V)
+
+#### Description:
+The iHA417W is a thermal imaging module designed for temperature measurement and imaging applications. It utilizes an uncooled vanadium oxide detector to capture thermal images with a resolution of 400x300 pixels. The module is capable of processing images at a frame rate of 25 Hz and supports various digital video formats. It features advanced image enhancement capabilities and can measure temperatures within a specified range with high accuracy.
+
+#### Typical Applications:
+The iHA417W module is typically used in applications such as:
+- **Thermal Imaging**: For surveillance, security, and monitoring applications.
+- **Temperature Measurement**: In medical diagnostics, particularly for human body temperature screening.
+- **Industrial Monitoring**: For detecting overheating in machinery or electrical components.
+- **Research and Development**: In fields requiring thermal analysis and imaging.
+- **Smart Home Devices**: For integrating thermal sensing capabilities into home automation systems.
+
+This module is suitable for various environments due to its wide operating temperature range and robust design, making it a versatile choice for both commercial and industrial applications.

@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-PPJ-0060-B production of E-TEC from the text:Schematic\n3671\n5\n2\n4A\nSchematicE\n1\n3\n5\n2\n4A New 10.06.2019 Cherry\nOrder Code\nTP-PPJ-0060- X\nSee tabelSchematic Option\nTHT Earphone Jack\nfor ∅3.50mm Plug SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.30Cherry\nKent\nSH25.02.2022\n25.02.202225.02.2022TP-PPJ-0060\nTP-PPJ-0060-X1/1\nBB add Schematic option "B" 25.02.2022 Cherry\n10.40\n11.50\n13.5014.00\n4.804.7010.00\n4.50\n2.00\n1.00\n4.503.601.60\n3.20\n4.501.604.305.30\n∅6.00 ±0.20\n5.403.00\n0.802.255.00\n2.505.25∅3.60\n2.90\n7.90∅0.80∅3.5±0.051\n3\n2\n4\nRecommended PCB Holes Layout\nTop View\n(Tolerance ±0.05)13.50\n11.50\n5.40\n4.504.802x∅1.20\n10.403.20\n3.604.50\n1.60\n1.60\n7x(1.2x0.6)1\n46\n23\n57∅3.50 Mateing plug2\n45\n3\n7\n6\n8\n1\nSpecifications\nElectrical\nCurrent rating: 0.5A @30V DC\nInsulation resistance: 100MΩ min.\nContact resistance: 30mΩ max.\nWithstanding  voltage : 500V AC  / Minute\nOperating temperature: - 25°C to + 70°C\nMechanical Requirements\nInsertion force(Plug): 0.3~3.0kgf (inital)\nExtraction force(Plug): 0.3~3.0kgf (inital)\nOperating life: 5,000 cycles min.\nPacking: Tray\nNo. Part Name Q\'TY Material Plating\n1 Earth Spring 1 C5191 t=0.20 Au\n2 Tip Spring 1 C5191 t=0.25 Ag\n3 Ring Spring 1 SUS301 t=0.20 Ag\n4 Ring Spring 1 C5191 t=0.30 Ag\n5 Shunt Terminal 1 C2680 t=0.25 Ag\n6 Break Terminal 1 C2680 t=0.20 Ag\n7Transfer Terminal 1 SUS301 t=0.20 Ag\n8 Housing 1 PBT (black) UL 94V-0RoHS\ncompliant\nSchematic\n3671\n2\n4B\n'}]
+!==============================================================================!
+### Component Summary for TP-PPJ-0060-B
+
+**Component Type:** THT Earphone Jack
+
+**Description:**
+The TP-PPJ-0060-B is a Through-Hole Technology (THT) earphone jack designed for use with a 3.5mm plug. It is primarily used to connect audio devices, allowing for the transmission of audio signals from a source to headphones or speakers. The component is built to withstand mechanical stress and ensure reliable electrical connections.
+
+### Key Specifications:
+
+- **Voltage Ratings:**
+  - Maximum Voltage: 30V DC
+  - Withstanding Voltage: 500V AC for 1 minute
+
+- **Current Ratings:**
+  - Current Rating: 0.5A
+
+- **Power Consumption:**
+  - Not specified directly, but power can be calculated using P = V x I (up to 15W at maximum ratings).
+
+- **Operating Temperature Range:**
+  - -25°C to +70°C
+
+- **Package Type:**
+  - THT (Through-Hole Technology)
+
+- **Special Features or Notes:**
+  - Insulation Resistance: 100MΩ minimum
+  - Contact Resistance: 30mΩ maximum
+  - Mechanical Operating Life: 5,000 cycles minimum
+  - Insertion Force: 0.3~3.0 kgf (initial)
+  - Extraction Force: 0.3~3.0 kgf (initial)
+  - RoHS compliant
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+### Typical Applications:
+The TP-PPJ-0060-B earphone jack is typically used in various audio applications, including:
+
+- **Consumer Electronics:** Such as smartphones, tablets, and portable media players.
+- **Audio Equipment:** Including headphones, speakers, and sound systems.
+- **Communication Devices:** For connecting headsets in telecommunication devices.
+- **DIY Projects:** In custom audio projects or electronic kits requiring audio input/output connections.
+
+This component is essential for enabling audio connectivity in a wide range of electronic devices, ensuring both mechanical durability and reliable electrical performance.

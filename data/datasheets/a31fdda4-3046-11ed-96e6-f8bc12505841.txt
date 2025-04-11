@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TY-976+/-01NM-09.0W-25C-2PIN-105-0.22NA-VBG production of JIANGSU SKYERA LASER TECHNOLOGY CO., LTD. from the text: \n \n Data Sheet  \n \nTel: 0511-86738588  \nFax: 0511-86739955  \nWebsite: www.skyeralaser.com  9W 976nm Uncooled Multimode Wavelength Stabilized Laser Diode Module  \nTY-976+/-01NM-09.0W-25C-2PIN-105-0.22NA-VBG  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSpecification ： \nFunctional parameters are tested on condition that the heat sink temperature is 25 degree, contact resistance of the \ncomponent and the heat sink is smaller than 1CM2 K/W. \n  \nKey Parameters:  \n\uf06cBased on single fire spot laser module  \n\uf06cHigh output power 9W  \n\uf06cHigh stability  \n\uf06c0.22NA 105μm core multimode fiber  \n\uf06cParallel weld 2-Pin sealed package  \n\uf06cStandard central wavelength 976nm  \n\uf06cNarrow linewidth  \n\uf06cRoHS compliance  \nApplication:  \n\uf06cMedical \n\uf06cPrinting \n\uf06cFiber laser pump source  \n\uf06cMaterial processing  \n SkyEra delivers TY-976+/-01NM-09.0W-25C-2PIN-105-0.22NA-VBG \ndiode lasers employing professional coupling technology, that enjoy \nmultiple advantages, e.g., compact design, stable output power, high \npower, high efficiency and convenient packaging. These laser diode \nmodules can provide solutions for fiber laser applications and direct \nsuppliers.  \nThe performance and aging tests have been performed upon the \nproduction line to guarantee reliable, stable and long lifetime of products.  \nTo provide customers with high-quality, high-cost performance products is \nthe company’s goal.  \nParameter Min Typ Max Unit Conditions \nOutput Power 9 - - W  \nCentre Wavelength 975 976 977 nm HR@ 1050-1150>25dB \nHR@ 1060-1100>30dB \nSpectral Width(FWHM) -- 0.8 2.0 nm 0.5nm DPI \nThreshold Current - 0.7 1.0 A  \nOperating Current - 11.5 12.0 A  \nOperating Voltage - 1.75 2.0 V  \nConvention Efficiency - 45 - %  \n95% Power - 0.16 - NA  \nWavelength shift vs. Temperature  - 0.02 - nm/℃  \nSlop Efficiency - 0.85 - W/A  \nStorage Temperature -30 25 70 °C Non-Condensing \nOperating Temperature 15 25 55 °C  \nFiber Bend Radius 37.5 - - mm  \nBuffer Diameter - 250 - μm  \nCladding Diameter - 125 - μm  \nCore Diameter 102 105 108 μm  \nNumeric Aperture - 0.22 - -  \nFiber length 0.9 - - M  \nProtection Tube - - -      -  \nFiber Connector - CO - -  \n \n\n \n \n Data Sheet  \n \nTel: 0511-86738588  \nFax: 0511-86739955  \nWebsite: www.skyeralaser.com  2. Dimension Diagram  \nUnit:MM \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n3. Instructions  \n\uf06c Avoid eyes or skin exposure to direct or scattered radiation;  \n\uf06c ESD protection is required for transportation, storage and operation; short-circuit protection between pins is required \nfor transportation and storage.  \n\uf06c Please connect pins by solder when operating current is over 6A; solder point should be close to the root of pins with a \nmax soldering temperature at 260 ℃ and a duration less than 10 seconds ;  \n\uf06c Drive constant current power supply by laser and avoid surge while working;  \n\uf06c Operate under rated current and rated power;  \n\uf06c Good heat dissipation is required;  \n\uf06c Operating temperature is 15 ℃~55℃; \n\uf06c Storage temperature is －30℃~＋70℃. \n \n \n \n \n \n\n'}]
+!==============================================================================!
+### Component Summary: TY-976+/-01NM-09.0W-25C-2PIN-105-0.22NA-VBG
+
+**Manufacturer:** JIANGSU SKYERA LASER TECHNOLOGY CO., LTD.  
+**Product Type:** Laser Diode Module  
+**Description:** The TY-976+/-01NM-09.0W-25C-2PIN-105-0.22NA-VBG is a 9W uncooled multimode wavelength stabilized laser diode module designed for various applications, including medical, printing, and material processing. It features a compact design with high output power and stability, making it suitable for fiber laser applications.
+
+#### Key Specifications:
+- **Output Power:** 9 W
+- **Center Wavelength:** 976 nm (with a range of 975-977 nm)
+- **Spectral Width (FWHM):** 0.8 to 2.0 nm
+- **Threshold Current:** 0.7 to 1.0 A
+- **Operating Current:** 11.5 to 12.0 A
+- **Operating Voltage:** 1.75 to 2.0 V
+- **Conversion Efficiency:** 45%
+- **Wavelength Shift vs. Temperature:** 0.02 nm/°C
+- **Slope Efficiency:** 0.85 W/A
+- **Operating Temperature Range:** 15°C to 55°C
+- **Storage Temperature Range:** -30°C to 70°C
+- **Package Type:** 2-Pin sealed package
+- **Fiber Specifications:**
+  - Core Diameter: 105 μm
+  - Cladding Diameter: 125 μm
+  - Buffer Diameter: 250 μm
+  - Numeric Aperture: 0.22
+  - Fiber Length: 0.9 m
+  - Fiber Bend Radius: 37.5 mm
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+#### Special Features:
+- High stability and narrow linewidth.
+- RoHS compliant.
+- Designed for efficient coupling with multimode fiber.
+
+### Typical Applications:
+- **Medical:** Used in laser therapies and surgical procedures.
+- **Printing:** Employed in laser printing technologies.
+- **Fiber Laser Pump Source:** Acts as a pump source for fiber lasers, enhancing their performance.
+- **Material Processing:** Utilized in cutting, engraving, and other material processing applications.
+
+### Additional Notes:
+- The module requires proper heat dissipation and should be operated within specified current and power ratings to ensure longevity and reliability.
+- ESD protection is necessary during transportation and operation, and precautions should be taken to avoid direct exposure to radiation. 
+
+This summary encapsulates the essential characteristics and applications of the TY-976+/-01NM-09.0W-25C-2PIN-105-0.22NA-VBG laser diode module, providing a clear understanding of its capabilities and intended uses.

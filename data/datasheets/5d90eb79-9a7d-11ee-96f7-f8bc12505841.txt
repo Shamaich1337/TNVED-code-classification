@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of E3417A production of EVETAR from the text:∅20\n∅2525.84\n4.9 17.79\n11.5\n∅11\nM12x0.5-6gImage plane4.47(MBFL)\n0.4C.G\n5.03\n30.312.14∅7.2(Include 0.3 Filter+0.4 C.G)\n(Include 0.3 Filter+0.4 C.G)\n(Include 0.3 Filter+0.4 C.G)190°Ø7.6Max Image Circle \nPortfolio Size.±0.3 Single Part Size.±0.1UNLESS TOLERANCE  AUDI.\n APPR. REVISED DESCRIPTION DATE 3RD Angle ProjectionDATE NAME\nDRAWN \nCHECKED\n APPR. NO.外形尺寸  最大主光线入射角相对照度F-Theta 畸变\nFor OSO8A10镜头组成后面前面\n通光口径后截距1/1.8″ OSO8A10\n>55%Sensor Spec\nEFL 有效焦距SPECIFICATION  SHEET\n2.53mm\n0.3mFrontBack Focal Length\nBack\nIris 光圈Relative IlluminationF-Theta Distortion\nResolution 分辨率Lens constructionLens Effective \nDiameter\nMount 接口M.O.D 最近物距\nTTL 光学总长\nDimension (ØxL)Max Chief Ray AngleØ20mm\nØ7.2mm\n13°10-7+1FilterFNo. F值EVETARR\nREV.Material No. 物料号\n2.4\n5.03mm    \n<-9.5%\nFixed\nM12X0.5-6g\n30.31mm  \nØ25x25.84mm/E3417A Model No. 型号\nwww.evetar.com厦门力鼎光电股份有限公司\nXiamen Leading Optics Co., Ltd.Working Distance \n工作物距 ∞最大像面\nD.对角\nV.垂直H.水平  F.O.V. 视场角  传感器规格 7.68x4.32 ，8.81\nFilter Spec\n滤光片规格  190°\n190°\n99.5°\n（Include 0.3Filter+0.4C.G ）  \n（Include 0.3Filter+0.4C.G ）  Full Frame Circular FisheyeWidth\nFull Horizontal Partial FrameDiagonalHeightImage Circle vs.Sensor Format Image Circle\n00 检讨00版 2019.9.212\n01\nDLF3\n01 试制版 2019.10.18 WZZ01 试制版 2019.10.21 WZZ\n'}]
+!==============================================================================!
+### Component Summary for E3417A from EVETAR
+
+#### Key Specifications:
+- **Type**: Optical Lens
+- **Effective Focal Length (EFL)**: 2.53 mm
+- **Maximum Chief Ray Angle**: 13°
+- **Image Circle Diameter**: Ø7.2 mm (with filter)
+- **Maximum Image Circle**: Ø20 mm
+- **Relative Illumination**: >55%
+- **F-Theta Distortion**: -9.5% (fixed)
+- **Working Distance**: ∞ (infinity)
+- **Mount Type**: M12x0.5-6g
+- **Dimensions**: Ø25 x 25.84 mm
+- **Moisture Sensitivity Level**: Not specified in the provided text.
+
+#### Description:
+The E3417A is a compact optical lens designed for high-resolution imaging applications. It features a short effective focal length of 2.53 mm, making it suitable for capturing wide-angle views. The lens is characterized by its ability to maintain a high level of relative illumination (>55%) across the image circle, which is critical for applications requiring consistent brightness and clarity.
+
+#### Typical Applications:
+The E3417A lens is typically used in:
+- **CCTV and Surveillance Systems**: Due to its wide field of view and compact size, it is ideal for security cameras.
+- **Machine Vision**: The lens can be employed in industrial automation for quality control and inspection processes.
+- **Robotics**: It can be integrated into robotic vision systems for navigation and object recognition.
+- **Consumer Electronics**: Suitable for use in smartphones and other devices requiring compact camera modules.
+- **Medical Imaging**: The lens can be utilized in endoscopic cameras and other medical imaging devices.
+
+This lens is particularly advantageous in applications where space is limited, and a wide field of view is necessary, while still maintaining image quality and brightness.

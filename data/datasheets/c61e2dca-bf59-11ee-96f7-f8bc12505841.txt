@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BFLD-1550-10SM-01FA production of SHENZHEN BOXOPTRONICS TECHNOLOGY CO.,LTD from the text:10mWDWDMPMButterflyLaserDiode\nBFLD-1550-10SM-01FA\nwww.boxoptronics.com\nEmail:sales@boxoptronics.com|Tel:+86-075521009302Ref:S001.2016.08.05NarrowLine-widthButterflyLaser\n1.Description:\nBFLD-1550-10SM-01FAisanarrowlinewidthhighpowerlaserthatdeliversmorethan+10dBmofoutput\npowerand<10kHzlinewidthatspecifiedwavelength1550nm.Itisdesignedtoperformwellbeyondthe\nindustrystandard.keyfeaturesofthisnarrowlinewidthhighpowerlaserincludehighoutputpowerand\nexceptionalnarrowlinewidthandwavelengthstability.Thisnarrowlinewidthtakesadvantageof\nsemiconductorlaserchipwithbuilt-inFBG.\n2.Features:\n\uf06cCenterwavelength=1550±1.0nm;\n\uf06cLinewidth<10kHz;\n\uf06cLowphasenoiseandrelativeintensitynoise;\n\uf06cLaserweldingprocesswithoutepoxyinsiderpackage;\n\uf06cStructuralstability,vibrationinsensitive.\nReliability:TelcordiaGR-468.RoHS\n3.Applications:\n\uf06cLidar;\n\uf06cLasersources;\n4.AbsoluteMaximumRatings:\nParameter Symbol Condition Min. Typ. Max. Unit\nForwardCurrent IF CW - - 120 mA\nLaserreversevoltage VLR - - - 2 V\nTECcurrent ITEC - - 0.8 1.5 A\nTECvoltage VTEC - - 1.5 3.5 V\nOperatingcasetemperature TOP - -20 - 70 ℃\nStoragetemperature TS - -40 - 85 ℃\n5.Electro-OpticalCharacteristics(25℃lasertemperature):\nParameter Symbol Condition Min. Typ. Max. Unit\nOutputpower PO I=70mA,CW - 10 - dBm\nOperatingcurrent IOP CW 50 70 90 mA\nOperatingvoltage VOP - - 1.4 2.0 V\nCentralwavelength λ I=70mA 1549 1550 1551 nm\nSide-modesuppressionratioSMSR I=70mA - 55 - dB\nLinewidth ΔλL - - - 10 KHz\n10mWDWDMPMButterflyLaserDiode\nBFLD-1550-10SM-01FA\nwww.boxoptronics.com\nEmail:sales@boxoptronics.com|Tel:+86-075521009302Ref:S001.2016.08.05\nIsolator ISO - - 40 - dB\nFibertype - - SMF-289/125µmorPM1550 -\nOpticalconnector - - FC/APC -\nFiberlength - - - 1.8 - m\n6.Packagedrawing&PIN-OUTDefinition(Unit:mm):\nPIN Description PIN Description\n1 TEC(+) 14 TEC(–)\n2 Thermistor 13 CaseGround\n3 12 NC\n4 11 LaserCathode(-)\n5 Thermistor 10 LaserAnode(+)\n6 NC 9 NC\n7 NC 8 NC\n\n'}]
+!==============================================================================!
+### Component Summary: BFLD-1550-10SM-01FA
+
+**Manufacturer:** SHENZHEN BOXOPTRONICS TECHNOLOGY CO., LTD  
+**Product Code:** BFLD-1550-10SM-01FA  
+**Type:** Butterfly Laser Diode
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Operating Voltage (VOP): 1.4 to 2.0 V
+  - Laser Reverse Voltage (VLR): Max 2 V
+  - TEC Voltage (VTEC): 1.5 to 3.5 V
+
+- **Current Ratings:**
+  - Forward Current (IF): Max 120 mA
+  - Operating Current (IOP): 50 to 90 mA (typical 70 mA)
+  - TEC Current (ITEC): 0.8 to 1.5 A
+
+- **Power Consumption:**
+  - Output Power (PO): >10 dBm at I=70 mA
+  - Operating Power: VOP * IOP (1.4 to 2.0 V * 70 mA)
+
+- **Operating Temperature Range:**
+  - Case Temperature (TOP): -20 to 70 °C
+  - Storage Temperature (TS): -40 to 85 °C
+
+- **Package Type:**
+  - Butterfly package with optical connector FC/APC
+
+- **Special Features:**
+  - Center Wavelength: 1550 ± 1.0 nm
+  - Linewidth: <10 kHz
+  - Low phase noise and relative intensity noise
+  - Laser welding process without epoxy inside the package
+  - Structural stability and vibration insensitive
+  - Reliability: Telcordia GR-468 compliant
+  - RoHS compliant
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Description:
+The BFLD-1550-10SM-01FA is a high-power, narrow linewidth laser diode designed for applications requiring precise wavelength stability and low noise. It operates at a center wavelength of 1550 nm and is capable of delivering more than +10 dBm of output power with a linewidth of less than 10 kHz. The device utilizes a semiconductor laser chip with a built-in fiber Bragg grating (FBG) to achieve its performance characteristics.
+
+#### Typical Applications:
+- **Lidar:** Used in light detection and ranging systems for distance measurement and mapping.
+- **Laser Sources:** Employed in various optical applications requiring stable and high-quality laser output.
+
+This laser diode is particularly suited for applications in telecommunications, sensing, and other optical systems where precision and reliability are critical.

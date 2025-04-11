@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2J7810M-200LL100-C118NPST_CU100549 production of 2J from the text: \n \n2J7810M    \n \n  Product Datasheet\nKey Features\n433 MHz ISM  \n- 433-435  MHZ\nMagnetic  Mount\nGround Plane Dependent\nCustomized Cable and Connector\nDimensions 201.9 × 54 mm\nCertificates IP67, IP69K\nwww .2j-antennae.com www .2j-antennasusa.com Page: 1/8433 MHz ISM Magnetic  Mount\n\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 2/81. Antenna and electrical specifications   \nParameters\nStandards\nBand (MHz)\nFrequency (MHz)\nReturn Loss (dB)\nVSWR\nEfficiency (%)\nPeak Gain (dBi)\nAverage Gain (dB)\nImpendance (Ohm)\nPolarisation\nRadiation Pattern\nMax. Input Power (W)\nConnector T ype\nCable Length \nCable T ype433 MHz ISM Antenna\nISM, LoRa\n433 MHz\n433-435\n~-9.1\n~2.0:1\n~62\n~0.1\n~-2.1\n50\nLinear\nOmni-Directional\n50\nSMA-Male Standard (Other Connectors Available)\n300 cm Standard (Any Cable Length Available)\nRG174 Standard (Other Cables Available)\nAntenna Measurement Conditions:\nMounted on 30 x 30 cm Metal Plate\n200cm of RG174 Cable\nMeasured in Certified CTIA  3D Anechoic Chamber\n2. Mechanical and environmental specifications    \nSpecifications\nMounting T ype\nDimensions (mm)\nRadome \nRadome color\nAntenna Base\nOperating T emperature (C)\nStorage T emperature (C)\nSubstance Compliance\nCertificates2J7810M\nMagnetic  Mount\n201.9 × 54\nABS/TPE\nBlack\nZamak\n-40 to +85\n-40 to +85\nRoHS\nIP67, IP69K\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 3/83. Antenna parameters    \n-25-20-15-10-50\n400 410 420 430 440 450 460Return Loss (dB)\nFrequency  (MHz)\n012345\n400 410 420 430 440 450 460VSWR\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 4/80102030405060708090\n430 431 432 433 434 435 436 437 438 439 440Efficiency (%)\nFrequency  (MHz)\n-2-1012\n430 431 432 433 434 435 436 437 438 439 440Peak Gain (dBi)\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 5/8Radiation pattern referen ce-5-4-3-2-10\n430 431 432 433 434 435 436 437 438 439 440Average Gain (d B)\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 6/8433 M Hz Rad iation pattern\n\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 7/84. Antenna drawings    \n 201.9 \n 187.7 \n 59.5  R27 \n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 8/85. Antenna Images    \n\n'}]
+!==============================================================================!
+### Component Summary for 2J7810M-200LL100-C118NPST_CU100549
+
+**Component Type:** Antenna  
+**Primary Function:** The 2J7810M is a 433 MHz ISM band antenna designed for wireless communication applications, particularly in the ISM and LoRa frequency ranges.
+
+#### Key Specifications:
+- **Frequency Range:** 433-435 MHz
+- **Return Loss:** ~-9.1 dB
+- **VSWR (Voltage Standing Wave Ratio):** ~2.0:1
+- **Efficiency:** ~62%
+- **Peak Gain:** ~0.1 dBi
+- **Average Gain:** ~-2.1 dB
+- **Impedance:** 50 Ohm
+- **Polarization:** Linear
+- **Radiation Pattern:** Omni-Directional
+- **Max Input Power:** 50 W
+- **Connector Type:** SMA-Male (other connectors available)
+- **Cable Length:** 300 cm (custom lengths available)
+- **Cable Type:** RG174 (other cables available)
+
+#### Mechanical and Environmental Specifications:
+- **Mounting Type:** Magnetic Mount
+- **Dimensions:** 201.9 × 54 mm
+- **Radome Material:** ABS/TPE
+- **Radome Color:** Black
+- **Antenna Base Material:** Zamak
+- **Operating Temperature Range:** -40 to +85 °C
+- **Storage Temperature Range:** -40 to +85 °C
+- **Moisture Sensitivity Level (MSL):** Compliant with RoHS
+- **Certificates:** IP67, IP69K (indicating high levels of dust and water resistance)
+
+#### Description:
+The 2J7810M is a robust magnetic mount antenna designed for use in the 433 MHz ISM band, making it suitable for various wireless communication applications. Its compact design and high efficiency make it ideal for integration into devices requiring reliable wireless connectivity.
+
+#### Typical Applications:
+- **Wireless Communication:** Used in devices that operate in the ISM band, such as remote controls, telemetry systems, and wireless sensor networks.
+- **IoT Applications:** Suitable for Internet of Things (IoT) devices that require long-range communication capabilities.
+- **LoRa Networks:** Ideal for applications utilizing LoRa technology for low-power, wide-area networking.
+- **Industrial Automation:** Can be employed in industrial settings for machine-to-machine communication and monitoring systems.
+
+This antenna is designed to provide reliable performance in various environmental conditions, making it a versatile choice for many wireless applications.

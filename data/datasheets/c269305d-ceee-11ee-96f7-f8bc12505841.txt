@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of GN080120-P47-FL production of ELITE PHOTOELECTRIC TECH CO., LTD from the text:                                        GN080120 -P47-FL \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n1 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  8-12 GHz Packaged MMIC Chip  \nKey Features:   \n Frequency ：8-12 GHz  \n   Typical Small Signal Gain ：23dB \n   Typical Output ：47dBm  \n   Tech nology: 0.2 5um HEMT     Power Added Efficiency ：35% \n   Offset：28V，-2V \n   Package：18.03 mm×8.7mm×2.24 mm \n \nIntroducti on \nGN080120 -P47-FL is a packaged  8-12GHz High Power Chip, it uses 0.25um gate length GaN HEMT \nTechnology . It works with  Vds=2 8V , and provide 47dBm output power in 8-12GHz, power gain is 18dB. This chip \ncan be used in wireless communication and T/R units.   \n \nMaximum  Ratings (TA=25℃)  \nSymbo l Parameter  Value  Mark  \nVd Drain V oltage  32V  \nVg Gate V oltage  -5V  \nIg Gate current  10mA  \nPin Input Power  32dBm   \nVSWR out  Output VSWR  5:1  \nTo Operation  Temperature  220℃  \nTstg Storage  Temperature  -55～125℃  \n[1] Higher than any value s above may cause pe rmanent damage 。 \n \nSpecifications  (TA=25℃)  \nSymbol  Parameter  Test conditions  Values  \nUnit \nMin Typ Max \nG Small Signal Gain  Vd= 28V \nVg= -2V \nPin=29dBm  \nF：8-12GH； \n1ms; 10%   23  dB \nGp Power  Gain   18  dB \nPout Saturated Output Power   47  dBm \nPAE Power Added  Efficiency   35  ％ \n \n \n                                        GN080120 -P47-FL \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n2 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  Typical Performances  \nPout  \n \n \n \n \n \n \n \nPAE  \n \n \n \n \n \n \n \nDimension (Unit: mm) \n \n \n8.0 8.5 9.0 9.5 10.0 10.5 11.0 11.5 12.040414243444546474849505152535455\n40414243444546474849505152535455Vd=28V,Vg=-2V,Pin=29dBm,1ms 10%\n Freq(GHz) Psat(dBm)\n Psat -55℃\n Psat 25℃\n Psat 85℃\n  \n8.0 8.5 9.0 9.5 10.0 10.5 11.0 11.5 12.00510152025303540455055606570\n0510152025303540455055606570Vd=28V,Vg=-2V,Pin=29dBm,1ms 10%\n Freq(GHz) PAE(%)\n PAE -55℃\n PAE 25℃\n PAE 85℃\n  \n                                        GN080120 -P47-FL \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n3 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  Recommend circuit  \n \n Mark  Value  \nC1 10uF  \nC2 1uF \nC3 1000pF  \n'}]
+!==============================================================================!
+### Component Summary: GN080120-P47-FL
+
+**Manufacturer:** ELITE PHOTOELECTRIC TECH CO., LTD  
+**Website:** www.emec.cn  
+**Contact:** Tel: +86-28-87428329 | Fax: +86-28-87425019  
+**Address:** Hezuo Road 333, High Technology Development District (West), Chengdu, P.R. China  
+
+#### Key Specifications:
+- **Frequency Range:** 8-12 GHz
+- **Typical Small Signal Gain:** 23 dB
+- **Typical Output Power:** 47 dBm
+- **Technology:** 0.25 µm GaN HEMT
+- **Power Added Efficiency (PAE):** 35%
+- **Drain Voltage (Vd):** 28V
+- **Gate Voltage (Vg):** -2V
+- **Maximum Drain Voltage:** 32V
+- **Maximum Gate Voltage:** -5V
+- **Maximum Gate Current:** 10 mA
+- **Input Power (Pin):** 32 dBm
+- **Output VSWR:** 5:1
+- **Operating Temperature Range:** 220°C
+- **Storage Temperature Range:** -55 to 125°C
+- **Package Dimensions:** 18.03 mm x 8.7 mm x 2.24 mm
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The GN080120-P47-FL is a high-power packaged MMIC (Monolithic Microwave Integrated Circuit) chip designed for operation in the frequency range of 8-12 GHz. Utilizing advanced 0.25 µm GaN (Gallium Nitride) HEMT (High Electron Mobility Transistor) technology, this component is engineered to deliver high output power and efficiency, making it suitable for demanding applications in wireless communication.
+
+#### Typical Applications:
+The GN080120-P47-FL is primarily used in:
+- **Wireless Communication Systems:** Its high output power and gain make it ideal for transmitters and amplifiers in communication devices.
+- **T/R (Transmit/Receive) Units:** The component is suitable for use in radar and satellite communication systems where high-frequency performance is critical.
+- **Power Amplification:** It can be utilized in various RF (Radio Frequency) applications requiring robust power amplification.
+
+This component is particularly valuable in environments where high efficiency and performance are essential, such as in telecommunications and aerospace applications.

@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TA502/2-A production of QINGXIAN ZEMING LANGXI ELECTRONIC DEVICES CO.,LTD from the text:QingxianZemingLangxiElectronic www.micro-transformer.com\nTel:86-25-52601870 Fax:86-25-52633420 E-mail:zm@zeming-e.comTA502/2-ACurrentTransformer\nSmallsize，highaccuracy，goodconsistency，forpowermeasurementandprotection\nStructuralparameter：\nFrontview Bottomview\nThemaintechnicalparameters：\nModel TA502/2-A\nRatedinputcurrent 0~70A（samplingresistor100Ω）\nRatedoutputcurrent 2mAatinput5A\nturnsratio 2500:1\nPhaseangleerror ≤20＇（input1A,samplingresistor100Ω）\nAccuracyclass 0.2\nlinearity 0.1%(5%dot~120%dot)\nPermissibleerror -0.2%≤f≤+0.2%（input1A，samplingresistor100Ω）\nisolationvoltage 4500V\napplication currentandpowermeasurement\nEncapsulation Epoxy\ninstallation PCBmounting\noperatingtemperature -40℃~+85℃\nQingxianZemingLangxiElectronic www.micro-transformer.com\nTel:86-25-52601870 Fax:86-25-52633420 E-mail:zm@zeming-e.comDirectionforuse：\nFigureⅠ FigureⅡ\n1.TA502/2-Ausedformeasurement.TypicalusageisshowninFigure1andFigure2.Risasamplingresistor.\n2.Emptypincannotbegrounded.\n'}]
+!==============================================================================!
+### Component Summary: TA502/2-A Current Transformer
+
+**Manufacturer:** Qingxian Zeming Langxi Electronic Devices Co., Ltd  
+**Product Code:** TA502/2-A  
+**Type:** Current Transformer
+
+#### Key Specifications:
+- **Rated Input Current:** 0 ~ 70 A (with a sampling resistor of 100 Ω)
+- **Rated Output Current:** 2 mA at an input of 5 A
+- **Turns Ratio:** 2500:1
+- **Phase Angle Error:** ≤ 20' (at input of 1 A, sampling resistor 100 Ω)
+- **Accuracy Class:** 0.2
+- **Linearity:** 0.1% (from 5% dot to 120% dot)
+- **Permissible Error:** -0.2% ≤ f ≤ +0.2% (at input of 1 A, sampling resistor 100 Ω)
+- **Isolation Voltage:** 4500 V
+- **Operating Temperature Range:** -40°C to +85°C
+- **Package Type:** PCB Mounting
+- **Encapsulation:** Epoxy
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The TA502/2-A is a high-accuracy current transformer designed for power measurement and protection applications. It is characterized by its small size and good consistency, making it suitable for various electronic measurement systems. The transformer converts high input currents into a lower output current, allowing for safe and accurate measurement of electrical parameters.
+
+#### Typical Applications:
+- **Power Measurement:** Used in energy monitoring systems to measure current and power consumption accurately.
+- **Protection Systems:** Employed in protective relays and circuit breakers to monitor current levels and ensure safe operation.
+- **Industrial Automation:** Utilized in control systems for monitoring and managing electrical loads.
+- **Renewable Energy Systems:** Applied in solar inverters and wind turbine systems for performance monitoring.
+
+This component is ideal for applications requiring precise current measurement and is particularly useful in environments where high voltage isolation is necessary.

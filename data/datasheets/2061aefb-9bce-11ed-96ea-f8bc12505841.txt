@@ -1,0 +1,23 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of K4000004 production of PROWAVE from the text:Matching Transformers\nMatching Transformers\nSpecification\nParts Number K4000001K4000002K4000003K4000004K4000005\nOperating Frequency 40.0 KHz40.0 KHz235.0 KHz40.0 KHz125.0 KHz\nVariable Inductance (min.) 10.6 mH± 6%5.3 mH± 6%1.0 mH± 6%6.0 mH± 6%1.5 mH± 6%\nUnloaded Q (min.) 70100259080\nTurn Ratio 1:10 1:20\nMatching Transducer 400EP14D400EP14D*235SR130400EP18A125SR250\nDimensions Figure 1 Figure 2 Figure 1\n*(Temperature Compensated Type)\nS. Square Enterprise Company Limited\nPro-Wave Electronics Corporation\nHttp://www.pro-wave.com.tw  ; E-mail: sales@pro-wave.com.tw  ; Tel: 886-2-22465101 ; Fax: 886-2-22465105\n1 of 13\n2\n14\n6\n3\n2\n14\n6\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Pro-Wave Electronics:   \n\xa0 K4000005\xa0 K4000001\xa0 K4000004\n'}]
+!==============================================================================!
+### Component Summary for K4000004 - Matching Transformer
+
+**Key Specifications:**
+- **Operating Frequency:** 40.0 KHz
+- **Variable Inductance (min.):** 6.0 mH ± 6%
+- **Unloaded Q (min.):** 80
+- **Turn Ratio:** 1:10
+- **Matching Transducer:** 400EP18A
+- **Dimensions:** Refer to Figure 1 in the datasheet (specific dimensions not provided in the text).
+
+**Description:**
+The K4000004 is a matching transformer designed for use in various electronic applications. It operates at a frequency of 40.0 KHz and features a variable inductance of 6.0 mH with a tolerance of ± 6%. The unloaded Q factor, which indicates the quality of the transformer, is a minimum of 80, suggesting good efficiency and performance in signal transmission. The turn ratio of 1:10 indicates that the transformer steps up the voltage from the primary to the secondary winding.
+
+**Typical Applications:**
+Matching transformers like the K4000004 are commonly used in:
+- **Signal Processing:** To match impedance between different circuit components, ensuring maximum power transfer and minimizing signal reflection.
+- **Audio Equipment:** In audio applications to match the impedance of microphones or speakers to amplifiers.
+- **RF Applications:** Used in radio frequency circuits to ensure efficient transmission of signals.
+- **Telecommunications:** To facilitate signal integrity in communication systems.
+
+This component is particularly useful in scenarios where impedance matching is critical for performance, such as in audio and RF applications.

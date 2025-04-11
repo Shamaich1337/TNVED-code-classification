@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 74546-0400 production of MOLEX from the text:This document was generated on 12/22/2021\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nPart Number: 0745460400\nStatus: Active\nOverview: iPass Connector System\nDescription: iPass PCIe x4 Cable Assembly, 28 AWG, 0.50m Length\nDocuments:\nDrawing (PDF) RoHS Certificate of Compliance (PDF)\nGeneral\nProduct Family Cable Assemblies\nSeries 74546\nAssembly Configuration Dual Ended Connectors\nConnector to Connector PCI Express-to-PCI Express\nOverview iPass Connector System\nProduct Name iPass, PCI Express\nUPC 822350289658\nPhysical\nCable Length 0.50m\nCircuits (Loaded) 38\nGender Plug/Plug\nLock to Mating Part Yes\nMaterial - Metal Zinc Alloy\nNet Weight 160.000/g\nNumber of Rows 2\nPackaging Type Bag\nPitch - Mating Interface 0.80mm\nSingle Ended No\nWaterproof / Dustproof Yes\nWire Insulation Diameter N/A\nWire Size AWG 28\nWire/Cable Type Round\nElectrical\nCurrent - Maximum per Contact 1.0A\nShield Type N/A\nShielded No\nVoltage - Maximum 30V DC\nMaterial Info\nReference - Drawing Numbers\nSales Drawing SD-74546-400-001\nSeries image - Reference only\nEU ELV\nNot Relevant\nEU RoHS China RoHS\nCompliant\nREACH SVHC\nNot Contained Per\n-ED/01/2018 (15\nJanuary 2018)\nHalogen-Free\nStatus\nNot Low-Halogen\nFor more information, please visit Contact US\nChina ROHS Green Image\nELV Not Relevant\nRoHS Phthalates Not Contained\nSearch Parts in this Series\n74546 Series\nMates With\n75586 iPass Receptacle\nUse With\n74540 PCIe Guide Frame\nThis document was generated on 12/22/2021\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Molex:   \n\xa0 74546-0400\n'}]
+!==============================================================================!
+### Component Summary for Molex Part Number 0745460400
+
+#### Key Specifications:
+- **Voltage Ratings:** Maximum 30V DC
+- **Current Ratings:** Maximum 1.0A per contact
+- **Power Consumption:** Not specified; dependent on application and load
+- **Operating Temperature Range:** Not specified in the provided information
+- **Package Type:** Bag
+- **Special Features or Notes:**
+  - Dual-ended connectors (Plug/Plug)
+  - Waterproof/Dustproof
+  - Locking mechanism to mating part
+  - Compliant with EU RoHS and China RoHS regulations
+  - Not low-halogen
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified
+
+#### Description:
+The Molex 0745460400 is an iPass PCIe x4 cable assembly designed for high-speed data transmission. It features a length of 0.50 meters and is constructed with 28 AWG round wire. The assembly includes dual-ended connectors that facilitate a PCI Express-to-PCI Express connection, making it suitable for various applications requiring reliable data transfer.
+
+#### Typical Applications:
+This cable assembly is typically used in:
+- **Data Centers:** For connecting servers and storage devices using PCI Express interfaces.
+- **High-Performance Computing:** In systems that require fast data transfer rates between components.
+- **Networking Equipment:** To interconnect devices that utilize PCIe technology.
+- **Consumer Electronics:** In devices that require PCIe connections for peripherals or expansion cards.
+
+The iPass connector system is particularly beneficial in environments where space is limited and high data throughput is essential.

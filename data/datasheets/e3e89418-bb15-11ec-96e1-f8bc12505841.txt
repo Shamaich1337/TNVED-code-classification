@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of YJL2312AL production of YANGZHOU YANGJIE ELECTRONIC from the text:YJL2312AL                       \n \n 1 / 7 \n   Yangzhou Yangjie Electronic Technology Co., Ltd.  S-E063 \nRev.3.0,25-Feb-20 www.21yangjie.com  \n        N-Channel Enhancement Mode Field Effect Transistor   \n \n           Product Summary \n● VDS                                          20V \n● ID                                             7.6A \n● RDS(ON)( at VGS=4.5V)              ＜17mohm \n● RDS(ON)( at VGS=2.5V)              ＜20mohm \n● RDS(ON)( at VGS=1.8V)              ＜35mohm \n● 100% ▽VDS Tested \nGeneral Description \n● Trench Power LV MOSFET technology \n● High Power and current handing capability  \n \nApplications \n● PWM applications \n● Load switch  \n \n■ Absolute Maximum Ratings (TA=25℃unless otherwise noted)  \nParameter  Symbol Limit Unit \nDrain-source Voltage  VDS 20 V \nGate-source Voltage  V GS ±10 V \nDrain Current  TA=25℃  \nID 7.6 \nA \nTA=70℃  6 \nPulsed Drain Current A I DM 30 A \nTotal Power Dissipation TA=25℃  \nPD 1.5 W \nTA=70℃  0.96 W \nThermal Resistance Junction-to-Ambient B R θJA 83.3 ℃/ W \nJunction and Storage Temperature Range T J ,TSTG -55～+150 ℃ \n \n■ Ordering Information (Example) \nPREFERED P/N PACKING \nCODE Marking MINIMUM \nPACKAGE(pcs)  INNER BOX \nQUANTITY(pcs)  OUTER CARTON \nQUANTITY(pcs)  DELIVERY MODE  \nYJL2312AL F2 S12· 3000 30000 120000 7“ reel COMPLIANT RoHS  \nSOT-23-3L \nYJL2312AL                       \n \n 2 / 7 \n   Yangzhou Yangjie Electronic Technology Co., Ltd.  S-E063 \nRev.3.0,25-Feb-20 www.21yangjie.com  \n■ Electrical Characteristics (TJ=25℃ unless otherwise noted)  \nParameter  Symbol Conditions Min Typ Max Units \nStatic Parameter \nDrain-Source Breakdown Voltage BV DSS V GS=0V, I D=250μA 20   V \nZero Gate Voltage Drain Current I DSS V DS=20V,V GS=0V   1 μA  \nGate-Body Leakage Current I GSS VGS=±10V, V DS=0V   ±100 nA \nGate Threshold Voltage V GS(th) V DS= VGS, ID=250μA 0.45 0.62 1.0 V  \nStatic Drain-Source On-Resistance R DS(ON) VGS=4.5V, I D=7.6A  12 17 \nmΩ VGS=2.5V, I D=3.5A  15.5 20 \nVGS=1.8V, I D=2.5A  20.5 35 \nDiode Forward Voltage V SD I S=7.6A,V GS=0V   1.2 V \nDynamic Parameters  \nInput Capacitance C iss \nVDS=10V,V GS=0V,f=1MHZ  888  \npF Output Capacitance C oss  133  \nReverse Transfer Capacitance C rss  117  \nSwitching Parameters  \nTotal Gate Charge Q g \nVGS=4.5V,V DS=10V,I D=6.8A  11.05  \nnC Gate-Source Charge Q gs  1.73  \nGate-Drain Charge Q gd  3.1  \nTurn-on Delay Time t D(on) \nVGS=4.5V, V DS=10V, I D=6.8A \nRGEN=3Ω  7  \nns Turn-on Rise Time t r  46  \nTurn-off Delay Time t D(off)  30  \nTurn-off fall Time t f  52  \n \nA. Pulse Test: Pulse Width ≤300us,Duty cycle ≤2%. \nB. RθJA is the sum of the junction-to-case and case-to-ambient thermal resistance, where the case thermal reference is defined as the solder \nmounting surface of the drain pins. RθJC is guaranteed by design, while RθJA is determined by the board design. The maximum rating presented \nhere is based on mounting on a 1 in 2  pad of 2oz copper. \nYJL2312AL                       \n \n 3 / 7 \n   Yangzhou Yangjie Electronic Technology Co., Ltd.  S-E063 \nRev.3.0,25-Feb-20 www.21yangjie.com  \n■ Typical Performance Characteristics \n \nFigure1.  Output Characteristics  \n \nFigure2.  Transfer Characteristics \n \nFigure 3: On-Resistance vs. Drain Current \nand Gate Voltage  \n \nFigure 4: On-Resistance vs. Junction Temperature \n \nFigure5.  Capacitance Characteristics  \n \nFigure6. Gate C harge \nYJL2312AL                       \n \n 4 / 7 \n   Yangzhou Yangjie Electronic Technology Co., Ltd.  S-E063 \nRev.3.0,25-Feb-20 www.21yangjie.com  \n \nFigure7. Safe Operation Area  \n \nFigure8. Maximum Continuous Drain Current \nvs Ambient Temperature \n \nFigure9. Normalized Maximum Transient Thermal Impedance  \n \nYJL2312AL                       \n \n 5 / 7 \n   Yangzhou Yangjie Electronic Technology Co., Ltd.  S-E063 \nRev.3.0,25-Feb-20 www.21yangjie.com  \n \n \n \nResistive Switching Test Circuit & Waveforms  \n \n \nDiode Recovery Test Circuit & Waveforms  \n \n  \nGate Charge Test Circuit & Waveform \n \n  \nUnclamped Inductive Switching (UIS) Test Circuit & Waveforms  \n                                                                               \n \n \n \nYJL2312AL                       \n \n 6 / 7 \n   Yangzhou Yangjie Electronic Technology Co., Ltd.  S-E063 \nRev.3.0,25-Feb-20 www.21yangjie.com  \n■ SOT-23-3L  Package information  \n \n \nYJL2312AL  \n 7 / 7 \nYangzhou Yangjie Electronic Technology Co., Ltd.  S-E063 \nRev.3.0,25-Feb-20 www.21yangjie.com  \nDisclaimer \nThe information presented in this document is for reference only. Yangzhou Yangjie Electronic Technology Co., Ltd. reserves the \nright to make changes without notice for the specification of the products displayed herein to improve reliability, function or design \nor otherwise.   \nThe product listed herein is designed to be used with ordinary electronic equipment or devices, and not designed to be used with \nequipment or devices which require high level of reliability and the malfunction of with would directly endanger human life (such as \nmedical instruments, transportation equipment, aerospace machinery, nuclear-reactor controllers, fuel controllers and other safety \ndevices), Yangjie or anyone on its behalf, assumes no responsibility or liability for any damages resulting from such improper use \nof sale.  \nThis publication supersedes & replaces all information previously supplied. For additional information, please visit our website \nhttp:// www.21yangjie.com  , or consult your nearest Yangjie’s sales office for further assistance. \n'}]
+!==============================================================================!
+### Component Summary: YJL2312AL
+
+**Component Type:**  
+N-Channel Enhancement Mode Field Effect Transistor (MOSFET)
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Drain-Source Voltage (VDS): 20V
+  - Gate-Source Voltage (VGS): ±10V
+
+- **Current Ratings:**
+  - Continuous Drain Current (ID) at TA=25°C: 7.6A
+  - Continuous Drain Current (ID) at TA=70°C: 6A
+  - Pulsed Drain Current (IDM): 30A
+
+- **Power Consumption:**
+  - Total Power Dissipation (PD) at TA=25°C: 1.5W
+  - Total Power Dissipation (PD) at TA=70°C: 0.96W
+
+- **Operating Temperature Range:**
+  - Junction and Storage Temperature (TJ, TSTG): -55°C to +150°C
+
+- **Package Type:**
+  - SOT-23-3L
+
+- **Special Features:**
+  - Low On-Resistance (RDS(ON)):
+    - At VGS=4.5V: <17mΩ
+    - At VGS=2.5V: <20mΩ
+    - At VGS=1.8V: <35mΩ
+  - 100% VDS Tested
+  - Trench Power LV MOSFET technology for high power and current handling capability.
+
+- **Moisture Sensitive Level (MSL):**
+  - Compliant with JEDEC J-STD-020E.
+
+### Description:
+The YJL2312AL is an N-Channel Enhancement Mode MOSFET designed for efficient switching applications. It utilizes trench power technology, which allows for low on-resistance and high current handling capabilities, making it suitable for various power management tasks.
+
+### Typical Applications:
+- **PWM Applications:** The YJL2312AL is ideal for Pulse Width Modulation (PWM) applications, which are commonly used in motor control and power regulation.
+- **Load Switching:** This MOSFET can be used as a load switch in various electronic circuits, enabling or disabling power to different components based on control signals.
+
+This component is particularly useful in power management systems, signal processing circuits, and other applications where efficient switching and low power loss are critical.

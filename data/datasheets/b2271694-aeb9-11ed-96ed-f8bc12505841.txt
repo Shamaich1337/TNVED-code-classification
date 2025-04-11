@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of IPL1-105-01-L-D-RA-K production of SAMTEC from the text:Unless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.samtec.com/minimateView complete specifications at: samtec.com?IPL1(9.58)\n.377\n(5.59)\n.220\n(7.62)\n.300(8.76)\n.345(8.76)\n.345\n(7.04)\n.277\n(8.13)\n.320–01, –02 & –RA = \nNo. of positions x\n(2.54) .100 + (1.52) .060 \n–SH & –RE1 = \nNo. of positions x\n(2.54) .100 + (4.06) .160  \n(6.35)\n.250(6.10)\n.240(5.08)\n.200\n(6.86)\n.270\n(8.26)\n.325\n–02 –01–02–D–02–S\n–01–S\n–01–S-RA–01–D\n–01–D–RA –RA –02–SH –01–D–RE1–01–S–RE1IPL1-1PINS PER \nROW--LEAD \nSTYLE--PLATING \nOPTION--ROW \nOPTION--TAIL OPTION\n-- K\n--OPTION\n02, 03,\n04, 05,\n06, 08,\n10, 12,\n15, 16,\n20, 25\n(Standard \nsizes)–01\n= Through-\nhole\n–02\n= Surface \nMount–L\n= 10 µ" (0.25 µm)  \nGold on contact, \nMatte Tin on tail–S\n= Single Row \n–SH\n= Single Row \nHorizontal\n(–02 lead \nstyle only)\n–D\n= Double Row  –RA\n=Right-angle \n(–01 lead style only)\n–RE1\n=Right-angle Elevated \n(–01 lead style only)\n(–K is a required \ncallout)–K\n=Keyed\nPolarization–TR\n= Tape & Reel\n(–02 lead style only)\nComes with Polyimide\nPick & Place Pad\n–FR\n= Full Reel Tape & \nReel (must order max. \nquantity per reel; \ncontact Samtec for \nquantity breaks) (-02 lead \nstyle  only) Comes with \nPolyimide Pick & Place \nPad\nSPECIFICATIONSIPL1\nCable Mates:\nMMSD, MMSS,  \nMMSDT, MMSST\nInsulator Material:  \nNatural LCP\nTerminal Material:\nPhosphor Bronze\nPlating:  \nSn or Au over  \n50 µ" (1.27 µm) Ni\nOperating Temp Range:\n-55 °C to +125 °C\nVoltage Rating:  \n675 VAC/954 VDC\nPROCESSING\nLead–Free Solderable:  \nYes\n–S & –D (–02 Lead Style)  \nSMT Lead Coplanarity:\n(0.10 mm) .004" max (02-05)\n(0.13 mm) .005" max (06-10)*\n(0.15 mm) .006" max (11-25)*\n*(.004" stencil solution  \nmay be available; contact  \nIPG@samtec.com)\n–SH SMT Lead Coplanarity:\n(0.15 mm) .006" max (02-25)*\n*(.004" stencil solution  \nmay be available; contact  \nIPG@samtec.com)(2.54 mm) .100" PITCH  •  DISCRETE WIRE TERMINAL\nOther sizes\nWith or without plug polarization\nGuide post holes\nOther platings\nWeld tabALSO AVAILABLE\nMOQ RequiredMMSD/IPL1\nWIRE  \nGUAGECURRENT \nRATING  \n(PER PIN)\n20 4.8 A\n22 4.3 A\n24 3.9 A\n26 3.5 A\n28 2.6 A\n30 2.1 A\n2 PINS POWERED\nNote:  \nSome lengths, styles and \noptions are non-standard, \nnon-returnable.4.8\nAmpsMAX\nF-221\n'}]
+!==============================================================================!
+### Component Summary for IPL1-105-01-L-D-RA-K by Samtec
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - 675 VAC / 954 VDC
+- **Current Ratings**: 
+  - 4.8 A (for 20 AWG wire)
+  - 4.3 A (for 22 AWG wire)
+  - 3.9 A (for 24 AWG wire)
+  - 3.5 A (for 26 AWG wire)
+  - 2.6 A (for 28 AWG wire)
+  - 2.1 A (for 30 AWG wire)
+- **Power Consumption**: Not specified directly; current ratings imply power handling capability.
+- **Operating Temperature Range**: 
+  - -55 °C to +125 °C
+- **Package Type**: 
+  - Through-hole (–01 lead style) or Surface Mount (–02 lead style)
+- **Special Features/Notes**: 
+  - Keyed polarization (–K)
+  - Lead-free solderable
+  - Available in various configurations (single row, double row, right-angle, etc.)
+  - Comes with Polyimide Pick & Place Pad for SMT options
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Component Description:
+The IPL1-105-01-L-D-RA-K is a discrete wire terminal connector designed for reliable electrical connections in various applications. It features a 2.54 mm (0.100") pitch and is available in multiple configurations, including single and double rows, as well as right-angle and elevated options. The connector is constructed from natural LCP (Liquid Crystal Polymer) for the insulator and phosphor bronze for the terminals, with plating options of either tin or gold over nickel.
+
+#### Typical Applications:
+The IPL1 connector series is typically used in applications requiring robust and reliable connections, such as:
+- **Power Management**: Suitable for connecting power supplies to circuit boards or other components.
+- **Signal Processing**: Used in data transmission applications where signal integrity is crucial.
+- **Industrial Equipment**: Commonly found in machinery and equipment that operate in harsh environments due to its wide temperature range.
+- **Consumer Electronics**: Utilized in various electronic devices where space-saving and efficient connections are needed.
+
+This connector is ideal for applications that demand high reliability and performance, particularly in environments with extreme temperatures and electrical demands.

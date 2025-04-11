@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BF2-006-SK700-55 production of E-TEC from the text:A\nB\nC\nD\nE\nF\nG\nHA\nB\nC\nD\nE\nF\nG\nH12 3 4 5 6 78\n1 2 1 2 3 1 2 3 4 5 6 7 8New 12.12.2014 AREV. DESCRIPTION DATE DRAWN\nDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATESHEET 1/1\nREV. CDWG. NO.\nSERIES NO.UNIT\nSCALEmm\nFreeGENERAL TOLERANCERyan\nRonny\nHogi12.12.2014\n25.04.2022\n25.04.2022BF2-SK700\nBF2-xxx-SK700-xx  X.°  ±\n  .X°  ±\n .XX°  ±\n.XXX°  ±X.   ±\n.X    ±\n.XX   ±  0.25\n.XXX ±Ryan\nE-tec 2022 © - all rights reservedupdate 12.08.2016 B Ronny\nTHT Female Header\n2.54mm pitch dual row  7.00mm Profile\nwith kinked legsAB\n004 5,08 2,54\n006 7,62 5,08\n008 10,16 7,62\n010 12,70 10,16\n012 15,24 12,70\n014 17,78 15,24\n016 20,32 17,78\n018 22,86 20,32\n020 25,40 22,86\n022 27,94 25,40\n024 30,48 27,94\n026 33,02 30,48\n028 35,56 33,02\n030 38,10 35,56\n032 40,64 38,10\n034 43,18 40,64\n036 45,72 43,18\n038 48,26 45,72\n040 50,80 48,26\n042 53,34 50,80\n044 55,88 53,34\n046 58,42 55,88\n048 60,96 58,42\n050 63,50 60,96\n052 66,04 63,50\n054 68,58 66,04\n056 71,12 68,58\n058 73,66 71,12\n060 76,20 73,66\n062 78,74 76,20\n064 81,28 78,74\n066 83,82 81,28\n068 86,36 83,82\n070 88,90 86,36\n072 91,44 88,90No. of \nContactsDimension mm\n55  =  Gold flash \n66  =  10µ" Gold\n77  =  15µ" Gold\n88  =  30µ" Gold\n99  =  Tin\nDuplex plating\n95  =  Tin/Gold flash\n96  =  Tin/10µ" Gold\n97  =  Tin/15µ" Gold\n98  =  Tin/30µ" GoldOrder Code\nBF2-xxx-SK700-xx\nNo. of contact\n004 to 072\nsee tablePlating\nMaterial\nContact: Phosphor Bronze\nPlating: Gold, Tin or Duplex\n      *Duplex = Tin on solder,\n            Gold on contact area\nInsulator: LCP (black)  UL 94V-0\nOperating temperature: -40°C to +125°C\nPacking\nTube\nSpecifications\nElectrical\nCurrent rating: 3A\nInsulation resistance: 1000M Ω min.\nContact resistance: 20m Ω max.\nWithstanding voltage: 1000V AC / DC Recommended PCB Hole Layout Top View\nRecommended PCB Thickness:1.60mm\n (PCB Tolerance ±0.05)2.54B\n∅0.90\n2.542.54 ±0.10 0.70x0.202.205.00\n7.00\n3.10\n2.54 ±0.202.54 ±0.15BA±0.30\n0.52 ±0.05\n5.20Operating temp.: -40°C to +105°C->-40°C to +125°C 25.04.2022 C Cherry\n'}]
+!==============================================================================!
+### Component Summary: BF2-006-SK700-55
+
+#### Key Specifications:
+- **Voltage Ratings**: 1000V AC / DC
+- **Current Ratings**: 3A
+- **Power Consumption**: Not specified directly; however, the current rating indicates the maximum load the component can handle.
+- **Operating Temperature Range**: -40°C to +125°C
+- **Package Type**: THT (Through-Hole Technology) Female Header
+- **Special Features/Notes**: 
+  - Insulation resistance: 1000 MΩ minimum
+  - Contact resistance: 20 mΩ maximum
+  - Duplex plating options available (Tin on solder, Gold on contact area)
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The BF2-006-SK700-55 is a THT (Through-Hole Technology) female header connector with a 2.54mm pitch and a dual-row configuration. It features kinked legs for secure mounting on printed circuit boards (PCBs). The component is designed for reliable electrical connections in various electronic applications.
+
+#### Typical Applications:
+This component is typically used in:
+- **Power Management**: Connecting power supplies to circuit boards.
+- **Signal Processing**: Establishing connections between different circuit elements.
+- **Data Storage**: Used in connectors for data storage devices.
+- **General Electronics**: Suitable for a wide range of electronic devices requiring robust and reliable connections.
+
+The BF2-006-SK700-55 is particularly useful in environments where durability and temperature resilience are critical, making it suitable for industrial applications, consumer electronics, and automotive systems.

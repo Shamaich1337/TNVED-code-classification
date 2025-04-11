@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of CAS-T001-LVDS-0289 production of DECIGN from the text:RoHS\ncompliant\nWire Harness\n1.00mm Housing 1x30p\nto\nStripped Tinned 3mm\n, L=300mm SHEET UNITmm\nFreeSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.GENERAL TOLERANCE\n0 ~ 200mm  ->  ±10mm\n201 ~ 1000mm  ->  ±20mm\n1001 ~ 1500mm  ->  ±25mm\n1501 ~ 2100mm  ->  ±30mm\n2100mm↑->  ±40mmCherry\nKent\nSH18.11.2022\n23.11.2022\n23.11.20221/1\nB130\n30±53±1 Tin\n17\n186\n874\n53Pin No.\n1\n2Color\nNC\n109\n1211\n1413\n1615\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30Black\nBrown\nWhite\nBlack\nGreenWhite\nBlack\nWhite\nBlack\nGrayWhite\nNC\nBlue\nNC\nNC\nNC\nBlack\nBlack\nRed\nRed_Signal Name\nGND\nCLK-\nGND\nGND\nGND\nGNDCLK+\nGND\nRin2-Rin2+\nRin1-Rin1+\nRin0-Rin0+\n_\nSEL6/8\n_\n_\n_\nReverse\nVCC\nVCCTwist\nTwist\nTwist\nTwistOrange\nYellowGND\nRin3-Rin3+Twist\nBlack GND\nBlack GNDBlack\nBlack GND\nRed VCCPurple\nWhite\n45±5\n300±103±1 Tin120±10\nItem Description Q'TY\nHousing: 1x30pin, pitch 1.00mm 1\nTerminal: pitch 1.00mm 25\n2 UL1571 28AWG Insulator Wire, OD=0.60mm 25\n3 UL1007 22AWG , Insulator Wire, Black 1\n4 Braid 0.12/144C 1\n5 Acetate Cloth Tape 2\n6 Acetate Cloth Tape 11123\n4 5 5 6REV. previous version this version DATE DRAWN\nA New 18.11.2022 Cherry\nB Bom: 20AWG Bom: 22AWG 23.11.2022 Cherry\nCAS-T001 -LVDS-0289\nCAS-T001 -LVDS-0289\n"}]
+!==============================================================================!
+### Component Summary for CAS-T001-LVDS-0289
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, LVDS (Low-Voltage Differential Signaling) operates at low voltage levels, often around 1.2V to 3.3V.
+- **Current Ratings**: Not specified in the provided text; LVDS typically has low current requirements, often in the range of milliamps.
+- **Power Consumption**: Not specified; LVDS is known for low power consumption, suitable for high-speed data transmission.
+- **Operating Temperature Range**: Not provided; typical operating ranges for similar components are often -40°C to +85°C.
+- **Package Type**: Wire harness with a 1.00mm pitch, 1x30 pin configuration.
+- **Special Features or Notes**: 
+  - RoHS compliant.
+  - Includes twisted pairs for signal integrity.
+  - Stripped tinned wire ends for easy connection.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The CAS-T001-LVDS-0289 is a wire harness designed for Low-Voltage Differential Signaling (LVDS) applications. It features a 1x30 pin housing with a 1.00mm pitch, which allows for compact connections in electronic systems. The harness includes multiple twisted pairs of wires, which are essential for maintaining signal integrity and reducing electromagnetic interference during high-speed data transmission.
+
+#### Typical Applications:
+The CAS-T001-LVDS-0289 is typically used in applications that require high-speed data transfer with low power consumption. Common applications include:
+- **Display Interfaces**: Connecting LCD panels to controllers in laptops and monitors.
+- **Data Communication**: Used in high-speed data links in telecommunications and networking equipment.
+- **Embedded Systems**: Suitable for various embedded applications where space and power efficiency are critical.
+- **Automotive Electronics**: Often utilized in automotive displays and infotainment systems due to its robustness and reliability.
+
+This component is ideal for engineers looking to implement LVDS technology in their designs, ensuring efficient and reliable data transmission in compact spaces.

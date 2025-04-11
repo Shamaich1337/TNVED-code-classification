@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of SMFOC-1550-C-M-25-Z45-B3-1-9-10-LA production of SEAGNOL PHOTONICS CO., LTD from the text:REV. DATE REV. REV.\n1.0 2023/8/31 NEW Z. Zhou\nUnits: mm DATE: 2023/8/31 SEAGNOL PHOTONICS CO., LTD\nMAT' L:PART NO:\nSMFOC-1550-C-M-25-\nZ45-B3-1-9-10-LANAME: 1550nm SM Single Fiber Collimator\nFINISH: NOTES APPD: DWG NO:\nQ'TY:CHKD: J. Wang SCALE: SHEET REV.\nDR: Z.Zhou 1:1 1/1 1.0Parameter Spec Unit\nWorking Wavelength \x14\x18\x18\x13\x94\x18\x13QP nm\nWorking Distance 25 mm\nLens Type C-lens -\nBeam Diameter <0.45 mm\nInsertion Loss\n(exclude connector)\x95\x13\x11\x15 dB\nInsertion Loss\n(include connector)\x95\x13\x11\x16\x18 dB\nReturn Loss \x96\x18\x13 dB\nPDL \x95\x13\x11\x13\x18 dB\nDeviation of the beam from\nthe axis of the collimator body\x95\x13\x11\x18 degree\nFiber Type G657-B3 -\nFiber Jacket 900um loose tube -\nFiber Length 1.0~1.05 m\nConnector LC/APC -\nOptical Power 300 mW\nDimensions \x92\x03\x14\x11\x16\x10\x13\x11\x13\x16\r\x1b\x94\x13\x11\x18 mm\nWorking Temperature -25~+45 ć\x1b\x94\x13\x11\x18PP\n1mm\x13\x11\x18\x94\x13\x11\x15PP\n\x92\x14\x11\x16\x03\x0e\x13\x12\x10\x13\x11\x13\x16PPMetal C-lens353ND Glue\n0.9mm Loose Tube (white)1000 +50/-0mm\nLC/APC\n"}]
+!==============================================================================!
+### Component Summary for SMFOC-1550-C-M-25-Z45-B3-1-9-10-LA
+
+**Manufacturer:** SEAGNOL PHOTONICS CO., LTD  
+**Product Name:** 1550nm SM Single Fiber Collimator  
+**Revision Date:** 2023/8/31  
+
+#### Key Specifications:
+- **Working Wavelength:** 1550 nm
+- **Working Distance:** 25 mm
+- **Lens Type:** C-lens
+- **Beam Diameter:** <0.45 mm
+- **Insertion Loss (excluding connector):** Not specified in the provided text
+- **Insertion Loss (including connector):** Not specified in the provided text
+- **Return Loss:** Not specified in the provided text
+- **Polarization Dependent Loss (PDL):** Not specified in the provided text
+- **Deviation of the Beam from the Axis of the Collimator Body:** Not specified in the provided text
+- **Fiber Type:** G657-B3
+- **Fiber Jacket:** 900 µm loose tube
+- **Fiber Length:** 1.0 to 1.05 m
+- **Connector Type:** LC/APC
+- **Optical Power:** 300 mW
+- **Dimensions:** Not specified in the provided text
+- **Operating Temperature Range:** -25°C to +45°C
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text
+
+#### Description:
+The SMFOC-1550-C-M-25-Z45-B3-1-9-10-LA is a single-mode fiber collimator designed for use with a working wavelength of 1550 nm. Its primary function is to collimate light from a single-mode fiber into a parallel beam, which is essential for various optical applications. The collimator features a C-lens design, which helps in achieving a small beam diameter of less than 0.45 mm.
+
+#### Typical Applications:
+This component is typically used in:
+- **Telecommunications:** For long-distance fiber optic communication systems where maintaining signal integrity is crucial.
+- **Optical Sensors:** In applications requiring precise light delivery and collection.
+- **Laser Systems:** To collimate laser beams for various industrial and research applications.
+- **Fiber Optic Networks:** In setups where efficient light coupling and minimal loss are required.
+
+This collimator is particularly suited for environments where temperature variations can occur, given its operational range of -25°C to +45°C, making it versatile for outdoor and industrial applications.

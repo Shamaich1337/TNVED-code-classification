@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of GKM5R0003FE-TR production of OHMITE from the text:1-866-9-OHMITE • Int’l 1-847-258-0300 • Fax 1-847-574-7522 • www.ohmite.com • info@ohmite.com 12\nFK/GK Series\nMetal Alloy Low-Resistance Chip Resistor\ncharacteriSticS\nDerating\nrev 9/19-1ap p l i c at i o n S \n•\tCurrent\tsensor\tfor\tpower\thybrid\t\napplications\n•\tFrequency\t converters\n•\tPower\tmodules\n•\tAutomatic\t control\tpower\tsupply\n•\tHigh\tcurrent\tapplications \tfor\tthe\t\nautomotive\t marketF e at u r e S \n•\tPower\trating\tup\tto\t5\twatt\n•\t4-terminal\t connection\n•\tExcellent\t long-term\t stability\n•\tIdeal\tfor\tmounting \ton\tDCB/IMS\t\nsubstrate\n•\tRoHS\tcompliant\nResistance 0.3mΩ to 3mΩ\nTolerance 1%\nPower 5 watts @70°C\nTCR Manganin: ≤ ±70ppm/K\nKarma: ≤ ±40ppm/K(20°~120°C)\nOper. temp. range -55 to +155°C\nStability <1.0% (in covered condition)\nTermination  \nand MaterialFKM Folded Term, Manganin\nFKK Folded Term, Karma\nGKM Gullwing Term, Manganin\nGKK Gullwing Term, Karma\ndimenSionS\n(mm)\norderinG inFormationTerminal Temp. (°C)% Rated Power80\n40120\n6020100\n0\n020406080100 180160140120\n10.8\n Folded: 2.9 2\n Gullwing: 5.5 45.66.6 ±0.3\nT\n2.5 ±0.24.8 ±0.4Folded Gullwing\n0.93 ±0.5\n6.9 ±0.36.6 ±0.3\nT\n2.5 ±0.24.8 ±0.4\n0.93 ±0.5\n6.9 ±0.3Land pattern\nOhm Value\nExample:R0005 = 0.0005ΩTape & reel MaterialM = ManganinK = KarmaConnection\nK = Kelvin\nToleranceF = 1%J = 5%TerminationsF = FoldedG = GullwingWattage\nRoHS Compliant\nFKM5R0005FE-TRStandard part numbers\nPart number Power Tolerance Resistance Qty./reel (pcs)\nFKM5R0005FE-TR 5W 1% 0.0005Ω 1,000 \nFKM5R0010FE-TR 5W 1% 0.001Ω 1,000 \nFKK5R0020FE-TR 5W 1% 0.002Ω 1,000 \nFKK5R0030FE-TR 5W 1% 0.003Ω 1,000\nGKM5R0003FE-TR 5W 1% 0.0003Ω 1,000 \nGKM5R0005FE-TR 5W 1% 0.0005Ω 1,000 \nGKM5R0010FE-TR 5W 1% 0.001Ω 1,000 \nGKK5R0020FE-TR 5W 1% 0.002Ω 1,000 \nGKK5R0030FE-TR 5W 1% 0.003Ω 1,000 Material Res. (mΩ) T ±0.1\n Manganin 0.3 1.06 \n Manganin 0.5 0.67 \n Manganin 1 0.33 \n Karma 2 0.47 \n Karma 3 0.34\n'}]
+!==============================================================================!
+### Component Summary for GKM5R0003FE-TR
+
+**Component Type:**  
+Metal Alloy Low-Resistance Chip Resistor
+
+**Key Specifications:**
+- **Resistance:** 0.0003Ω (0.3 mΩ)
+- **Tolerance:** 1%
+- **Power Rating:** 5 watts @ 70°C
+- **Temperature Coefficient of Resistance (TCR):** 
+  - Manganin: ≤ ±70 ppm/K
+  - Karma: ≤ ±40 ppm/K (20°~120°C)
+- **Operating Temperature Range:** -55°C to +155°C
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+- **Package Type:** Available in Folded and Gullwing terminations.
+- **Special Features:**
+  - 4-terminal connection for improved accuracy.
+  - Excellent long-term stability.
+  - Ideal for mounting on DCB/IMS substrates.
+  - RoHS compliant.
+
+**Description:**  
+The GKM5R0003FE-TR is a low-resistance chip resistor designed for high-current applications. It is part of the FK/GK series from Ohmite, which utilizes metal alloy materials (Manganin and Karma) to achieve low resistance values with high power ratings. The resistor is characterized by its stability and precision, making it suitable for demanding applications.
+
+**Typical Applications:**
+- **Current Sensing:** Used in power hybrid applications to accurately measure current flow.
+- **Frequency Converters:** Employed in circuits that require precise resistance values for signal processing.
+- **Power Modules:** Integral in power management systems where low resistance is critical for efficiency.
+- **Automatic Control Power Supply:** Utilized in systems that require reliable performance under varying loads.
+- **High Current Automotive Applications:** Suitable for automotive electronics where high reliability and low resistance are essential.
+
+This component is particularly valuable in applications where precise current measurement and stability are required, making it a critical component in modern electronic systems.

@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TEN 5-2421WI production of TRACO POWER from the text:http:/ /www.tracopower.comPage 1 of 3\nDC/DC Converters\nTEN 5WI Series, 6 Watt\nFeatures\nu Ultra wide 4:1 input range\nu DIP-24 Package with standard pinout\nu Full SMD design\nu Extended operating temperature range  \n –40°C to +85°C max.\nu High efficiency\nu Excellent load and line regulation\nu Indefinite short circuit protection\nu I/O isolation 1500VDC\nu Built-in Filter to meet EN 55022, Class A  \n and FCC, level A\nu Lead-free design, fully RoHS compliant\nu 3-year product warranty\nThe TEN 5WI series is a family of high performance dc-dc converter modules with\n5 W output power, featuring ultra wide input voltage ranges of 9 - 36 VDC or  \n18 - 75 VDC. They come in a shielded DIP-24 metal package with industry-standard \nfootprint.\nA high efficiency allows –40°C to +70°C operation ambient temperatures at full load. \nTypical applications for these converters are battery operated equipment and distri -\nbuted power architectures in communication, instrumentation and industrial electro -\nnics, everywhere where a wide input voltage range is required.\nOrdercode Input voltage range Output voltage Output current max. Efficiency typ.\nTEN 5-2410WI  3.3 VDC  1 200 mA 75 %\nTEN 5-241 1WI  5 VDC  1000 mA 78 %\nTEN 5-241 2WI  1 2 VDC  500 mA 83 %\nTEN 5-2413WI 9 – 36 VDC 15 VDC  400 mA 82 %\nTEN 5-2421WI (24 VDC nominal) ±5 VDC  ±500 mA 78 %\nTEN 5-2422WI  ±1 2 VDC  ±250 mA 83 %\nTEN 5-2423WI  ±15 VDC  ±200 mA 82 %\nTEN 5-4810WI  3.3 VDC  1 200 mA 75 %\nTEN 5-481 1WI  5 VDC  1000 mA 78 %\nTEN 5-481 2WI 18 – 75 VDC 1 2 VDC  500 mA 83 %\nTEN 5-4813WI  15 VDC  400 mA 82 %\nTEN 5-4821WI (48 VDC nominal) ±5 VDC  ±500 mA 78 %\nTEN 5-4822WI  ±1 2 VDC  ±250 mA 83 %\nTEN 5-4823WI  ±15 VDC  ±200 mA 82 %ModelsUL 60950-1\nhttp:/ /www.tracopower.comPage 2 of 3\nAll specifications valid at nominal input voltage, full load and +25°C after warm-up time unless otherwise stated. DC/DC Converters\nTEN 5WI Series 6 Watt\nInput Specifications  \nInput current no load   24 Vin models  20 mA  typ.  \n  48 Vin models  10 mA  typ. \nStart-up voltage /   24 Vin models  9 VDC / 8.5 VDC typ.  \nunder voltage shut down   48 Vin models  18 VDC / 16  VDC typ.\nSurge voltage (1 sec. max.)   24 Vin models  50 V max.  \n  48 Vin models  100 V max.\nConducted noise (input)    EN 55022 level A, FCC part 15, level A\nOutput Specifications  \nVoltage set accuracy   ±2.0 % max.\nRegulation  – Input variation  Vin min. to Vin max.   ±0.5 % max.  \n – Load variation 10 – 100 %   \n  single output models  1.0 % max.  \n  dual output models  1.0 % max. balanced load  \n  25 – 100 %  5.0 % max. unbalanced load\nRipple and noise  (20 MHz Bandwidth)   80 mVpk-pk max\nTemperature coefficient   ±0.02 %/K\nCurrent limitation   >110 % of Iout max., constant current\nShort circuit protection    indefinite (automatic recovery)\nCapacitive load   3.3 / 5 VDC models  470 µF max.  \n  12 / 15 VDC models  100 µF max.  \n  dual output models  100 µF max. \nGeneral Specifications  \nTemperature ranges  – Operating   –40°C to +85°C  \n – Case temperature   +100°C max.  \n – Storage   –40°C to +125°C\nDerating   3.5 %/K above +70°C\nHumidity (non condensing)    95 % rel H max.\nReliability, calculated MTBF (MIL-HDBK-217F, at +25°C,   ground benign)   >800’000 h \nIsolation voltage (60 sec.)  – Input/Output   1’500 VDC\nIsolation capacitance  – Input/Output    1000 pF typ\nIsolation resistance  – Input/Output (500 VDC)   >1‘000 M Ohm\nSwitching frequency   290 - 450 kHz (PFM)\nSafety standards    cUL/UL 60950-1 , IEC/EN 60950-1\nEnvironmental compliance  – Reach   www.tracopower.com/info/reach-declaration.pdf  \n – RoHS   directive 201 1/65/EU\nPage 3 of 3\nSpeciﬁcati ons can be changed wi thout noti ce! Make sure you are using the latest documentation, downloadable at www.tracopower. com\n    www .tracopower. comDC/DC Converters\nTEN 5WI Series 6 Watt\nPhysical Specifications\nCasing material    black anodized aluminium\nBaseplate material    non conductive FR4\nPotting material   epoxy (UL 94V-0 rated)\nWeight   17 g (0.49 oz)\nSoldering temperature    max. 260°C / 10 sec.\nOutline Dimensions \n22.86\n20.3 \n(0.80)4.531.8 (1.25) Ø0.5\n(Ø0.02)\n10.2 4.115.241192223 2\n3\n1416\nBottom vie w2.54 15.24\n2.54 5.08\n(0.599) (0.100) \n(0.40) (0.16)(0.9) (0.18) \n(0.100) (0.200) (0.600)Pin Single Dual\n2 –Vin (GND) –Vin (GND)\n3 –Vin (GND) –Vin (GND)\n9 No pin Common\n11 NC –Vout\n14 +Vout +Vout\n16 –Vout Common\n22 +Vin (Vcc) +Vin (Vcc)\n23 +Vin (Vcc) +Vin (Vcc)Pin-Out\nRev. February 20, 2023All dimension in mm (inch)\nTolerances: x.x ±0.25 (x.xx ±0.01)\n    x.xx ±0.13 (x.xxx ±0.005)\nPin diameter tolerances: x.x ±0.05 (x.xx ±0.002)NC = Not connectedSupporting documents: www.tracopower.com/ overview/ten5wi\n'}]
+!==============================================================================!
+### Component Summary: TEN 5-2421WI DC/DC Converter
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Input Voltage Range: 9 - 36 VDC
+  - Output Voltage: ±5 VDC
+- **Current Ratings:**
+  - Maximum Output Current: ±500 mA
+- **Power Consumption:**
+  - Output Power: 6 Watts
+- **Operating Temperature Range:**
+  - Operating: -40°C to +85°C
+  - Case Temperature: +100°C max
+  - Storage: -40°C to +125°C
+- **Package Type:**
+  - DIP-24 (Dual In-line Package)
+- **Special Features:**
+  - Ultra wide 4:1 input range
+  - High efficiency (typical efficiency: 78%)
+  - Indefinite short circuit protection
+  - I/O isolation voltage: 1500 VDC
+  - Built-in filter to meet EN 55022, Class A and FCC, level A
+  - Lead-free design, fully RoHS compliant
+  - 3-year product warranty
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+**Description:**
+The TEN 5-2421WI is a high-performance DC/DC converter module designed to provide a stable output voltage of ±5 VDC from a wide input voltage range of 9 - 36 VDC. It is part of the TEN 5WI series, which is known for its compact DIP-24 package and robust design suitable for various applications. The converter features high efficiency and excellent load and line regulation, making it suitable for demanding environments.
+
+**Typical Applications:**
+The TEN 5-2421WI is typically used in:
+- Battery-operated equipment
+- Distributed power architectures
+- Communication systems
+- Instrumentation
+- Industrial electronics
+
+These applications benefit from the converter's wide input voltage range, high efficiency, and reliability, particularly in scenarios where space is limited and performance is critical.

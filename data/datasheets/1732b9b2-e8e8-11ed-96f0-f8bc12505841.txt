@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of M12-FD04-CVFP-55/00-M025 production of E-TEC from the text:Item Part Name Materials / Finish(Color) Q'TY\n1 O-Ring Silicone / Red 1\n2 Housing Thermoplastic / Black 1\n3 Metal Body Copper Alloy / Ni Plated 1\n4 Hex Nut Copper Alloy / Ni Plated 1\n5 O-Ring NBR / Black 1\n6 Contact Copper Alloy / Au Plated 4\n7 Glue Epoxy / Black -\n\n"}]
+!==============================================================================!
+Based on the provided information for the component with the part name M12-FD04-CVFP-55/00-M025 from E-TEC, here is a concise summary of its key characteristics and specifications:
+
+### Key Specifications:
+- **Component Type**: Connector (M12 connector)
+- **Materials**:
+  - **O-Ring**: Silicone (Red) and NBR (Black)
+  - **Housing**: Thermoplastic (Black)
+  - **Metal Body**: Copper Alloy (Ni Plated)
+  - **Hex Nut**: Copper Alloy (Ni Plated)
+  - **Contact**: Copper Alloy (Au Plated)
+  - **Glue**: Epoxy (Black)
+- **Quantity**: 
+  - O-Rings: 2 (1 Silicone, 1 NBR)
+  - Housing: 1
+  - Metal Body: 1
+  - Hex Nut: 1
+  - Contacts: 4
+
+### Description:
+The M12-FD04-CVFP-55/00-M025 is a type of M12 connector, which is commonly used in industrial applications for connecting sensors, actuators, and other devices. The connector features a robust design with a thermoplastic housing and metal body, ensuring durability and reliability in harsh environments. The use of silicone and NBR O-rings provides effective sealing against moisture and contaminants.
+
+### Typical Applications:
+- **Industrial Automation**: Used for connecting sensors and actuators in manufacturing and process control systems.
+- **Robotics**: Provides reliable connections in robotic systems for data and power transmission.
+- **Transportation**: Utilized in vehicles for connecting various electronic components.
+- **IoT Devices**: Suitable for industrial IoT applications where robust connectivity is required.
+
+### Special Features:
+- **Moisture Resistance**: The O-rings and the overall design provide protection against moisture ingress, making it suitable for outdoor and harsh environments.
+- **Gold Plated Contacts**: Ensures low contact resistance and high reliability in signal transmission.
+
+This summary encapsulates the essential characteristics and applications of the M12-FD04-CVFP-55/00-M025 connector, highlighting its suitability for various industrial and electronic applications.

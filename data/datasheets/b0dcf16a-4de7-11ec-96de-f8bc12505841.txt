@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PCS-104-Q396-99 production of E-TEC from the text:AB\n02 7,86 3,96\n03 11,82 7,92\n04 15,78 11,88\n05 19,74 15,84\n06 23,70 19,80\n07 27,66 23,76\n08 31,62 27,72\n09 35,58 31,68\n10 39,54 35,64\n11 43,50 39,60\n12 47,46 43,56\n13 51,42 47,52\n14 55,38 51,48\n15 59,34 55,44No. of \nPinsDimension mm\nVoltage rating: 30V AC/DC max.\n'}]
+!==============================================================================!
+### Component Summary for PCS-104-Q396-99 (E-TEC)
+
+#### Key Specifications:
+- **Voltage Ratings:** 30V AC/DC maximum
+- **Current Ratings:** Not specified in the provided text
+- **Power Consumption:** Not specified in the provided text
+- **Operating Temperature Range:** Not specified in the provided text
+- **Package Type:** Not specified in the provided text
+- **Special Features or Notes:** The provided text includes a series of values that may represent pin configurations or dimensions, but specific features are not detailed.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text
+
+#### Description:
+The PCS-104-Q396-99 is likely a component used in electronic applications, possibly a connector or a module, given the context of the voltage rating and the pin dimensions listed. The voltage rating indicates that it can handle up to 30V AC or DC, which is typical for many electronic components that interface with power supplies or signal lines.
+
+#### Typical Applications:
+While specific applications are not detailed in the provided text, components with similar voltage ratings and pin configurations are commonly used in:
+- **Power Management:** As connectors or interfaces in power distribution systems.
+- **Signal Processing:** In circuits that require reliable connections for data transmission.
+- **Control Systems:** In automation and control applications where voltage levels need to be managed effectively.
+
+### Conclusion:
+The PCS-104-Q396-99 component from E-TEC is characterized by its maximum voltage rating of 30V AC/DC. However, additional specifications such as current ratings, power consumption, and operating temperature range are not provided in the text. Its typical applications likely include power management and signal processing, making it suitable for various electronic systems. Further details from the complete datasheet would be necessary for a comprehensive understanding of its capabilities and applications.

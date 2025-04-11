@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of C0603X7S1A104K030BC production of TDK from the text:Multilayer Ceramic Chip Capacitors1 of 3\nCreation Date : September 06, 2022\n(GMT)\nC0603X7S1A104K030BCRoHS Reach Halogen Free Pb Free\n! Images are for reference only and show exemplary products.\n! This PDF document was created based on the data listed on the TDK Corporation website.\n! All speciﬁcations are subject to change without notice.\nCopyright(c) TDK Corporation. All rights reserved.TDK item description C0603X7S1A104KT****\nApplications Commercial Grade\nFeature General General (Up to 75V)\nSeries C0603 [EIA 0201]\nStatus Production\nBrand TDK\nSize\nLength(L) 0.60mm ±0.03mm\nWidth(W) 0.30mm ±0.03mm\nThickness(T) 0.30mm ±0.03mm\nTerminal Width(B) 0.10mm Min.\nTerminal Spacing(G) 0.20mm Min.\nRecommended Land Pattern (PA) 0.25mm to 0.35mm\nRecommended Land Pattern (PB) 0.20mm to 0.30mm\nRecommended Land Pattern (PC) 0.25mm to 0.35mm\nElectrical Characteristics\nCapacitance 100nF ±10%\nRated Voltage 10VDC\nTemperature Characteristic X7S(±22%)\nDissipation Factor (Max.) 10%\nInsulation Resistance (Min.) 1000MΩ\nOther\nSoldering Method Reﬂow\nAEC-Q200 NO\nPacking Punched (Paper)Taping [180mm Reel]\nPackage Quantity 15000pcs\nMultilayer Ceramic Chip Capacitors2 of 3\nCreation Date : September 06, 2022\n(GMT)\nC0603X7S1A104K030BCRoHS Reach Halogen Free Pb Free\n! Images are for reference only and show exemplary products.\n! This PDF document was created based on the data listed on the TDK Corporation website.\n! All speciﬁcations are subject to change without notice.\nCopyright(c) TDK Corporation. All rights reserved.Characteristic Graphs (This is reference data, and does not guarantee the products characteristics.)\nImpedance\nC0603X7S1A104K030BCESR\nC0603X7S1A104K030BC\nCapacitance\nC0603X7S1A104K030BCDC Bias Characteristic\nC0603X7S1A104K030BC\nTemperature Characteristic\nC0603X7S1A104K030BC(No Bias)C0603X7S1A104K030BC(DC Bias =\n5V )Ripple Temperature Rising\nC0603X7S1A104K030BC(100kHz) C0603X7S1A104K030BC(500kHz) C0603X7S1A104K030BC(1MHz)\nMultilayer Ceramic Chip Capacitors3 of 3\nCreation Date : September 06, 2022\n(GMT)\nC0603X7S1A104K030BCRoHS Reach Halogen Free Pb Free\n! Images are for reference only and show exemplary products.\n! This PDF document was created based on the data listed on the TDK Corporation website.\n! All speciﬁcations are subject to change without notice.\nCopyright(c) TDK Corporation. All rights reserved.Associated Images\nLand Pattern (Terminal Connection)\n\n'}]
+!==============================================================================!
+### Component Summary for C0603X7S1A104K030BC
+
+**Component Type:** Multilayer Ceramic Chip Capacitor
+
+**Manufacturer:** TDK Corporation
+
+#### Key Specifications:
+- **Capacitance:** 100 nF (±10%)
+- **Rated Voltage:** 10 VDC
+- **Temperature Characteristic:** X7S (±22%)
+- **Dissipation Factor (Max):** 10%
+- **Insulation Resistance (Min):** 1000 MΩ
+- **Operating Temperature Range:** Not explicitly stated, but X7S typically operates from -55°C to +125°C.
+- **Package Type:** C0603 (EIA 0201)
+  - **Dimensions:** 
+    - Length: 0.60 mm ±0.03 mm
+    - Width: 0.30 mm ±0.03 mm
+    - Thickness: 0.30 mm ±0.03 mm
+- **Terminal Width:** 0.10 mm Min.
+- **Terminal Spacing:** 0.20 mm Min.
+- **Moisture Sensitivity Level (MSL):** Not specified, but typically MSL 1 for ceramic capacitors.
+- **Soldering Method:** Reflow
+- **Packing:** Punched (Paper) Taping [180 mm Reel]
+- **Package Quantity:** 15,000 pcs
+- **RoHS Compliant:** Yes
+- **Halogen Free:** Yes
+- **AEC-Q200 Qualified:** No
+
+#### Description:
+The C0603X7S1A104K030BC is a multilayer ceramic chip capacitor designed for general-purpose applications. It features a capacitance value of 100 nF and is rated for a maximum voltage of 10 VDC. The capacitor is constructed using a ceramic dielectric material with an X7S temperature characteristic, which allows it to maintain stable capacitance over a wide temperature range.
+
+#### Typical Applications:
+This capacitor is suitable for various applications, including:
+- **Decoupling and Bypass Capacitors:** Used in power supply circuits to filter out noise and stabilize voltage levels.
+- **Timing Circuits:** Employed in timing applications where precise capacitance is required.
+- **Signal Coupling and Filtering:** Utilized in audio and RF circuits to couple signals while blocking DC components.
+- **Consumer Electronics:** Commonly found in smartphones, tablets, and other portable devices due to its small size and reliability.
+
+This component is ideal for use in commercial-grade electronics where space is limited, and performance is critical.

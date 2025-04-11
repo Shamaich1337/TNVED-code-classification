@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ECS-250-10-36Q-AES-TR production of ECS from the text: \n \n15351 West 109th Street   |  Lenexa , KS 66219   |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \n \n   \n \n \n \n     PARAMETERS  CONDITIONS  ECX-2236Q UNITS  \n  MIN TYP MAX   \nFrequency   12.000  60.000 MHz \nMode of Oscillation  Fundamental      \nFrequency Tolerance *   @ +25°C    ± 30  ppm \nFrequency Stability *  -40 ~ + 125°C \n(ES Option)     ± 50 ppm \nShunt Capacitance  Co   5 pF \nLoad Capacitance  Specify in P/N   8  pF \nDrive Level  DL  10 100 μW \nOperating \nTemperature * Topr  \n(ES Option)  -40  +125 °C \nStorage Temperature  Tstg -40  +125 °C \nAging (First Year)  @ +25°C ±3°C    ±5 ppm \nFrequency (MHz)         ESR Ω Max.  \n12.000 ~ 15.999  150 \n16.000 ~ 19.999  80 \n20.000 ~ 29.999  60 \n30.000 ~ 34.999  50 \n35.000 ~ 60.000  40 \nPad \nConnections  \n1 In/Out  \n2 Gnd \n3 Out/In  \n4 Gnd \nECS -  FREQUENCY ABBREVIATION      LOAD \nCAPACITANCE  PACKAGE  AVAILABLE OPTIONS  \nTolerance           Stability                 Temp \nRange                                                    PACKAGING  OPERATING CONDITIONS / ELECTRICAL CHARACTERISTICS  The ECX-2236 Q is a miniature SMD Crystal  with a   2.5 x 2.0 mm \nfootprint .  AEC-Q200 Qualified  \nECX-2236Q \nSMD C rystal  \nECX-2236Q SMD CRYSTAL  \n• Low Profile  \n• 2.5 x 2.0 mm Footprint  \n• RoHS Compliant  \n• AEC-Q200 Qualified  \nDIMENSIONS (mm)  \nPART NUMBERING GUIDE:  Example ECS -240-8-36Q-ES-TR Figure 1)  Top, Side , and Bottom  \nCrystal is symmetrical, pad 1 & 3 are interchangeable. \nChamfer on the bottom pad has no electrical  significance.  \n240 = 24.000  M Hz \nSee P/N Guide  \n 8 = 8 pF \nS = Series  \n 36Q = \n ECX-2236Q Blank = St d \nA = ± 25 ppm \nJ = ± 20 ppm  \nR = ± 15 ppm  \nC = ± 10 ppm  \n TR = Tape  \n& Reel  \n3K/Reel  \nRev.2020 ECS \n* Specify  available options in P/N.   \n† Contact ECS for availability  over extended temp range.  Blank=  Std  \nD=  ±100 ppm  \nE = ± 50 ppm \nG = ± 30 ppm  \nH = ± 25 ppm \nT = ± 20 ppm  † \nW = ±15 ppm  † \nK =  ± 10 ppm †  \n Blank= Std  \nL =   -10 ~ +70°C  \nM =  -20 ~ +70°C  \nY  =  -30 ~ +85°C  \nN =   -40 ~ +85°C  \nP =   -40 ~ +105°C  \nS =   -40 ~ +125°C  \nU =   -55 ~ +125°C  \n \n \n Figure 2)  Suggested land  pattern  \nRequest a Sample  \n \n \n15351 West 109th Street   |  Lenexa , KS 66219   |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \n \n \n \n \n   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n DEVELOPED FREQUENCIES  \nAbbreviation  Frequency (MHZ)  \n120 12.000  \n160 16.000  \n200 20.000  \n240 24.000  \n245.7  24.5760  \n250 25.000  \n260 26.000  \n270 27.000  \n300 30.000  \n320 32.000  \n400 40.000  \n480 48.000  \n540 54.000  SOLDER PROFILE  \nPeak solder Temp +260°C Max 10 sec Max.  \n2 Cycles Max.  \nMSL 1, Lead Finish Au  POCKET TAPE  DIMENSIONS (mm)  \nFigure 1) Suggested Reflow Profile  ECX-2236Q  \nSMD Crystal  \n'}]
+!==============================================================================!
+### Component Summary: ECS-250-10-36Q-AES-TR
+
+#### Key Specifications:
+- **Frequency Range**: 12.000 MHz to 60.000 MHz
+- **Mode of Oscillation**: Fundamental
+- **Frequency Tolerance**: ±30 ppm @ +25°C
+- **Frequency Stability**: ±50 ppm over -40°C to +125°C (ES Option)
+- **Shunt Capacitance (Co)**: 5 pF
+- **Load Capacitance**: 8 pF (specified in part number)
+- **Drive Level**: 10 μW to 100 μW
+- **Operating Temperature Range**: -40°C to +125°C (ES Option)
+- **Storage Temperature**: -40°C to +125°C
+- **Aging (First Year)**: ±5 ppm @ +25°C
+- **ESR (Equivalent Series Resistance)**: 
+  - 12.000 ~ 15.999 MHz: 150 Ω
+  - 16.000 ~ 19.999 MHz: 80 Ω
+  - 20.000 ~ 29.999 MHz: 60 Ω
+  - 30.000 ~ 34.999 MHz: 50 Ω
+  - 35.000 ~ 60.000 MHz: 40 Ω
+- **Package Type**: Miniature SMD Crystal with a 2.5 x 2.0 mm footprint
+- **Moisture Sensitive Level (MSL)**: MSL 1, Lead Finish Au
+- **Special Features**: 
+  - Low profile
+  - RoHS compliant
+  - AEC-Q200 qualified
+
+#### Component Description:
+The ECS-250-10-36Q-AES-TR is a miniature surface-mount device (SMD) crystal oscillator. It is designed to provide a stable frequency reference for various electronic applications. The crystal operates in the fundamental mode and is characterized by its low profile and compact size, making it suitable for space-constrained designs.
+
+#### Typical Applications:
+This crystal oscillator is commonly used in:
+- **Communication Systems**: As a frequency reference in RF applications.
+- **Consumer Electronics**: In devices such as smartphones, tablets, and other portable electronics.
+- **Automotive Applications**: Due to its AEC-Q200 qualification, it is suitable for automotive electronics where reliability and performance are critical.
+- **Industrial Equipment**: For timing and frequency control in various industrial applications.
+- **Embedded Systems**: In microcontrollers and other digital circuits requiring precise timing.
+
+This component is ideal for applications that demand high frequency stability and low power consumption across a wide temperature range.

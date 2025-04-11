@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MB1-120-01-L-S-02-SL-N production of SAMTEC from the text:(1.00 mm) .0394" MB1 SERIES\n(5.44 mm)\n.214"\n(1.00 mm)\n.03937" pitchChoice of two \ncard thicknesses\nMB1–130–01–F–S–01–SL–N\nMB1–130–01–F–S–01–SL\nWWW.SAMTEC.COM\nUnless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.\nFor complete specifications and \nrecommended PCB layouts see \nwww.samtec.com?MB1\nInsulator Material: \nBlack LCP\nContact Material: \nBeCu\nPlating: \nSn or Au over \n50 µ" (1.27 µm) Ni\nCurrent Rating: \n2.2 A per pin\n(6 pins powered)\nOperating Temp Range: \n-55 °C to +125 °C \nInsertion Depth: \n(5.26 mm) .207" to \n(6.10 mm) .240"\nRoHS Compliant: \nY es Mates with:\n(0.80 mm) .031" PCB, \n(1.60 mm) .062" PCB\nNote: \nSome sizes, styles and \noptions are non-standard, \nnon-returnable.\nMINI  EDGE  CARD  SOCKET  WITH  GUIDES\nFor complete scope  \nof recognitions see \nwww.samtec.com/qualityRECOGNITIONSSPECIFICATIONS\nFILE NO. E111594PROCESSING\nLead–Free Solderable: \nYe s\nSMT Lead Coplanarity:\n(0.10 mm) .004" max (20-30)\n(0.15 mm) .006" max (40-50)*\n*(.004" stencil solution  \nmay be available; contact  \nIPG@samtec.com)MB1PLATING\nOPTIONNO. OF \nPINS 1 SCARD  \nSLOTOTHER\nOPTION\n–N\n= No Card \nGuides 20, 30, 40, 50\n–N OPTION01 SL\n(No. of Positions + 2) \nx (1.00) .03937 + (4.06) .160  \n(7.24)\n.285\n(1.00)\n.03937\n(2.36)\n.093(3.81)\n.150\nA50 01\n(0.69)\n.027(0.15)\n.006 (5.44)\n.214(0.36)\n.014(25.5)\n1.004\n(No. of Positions + 2) \nx (1.00) .03937   (1.27)\n.050\n(1.27)\n.050\n(1.27)\n.050\nDIA(1.52)\n.060(7.24)\n.285–F\n= Gold flash on contact,  \nMatte Tin on tail\n–L\n= 10 µ" (0.25 µm) \nGold on contact, \nMatte Tin on tailSpecify \nCARD\nSLOT\nfrom \nchart\nImportant Note: Samtec recommends that pads on the mating board be Gold plated.ALSO AVAILABLE\n(MOQ Required)\n• Other platingsCARD\nSLOTAMATES WITH \nBOARD THICKNESS\n–01(0.97)\n.038(0.80) \n.031\n–02(1.83)\n.072(1.60) \n.062F-221 SUPPLEMENT\n'}]
+!==============================================================================!
+### Component Summary for MB1-120-01-L-S-02-SL-N
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically determined by the application and PCB design.
+- **Current Ratings:** 2.2 A per pin (for 6 pins powered).
+- **Power Consumption:** Not specified; depends on the application and load.
+- **Operating Temperature Range:** -55 °C to +125 °C.
+- **Package Type:** Mini edge card socket with guides.
+- **Special Features or Notes:**
+  - Insulator Material: Black LCP (Liquid Crystal Polymer).
+  - Contact Material: BeCu (Beryllium Copper).
+  - Plating Options: Sn (Tin) or Au (Gold) over 50 µ" (1.27 µm) Ni (Nickel).
+  - RoHS Compliant: Yes.
+  - Lead-Free Solderable: Yes.
+  - SMT Lead Coplanarity: 
+    - (0.10 mm) .004" max for 20-30 pins.
+    - (0.15 mm) .006" max for 40-50 pins.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Component Description:
+The **MB1-120-01-L-S-02-SL-N** is a mini edge card socket designed for connecting edge-mounted circuit boards to a PCB. It features guides to assist in the proper alignment and insertion of the card. The component is constructed with a durable black LCP insulator and BeCu contacts, ensuring reliable electrical connections.
+
+#### Typical Applications:
+This component is typically used in applications where edge card connections are required, such as:
+- **Consumer Electronics:** For connecting various circuit boards within devices.
+- **Telecommunications:** In equipment that requires reliable and compact connections.
+- **Industrial Equipment:** For modular designs where components need to be easily replaceable or upgradeable.
+- **Computing Devices:** In motherboards and expansion cards where space is limited but reliable connections are essential.
+
+The MB1 series is particularly suited for applications that demand high reliability and performance in a compact form factor, making it ideal for modern electronic designs.

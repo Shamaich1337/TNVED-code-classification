@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of KPJXHT-4S-S production of KYCON from the text:Phone: +1.408.494.0330 l Fax: +1.408.494.0325 l WW W.KYCON.COM  l  1018DC POW ER CONNECTORS: KPJX Series\nSnap and Lock PCB Mount Receptacle\nProduct Features\nLaptop Computers, Power Supplies and Other Portable\nDigital Equipment Applications\nSnap & Lock Feature Helps to Prevent Accidental\nDisconnects\n3 or 4 Pins Transmit Power, or One Pin Can Be Used For\nSignal Transmission\nFor Signal and DC Power Applications\nCSA/NRTL Certified File No. LR78160\nUL File No. E140125\nPerformance Specifications\nMaterials and Finish\nShield: Copper Alloy, Tin Plated\nBody: PBT, UL 94V-0 Rated\nHT Body: High Temperature Thermoplastic, UL 94V-0 Rated\nElectrical Characteristics\nContact Rating\n3 Position: Pin 1 and 2, 48V DC at 7.5A Max.,\n                      Pin 3, 48V DC 1.0A Max.\n4 Position: 48V DC 7.5A Max. For All Pins.\nInsulation Resistance: 50 Megohms Min. at 250V DC\nDielectric Withstanding Voltage: 500V AC for 1 Minute\nContact Resistance: 30 milliohms Max.\nMechanical Characteristics\nDurability: 1000 CyclesSeries\nKPJX  - Right Angle Receptacle \nKPJXHT  - High Temperature, Right Angle Receptacle\nNumber of Contacts\n3 Pin\n4 Pin\nContact Type\nS - Socket\nShield Option\nBlank  - Non-Shielded\nS - Shielded\nKPJX-3S Series\nDimensions in mmContact Kycon for Other OptionsGenerated Part Num ber\nPart Num ber Builder\nSeries No. of\nContactsContact\nTypeShield\nOption2D Drawing\nCheck StockIGES\nSolder ProfileSTEP\nRequest a Sample\nRoHS Compliant REACH Compliant UL Plastic Certificate of ComplianceSend Us  An Email3D PDF\nLR78160\nRecommended to be used with Kycon KPPX Series Plugs \nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Kycon:   \n\xa0 KPJX-3S-S\xa0 KPJX-3S\xa0 KPJX-4S\xa0 KPJXHT-4S-S\xa0 KPJXHT-4S\xa0 KPJXHT-3S\xa0 KPJXHT-3S-S\n'}]
+!==============================================================================!
+### Component Summary: KPJXHT-4S-S by KYCON
+
+#### Key Specifications:
+- **Voltage Ratings**: 48V DC
+- **Current Ratings**: 
+  - For 4 Position: 7.5A Max for all pins
+- **Power Consumption**: Not explicitly stated; however, the maximum current rating indicates the power handling capability.
+- **Operating Temperature Range**: Not specified in the provided text.
+- **Package Type**: PCB Mount Receptacle
+- **Special Features**: 
+  - Snap & Lock feature to prevent accidental disconnects
+  - High Temperature Thermoplastic body (UL 94V-0 rated)
+  - Shielded and non-shielded options available
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The KPJXHT-4S-S is a high-temperature, right-angle PCB mount receptacle connector designed for use in various electronic applications. It features a snap and lock mechanism that helps to prevent accidental disconnections, making it suitable for portable digital equipment such as laptops and power supplies. The connector can transmit power through its pins, with the option to use one pin for signal transmission.
+
+#### Typical Applications:
+The KPJXHT-4S-S is typically used in:
+- **Laptop Computers**: Providing reliable power connections.
+- **Power Supplies**: Ensuring stable power delivery.
+- **Portable Digital Equipment**: Facilitating connections in compact devices.
+- **Signal and DC Power Applications**: Versatile enough to handle both power and signal transmission needs.
+
+This component is CSA/NRTL certified and UL listed, ensuring compliance with safety and performance standards, making it a reliable choice for various electronic designs.

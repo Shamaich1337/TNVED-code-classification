@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ER17505S-165-2P production of AKKU TRONICS NEW ENERGY TECH. CO., LTD. from the text:Specification ER17505S-165-2P Lithium Thionyl Chloride Battery P/N: 18-102-165-HR  \n \n 2A 165℃ High rate     Electrical Characteristics Nominal capacity                                          5.0Ah Open circuit voltage (23±2℃)                                    ≥3.6V Constant discharge current  150mA (Nominal) 300mA (Max.) Operating temperature                                       -40~+165℃ Self-discharge rate ＜2% per year    Physical Characteristics Cell size                                         2A Diameter                                          17.5mm Height 102.0mm Weight    50g Fuse No Series Diode                              Yes                                                                                                                                                        Please consult with Akku Tronics for further information.                                                                                              www.akkutronics.com Akku Tronics New Energy Technology Co., Ltd The right lithium battery solution  ●  Downhole Oil & Gas tool ●  Sensor systems ●  Wireless and military equipment ●  Tracking system ●  Pipeline inspection gauge   l High energy density ●   High single cell voltage ●   High rate ●   Stable operating voltage ●   High operating temperature ●   Low self-discharge rate  ●   UN38.3 for transportation  \nKey Features Main applications \x04\x01\x02\x04\x01\x07\x05\x01\x02\x05\x01\x07\x06\x01\x02\n\x02\x01\x02\x03\x01\x02\x04\x01\x02\x05\x01\x02\x06\x01\x02\x07\x01\x02\x08\x01\x02\t\x01\x02150mAat165℃\nThe right lithium battery solution \nDischarge curve Cell Drawing \nCapacity/Ah \nVoltage/V 17.5 Max. \nφ102.0 Max. \n'}]
+!==============================================================================!
+### Component Summary: ER17505S-165-2P Lithium Thionyl Chloride Battery
+
+**Manufacturer:** Akku Tronics New Energy Tech. Co., Ltd.  
+**Product Code:** ER17505S-165-2P  
+**Part Number:** 18-102-165-HR  
+
+#### Key Specifications:
+- **Nominal Capacity:** 5.0 Ah
+- **Open Circuit Voltage (at 23±2°C):** ≥ 3.6 V
+- **Constant Discharge Current:**
+  - Nominal: 150 mA
+  - Maximum: 300 mA
+- **Operating Temperature Range:** -40°C to +165°C
+- **Self-Discharge Rate:** < 2% per year
+- **Cell Size:** 2A
+- **Diameter:** 17.5 mm
+- **Height:** 102.0 mm
+- **Weight:** 50 g
+- **Fuse:** No
+- **Series Diode:** Yes
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The ER17505S-165-2P is a Lithium Thionyl Chloride (Li-SOCl2) battery designed for high-rate applications. It features a high energy density and stable operating voltage, making it suitable for demanding environments. This battery is particularly notable for its ability to operate at extreme temperatures, ranging from -40°C to +165°C, and its low self-discharge rate, which ensures longevity and reliability in various applications.
+
+#### Typical Applications:
+The ER17505S-165-2P battery is commonly used in:
+- **Downhole Oil & Gas Tools:** Providing reliable power in harsh environments.
+- **Sensor Systems:** Ideal for remote sensing applications where long battery life is crucial.
+- **Wireless and Military Equipment:** Suitable for devices requiring high energy density and stable performance.
+- **Tracking Systems:** Used in GPS and asset tracking devices.
+- **Pipeline Inspection Gauges:** Powering tools that monitor pipeline integrity.
+
+This battery is particularly advantageous in applications where high temperature tolerance and low self-discharge are critical, ensuring that devices remain operational over extended periods without frequent battery replacements.

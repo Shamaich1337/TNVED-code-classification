@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 67643-2911 production of MOLEX from the text:-\n-\n \n \n \n \n \nDocuments & Resources \nDrawings\nDrawing  676432911_sd.pdf\nPackaging Design Drawing  PK-67643-002-001.pdf\n \n3D Models and Design Files\n3D Model  676432911_stp.zip\n3D Model PDF  676432911.pdf\n \nSpecifications\nProduct Specification  PS-67643-002-001.pdf\nTest Summary  TS-67643-002-001.pdf\n \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance Statements\nEu RoHS\nREACH SVHCPart Number : 676432911\nProduct Description : Universal Serial Bus\n(USB) Shielded I/O Receptacle, Right-Angle,\nType A,  High-Temperature Black Nylon,\n0.76µm Gold (Au) Plating, PCB Thickness\n1.60mm, without Upper Flange, for IR Reflow\nProcess, Lead-Free\nSeries Number : 67643\nStatus : Active\nProduct Category : I/O Connectors\nGADSL/IMDS Not Relevant\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Not Low-Halogen per IEC 61249-2-\n21\nREACH SVHC Not Contained per D(2023)3788-DC\n(14 Jun 2023)\nEU RoHS Compliant per EU 2015/863\n-\n-\n-\n-\n-\n-\nLow-Halogen\n \nMultiple Part Industry Compliance Documents\nIPC 1752A Class C\nIPC 1752A Class D\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneral \n \n \nAgency \n \n \nElectrical \n Status Active\nCategory I/O Connectors\nSeries 67643\nDescription Universal Serial Bus (USB) Shielded\nI/O Receptacle, Right-Angle, Type A,\nHigh-Temperature Black Nylon,\n0.76µm Gold (Au) Plating, PCB\nThickness 1.60mm, without Upper\nFlange, for IR Reflow Process, Lead-\nFree\nApplication Wire-to-Board\nComments Without Upper Flange, For IR\nReflow Process\nComponent Type Receptacle\nProduct Family USB Connectors: USB Type-A, USB\nType-B, and USB Type-C Plugs and\nReceptacles\nProduct Name USB\nStandard USB 2.0\nType A\nUPC 822350071659\nUL E29179\nCurrent - Maximum per Contact 1.5A\nShielded Yes\n \nPhysical \n \n \n \nMates With / Use With \nMates with Part(s) \n \nVoltage - Maximum 30V\nCircuits (Loaded) 4\nCircuits (maximum) 4\nColor - Resin Black\nGender Female\nKeying to Mating Part Yes\nLock to Mating Part Yes\nMaterial - Plating Mating Gold\nMaterial - Plating Termination Tin\nMounting Style Top-Mount\nNet Weight 1.860/g\nNumber of Rows 1\nOrientation Right Angle\nPackaging Type Tray\nPanel Mount Yes\nPC Tail Length 2.60mm\nPCB Locator Yes\nPCB Retention Yes\nPCB Thickness - Recommended 1.60mm\nPitch - Mating Interface 2.50mm\nPlating min - Mating 0.762µm\nPolarized to Mating Part Yes\nPolarized to PCB Yes\nTemperature Range - Operating -40° to +85°C\nTermination Interface Style Through Hole\nWaterproof / Dustproof Type No\nDescription Part Number\nMates With USB Type A Plug\n \n \nThis document was generated on Aug 29, 2023 \n'}]
+!==============================================================================!
+### Component Summary for Part Number 67643-2911 (Molex)
+
+#### Key Specifications:
+- **Voltage Ratings**: Maximum 30V
+- **Current Ratings**: Maximum per contact 1.5A
+- **Power Consumption**: Not specified; power consumption is typically determined by the connected devices.
+- **Operating Temperature Range**: -40°C to +85°C
+- **Package Type**: Tray packaging
+- **Special Features/Notes**: 
+  - Shielded I/O receptacle
+  - Right-angle orientation
+  - High-temperature black nylon material
+  - 0.76µm gold plating on mating surfaces
+  - Designed for IR reflow process, lead-free
+  - Without upper flange
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided information.
+
+#### Component Description:
+The Molex 67643-2911 is a **Universal Serial Bus (USB) Shielded I/O Receptacle**, specifically a Type A connector. It is designed for through-hole mounting on printed circuit boards (PCBs) and features a right-angle orientation for space-saving applications. The receptacle is constructed from high-temperature black nylon and is plated with 0.76µm of gold on the mating surfaces to ensure reliable electrical connections.
+
+#### Typical Applications:
+This USB Type A receptacle is commonly used in various electronic devices for **data transfer and power supply** applications. Typical applications include:
+- **Consumer electronics**: Such as computers, laptops, and peripherals.
+- **Industrial equipment**: For connecting devices that require USB communication.
+- **Telecommunications**: In devices that utilize USB for data exchange.
+- **Embedded systems**: Where USB connectivity is needed for programming or data logging.
+
+The component is suitable for applications that require a robust and reliable connection, particularly in environments where temperature fluctuations may occur. Its compliance with USB 2.0 standards ensures compatibility with a wide range of devices.

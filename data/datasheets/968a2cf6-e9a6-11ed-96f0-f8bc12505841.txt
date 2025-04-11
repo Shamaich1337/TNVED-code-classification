@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TY97530W17 production of JIANGSU SKYERA LASER TECHNOLOGY CO., LTD. from the text:DataSheet\nTel:0511-86738588 Fax:0511-86739955 Website:www.skyeralaser.com9XXnm30WUncooledMultimodeLaserDiodeModule\nTY-9XX+/-10NM-30.0W-25C-105-0.22NA-T3S\nSpecification：\nFunctionalparametersaretestedonconditionthattheheatsinktemperatureis25degree,contactresistanceofthe\ncomponentandtheheatsinkissmallerthan1CM2K/W.\nSkyEradeliversTY-9XX+/-10NM-30.0W-25C-105-0.22NA--T3Sdiode\nlasersemployingprofessionalcouplingtechnology,thatenjoymultiple\nadvantages,e.g.,compactdesign,stableoutputpower,highpower,high\nefficiencyandconvenientpackaging.Theselaserdiodemodulescan\nprovidesolutionsforfiberlaserapplicationsanddirectsuppliers.\nTheperformanceandagingtestshavebeenperformeduponthe\nproductionlinetoguaranteereliable,stableandlonglifetimeofproducts.\nToprovidecustomerswithhigh-quality,highcostperformanceproducts\nisthecompany’sgoal.\nParameter Min Typ Max Unit Conditions\nOutputPower 30 - - W\nCentreWavelength -10 9XX +10 nmHR@1050-1150>25dB,\nHR@1060-1100>30dB\nSpectralWidth(FWHM) - 4.0 6.0 nm\nThresholdCurrent - 0.5 0.9 A\nOperatingCurrent - 12.0 13.0 A\nOperatingVoltage - 5.4 6.0 V\nConventionEfficiency - 48 - %\n90%Power - 0.18 - NA\nWavelengthshiftvs.Temperature - 0.3 - nm/℃\nSlopEfficiency - 2.4 - W/A\nStorageTemperature -30 25 70 °C Non-Condensing\nOperatingTemperature 15 25 55 °C\nFiberBendRadius 37.5 - - mm\nBufferDiameter - 250 - μm\nCladdingDiameter - 125 - μm\nCoreDiameter 102 105 108 μm\nNumericAperture 0.2 0.22 0.24 -\nFiberlength 0.9 - - M\nProtectionTube 0.9 - 1.5 mm\nFiberConnector - CO - -\n\nDataSheet\nTel:0511-86738588 Fax:0511-86739955 Website:www.skyeralaser.com2.DimensionDiagram\nUnit:MM;undeclaredtolerance:±0.5mm\n3.Instructions\n\uf06c Avoideyesorskinexposuretodirectorscatteredradiation;\n\uf06c ESDprotectionisrequiredfortransportation,storageandoperation;short-circuitprotectionbetweenpinsisrequired\nfortransportationandstorage.\n\uf06c Pleaseconnectpinsbysolderwhenoperatingcurrentisover6A;solderpointshouldbeclosetotherootofpinswitha\nmaxsolderingtemperatureat260℃andadurationlessthan10seconds;\n\uf06c Driveconstantcurrentpowersupplybylaserandavoidsurgewhileworking;\n\uf06c Operateunderratedcurrentandratedpower;\n\uf06c Goodheatdissipationisrequired;\n\uf06c Operatingtemperatureis15℃~55℃;\n\uf06c Storagetemperatureis－30℃~＋70℃.\n\n'}]
+!==============================================================================!
+### Component Summary: TY97530W17 (TY-9XX+/-10NM-30.0W-25C-105-0.22NA-T3S)
+
+#### Key Specifications:
+- **Output Power**: 30 W
+- **Center Wavelength**: 990 nm (±10 nm)
+- **Spectral Width (FWHM)**: 4.0 - 6.0 nm
+- **Threshold Current**: 0.5 - 0.9 A
+- **Operating Current**: 12.0 - 13.0 A
+- **Operating Voltage**: 5.4 - 6.0 V
+- **Conversion Efficiency**: 48%
+- **Wavelength Shift vs. Temperature**: 0.3 nm/°C
+- **Slope Efficiency**: 2.4 W/A
+- **Operating Temperature Range**: 15°C to 55°C
+- **Storage Temperature Range**: -30°C to 70°C
+- **Moisture Sensitive Level**: Not specified in the provided data
+- **Package Type**: Not explicitly mentioned, but includes fiber connector specifications
+- **Fiber Specifications**:
+  - Core Diameter: 102 - 108 μm
+  - Cladding Diameter: 125 μm
+  - Buffer Diameter: 250 μm
+  - Fiber Bend Radius: 37.5 mm
+  - Fiber Length: 0.9 m
+
+#### Description:
+The TY97530W17 is a multimode laser diode module designed for high-power applications, specifically in fiber laser systems. It operates at a center wavelength of approximately 990 nm and is capable of delivering an output power of 30 W. The module utilizes advanced coupling technology to ensure stable output power and high efficiency, making it suitable for various industrial applications.
+
+#### Typical Applications:
+- **Fiber Laser Applications**: The module is primarily used in fiber laser systems, providing the necessary light source for various laser processing tasks.
+- **Material Processing**: Commonly employed in cutting, welding, and engraving materials due to its high power and efficiency.
+- **Medical Equipment**: Utilized in medical laser systems for procedures requiring precise and powerful laser output.
+- **Telecommunications**: Can be used in optical communication systems where high power and specific wavelengths are required.
+
+#### Special Features:
+- Compact design with high efficiency and stable output power.
+- Designed for reliable operation with a long lifetime, supported by performance and aging tests.
+- Requires good heat dissipation and ESD protection during operation and storage.
+
+This summary provides a comprehensive overview of the TY97530W17 laser diode module, highlighting its key specifications, functionality, and applications in various fields.

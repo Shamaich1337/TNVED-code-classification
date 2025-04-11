@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of SMTPD-1550-02-3-9-10-FA production of SEAGNOL PHOTONICS CO., LTD from the text:Application:\nSpecification:\nSymbol Unit\nλ nm\nBW nm\n1 2 5 10 %\nIL 0.5 0.5 0.6 0.9 dB\n8 15 35 70 mA/W\nPDL dB\nPMD ps\nRL dB\nId nA\nVr V\nIf mA\nC pF\n-\nN\nP mW\nT ℃\nT ℃\nmm\nNotice: Above specifications are tested at center wavelength without connector in room temperature @23 ℃.\n             For devices with connectors, IL will be 0.3dB higher, RL will be 5dB lower.\nDrawing:\nsales@seagnol.com Page 1 of 2       www.seagnol.com\n1550nm Tap PD\n        1550nm Tap PD is an optoelectronic component which can detect the input optical signal power and output a part of\nlight by a fixed ratio. It features compact package, high responsibility, Low dark current and low insertion loss, it's widely used\nin WDM System, Optical Line Protection, EDFA, the tap ratio could be customized by customer.\nFeatures:\nWDM System\nOptical Line Protection\nEDFA\nTesting SystemHigh Responsibility\nLow Insertion Loss\nLow Dark Current\nHigh Reliability\nMax. Polarization Mode Dispersion 0.1Parameter Value\nCenter Wavelength 1550\nBandwidth 1510-1610\nTap Ratio\nMax. Insertion Loss\nMin. Responsibility\nMax. Polarization Dependent Loss 0.1\nMin. Return Loss 45\nMax. Dark Current 1\nMax. Reverse Voltage 30\nMax. Forward Current 10\nMax. Capacitance 6\nFiber Type SMF-28e\nMax. Tensil Load 5\nMax. Optical Power (CW) 300\nOperating Temperature -10~70\nStorage Temperature -40~85\nPackage Dimension Φ3.0x22 or Φ5.5x23\n22mm 12mm12mm\n2x0.5mm3.0mm\nPD +PD -\nCASE\nPD + PD -23mm\n5.5mm13mm\n3x0.45mm\n            \nOrdering Information (Part Number):\n WWWW  RR  D  J  LL  CC\n Wavelength  Tap Ratio  Package Dimension  Fiber Jacket  Fiber Length  Connector\n 1310  - 1310nm  01 - 1/99  B - 250um Bare Fiber  05 - 0.5m  NE - None\n 1550  - 1550nm  02 - 2/98  9 - 900um Loose Tube  10 - 1.0m  FA - FC/APC\n 05 - 5/95  15 - 1.5m  FU - FC/UPC\n 10 - 10/90  20 - 2.0m  SA - SC/APC\n SS - Specify  SS - Specify  SU - SU/APC\n LA - LC/APC\n LU - LC/UPC\n SS - Specify\nNotification:\nsales@seagnol.com Page 2 of 21. The Semiconductor Optoelectronic products are particulary sensitive of ESD (electro-static discharge), it's recommended to\n    use grounded anti-static wrist straps and grounded anti-static mats before handling the products.\n2. Always take anti-static measures to storage the products when not in use. 1 - Φ3.0x18mm\n 2 - Φ3.0x22mm\n 3 - Φ5.5x23mm SMTPD- WWWW-RR-D-J-LL-CCwww.seagnol.com\n            \n"}]
+!==============================================================================!
+### Component Summary for SMTPD-1550-02-3-9-10-FA
+
+#### Key Specifications:
+- **Center Wavelength (λ)**: 1550 nm
+- **Bandwidth (BW)**: 1510 - 1610 nm
+- **Tap Ratio**: 2/98 (customizable)
+- **Max Insertion Loss (IL)**: 0.9 dB
+- **Min Responsivity**: 70 mA/W
+- **Max Polarization Dependent Loss (PDL)**: 0.1 dB
+- **Min Return Loss (RL)**: 45 dB
+- **Max Dark Current (Id)**: 1 nA
+- **Max Reverse Voltage (Vr)**: 30 V
+- **Max Forward Current (If)**: 10 mA
+- **Max Capacitance (C)**: 6 pF
+- **Max Optical Power (CW)**: 300 mW
+- **Operating Temperature Range**: -10 to 70 °C
+- **Storage Temperature Range**: -40 to 85 °C
+- **Package Type**: Φ3.0x22 mm or Φ5.5x23 mm
+- **Moisture Sensitive Level (MSL)**: Not specified in the provided data.
+
+#### Component Description:
+The SMTPD-1550-02-3-9-10-FA is a **1550 nm Tap Photodetector (PD)**, which is an optoelectronic component designed to detect optical signal power and output a portion of the light at a fixed ratio. It is characterized by its compact design, high responsivity, low dark current, and low insertion loss, making it suitable for various optical applications.
+
+#### Typical Applications:
+- **Wavelength Division Multiplexing (WDM) Systems**: Used for managing multiple optical signals over a single fiber.
+- **Optical Line Protection**: Provides redundancy and reliability in optical networks.
+- **Erbium-Doped Fiber Amplifiers (EDFA)**: Enhances signal strength in fiber optic communication.
+- **Testing Systems**: Employed in laboratory settings for optical signal analysis.
+
+This component is particularly valuable in telecommunications and data transmission systems where efficient signal management and minimal loss are critical.

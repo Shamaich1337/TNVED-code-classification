@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FYL-1821IRAC1B-02 production of FORYARD OPTOELECTRONICS from the text:■Dice material: AlGaAs.\n■Emitting Color: Infrared.\n■Lens Type: Water clear.\nNINGBO FORYARD OPTOELECTRONICS CO.,LTD.\nAdd: No. 666 Jinghua Road, Hi-tech Park, Ningbo, Zhejian g, China              Zip: 315103 \nTel:   0086-574-87933652 87927870 \nFax:  0086-574-87927917 \nE-mail: Sales@foryard.com     (General) \nPage ：1/5                       Http://www.foryard.com Model  No. FYL-1821IRAC1B-02 \nDate / Rev. 2023.08.17 / A \nPRODUCT SPECIFICATION \n■Device Outline:  Butterfly type.Model No. ：：：：FYL-1821IRAC1B-02 \nDescriptions: \nCUSTOMER APPROVED \nSIGNATURES APPROVED BY SALES BY PREPARED BY \nS 020 F oryard \n2 0 2 3 . 0 8 . 1 7 E 0 0 1 For yard \n2023.08. 17 \nModel No. ：：：：FYL-1821IRAC1B-02 \n■■■■ Features \n   1.Low power consumption.\n   2.High efficiency.\n   3.General purpose leads. \n   4.High intensity.\n   5.RoHs compliant.\n■■■■ Package configuration \nNotes: \n1. All dimensions are millimeters (inches) \n2. Tolerance is ±0.25mm(.010”) unless otherwise not ed.\n3. The specifications, characteristics and technica l data described in the datasheet are subject \n     to change without prior notice.\n4.The drawing is different from the actual one, ple ase refer to the sample.\nPage ：2/5                       Http://www.foryard.com Model  No. FYL-1821IRAC1B-02 \nDate / Rev. 2023.08.17 / A \n\nModel No. ：：：：FYL-1821IRAC1B-02 \n■■■■ Absolute Maximun Ratings(Ta=25ºC) \n■■■■ Typical Electrical &Optical Charcteristics(Ta=25ºC ) \nSymbol Min. Typ. Max. Unit\n2θ 1/2  --- 25  --- Deg \nλp 930 940 960 nm \n△λ -- 50 -- nm \nVF --1.2 1.5 V\nVF --1.4 1.8 V\nIR  ---  --- 10 µA \n   Note:\n           1.Luminous Intensity is based on the For yard standards.\n           2.Pay attention about static for InGaN \nPage ：3/5 Viewing Angle \nPeak Emission Wavelength \nForward Voltage Spectral Line Half-Width \nForward Voltage Power Dissipation 180 mW \n                      Http://www.foryard.com Electrostatic Discharge(HBM) 1500 V\nReverse Voltage 5 V\nOperating Temperature Range -40 ℃ to +85 ℃\nStorage Temperature Range -40 ℃ to +100 ℃\nLead Soldering Temperature[4mm(.157”) From Body] 260 ℃ for 5 Seconds \nReverse Current VR=5V Parameter Test Condition \nIF=20mA \nIF=100mA Model  No. FYL-1821IRAC1B-02 \nDate / Rev. 2023.08.17 / A \nPeak Forward Current (1/10 Duty Cycle, 0.1ms Pulse Width) 1000 mA \nContinuous Forward Current 100 mA Parameter MAX. Unit\n\nModel No. ：：：：FYL-1821IRAC1B-02 \n■■■■ Typical Eletrical/Optical Characteristics Curves(T a=25ºC Unless Otherwise Noted) \nPage ：4/5                       Http://www.foryard.com Model  No. FYL-1821IRAC1B-02 \nDate / Rev. 2023.08.17 / A \n\n■■■■  LAMP PACKING.\n1,000pcs/Reel.\nNote: The specifications are subject to change with out notice. Please contact us for updated informati on.\nPage ：5/5 Date / Rev. 2023.08.17 / A \nModel No. ：：：：FYL-1821IRAC1B-02 \n                      Http://www.foryard.com Model  No. FYL-1821IRAC1B-02 \n\n'}]
+!==============================================================================!
+### Component Summary: FYL-1821IRAC1B-02
+
+**Manufacturer:** Ningbo Foryard Optoelectronics Co., Ltd.  
+**Product Code:** FYL-1821IRAC1B-02  
+**Date/Revision:** 2023.08.17 / A  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (VF): 1.2V (typical) to 1.5V (max)
+  - Reverse Voltage (VR): 5V
+- **Current Ratings:**
+  - Continuous Forward Current (IF): 100 mA
+  - Peak Forward Current (1/10 Duty Cycle, 0.1ms Pulse Width): 1000 mA
+  - Reverse Current (IR): 10 µA
+- **Power Consumption:**
+  - Power Dissipation: 180 mW
+- **Operating Temperature Range:**
+  - -40°C to +85°C
+- **Storage Temperature Range:**
+  - -40°C to +100°C
+- **Package Type:**
+  - Butterfly type
+- **Special Features:**
+  - Low power consumption
+  - High efficiency
+  - High intensity
+  - General purpose leads
+  - RoHS compliant
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+#### Description:
+The FYL-1821IRAC1B-02 is an infrared LED (Light Emitting Diode) made from Aluminum Gallium Arsenide (AlGaAs) material. It emits light in the infrared spectrum, with a peak emission wavelength of approximately 940 nm. The device is designed for applications requiring high intensity and efficiency while maintaining low power consumption.
+
+#### Typical Applications:
+- **Infrared Communication:** Used in remote controls, data transmission, and optical communication systems.
+- **Sensing Applications:** Employed in proximity sensors, motion detectors, and various types of optical sensors.
+- **Industrial Automation:** Utilized in machine vision systems and automation equipment for object detection and counting.
+- **Consumer Electronics:** Commonly found in devices such as TVs and audio equipment for remote control functionalities.
+
+This component is suitable for a wide range of applications where infrared light is required, providing reliable performance across various operating conditions.

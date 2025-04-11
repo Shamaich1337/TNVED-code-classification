@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of B17G817K900DML-001 production of BM-CAPACITOR from the text:Version:14-Feb-2023 Page 1of5 Document number: G23105\nSPECIFICATION FOR APPROVAL\nDC-Link Capacitor(Aluminum case,Dry-Type)\nCustomer Code :\nSeries / Type ： B17G817K900DML-001\nOrdering code : 2020700400\nCustomer’s P/N :\nDate： 14-Feb-2023\nMANUFACTURER INFORMATION:\nName: GUANG DONG FENGMING ELECTRONIC TECH. CO., LTD.\nAddress ：No.1,Longle road, Huanglong village, Beijiao town, Shunde district, Foshan, Guangdong,\n528311,China\nWeb site: www.bm-cap.com\nTel:+86-757-223602928 Fax: +86-757-23608828\nEmail: powerelectech @bm-cap.com\n*The specification are the property of FENGMING ELECTRONIC TECH.CO.,LTD and shall not be copied or used as\ncommercial purposes without permission.FENGMING ELECTRONIC TECH. CO., LTD. APPROVED BY\nPrepared Checked Approved\nYu Zhang Hai Li Ming He\nDKMJ-C\n2020700400\nVersion:14-Feb-2023 Page 2of5 Document number: G23105\n\uf06eRevison record\nN0. Revision description Reviser Date\n1N e w Yu Zhang 14-Feb--2023\nDKMJ-C\n2020700400\nVersion:14-Feb-2023 Page 3of5 Document number: G23105\n\uf06eOUTLINE DRAWING_(mm)\nplastic\nØD±1\nM12×16 Ø12 SpacersH±1\n2±0.5\nP±1Ø14H2±1.5\n25\nM12 Outer hexagon nutM  \nH≥10mm\nMARK\nDKMJ-C\n1700μF±10%\nUN       900V   DC  \n-40℃～85℃terminal torque max.5NmSH\nTracking \nNumber\nE215893IEC61071\nUL810\n\uf06eAPPLICATIONS\nWidely used in different kinds of electronic equipment DC link part for DC support,energy storage and\nfilter.\n\uf06eFEATURES\n\uf06cMetallized film, non-inductive structure\n\uf06cSelf-healing property\n\uf06cHigh ripple current handling capabilities\n\uf06cLow ESR, Low ESL\n\uf06cLong lifetime\n\uf06eSAFETY APPROVALS\nTUVEN61071:2007, 5 μF~2000μF, 500Vdc~1200Vdc ，\n-40/ 85℃;Certificate No ：R 50321876\nULUL810,Voltage Limits: MAX 4000VDC, 85 ℃\nCertificate No: E215893CN(μF) UN(VDC) ΦD (mm) H (mm) H2 (mm) P (mm) M\n1700 900 116 230 235 50 2-M6\nE215893\nDKMJ-C\n2020700400\nVersion:14-Feb-2023 Page 4of5 Document number: G23105\n\uf06eTEST CONDITIONS\nEnvironment Temperature: T = 20 ℃±1 0℃\nEnvironment Humidity: RH ≤65%\n\uf06eSPECIFICATIONS\nReference standard IEC 61071\nRated capacitance C N 1700μF\nCapacitance tolerance ±10% (K)\nRated DC voltage U NDC 900 V.DC\nMax. ripple voltage U r 0.2 x U NDC\nOperating temperature range -40 ℃～+85℃(θhs≤85℃)\nClimatic category 40/85/21\nTangent of the loss angle tan δ≤ 0.003 (100Hz)\nTest voltage between terminals U t-t 1.5U NDC(10s)\nTest voltage between terminals and case U t-c 3000V.AC (10s ，50/60Hz)\nMaximum current (rms) I max 100A @40 ℃\nMaximum peak current I peak 6.46kA\nMaximum surge current Î S19.38kA\n(50ms every time,1000times during the life of the capacitor)\nMaximum rate of voltage rise dv/dt 3.8V/ μs\nEquivalent series resistance ESR(typ) 0.7m Ω(1kHz,20 ℃,Typical value)\nEquivalent series inductance L S 90nH\nInsulation resistance IR IR×C N≥5000s (20 ℃,100VDC,1min)\nThermal resistance R th 2.7K/W (Naturally air-cooled)\nCreepage distance ≥45 mm\nClearance ≥34 mm\nOver voltage1.1xU N(30% of on-load-dur.)\n1.15xU N(30min/day)\n1.2xU N(5min/day)\n1.3xU N(1min/day)\nMax. torque of terminals 5 N·mMax. torque of installation 10 N·mExpected lifetime 100,000 h @U\nN，θhs=70℃\nMax. altitude 2000 m\nFailure rate 50 FIT\nDKMJ-C\n2020700400\nVersion:14-Feb-2023 Page 5of5 Document number: G23105\n\uf06eCHARACTERISTICS\n0.8 0.9 1.0 1.1 1.2 1.3 1.41000100001000001000000\nWorking/Rated Voltage Ratio(U W/UN)Expected lifetime (h)85℃80℃75℃70℃60℃50℃\n           Maximum Irms current4\n2\n0\n-2\n-4\n-6\n-50 0 50 100Tamb (℃)△C/C(%)\nCapacitance\n   (typical)80 90\nTamb (℃)1.4\n1.2\n1.0\n0.8\n0.6\n0.4\n0.2\n0\n30 40 50 60 70I    /I      (A)op RMS\n(typical)\n'}]
+!==============================================================================!
+### Component Summary: B17G817K900DML-001
+
+**Manufacturer Information:**
+- **Name:** GUANG DONG FENGMING ELECTRONIC TECH. CO., LTD.
+- **Address:** No.1, Longle road, Huanglong village, Beijiao town, Shunde district, Foshan, Guangdong, 528311, China
+- **Website:** [www.bm-cap.com](http://www.bm-cap.com)
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Rated DC Voltage (U_NDC): 900 V.DC
+  - Maximum Surge Voltage: 1.3 x U_NDC (1 min/day)
+  
+- **Current Ratings:**
+  - Maximum RMS Current (I_max): 100 A @ 40°C
+  - Maximum Peak Current (I_peak): 6.46 kA
+  - Maximum Surge Current (I_S): 19.38 kA (50 ms, 1000 times during life)
+
+- **Power Consumption:**
+  - Equivalent Series Resistance (ESR): 0.7 mΩ (typical at 1 kHz, 20°C)
+
+- **Operating Temperature Range:**
+  - -40°C to +85°C
+
+- **Package Type:**
+  - Aluminum case, dry-type capacitor
+
+- **Special Features:**
+  - Metallized film, non-inductive structure
+  - Self-healing property
+  - High ripple current handling capabilities
+  - Low ESR and ESL
+  - Long lifetime (expected lifetime of 100,000 hours at U_N, θ_hs = 70°C)
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided data.
+
+**Description:**
+The B17G817K900DML-001 is a DC-Link capacitor designed for energy storage and filtering applications in electronic equipment. It features a metallized film construction that provides a non-inductive structure, enhancing its performance in high-frequency applications. The capacitor is characterized by its self-healing properties, allowing it to recover from dielectric breakdowns, which contributes to its reliability and longevity.
+
+**Typical Applications:**
+This capacitor is widely used in various electronic equipment, particularly in the DC link part of power electronics. Typical applications include:
+- Energy storage systems
+- Power management circuits
+- DC support in inverters and converters
+- Filtering applications in power supplies
+- Smoothing and decoupling in power electronic devices
+
+The B17G817K900DML-001 is suitable for use in environments where high ripple currents and voltage stability are critical, making it ideal for industrial and renewable energy applications.

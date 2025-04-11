@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of LTK070WSHCT15-V0 production of LEADTEKLCD from the text:TFT NOTES:\n1.DISPLAY TYPE:  7.0" TFT IPS 1024*RGB*600 \nTRANSMISSIVE/Normally Black\n2.VIEWING DIRECTION: 80/80/80/80(U/D/L/R @ CR>10)\n3.LCD DRIVE IC: \n4.Luminance (LCM+CTP) ：600 cd/㎡(TYP),with APCF\nUniformity≥80%\n5.OPERATING TEMP: -20°C~+70°C\n6.STORAGE TEMP: -30°C~+80°C\n7.UNMARKER TOLERANCE: ±0.20 refenerce()\n8.REQUIREMENTS ON ENVIRONMENTAL PROTECTION: RoHS0CA\nB\nD\n2 1 3 4D\n5 6REV DESCRIPTION NAMECA\nB\nSCALE:1/1\nPart No:UNIT:mm PAGE:1/1 Approve Check Drawn\nCustomer \nNo:2 1 3 4 5 6\nDATEVER:V0LEADTEK COMPANY LIMITED背视图 侧视图 正视图\nLTK070WSHCT15\nNEW2022.9.27 IANIF=100mA,VF=19.2V(TYP)K A\nCTP NOTE：\n1.G+G+FPC+OCA\n  LENS GLASS : 3.0mm\n  SENSOR GLAS S: 0.55mm\n  IC: FT5446DQS-Q03\n2.Operation Voltage：2.8V-3.3 V \n3.Transmittance：≥82％\n4.The cover hardness：6H176±0.2(LENS OUTLINE)\n(10.89) 154.21(LCD A.A)109±0.2(LENS OUTLINE)\n85.92(LCD A.A)153±0.2(LENS V.A)84.7±0.2(LENS V.A)(11.5)(11.54)\n(12.15)176±0.2(LENS OUTLINE)\n164.9±0.3(LCM OUTLINE)\n109±0.2(LENS OUTLINE)(6.77) 100±0.3(LCM OUTLINE)\n124950\nComponent\nT=2.0MAX\nResistance\n0603\nT=0.6MAX27\n2620\n(33.15)15\n54.5±0.527.55±0.51.0MAX\n209.46±0.3(TOTAL)\nGlass LENS(1.1mm)\nOCA(0.15mm)\nGlass sensor(0.55mm)3±0.1(LENS)\n5.56±0.2(TFT)\nOCA(0.2mm)\n(2.23)7.044.8R31.8\n0.5512.2\nBlack tapeIC\nT=1.5MAX\n17.78\n124950\nA SC 1:41\nRST(3.3V)GNDSYMBOLPIN\n2\n3\n54\n6INT(3.3V)\nSDA(3.3V)SCL(3.3V)GNDVCC(3.3V)\nGND7\n8LCM-CN:DF37C-50DP-0.4VCustomer:DF37NC-50DS-0.4VWhite18\n COVER GLASS (3.0mm)\n OCA (0.15mm)\nGLASS SENSOR (0.55mm)\nOCA (0.2mm)\nLCM (3.3mm)(4.06)\nAF coating\nIAN TOM\n\n'}]
+!==============================================================================!
+### Component Summary: LTK070WSHCT15-V0
+
+**Key Specifications:**
+- **Display Type:** 7.0" TFT IPS, 1024 x RGB x 600, Transmissive/Normally Black
+- **Viewing Direction:** 80°/80°/80°/80° (U/D/L/R @ CR > 10)
+- **Luminance:** 600 cd/m² (typical), with APCF; Uniformity ≥ 80%
+- **Operating Temperature Range:** -20°C to +70°C
+- **Storage Temperature Range:** -30°C to +80°C
+- **Environmental Protection:** RoHS compliant
+- **LCD Drive IC:** Not specified in the provided text
+- **Operating Voltage (CTP):** 2.8V to 3.3V
+- **Transmittance (CTP):** ≥ 82%
+- **Cover Glass Hardness:** 6H
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text
+
+**Description:**
+The LTK070WSHCT15-V0 is a 7.0-inch TFT (Thin Film Transistor) display module featuring an IPS (In-Plane Switching) technology. It provides a resolution of 1024 x 600 pixels and is designed for transmissive applications with a normally black display. The module is characterized by its wide viewing angles and high luminance, making it suitable for various display applications.
+
+**Typical Applications:**
+This TFT display is commonly used in:
+- **Consumer Electronics:** Such as tablets, smartphones, and portable gaming devices.
+- **Industrial Equipment:** For user interfaces in machinery and control panels.
+- **Automotive Displays:** In dashboards and infotainment systems.
+- **Medical Devices:** For monitoring and diagnostic equipment.
+- **Point of Sale Systems:** For interactive displays in retail environments.
+
+The LTK070WSHCT15-V0 is ideal for applications requiring a clear and vibrant display with good visibility under various lighting conditions, making it versatile for both consumer and industrial uses.

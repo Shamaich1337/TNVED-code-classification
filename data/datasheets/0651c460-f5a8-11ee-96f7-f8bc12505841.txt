@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 0039281023 production of MOLEX from the text:-\n-\n-\n \n \n \n \n \nDocuments & Resources \nDrawings\nDrawing  039281023_sd.pdf\nPackaging Design Drawing  PK-5566-000.pdf\n \n3D Models and Design Files\n3D Model  039281023_stp.zip\n \nSpecifications\nApplication Specification  AS-5557-001-001.pdf\nPackaging Specification  PK-5566-003-001.pdf\nProduct Specification  PS-5556-001-001.pdf\nTest Summary  TS-5556-002-001.pdf\n \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance Statements\nEu RoHS\nREACH SVHC\nLow-Halogen\n \nMultiple Part Industry Compliance DocumentsPart Number : 39281023 Product Description : Mini-Fit Jr. Vertical\nHeader, 4.20mm Pitch, Dual Row, 2 Circuits,\nwithout Snap-in Plastic Peg PCB Lock, Tin,\nNatural\nSeries Number : 5566 Status : Active\nProduct Category : PCB Headers and\nReceptaclesEngineering Number : 5566-02A\nGADSL/IMDS Not Relevant\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Low-Halogen per IEC 61249-2-21\nREACH SVHC Not Contained per D(2023)8585-DC\n(23 Jan 2024)\nEU RoHS Compliant per EU 2015/863\n-\n-\n-\n-\n-\nIPC 1752A Class C\nIPC 1752A Class D\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneral \n \n \nAgency \n \n \nElectrical \n \n \nPhysicalStatus Active\nCategory PCB Headers and Receptacles\nSeries 5566\nDescription Mini-Fit Jr. Vertical Header, 4.20mm\nPitch, Dual Row, 2 Circuits, without\nSnap-in Plastic Peg PCB Lock, Tin,\nNatural\nApplication Power, Wire-to-Board\nComments The 5566 header should be used\nwith standard Mini-Fit female\nterminals. If increased amperage of\nup to 13A per circuit is needed,\nplease consider using the Mini-Fit\nPlus HCS family 45750 terminals\nwith 46015 headers;  See Molex\nProduct specification PS-5666-001\nfor current de-rating information.\nComponent Type PCB Header\nProduct Family Mini-Fit Family Power Connectors\nProduct Name Mini-Fit Jr.\nUPC 800753582200\nCSA LR19980\nUL E29179\nCurrent - Maximum per Contact 9.0A\nVoltage - Maximum 600V\n Breakaway No\nCircuits (Loaded) 2\nCircuits (maximum) 2\nColor - Resin Natural\nDurability (mating cycles max) 30\nFirst Mate / Last Break No\nFlammability 94V-2\nGlow-Wire Capable No\nGuide to Mating Part No\nKeying to Mating Part None\nLock to Mating Part Yes\nMaterial - Metal Brass\nMaterial - Plating Mating Tin\nMaterial - Plating Termination Tin\nMaterial - Resin Nylon\nNet Weight 0.705/g\nNumber of Rows 2\nOrientation Vertical\nPackaging Type Bag\nPC Tail Length 3.50mm\nPCB Locator Yes\nPCB Retention None\nPCB Thickness - Recommended 1.60mm\nPitch - Mating Interface 4.20mm\nPitch - Termination Interface 4.20mm\nPlating min - Mating 0.889µm\nPlating min - Termination 0.889µm\nPolarized to Mating Part Yes\nPolarized to PCB Yes\nShrouded Fully\nStackable No\nTemperature Range - Operating -40° to +105°C\nTermination Interface Style Through Hole\nSolder Process Data \n \n \n \nMates With / Use With \nMates with Part(s) \n \n \n \n \n \nThis document was generated on Apr 08, 2024 Max-Duration 5\nLead-Free Process Capability WAVE\nMax-Cycle 1\nMax-Temp 240\nDescription Part Number\nMini-Fit Jr. Receptacle Housings 5557\nMini-Fit TPA2-to-Mini-Fit TPA2 Off-\nthe-Shelf (OTS) Cable Assemblies45135\nMini-Fit TPA2 and Mini-Fit Sigma\nDual Row Receptacle Housings172708\nMini-Fit Jr.-to-Mini-Fit Jr. Off-the-\nShelf (OTS) Overmolded Cable\nAssemblies245135\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 0039281023
+
+**Product Description:**
+The MOLEX 0039281023 is a Mini-Fit Jr. Vertical Header designed for PCB applications. It features a 4.20mm pitch, dual row configuration with 2 circuits. This header is intended for power and wire-to-board connections and is compatible with standard Mini-Fit female terminals.
+
+**Key Specifications:**
+- **Voltage Rating:** Maximum 600V
+- **Current Rating:** Maximum 9.0A per contact
+- **Power Consumption:** Not specified directly; dependent on application and load.
+- **Operating Temperature Range:** -40°C to +105°C
+- **Package Type:** Bag
+- **Special Features:**
+  - Dual row, 2 circuits
+  - Locking mechanism to mating part
+  - Fully shrouded design
+  - Recommended PCB thickness: 1.60mm
+  - Durability: Up to 30 mating cycles
+  - Low-Halogen compliant per IEC 61249-2-21
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+**Material Composition:**
+- **Metal Material:** Brass
+- **Plating Material (Mating and Termination):** Tin
+- **Resin Material:** Nylon
+- **Flammability Rating:** 94V-2
+
+**Typical Applications:**
+The Mini-Fit Jr. Vertical Header is commonly used in power management applications, particularly in wire-to-board connections. It is suitable for various electronic devices requiring reliable power distribution, such as:
+- Consumer electronics
+- Industrial equipment
+- Automotive applications
+- Telecommunications
+
+This component is ideal for applications where space is limited, and a robust connection is necessary, making it a versatile choice in many electronic designs.

@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-CRR-103-A254-99 production of DECIGN from the text:ABC\n02 2,54 5,66 7,62\n03 5,08 8,20 10,16\n04 7,62 10,74 12,70\n05 10,16 13,28 15,24\n06 12,70 15,82 17,78\n07 15,24 18,36 20,32\n08 17,78 20,90 22,86\n09 20,32 23,44 25,40\n10 22,86 25,98 27,94\n11 25,40 28,52 30,48\n12 27,94 31,06 33,02\n13 30,48 33,60 35,56\n14 33,02 36,14 38,10\n15 35,56 38,68 40,64\n16 38,10 41,22 43,18\n17 40,64 43,76 45,72\n18 43,18 46,30 48,26No. of \nPinDimension mm\nTP-\nTP-\nTP-TP-\n'}]
+!==============================================================================!
+Based on the provided information regarding the component with the product code TP-CRR-103-A254-99 from DECIGN, here is a concise summary of its key characteristics and specifications:
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this information would be found in the full datasheet.
+- **Current Ratings**: Not explicitly stated in the provided text; typically, this information would be found in the full datasheet.
+- **Power Consumption**: Not explicitly stated in the provided text; typically, this information would be found in the full datasheet.
+- **Operating Temperature Range**: Not explicitly stated in the provided text; typically, this information would be found in the full datasheet.
+- **Package Type**: Not explicitly stated in the provided text; typically, this information would be found in the full datasheet.
+- **Special Features or Notes**: Not explicitly stated in the provided text; typically, this information would be found in the full datasheet.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not explicitly stated in the provided text; typically, this information would be found in the full datasheet.
+
+### Component Description:
+The TP-CRR-103-A254-99 appears to be a type of connector or terminal block based on the naming convention and the dimensions provided. The dimensions listed (e.g., 2.54 mm, 5.08 mm, etc.) suggest that this component is likely used for connecting wires or cables in electronic circuits.
+
+### Typical Applications:
+- **Power Management**: Used in power distribution systems to connect power sources to various components.
+- **Signal Processing**: Can be used to connect signal lines in communication devices.
+- **Data Storage**: May be utilized in connecting storage devices to a motherboard or other circuitry.
+- **General Electronics**: Commonly found in various electronic devices for interconnecting components.
+
+### Conclusion:
+While the provided text does not contain specific details about voltage, current, power consumption, or other critical specifications, it indicates that the TP-CRR-103-A254-99 is likely a connector or terminal block used in various electronic applications. For precise specifications, it would be necessary to consult the complete datasheet for this component.

@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ER321250S production of AKKU TRONICS NEW ENERGY TECH. CO., LTD. from the text:Specification ER321250S Lithium Thionyl Chloride Battery P/N: 32-127-MR  \n \n DD Moderate rate     Electrical Characteristics Nominal capacity                                          28Ah Open circuit voltage (23±2℃)                                    ≥3.6V Constant discharge current  600mA (Nominal) 1200mA (Max.) Operating temperature                                       -40~+150℃ Self-discharge rate ＜2% per year    Physical Characteristics Cell size                                         DD Diameter                                          32.0mm Height 126.5mm Weight    198.0g Fuse Yes, 7.0A Parallel diode                              Yes                                                                                                                                                       Please consult with Akku Tronics for further information.                                                                                              www.akkutronics.com Akku Tronics New Energy Technology Co., Ltd The right lithium battery solution  ●  Downhole Oil & Gas MWD, LWD ●  Sensor system ●  Wireless and military equipment ●  Tracking system ●  Pipeline inspection gauge   l High energy density ●   High single cell voltage ●   Moderate rate ●   Stable operating voltage ●   High operating temperature ●   Low self-discharge rate  ●   UN38.3 for transportation  \nKey Features Main applications \nThe right lithium battery solution Cell Drawing \nDischarge Curve \nφ32.0Max. \nCapacity/Ah \nVoltage/V \n126.5Max\n'}]
+!==============================================================================!
+### Component Summary: ER321250S Lithium Thionyl Chloride Battery
+
+**Product Code:** ER321250S  
+**Manufacturer:** Akku Tronics New Energy Tech. Co., Ltd.  
+**Type:** Lithium Thionyl Chloride Battery
+
+#### Key Specifications:
+- **Nominal Capacity:** 28 Ah
+- **Open Circuit Voltage (at 23±2℃):** ≥ 3.6 V
+- **Constant Discharge Current:**
+  - Nominal: 600 mA
+  - Maximum: 1200 mA
+- **Operating Temperature Range:** -40℃ to +150℃
+- **Self-Discharge Rate:** < 2% per year
+- **Cell Size:** DD
+  - **Diameter:** 32.0 mm
+  - **Height:** 126.5 mm
+- **Weight:** 198.0 g
+- **Fuse:** Yes, 7.0 A
+- **Parallel Diode:** Yes
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The ER321250S is a lithium thionyl chloride battery designed for high energy density applications. It features a stable operating voltage and is capable of functioning in extreme temperature conditions, making it suitable for various demanding environments. The battery is characterized by its low self-discharge rate, which allows for long-term storage without significant capacity loss.
+
+#### Typical Applications:
+The ER321250S battery is commonly used in:
+- Downhole oil and gas applications (Measurement While Drilling (MWD), Logging While Drilling (LWD))
+- Sensor systems
+- Wireless and military equipment
+- Tracking systems
+- Pipeline inspection gauges
+
+This battery is particularly advantageous in applications requiring reliable power sources in harsh conditions, where high energy density and stable performance are critical.

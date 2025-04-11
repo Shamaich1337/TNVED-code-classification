@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-868-SMA-RG174-20cmSMA production of JC ANTENNA HK CO.,LIMITED from the text:Special for MACRO GROU P    E-mail: wireless@macrogroup .ru    Tel: +7 (812) 370 60 70  \n \n \nDATASHEET    \nMMMGGG---888666888---SSSMMMAAA---RRRGGG111777444---222000cccmmmSSSMMMAAA   \nType  ISM antenna  \nFrequencies  868 MHz \nMounting  Telematic Mount  \nBrand Name  MG ANTENNAS  \n \nRevision #  Content  Page  Date  \n0 First, document  - 20.10.201 9 \n \n1. SPECIFICATION  \n1.1 Electrical Specifications  \n                                                                        \n 1.2 Mechanical specification s \nCable  (type and length )  20cm \nConnector  SMA  male  \nHousing  Color  Black  \nMounting  Screw  Mount  \nDimensions  H80*30 mm \n   \n1.3 Environ mental specifications  \n \n \n \n \n \n \n \n \n \n \n Frequency  868 ±10 MHz \nPolari zation  Linear  \nGain  ≤1dBi  \nBand Width  CF±8MHz  \nVSWR  ＜3.0 \nRadiation  OMNIDIRECTIONAL  \nImpedance  50 Ω \nOperating Temperature , ℃ -40~+85  \nEnvironmentally Friendly  ROHS Compliant  \nIngress Protection  IP66 \nVibration  10 to 55Hz with 1.5mm amplitude \n2hours  \n \nE-mail: wireless@macrogroup.ru     Tel: +7 (812) 370 60 70  2. Radiation P attern \n \n                     \n  \n                       \n  \n3. DIMENSIONS  \n \n  \n E1 \nE2 \nH \n'}]
+!==============================================================================!
+### Component Summary: MG-868-SMA-RG174-20cmSMA
+
+#### Key Specifications:
+- **Type**: ISM Antenna
+- **Frequencies**: 868 MHz
+- **Mounting**: Telematic Mount
+- **Cable Type and Length**: RG174, 20 cm
+- **Connector**: SMA Male
+- **Housing Color**: Black
+- **Dimensions**: Height 80 mm, Width 30 mm
+- **Gain**: ≤1 dBi
+- **Bandwidth**: CF ± 8 MHz
+- **VSWR (Voltage Standing Wave Ratio)**: < 3.0
+- **Radiation Pattern**: Omnidirectional
+- **Impedance**: 50 Ω
+- **Operating Temperature Range**: -40°C to +85°C
+- **Ingress Protection**: IP66 (dust-tight and protected against water)
+- **Vibration Resistance**: 10 to 55 Hz with 1.5 mm amplitude for 2 hours
+- **Environmental Compliance**: ROHS Compliant
+- **Moisture Sensitive Level**: Not specified in the provided data.
+
+#### Description:
+The MG-868-SMA-RG174-20cmSMA is an ISM band antenna designed specifically for wireless communication applications operating at a frequency of 868 MHz. It features a compact design with a telematic mount, making it suitable for various installations. The antenna is equipped with an SMA male connector and is constructed with a durable black housing, ensuring longevity and reliability in various environmental conditions.
+
+#### Typical Applications:
+This antenna is typically used in applications that require reliable wireless communication in the ISM band, such as:
+- **Telematics**: Used in vehicle tracking and fleet management systems.
+- **IoT Devices**: Ideal for Internet of Things applications where low-power wireless communication is essential.
+- **Smart Metering**: Utilized in smart energy meters for data transmission.
+- **Remote Monitoring**: Suitable for remote sensor applications in industrial and agricultural settings.
+- **Home Automation**: Employed in smart home devices for seamless connectivity.
+
+Overall, the MG-868-SMA-RG174-20cmSMA antenna is a versatile component that supports a wide range of wireless communication needs, particularly in environments where durability and performance are critical.

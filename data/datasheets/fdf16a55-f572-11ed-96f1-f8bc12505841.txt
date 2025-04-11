@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PSDH6060CCS1_T0_00001 production of PAN JIT from the text:March 2,2021 PSDH6060CCS1-REV.00 Page 1\nSpeedy Diode - Short Reverse Recovery Time, Fast Recovery Diode\nTO-247AD-3LD\nFeatures\n\uf06cFast recovery\n\uf06cSuppressed switching loss with low T RR\n\uf06cSoft recovery characteristic for better EMI\n\uf06cHigh junction temperature 150oC\n\uf06cLead free in compliance with EU RoHS 2.0\n\uf06cGreen molding compound as per IEC 61249 standard\nMechanical Data\n\uf06cCase: TO-247AD-3LD molded plastic\n\uf06cTerminals: Solderable per MIL-STD-750, Method 2026\n\uf06cApprox. Weight: 0.2198 ounces, 6.231 grams\nApplication\n•PFC, UPS, PV Inverter, EV Charging Station, Welder\nMaximum Ratings and Thermal Characteristics (per leg) (T C= 25oC unless otherwise specified)\nPARAMETER SYMBOL LIMIT UNITS\nRepetitive Peak Reverse Voltage VRRM 600 V\nDC Blocking Voltage VDC 600 V\nDiode Forward Current @ Tc=115oC\nDiode Forward Current (Both Legs)IF(AV)30\n60A\nRepetitive Peak Surge Current\ntp = 8.3 ms, sine-wave, D=0.5IFRM 60 A\nPeak Forward Surge Current\ntp = 8.3 ms, single half sine-waveIFSM 175 A\nMaximum Power Dissipation Ptotal 156 W\nOperating Junction Temperature Range TJ -55~150oC\nStorage Temperature Range TSTG -55~150oCVRRM\nVF(TYP)IF\nTRR(TYP)600 V 2x 30 A\n1.8 V 45 ns\n\nMarch 2,2021 PSDH6060CCS1-REV.00 Page 2\nElectrical Characteristics (per leg) (T C= 25oC unless otherwise specified)\nPARAMETER SYMBOL TEST CONDITION MIN. TYP. MAX. UNITS\nForward voltage drop VFIF= 30 A, T J= 25oC - 1.8 2.3\nVIF= 30 A, T J= 125oC - 1.45 -\nReverse leakage current IRVR= 600 V, T J= 25oC - - 250 μA \nVR= 600 V, T J= 125oC - - 1 mA\nReverse recovery time TRRIF=0.5A, I R=1A,\nIRR=0.25A\nTJ= 25oC- - 45 ns\nIF= 1 A, V R= 30 V,\ndi/dt = 300 A/μs,  \nTJ= 25oC- - 35 ns\nReverse recovery time TRR\nIF= 30 A, V R= 400 V,\ndi/dt = 300 A/μs,  \nTJ= 25oC- 45 70 ns\nPeak recovery current IRRM - 3.6 - A\nReverse recovery charge QRR - 90 - nC\nSoftness factor = tb / ta S - 1.5 -\nReverse recovery time TRR\nIF= 30 A, V R= 400 V,\ndi/dt = 300 A/μs, \nTJ= 125oC- 70 - ns\nPeak recovery current IRRM - 9.9 - A\nReverse recovery charge QRR - 480 - nC\nSoftness factor = tb / ta S - 0.3 -\nThermal Resistance RθJC - - 0.8oC/W\nMarch 2,2021 PSDH6060CCS1-REV.00 Page 3\nFig.2 Typical Junction Capacitance Fig.1 Forward Current Derating CurveTYPICAL CHARACTERISTIC CURVES (per leg)\nFig.4 Typical Forward Characteristics Fig.3 Typical Reverse Characteristics\nFig.5 Typical Reverse Recovery Time Versus di/dt Fig.6 Typical Reverse Recovery Charges Versus di/dt1101001000\n0 50 100 150 200J\nVR, Reverse Bias Voltage (V)\n1101001000\n50 100 150 200 250 300\ndi / dt (A/us)IF=30A\nVR=400V\nTJ=125℃\n10100100010000\n50 100 150 200 250 300\ndi / dt (A/us)IF=30A\nVR=400V\nTJ=125℃0.0010.010.11101001000\n10 20 30 40 50 60 70 80 90 100R\nPercent of Rated Reverse Voltage (%)TJ= 25°CTJ= 100°CTJ= 150°C\n0102030405060\n0 0.4 0.8 1.2 1.6 2 2.4F\nVF, Forward Voltage (V)TJ= 100°C\nTJ= 25°CTJ= 150°C010203040\n25 50 75 100 125 150 175\nTC, Case Temperature ( °C)F\nMarch 2,2021 PSDH6060CCS1-REV.00 Page 4\nProduct and Packing Information\nPackaging InformationPart No. Package Type Packing Type Marking\nPSDH6060CCS1 TO-247AD-3LD 30pcs / Tube SDH6060CCS1\nTO-247AD-3LD Dimension Unit: inch(mm)\nMarch 2,2021 PSDH6060CCS1-REV.00 Page 5\nDisclaimer\n● Reproducing and modifying information of the document is prohibited without permission from Panjit \nInternational Inc..\n● Panjit International Inc. reserves the rights to make changes of the content herein the document anytime \nwithout notification. Please refer to our website for the latest document.\n● Panjit International Inc. disclaims any and all liability arising out of the application or use of any product \nincluding damages incidentally and consequentially occurred.\n● Panjit International Inc. does not assume any and all implied warranties, including warranties of fitness for \nparticular purpose, non-infringement and merchantability.\n● Applications shown on the herein document are examples of standard use and operation. Customers are \nresponsible in comprehending the suitable use in particular applications. Panjit International Inc. makes no\nrepresentation or warranty that such applications will be suitable for the specified use without further testing\nor modification.\n● The products shown herein are not designed and authorized for equipments requiring high level of reliability \nor relating to human life and for any applications concerning life-saving or life-sustaining, such as medical\ninstruments, transportation equipment, aerospace machinery et cetera. Customers using or selling these\nproducts for use in such applications do so at their own risk and agree to fully indemnify Panjit International\nInc. for any damages resulting from such improper use or sale.\n● Since Panjit uses lot number as the tracking base, please provide the lot number for tracking when \ncomplaining.\n'}]
+!==============================================================================!
+### Component Summary: PSDH6060CCS1_T0_00001
+
+**Description:**
+The PSDH6060CCS1 is a fast recovery diode designed for high-performance applications. It features a short reverse recovery time, making it suitable for applications where efficiency and reduced switching losses are critical. The diode is housed in a TO-247AD-3LD package, which is a molded plastic case that allows for effective heat dissipation.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Repetitive Peak Reverse Voltage (VRRM): 600 V
+  - DC Blocking Voltage (VDC): 600 V
+
+- **Current Ratings:**
+  - Diode Forward Current (IF(AV)): 30 A (per leg) at T_C = 115°C
+  - Maximum Forward Current (Both Legs): 60 A
+  - Repetitive Peak Surge Current (IFRM): 60 A (tp = 8.3 ms)
+  - Peak Forward Surge Current (IFSM): 175 A (tp = 8.3 ms)
+
+- **Power Consumption:**
+  - Maximum Power Dissipation (Ptotal): 156 W
+
+- **Operating Temperature Range:**
+  - Junction Temperature (TJ): -55°C to 150°C
+  - Storage Temperature (TSTG): -55°C to 150°C
+
+- **Package Type:**
+  - TO-247AD-3LD molded plastic
+
+- **Special Features:**
+  - Fast recovery with suppressed switching loss
+  - Soft recovery characteristics for improved EMI performance
+  - High junction temperature rating of 150°C
+  - Lead-free and compliant with EU RoHS 2.0
+  - Green molding compound as per IEC 61249 standard
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided data, but typically assessed per JEDEC J-STD-020E.
+
+**Typical Applications:**
+The PSDH6060CCS1 diode is commonly used in various high-power applications, including:
+- Power Factor Correction (PFC)
+- Uninterruptible Power Supplies (UPS)
+- Photovoltaic (PV) Inverters
+- Electric Vehicle (EV) Charging Stations
+- Welding equipment
+
+This diode is particularly advantageous in circuits where fast switching and low recovery times are essential, contributing to overall system efficiency and performance.

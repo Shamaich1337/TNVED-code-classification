@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CL05B333KA5NNNC production of SAMSUNG from the text:1. Model : CL05B333KA5NNNC\n2. Description\nPart no.Size\n(inch(mm))Thickness\n(mm)Temperature\ncharateristicsCapacitance\nvalueCapacitance\ntolerance(%)Voltage\n(V)\nCL05B333KA5NNNC 0402/1005 0.5mm X7R 33nF ± 10 % 25\n3. Characteristics data\n 1) Frequency characteristics        2) Temperature characteristics of capacitance(TCC)\n                   Network Analyzer, 0.5Vrms, 30Hz to 20GHz  Agilent 4284A, 1kHz, 1Vrms\n 3) DC Bias characteristics (Agilent 4284A, 1kHz, 1Vrm        4) Bias TCC characteristics (Agilent 4284A, 1kHz, 1Vrms, 12.5Vdc)\n 5) AC voltage characteristics (Agilent 4284A, 1kHz)\n          Any data in this sheet are subject to change, modify or discontinue without notice\n          The data sheets include the typical data for design reference only. If there is any question           regarding the data sheets, please contact our sales personnel or application engineersMulti Layer Ceramic Capacitor (MLCC)\n-100-80-60-40-20020\n-55 -35 -15 5 25 45 65 85 105 125∆C(%) \nTemperature (°C)\n-100-80-60-40-20020\n-55 -35 -15 5 25 45 65 85 105 125∆C(%)\nTemperature ( ℃)0.010.11101001000\n0.01 0.1 1 10 100 1000 10000|Z|, ESR [Ohm]\nFrequency [MHz]Impedance |Z|,  ESR\n|Z|\nESR\n-40-30-20-10010203040\n0.0 0.5 1.0 1.5 2.0 2.5 3.0∆C(%)\nAC Voltage (Vrms)-100-80-60-40-20020\n0 5 10 15 20 25∆C(%)\nDC Voltage (V)\n\n'}]
+!==============================================================================!
+### Component Summary for CL05B333KA5NNNC
+
+**Component Type:** Multi-Layer Ceramic Capacitor (MLCC)
+
+**Description:**
+The CL05B333KA5NNNC is a multi-layer ceramic capacitor (MLCC) designed for various electronic applications. It features a capacitance value of 33nF with a tolerance of ±10%. The capacitor is constructed using X7R dielectric material, which provides stable capacitance over a wide temperature range. This component is housed in a compact 0402 (1005 metric) package, making it suitable for space-constrained applications.
+
+### Key Specifications:
+- **Capacitance Value:** 33nF
+- **Capacitance Tolerance:** ±10%
+- **Voltage Rating:** 25V
+- **Temperature Characteristics:** X7R (operating temperature range of -55°C to +125°C)
+- **Package Type:** 0402 (1005 mm)
+- **Thickness:** 0.5 mm
+- **Moisture Sensitivity Level (MSL):** Not specified in the provided data, but typically MLCCs are rated according to JEDEC J-STD-020E.
+
+### Special Features:
+- **Frequency Characteristics:** Measured using a network analyzer from 30Hz to 20GHz.
+- **DC Bias Characteristics:** Evaluated at 1kHz and 1Vrms.
+- **AC Voltage Characteristics:** Evaluated at 1kHz.
+
+### Typical Applications:
+The CL05B333KA5NNNC capacitor is commonly used in:
+- **Decoupling and Bypass Applications:** To stabilize voltage and filter out noise in power supply circuits.
+- **Timing Circuits:** In conjunction with resistors to create timing elements in oscillators and timers.
+- **Signal Coupling and Filtering:** In audio and RF applications to couple signals while blocking DC components.
+- **Power Management:** In power supply circuits to smooth voltage fluctuations and improve overall performance.
+
+This capacitor is ideal for use in consumer electronics, telecommunications, automotive electronics, and other applications where reliable performance and compact size are critical.

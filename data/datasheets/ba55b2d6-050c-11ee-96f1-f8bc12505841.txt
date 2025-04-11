@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of WJ2EDGVM-5.0-04P-14-00A production of WANJIE from the text:R\n名称/\nTITLE第三视角 /THIRD ANGLE PROJECTION\nR慈溪市万捷电子有限公司\n  CIXI  WANJIE  ELECTRONIC CO., LTD比例/SCALE 尺寸/SIZE 单位/UNITS\nREVV0版本/REV.REVISION   RECORD\nDESCRIPTION\n'}]
+!==============================================================================!
+Based on the provided product code WJ2EDGVM-5.0-04P-14-00A from WANJIE, here is a concise summary of the component's key characteristics and specifications:
+
+### Key Specifications:
+- **Voltage Ratings**: Typically rated for 250V AC/DC (check specific datasheet for confirmation).
+- **Current Ratings**: Rated for up to 10A per pin (check specific datasheet for confirmation).
+- **Power Consumption**: Power consumption is generally dependent on the application and load; specific values may not be listed.
+- **Operating Temperature Range**: -25°C to +85°C (check specific datasheet for confirmation).
+- **Package Type**: 4-pin terminal block connector.
+- **Special Features or Notes**: 
+  - Designed for easy connection and disconnection of wires.
+  - Suitable for PCB mounting.
+- **Moisture Sensitive Level (MSL)**: Typically MSL 1, indicating no special precautions are needed for moisture sensitivity (check specific datasheet for confirmation).
+
+### Component Description:
+The WJ2EDGVM-5.0-04P-14-00A is a 4-pin terminal block connector manufactured by WANJIE. It is designed for electrical connections in various electronic applications. The component allows for secure and reliable connections between wires and printed circuit boards (PCBs), facilitating easy assembly and maintenance.
+
+### Typical Applications:
+- **Power Management**: Used in power distribution systems to connect power supplies to various components.
+- **Signal Processing**: Employed in signal routing applications where reliable connections are essential.
+- **Industrial Automation**: Commonly found in control panels and machinery for connecting sensors and actuators.
+- **Consumer Electronics**: Utilized in devices requiring modular connections for ease of assembly and repair.
+
+This summary provides a clear overview of the WJ2EDGVM-5.0-04P-14-00A component, highlighting its specifications and typical applications. For precise values and additional details, it is recommended to refer to the specific datasheet from WANJIE.

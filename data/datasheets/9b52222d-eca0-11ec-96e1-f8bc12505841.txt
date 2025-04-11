@@ -1,0 +1,49 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BSH-500ICV5 production of BYD SEMICONDUCTOR from the text: \nBSH-500ICV5M  \n              \n                        Current Sensors  \n \nDatasheet                                 TS-CUS -PD-0052   Rev. A/0                           Page 1 of 4 \n  \nDescription  \nFor the electronic measu rement  of currents: DC, AC, pulsed , mixed , with a galvanic  \nisolat ion between the primary circuit  (high power)  and the  secondary  circuit  \n(electronic circuit).\n \nFeatures  \n\uf075 Closed loop (compensated)current  \nTransducer usi ng the Hall effect  \n\uf075 Galvanic  isolation between primary  \n  and secondary circuit  \n\uf075 Low power consumptio n \n\uf075 Extended measuring range   \n\uf075 Insulated plastic case recognized  \naccording to UL 94 -V0   \n \n \nIPN  = 500A  \nAdvantage s \n\uf075 Very good linearity  \n\uf075 Excellent accuracy  \n\uf075 Low te mperature drift  \n\uf075 Wide frequency  bandwidth  \n\uf075 Optimized response time  \n\uf075 No insertion losses  \n\uf075 High immunity against external   \nInterference  \n\uf075 Excellent performance and price   \nIndustrial a pplication s \n \n\uf075 AC variable speed drives   \n\uf075 Battery  supplied applications  \n\uf075 Uninterrupti ble Power  Supplies  (UPS)  \n\uf075 Power  supplies for welding applications  \n\uf075 Static converters for DC motor drives  \n\uf075 Switched -Mode  Power Supplies (SMPS)\nTYPES OF PRODUCTS  \nType  Primary nominal  \ncurre nt              \nr. m. s IPN (A) Primary current  \nmeasuring range    \nIP (A) Measuring resistance @70℃         \nRM (Ω) \nBSH -500ICV5M  500 0 ... ±800 0～60 with±15V@±500Amax i \n0～11 with±15V@±800Amax i \n0～92 with±18V@±500Amax i \n0～30 with±18V@±800Amax i \n5～149 with±24V@±500Amax i \n5～65 with±24V@±800Amax i \n\n                                                  BSH -500ICV5M  \n    Current  Sensors  \n                                                   \nDatasheet                                 TS-CUS -PD-0052   Rev. A/0                           Page 2 of 4 \nParameters  Table  \n \nNotes :  \n(1) Please refer to derating curves in the technical file to avoid excessive core heating at  \nhigh frequency  \n \n \n \n PAR AMETERS  SYMBOL  UNIT  VALUE  CONDITIONS  \nElectrical data \nSupply voltage  (± 5% ) VC V    ±15…24  \nCurrent consumption  IC mA 24+Is @±18V \nSecondary nominal current   r.m.s  ISN mA 100  \nConversion ratio  KN  1:5000  \nAccuracy - Dynamic performance data  \nLinearity  εL % <±0.1  \nAccuracy  XG % <±0.6 @IPN, TA = 25° C  \nOffset current  IO mA <±0.40 @IP = 0,TA = 25° C  \nThermal drift of Io  IOT mA <±0.40 @IP = 0,－40°C～+70°C \nMagnetic  offset current  IOM mA <±0.20 @IP = 0,after an overload of 3× IPN \nResponse time  tr µS <1 @90% of IPN step \ndi/dt accurately followed  di/dt A/µ S  >100  \nFrequency bandwidth (1) BW kHz DC~ 100 @-1dB \nGeneral data  \nAmbient operating temperature  TA ℃ -40 ~ +70  \nAmbient storage temperature  TS ℃ -40 ~ +85  \nSecondary coil resistance  Rs Ω 70 @ TA = 70°C \nMass  m g 255  \nIsolation  data  \nR. m. s voltage for AC isolation test  Vd KV 3.8 @50Hz, 1 min  \nImpulse withstand voltage   VW KV 12.5 @1.2/50 µS \nCreepage distance  dCp mm >15.2  \nClearance distance  dCI mm  >14.5  \nComparative Tracking Index  CTI  >175  \n                                                  BSH -500ICV5M  \n    Current  Sensors  \n                                                   \nDatasheet                                 TS-CUS -PD-0052   Rev. A/0                           Page 3 of 4 \nDimensions  BSH-500ICV5M (in mm. 1 mm = 0.0394  inch) \n \n◆Instructions of use  \n1. When the test current passes through the sensor , you can get the size of the output current.  \n(Warning: wrong connection may lead to sensor s damage .) \n2. Based on user needs, the sensor s output range can be appropriately regulated.  \n3. Accordin g to user needs, different rated input currents and output currents of the sensor s can \nbe customized.   \n \n \n \n \n                                                  BSH -500ICV5M  \n    Current  Sensors  \n                                                   \nDatasheet                                 TS-CUS -PD-0052   Rev. A/0                           Page 4 of 4 \nRESTRICTIONS ON PRODUCT USE  \n\uf06e The information contained herein is subject to change without notice.  \n \n\uf06e BYD Semiconductor  Co., Ltd. exerts the greatest po ssible effort to ensure high quality and reliability. \nNevertheless, semiconductor devices in general can malfunction or fail due to their inherent electrical \nsensitivity and vulnerability to physical stress. It is the responsibility of the buyer, when util izing products, to \ncomply with the standards of safety in making a safe design for the entire system, including redundancy, \nfire-prevention measures, and malfunction prevention, to prevent any accidents, fires, or community damage \nthat may ensue. In develo ping your designs, please ensure that products are used within specified operating \nranges as set forth in the most recent products specifications.  \n \n\uf06e The products listed in this document are intended for usage in general electronics applic ations (computer, \npersonal equipment, office equipment, measuring equipment, industrial robotics, domestic appliances, etc.). \nThese products are neither intended nor warranted for usage in equipment that requires extraordinarily high \nquality and/or reliabil ity or a malfunction or failure of which may cause loss of human life or bodily injury \n(“Unintended Usage”). Unintended Usage include atomic energy control instruments, airplane or spaceship \ninstruments, transportation i nstruments, traffic signal instrumen ts, combustion control instruments, medical \ninstruments, all types of safety devices, etc.. Unintended Usage of  products listed in this document shall be \nmade at the customer’s own risk.  \n \n \n'}]
+!==============================================================================!
+### Component Summary: BSH-500ICV5M
+
+**Description:**
+The BSH-500ICV5M is a current sensor designed for electronic measurement of currents, including DC, AC, pulsed, and mixed signals. It features galvanic isolation between the primary (high power) and secondary (electronic) circuits, making it suitable for various industrial applications.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Supply Voltage (±5%): ±15V to ±24V
+  - R.m.s Voltage for AC Isolation Test: 3.8 kV @ 50Hz for 1 minute
+  - Impulse Withstand Voltage: 12.5 kV @ 1.2/50 µs
+
+- **Current Ratings:**
+  - Primary Nominal Current (IPN): 500 A
+  - Primary Current Measuring Range (IP): 0 to ±800 A
+  - Secondary Nominal Current (ISN): 100 mA
+
+- **Power Consumption:**
+  - Current Consumption (IC): 24 mA + Is @ ±18V
+
+- **Operating Temperature Range:**
+  - Ambient Operating Temperature (TA): -40°C to +70°C
+  - Ambient Storage Temperature (TS): -40°C to +85°C
+
+- **Package Type:**
+  - Insulated plastic case recognized according to UL 94-V0
+
+- **Special Features:**
+  - Closed loop (compensated) current transducer using the Hall effect
+  - Very good linearity (<±0.1%)
+  - Excellent accuracy (<±0.6% @ IPN, TA = 25°C)
+  - Low temperature drift (<±0.40 mA @ IP = 0, -40°C to +70°C)
+  - Wide frequency bandwidth (DC to 100 kHz @ -1dB)
+  - High immunity against external interference
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided data.
+
+**Typical Applications:**
+The BSH-500ICV5M is commonly used in various industrial applications, including:
+- AC variable speed drives
+- Battery-supplied applications
+- Uninterruptible Power Supplies (UPS)
+- Power supplies for welding applications
+- Static converters for DC motor drives
+- Switched-Mode Power Supplies (SMPS)
+
+This component is ideal for applications requiring precise current measurement with high accuracy and reliability, particularly in environments where electrical isolation is critical.

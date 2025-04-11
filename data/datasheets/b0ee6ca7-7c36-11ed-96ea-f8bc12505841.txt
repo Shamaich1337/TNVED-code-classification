@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PIN-A197-55 production of E-TEC from the text:A New 14.10.2022 Cherry\nOrder Code\nPIN-A197-xx\n55=  Gold flash\n  99 =  Sn\nMaterial: Brass\nPlating: Sn or Au flash over Ni\nMechanical properties: f or 14# crown spring\n                                     \\ apply to pin ∅2.00Plating\nRoHS\ncompliant\nPower female pin\n∅3.60x19.7(L)mm SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.25Cherry\nKent\nSH14.10.2022\n21.11.2022\n21.11.2022PIN-A197\nPIN-A197-xx 1/1\nB7.50\n∅0.504.008.60 ±0.10 11.10 ±0.15\n∅2.85 ±0.05 ∅3.30 ±0.05 ∅2.70 ±0.05∅3.60 ±0.05\n6.00∅2.40 ±0.10\n6.80 ±0.10\n8.00 ±0.1019.70B correct dimension 2.00->2.40,2.45->2.85,3.0->3.3 21.11.2022 Cherry\nSpecifications\nElectrical\nCurrent rating: 3A\nContact resistance: 10mΩ max.\nVoltage rating: 10V rms/ 15V DC\nWithstanding voltage: 100V rms/minute min.\n'}]
+!==============================================================================!
+### Component Summary for PIN-A197-55
+
+**Component Type:** Power Female Pin
+
+**Description:**
+The PIN-A197-55 is a power female pin designed for electrical connections in various applications. It features a brass construction with a choice of plating options, including gold flash (55) or tin (99) over nickel. This component is RoHS compliant, ensuring it meets environmental standards for hazardous substances.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - 10V RMS
+  - 15V DC
+- **Current Rating:** 3A
+- **Power Consumption:** Not specified directly; however, the current rating indicates the maximum load it can handle.
+- **Contact Resistance:** 10 mΩ max.
+- **Withstanding Voltage:** 100V RMS for a minimum of one minute.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Dimensions of the pin are Ø3.60 x 19.7 mm.
+- **Special Features/Notes:**
+  - Mechanical properties suitable for 14# crown spring.
+  - Plating options available (Sn or Au flash over Ni).
+  - Free general tolerance specifications provided.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Typical Applications:**
+The PIN-A197-55 is typically used in power management applications where reliable electrical connections are required. It can be utilized in various electronic devices, including:
+- Power distribution systems
+- Electrical connectors in consumer electronics
+- Industrial equipment
+- Automotive applications
+
+This component is essential for ensuring stable and efficient power delivery in systems that require robust electrical connections.

@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of X-4 Beacon Module production of BEICHEN TONG ELECTRONICS CO., LTD. from the text:key features\nprecision@hemispheregnss.com\nwww.hemispheregnss.com\nProvide a reliable source of differential corrections with the SBX-\n4™radiobeacon board that augments a separate GPS receiver with free \naccuracy-improving correction data from networks of beacon stations \nlocated throughout the world.\nWith dual-channel architecture to ensure the best station is always \nbeing decoded, the SBX-4 delivers high performance reception and \na wide range of functionality including the capability to be tuned to signal strength or station distance. \nThe \nSBX-4 outputs the industry standard RTCM SC -104 format \naccepted by differential-ready GPS receivers and can also be \nconfigured and monitored with NMEA  0183 protocol.• Certified IEC 61108-4 compliant\n• Dual-channel design allows strongest   \n signal or closest station tracking\n• Dual serial ports accommodate separate  \n RTCM and NMEA communications\n• Patented ceramic filter blocks out-of-band  \n signals, optimizing reception\n• Low power consumption extends battery  \n life\n• Power and signal lock LEDs permit visual  \n verification of receiver status\n• Reverse-compatibility ensures operation  \n in existing SBX–2 and SBX–3 integrations\n• Boot loader provides firmware upgrade  \n reliabilitySBX-4™\nThe Worlds Most Popular DGPS Beacon Module\nHemisphere GNSS, Inc.\n8444 N 90th Street, Suite 120Scottsdale, AZ, USA 85258\nToll-Free: +1-855-203-1770\nPhone: +1-480-348-6380Fax: +1-480-270-5070precision@hemispheregnss.comwww.hemispheregnss.com\nCopyright Hemisphere GNSS, Inc. All rights reserved. Specifications subject to change \nwithout notice.Hemisphere GNSS and Hemisphere GNSS logo are trademarks of Hemisphere GNSS, Inc.Rev. 04/14Authorized Distributor:\nOperating Specifications\nChannels:  2-channel parallel tracking\nFrequency Range:   283.5 to 325.0 kHz\nChannel Spacing:   500 Hz\nMSK Bit Rates:   50, 100, and 200 bps\nOperating Modes:   Manual, automatic and database\nCold Start Time:   < 1 minute typical\nReacquisition Time:  < 2 seconds typical\nDemodulation:   Minimum shift keying (MSK)\nSensitivity:   2.5 µV/m for 6 dB SNR @ 200 bps\nOut of Band Rejection:  60 dB < 204 kHz and > 404 kHz\nSpurious Response:  < -55 dB (0.1 MHz to 1.6 MHz)\nRipple (in-band):   3 dB\nDynamic Range:   100 dB\nFrequency Offset:   ± 8 Hz (~ 27 ppm)\nAdjacent Channel\nRejection:  61 dB ± 1 dB @ fo ± 400 Hz\nAntenna Input Impedance:   50 Ω\nCommunications\nSerial Ports:  2 full-duplex\nInterface Level:   HCMOS, tracks input voltage\nBaud rates:   4800, 9600, 19200, 38400, and 57600\nCorrection Input /  Output Protocol:  RTCM SC-104, NMEA 0183\n \nEnvironmental\nOperating Temperature:  -30°C to +70°C (-22˚F to +158˚F)\nStorage Temperature:  -40°C to +80°C (-40˚F to +176˚F)\nHumidity:  95% non-condensing\nEMC: EN50081-4-2 ESD\nPower\nInput Voltage Range: 3.3 to 5.5 VDC\nPower Consumption: < 0.25 W @ 3.3 VDC (no antenna)\nCurrent Consumption: < 70 mA @ 3.3 VDC (no antenna)\nAntenna Voltage Output:  5 VDC applied externally    \nMechanical\nDimensions:  7 .6 L x 5.1 W x 1.4 H (cm)\n  3.0 L x 2.0 W x 0.54 H (in)\nWeight:    30 g (1.1 oz)\nConnector J1:    1 x 4 pin header, 0.1” spacing \nConnector J2:    2 x 12 pin header, 0.1” spacingPatented front-end filter response\nThe front-end filter in the SBX-4 passes beacon frequencies at a consistent strength while blocking out-of band signals. The \nresult is low-noise, high performance beacon reception. The \nfollowing figure illustrates the frequency response of this filter. \nProprietary commands\n• Select operating mode\n• Query receiver performance and operating status\n• Specify communication baud rate up to 57600 bps\n• Reset receiver from operation to simulate a cold start\n• Tabulate and output results of frequency scan\nPin-out\nJ200 connector Pin(s)    Signal\n 1,3    Analog ground\n 2     Antenna input\n 4     Antenna power output\nJ300 connector Pin(s)   Signal\n 1,2    Antenna power input\n 3,4    Power supply input\n 14     TXD0, output\n 15     TXD1, output\n 16     Lock indicator (active high)\n 17     RXD0, input\n 18     RXD1, input\n 19     External reset input (active low)\n 21,22,23,24   Digital ground\nSBX-4\n'}]
+!==============================================================================!
+### Component Summary: SBX-4 Beacon Module
+
+**Manufacturer:** BEICHEN TONG ELECTRONICS CO., LTD.  
+**Product Code:** SBX-4
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Input Voltage Range: 3.3 to 5.5 VDC
+  - Antenna Voltage Output: 5 VDC (applied externally)
+
+- **Current Ratings:**
+  - Current Consumption: < 70 mA @ 3.3 VDC (no antenna)
+
+- **Power Consumption:**
+  - Power Consumption: < 0.25 W @ 3.3 VDC (no antenna)
+
+- **Operating Temperature Range:**
+  - Operating Temperature: -30°C to +70°C (-22°F to +158°F)
+  - Storage Temperature: -40°C to +80°C (-40°F to +176°F)
+
+- **Package Type:**
+  - Dimensions: 7.6 L x 5.1 W x 1.4 H cm (3.0 L x 2.0 W x 0.54 H in)
+  - Weight: 30 g (1.1 oz)
+
+- **Special Features:**
+  - Dual-channel architecture for optimal signal reception
+  - Certified IEC 61108-4 compliant
+  - Patented ceramic filter for out-of-band signal rejection
+  - Dual serial ports for RTCM and NMEA communications
+  - Boot loader for firmware upgrades
+  - Power and signal lock LEDs for status indication
+  - Reverse compatibility with SBX-2 and SBX-3
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Component Description:
+The SBX-4 is a dual-channel DGPS (Differential Global Positioning System) beacon module designed to enhance the accuracy of GPS receivers by providing reliable differential corrections. It operates within a frequency range of 283.5 to 325.0 kHz and utilizes Minimum Shift Keying (MSK) for demodulation. The module is capable of tracking the strongest signal or the closest station, ensuring optimal performance in various environments.
+
+#### Typical Applications:
+The SBX-4 is primarily used in applications requiring precise positioning and navigation, such as:
+- Marine navigation systems
+- Land surveying and mapping
+- Agricultural guidance systems
+- Autonomous vehicles and drones
+- Any application where enhanced GPS accuracy is critical
+
+This module is particularly beneficial in environments where GPS signals may be weak or obstructed, as it provides a reliable source of correction data from a network of beacon stations worldwide.

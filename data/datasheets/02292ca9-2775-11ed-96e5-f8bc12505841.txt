@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 73251-2200 production of MOLEX from the text:This document was generated on 08/27/2022\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nPart Number: 0732512200\nStatus: Active\nOverview: SMA RF Connectors\nDescription: 50 Ohms, SMA Jack, Right-Angle PCB, 0.76µm Nickel (Ni) Plating, with Jam Nut and\nLockwasher, 50 Pieces Per Tray\nDocuments:\n3D Model Product Specification PS-89675-346-001 (PDF)\n3D Model (PDF) RoHS Certificate of Compliance (PDF)\nDrawing (PDF)\nGeneral\nProduct Family RF/Coax Connectors\nSeries 73251\nOverview SMA RF Connectors\nProduct Name SMA\nStyle PCB\nTaxonomy RF / Coaxial Connectors\nType Subminiature\nUPC 822348020850\nWire/Cable Type N/A\nPhysical\nGender Jack\nKeying to Mating Part None\nNet Weight 5.650/g\nOrientation Right Angle\nPCB Mounting Through Hole\nPackaging Type Tray\nPanel Mount No\nPanel Mount Method N/A\nReverse Polar No\nElectrical\nFrequency 18 GHz\nImpedance 50Ω\nPower / Voltage VOLTAGE: 500 Vrms@Sea Level\nSolder Process Data\nDuration at Max. Process Temperature (seconds) 010\nLead-freeProcess Capability SMC&WAVE\nMax. Cycles at Max. Process Temperature 002\nProcess Temperature max. C 260\nMaterial Info\nReference - Drawing Numbers\nProduct Specification PS-89675-346-001\nSales Drawing SD-73251-220-000, SD-73251-220-PKG-001,\nSD-73251-496-000\nSeries image - Reference only\nEU ELV\nNot Relevant\nEU RoHS China RoHS\nCompliant with\nExemption 6(c)\nREACH SVHC\nContained Per -\nD(2022)4187-DC (10\nJune 2022)\nLead\nHalogen-Free\nStatus\nLow-Halogen\nFor more information, please visit Contact US\nChina ROHS 50 Image\nELV Not Relevant\nRoHS Phthalates Not Contained\nSearch Parts in this Series\n73251 Series\nThis document was generated on 08/27/2022\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 0732512200
+
+**Component Type:**  
+SMA RF Connector
+
+**Description:**  
+The MOLEX 0732512200 is a 50 Ohm SMA Jack connector designed for right-angle PCB mounting. It features a nickel plating of 0.76µm and comes with a jam nut and lockwasher. This connector is part of the 73251 series of RF/Coax connectors and is suitable for high-frequency applications.
+
+### Key Specifications:
+
+- **Voltage Rating:** 500 Vrms @ Sea Level
+- **Current Rating:** Not specified (typically determined by application)
+- **Power Consumption:** Not specified (depends on application)
+- **Operating Temperature Range:** Not explicitly stated; however, the maximum process temperature is 260°C.
+- **Package Type:** Tray (contains 50 pieces)
+- **Special Features/Notes:** 
+  - Right-angle orientation for PCB mounting
+  - Lead-free process capability (SMC & WAVE)
+  - Halogen-free and compliant with RoHS regulations
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+### Typical Applications:
+The SMA RF Connector is commonly used in various applications, including:
+
+- **Telecommunications:** For connecting RF signals in communication devices.
+- **Aerospace and Defense:** In systems requiring high-frequency signal transmission.
+- **Test and Measurement Equipment:** For connecting test instruments to RF devices.
+- **Consumer Electronics:** In devices that require RF connectivity, such as wireless communication systems.
+
+This connector is ideal for applications that demand reliable performance at high frequencies, making it suitable for both commercial and industrial uses.

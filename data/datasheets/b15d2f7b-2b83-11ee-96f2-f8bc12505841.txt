@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDAC01093-JC production of NEDITEK from the text:NDAC01093-JC  \n8,12GHz GaAs Power Amplifier Module \n► Features \n  Frequency: 8~12GHz  \n Typical Power Gain: 23dB  \n Typical Saturated Output Power: 37dBm  \n Typical PAE: 30%  \n Bias Voltage: 8V, ,0.5V (Typical)  \n Package: Hermetic Mental Ceramic  \n \n► General Description \nNDAC01093,JC is 8~12GHz high performance power ampl ifier MMIC. The MMIC is grounded by the metal of th e back side \nthrough via hole on the chip. All chips are 100% te sted. NDAC01093,JC uses dural power supply, the dra in voltage Vd is 8V, \nit can provide 30dBm output power at 8~12GHz. This M MIC is ideal for TR module and wireless communicati on. \n \n► Absolute Maximum Ratings1 \nSymbol Parameter Value Remark \nVd Drain Voltage 9V  \nPin Input Power 19dBm  \nVSWR out Output VSWR 5 : 1  \nTstg Storage Temperature ,55̚150ć ć \nTM Operating Temperature 220ć 1 min, N 2 Protection \n1. Exceeding any one or combination of these limits ma y cause permanent damage  \n\nNDAC01093-JC  \n8-12 GHz GaAs Power Amplifier Module  \n2 / 3 \n \nNEDI Technology Co.,Ltd  \nwww.neditek.com  Tel: +86-25-86858581/2  Fax: +86-25-86858580 \nEmail: sales@neditek.com  \nAdd: No. 521 Zhongshan East Road, Nanjing, China  Note: All the data provided in this datasheet is su bject to change without \nnotice. The right is reserved to make changes to sp ecifications and other \ninformation at any time \n► Electrical Characteristics(Ta=25 ćć ćć) \nSymbol Parameter Test Condition Value Unit Min. Typ. Max.  \nG Small Signal Gain \nVd: 8VˈVg=,0.5V \nFreq˖8~12GHz \nC/W \nPin=14dBm , 30 , dB \nGp Power Gain , 23 , dB \nPout Saturation Power , 37 , dBm \nPAE Power Added Efficiency , 30 , ˁ \n \n► Typical Performance \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 8.0 8.5 9.0 9.5 10.0 10.5 11.0 11.5 12.03536373839404142434445\n Vd=8V,Vg=,0.5V,Pin=14dBm,CWPout(dBm)\nFreq(GHz) ,55°C\n 25°C\n 85°C\n8.0 8.5 9.0 9.5 10.0 10.5 11.0 11.5 12.001020304050\n Vd=8V,Vg=,0.5V,Pin=14dBm,CWPAE(%)\nFreq(GHz) ,55°C\n 25°C\n 85°C\n8.0 8.5 9.0 9.5 10.0 10.5 11.0 11.5 12.0010203040\n Vd=8V,Vg=,0.5V,Pin=,15dBmGain(dB)\nFreq(GHz) ,55°C\n 25°C\n 85°C\nNDAC01093-JC  \n8-12 GHz GaAs Power Amplifier Module  \n3 / 3 \n \nNEDI Technology Co.,Ltd  \nwww.neditek.com  Tel: +86-25-86858581/2  Fax: +86-25-86858580 \nEmail: sales@neditek.com  \nAdd: No. 521 Zhongshan East Road, Nanjing, China  Note: All the data provided in this datasheet is su bject to change without \nnotice. The right is reserved to make changes to sp ecifications and other \ninformation at any time \n► Outline Drawing (mm)  \n \n► Recommend Outline Circuit \n \n\n'}]
+!==============================================================================!
+### Component Summary: NDAC01093-JC
+
+**Description:**
+The NDAC01093-JC is a high-performance GaAs (Gallium Arsenide) power amplifier module designed for operation in the frequency range of 8 to 12 GHz. It is a Monolithic Microwave Integrated Circuit (MMIC) that provides significant power gain and efficiency, making it suitable for various high-frequency applications.
+
+**Key Specifications:**
+- **Frequency Range:** 8 to 12 GHz
+- **Typical Power Gain:** 23 dB
+- **Typical Saturated Output Power:** 37 dBm
+- **Typical Power Added Efficiency (PAE):** 30%
+- **Bias Voltage:** 8V (typical), with gate voltage (Vg) of -0.5V
+- **Package Type:** Hermetic Metal Ceramic
+- **Operating Temperature Range:** -55°C to +85°C
+- **Storage Temperature Range:** -55°C to +150°C
+- **Absolute Maximum Ratings:**
+  - **Drain Voltage (Vd):** 9V
+  - **Input Power (Pin):** 19 dBm
+  - **Output VSWR:** 5:1
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Special Features:**
+- The module is grounded through the metal of the backside via a via hole on the chip.
+- All chips are 100% tested for performance.
+
+**Typical Applications:**
+The NDAC01093-JC is primarily used in:
+- Transmitter and receiver modules for wireless communication systems.
+- TR (Transmit/Receive) modules in radar and satellite communication.
+- Applications requiring high-frequency signal amplification, such as in telecommunications and aerospace.
+
+This power amplifier is ideal for systems that demand high output power and efficiency in the specified frequency range, making it a critical component in modern communication technologies.

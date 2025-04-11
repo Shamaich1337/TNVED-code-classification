@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of PS810-C production of DAHENG OPTICAL THIN FILM CENTER from the text:25.4mm\n1.00in  3°53'  \n  3.0mm\n0.12in    4.72mm\n0.19in  \nS1S2\nE\nPS810-CMATERIALDRAWN\nAPPROVAL REVKMR\nBW22/OCT/16DATE\n29/NOV/16w w w . t h o r  l a b s . c o m\nITEM # APPROX WEIGHTN-BK7\n4.8 gVALUES IN PARENTHESIS ARE CALCULATED\nAND MAY CONTAIN ROUNDOFF ERRORSDRAWING\nPROJECTION\nNAME\nFOR INFORMATION ONLY \nNOT FOR MANUFACTURING PURPOSES2 ROUND WEDGE PRISM, \n25.4mm, -C COAT\nCOPYRIGHT © 2016 BY THORLABS NOTES/SPECIFICATIONS:\nDESIGN WAVELENGTH: 633nm 1.\nCLEAR APERTURE: > 22.86mm 2.\nSURFACE FLATNESS (S1, S2): <λ/10 AT 633nm 3.\nSURFACE QUALITY (S1, S2): 40-20 SCRATCH-DIG 4.\nANGULAR TOLERANCE: 30 arcsec 5.\nDIAMETER TOLERANCE: +0.0/-0.3 mm 6.\nCOATING (S1,S2): BBAR 1050nm-1700nm, Ravg <0.5%, 0  AOI 7.\n\n"}]
+!==============================================================================!
+### Component Summary for PS810-C
+
+**Component Type:** Optical Component (Round Wedge Prism)
+
+**Key Specifications:**
+- **Design Wavelength:** 633 nm
+- **Clear Aperture:** > 22.86 mm
+- **Surface Flatness (S1, S2):** < λ/10 at 633 nm
+- **Surface Quality (S1, S2):** 40-20 Scratch-Dig
+- **Angular Tolerance:** 30 arcseconds
+- **Diameter Tolerance:** +0.0/-0.3 mm
+- **Coating (S1, S2):** BBAR (Broadband Anti-Reflection) coating for 1050 nm - 1700 nm, with average reflectance (Ravg) < 0.5% at 0 degrees angle of incidence (AOI)
+
+**Moisture Sensitive Level:** Not specified in the provided text.
+
+### Description:
+The PS810-C is a round wedge prism made from N-BK7 glass, designed primarily for optical applications. Its primary function is to manipulate light through refraction, which can be utilized in various optical systems. The prism's precise surface flatness and quality ensure minimal distortion and high transmission efficiency, making it suitable for applications requiring high optical performance.
+
+### Typical Applications:
+- **Optical Systems:** Used in laser applications, beam steering, and optical path adjustments.
+- **Measurement Instruments:** Employed in devices that require precise optical measurements and alignments.
+- **Imaging Systems:** Utilized in cameras and other imaging devices to enhance image quality and control light paths.
+- **Research and Development:** Commonly found in laboratories for experiments involving light manipulation and analysis.
+
+This component is particularly valuable in fields such as telecommunications, medical imaging, and scientific research, where high-quality optical components are essential for performance and accuracy.

@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FJ808A28 production of NAKU TECHNOLOGY CO., LTD from the text:www.CivilLaser.comEmail:manager@civillaser.comModel#：FJ808A28\nFiberCoupled808nmLaserwith200umCoreDiameterand8WOutputPower\nFJ808A28isafibercoupledsinglecoresemiconductorlaserwithoutputpowergreaterthan\n8W.Reliableperformance,easytouse.Theopticalfiberparameterscanbecustomized,and\ntheperformanceofthedevicewillbemorereliableandstablewiththeuseofrefrigeration\nsheet.\nParameters：\nTypicalparameters SymbolUnit Value\nOptical\nparametersOutputpower P W 8\nCentralwavelength λ nm 808\nWavelengthrange - nm ±5\nOpticalFiber\nParametersFiberCoreDiameter W105 μm 200\nNumericalaperture NA - 0.22\nConnector - - FCorSMA\nElectrical\nParametersWorkingCurrent Iop A 12\nThresholdcurrent Ith A 1.6\nPowerconversion\nefficiencyη % 40\nDifferentialquantum\nefficiencyηDW/A 0.9~1.1\nWorkingvoltage Vop V 2\nOthers workingtemperature Top\n℃10~30\nStoragetemperature Tst\n℃-20~+60\nlifeexpectancy MTTF h >10000\nTheabovearetypicalparameters,andtheactualvalueswillfluctuateslightly.\nwww.CivilLaser.comEmail:manager@civillaser.comPackagingdimensions:\nPin Explain Pin Explain\n1 Laser+ 2 Laser-\nMattersneedingattention:\n\uf06cAvoidlaserirradiationofeyesandskinwhenlaserworks.\n\uf06cAntistaticmeasuresmustbetakenintransportation,storageanduse.\n\uf06cConstantcurrentpowersupplyisusedtoavoidsurgewhenworking.\n\uf06cItshouldbeusedunderratedcurrentandratedpower.\n\uf06cGoodheatdissipationshouldbeguaranteedwhenthelaserworks.\n\uf06cTheendfaceoftheopticalfibershouldbecleanedbeforeuse.\n\uf06cOpticalfibersshouldnotbendatlargeangles.Thebendingdiametershouldbegreater\nthan300timesthediameterofopticalfibers.\n\n'}]
+!==============================================================================!
+### Component Summary: FJ808A28
+
+**Manufacturer:** NAKU TECHNOLOGY CO., LTD  
+**Product Code:** FJ808A28  
+**Description:** The FJ808A28 is a fiber-coupled semiconductor laser designed for high-output applications. It features a single-core design with an output power exceeding 8W, making it suitable for various industrial and scientific applications. The device is characterized by its reliability and ease of use, with customizable optical fiber parameters and enhanced performance when used with a refrigeration sheet.
+
+#### Key Specifications:
+- **Output Power:** 8 W
+- **Central Wavelength:** 808 nm
+- **Wavelength Range:** ±5 nm
+- **Fiber Core Diameter:** 200 μm
+- **Numerical Aperture:** 0.22
+- **Connector Type:** FC or SMA
+- **Working Current (Iop):** 12 A
+- **Threshold Current (Ith):** 1.6 A
+- **Power Conversion Efficiency (η):** 40%
+- **Differential Quantum Efficiency (ηDW/A):** 0.9 ~ 1.1
+- **Working Voltage (Vop):** 2 V
+- **Operating Temperature Range:** 10°C to 30°C
+- **Storage Temperature Range:** -20°C to +60°C
+- **Mean Time To Failure (MTTF):** >10,000 hours
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Special Features:
+- Customizable optical fiber parameters.
+- Enhanced reliability and stability with refrigeration.
+- Designed for high power output applications.
+
+### Typical Applications:
+The FJ808A28 is primarily used in applications that require high-intensity laser output, such as:
+- **Industrial Laser Processing:** Cutting, welding, and engraving materials.
+- **Medical Applications:** Laser therapy and surgical procedures.
+- **Scientific Research:** Experiments requiring precise laser light.
+- **Optical Communication:** Fiber optic systems where high power is necessary.
+
+### Safety and Handling Notes:
+- Avoid direct laser exposure to eyes and skin during operation.
+- Implement antistatic measures during transportation, storage, and use.
+- Use a constant current power supply to prevent surges.
+- Ensure good heat dissipation during operation.
+- Clean the end face of the optical fiber before use.
+- Avoid sharp bends in optical fibers; maintain a bending diameter greater than 300 times the fiber diameter.
+
+This summary provides a comprehensive overview of the FJ808A28 laser, highlighting its specifications, applications, and important safety considerations.

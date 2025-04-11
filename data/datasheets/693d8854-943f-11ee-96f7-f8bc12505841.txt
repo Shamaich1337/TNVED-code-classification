@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TUN403-407/518-522/650-655 production of CNI OPTOELECTRONICS from the text:Лазер TUN403 -407/518 -522/650 -655 \n \n \nПроизводитель  \n \n \nCHANGCHUN NEW INDUSTRIES OPTOELECTRONICS TECH.CO. , LTD. \nNO.888 JINHU ROAD, HIGH -TECH ZONE, CHANGCHUN, 130103 CHINA  \n \n \n \nОписание  \n \nTUN403-407/518 -522/650 -655 производства компании  CNI (Китай) представляет \nсобой  трехдиапазонный перестраиваемый лазерный источник излучения , \nвыполненный в  виде системы из оптического блока и блока управления питанием \nи параметрами излучения (драйвер питания) . Перестройка длины волны каждого \nспектрального диапазона и  выходной оптической мощности осуществляется с \nпомощью органов управления на консоли  блока питания . Вывод излучения  \nосуществляется через волоконно -оптический кабель . \n \n \nПрименение  \n \n\uf0b7 Лабораторная спектроскопия полупроводниковых материалов  \n\uf0b7 Флуоресцентный анали з органических образцов  \n\uf0b7 Медицинские исследования  \n \n \n \n\nТехнические характеристики  \n \nКол-во полос генерации в спектре \nизлучения  3 \nДиапазоны перестройки центральной \nдлины волны  403-407 нм/518-522 нм/650-655 нм \nМинимальный шаг перестройки  10 пм  \nТип излучения  непрерывное  \nМаксимальная оптическая мощность  20 мВт /15 мВт/15 мВт (соответственно)  \nНестабильность оптической \nмощности  < 3%  \nШирина спектральных полос  < 0.1 нм \nПараметры выходного оптического \nканала  Волокно  MM типа , диаметр сердцевины  \n400 мкм, NA= 0.22,  коннектор  SMA 905 \nПараметры питания  85-264 В (AC) \nРазмер оптического модуля  330 (Д) × 291(Ш) × 155 (В) мм3 \n \n \nКомплектность устройства  \nОптический  модуль – 1 шт  \nДрайвер питания – 1 шт  \nКабели питания оптического модуля – 3 шт \nСетевой кабель питания – 1 шт  \nКлюч включения – 2 шт  \nОптическое волокно SMA905 -SMA905 – 1 шт  \n'}]
+!==============================================================================!
+### Component Summary: TUN403-407/518-522/650-655
+
+**Manufacturer:**  
+Changchun New Industries Optoelectronics Tech. Co., Ltd.  
+Address: No. 888 Jinhu Road, High-Tech Zone, Changchun, 130103 China
+
+**Description:**  
+The TUN403-407/518-522/650-655 is a three-band tunable laser source designed for various optical applications. It consists of an optical module and a power and parameter control unit (driver). The laser allows for wavelength tuning across three spectral ranges, with output power and wavelength adjustments controlled via the console on the power supply unit. The output is delivered through a multimode optical fiber.
+
+**Key Specifications:**
+- **Number of Generation Bands:** 3
+- **Tunable Wavelength Ranges:** 
+  - 403-407 nm
+  - 518-522 nm
+  - 650-655 nm
+- **Minimum Tuning Step:** 10 pm
+- **Type of Emission:** Continuous
+- **Maximum Optical Power:** 
+  - 20 mW (403-407 nm)
+  - 15 mW (518-522 nm)
+  - 15 mW (650-655 nm)
+- **Optical Power Stability:** < 3%
+- **Spectral Bandwidth:** < 0.1 nm
+- **Output Optical Channel Parameters:** 
+  - Fiber Type: Multimode (MM)
+  - Core Diameter: 400 µm
+  - Numerical Aperture (NA): 0.22
+  - Connector: SMA 905
+- **Power Supply Requirements:** 85-264 V (AC)
+- **Optical Module Dimensions:** 330 mm (L) × 291 mm (W) × 155 mm (H)
+
+**Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Special Features/Notes:**  
+- The device includes an optical module, a power driver, three power cables for the optical module, a power network cable, two power switches, and an SMA905-SMA905 optical fiber.
+
+### Typical Applications:
+- **Laboratory Spectroscopy of Semiconductor Materials:** Used for analyzing the optical properties of semiconductor materials.
+- **Fluorescent Analysis of Organic Samples:** Suitable for applications requiring fluorescence detection and analysis.
+- **Medical Research:** Can be utilized in various medical research applications, particularly those involving optical measurements.
+
+This tunable laser source is ideal for research and development in fields requiring precise optical measurements and wavelength tuning capabilities.

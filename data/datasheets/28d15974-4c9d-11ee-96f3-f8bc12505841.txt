@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of LakiBeam1L production of RICHBEAM from the text:About Richbeam\nRichbeam(Beijing) Technology Co., Ltd., formerly known as Yinbing Technol-\nogy, was founded in 2016 and is an integrated chip LiDAR solutions provider.\nThe founding team developed the world’ s ﬁrst integrated LiDAR based on \nnearly 20 years of scientiﬁc research experience in top universities. From the \ncore technology, we continue to innovate and develop a variety of products. \nThe products can be widely used in Autonomous Driving, Smart Transporta-\ntion, Robotics, Industrial Automation, Smart Home and other ﬁelds. Rich-\nbeam has a complete intellectual property certiﬁcation system, and now has \nmore than 30 patents.\nScan and Follow\nContact us\nAdd： 2608, Tower A , Tianzuo International, No. 12, Zhong guancun South \nStreet, Haidian District, Beijing\nWebsite： http://www.richbeam.com/\nPhone： 010-62131929\nFax： 010-62632526Contrast\nProduct model LakiBeam1S LakiBeam1 LakiBeam1L\nRotating frequency 10Hz； 20Hz 10Hz； 20Hz； 25Hz； 30Hz\nData Sample \nRate18kHz （10Hz）  \n14.4kHz(20Hz)36kHz （10Hz） ; 28.8kHz(20Hz)\n36kHz （25Hz） ; 43.2kHz(30Hz)\nHorizontal \nResolution0.2°(10Hz) \n0.5° (20Hz）0.1°(10Hz)\n0.25° (20Hz、 25Hz、 30Hz）Protection \nDistance≥15m@70%\n≥10m@10%≥25m@70%\n≥15m@10%≥40m@70%\n≥20m@10%Range Principle dToF\nHorizontal FOV 270°\nRange Accuracy ±2cm \nPhysical Parameters\nLaser Class Class 1 Eye Safe Dimension 60mm*60mm*80mm(D*W*H)\nWavelength 940nmEnvironmental\nProtectionIP65\nOperating \nTemperature（-25°~60°）Operating\n Voltage9~36V\nStorage Tem-\nperature（-40°~75°）\nWeight 160gPower \nConsumption≤2W\nLakiBeam1L\nIndustry-grade 2D LiDAR \nSmall Size, Light Weight, Zero Blind Spot,\nHigh Quality-price Ratio\nIntroduction\nLakiBeam1L is a single-line LiDAR developed by Richbeam for medium and \nlow-speed scenarios, with a longer detection range, higher data sampling \nrate and higher angular resolution than LakiBeam1. The industrial design is \nexquisite and compact, making the product small in size, light in weight, and \nhigh in performance. It supports ultra-high frequency sampling and optional \nangular resolution, and achieves zero blind spot within the detection range. \nApplications\nLakiBeam1L can be used in industrial automation, port automation. It is \nwidely used in AGV obstacle avoidance as the main laser of indoor robots and \nthe oblique laser of outdoor robots for mapping and obstacle avoidance.\nCore Parameters\nSensor\nScanning \nPrincipleMechanical\nRotation\nRange \nPrincipleTOF Range≥40m@70%reﬂectivity\n≥20m@10%reﬂectivity\nHorizontal Resolution\n&Rotating Frequency10Hz/0.1°; 25Hz/0.25°\n20Hz/0.25°;30Hz/0.25°Horizontal FOV 270° Data Sample Rate 43.2kHzRange Accuracy ±2cm\nOutput\nData Transmission UDP/IP Ethernet (100 Mbps) Data Output Format UDP/USB\nTime SourceInternal \nTimestampData OutputDistance, Angle, \nEcho Intensity, Time\n\n'}]
+!==============================================================================!
+### Component Summary: LakiBeam1L
+
+**Manufacturer:** Richbeam (Beijing) Technology Co., Ltd.  
+**Product Code:** LakiBeam1L
+
+#### Key Specifications:
+- **Voltage Ratings:** 9V to 36V
+- **Current Ratings:** Not specified directly, but power consumption is ≤2W
+- **Power Consumption:** ≤2W
+- **Operating Temperature Range:** -25°C to 60°C
+- **Storage Temperature Range:** -40°C to 75°C
+- **Package Type:** Not explicitly mentioned, but dimensions are 60mm x 60mm x 80mm (D*W*H)
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified
+- **Special Features:**
+  - Class 1 Eye Safe Laser
+  - Zero blind spot detection
+  - High data sampling rate (up to 43.2kHz)
+  - Compact and lightweight design (160g)
+  - IP65 rated for environmental protection
+
+#### Description:
+The LakiBeam1L is an industry-grade 2D LiDAR sensor developed for medium and low-speed applications. It utilizes a mechanical rotation scanning principle and time-of-flight (TOF) range measurement to detect objects. The sensor is designed to provide a longer detection range, higher data sampling rate, and improved angular resolution compared to its predecessor, the LakiBeam1. Its compact design makes it suitable for various applications while ensuring high performance and reliability.
+
+#### Typical Applications:
+The LakiBeam1L is primarily used in:
+- **Industrial Automation:** For monitoring and controlling automated processes.
+- **Port Automation:** To enhance operational efficiency in port environments.
+- **AGV Obstacle Avoidance:** Serving as the main laser for indoor autonomous guided vehicles (AGVs) to navigate and avoid obstacles.
+- **Robotics:** Used in both indoor and outdoor robots for mapping and obstacle avoidance, enhancing their operational capabilities.
+
+This component is particularly valuable in scenarios where precision and reliability are critical, such as in autonomous systems and robotics, making it a versatile choice for various industries.

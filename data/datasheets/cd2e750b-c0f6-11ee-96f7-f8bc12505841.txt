@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-BS2-020-TB28G-55/2E production of DECIGN from the text:2.0±0.10\n2.0±0.101.30±0.20\n0.80±0.20\n5.80±0.30DIMBA  2.0*(PIN NO./2-1) ±0.30\nDIMA  2.0*(PIN NO./2) ±0.50DIMC  2.0*(PIN NO./2-2) ±0.300.45*0.15±0.8\n4.0±0.202.80±0.20\n0.10\nRecommended P.C.B LayoutDIMBDIMENSION\nDIMAPIN\n NO.\n2*34.0\n6.02*4\n2*5\n2*6\n2*78.0\n10.0\n12.0\n14.02*8\n2*1120.02*1018.016.02*9DIMBDIMENSION\nDIMAPIN\n NO.\n2*1222.024.02*13\n2*14\n2*15\n2*1626.0\n28.0\n30.0\n32.02*17\n2*2038.02*1936.034.02*18DIMBDIMENSION\nDIMAPIN\n NO.\n2*21\n42.044.0\n2*222*23\n2*24\n2*2546.0\n48.0\n50.0\n52.02*26\n2*29\n58.02*28\n56.054.02*27DIMBDIMENSION\nDIMAPIN\n NO.\n2*30\n62.064.0\n2*31\n2*322*33\n2*3466.0\n68.0\n70.0\n72.02*35\n2*38\n78.02*37\n76.074.02*36\n40.0 60.02*39\n2*40DIMC DIMC DIMC DIMC\n4.0\n6.0\n8.0\n10.0\n12.0\n14.0\n20.018.016.02.0 22.0\n24.0\n26.0\n28.0\n30.0\n32.0\n38.036.034.0\n40.042.0\n44.0\n46.0\n48.0\n50.0\n52.0\n58.056.054.0\n60.062.0\n64.0\n66.0\n68.0\n70.0\n72.0\n76.074.06.0\n8.0\n10.0\n12.0\n14.0\n20.018.016.0\n22.0\n24.026.0\n28.0\n30.0\n32.0\n38.036.034.0\n42.040.0\n44.046.0\n48.0\n50.0\n52.0\n58.056.054.0\n62.060.0\n64.066.0\n68.0\n70.0\n72.0\n78.076.074.0\n80.06.70±0.20\n1.0±0.202.60±0.206.0±0.200.4\n0.90\n0.92\n6.81.9\n2*1\n0.9A NEW 10.25.2023\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\nPAUL11.15.2023\n11.15.2023\n11.15.2023A\n0.20Tom\nJerryTom\n0.100.300.40\nBS2-xxx-TB28-xx/2XXBS2-TB28/22.00mm Pitch Female Header\n-SMT- Top & Bottom Entry\n2.95mm Profile\nwith Square Locating Pegs\nSpecifications\nElectrical\nCurrent rating: 2A\nInsulation resistance: 1000 MΩ min.\nContact resistance: 20mΩ max.\nOperating temperature: - 40°C to + 105°C\nWithstanding voltage: 500V ACMaterial\nContact: Phosphor Bronze\nPlating: Gold, Tin or Duplex\n*Duplex = Tin on solder, Gold on contact area\nInsulator: PA 9T (black) UL 94V-0\nOperating temperature: -40 °C to +105 °C\nProcessing temperature: +250 °C +0/-5 °C\nfor 5 secondsBS2-xxx-TB28G-xx/2XOrder Code\n2.95±0.2555=Gold Flash\nE=with locating peg\n Reel Packing with cap\nPDF      pdfFactory        www.fineprint.cn\n'}]
+!==============================================================================!
+### Component Summary for TP-BS2-020-TB28G-55/2E
+
+#### Key Specifications:
+- **Voltage Ratings**: 500V AC (withstanding voltage)
+- **Current Ratings**: 2A
+- **Power Consumption**: Not specified directly; however, the current rating indicates the maximum load the component can handle.
+- **Operating Temperature Range**: -40°C to +105°C
+- **Package Type**: SMT (Surface Mount Technology) Female Header
+- **Special Features**: 
+  - 2.95mm profile with square locating pegs
+  - Insulation resistance of 1000 MΩ minimum
+  - Contact resistance of 20mΩ maximum
+  - Plating options include Gold, Tin, or Duplex (Tin on solder, Gold on contact area)
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The TP-BS2-020-TB28G-55/2E is a surface mount female header connector designed for electronic applications. It features a 2.0mm pitch and is suitable for top and bottom entry configurations. The connector is constructed from phosphor bronze contacts with various plating options to ensure reliable electrical connections. The insulator is made from PA 9T material, which is UL 94V-0 rated for flame resistance.
+
+#### Typical Applications:
+This component is typically used in:
+- **Interconnect Solutions**: Connecting various electronic components on printed circuit boards (PCBs).
+- **Consumer Electronics**: Applications where space-saving and reliable connections are critical.
+- **Industrial Equipment**: Environments that require robust connectors capable of withstanding a wide temperature range.
+- **Automotive Applications**: Due to its high-temperature tolerance and durability, it can be used in automotive electronics.
+
+This connector is ideal for applications that require a compact design with reliable performance in harsh conditions, making it suitable for a variety of electronic devices and systems.

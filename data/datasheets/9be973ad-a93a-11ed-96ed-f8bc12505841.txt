@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SIM800C production of SHANGHAI SIMCOM ELECTRONIC LIMITED from the text:Version：1005\nAll specifications are subject to change without prior notice.SIM800C is a complete Quad- band GSM/GPRS solution in a SMT type, which can be embedded in the customer \napplications. \nSIM800C supports Quad- band 850/900/1800/1900MHz, it can transmit Voice, SMS and data information with low power \nconsumption. With tiny size of 17.6* 15.7* 2.3mm, it can smoothly fit into slim and compact demands of customer design.\nGeneral features\n•Quad- band 850/ 900/1800/1900MHz\n•GPRS multi -slot class 1 2/10\n•GPRS mobile station class B\n•Compliant to GSM phase 2/2+\n–Class 4 (2 W @ 850/900MHz)\n–Class 1 (1 W @ 1800/1900MHz)\n•Bluetooth: compliant with 3.0+EDR\n•Dimensions: 17.6* 15.7* 2.3mm\n•Weight: 1.3g\n•Control via AT commands ( 3GPP TS 27.007, 27.005 \nand SIMC omenhanced AT Commands)\n•Supply voltage range 3.4 ~ 4. 4V\n•Low power consumption\n•Operation temperature: -40℃ ~85℃\nSpecifications for GPRS Data \n•GPRS class 1 2: max. 85.6 kbps (downlink /uplink)\n•PBCCH support\n•Coding schemes CS 1, 2, 3, 4\n•PPP- stack\n•USSD\nSpecifications for SMS via GSM/GPRS\n•Point to point MO and MT\n•SMS cell broadcast\n•Text and PDU mode\nSoftware features\n•0710 MUX protocol\n•Embedded TCP/UDP protocol \n•FTP/HTTP\n•MMS\n•POP3/SMT P\n•DTMF\n•Jamming  Detection\n•Audio Record\n•SSL\n•Bluetooth (optional)\nSpecifications for voice\n•Tricodec\n–Half rate (HR)\n–Full rate (FR)\n–Enhanced Full rate (EFR)\n•AMR\n–Half rate (HR)\n–Full rate (FR)\n•Hands -free operation （Echo suppression）\nInterfaces\n42SMT pins including\n•Analog audio interface\n•RTC backup\n•USB interface\n•Serial interface\n•Interface to external SIM 3V/1.8V\n•GPIO\n•ADC\n•GSM Antenna pad\n•Bluetooth Antenna pad\nCompatibility\n•AT cellular command interface\n*Enhance version support  TTS and EATSIM800C\nSmart Machine Smart Decision\nMore about SIMCom SIM800C\nPlease contact:\nTel:   86- 21-32523300  \nFax:  86- 21-32523301\nEmail:  simcom@sim.com\nWebsite: www.sim.com/wm\n\n'}]
+!==============================================================================!
+### Component Summary: SIM800C
+
+**Manufacturer:** Shanghai Simcom Electronic Limited  
+**Product Code:** SIM800C  
+**Version:** 1005
+
+#### Key Specifications:
+- **Voltage Ratings:** Supply voltage range of 3.4V to 4.4V
+- **Current Ratings:** Not explicitly stated, but low power consumption is highlighted
+- **Power Consumption:** Low power consumption (exact figures not provided)
+- **Operating Temperature Range:** -40°C to 85°C
+- **Package Type:** SMT (Surface Mount Technology) with dimensions of 17.6mm x 15.7mm x 2.3mm
+- **Moisture Sensitive Level:** Not specified in the provided text, but typically assessed according to JEDEC J-STD-020E
+- **Special Features:**
+  - Quad-band GSM/GPRS support (850/900/1800/1900 MHz)
+  - Bluetooth 3.0+EDR compliance (optional)
+  - Control via AT commands
+  - Supports various protocols including TCP/UDP, FTP, HTTP, and more
+  - Voice codec support including HR, FR, EFR, and AMR
+  - Hands-free operation with echo suppression
+
+#### Description:
+The SIM800C is a complete Quad-band GSM/GPRS module designed for integration into customer applications. It is a compact solution that allows for voice, SMS, and data transmission with low power consumption, making it suitable for a variety of mobile communication needs. The module is controlled via AT commands, which are standard in GSM communication, allowing for easy integration and control.
+
+#### Typical Applications:
+The SIM800C is widely used in various applications, including:
+- **Telematics:** For vehicle tracking and fleet management systems.
+- **M2M Communication:** Enabling machine-to-machine communication in industrial applications.
+- **Remote Monitoring:** Used in systems that require remote data collection and monitoring.
+- **Smart Home Devices:** Integration into home automation systems for communication purposes.
+- **Wearable Devices:** Used in health monitoring devices that require GSM connectivity.
+- **IoT Solutions:** Facilitating connectivity in Internet of Things applications.
+
+The SIM800C's compact size and versatile communication capabilities make it an ideal choice for developers looking to add GSM/GPRS functionality to their products.

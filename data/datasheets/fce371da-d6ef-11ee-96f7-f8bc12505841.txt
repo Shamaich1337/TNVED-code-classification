@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MGS12i production of SHENZHEN GEMS NAVIGATION ELECTRONICS CO., LTD. from the text:深圳星火源电子有限公司                         深圳市宝安区 46区华创达商务大厦 301、303室 \nTel: +86 -755-29644311     Fax: +86 -755-29644383      Email: sales@gemsnav.com  \nDocument Number 1 20240   Rev 00 2  2018 -07-20  Page  1 / 5 \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\uf06c Design For Wireless Infrastructure  Applications  \n\uf06c Gain 0dB, 21dB And Passive Version Available  \n\uf06c Output port power at the same time intelligent selection of high voltage   \npower supply.   \n\uf06c Response For  \n\uf0d8 GPS:L1,L2,L2C,L5;  \n\uf0d8 Glonass:G1,G2;  \n\uf0d8 Galileo:L1,E1,E2,E5(E5a,E5b),E6;  \n\uf0d8 Beidou2:B1,B2,B3;  \n\uf0d8 IRNSS:L1,L5;  \n\uf0d8 OmniStar  \n\uf06c High Isolations  > 28dB  \nWWW.GEMS NAV.COM  \nMGS12i  \nGPS Splitter  \n \n \n\n \nTel: +86 -755-29644311   Fax: +86 -755-29644383    Email: sales@gemsnav.com   Web: www.gemsnav.com  \nDocument Number 1 20240   Rev 00 2  2018 -07-20  Page  2 / 5 \nDescription  \nThe MGS12i is a GPS device with one end input and two end outputs, which usually divides the received \nsignal from the active GPS receiving antenna into two outputs for GPS receiving equipment.  \n Both outputs of the MGS12i are powered on at the same time. The power divider internally selects the port \nfor powering the active GPS antenna by comparing the voltages.  \n When the voltage values of the two output ports are different, the higher voltage po rt will be used to supply \npower to the active GPS antenna. The other port will have a 200 Ohm DC load to simulate any receiver antenna \nconnected to this port DC loss . \n When the two output ports have the same voltage value, the J1 port is used by default for power supply. \nThe J2 port will have a 200 Ohm DC load.  \n \nSpecifications  \nElectrical Specifications, Operating Temperature -40 to 85° c  \nParameter  Conditions  Min Type Max Units  \nFreq. Range  Ant – Any Port , Unused Ports -50Ω(1) 1.1  1.7 GHz  \nGain (2) \n-Amplified(Norm)  \n-Amplified(Hi Iso ) Ant-Any Port, Unused Ports -50(1)  \n(Gain may be specified by the customer)  20 21 24 \ndB 9 10 11 \n0dB  Ant- any Port , ,Unused Ports - 50Ω(1) -1 0 1 dB \nInput /output  VSWR  All Ports 50 Ω(1)  1.5:1  2.0:1 - \nNois e Figure - \nAmplified  Ant-Any Port, Unused Ports -50Ω(1) \nGain=20dB    2.0 dB \nAmp. Balance  ІJ1-J2І,Ant-Any Port, Unused Ports -50Ω(1)   0.5 dB \nPhase . Balance  Phase(J1 -J2),Ant -Any Port,Unused Port  \n-50Ω(1)   1.0 deg \nDelay  \n-Passive  \n-Amplified  Ant-Any Port, Unused Ports -50Ω(1), L1   3 \nns 5 \nIsolation  \n-Amp/Pass(Norm)  \n \n \n-Amplified ( Hi Iso.)  Adjacent Ports: Ant - 50Ω(1) 13   \ndB Alternate  Ports:  Ant – 50Ω(1) 21   \nAdjacent Ports: Ant - 50Ω(1) 35   \nAlternate  Ports: Ant - 50Ω(1) 44   \nDC IN  DC Input on any RF Output  4  12 VDC  \nDC Ripple  300 Hz to 1MHz    50 mV \npk-pk  \nDevice Current  Current Consumption of Active device, \nexcluded Ant. Cur.   18 20 mA \nAnt/Thru Current(3)  Max source DC current through device    250 mA \nAntenna \nMonitor(4)  Ioc Range for Open  Circuit Threshold  15  75 mA \nIsc Range for Short Circuit Threshold(5)  100  180 mA \nSurge Protection  8/20us   4  KA \n \n \n \nTel: +86 -755-29644311   Fax: +86 -755-29644383    Email: sales@gemsnav.com   Web: www.gemsnav.com  \nDocument Number 1 20240   Rev 00 2  2018 -07-20  Page  3 / 5 \nData Performance   \n VSWR(1575.42MHz)  Gain 0dB(1575.42MHz)  \nIN 1.16   \nOUT1  1.10  0.04dB  \nOUT2  1.08  -0.22dB  \n \n \nOutput port power supply   (V) \nOUT1  5.00  6.00  5.00  6.00  4.00  5.00  5.00  0.00  \nOUT2  5.00  6.00  6.00  5.00  5.00  4.00  0.00  5.00  \nIN 4.81  5.78  5.85  5.75  4.91  4.75  4.71  4.70  \n \n \n \n \n \n \n \n\n \nTel: +86 -755-29644311   Fax: +86 -755-29644383    Email: sales@gemsnav.com   Web: www.gemsnav.com  \nDocument Number 1 20240   Rev 00 2  2018 -07-20  Page  4 / 5 \n \n \nOrder Informations  And Available Options   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPlease contact us for more configuration s and application supports .  Email: Sales@gemsnav.com .  \nPart Number:  \nPower port selection : \nBlank(Standard) - Output port voltage comparison \nand selection  \n \nGain  Options： \nBlank (Standard) -0dB \n-Axx xx=01 -21. Desired Gain Level  \nA-Active, 21dB gain  \n \nConnectors Output  \nBlank (Standard) -N Female  \n-NF N Female      -NM N Male  \n-SF SMA Female    -SM SMA Male  \n-TF TNC Female    -TM TNC Male  \n-BF BNC Female    -BM BNC Male    \n MGS12i  A - NM  \n \nTel: +86 -755-29644311   Fax: +86 -755-29644383    Email: sales@gemsnav.com   Web: www.gemsnav.com  \nDocument Number 1 20240   Rev 00 2  2018 -07-20  Page  5 / 5 \nMechanical  \n \n \n \n \nFrequency reference table   \n \nGllobal/Compass Navigation  \nSatellite Systems(GNSS/CNSS)\nFrequency (MHz)\n11641 1 76\n11881 1 92 1207\n1215\n12191227\n1239\n12451 252\n1259\n12661 268 1 278\n1290\n1535\n15401545\n1550\n1558\n15581 561\n15631575\n1587\n1592\n16021 609\n16162491\nGPS(USA)  L1,L2,L2C,L5\n      L5+/-12\nGlonass(Russia)   G1,G2   \n \n          G1+/-7\nGalileo(Europian)\n \n      E5+/-15\nL1,E1,E2,E5(E5a,E5b),E6  E5a+/-12   E5b+/-12\nCompass (Beidou 2,China)       B3+/-10\nBeidou 1\n(China,Tx(LHCP)/Rx(RHCP)\nIRNSS (India)        L5+/-15 S+/-15\nOmniStar  O+/-14---->E2L1+/-17 E1\nB1+/-2\nL1+/-12L1+/-12 L6+/-5 L2/L2C+/-12\n  B2+/-10 G2+/-7\nE6+/-12 L6+/-5\nLS5 2 6/3 6 1\n \n\n'}]
+!==============================================================================!
+### Component Summary: MGS12i GPS Splitter
+
+**Manufacturer:** Shenzhen Gems Navigation Electronics Co., Ltd.
+
+**Description:**
+The MGS12i is a GPS splitter designed to divide the received signal from an active GPS antenna into two outputs for GPS receiving equipment. It features intelligent power selection, ensuring that the output port with the higher voltage supplies power to the active GPS antenna while simulating a load on the other port.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - DC Input Voltage: 4 to 12 VDC
+  - Output Voltage: Typically around 5 VDC
+
+- **Current Ratings:**
+  - Device Current Consumption: 18 to 20 mA (excluding antenna current)
+  - Maximum Source DC Current: 250 mA
+  - Open Circuit Threshold: 15 to 75 mA
+  - Short Circuit Threshold: 100 to 180 mA
+
+- **Power Consumption:**
+  - Device Current: 18 to 20 mA
+
+- **Operating Temperature Range:**
+  - -40°C to 85°C
+
+- **Package Type:**
+  - Not specified in the provided text, but typically housed in a compact enclosure suitable for electronic devices.
+
+- **Special Features:**
+  - Gain options: 0 dB, 21 dB, and a passive version available.
+  - High isolation levels (> 28 dB).
+  - Automatic voltage comparison for power selection.
+  - Supports multiple GNSS signals (GPS, Glonass, Galileo, Beidou, IRNSS).
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+**Typical Applications:**
+The MGS12i is primarily used in wireless infrastructure applications, particularly in GPS signal distribution. It is suitable for:
+- GPS signal splitting for multiple receivers.
+- Applications requiring high isolation between outputs.
+- Systems that need to manage power supply intelligently for active GPS antennas.
+- Navigation systems that utilize various satellite systems (GPS, Glonass, Galileo, etc.).
+
+This component is essential in scenarios where multiple GPS devices need to share a single antenna signal without interference, ensuring reliable performance in navigation and positioning applications.

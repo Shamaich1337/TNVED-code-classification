@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TCSD-20-D-02.00-01-F production of SAMTEC from the text:(2.00 mm) .0787" TCSD SERIES\nTCSD\nTMM\n.26" (6.6 mm)\nTCSD–08–D–02.00–01–N–R\nWWW.SAMTEC.COMDue to technical progress, all designs, specifications and components are subject to change without notice.\nAll parts within this catalog are built to Samtec’s specifications.\nCustomer specific requirements must be approved by Samtec and identified in a Samtec customer-specific drawing to apply.\nMates with: \nTMM, TMMH, STMM, \nMMT, TW, MTMM, EHT, \nETMM (-SR), ZSTMMTYPE \nSTRIPNO. PINS\nPER ROWEND \nOPTION\n–“XX.XX”\n= Assembled LengthOTHER \nOPTION\n–F = Gold flash on contactAssembled Length\n in INCHES (±1/8")\n1 inch minimum\nLeave blank for standard plating: \n30 µ" (0.76 µm) Gold on contact area–04, –05, \n–06, –07, \n–08, –10, –12, \n–13, –15, –17, \n–20, –22, –25\n(Standard sizes)01PLATING \nOPTIONN LENGTH\nNote: \nTCSD Series assemblies are \nnon-standard, non-returnable.–S\n= Single End –D\n= Double End \n(2.00)\n.0787No. of positions x (2.00) .0787 + (4.00) .157 \n(5.08)\n.200\n(2.00)\n.0787(1.00) .039(4.00)\n.15801(3.17)\n.125 (1.02)\n.040–N\n= Notch PolarizationFor complete specifications \nsee www.samtec.com?TCSD \nInsulator Material:\nBlack Glass Filled Polyester\nContact: \nBeCu\nPlating: \nAu or Sn over 50 µ" (1.27 µm) Ni  \nWire: \n28 AWG 7/36 Stranded, \nTinned, Copper with \nGray PVC Insulator\nCurrent Rating (TCSD/STMM): \n2.8 A per pin\n(2 pins powered)\nOperating Temp Range:\n-40 °C to +105 °C\nLead Size Accepted:\n(0.48 mm) .019" to \n(0.53 mm) .021" \nInsertion Depth:\n(2.87 mm) .113" to  \n(3.17 mm) .125"\nRoHS Compliant: \nYe s\nEJECTOR HEADERS & \nLOCKING CLIPS \nSee TMM Series.\nSee EHT Series.TCSD\n= Socket Strip\n–O\n= Outside Reverse4\n5\n5\nRequires –DXX 5Requires –DXX\n3–P “XX”\n= Position Polarization\n–RW\n= Reverse Wiring1Not available with –O, –M, \n–R, –DXX or –BXX\nBlue or black wire \nopposite position #1.2–B “XX”\n= Breakout\n–M\n= Middle Reverse–R\n= Reversed–SR\n= Strain Relief\n–D “XX”\n= Daisy ChainNo. of positions x \n(2.00) .0787 + (7.874) .3100\nSpecify “XX” as position \nnumber. Same position \nwill be polarized on \nboth ends. 01\n 02\n“XX”\n5"max.\n2"min.Specify “XX” as number of\nconductors to be broken out.\nBreakout starts with Number 1 \nlead indicated by brown wire or \nred stripe. Shown on top side.2" \nmin. \n4" minimum “XX”   \n 1/8" \nDouble  \nRow \nConnectors \nOuter \nMost\n(End of \nassembly)\n 01\n 02SPECIFICATIONS\nTIGER  EYE™  IDC  SOCKET  CABLE\nFor complete scope of \nrecognitions see \nwww.samtec.com/qualityRECOGNITIONS\nPOLARIZING KEYALSO AVAILABLE\n(MOQ Required)\n• Other sizes\n• Other platingsFILE NO. E111594F-219 (Rev 24FEB21)\n™TIGEREYE\nIDC\nSpecify PK-01-07 for polarizing key \n(Available in wheels of six each). \nAlso polarizes SMM \nSeries socket strips.\n'}]
+!==============================================================================!
+### Component Summary for TCSD-20-D-02.00-01-F
+
+**Component Type:** IDC Socket Strip
+
+**Manufacturer:** Samtec
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated in the provided text.
+- **Current Ratings:** 2.8 A per pin (when 2 pins are powered).
+- **Power Consumption:** Not specified; dependent on application and load.
+- **Operating Temperature Range:** -40 °C to +105 °C.
+- **Package Type:** IDC Socket Strip.
+- **Special Features/Notes:**
+  - Mates with various series including TMM, TMMH, STMM, MMT, TW, MTMM, EHT, ETMM (-SR), ZSTMM.
+  - Available with gold flash or standard gold plating (30 µ" on contact area).
+  - RoHS compliant.
+  - Insulator material is black glass-filled polyester; contacts are made of BeCu.
+  - Wire specifications: 28 AWG 7/36 stranded, tinned copper with gray PVC insulator.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Description:**
+The TCSD-20-D-02.00-01-F is an IDC (Insulation Displacement Connector) socket strip designed for reliable electrical connections in various applications. It features a double-ended configuration with a pitch of 2.00 mm (0.0787 inches) and is suitable for use with a variety of mating connectors. The component is constructed from durable materials, ensuring longevity and performance in demanding environments.
+
+**Typical Applications:**
+The TCSD series socket strips are commonly used in:
+- **Data Communication:** Connecting various data lines in telecommunications and networking equipment.
+- **Consumer Electronics:** Providing connections in devices such as computers, printers, and other peripherals.
+- **Industrial Equipment:** Used in control systems and automation where reliable connections are critical.
+- **Power Management:** Facilitating connections in power distribution systems and power supply units.
+
+This component is ideal for applications requiring compact and efficient interconnect solutions, particularly where space is limited and reliability is paramount.

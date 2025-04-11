@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TTL200 production of THORLABS from the text:  5.0mm\n0.20in    22.5mm\n0.89in    28.0mm\n1.10in  \n  148.6mm\n5.85in  70.0mm - 170.0mm\n[2.76in - 6.69in]\nM38 X 0.5\nEXTERNAL THREADINGIMAGE PLANE\nENTRANCE\nPUPIL25.1mm\n0.99in33.0mm\n1.30in36.0mm\n1.42in31.0mm\n1.22in\n  0.8mm\n0.03in  \nB\nTTL200MATERIALDRAWN\nAPPROVAL REVSDT\nJM22/JUN/21DATE\n01/SEP/21w w w . t h o r  l a b s . c o m\nITEM # APPROX WEIGHTN/A\n67 gVALUES IN PARENTHESIS ARE CALCULATED\nAND MAY CONTAIN ROUNDOFF ERRORSDRAWING\nPROJECTION\nNAME f=200 mm INFINITY-CORRECTED\nTUBE LENS\nCOPYRIGHT © 2016 BY THORLABS FOR INFORMATION ONLY \nNOT FOR MANUFACTURING PURPOSESNOTES/SPECIFICATIONS:\nDESIGN WAVELENGTH RANGE: 400-750 nm 1.\nEFFECTIVE FOCAL LENGTH: 200 mm 1% 2.\nMAX ENTRANCE PUPIL DIAMETER: 20 mm 3.\nENTRANCE PUPIL DISTANCE: 70 - 170 mm 4.\nWORKING DISTANCE (REF): 148.6 mm 5.\nFIELD SIZE: 22 mm 6.\nSURFACE QUALITY: 60-40 SCRATCH-DIG 7.\nAXIAL COLOR: DIFFRACTION LIMITED 8.\nRESOLUTION: DIFFRACTION LIMITED 9.\nCOATING: BBAR 350 - 700 nm, Ravg<0.5%, 0  AOI 10.\n\n'}]
+!==============================================================================!
+### Component Summary: TTL200 Tube Lens
+
+**Key Specifications:**
+- **Design Wavelength Range:** 400 - 750 nm
+- **Effective Focal Length:** 200 mm ± 1%
+- **Max Entrance Pupil Diameter:** 20 mm
+- **Entrance Pupil Distance:** 70 - 170 mm
+- **Working Distance (Reference):** 148.6 mm
+- **Field Size:** 22 mm
+- **Surface Quality:** 60-40 Scratch-Dig
+- **Axial Color:** Diffraction Limited
+- **Resolution:** Diffraction Limited
+- **Coating:** BBAR (Broadband Anti-Reflection) for 350 - 700 nm, Ravg < 0.5% at 0° Angle of Incidence
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Description:**
+The TTL200 is an infinity-corrected tube lens designed for optical applications. It features a focal length of 200 mm and is optimized for use within the visible spectrum, specifically from 400 to 750 nm. The lens is constructed to provide high-quality imaging with minimal aberrations, making it suitable for various optical setups.
+
+**Typical Applications:**
+The TTL200 tube lens is commonly used in:
+- **Microscopy:** Enhancing image quality in optical microscopes.
+- **Imaging Systems:** Used in conjunction with cameras and other imaging devices to achieve high-resolution images.
+- **Optical Experiments:** Ideal for laboratory setups requiring precise optical measurements and adjustments.
+- **Laser Applications:** Suitable for focusing and collimating laser beams in various scientific and industrial applications.
+
+This lens is particularly valuable in fields such as biomedical imaging, materials science, and optical engineering, where high fidelity and precision in optical performance are critical.

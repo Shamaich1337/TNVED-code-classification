@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of MVCO90J-7 production of BOWEI INTEGRATED CIRCUITS from the text: \nPage 1 of 1   Bowei Integrated Circuits Co.,Ltd.  VCO  spec  \n  \nB W E IO \nBowei Integrated Circuits Co,.Ltd.  \n \nMVCO 90J-7 SPECIFICATION  \nBOWEI  specification for VCO:  \nElectrical specification  \n \nNo. Parameter  Mini Typical  Max Units  \n1 Frequency range  75  105 MHz \n2 Power supply  4.75 5 5.25 Volt \n3 Tuning Voltage  1  12 Volt \n4 Supply Current    25 mA \n5 Output Power  7 9 11 dBm \n6 Phase noise@ 10KHz offset   -130 -127 dBc/Hz  \n @ 100KHz offset   -150 -147 dBc/Hz  \n @ 1MHz offset   -164 -160 dBc/Hz  \n7 Spurious Suppression    -80 dBc \n8 Harmonic Suppression 2nd   -20 -15 dBc \n9 Pushing   0.3  MHz/Volt  \n10 Pulling   0.3  MHz \n11 Tuning Port Capacitance   1000  pF \n12 Operating Temperature Range  -40  85 ˚C \n13 Turning  Sensitivity   3  MHz/V  \nIf you have any immediate questions don't hesitate to call or e -mail me.  \n \nCase style  \n\uf0b7 Surface mount case style  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Size \nsymbol  Value（mm） \nMin Typ Max \nA 12.5 12.7 12.9 \nB 12.5 12.7 12.9 \nC 11.6 11.8 12.0 \nD 11.6 11.8 12.0 \nE 7.8 8.0 8.2 \nF 5.3 5.5 5.7 \nG 6.95 7.15 7.35 \nH \uf0be 6.0 \uf0be \nI \uf0be 0.8 \uf0be \nJ \uf0be 1.6 \uf0be \nK \uf0be 1.8 \uf0be \nL \uf0be 0.9 \uf0be \nM \uf0be 1.5 \uf0be \nN \uf0be 3.2 \uf0be \n1.  RF Output  \n2.  Vcc  \n3.  V T \nOthers GND                                                                                                                              \n \nNo.113 Hezuo Road  \nShijiazhuang , 050051  \nP.R.C  \nTel- 86-311-87091891  \nFax-86-311-87091282  \nEmail: cjian@cn -bowei.com  \n \n \n \nPART NO  VT Vcc \nRF \nDATE N M K \nL J B D C A  H \n  I \nE \nG F \n\n"}]
+!==============================================================================!
+### Component Summary: MVCO90J-7
+
+**Manufacturer:** Bowei Integrated Circuits Co., Ltd.  
+**Component Type:** Voltage-Controlled Oscillator (VCO)  
+**Primary Function:** The MVCO90J-7 is a voltage-controlled oscillator designed to generate a stable frequency output that can be tuned by varying the input voltage.
+
+#### Key Specifications:
+- **Frequency Range:** 75 MHz to 105 MHz
+- **Power Supply Voltage:** 4.75 V (min) to 5.25 V (max), typical 5 V
+- **Tuning Voltage:** 1 V to 12 V
+- **Supply Current:** 25 mA
+- **Output Power:** 7 dBm (min), 9 dBm (typ), 11 dBm (max)
+- **Phase Noise:**
+  - @ 10 kHz offset: -130 dBc/Hz (min), -127 dBc/Hz (typ)
+  - @ 100 kHz offset: -150 dBc/Hz (min), -147 dBc/Hz (typ)
+  - @ 1 MHz offset: -164 dBc/Hz (min), -160 dBc/Hz (typ)
+- **Spurious Suppression:** -80 dBc
+- **Harmonic Suppression (2nd):** -20 dBc (min), -15 dBc (typ)
+- **Pushing:** 0.3 MHz/V
+- **Pulling:** 0.3 MHz
+- **Tuning Port Capacitance:** 1000 pF
+- **Operating Temperature Range:** -40 °C to 85 °C
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+#### Package Type:
+- **Case Style:** Surface mount
+- **Dimensions:** 
+  - Length (A, B): 12.5 mm (min) to 12.9 mm (max)
+  - Width (C, D): 11.6 mm (min) to 12.0 mm (max)
+  - Height (E): 7.8 mm (min) to 8.2 mm (max)
+  - Other dimensions (F to N) are specified in mm.
+
+### Description:
+The MVCO90J-7 is a voltage-controlled oscillator (VCO) that provides a tunable frequency output, making it suitable for various RF applications. It operates within a frequency range of 75 MHz to 105 MHz and can be tuned using a voltage input, allowing for precise frequency adjustments.
+
+### Typical Applications:
+- **Communication Systems:** Used in RF transmitters and receivers for frequency generation.
+- **Signal Processing:** Employed in applications requiring stable and adjustable frequency signals.
+- **Test Equipment:** Utilized in laboratory settings for testing and measurement purposes.
+- **Phase-Locked Loops (PLLs):** Acts as a frequency source in PLL circuits for synchronization and modulation tasks.
+
+This component is ideal for applications where frequency stability and tuning flexibility are critical, such as in telecommunications and signal processing systems.

@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CL05C5R6CB5NNNC production of SAMSUNG from the text:2. Description 3. Frequency characteristics\nNetwork Analyzer N5230, 100MHz to 20GHz\n          An y data in this sheet are sub ject to chan ge, modif y or discontinue without notice\n          The data sheets include the t ypical data for desi gn reference onl y. If there is an y question \n          re gardin g the data sheets , please contact our sales personnel or a pplication en gineersRated voltage\n(Vdc)50        Multi Layer Ceramic Capacitor (MLCC)\n1. Model : CL05C5R6CB5NNNC\nCapacitance 5.6 ㎊\nCapacitance\ntolerance± 0.25pFThickness (mm) 0.5\nTemperature\ncharateristicsC0GCL05C5R6CB5NNNC Part no.\nSize (inch / mm) 0402/1005|Z|\nESR\n0.010.11101001000\n100 1000 10000 100000|Z|, ESR [Ohm]\nFrequency [MHz]Impedance |Z|,  ESR\n\n'}]
+!==============================================================================!
+### Component Summary for CL05C5R6CB5NNNC
+
+**Component Type:** Multi-Layer Ceramic Capacitor (MLCC)
+
+**Description:**
+The CL05C5R6CB5NNNC is a multi-layer ceramic capacitor designed for various electronic applications. It features a capacitance value of 5.6 µF and is constructed using C0G (NP0) dielectric material, which provides stable capacitance over a wide temperature range and frequency. This capacitor is suitable for high-frequency applications due to its low Equivalent Series Resistance (ESR) and excellent frequency characteristics.
+
+### Key Specifications:
+- **Voltage Rating:** 50 Vdc
+- **Capacitance:** 5.6 µF
+- **Capacitance Tolerance:** ± 0.25 pF
+- **Operating Temperature Range:** Not explicitly stated, but C0G typically operates from -55°C to +125°C.
+- **Package Type:** 0402 (1005 mm)
+- **Thickness:** 0.5 mm
+- **Special Features:** Low ESR, stable capacitance with temperature and voltage.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+### Frequency Characteristics:
+- The capacitor exhibits low ESR values across a frequency range from 100 MHz to 20 GHz, making it suitable for high-frequency applications.
+
+### Typical Applications:
+- **Power Management:** Used in decoupling and filtering applications to stabilize power supply lines.
+- **Signal Processing:** Ideal for RF applications, including filters and oscillators due to its low ESR and stable performance.
+- **Consumer Electronics:** Commonly found in smartphones, tablets, and other portable devices where space is limited and performance is critical.
+
+This summary provides a concise overview of the CL05C5R6CB5NNNC capacitor, highlighting its key specifications and typical applications in electronic circuits.

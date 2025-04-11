@@ -1,0 +1,71 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TX25-H33-NN2u5-50.000MHz production of QUARTZCOM AG from the text:TX25-H \n \nMiniature size , high reliable,  \nTemperature compensated (LV)CMOS TCXO    \n \n 2011/65/EU  RoHS  compliant  Page 1 of 2 08 Sep. 19 \nQuartzCom  AG Fax +41 32 644 24 05 \nBruehlstrasse 15  Tel +41 32 644 24 00 \nCH 2540 Grenchen  E-Mail sales@quartzcom.com  \nSwitzerland   www.quartzcom.com   Designed in Switzerland  \n \n \nTX25 -H 10 -60MHz_Rev3.doc  QuartzCom AG reserves the right to make spec changes to this product  Frequency range  10.000 ~ 60.000 MHz \nStandard frequencies  10, 12, 16, 20, 25, 26, 32, 38.4, 40, and 60 MHz  \nFrequency stability :  \n vs. temperature  \n reference d to (F MAX+FMIN)/2 ≤ ±2.50 ppm over -40 to +85 °C  (∗) \n vs. supply voltage changes  \n reference d to frequency at nominal supply  ≤ ±0. 2 ppm ±5 %  \n vs. load changes  \n reference d to frequency at nominal load  ≤ ±0. 2 ppm ±5 % \n vs. aging @ +40 °C  ≤ ±1.0 ppm  1st year \nG-sensitivity  < 2.0 ppb/g  per axis   \nFrequency tolerance ex. factory   ≤ ±1.0 ppm  @ +25 °C  \nSupply voltage (nominal value ±5 %)  +1.8 V, +2.5 V or  +3.3 V   (∗) \nOutput signal  (LV)CMOS  \nOutput level  VOH > 0.9∗Vcc  /  V OL < 0.1∗Vcc \nOutput load  15 pF  Max.  \nCurrent consumptio n, depending on frequency  5 ~ 10  mA \nTri-state function  \n pin # 1 \uf0e8 high or open  pin # 3 \uf0e8 oscillation  \npin # 1 \uf0e8 low or GND  pin # 3 \uf0e8 high impedance  \nPhase noise (typical value for 20 MHz )  \n \n \n \n   -80 dBc/Hz  @ 10 Hz  \n-110 dBc/Hz  @ 100 Hz  \n-130 dBc/Hz  @ 1 kHz  \n-145 dBc/Hz  @ 10 kHz  \n-152 dBc/Hz  @ 100 kHz  \nOperating temperature range  -40  ~   +105 °C  (∗) \nStorage temperature range  -55  ~ +10 5 °C \nReflow Profiles as per IPC/JEDEC J -STD -020C  ≤  260 °C over 10 sec. Max.  \nMoisture sensitivity  Level 1 (unlimited)  \n(∗) See available options on page #2  Note:  Unless otherwise specified conditions ar e @+25 °C  \n \n \n Pin function  \n # 1 Tri-state  \n#  2 GND  \n#  3 Output  \n#  4 Vcc  \n \n Soldering pattern  \n \n \n Test circuit  \n \n \nTX25-H \n \nMiniature size , high reliable,  \nTemperature compensated (LV)CMOS TCXO    \n \n 2011/65/EU  RoHS  compliant  Page 2 of 2 08 Sep. 19 \nQuartzCom  AG Fax +41 32 644 24 05 \nBruehlstrasse 15  Tel +41 32 644 24 00 \nCH 2540 Grenchen  E-Mail sales@quartzcom.com  \nSwitzerland   www.quartzcom.com   Designed in Switzerland  \n \n \nTX25 -H 10 -60MHz_Rev3.doc  QuartzCom AG reserves the right to make spec changes to this product   \nOrdering code  \n \nTX25-H(2)-(3)(4) -40.000 MHz  Example:  TX25-H25-NN2u5 -40.000MHz  \n \nOscillator type  \n \nTX = TCXO   \n (2) Supply voltage  \n \n18 = 1.8 V  \n25 = 2.5 V  \n33 = 3.3 V  \n (3) Operating temperature  \n \nNN = -40 to + 85 °C  \nNO = -40 to + 90 °C  \nNR = -40 to + 105 °C  \n (4) Frequency stability   \n \n2u5 = ± 2.50  ppm  \n5u0 = ± 5.00  ppm  \n10u = ± 10 .0  ppm  \n \n    \n \nFrequency stability vs. temperature  \n \nppm ≤± 2.50 ≤± 5.00 ≤± 10.0   \n-20 to +70 °C  Ο Ο Ο  ∆  Ask factory  \n-30 to +85 °C  ∆ Ο Ο  Ο  Available  \n-40 to + 85 °C ∆ ∆ Ο  X  Not available \n \n \n \nEnvironmental conditions  \n \nTest IEC \n60068 \nPart…  IEC \n60679- 1 \nClause  MIL-STD- \n202G  \nMethod  MIL-STD- \n810F  \nMethod  MIL-PRF- \n55310D  \nClause  Test conditions (IEC)  \nSealing tests  \n(if applicable)  2-17 5.6.2  112E   3.6.1.2  Gross leak: Test Qc,  \nFine leak: Test Qk  \n \nSolderability  \nResistance to  \nsoldering heat  2-20 \n2-58 5.6.3  208H  \n210F   3.6.52  \n3.6.48  Test Ta method 1,  \nTest Td 1 method 2 , \nTest Td 2 method 2  \nShock *  \n 2-27 5.6.8  213B  516.4  3.6.40  Test Ea, 3 x per axis 100 g,  \n6 ms half -sine pulse  \n \nVibration,  \nsinusoidal*  2-6 5.6.7.1  201A  \n204D  516.4 -4 3.6.38.1  \n3.6.38.2  Test Fc, 30 min per axis, 1 oct/min  \n10 Hz –  55 Hz 0,75 mm; 55 Hz –  2 kHz, \n10 g \n \nVibration,  \nrandom*  2-64 5.6.7.3  214A  514.5  3.6.38.3  \n3.6.38.4  Test Fdb  \n \n \nEndurance tests  \n- ageing \n- extended ageing    \n5.7.1  \n5.7.2  108A    \n4.8.35   \n30 days @ 85 °C  \n1000 h, 2000 h, 8000 h @ 85 °C \nOther environmental conditions on request  \n \n \n'}]
+!==============================================================================!
+### Component Summary: TX25-H33-NN2u5-50.000MHz
+
+**Manufacturer:** QuartzCom AG  
+**Product Code:** TX25-H33-NN2u5-50.000MHz
+
+#### Key Specifications:
+- **Voltage Ratings:** 
+  - Nominal Supply Voltage: +3.3 V (±5%)
+  
+- **Current Ratings:** 
+  - Current Consumption: 5 ~ 10 mA (depending on frequency)
+  
+- **Power Consumption:** 
+  - Not explicitly stated, but inferred from current consumption at nominal voltage.
+  
+- **Operating Temperature Range:** 
+  - -40 °C to +105 °C
+  
+- **Storage Temperature Range:** 
+  - -55 °C to +105 °C
+  
+- **Package Type:** 
+  - Miniature size, specific package type not detailed in the provided text.
+  
+- **Frequency Range:** 
+  - 10.000 MHz to 60.000 MHz (specific frequency for this part is 50.000 MHz)
+  
+- **Frequency Stability:** 
+  - ±2.50 ppm over -40 to +85 °C
+  - ±0.2 ppm for supply voltage changes (±5%)
+  - ±0.2 ppm for load changes
+  - ±1.0 ppm aging at +40 °C (1st year)
+  
+- **G-sensitivity:** 
+  - < 2.0 ppb/g per axis
+  
+- **Output Signal:** 
+  - (LV)CMOS
+  
+- **Output Levels:** 
+  - VOH > 0.9 * Vcc, VOL < 0.1 * Vcc
+  
+- **Output Load:** 
+  - 15 pF Max.
+  
+- **Tri-state Function:** 
+  - Pin #1 controls the tri-state function.
+  
+- **Phase Noise (typical for 20 MHz):**
+  - -80 dBc/Hz @ 10 Hz
+  - -110 dBc/Hz @ 100 Hz
+  - -130 dBc/Hz @ 1 kHz
+  - -145 dBc/Hz @ 10 kHz
+  - -152 dBc/Hz @ 100 kHz
+  
+- **Moisture Sensitivity Level (JEDEC J-STD-020E):** 
+  - Level 1 (unlimited)
+
+#### Component Description:
+The TX25-H33-NN2u5-50.000MHz is a temperature-compensated crystal oscillator (TCXO) designed for high reliability and miniature size. It operates with a CMOS output and is specifically designed to provide precise frequency stability across varying temperatures and supply voltages. This component is compliant with RoHS regulations, making it suitable for environmentally conscious applications.
+
+#### Typical Applications:
+The TX25-H33-NN2u5-50.000MHz TCXO is typically used in applications requiring precise timing and frequency control, such as:
+- **Communication Systems:** Used in mobile phones, GPS devices, and other wireless communication equipment.
+- **Consumer Electronics:** Found in devices like digital cameras, audio equipment, and gaming consoles.
+- **Industrial Equipment:** Utilized in automation systems and control devices where accurate timing is critical.
+- **Medical Devices:** Employed in diagnostic and monitoring equipment that requires stable frequency references.
+
+This TCXO is ideal for applications where space is limited, and high reliability is essential, making it a versatile choice for various electronic designs.

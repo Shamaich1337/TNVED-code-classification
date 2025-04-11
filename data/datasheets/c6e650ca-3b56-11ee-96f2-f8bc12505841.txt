@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ADS-SC8SC8 production of JYEBAO from the text:This part number complies with RoHS.\nNotice: JYEBAO reserves the right to make modifications deemed appropriate.ADS-SC8SC8Stainless SC jack to SC jack \n11GHz VSWR 1.25 \nWeight:  49.79 g50Ω11/16-24UNEF-2A\n11/16-24UNEF-2A\n42.9(ø.748)\n(1.689)ø19\nParts Material Plating (Micro-inch)\nContact Pin Beryllium Copper Gold 4 Over Nickel-Phosphorus Alloy 80 Over Copper 20\nInsulator Teflon\nBody Stainless Steel Passivated\nwww.jyebao.com.tw  \nInterface  \nStandard  MI\nL-STD-348B  \nElectrical Data  \nImpedance  \nFrequency Range  \nVSWR  \nInsertion Loss  \nInsulation Resistance  \nDielectric With standing Voltage (at sea level)  \nWorking Voltage (at sea lev el) 50Ω \nDC to 11G\nHz \n≦1.25 (DC To 11 GHz)  \n≦0.05  x √f(GHz) dB  \n≧5000MΩ  \n3000  V rms  \n1000 V rms  \nMechanical Dat a \nRecommended Coupling Nut T orque \nCoupling Proof Torque \nDurability (mating)  12 to 15 in -lbs \n15 in-l bs \n≧500 \nEnvironmental Data  \nTemperature Range  \nThermal Shock  \nMoisture Resistance  \nCorrosion \nRoHS  -65°C to +165\n°C\nMIL-STD-202, Method 107, Condition B\nMIL-STD-202, Method 206\nMIL-STD-202, Method 101, Condition B\nCompliant\nNotice: JYEBAO reserves the right to make modifications deemed appropriate.  \nADS-SC8SC8Stainless SC Jack to SC Jack \n11GHz VSWR 1.25 \nADS -SC8SC8  \nVSWR\n 1.5\n 1.45\n 1.4\n 1.35\n 1.3\n 1.25\n 1.2\n 1.15\n 1.1\n 1.05\n 1SoftPlot Measurement Presentation\nS11\nStart: 0.0500 GHz Stop: 11.0000 GHz11 S11\n 7.1500 GHz\n 1.23 VSWR\n \n'}]
+!==============================================================================!
+### Component Summary: ADS-SC8SC8
+
+**Description:**
+The ADS-SC8SC8 is a stainless steel SC jack to SC jack connector designed for high-frequency applications. It operates effectively up to 11 GHz with a Voltage Standing Wave Ratio (VSWR) of 1.25, making it suitable for RF (radio frequency) signal transmission. The connector is constructed with high-quality materials, including beryllium copper for the contact pins and Teflon for the insulator, ensuring durability and reliable performance.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Dielectric Withstanding Voltage: 3000 V rms (at sea level)
+  - Working Voltage: 1000 V rms (at sea level)
+
+- **Current Ratings:**
+  - Not explicitly stated; typically determined by the application and connector design.
+
+- **Power Consumption:**
+  - Not applicable for passive connectors like this one.
+
+- **Operating Temperature Range:**
+  - -65°C to +165°C
+
+- **Package Type:**
+  - SC jack connector
+
+- **Special Features or Notes:**
+  - Compliant with RoHS standards.
+  - High durability with a mating durability rating of ≥500 cycles.
+  - Designed for minimal insertion loss (≤0.05 x √f(GHz) dB).
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified, but the component is moisture resistant as per MIL-STD-202, Method 206.
+
+**Typical Applications:**
+The ADS-SC8SC8 connector is primarily used in RF applications, including:
+- Telecommunications equipment
+- Data communication systems
+- Signal processing in laboratory and testing environments
+- High-frequency signal transmission in various electronic devices
+
+This connector is ideal for applications requiring reliable connections in environments where temperature and moisture resistance are critical. Its design and specifications make it suitable for both commercial and military applications, adhering to various military standards for durability and performance.

@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of POA-OS-M145-203-YG production of DECIGN from the text:A NEW 08.28.2023\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\nPAUL08.28.2023\n08.28.2023\n08.28.2023A\n0.20Tom\nJerryTom\n0.100.300.40\nWire to Board Connector5.7mm pitch Dual Row POA-OS-M145\nPOA-OS-M145-2xx-YG\n'}]
+!==============================================================================!
+### Component Summary for POA-OS-M145-203-YG
+
+**Component Type:** Wire to Board Connector  
+**Manufacturer:** DECIGN  
+**Product Code:** POA-OS-M145-203-YG  
+**Series:** POA-OS-M145  
+**Revision Date:** 08.28.2023  
+
+#### Key Specifications:
+- **Voltage Ratings:** Not specified in the provided text; typically, wire to board connectors can handle voltages ranging from 30V to 250V depending on the design.
+- **Current Ratings:** Not specified in the provided text; common current ratings for similar connectors range from 3A to 10A.
+- **Power Consumption:** Not applicable; connectors do not consume power but facilitate power transfer.
+- **Operating Temperature Range:** Not specified in the provided text; typical ranges for connectors are -40°C to +105°C.
+- **Package Type:** Dual Row Connector with a 5.7mm pitch.
+- **Special Features or Notes:** The connector is designed for wire-to-board applications, which allows for secure connections between wires and printed circuit boards.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text; typically, connectors may have an MSL rating based on their materials and design.
+
+#### Description:
+The POA-OS-M145-203-YG is a wire-to-board connector designed for reliable electrical connections in various electronic applications. It features a dual-row configuration with a 5.7mm pitch, allowing for efficient space utilization on printed circuit boards. This type of connector is essential for establishing connections between wires and circuit boards, ensuring stable electrical performance.
+
+#### Typical Applications:
+Wire-to-board connectors like the POA-OS-M145-203-YG are commonly used in:
+- **Power Management:** Connecting power supplies to circuit boards in consumer electronics, industrial equipment, and automotive applications.
+- **Signal Processing:** Facilitating communication between different components on a PCB, such as sensors and microcontrollers.
+- **Data Storage:** Used in devices that require reliable connections for data transfer, such as hard drives and SSDs.
+- **Consumer Electronics:** Found in devices like computers, televisions, and home appliances where secure connections are necessary.
+
+This summary provides a concise overview of the POA-OS-M145-203-YG connector, highlighting its key specifications and typical applications based on the information available.

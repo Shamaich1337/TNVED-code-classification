@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of AXK5A2137YG production of PANASONIC from the text:19.04.2024, 11:50 AXK5A2137YG | P5K/P5KS(0.5mm pitch) - Panasonic\nhttps://www3.panasonic.biz/ac/e/search_num/index.jsp?c=detail_print&part_no=AXK5A2137YG&large_g_cd=1&medium_g_cd=12&small_g_cd=… 1/2\n※Photo may vary from\nactual product.Product Number AXK5A2137YG\nPart Number AXK5A2137YG\nProduct P5K\nDetails Socket\nProduct name P5K/P5KS(0.5mm pitch)\nFeaturesMated heights of 3.0 to 9.0 mm supported with "\nTOUGH CONT ACT " construction provides resistant\nto various environmental conditions.AXK5A2137YG | P5K/P5KS(0.5mm pitch)\nSpec Detail\nAs of April 19, 2024\nSpecifications and design of the products are subject to change without notice for the product improvement.\nItem Specifications\nProduct Number AXK5A2137YG\nPart Number AXK5A2137YG\nConnector Type BOARD-T O-BORAD\nPiece Type 2 Pieces type (Socket)\nSocket/\nHeaderSocket\nApplications Mobile devices, Industrial equipment\nTerminal pitch (mm) 0.5\nNumber of pins 120\nMated height (mm) 3.0mm\nPacking style EMBOSSED TAPE AND PLASTIC REEL\nPacking\nInner carton1,500 pieces (1-reel)\nPacking\nOuter carton3,000 pieces\nSoldering terminals without\nPositioning bosses with\nBody length (L  mm) 33.20\nBody Height (H mm) 2.35\nShort width 5.80\nRecommended PC board pattern\nWidth (mm)6.80\nRated current 0.5A/pin contact (Max. 10A  at total pin contacts)\nDielectric strength 150V AC for 1min.\nInsulation resistance (Min.MΩ)(Initial) 1000\nContact resistance (Max.mΩ) 60\nInsertion and removal life (times) 50\nMolded portion material Heat-resistant resin (UL94V -0)\n19.04.2024, 11:50 AXK5A2137YG | P5K/P5KS(0.5mm pitch) - Panasonic\nhttps://www3.panasonic.biz/ac/e/search_num/index.jsp?c=detail_print&part_no=AXK5A2137YG&large_g_cd=1&medium_g_cd=12&small_g_cd=… 2/2\nProduct\nNumberAXK6A2337YG\nPart Number AXK6A2337YG\nProduct P5K\nDetails Header\nMating\nheight(mm)3.0mm\nProduct\nnameP5K/P5KS(0.5mm\npitch)Contact and Post Material Copper alloy\nSurface treatment material Base: Ni plating Surface: Au plating\nThe other side\n© Panasonic Industry Co., Ltd.\n'}]
+!==============================================================================!
+### Component Summary for AXK5A2137YG
+
+**Product Code:** AXK5A2137YG  
+**Manufacturer:** Panasonic  
+**Product Type:** Socket (P5K/P5KS, 0.5mm pitch)
+
+#### Key Specifications:
+- **Connector Type:** Board-to-Board
+- **Piece Type:** 2 Pieces type (Socket)
+- **Number of Pins:** 120
+- **Terminal Pitch:** 0.5 mm
+- **Mated Height:** 3.0 mm
+- **Rated Current:** 0.5 A per pin (Max. 10 A total across all pin contacts)
+- **Dielectric Strength:** 150 V AC for 1 minute
+- **Insulation Resistance:** Minimum 1000 MΩ (initial)
+- **Contact Resistance:** Maximum 60 mΩ
+- **Insertion and Removal Life:** 50 cycles
+- **Body Dimensions:**
+  - Length (L): 33.20 mm
+  - Height (H): 2.35 mm
+  - Width: 5.80 mm
+- **Recommended PCB Pattern Width:** 6.80 mm
+- **Molded Portion Material:** Heat-resistant resin (UL94V-0)
+- **Packing Style:** Embossed tape and plastic reel
+- **Packing Quantity:**
+  - Inner Carton: 1,500 pieces (1 reel)
+  - Outer Carton: 3,000 pieces
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The AXK5A2137YG is a board-to-board socket connector designed for applications requiring a compact and reliable connection. It features a 0.5 mm pitch and supports a mated height of 3.0 mm. The connector is constructed with a "TOUGH CONTACT" design, which enhances its resistance to various environmental conditions, making it suitable for demanding applications.
+
+#### Typical Applications:
+The AXK5A2137YG is primarily used in:
+- **Mobile Devices:** Such as smartphones and tablets, where space is limited and reliability is crucial.
+- **Industrial Equipment:** For connecting various components within machinery and control systems, ensuring stable electrical connections under operational stresses.
+
+This socket connector is ideal for applications that require a high-density connection with a robust design, ensuring longevity and performance in both consumer electronics and industrial settings.

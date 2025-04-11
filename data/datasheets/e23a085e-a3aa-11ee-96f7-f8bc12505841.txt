@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-PCR-210-W300-99-M025 production of DECIGN from the text:A NEW 08.28.2023\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.  ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\nPAUL08.28.2023\n08.28.2023\n08.28.2023A\n0.20Tom\nJerryTom\n0.100.300.40TP-PCR-2xx-W300-M025\nTP-PCR-2xx-W300-M025.118"（3.0mm）Dual Row\nVertical Header\n'}]
+!==============================================================================!
+Based on the provided information regarding the component with the product code TP-PCR-210-W300-99-M025 from DECIGN, here is a concise summary of its key characteristics and specifications:
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Current Ratings**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Power Consumption**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Operating Temperature Range**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Package Type**: Dual Row Vertical Header.
+- **Special Features or Notes**: The component is part of the TP-PCR series, which suggests it may have specific design features for connectivity.
+- **Moisture Sensitive Level (MSL)**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+
+### Component Description:
+The TP-PCR-210-W300-99-M025 is a dual row vertical header connector. It is designed to facilitate electrical connections between printed circuit boards (PCBs) or between a PCB and other components. The vertical orientation allows for space-efficient designs, making it suitable for applications where height is a constraint.
+
+### Typical Applications:
+This type of connector is commonly used in various electronic applications, including:
+- **Power Management**: Connecting power supplies to circuit boards.
+- **Signal Processing**: Facilitating communication between different circuit elements.
+- **Data Storage**: Connecting storage devices to motherboards or other control units.
+- **Consumer Electronics**: Used in devices such as computers, televisions, and other electronic gadgets where PCB interconnections are necessary.
+
+### Conclusion:
+The TP-PCR-210-W300-99-M025 is a versatile dual row vertical header connector suitable for a wide range of electronic applications. For precise voltage, current ratings, and other specifications, it is recommended to refer to the complete datasheet or manufacturer's documentation.

@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of C2220C105MCR2C7186 production of KEMET ELECTRONICS from the text:KEMET Part Number: C2220C105MCR2C7186\nKPS SMD Comm X7R HV, Ceramic, 1 uF, 20%, 500 VDC, X7R, 2220-2\nBTSIDE VIEW\nDimensions\nL 6mm +/-0.5mm\nW 5mm +/-0.5mm\nT 5mm +/-0.50mm\nB 1.6mm +/-0.3mm\nPackaging Specifications\nPackaging:T&R, 180mm, Plastic Tape\nPackaging Quantity: 200General Information\nSeries: KPS SMD Comm X7R HV\nStyle: Stacked Chip\nDescription:SMD, MLCC, Stacked, Double\nChip, High Voltage, Temperature\nStable\nFeatures:Temperature Stable\nRoHS:Yes\nTermination:Tin\nAEC-Q200: No\nComponent Weight:800 mg\nMiscellaneous:X7R dielectric is not\nrecommended for AC line\nfiltering or pulse applications.\nChip Size: 2220-2\nShelf Life:78 Weeks\nMSL: 1\nSpecifications\nCapacitance: 1 uF\nMeasurement Condition: 1 kHz 1.0Vrms\nCapacitance Tolerance:20%\nVoltage DC:500 VDC\nDielectric Withstanding\nVoltage:750 VDC\nTemperature Range:-55/+125°C\nTemperature Coefficient:X7R\nCapacitance Change with\nReference to +25°C and 0 VDC\nApplied (TCC):15%, 1kHz 1.0Vrms\nDissipation Factor:2.5% 1 kHz 1.0Vrms\nAging Rate:3% Loss/Decade Hour: Referee\nTime is 1000 Hours\nInsulation Resistance: 100 MOhms\n© 2006 - 2022 KEMETStatements of suitability for certain applications are based on our knowledge of typical operating conditions for such applications, but are not intended to constitute - and\nwe specifically disclaim - any warranty concerning suitability for a specific customer application or use. This Information is intended for use only by customers who have the\nrequisite experience and capability to determine the correct products for their application. Any technical advice inferred from this Information or otherwise provided by us\nwith reference to the use of our products is given gratis, and we assume no obligation or liability for the advice given or results obtained.\nGenerated 9/13/2022 - f0b6995a-1421-4043-b809-d455f0efd3b5\n'}]
+!==============================================================================!
+### Component Summary for KEMET Part Number: C2220C105MCR2C7186
+
+#### Key Specifications:
+- **Capacitance**: 1 µF
+- **Capacitance Tolerance**: 20%
+- **Voltage Rating**: 500 VDC
+- **Dielectric Withstanding Voltage**: 750 VDC
+- **Operating Temperature Range**: -55°C to +125°C
+- **Temperature Coefficient**: X7R
+- **Dissipation Factor**: 2.5% at 1 kHz, 1.0 Vrms
+- **Aging Rate**: 3% Loss/Decade Hour (Referee Time: 1000 Hours)
+- **Insulation Resistance**: 100 MΩ
+- **Moisture Sensitivity Level (MSL)**: 1
+- **Package Type**: 2220-2 (6mm x 5mm x 5mm)
+- **Packaging**: Tape and Reel (T&R), 180mm, Plastic Tape
+- **Packaging Quantity**: 200
+- **Component Weight**: 800 mg
+- **RoHS Compliant**: Yes
+- **AEC-Q200**: No
+- **Special Notes**: The X7R dielectric is not recommended for AC line filtering or pulse applications.
+
+#### Description:
+The KEMET C2220C105MCR2C7186 is a surface mount multilayer ceramic capacitor (MLCC) designed for high voltage applications. It features a stacked chip configuration, which enhances its capacitance density while maintaining a compact footprint. The capacitor utilizes an X7R dielectric material, known for its temperature stability and reliability across a wide temperature range.
+
+#### Typical Applications:
+This capacitor is typically used in applications requiring high voltage and stable capacitance, such as:
+- Power supply circuits
+- Filtering applications in communication devices
+- Energy storage in power management systems
+- Decoupling and bypassing in electronic circuits
+- General-purpose applications in consumer electronics and industrial equipment
+
+The component's high voltage rating and temperature stability make it suitable for demanding environments, while its compact size allows for efficient use in space-constrained designs.

@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of T491A105K050AT production of KEMET ELECTRONICS from the text:KEMET Part Number: T491A105K050AT\nT491, Tantalum, MnO2 Tantalum, 1 uF, 10%, 50 VDC, SMD, MnO2, Molded, 7 Ohms, 3216, Height Max = 1.8mm\nP\nDimensions\nFootprint 3216\nL 3.2mm +/-0.2mm\nW 1.6mm +/-0.2mm\nH 1.6mm +/-0.2mm\nT 0.13mm REF\nS 0.8mm +0.2/-0.3mm\nF 1.2mm +/-0.1mm\nA 1.2mm MIN\nB 0.4mm +/-0.15mm\nE 1.3mm REF\nG 1.1mm REF\nP 0.4mm REF\nR 0.4mm REF\nX 0.1mm +/-0.1mm\nPackaging Specifications\nWeight:58.6 mg\nPackaging: T&R, 178mm\nPackaging Quantity: 2000General Information\nSeries: T491\nDielectric:MnO2 Tantalum\nStyle: SMD Chip\nDescription: SMD, MnO2, Molded\nRoHS:Yes\nTermination:Tin\nAEC-Q200: No\nShelf Life:156 Weeks\nMSL: 1\nSpecifications\nCapacitance: 1 uF\nCapacitance Tolerance:10%\nVoltage DC:50 VDC (85C), 33.5 VDC (125C)\nTemperature Range:-55/+125°C\nRated Temperature:85°C\nDissipation Factor: 4% 120Hz 20C\nFailure Rate: N/A\nResistance: 7 Ohms (100kHz)\nRipple Current:104 mA (rms, 100kHz 25C), 93.6\nmA (rms, 85C), 41.6 mA (rms,\n125C)\nLeakage Current: 0.5 uA (5min 20°C)\n© 2006 - 2020 KEMETStatements of suitability for certain applications are based on our knowledge of typical operating conditions for such applications, but are not intended to constitute - and\nwe specifically disclaim - any warranty concerning suitability for a specific customer application or use. This Information is intended for use only by customers who have the\nrequisite experience and capability to determine the correct products for their application. Any technical advice inferred from this Information or otherwise provided by us\nwith reference to the use of our products is given gratis, and we assume no obligation or liability for the advice given or results obtained.\nGenerated 12/12/2020 - 842e467c-a946-473d-80fa-b22fc9428356\n'}]
+!==============================================================================!
+### Component Summary for KEMET Part Number: T491A105K050AT
+
+#### Key Specifications:
+- **Capacitance**: 1 µF
+- **Capacitance Tolerance**: 10%
+- **Voltage Ratings**: 
+  - 50 VDC at 85°C
+  - 33.5 VDC at 125°C
+- **Operating Temperature Range**: -55°C to +125°C
+- **Rated Temperature**: 85°C
+- **Dissipation Factor**: 4% at 120Hz, 20°C
+- **Resistance**: 7 Ohms at 100kHz
+- **Ripple Current**: 
+  - 104 mA (rms, 100kHz, 25°C)
+  - 93.6 mA (rms, 85°C)
+  - 41.6 mA (rms, 125°C)
+- **Leakage Current**: 0.5 µA (5 min, 20°C)
+- **Power Consumption**: Not explicitly stated; typically low for capacitors.
+- **Package Type**: SMD Chip, Footprint 3216 (3.2mm x 1.6mm)
+- **Height**: Max 1.8mm
+- **Moisture Sensitive Level (MSL)**: 1
+- **Shelf Life**: 156 Weeks
+- **RoHS Compliant**: Yes
+- **Termination**: Tin
+- **AEC-Q200 Qualified**: No
+
+#### Description:
+The KEMET T491A105K050AT is a surface-mount device (SMD) tantalum capacitor featuring a manganese dioxide (MnO2) dielectric. It is designed for applications requiring stable capacitance and low leakage current, making it suitable for various electronic circuits.
+
+#### Typical Applications:
+This tantalum capacitor is commonly used in:
+- **Power Management**: Providing decoupling and filtering in power supply circuits.
+- **Signal Processing**: Used in audio and RF applications for coupling and bypassing.
+- **Consumer Electronics**: Found in devices such as smartphones, tablets, and other portable electronics.
+- **Automotive Electronics**: Although not AEC-Q200 qualified, it can still be used in non-critical automotive applications.
+- **Industrial Equipment**: Suitable for applications requiring reliable performance under varying temperature conditions.
+
+This component is ideal for applications where space is limited, and reliability is crucial, given its small footprint and robust operating temperature range.

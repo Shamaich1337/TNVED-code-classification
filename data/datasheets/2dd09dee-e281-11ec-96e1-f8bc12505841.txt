@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2020700008 production of BM-CAPACITOR from the text:Version:14-Mar-2022 Page1of5 Documentnumber:G22176\nSPECIFICATIONFORAPPROVAL\nFilmCapacitorforDC-Linkapplication\nCustomerCode :\nSeries/Type： DKMJ-C420 μF±5% 1100VDC\nOrderingcode : 2020700008\nCustomer ’sP/N:\nDate： 14-Mar-2022\nMANUFACTURERINFORMATION:\nName: GUANGDONGFENGMINGELECTRONICTECH.CO.,LTD.\nAddress：No.1,Longleroad,Huanglongvillage,Beijiaotown,Shundedistrict,Foshan,Guangdong,\n528311,China\nWebsite: www.bm-cap.com\nTel:+86-757-223602928 Fax: +86-757-23608828\nEmail: powerelectech@bm-cap.comFENGMINGELECTRONICTECH.CO.,LTD. APPROVEDBY\nPrepared Checked Approved\nLinhaoZeng JieYang YiHua\nDKMJ-C\n2020700008\nVersion:14-Mar-2022 Page 2of5 Documentnumber:G22176\nnRevisonrecord\nNo. Revisioninformation Recorder Date\n1 New LinhaoZeng 2022-3-14\nDKMJ-C\n2020700008\nVersion:14-Mar-2022 Page 3of5 Documentnumber:G22176\nnOUTLINEDRAWING_(mm)\n M \nØD\nM12×16 Ø12 spacers\nM12 The six outer hexagon nutH±1\n2±0.5\nP±1Ø14H2±1\n25\nMARK\nDKMJ-C\n420μF ±5%\nUN       1100V   DC  \n-40℃～ 85℃terminal torque max.5NmSH\nTracking\nNumber\nTUV.IEC61071\nUL810R\nE215893\nnPLICATIONS\nWidelyusedindifferentkindsofelectronicequipmentDClinkpartforDCsupport,energystorageand\nfilter.\nnFEATURES\nlMetallizedfilm,non-inductivestructure\nlSelf-healingproperty\nlHighripplecurrenthandlingcapabilities\nlLowESR,LowESL\nlLonglifetime\nnSAFETYAPPROVALS\nTUVEN61071:2007,5 μF~2000μF,500VDC~1200VDC ，\n-40/85℃or-40/70℃;CertificateNo：R50321876\nULUL810,VoltageLimits:MAX4000VDC,85 ℃\nCertificateNo:E215893CN(μF) UN(VDC)ΦD(mm) H(mm) H2(mm) P M\n420 1100 86 155 160 32 M6\nTUV..\nR\nE215893\nDKMJ-C\n2020700008\nVersion:14-Mar-2022 Page 4of5 Documentnumber:G22176\nnTESTCONDITIONS\nEnvironmentTemperature: T=+20°C±10°C\nEnvironmentHumidity: RH≤65%\nnQUICKREFERENCEDATA\nReferencestandard IEC61071\nRatedcapacitance CN 420μF\nCapacitancetolerance ±5%\nRatedDCvoltage UN 1100VDC\nOperatingTemperatureRange -40°Cto+85°C(θhotspot≤85℃)\nStoragetemperaturerange -40°Cto+85°C\nTangentoflossangle tgδ≤0.0025(100Hz)\nTestvoltagebetweenterminals Ut-t 1.5xU NDCfor10s\nTestvoltagebetweenterminalandcase Ut-c 3000VACfor10s\nMaximumripplecurrent Irms 70A@40°C\nMaximumpeakcurrent Ipeak 4.2KA\nMaximumsurgecurrent ÎS 12.6KA\nVoltagerisetime dv/dt 10V/μS\nEquivalentseriesresistanceESR\n(typ)1.7mΩ\nEquivalentseriesinductance Ls 80nH\nThermalresistance Rth 4.4k/W\nInsulationresistance(100VDCfor60s) IR IR×Cn≥5000s\nCreepagedistance 30mm\nClearance 17.5mm\nTemporarilyOvervoltage(perday)1.1xUn,30%onloadduration.\n1.15xUnfor30min\n1.2xUnfor5min\n1.3xUnfor1min\nMax.Torqueofterminals 5N.m\nMax.Torqueoflnstallation 10N.m\nFailurerate 50FIT\nDKMJ-C\n2020700008\nVersion:14-Mar-2022 Page 5of5 Documentnumber:G22176\nnCHARACTERISTICS\n0.8 0.9 1.0 1.1 1.2 1.3 1.41000100001000001000000\nWorking/Rated Voltage Ratio(U W/UN)Expected lifetime (h )\n85℃80℃75℃70℃60℃50℃\n           Maximum Irms current4\n2\n0\n-2\n-4\n-6\n-50 0 50 100Tamb (℃)△C/C(%)\nCapacitance\n   (typical)80 90\nTamb (℃)1.4\n1.2\n1.0\n0.8\n0.6\n0.4\n0.2\n0\n30 40 50 60 70I    /I      (A)op RMS\n(typical)\n'}]
+!==============================================================================!
+### Component Summary for BM-CAPACITOR (Product Code: 2020700008)
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - Rated DC Voltage (UN): 1100 VDC
+- **Current Ratings**: 
+  - Maximum Ripple Current (Irms): 70 A @ 40°C
+  - Maximum Peak Current (Ipeak): 4.2 kA
+  - Maximum Surge Current (ÎS): 12.6 kA
+- **Power Consumption**: 
+  - Equivalent Series Resistance (ESR): 1.7 mΩ (typical)
+- **Operating Temperature Range**: 
+  - -40°C to +85°C
+- **Package Type**: 
+  - Cylindrical, dimensions: Diameter (ΦD) = 86 mm, Height (H) = 155 mm
+- **Special Features or Notes**: 
+  - Metallized film, non-inductive structure
+  - Self-healing property
+  - High ripple current handling capabilities
+  - Low ESR and ESL
+  - Long lifetime
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided data.
+
+#### Component Description:
+The component is a **Film Capacitor** designed for DC-Link applications. It features a capacitance of **420 μF** with a tolerance of ±5%. The capacitor is constructed using a metallized film, which provides a non-inductive structure and self-healing properties, making it suitable for high-performance applications.
+
+#### Typical Applications:
+This film capacitor is widely used in various electronic equipment, particularly in **DC link parts for DC support, energy storage, and filtering** applications. Its high ripple current handling and low ESR make it ideal for power electronics, including inverters, converters, and other power management systems. The capacitor's robust design allows it to operate effectively in demanding environments, making it suitable for industrial and renewable energy applications. 
+
+### Safety Approvals:
+- **TUV**: EN61071:2007, applicable for capacitance values from 5 μF to 2000 μF and voltage ratings from 500 VDC to 1200 VDC.
+- **UL**: UL810, with voltage limits up to 4000 VDC at 85°C.
+
+This summary encapsulates the essential characteristics and applications of the BM-CAPACITOR product code 2020700008, providing a clear understanding of its specifications and uses in electronic systems.

@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BY-GSM-04 production of BEYONDOOR from the text:JIAXING BEYONDOOR ELECTORNICS CO.,LTD \nGSM  Antenna   Specification \n( Model: BY-GSM -04 ) \n                         Serial Number \n                                 G S M  A n t e n n a  \n                                                      J i a x i n g  B e y o n d o o r  E l e c t r o n i c s  C o . ,  L t d   \n \n  \n( I ) Product Overview  \nFrequency （MHz ） ：850-1900/900-1800 \nBandwidth （MHz） ：90/280  \nVSWR ≤1.5  \nGain（dBi ） ：3.5  \nMax Input power （W） ：60  \nInput Impedance （Ω） ：50  \nPolarization ：Vertical  \nSize（mm ） ：Φ30(Base)×142(Height)  \nCable Length （m） ：2.5 \nCable Type ：RG174  \nConnector ：SMA/SMB/SMC/BNC/FME/TNC/MCX/MMCX etc. \n 1\nJIAXING BEYONDOOR ELECTORNICS CO.,LTD \nMounting ：Magnetic  \nHousing ：Black  \nStorage Temperature ：-45℃  to+75 ℃  \nOperating Temperature ：-45℃ to+75 ℃  \n( II ) Characteristic curve  \n \n垂直方向图  \n 2\nJIAXING BEYONDOOR ELECTORNICS CO.,LTD \n \n 3\n'}]
+!==============================================================================!
+### Component Summary: BY-GSM-04 GSM Antenna
+
+**Manufacturer:** JIAXING BEYONDOOR ELECTRONICS CO., LTD  
+**Product Code:** BY-GSM-04
+
+#### Key Specifications:
+- **Frequency Range:** 
+  - 850-1900 MHz
+  - 900-1800 MHz
+- **Bandwidth:** 
+  - 90 MHz (for 850-1900 MHz)
+  - 280 MHz (for 900-1800 MHz)
+- **Voltage Standing Wave Ratio (VSWR):** ≤ 1.5
+- **Gain:** 3.5 dBi
+- **Maximum Input Power:** 60 W
+- **Input Impedance:** 50 Ω
+- **Polarization:** Vertical
+- **Size:** Φ30 mm (Base) × 142 mm (Height)
+- **Cable Length:** 2.5 m
+- **Cable Type:** RG174
+- **Connector Types:** SMA, SMB, SMC, BNC, FME, TNC, MCX, MMCX, etc.
+- **Mounting Type:** Magnetic
+- **Housing Color:** Black
+- **Operating Temperature Range:** -45°C to +75°C
+- **Storage Temperature Range:** -45°C to +75°C
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+#### Description:
+The BY-GSM-04 is a GSM antenna designed for wireless communication applications. It operates across a wide frequency range, making it suitable for various GSM networks. The antenna features a vertical polarization and is characterized by its compact size and magnetic mounting, allowing for easy installation on metallic surfaces.
+
+#### Typical Applications:
+The BY-GSM-04 antenna is typically used in:
+- **Mobile Communication:** Enhancing signal reception and transmission for GSM devices.
+- **Telematics:** Used in vehicles for GPS and mobile data communication.
+- **IoT Devices:** Supporting connectivity for Internet of Things applications that rely on GSM networks.
+- **Remote Monitoring Systems:** Facilitating communication in remote locations where GSM coverage is available.
+
+This antenna is ideal for applications requiring reliable wireless communication in both indoor and outdoor environments, given its robust temperature range and high input power handling capability.

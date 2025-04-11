@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 0559350810 production of MOLEX from the text:-\n \n \n \n \n \nDocuments & Resources \nDrawings\nDrawing  559350810_sd.pdf\n \n3D Models and Design Files\n2D Drawing DXF  559350810.dxf\n2D Drawing DXF PDF  559350810.pdf\n3D Model PDF  559350810.pdf\n3D Model  559350810_stp.zip\n \nSpecifications\nApplication Specification  561340000-AS-000.pdf\nPackaging Specification  559359200-200.pdf\nProduct Specification  513820000-PS-001.pdf\nProduct Specification  PS-51382-004-001.pdf\n \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance Statements\nEu RoHSPart Number : 559350810\nProduct Description : 2.00mm Pitch\nMicroClasp Wire-to-Board Header, Single\nRow, Right Angle, 8  Circuits, with PCB Locator\nSeries Number : 55935\nStatus : Active\nProduct Category : PCB Headers and\nReceptacles\nGADSL/IMDS Not Relevant\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Not Low-Halogen per IEC 61249-2-\n21\nREACH SVHC Not Contained per D(2023)3788-DC\n(14 Jun 2023)\nEU RoHS Compliant per EU 2015/863\n-\n-\n-\n-\n-\n-\n-\nREACH SVHC\nLow-Halogen\n \nMultiple Part Industry Compliance Documents\nIPC 1752A Class C\nIPC 1752A Class D\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneral \n \n \nAgency \n \n \nElectrical \n \n \nPhysical \n Status Active\nCategory PCB Headers and Receptacles\nSeries 55935\nDescription 2.00mm Pitch MicroClasp Wire-to-\nBoard Header, Single Row, Right\nAngle, 8  Circuits, with PCB Locator\nApplication Signal, Wire-to-Board\nComponent Type PCB Header\nProduct Family MicroClasp Wire-to-Board System\nProduct Name MicroClasp\nUPC 800756632162\nUL E29179\nCurrent - Maximum per Contact 3.0A\nVoltage - Maximum 250V AC (RMS)/DC\nBreakaway No\nCircuits (Loaded) 8\nCircuits (maximum) 8\nColor - Resin Natural\n \n \nMates With / Use With \nMates with Part(s) \n \n \n \n \n \nThis document was generated on Aug 29, 2023 Durability (mating cycles max) 30\nFirst Mate / Last Break No\nFlammability 94V-0\nGlow-Wire Capable No\nGuide to Mating Part No\nKeying to Mating Part None\nLock to Mating Part Yes\nMaterial - Plating Mating Tin\nMaterial - Plating Termination Tin\nMaterial - Resin Polyester\nNet Weight 806.000/mg\nNumber of Rows 1\nOrientation Right Angle\nPackaging Type Tray\nPC Tail Length 3.20mm\nPCB Locator Yes\nPCB Retention Yes\nPCB Thickness - Recommended 1.60mm\nPitch - Mating Interface 2.00mm\nShrouded Fully\nStackable No\nTemperature Range - Operating -40° to +105°C\nTermination Interface Style Through Hole\nDescription Part Number\nMicroClasp Single Row Receptacle\nHousings51382\nMicroClasp-to-MicroClasp Off-the-\nShelf (OTS) Cable Assemblies15136\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 0559350810
+
+#### Key Specifications:
+- **Voltage Ratings**: Maximum 250V AC (RMS) / DC
+- **Current Ratings**: Maximum 3.0A per contact
+- **Power Consumption**: Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range**: -40°C to +105°C
+- **Package Type**: Tray
+- **Special Features**:
+  - Single row, right angle configuration
+  - 8 circuits with PCB locator
+  - Mating cycles durability: 30
+  - PCB retention and locator features
+  - Flammability rating: 94V-0
+- **Moisture Sensitive Level**: Not specified in the provided information.
+
+#### Component Description:
+The MOLEX 0559350810 is a **MicroClasp Wire-to-Board Header** designed for PCB applications. It features a 2.00mm pitch, single row configuration with 8 circuits. The header is right-angled, allowing for space-efficient connections on printed circuit boards. It is constructed from polyester resin and is plated with tin for both mating and termination interfaces.
+
+#### Typical Applications:
+This component is primarily used in **signal and wire-to-board connections**. Typical applications include:
+- **Consumer electronics**: Connecting various components on PCBs.
+- **Industrial equipment**: Providing reliable connections in machinery and control systems.
+- **Telecommunications**: Used in devices requiring compact and efficient wiring solutions.
+- **Automotive**: Suitable for applications where space and reliability are critical.
+
+The MOLEX 0559350810 is ideal for applications that require a robust and compact connection solution, ensuring reliable performance in a variety of environments.

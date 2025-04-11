@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of HD-BJ180C-1000 production of HENGDA MICROWAVE from the text: \n- 1 - \n===============================================================  \nXI’AN HENGDA MICROWAVE TECHNOLOGY DEVELOPMENT CO., LTD  \n485 FeiTian Road,Xi'an National Civil Aerospace Industrial Base,Xi'an,Shaanxi Province,China 710100  \nTel: +86 -29-85224787    Fax: +86- 29-85264764   www.hengdamw.com                                                                                                                 \nWR51 Waveguide Tube  \n \nPart No: HD- BJ180C-1000 \n1.0 Mechanical Specifications  \n1.1 Waveguide type  WR51 \n1.2 Material  Copper  \n1.3 Dimensions  Interna l (a*b): 12.95*6.477  mm \nR1(max): 0.4 mm \nExternal ( A*B mm) : 14.99*8.51  mm \nR2(max): 1 mm  \nWall Thickness  (t): 1.015 mm  \nTolerance: ± 0.05 mm \n1.4 Length  L=1000 mm  \n  \n2.0 Electrical Specifications  \n2.1 Frequency range  14.5-22 GHz \n2.2 Attenuation (Max ) 0.473 dB/m  \n2.3 Power rating  0.12 M W (CW)  \n  \n3.0 Outline Drawing s \n \n \n \n \n \n \n              \n\n \n- 2 - \n===============================================================  \nXI’AN HENGDA MICROWAVE TECHNOLOGY DEVELOPMENT CO., LTD  \n485 FeiTian Road,Xi'an National Civil Aerospace Industrial Base,Xi'an,Shaanxi Province,China 710100  \nTel: +86 -29-85224787    Fax: +86- 29-85264764   www.hengdamw.com   \nRevision History  \nDate  Revision Changes  \n05-Mar-2006  1 First release  \n \n \n \n        \n \n \n            \n     \n \nInformation furnished is believed to  be accurate and reliable. However, HengDa Microwave  assumes no responsibility for the \nconsequences of use of such information nor for any infringement of patents or other rights of third parties which may result  \nfrom its use. No license is granted by impl ication or otherwise under any patent or patent rights of HengDa Microwave . \nSpecifications mentioned in this publication are subject to change without notice. This publication supersedes and replaces \nall information previously supplied. HengDa Microwave  products are not authorized for use as critical components in life \nsupport devices or systems without express written approval of HengDa Microwave . \n \n \n© 2002 Xi’an HengDa Microwave Technology Development Company  - All rights reserved  \n \nEmail: market @hdmicrowav e.com   \n \nwww. hdmicrowave .com  \n \n"}]
+!==============================================================================!
+### Component Summary for HD-BJ180C-1000
+
+**Manufacturer:** Xi’an Hengda Microwave Technology Development Co., Ltd  
+**Product Code:** HD-BJ180C-1000  
+**Component Type:** Waveguide Tube (WR51)
+
+#### Key Specifications:
+- **Waveguide Type:** WR51
+- **Material:** Copper
+- **Internal Dimensions (a*b):** 12.95 mm x 6.477 mm
+- **External Dimensions (A*B):** 14.99 mm x 8.51 mm
+- **Wall Thickness (t):** 1.015 mm
+- **Length (L):** 1000 mm
+- **Frequency Range:** 14.5 - 22 GHz
+- **Attenuation (Max):** 0.473 dB/m
+- **Power Rating:** 0.12 MW (Continuous Wave, CW)
+- **Tolerance:** ± 0.05 mm
+
+#### Special Features:
+- Designed for high-frequency applications within the specified range.
+- Low attenuation, making it suitable for efficient signal transmission.
+
+#### Moisture Sensitive Level:
+- Not specified in the provided text.
+
+### Description:
+The HD-BJ180C-1000 is a WR51 waveguide tube primarily used for microwave signal transmission. It is constructed from copper, which provides excellent conductivity and durability. The waveguide is designed to operate efficiently within the frequency range of 14.5 to 22 GHz, making it suitable for various high-frequency applications.
+
+### Typical Applications:
+- **Telecommunications:** Used in microwave communication systems for signal transmission.
+- **Radar Systems:** Employed in radar technology for effective signal propagation.
+- **Satellite Communication:** Utilized in satellite systems for transmitting and receiving microwave signals.
+- **Research and Development:** Commonly used in laboratory settings for experiments involving microwave frequencies.
+
+This waveguide tube is essential for applications requiring minimal signal loss and high power handling capabilities, making it a critical component in advanced microwave systems.

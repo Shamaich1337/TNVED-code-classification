@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of GL3516-BVM-NON-AUD production of GPIXEL from the text:GL3516 Product F lyer\n3.5um 16K line scan CMOS image sensor\nGL3516isa16384 x 2resolution, 3.5μmsquare pixel,linescanCMOS\nimage sensor thatsupports a120kHzlinerateinsinglelinemode and60\nkHzlinerateinduallinemode.GL3516ispinandfootprint compatible\nwithGpixel’s existing GL70088Klinescan sensor .Itsfeatures makeitan\nidealsolution forindustrial inspection applications benefitting fromhigh-\nspeed scanning and16Kresolution, including production inspections\nforlithium battery testing, flatpaneldisplays, PCBs, labels, andrailways .\nGL3516 isoffered inbothcolor andmonochrome versions . The\nmonochrome sensor supports single andduallinemodes . The color\nsensor supports duallinemode.\nGL3516isassembled inaCOBpackage withWCuheatsinkforoptimal\nheatdissipation andwithaconnector foreasyintegration .\nApplications\n•Battery inspection\n•FPD inspection\n•PCB inspection\n•Printing inspection\n•Rail and train inspectionKey Features\n•High Speed\n•High Resolution\n•Low Power Consumption\n•Easy Integration\ninfo@gpixel.com\nwww.gpixel.com\n\nSensor Specifications\nPixel size 3.5 μm x 3.5 μm Effective resolution 16384(H) x 2(V)\nFull well capacity 5.6ke- Effective OB columns 2x 76 columns (L + R)\nDynamic range 56.6dB Temporal noise 8.2 e-\nAngular Response 85% @ 20° Peak QE 57.1% @ 530nm\nDark Current 0.8ke-/pix/sMax. frame \nrate(lines/s)60 kHz @ 1 -line mode, \n30 kHz @ 2 -line mode \nData output format 10-bit Supply voltage3.3V for analog\n1.8V for digital\n1.8V-3.3V for IO\nData output format 10-bit Supply voltage3.3V for analog\n1.8V for digital\n1.8V-3.3V for IO\nData output format 10-bit Supply voltage3.3V for analog\n1.8V for digital\n1.8V-3.3V for IO\nData rate Max. 24 Gbps Channel Multiplexing 25/13/7/4\nOutput data interface25-Sub-LVDS data \n3-DDR clock outputChroma Mono & Color \nPower consumption <1.9W Package 168 pins COB\nContact Gpixel HQ \nAll rights reserved.\nSubject to change without noticeTel: +86- 0431-85077785\nEmail:  info@gpixel.com\nWebsite: www.gpixel.com\nBuilding #5, Optoelectronic \nInformation Industrial Park, \n#7691 ZiyouRoad, \nChangchun, Jilin, China.Ordering Information\nSensor Part No.\nGL3516-BVC-NON-AUD\nColor version, no microlens , sealed D263® T glass \nwithout AR coating. GL3516-BVM-NON-AUD\nMono version, no microlens , sealed D263® T glass \nwithout AR coating. \nScan me for more information:\n'}]
+!==============================================================================!
+### Component Summary: GL3516-BVM-NON-AUD
+
+**Description:**
+The GL3516-BVM-NON-AUD is a 3.5μm 16K line scan CMOS image sensor produced by Gpixel. It features a resolution of 16384 x 2 pixels and is designed for high-speed scanning applications. This sensor is particularly suitable for industrial inspection tasks, including battery testing, flat panel display inspection, PCB inspection, printing inspection, and railway inspections. The GL3516 is available in both monochrome and color versions, with the monochrome version supporting both single and dual line modes.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Supply Voltage: 3.3V (analog), 1.8V (digital), 1.8V-3.3V (I/O)
+  
+- **Current Ratings:**
+  - Not explicitly stated, but power consumption is <1.9W.
+  
+- **Power Consumption:**
+  - <1.9W
+  
+- **Operating Temperature Range:**
+  - Not specified in the provided text.
+  
+- **Package Type:**
+  - 168 pins COB (Chip-On-Board) package with a WCu heatsink for optimal heat dissipation.
+  
+- **Special Features or Notes:**
+  - High-speed operation with a maximum line rate of 120 kHz in single line mode and 60 kHz in dual line mode.
+  - Supports a data output format of 10-bit.
+  - High dynamic range of 56.6 dB and low temporal noise of 8.2 e-.
+  - Peak quantum efficiency of 57.1% at 530 nm.
+  
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+**Typical Applications:**
+The GL3516-BVM-NON-AUD is primarily used in various industrial inspection applications, including:
+- **Battery Inspection:** Ensuring the quality and safety of lithium batteries.
+- **Flat Panel Display (FPD) Inspection:** Checking for defects in display panels.
+- **PCB Inspection:** Verifying the integrity and quality of printed circuit boards.
+- **Printing Inspection:** Monitoring print quality and consistency.
+- **Rail and Train Inspection:** Inspecting components and systems for safety and reliability.
+
+This sensor's high resolution and speed make it an ideal choice for applications requiring precise imaging and rapid data acquisition.

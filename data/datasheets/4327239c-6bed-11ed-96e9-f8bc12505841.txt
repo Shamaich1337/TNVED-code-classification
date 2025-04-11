@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NUV 10X production of SUZHOU FLYINGMAN PRECISION INSTRUMENTS from the text:NUV 10X  \n \nSuzhou  Flyingman  Precision  Instruments  Co., Ltd \nAdd:  No.12,  Huatuo  Rd, SND,  Suzhou  City,  Jiangsu  Province,  China   \n \n \n \nItem  NA WD(mm)  f(mm)  R(μm) On object  \n（mm） \nWF 10X24  Wavelength  \n10X 0.25 26.85  20 2.5 1.2 355nm \n \n\n'}]
+!==============================================================================!
+### Component Summary: NUV 10X
+
+**Manufacturer:** Suzhou Flyingman Precision Instruments Co., Ltd  
+**Address:** No.12, Huatuo Rd, SND, Suzhou City, Jiangsu Province, China  
+
+#### Key Specifications:
+- **Wavelength:** 355 nm
+- **Magnification:** 10X
+- **Numerical Aperture (NA):** 0.25
+- **Working Distance (WD):** 26.85 mm
+- **Field of View (f):** 20 mm
+- **Resolution (R):** 2.5 μm
+- **On Object Measurement:** 1.2 mm
+
+#### Description:
+The NUV 10X is a specialized optical lens designed for ultraviolet (UV) applications, particularly at a wavelength of 355 nm. It features a magnification of 10X, making it suitable for detailed imaging and analysis in various scientific and industrial settings. The lens has a numerical aperture of 0.25, which indicates its ability to gather light and resolve fine details.
+
+#### Typical Applications:
+The NUV 10X lens is typically used in:
+- **Microscopy:** For high-resolution imaging of samples under UV light.
+- **Material Analysis:** In laboratories for examining the properties of materials that fluoresce or absorb UV light.
+- **Photolithography:** In semiconductor manufacturing processes where precise imaging is crucial.
+- **Biological Research:** For studying biological samples that require UV illumination.
+
+This lens is particularly valuable in fields that require high precision and clarity in UV light applications, such as photonics, materials science, and biological imaging.

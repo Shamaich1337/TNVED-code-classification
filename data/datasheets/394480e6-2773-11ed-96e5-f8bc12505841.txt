@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BFR 182W H6327 production of INFINEON TECHNOLOGIES from the text:2014-04-07 1BFR182W\n12 3Low Noise Silicon Bipolar RF Transistor\n• For low noise, high-gain broadband amplifiers at\n   collector currents from 1 mA to 20 mA\n• fT = 8 GHz, NFmin = 0.9 dB at 900 MHz\n• Pb-free (RoHS compliant) and halogen-free package\n   with visible leads\n• Qualification report according to AEC-Q101 available\nESD (Electro static discharge) sensitive device, observe handling precaution!\nType Marking Pin Configuration Package\nBFR182W RGs 1=B 2=E 3=C SOT323\nMaximum Ratings  at TA = 25 °C, unless otherwise specified\nParameter Symbol Value Unit\nCollector-emitter voltage VCEO12 V\nCollector-emitter voltage VCES20\nCollector-base voltage VCBO20\nEmitter-base voltage VEBO2\nCollector current IC35 mA\nBase current IB4\nTotal power dissipation1) \nTS ≤ 90 °CPtot250 mW\nJunction temperature TJ150 °C\nAmbient temperature TA -65 ... 150\nStorage temperature TStg -65 ... 150\nThermal Resistance\nParameter Symbol Value Unit\nJunction - soldering point2) RthJS 240 K/W\n1TS is measured on the collector lead at the soldering point to the pcb\n2For the definition of RthJS please refer to Application Note AN077 (Thermal Resistance Calculation)\n2014-04-07 2BFR182W\nElectrical Characteristics at TA = 25 °C, unless otherwise specified\nParameter Symbol Values Unit\nmin. typ. max.\nDC Characteristics\nCollector-emitter breakdown voltage I\nC = 1 mA, IB = 0 V(BR)CEO12 - - V\nCollector-emitter cutoff current \nVCE = 4 V, VBE = 0  \nVCE = 15 V, VBE = 0 V, TA = 85 °C\n(verified by random sampling)ICES  \n-- \n15 \n3070nA\nCollector-base cutoff current V\nCB = 4 V, IE = 0 ICBO- 1 30\nEmitter-base cutoff current \nVEB = 1 V, IC = 0 IEBO- - 50\nDC current gain \nIC = 10 mA, VCE = 8 V, pulse measuredhFE70 100 140 -\n2014-04-07 3BFR182W\nElectrical Characteristics at TA = 25 °C, unless otherwise specified\nParameter Symbol Values Unit\nmin. typ. max.\nAC Characteristics (verified by random sampling)\nTransition frequency \nIC = 15 mA, VCE = 8 V, f = 500 MHzfT6 8 - GHz\nCollector-base capacitance \nVCB = 10 V, f = 1 MHz, VBE = 0 ,  \nemitter groundedCcb- 0.34 0.5 pF\nCollector emitter capacitance \nVCE = 10 V, f = 1 MHz, VBE = 0 ,  \nbase groundedCce- 0.26 -\nEmitter-base capacitance \nVEB = 0.5 V, f = 1 MHz, VCB = 0 ,  \ncollector groundedCeb- 0.8 -\nMinimum noise figure \nIC = 3 mA, VCE = 8 V, ZS = ZSopt,  \nf = 900 MHz \nIC = 3 mA, VCE = 8 V, ZS = ZSopt,  \nf = 1.8 GHzNFmin  \n \n-\n \n-  \n0.9\n \n1.3  \n-\n \n-dB\nPower gain, maximum stable 1) \nIC = 10 mA, VCE = 8 V, ZS = ZSopt, ZL = ZLopt ,  \nf = 900 MHzGms - 19 - dB\nPower gain, maximum available 2) \nIC = 10 mA, VCE = 8 V, ZS = ZSopt, ZL = ZLopt ,  \nf = 1.8 GHzGma- 12.5 - dB\nTransducer gain \nIC = 10 mA, VCE = 8 V, ZS = ZL = 50 Ω,  \nf = 900 MHz \nIC = 10 mA, VCE = 8 V, ZS = ZL = 50 Ω,  \nf = 1.8 GHz|S21e|2  \n \n-\n \n-  \n15.5\n \n10  \n-\n \n-dB\n1Gms = |S21 / S12|\n2Gma = |S21e / S12e| (k-(k²-1) 1/2)\n2014-04-07 4BFR182W\nTotal power dissipation  Ptot = ƒ(TS)\n0 20 40 60 80 100 120 °C 150\n TS0 50 100 150 200 mW300 PtotPermissible Pulse Load  RthJS =  ƒ(tp)\n10 -7 10 -6 10 -5 10 -4 10 -3 10 -2 10 0 s\ntp1 10 2 10 3 10 \nK/WRthJS\n0.5\n0.20.10.050.020.010.005D = 0\nPermissible Pulse Load\nPtotmax /PtotDC  =  ƒ(tp)\n10 -7 10 -6 10 -5 10 -4 10 -3 10 -2 10 0 s\ntp0 10 1 10 2 10 \n-Ptotmax /PtotDC\nD = 0\n0.0050.010.020.050.10.20.5\n2014-04-07 5BFR182W Package SOT323\n\n2014-04-07 6BFR182W\nEdition 2009-11-16\n Published byInfineon Technologies AG81726 Munich, Germany\n \n\uf8e9 2009 Infineon Technologies AG\nAll Rights Reserved.  Legal Disclaimer The information given in this document shall in no event be regarded as a guaranteeof conditions or characteristics. With respect to any examples or hints given herein,any typical values stated herein and/or any information regarding the application ofthe device, Infineon Technologies hereby disclaims any and all warranties andliabilities of any kind, including without limitation, warranties of non-infringement ofintellectual property rights of any third party.  Information For further information on technology, delivery terms and conditions and prices,please contact the nearest Infineon Technologies Office ( <www.infineon.com\n>).\n  Warnings Due to technical requirements, components may contain dangerous substances.For information on the types in question, please contact the nearest InfineonTechnologies Office.Infineon Technologies components may be used in life-support devices or systemsonly with the express written approval of Infineon Technologies, if a failure of suchcomponents can reasonably be expected to cause the failure of that life-supportdevice or system or to affect the safety or effectiveness of that device or system.Life support devices or systems are intended to be implanted in the human body orto support and/or maintain and sustain and/or protect human life. If they fail, it isreasonable to assume that the health of the user or other persons may beendangered.\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Infineon:   \n\xa0 BFR 182W E6327\xa0 BFR 182W H6327\n'}]
+!==============================================================================!
+### Component Summary: BFR 182W H6327
+
+**Description:**
+The BFR 182W is a low noise silicon bipolar RF transistor designed for use in low noise, high-gain broadband amplifiers. It operates effectively at collector currents ranging from 1 mA to 20 mA, making it suitable for various RF applications. The device features a high transition frequency (fT) of 8 GHz and a minimum noise figure (NFmin) of 0.9 dB at 900 MHz, indicating its capability for low-noise amplification.
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Collector-emitter voltage (VCEO): 12 V
+  - Collector-emitter voltage (VCES): 20 V
+  - Collector-base voltage (VCBO): 20 V
+  - Emitter-base voltage (VEBO): 2 V
+
+- **Current Ratings:**
+  - Collector current (IC): 35 mA
+  - Base current (IB): 4 mA
+
+- **Power Consumption:**
+  - Total power dissipation (Ptot): 250 mW (at TS ≤ 90 °C)
+
+- **Operating Temperature Range:**
+  - Junction temperature (TJ): -65 °C to 150 °C
+  - Ambient temperature (TA): -65 °C to 150 °C
+  - Storage temperature (TStg): -65 °C to 150 °C
+
+- **Package Type:**
+  - SOT323 (small outline transistor package)
+
+- **Special Features:**
+  - Pb-free (RoHS compliant) and halogen-free package with visible leads.
+  - ESD sensitive device; handling precautions are advised.
+  - Qualification report available according to AEC-Q101.
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided text.
+
+**Typical Applications:**
+The BFR 182W is primarily used in RF applications, particularly in low noise amplifiers for communication systems. Its characteristics make it suitable for:
+- RF signal amplification in wireless communication devices.
+- Broadband amplifiers in various electronic circuits.
+- Applications requiring high gain and low noise figures, such as in receivers and transmitters.
+
+This transistor is ideal for engineers and designers looking to enhance the performance of RF circuits, especially in environments where low noise is critical for signal integrity.

@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ECS-.327-12.5-34B-TR production of ECS from the text: \n \n15351 West 109th Street   |  Lenexa , KS 66219   |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \n \n   \n \n \n \n  PARAMETERS  CONDITIONS  ECX-31B UNITS  \n  MIN  TYP MAX   \nFrequency    32.768   KHz \nFrequency Tolerance  @ +25°C    ± 20 * ppm  \nTemperature Coefficient   -0.028  -0.034  -0.040 ppm/ °C² \nShunt Capacitance  Co  1.05   pF \nLoad Capacitance  Specify in P/N   12.5   pF \nDrive Level  DL  0.1 1.0 μW \nEquivalent Series Resistance  R1   70K Ω \nInsulation Resistance  @ 100V DC  500M    Ω \nTurnover Temperature   +20 +25 +30 °C \nOperating Temperature  Topr -40  +85 °C \nStorage Temperature  Tstg -55  +125  °C \nAging ( First  Year)  @ +25°C ±3°C    ±3 ppm  \nECS -  FREQUENCY ABBREVIATION      LOAD \nCAPACITANCE       PACKAGE  CUSTOM OPTIONS  \n        Tolerance                                                    PACKAGING  PAD CONNECTIONS  \n1 In/Out  \n2 Out/In  The miniature ECX -31B is the most cost effective SMD Tuning \nFork  Crystal today. The 3.2 x 1.5 x 0.9 mm ceramic package is \nideal high density circuit boards.  Offerings in extended \ntemperature and frequency tolerance as low at ±10 ppm . \nDIMENSIONS (mm)  ECX-31B \nSMD CRYSTAL  \n• Low Profile  \n• 3.2 x 1.5 mm Footprint  \n• Extended Temp . Range  \n• RoHS Compliant  \n• Low Power RTC Applications \nsuch as STM32 AN2867  \n \nFigure 1)  Top, Side , and Bottom  views  \nRequest a Sample  \n12.5  = 12.5  pF \n9 = 9 pF  \n7 = 7 pF  \n6 = 6 pF  \n Figure 2)  Suggested Land Pattern  ECX-31B SMD CRYSTAL  \n-34B = ECX -31B Blank = ±20 ppm  \n* C = ± 10 ppm  \n OPERATING CONDITIONS / ELECTRICAL CHARACTERISTICS  \nTR = 3K/Reel  \nTR9 = 9K/Reel  .327  = 32.768  KHz \n \nPART NUMBERING GUIDE:  Example ECS -.327 -12.5 -34B-TR \nRev. 2022 *Contact ECS for availabil ity ECS \n \n \n15351 West 109th Street   |  Lenexa , KS 66219   |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \n   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n SOLDER PROFILE  \nPeak solder Temp +260°C Max 10 sec Max.  \n2 Cycles Max.  \nMSL 1, Lead Finish Au  \nPOCKET TAPE  DIMENSIONS (mm)  \nECX-31B \nSMD CRYSTAL  \nFigure 1) Suggested Reflow Profile  \n'}]
+!==============================================================================!
+### Component Summary for ECS-.327-12.5-34B-TR
+
+**Component Type:** SMD Crystal Oscillator (ECX-31B)
+
+**Description:**
+The ECS-.327-12.5-34B-TR is a miniature SMD tuning fork crystal oscillator designed for high-density circuit boards. It operates at a frequency of 32.768 kHz and is housed in a compact ceramic package measuring 3.2 x 1.5 x 0.9 mm. This crystal is RoHS compliant and is suitable for low power real-time clock (RTC) applications.
+
+### Key Specifications:
+- **Frequency:** 32.768 kHz
+- **Frequency Tolerance:** ±20 ppm @ +25°C
+- **Temperature Coefficient:** -0.028 to -0.040 ppm/°C²
+- **Shunt Capacitance (Co):** 1.05 pF
+- **Load Capacitance:** 12.5 pF
+- **Drive Level (DL):** 0.1 to 1.0 μW
+- **Equivalent Series Resistance (R1):** 70 kΩ
+- **Insulation Resistance:** 500 MΩ @ 100V DC
+- **Turnover Temperature:** +20 to +30 °C
+- **Operating Temperature Range:** -40 °C to +85 °C
+- **Storage Temperature Range:** -55 °C to +125 °C
+- **Aging (First Year) @ +25°C:** ±3 ppm
+- **Moisture Sensitivity Level (MSL):** 1
+- **Package Type:** SMD (Surface Mount Device)
+
+### Special Features:
+- Low profile design suitable for high-density applications.
+- Extended temperature range and frequency tolerance options available.
+- RoHS compliant, ensuring environmental safety.
+
+### Typical Applications:
+The ECS-.327-12.5-34B-TR is primarily used in:
+- Real-time clock (RTC) applications, such as those involving microcontrollers (e.g., STM32).
+- Timing circuits in consumer electronics.
+- Frequency reference in various digital devices.
+- Applications requiring precise timing and low power consumption.
+
+This crystal oscillator is ideal for applications where space is limited and reliability is crucial, making it a popular choice in modern electronic designs.

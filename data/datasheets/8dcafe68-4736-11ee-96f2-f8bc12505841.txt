@@ -1,0 +1,49 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MR4028W12B1+6-RSR production of MECHATRONICS FAN GROUP from the text: \n \nMR4028W 12B1+6-RSR  \nMechatronics, Inc.  \nPage 1 of 4 \nCustomer:   \nModel:  MR4028 W12B1+6-RSR  \nCustomer Part Number:   \nRevision :  \nDescription:  Brushless DC Fan  \nIssue Date :  \nRevision Date :  \n \nDrawn By : \n Checked By : \n Approved By : \n \n \n \n \n \nMechatronics is pleased to submit the following specifications for review.  If \nthese specifications are for a final approval, please sign, date, and return to:  \n \n \nMechatronics   \nFAX  (425) 222 -5155  \n \nTEL (425) 222 -5900  \n \n \nCustomer Approval  (print):  Authorized Signature : \n  \n \n \n \nMR4028W 12B1+6-RSR  \nMechatronics, Inc.  \nPage 2 of 4 \nBRUSHLESS DC FAN SPECIFICATIONS  \n \n1. SCOPE  \nThis specification applies to  axial fan  model:  MR4028 W12B1+6-RSR \n \n2. SPECIFICATIONS  \nMotor Design  Single phase  Brushless DC motor  \nFrame  Material  UL94V -0 PBT  \nImpeller  Material  UL94V -0 PBT  \nMass  50g \nBearing s 2 Ball Bearing s \nMotor Insulation  Class A  \nMaximum Free -Air Flow  32.6 CFM  \nMaximum Back Pressure  3.65 In H2O \nRated Voltage  12.0 VDC \nOperating Voltage  8 ~ 14 VDC  \nRated Current  1.6 A \nPower  19.2 W \nRated Speed  24,000 RPM  \nOperating Temperature  -10°C to +70°C , 10% to 90% RH  \nStorage Temperature  -10°C to +80°C , 5% to 95% RH  \nSound Pressure Level  65 dBA  \nInsulation Resistance  Min 10M ohm between frame and (+) lead at 500 VDC  \nDielectric Strength  Max 5 mA between frame and (+) lead at 500 VAC for \n60sec  \nLife Expectancy  70,000 Hours at 30°C  \nLead Wire(s)  (+) RED  \n(-) BLACK  \n(Tach) YELLOW  \n(PWM) BLUE  \n \nPolarity Protection  Capable of withstanding 10 mins of reverse connection of \n(+) and ( -) leads  \nMotor Protection  Locked Rotor Protection and Auto -Restart  \nReverse Polarity Protection  \nAdditional Option s Contact Mechatronics for connector and environmental \nprotection options.  \n \n \n \nMR4028W 12B1+6-RSR  \nMechatronics, Inc.  \nPage 3 of 4 \n3. PERFORMANCE  \n \n \n \n4. MECHANICAL  \nDimensional Drawing  \n \n \n \n \n \n \n \n \n \n 00.511.522.533.54\n0 5 10 15 20 25 30 35In H2O\nCFM\n\n \n \nMR4028W 12B1+6-RSR  \nMechatronics, Inc.  \nPage 4 of 4 \n8. SENSOR SPECIFICATION: Frequency Generator (Tachometer) Output  \na. OUTPUT CIRCUIT  \n \nb. ELECTRICAL SPECIFICATIONS  \nVCE (sat) = 0.5 V MAX  VFG = 12 V MAX  \nIC = 5 mA MAX  R = VFG/ IC \n \nc. WAVEFORM OUTPUT  \nWhen the rotor is turned the output will take the form of a square wave  \nWhen the rotor is locked the output will be either HI or LO  \n \n \nT1 = T 2 = T 3 = T 4 = 1/4T R \nN = RPM  \nTR = 60/N  \n \n \n \n \n9. SPEED CONTROL SPECIFICATION: Pulse -Width Modulation Input  \na. ELECTRICAL SPECIFICATIONS  \nPWM Control Signal Voltage Range: 0.5 VDC ~ 5 VDC  \n• VinH = 3.5VDC Minimum  \n• VinL = 0.4VDC Maximum  \n• The frequency for control signal of the fan shall be able to accept \n25Khz +/ -5Khz.  \n• If PWM control is made electrically open, the rotor will spin at \nmaximum speed  \n \n \n\n'}]
+!==============================================================================!
+### Component Summary: MR4028W12B1+6-RSR
+
+**Description:**
+The MR4028W12B1+6-RSR is a brushless DC axial fan manufactured by Mechatronics, Inc. It is designed to provide efficient airflow in various applications, utilizing a single-phase brushless DC motor. The fan is characterized by its high speed and low noise operation, making it suitable for cooling and ventilation tasks in electronic devices and systems.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Rated Voltage: 12.0 VDC
+  - Operating Voltage Range: 8 ~ 14 VDC
+
+- **Current Ratings:**
+  - Rated Current: 1.6 A
+
+- **Power Consumption:**
+  - Power: 19.2 W
+
+- **Operating Temperature Range:**
+  - Operating Temperature: -10°C to +70°C
+  - Storage Temperature: -10°C to +80°C
+
+- **Package Type:**
+  - Axial fan design with a mass of 50g
+
+- **Special Features:**
+  - Maximum Free-Air Flow: 32.6 CFM
+  - Maximum Back Pressure: 3.65 In H2O
+  - Rated Speed: 24,000 RPM
+  - Sound Pressure Level: 65 dBA
+  - Motor Protection: Locked Rotor Protection and Auto-Restart
+  - Reverse Polarity Protection
+  - Polarity Protection: Capable of withstanding 10 minutes of reverse connection
+  - Insulation Resistance: Minimum 10M ohm at 500 VDC
+  - Dielectric Strength: Maximum 5 mA at 500 VAC for 60 seconds
+  - Life Expectancy: 70,000 hours at 30°C
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+**Typical Applications:**
+The MR4028W12B1+6-RSR brushless DC fan is typically used in applications requiring efficient cooling and ventilation, such as:
+- Computer systems and servers
+- Telecommunications equipment
+- Industrial machinery
+- Consumer electronics
+- HVAC systems
+
+The fan's high airflow capacity and low noise level make it ideal for environments where cooling is critical, and noise reduction is desired. Additionally, the PWM control capability allows for precise speed regulation, enhancing its versatility in various applications.

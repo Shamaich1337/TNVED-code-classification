@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CAS-M00025-0033-2 production of E-TEC from the text:Cherry\nKent\nSH17.08.2017\n30.03.202230.03.2022CAS-M00025-0033-x\nCAS-M00025-0033-x1/1\nDWire Harness\n1.00mm Housing 20pin\nto\n1.00mm Housing 20pinP1L±10\nX±5\nPin 1 Pin 2\nPin 19Pin 20Pin 1 Pin 2\nPin 19Pin 20P2\n1 2 3 4 1\nP1 P2\n1 1\n22White\nWhite\nWhite\nWhite19\n2019\n20\nNo. Description Q\'TY1\n24020 2\nHousing: Pitch 1.00mm, 2*10P, TP-CRF-220-S100/1Terminal: Pitch 1.00mmLength=L+10mm, Drawing No. EH002801C-024  UL1061 28AWG Insulator Wire, White Jacket,H5SE07-0304W01 M3044\nBlack Heat Shrink Tube  ∅9.0*25mmBlack Reseau Tube On Cable, OD8.5, Length(X) A4GA08-0959\nA4HA17-0959M842\nM959 3 21Part No. Length "L" Length "X"\nCAS-M00025-0033-1 140 mm 126 mm\nCAS-M00025-0033-2 160 mm 146 mm\nCAS-M00025-0033-3 240 mm 226 mm\nCAS-M00025-0033-4 220 mm 206 mm\n\nABC\n16 7.00 9.70 8.30\n20 9.00 11.70 10.30\n24 11.00 13.70 12.30\n26 12.00 14.70 13.30\n28 13.00 15.70 14.30\n30 14.00 16.70 15.30\n36 17.00 19.70 18.30\n40 19.00 21.70 20.30\n50 24.00 26.70 25.30No. of\nPinsDimension mm\nDC\nAB\n16 7.00 10.35\n20 9.00 12.35\n24 11.00 14.35\n26 12.00 15.35\n28 13.00 16.35\n30 14.00 17.35\n36 17.00 20.35\n40 19.00 22.35\n50 24.00 27.35Dimension mm No. of\nPins\nDC\nAB\n16 7.00 11.00\n20 9.00 13.00\n24 11.00 15.00\n30 14.00 18.00\n40 19.00 23.00Dimension mm No. of\nPins\nDC\n'}]
+!==============================================================================!
+### Component Summary for CAS-M00025-0033-2
+
+**Component Type:** Wire Harness
+
+**Description:**
+The CAS-M00025-0033-2 is a wire harness featuring a 1.00mm pitch housing with 20 pins. It connects two 20-pin connectors (P1 and P2) and is designed for various electronic applications where reliable connectivity is required. The harness includes insulated wires and heat shrink tubing for protection and durability.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not specified in the provided text.
+- **Current Ratings:** Not specified in the provided text.
+- **Power Consumption:** Not specified in the provided text.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Wire harness with 1.00mm pitch housing.
+- **Special Features or Notes:** 
+  - Includes UL1061 28AWG insulated wire with a white jacket.
+  - Comes with black heat shrink tubing (∅9.0*25mm).
+  - Length specifications for the harness: 
+    - CAS-M00025-0033-2: 160 mm (total length), 146 mm (length X).
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Typical Applications:**
+The CAS-M00025-0033-2 wire harness is typically used in:
+- **Electronics Assembly:** Connecting various components in electronic devices.
+- **Automotive Applications:** Wiring harnesses in vehicles for connecting sensors, control units, and other electronic systems.
+- **Consumer Electronics:** Used in devices requiring reliable electrical connections, such as computers, appliances, and other electronic gadgets.
+
+This wire harness is essential for ensuring proper electrical connectivity and signal integrity in various applications, making it a critical component in electronic design and assembly.

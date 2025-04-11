@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of HPIISO-1550-S-02-B-10-HFA production of SEAGNOL PHOTONICS CO., LTD from the text:Application:\nSpecification:\nNotice: Above specifications are tested at center wavelength without connector in room temperature @23 ℃.\n             For devices with connectors, IL will be 0.3dB higher, RL will be 5dB lower. ER will be 2dB lower.\n             Slow axis is default aligned to the connector key. Connectors only 1W CW optical power guarantee. \nDrawing:\nOrdering Information (Part Number):\n WWWW  S  A  HH  J  LL  CC\n Wavelength  Stage  Working Axis  Handling Power  Fiber Jacket  Fiber Length  Connector\n 1310  - 1310nm  S - Single Stage  F - Fast axis Blocked  01 - 1W  B - 250um Bare Fiber  05 - 0.5m  NE - None\n 1450 - 1450nm  D - Dual Stage       Slow Axis working  03 - 3W  9 - 900um Loose Tube  10 - 1.0m  FA - FC/APC\n 1480 - 1480nm  B - Both Axes Working  05 - 5W  15 - 1.5m  FU - FC/UPC\n 1550 - 1550nm  10 - 10W  20 - 2.0m  SA - SC/APC\n 1580 - 1580nm  15 - 15W  SS - Specify  SU - SU/APC\n 20 - 20W  LA - LC/APC\n SS - Specify  LU - LC/UPC\n SS - Specify\nsales@seagnol.com Page 1 of 1HPMISO- WWWW-S-A-HH-J-LL-CCStorage Temperature T -40~85 ℃\nPackage Dimension Φ5.5×L35 or L58xW10xH8 mmFiber Type PM Panda Fiber -\nOperating Temperature T -5~70 ℃Max. Peak Power P 5, 10 or specify KW\nMax. Tensil Load 5 NMin. Return Loss RL 50 dB\nMax. Optical Power (CW) P 1, 3, 5, 10, 15, 20 or specify WMin. Extinction Ratio for Fast Axis Blocked ER 22 dB\nMin. Extinction Ratio for Both Axes Working ER 20 dBTyp. Peak Isolation Iso 42 58 dB\nMin. Isolation Iso 28 48 dBTyp. Insertion Loss IL 0.3 0.4 dB\nMax. Insertion Loss IL 0.5 0.6 dBBandwidth BW ± 20 nm\nStage Single Stage Dual Stage -Parameter Symbol Value Unit\nCenter Wavelength λ 1550 nm       www.seagnol.com\nHigh Power 1550nm PM Optical Isolator\n      High Power 1550nm Polarization Maintaining Optical Isolator is a fiber passive component built with PM fiber, it allows\nlight signal to be delivered in one forward direction and avoid the back reflection light, it's widely used in amplifier system,\nfiber optic sensor system to protect the light source and lower down the optical signal noise. The optical power can be up\nto 20W CW upon request, if need pulse type please contact us to confirm.\nFeatures:\nFiber Optic Amplifier\nFiber Optic Sensor\nFiber Laser\nLab & ResearchHigh Power\nHigh Isolation\nLow Insertion Loss\nHigh Reliability\n5.5mm\nInput\n8mm\n10mm\n58mmOutput\nInputPackage\nFor 1-5W:\nPackage\nFor 6-20W:Output35mm\n                    \n"}]
+!==============================================================================!
+### Component Summary: HPIISO-1550-S-02-B-10-HFA
+
+#### Key Specifications:
+- **Voltage Ratings:** Not applicable (fiber optic component)
+- **Current Ratings:** Not applicable (fiber optic component)
+- **Power Consumption:** Max Optical Power (CW): 1W, 3W, 5W, 10W, 15W, 20W (specify as needed)
+- **Operating Temperature Range:** -5°C to 70°C
+- **Storage Temperature Range:** -40°C to 85°C
+- **Package Type:** Φ5.5×L35 mm or L58xW10xH8 mm
+- **Special Features:**
+  - High Power (up to 20W CW)
+  - High Isolation (typical 42-58 dB)
+  - Low Insertion Loss (typical 0.3-0.4 dB, max 0.5-0.6 dB)
+  - Extinction Ratio (min 20-22 dB depending on configuration)
+  - Fiber Type: PM Panda Fiber
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The HPIISO-1550-S-02-B-10-HFA is a **High Power 1550nm Polarization Maintaining Optical Isolator**. It is a passive fiber optic component designed to allow light signals to pass in one direction while preventing back reflections. This is crucial in applications where back reflections can cause interference or damage to light sources, such as in fiber optic amplifiers and sensors.
+
+#### Typical Applications:
+- **Fiber Optic Amplifiers:** Protects the amplifier from back reflections that could destabilize the amplification process.
+- **Fiber Optic Sensors:** Ensures that the sensor operates correctly by preventing interference from reflected light.
+- **Fiber Lasers:** Maintains the integrity of the laser output by blocking unwanted feedback.
+- **Laboratory and Research Applications:** Used in experimental setups where high power and low noise are critical.
+
+This component is particularly valuable in high-power applications due to its ability to handle optical power levels up to 20W and its high isolation characteristics, making it suitable for demanding optical systems.

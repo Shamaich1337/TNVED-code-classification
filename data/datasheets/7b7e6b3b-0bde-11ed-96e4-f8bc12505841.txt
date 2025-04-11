@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-NND-15R-M3-HTH production of SUNKYE INTERNATIONAL CO., LTD from the text:Drawi\nng No.\nArchivesP/N:\nDesig\nn\nStandard checkAuditing\nApproveScale Sheet of REVTechnics\nWeight Phase markerCheck\nDenomination:DWG No.: DINMG-NN\nD-15R-M3-HTH SUNKY\nESigna\nture\nWu ga\nngWang  shiqingCheng panfangCheng panfangZhu boLiu linRMATER\nIALS & SPECIFICATIONS\nHOUSING: ALUMINUM 2A12-T4, NICKEL PLATE PER AMS-C-26074\nINSULATOR: LIQUID CRYSTAL POLYMER (LCP) PER ASTM D5138\nCONTACT: BERYLLIUM BRONZE PER ASTM QSN4-3\nGOLD PLATED PER ASTM B488, (HARD GOLD) TYPE II CODE C,\nCLASS 1.27\nTERMINATION: SOLDER COATED WITH SN63A PER J-STD-006 OR\nAMS-P-81728\nPERFORMANCE: PRODUCT FAMILY TESTED TO AND PASSED THE\nPERFORMANCE\nSPECIFICATIONS OF TABLE VIII OF MIL-DTL-32139\nEnvir\nonment: -55 ℃~+125℃\nVibra\ntion: 10Hz~\n2000Hz 196m/s²\nShock: 980m/s² 6ms\nRated current: 1A\nRandom vibration: power spectrum density 0.4G ² /Hz, r.m.s value of total\nacceleration 23.1G\nContact resistance: ≤21mΩ\nInsulation resistance:  ≥5000M\nΩ 100VDC\nDielectric Strength: 250V AC Rated Voltage: 100V DC Machine life: 200 timesSk3.9\n06.06K.15RHNano-D\n SMT Connector\nDims \nTOL\nAngular TOL.10 .05\n.03\n1°5.71\n2.79\n1.79\n14.1\n16.76φ0.25\n2-#0-\n80 UNF-2B\n4.193.56\n1.028 1\n9 15\n1.27  1.29\n0.43\n4.450.643.81\n11.27\n1.07PCB La\nyout2.49\n6.1\n0.32\n1.57\n4.681.5\n2-#0-80 UNF-2A\nA32139-47Ø2.441.27A\nTINNING 0.30～0.70mm+0.05-0.05A\n+0.05-0.05A16.76\n8 115 9\nDra\nwing No.\nArchivesP/N\n:\nDes\nign\nStandard checkAuditing\nApproveScale Sheet of REVTechnics\nWeight Phase markerCheck\nDenomination:DWG No.: DINMG-\nNND-15P-M3-HTI SUN\nKYESig\nnature\nWu \ngangWang  shiqingCheng panfangCheng panfangZhu boLiu linRMAT\nERIALS & SPECIFICATIONS\nHOUSING: ALUMINUM 2A12-T4, NICKEL PLATE PER AMS-C-26074\nINSULATOR: LIQUID CRYSTAL POLYMER (LCP) PER ASTM D5138\nCONTACT: BERYLLIUM BRONZE PER ASTM QSN4-3 GOLD PLATED PER ASTM B488, (HARD GOLD) TYPE II CODE C, CLASS\n1.27\nTERMINATION: SOLDER COATED WITH SN63A PER J-STD-006 OR\nAMS-P-81728\nPERFORMANCE: PRODUCT FAMILY TESTED TO AND PASSED THE\nPERFORMANCE\nSPECIFICATIONS OF TABLE VIII OF MIL-DTL-32139\nEnvi\nronment: -55 ℃~+1\n25℃\nVib\nration: 10H\nz~2000Hz 196m/s²\nShock: 980m/s² 6ms\nRated current: 1A\nRandom vibration: power spectrum density 0.4G ² /Hz, r.m.s value of total acceleration\n23.1G\nContact resistance: ≤21mΩ\nInsulation resistance:  ≥500\n0MΩ 100VDC\nDielectric Strength: 250V AC\nRated Voltage: 100V DC\nMachine life: 200 timesSk3\n.906.06K.15PINan\no-D SMT Connector\nDim\ns TOL\nAngular TOL.10 .05\n.03\n1°8\n8.7\n6\n11.\n433.5\n6\n2.6\n78.7\n6\n4.7\n5\n1.2\n70.4\n1\n19 15\n81\n0.4\n34.4\n5\n0.6\n4\n3.8\n1\n8.7\n6\n0.7\n92.1\n6\n11.2\n72-φ\n1.8\n1.0\n7PCB\n Layout2-#\n0-80 UNF-2B2-#\n0-80 UNF-2B2.4\n13.1\n80.3\n25.9\n76.2\n2\n6.2\n81.5\n2-#0-80 UNF-2A\nA32139-63Ø2.\n441.2\n7A\nTIN\nNING 0.30～0.70mm+0.05-0.05A+0.05-0.05A9 15\n'}]
+!==============================================================================!
+### Component Summary for MG-NND-15R-M3-HTH
+
+**Component Type:** Nano-D SMT Connector
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Rated Voltage: 100V DC
+  - Dielectric Strength: 250V AC
+
+- **Current Ratings:**
+  - Rated Current: 1A
+
+- **Power Consumption:**
+  - Not specified directly; however, the current rating indicates the maximum current the connector can handle.
+
+- **Operating Temperature Range:**
+  - -55°C to +125°C
+
+- **Package Type:**
+  - Surface Mount Technology (SMT) Connector
+
+- **Special Features or Notes:**
+  - Contact resistance: ≤21mΩ
+  - Insulation resistance: ≥5000MΩ at 100VDC
+  - Machine life: 200 cycles
+  - Tested to MIL-DTL-32139 performance specifications
+  - Vibration: 10Hz to 2000Hz at 196m/s²
+  - Shock: 980m/s² for 6ms
+  - Random vibration: power spectrum density of 0.4G²/Hz, r.m.s value of total acceleration 23.1G
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text; typically, this information can be found in the manufacturer's datasheet.
+
+#### Description:
+The MG-NND-15R-M3-HTH is a Nano-D SMT connector designed for high-performance applications. It features a robust aluminum housing with nickel plating, ensuring durability and resistance to environmental factors. The insulator is made from liquid crystal polymer (LCP), which provides excellent thermal and mechanical properties. The contacts are constructed from beryllium bronze and are gold-plated to ensure reliable electrical connections.
+
+#### Typical Applications:
+This connector is typically used in applications requiring compact and reliable interconnect solutions, such as:
+- Aerospace and defense systems
+- Telecommunications equipment
+- Medical devices
+- Industrial automation
+- Consumer electronics
+
+The MG-NND-15R-M3-HTH is ideal for environments where space is limited, and high reliability is essential, making it suitable for both commercial and military applications.

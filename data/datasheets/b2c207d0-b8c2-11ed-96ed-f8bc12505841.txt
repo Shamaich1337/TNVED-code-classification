@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of PS812-C production of DAHENG OPTICAL THIN FILM CENTER from the text:25.401.00\n2.70 0.15mm0.117.74 REF0.30\n11°22'\n6°0'\nS2S1\nNOTES/SPECIFICATIONS:\nDESIGN WAVELENGTH: 633nm 1.\nCLEAR APERTURE: >80% OF DIAMETER 2.\nSURFACE FLATNESS (S1, S2): λ/10 AT DESIGN WAVELENGTH OVER CLEAR APERTURE 3.\nSURFACE QUALITY (S1, S2): 40-20 SCRATCH-DIG 4.\nANGULAR TOLERANCE: 30 arcsec 5.\nDIAMETER TOLERANCE: +0.0/-0.3mm 6.\nCOATING (S1, S2): BBAR Ravg <0.5% FROM 1050-1700nm, 0  AOI 7.\nD\nPS812-CMATERIALDRAWN\nAPPROVAL REVGG\nDD20/MAR/09DATE\n01/OCT/13w w w . t h o r  l a b s . c o m\nITEM # APPROX WEIGHTN-BK7\n0.02 kgVALUES IN PARENTHESIS ARE CALCULATED\nAND MAY CONTAIN ROUNDOFF ERRORSDRAWING\nPROJECTION\nNAME\nFOR INFORMATION ONLY \nNOT FOR MANUFACTURING PURPOSES6 ROUND WEDGE PRISM, 25.4mm\nBBAR COATED 1050-1700nm\nCOPYRIGHT © 2013 BY THORLABS \n"}]
+!==============================================================================!
+### Component Summary for PS812-C
+
+**Component Type:** Optical Component (Wedge Prism)
+
+**Description:**
+The PS812-C is a round wedge prism made from N-BK7 glass, designed for optical applications. It features a clear aperture greater than 80% of its diameter and is coated with a broadband anti-reflective (BBAR) coating, which minimizes reflection losses over a specified wavelength range. The prism is characterized by its high surface flatness and quality, making it suitable for precision optical setups.
+
+### Key Specifications:
+- **Design Wavelength:** 633 nm
+- **Clear Aperture:** >80% of diameter
+- **Surface Flatness (S1, S2):** λ/10 at design wavelength over clear aperture
+- **Surface Quality (S1, S2):** 40-20 scratch-dig
+- **Angular Tolerance:** 30 arcseconds
+- **Diameter Tolerance:** +0.0/-0.3 mm
+- **Coating (S1, S2):** BBAR with Ravg <0.5% from 1050-1700 nm at 0° angle of incidence
+- **Approximate Weight:** 0.02 kg
+
+### Operating Conditions:
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+### Typical Applications:
+The PS812-C wedge prism is typically used in various optical applications, including:
+- **Beam Steering:** Redirecting light beams in optical systems.
+- **Optical Testing:** Used in setups requiring precise optical measurements.
+- **Interferometry:** Employed in interferometric setups for measuring wavefront distortions.
+- **Laser Systems:** Utilized in laser applications where beam manipulation is necessary.
+
+This component is ideal for use in laboratories and industries where high precision in optical performance is critical.

@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FJ785A1405 production of NAKU TECHNOLOGY CO., LTD from the text:www.CivilLaser.comEmail:manager@civillaser.comModel#：FJ785A1405\nFiberCoupled785nmLaserwith105umCoreDiameter,FCconnector,1mlength,4.5W\nOutputPower.\nParameters：\nTypicalparameters SymbolUnit Value\nOptical\nparametersOutputpower P W 4.5\nCentralwavelength λ nm 785\nWavelengthrange - nm ±5\nSpectralWidth △λ nm <4\nTemperaturecoefficient - nm/℃ ~0.3\nOpticalFiber\nParametersFiberCoreDiameter W105 μm 105\nNumericalaperture NA - 0.22\nConnector - - FC/SMA\nElectrical\nParametersWorkingCurrent Iop A 6\nThresholdcurrent Ith A 1.5\nPowerconversion\nefficiencyη % 35~50\nDifferentialquantum\nefficiencyηDW/A 0.8~1.1\nWorkingvoltage Vop V 2.2\nOthers workingtemperature Top\n℃10~30\nStoragetemperature Tst\n℃-20~+60\nlifeexpectancy MTTF h >10000\nwww.CivilLaser.comEmail:manager@civillaser.comPackagingdimensions:\nPin Explain Pin Explain\n1 Laser+ 2 Laser-\nMattersneedingattention:\n\uf06cAvoidlaserirradiationofeyesandskinwhenlaserworks.\n\uf06cAntistaticmeasuresmustbetakenintransportation,storageanduse.\n\uf06cConstantcurrentpowersupplyisusedtoavoidsurgewhenworking.\n\uf06cItshouldbeusedunderratedcurrentandratedpower.\n\uf06cGoodheatdissipationshouldbeguaranteedwhenthelaserworks.\n\uf06cTheendfaceoftheopticalfibershouldbecleanedbeforeuse.\n\uf06cOpticalfibersshouldnotbendatlargeangles.Thebendingdiametershouldbegreater\nthan300timesthediameterofopticalfibers.\n\n'}]
+!==============================================================================!
+### Component Summary: FJ785A1405
+
+**Manufacturer:** NAKU TECHNOLOGY CO., LTD  
+**Product Code:** FJ785A1405  
+**Description:** Fiber Coupled 785nm Laser
+
+#### Key Specifications:
+- **Output Power:** 4.5 W
+- **Central Wavelength:** 785 nm
+- **Wavelength Range:** ±5 nm
+- **Spectral Width:** <4 nm
+- **Temperature Coefficient:** ~0.3 nm/°C
+- **Fiber Core Diameter:** 105 μm
+- **Numerical Aperture:** 0.22
+- **Connector Type:** FC/SMA
+
+**Electrical Parameters:**
+- **Working Current (Iop):** 6 A
+- **Threshold Current (Ith):** 1.5 A
+- **Power Conversion Efficiency (η):** 35% - 50%
+- **Differential Quantum Efficiency (ηDW/A):** 0.8 - 1.1
+- **Working Voltage (Vop):** 2.2 V
+
+**Operating Conditions:**
+- **Working Temperature (Top):** 10°C to 30°C
+- **Storage Temperature (Tst):** -20°C to +60°C
+- **Life Expectancy (MTTF):** >10,000 hours
+
+**Moisture Sensitive Level:** Not specified in the provided data.
+
+#### Description:
+The FJ785A1405 is a fiber-coupled laser diode that emits light at a central wavelength of 785 nm. It is designed for applications requiring efficient light coupling into optical fibers, featuring a 105 μm core diameter and a numerical aperture of 0.22. The laser is packaged with an FC/SMA connector for easy integration into optical systems.
+
+#### Typical Applications:
+The FJ785A1405 is typically used in various applications, including:
+- **Biomedical Applications:** Such as fluorescence microscopy and laser-induced fluorescence.
+- **Industrial Applications:** For material processing and laser marking.
+- **Optical Communication:** As a light source in fiber optic systems.
+- **Spectroscopy:** For analyzing materials based on their optical properties.
+
+#### Important Notes:
+- Users must take precautions to avoid laser exposure to eyes and skin during operation.
+- Antistatic measures should be implemented during transportation, storage, and use.
+- A constant current power supply is recommended to prevent surges during operation.
+- Proper heat dissipation is essential for optimal performance.
+- The optical fiber's end face should be cleaned before use, and care should be taken to avoid sharp bends in the fiber.
+
+This summary provides a comprehensive overview of the FJ785A1405 laser diode, highlighting its key specifications and typical applications.

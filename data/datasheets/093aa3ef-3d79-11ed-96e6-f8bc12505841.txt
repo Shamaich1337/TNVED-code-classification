@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of C1Q 1 production of BEL FUSE INC. from the text:Type C1Q\nSurface Mount Very Fast -Acting Chip Fuse\nbelfuse.com/ circuit -protection\nC1Q Series –1206 Size RoHS 2 Compliant\nFeatures\n-Fast Acting\n-Small size, 1206 SMD\n-Current rating from 250mA to 7A\n-Wide operating temperature range from -55℃to 125℃\n-Tape and Reel for automatic SMD placement\n-Compatible with 260 ℃IRPb-free and wave soldering process\n-RoHS 2 compliant (MSL = 1)\n-Halogen Free\n-Lead Free\nApplications\n-Notebook\n-LCDmonitor\n-PC computer\n-Office electronic equipment\n-Industrial equipment\n-Medical equipment\n-POE, POE+\n-LCD / LED monitor\n-Power supply\n-LCD / LED TV LEAD FREE =\n-DC-DC Converter HALOGEN FREE =\nElectrical Characteristics (UL/CSA/STD. 248-14) Safety Agency Approvals\nTesting\nCurrentBlow Time\nMinimum Maximum\n100% 4 Hrs. N/A\n200% N/A 5 Sec\n300% N/A 0.2 Sec\nPhysical Specifications\nMaterialsBody : Ceramic Substrate\nTerminations : Ag / Ni / Sn (100% Lead -free)\nElement Cover Coating : Lead -free Glass\nMarkingOn Fuse :\nNone\nOn Label :\n"bel", "C1Q ","Current Rating", "Voltage Rating", "Interrupting Rat ing", "Appropriate Safety Logos" and\n" ", "\n "(China RoHS compliant).\nSafety\nAgencySafety Agency\nCertificateVoltage Rating\n(V)Ampere Range / Volt\n@ I.R. ability*\nLR39772\n250mA-5A/125V AC\n63V DC\n7A/63V AC & DC250mA-5A/125V AC@100A\n63V DC@50AE20624\nE20624 7A/63V AC&DC@50A\n*I.R.= Interrupting Rating = Short Circuit Rating(Amps)\nSpecifications subject to change without notice\n\nType C 1Q2/4\nBel Fuse Inc.\n206 Van Vorst Street\nJersey City, NJ 07302 USA+1201.432.0463\nBel.US.CS@belf.com\nbelfuse.com/circuit -protection\n© 201 8BelFuse, Inc. Rev. C1Q Nov 2018Temperature Derating Curve Average Time Current Curve\nElectrical S pecifications\nCatalog\nNumberAmpere\nRating\n(A)Nominal\nCold\nResistance\n(ohms)Nominal\nVolt-drop\n@100% In\n(Volt)Voltage and\nInterrupting\nRatingsMelting I²T\n@10 In\n(A² Sec)Nomina l\nPower\nDissipation\n@100% In\n(W)Agency Approvals\nC1Q 250 250mA 0.85 0.250\nSee Table of\nSafety Approvals on\nPage 1 for Voltage\nand associated\nInterrupting Ratings0.000 03 0.06 Y Y\nC1Q 375 375mA 0.48 0.222 0.00006 0.08 Y Y\nC1Q 500 500mA 0.32 0.195 0.00011 0.10 Y Y\nC1Q 750 750mA 0.175 0.163 0.00042 0.12 Y Y\nC1Q 1 1A 0.124 0.156 0.00096 0.16 Y Y\nC1Q 1.25 1.25A 0.092 0.149 0.0020 0.19 Y Y\nC1Q 1.5 1.5A 0.075 0.142 0.0024 0.21 Y Y\nC1Q 2 2A 0.054 0.140 0.005 0.28 Y Y\nC1Q 2.5 2.5A 0.042 0.138 0.008 0.35 Y Y\nC1Q 3 3A 0.035 0.136 0.020 0.41 Y Y\nC1Q 3.5 3.5A 0.030 0.140 0.029 0.49 Y Y\nC1Q 4 4A 0.028 0.144 0.038 0.58 Y Y\nC1Q 5 5A 0.022 0.154 0.075 0.77 Y Y\nC1Q 7 7A 0.015 0.160 0.116 1.12 Y\nConsult manufacturer for other ratings\nSpecifications subject to change without notice\n\nType C 1Q3/4\nBel Fuse Inc.\n206 Van Vorst Street\nJersey City, NJ 07302 USA+1201.432.0463\nBel.US.CS@belf.com\nbelfuse.com/circuit -protection\n© 201 8BelFuse, Inc. Rev. C1Q Nov 2018Environmental Specifications\nSoldering Parameters\nFuse FGNO ExplanationShock ResistanceMIL-STD-202G, Method 213B, Test Condition 1\n(100 G\'s peak for 6 milliseconds; Sawtooth waveform)\nVibration Resistance MIL-STD-202G, Method 201A (10-55 Hz, 0.06 inch, total excursion).\nSalt Spray Resistance MIL-STD-202G, Method 101E, Test Condition B (48 hrs .).\nInsulation ResistanceMIL-STD-202G, Method 302, Test Condition A\n(After Opening) 10,000 ohms minimum.\nSolderability MIL-STD-202G, Method 208H\nResistance to solder HeatMIL-STD-202G, Method 210F, Test Condition C. Top Side (260℃,20 sec)\nMIL-STD-202G, Method 210F, Test Condition D. Bottom Side (260℃,10 sec)\nThermal Shock MIL-STD-202G , Method 107G, Test Condition B (-65℃to +125℃).\nOperating Temperature -55℃to +125℃\nMoisture Sensitivity Level 1 (According to IPC J -Std-020)\nIR Reflow Profile (IPC/JEDEC J -STD-020D)\nPreheat & Soak\nTemperature min (T smin)\nTemperature max (T smax)\nTime (T sminto T smax) (ts)150℃\n200℃\n60-120 seconds\nAverage ramp -up rate (T smax to T p) 3℃/second max.\nLiquidous temperature (T L)\nTime at liquidous (t L)217℃\n60-150 seconds\nPeak temperature (T p) 260℃max\nTime (tp) within 5 ℃of the specified\nclassification temperture (T c)30 seconds\nAverage ramp -down rate (T pto T smax) 6℃/second max.\nTime 25℃to peak temperature 8 minutes max.\nLead -free Wave Soldering Profile\nWave Soldering Parameter\nAverage ramp -up rate 200℃/ second\nHeating rate during preheattypical 1 -2℃/ second\nMax 4℃/ second\nFinal preheat temperaturewithin 125 ℃of soldering\ntemperature\nPeak temperature Tp 260℃\nTime within +0 ℃/-5℃of actual\npeak temperature10 seconds\nRamp -down rate 5℃/ second max.\nSpecifications subject to change without notice\n\nType C 1Q4/4\nBel Fuse Inc.\n206 Van Vorst Street\nJersey City, NJ 07302 USA+1201.432.0463\nBel.US.CS@belf.com\nbelfuse.com/circuit -protection\n© 201 8BelFuse, Inc. Rev. C1Q Nov 2018Fuse FGNO Explanation\n0685 -[XXXX] -XX\n[XXXX]=Ampere Rating; XX=See Ordering Information as below\nFraction Decimal Milliamps Bel FGNO[XXXX] Fraction Decimal Amps Bel FGNO[XXXX]\n1/4 0.250 250 0250 1.0 1 1000\n3/8 .375 375 0375 1-1/4 1.25 1.25 1250\n1/2 .500 500 0500 1-1/2 1.50 1.5 1500\n3/4 .750 750 0750 2.0 2 2000\n2-1/2 2.5 2.5 2500\n3.0 3 3000\n3-1/2 3.5 3.5 3500\n4.0 4 4000\n5.0 5 5000\n7.0 7 7000\nMechanical Dimensions Ordering Information\nPackaging\nPackaging Tape & Reel Packaging Specification Quantity Quantity & Packaging Code\n8 mm wide tape with 7 inches Diameter reel EIA Standard 481 -E 5000 0685 -XXXX -01\nSpecifications subject to change without notice\n\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Bel:   \n\xa0 C1Q 500\xa0 C1Q 250\xa0 C1Q 4\xa0 C1Q 1\xa0 C1Q 1.25\xa0 C1Q 7\xa0 C1Q 1.5\xa0 C1Q 3\xa0 C1Q 5\xa0 C1Q 2\xa0 C1Q 3.5\xa0 C1Q 375\xa0 C1Q 750\n\xa0 C1Q 2.5\n'}]
+!==============================================================================!
+### Component Summary: C1Q Series Chip Fuse
+
+**Manufacturer:** Bel Fuse Inc.  
+**Product Code:** C1Q  
+**Type:** Surface Mount Very Fast-Acting Chip Fuse  
+**Package Type:** 1206 Size SMD (Surface Mount Device)  
+**Moisture Sensitivity Level:** MSL = 1 (according to IPC J-STD-020E)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - 125V AC for current ratings from 250mA to 5A
+  - 63V DC for current ratings from 250mA to 5A
+  - 63V AC & DC for 7A
+- **Current Ratings:** 
+  - Available from 250mA to 7A
+- **Power Consumption:** 
+  - Power dissipation at 100% In varies from 0.06W (250mA) to 1.12W (7A)
+- **Operating Temperature Range:** 
+  - -55°C to +125°C
+- **Special Features:**
+  - Fast acting
+  - RoHS 2 compliant
+  - Halogen-free and lead-free
+  - Compatible with IR Pb-free and wave soldering processes
+  - Tape and reel packaging for automatic SMD placement
+
+#### Description:
+The C1Q series is a very fast-acting chip fuse designed for surface mount applications. It provides overcurrent protection in a compact 1206 package, making it suitable for various electronic devices. The fuse is designed to interrupt the circuit quickly in the event of an overcurrent condition, thereby protecting sensitive components from damage.
+
+#### Typical Applications:
+The C1Q series chip fuses are commonly used in:
+- Notebook computers
+- LCD monitors
+- PC computers
+- Office electronic equipment
+- Industrial equipment
+- Medical devices
+- Power over Ethernet (POE, POE+)
+- LCD/LED monitors and TVs
+- Power supply circuits
+- DC-DC converters
+
+This component is ideal for applications where space is limited and reliable overcurrent protection is essential. Its fast-acting nature ensures that it responds quickly to fault conditions, safeguarding the overall system integrity.

@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of DD1R030HA1R1300 production of JAE (JAPAN AVIATION ELECTR.) from the text:DD1R030HA1R1300\nFeatures\nInput/Output Connector, Conforming to USB 2.0, 0.5mm pitch, 30 pos, With hold down, Receptacle\nPart Number DD1R030HA1R1300\nStatus Active\nNumber of Positions 30 pos.\nContact Pitch (mm) 0.5\nRated Current (A) Signal: 0.5, Power: 1.0 \u3000\nRated Voltage (V) AC 30\nApplicable Specifications USB2.0\nWaterproof/ Non-waterproof Non-waterproof\nApplications Compact portable devices typified by PDAs and HDD players\nConnector Type Receptacle\nConnector Style Right angle\nContact Type \u3000\u3000\nWire Termination Style -\nApplicable Wire Size (AWG) \u3000\u3000\nSMD Flag SMT・ TH\nPCB Mounting Method SolderingProduct Details\nMount Type \u3000\u3000\nMaterial of Contact Copper alloy\nFinish of Contact in Connecting\nAreaGold plating over Nickel\nFinish of Contact in PCB\nMounting AreaGold flash plating over Nickel\nFinish of Contact in Terminal\nArea\u3000\u3000\nRoHS compliant 10 substances (2011/65/EU, (EU)2015/863)\nREACH compliant 235 substances (14/06/2023)\nCombinationDD1B030VA1\nDD1P030MA1\nDD1B030HA1R500\nRemarks With hold down\nNotice\nThe values specified in this web site are only for reference. The products and their specifications\nare subject to change without notice. Contact our sales staff for further information before\nconsidering or ordering any of our products.\nFor purchase, a product specification must be agreed upon.1.\nUsers are requested to provide protection circuits and redundancy circuits to ensure safety of\nthe equipment, and sufficiently review the suitability of JAE's products to the equipment.2.\nThe products presented in this web site are designed for the uses recommended below.\nWe strongly suggest you contact our sales staff when considering use of any of the products in\nany other way than the recommended applications or for a specific use that requires an\nextremely high reliability.3.\nApplications that require consultation: （1）\nPlease contact us if you are considering use involving a quality assurance program that\nyou specify or that is peculiar to the industry, such as:\nAutomotive electrical components, train control, telecommunications devices (mainline),\ntraffic light control, electric power, combustion control, fire prevention or security systems,\ndisaster evention equipment, etc.＊\nWe may separately give you our support with a quality assurance program that\nyou specify, when you think of a use such as :＊\nAviation or space equipment, submarine repeaters, nuclear power control systems, medical\nequipment for life support, etc.\nRecommended applications include: （2）\nComputers, office appliances, telecommunications devices (terminals, mobile units),\nmeasuring equipment, audiovisual equipment, home electric appliances, factory\nautomation equipment, etc＊\n"}]
+!==============================================================================!
+### Component Summary for DD1R030HA1R1300
+
+**Component Type:** Connector  
+**Manufacturer:** JAE (Japan Aviation Electronics Industry, Ltd.)  
+**Product Code:** DD1R030HA1R1300  
+**Status:** Active  
+
+#### Key Specifications:
+- **Number of Positions:** 30 positions
+- **Contact Pitch:** 0.5 mm
+- **Rated Current:**
+  - Signal: 0.5 A
+  - Power: 1.0 A
+- **Rated Voltage:** AC 30 V
+- **Waterproof:** Non-waterproof
+- **Connector Type:** Receptacle
+- **Connector Style:** Right angle
+- **Mounting Method:** Soldering (SMD Flag SMT・TH)
+- **Material of Contact:** Copper alloy
+- **Finish of Contact in Connecting Area:** Gold plating over Nickel
+- **Finish of Contact in PCB Mounting Area:** Gold flash plating over Nickel
+- **RoHS Compliant:** Yes (10 substances as per 2011/65/EU, (EU)2015/863)
+- **REACH Compliant:** Yes (235 substances as of 14/06/2023)
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The DD1R030HA1R1300 is a USB 2.0 compliant input/output connector designed for compact portable devices. It features a 30-position receptacle with a 0.5 mm contact pitch and is intended for applications where space is limited. The connector is designed with a hold-down feature to ensure secure mounting and connection stability.
+
+#### Typical Applications:
+This connector is typically used in:
+- Compact portable devices such as Personal Digital Assistants (PDAs) and Hard Disk Drive (HDD) players.
+- Computers and office appliances.
+- Telecommunications devices, including terminals and mobile units.
+- Measuring equipment and audiovisual equipment.
+- Home electric appliances and factory automation equipment.
+
+The DD1R030HA1R1300 is suitable for applications that require reliable connections in environments where space is a constraint, but it is not recommended for high-reliability applications such as automotive, medical, or aerospace without further consultation with the manufacturer.

@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-SL1-020-S079/01-55/1 production of DECIGN from the text: ±2.50±0.202.50±0.20\nA： 7.90 mm\nB:  2.80 mm\nC:  2.60 mm\nPIN HEADER\n1.27PH180° H:2.50\n1*XXPINNOTES:\n1.HOUSING:NY6T，UL94V-0\nCOLOR  :BLACK\n2.CONTACT:BRASS\nPLATED :GOLD FLASH\n3.CURRENT : 1A\n4.OPERATING TEMPERATURE: -40°C TO +105°C\n5.CONTACT RESISTANCE   : 20 MILLIOHMS Max.\n6.INSULATION RESISTANCE: 1000 MEGAOHMS Min.\n7.WITHSTANDING VOLTAGE : 500 V AC/minute\nP.C.B .  LAYOUTCONTACTS\n      1×12\n   1×13\n   1×14\n   1×15\n   1×16\n   1×17\n   1×18\n   1×19\n   1×20\n   1×21\n   1×22\n   1×23\n   1×241×25\n1×26\n1×27\n1×28\n1×29\n1×30\n1×31\n1×32\n1×33\n1×34\n1×35\n1×36\n1×371×38\n1×39\n1×40\n1×41\n1×42\n1×43\n1×44\n1×45\n1×46\n1×47\n1×48\n1×49\n1×50   1×02\n   1×03\n   1×04\n   1×05\n   1×06\n   1×07\n   1×08\n   1×09\n   1×10\n   1×111.271.27×(CONTACTS-1)\n∅0.781.27×CONTACTS±0.35\n1.27±0.101.27×(CONTACTS-1)±0.20\nA±0.25B±0.25\nC±0.25\n0.46 SQ\nTP-SL1-XXX-S079/01-55/1\nTP-SL1-XXX-S079 /01-55/1\n'}]
+!==============================================================================!
+### Component Summary for TP-SL1-020-S079/01-55/1
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated; however, the component is rated for a withstand voltage of 500 V AC/minute.
+- **Current Ratings**: 1 A maximum.
+- **Power Consumption**: Not specified; power consumption can be inferred based on current and voltage ratings.
+- **Operating Temperature Range**: -40°C to +105°C.
+- **Package Type**: Pin header, 1.27 mm pitch, 180° orientation.
+- **Special Features/Notes**:
+  - Housing material: NY6T, UL94V-0 rated (flame retardant).
+  - Contact material: Brass with gold flash plating.
+  - Contact resistance: 20 milliohms maximum.
+  - Insulation resistance: 1000 megaohms minimum.
+- **Moisture Sensitive Level (MSL)**: Not specified in the provided text.
+
+#### Description:
+The TP-SL1-020-S079/01-55/1 is a pin header connector designed for PCB (Printed Circuit Board) applications. It features a 1.27 mm pitch and is configured for 180° insertion, making it suitable for various electronic connections. The connector is made from durable materials, ensuring reliability in electrical connections.
+
+#### Typical Applications:
+This component is typically used in:
+- **Power Management**: Connecting power supplies to circuit boards.
+- **Signal Processing**: Facilitating signal connections between different circuit components.
+- **Data Storage**: Used in connectors for data storage devices where reliable connections are critical.
+- **General Electronics**: Commonly found in consumer electronics, industrial equipment, and automotive applications where space-saving and reliable connections are necessary.
+
+This pin header is ideal for applications requiring a compact and efficient means of connecting multiple pins on a PCB, ensuring robust electrical performance across a wide temperature range.

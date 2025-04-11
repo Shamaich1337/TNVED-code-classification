@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 15266-0425 production of MOLEX from the text:This document was generated on 09/16/2022\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nPart Number: 0152660425\nStatus: Active\nOverview: FFC Cable Jumpers, Premo-Flex Flat-Flexible Cable Jumpers\nDescription: 0.50mm Pitch Premo-Flex FFC Jumper, Same Side Contacts (Type A), 30.00mm\nCable Length, Tin (Sn) Plating, 40 Circuits\nDocuments:\nDrawing (PDF) Datasheet (PDF)\nProduct Specification PS-15266-001-001 (PDF) RoHS Certificate of Compliance (PDF)\nGeneral\nProduct Family Cable\nSeries 15266\nComments Contacts on the same side, Type A\nCrimp Quality Equipment Yes\nOverview FFC Cable Jumpers, Premo-Flex Flat-Flexible Cable\nJumpers\nProduct Name Premo-Flex FFC Jumper\nTaxonomy Flexible Printed Circuit (FPC)\nUPC 884982441781\nPhysical\nCable Length 30.00mm\nCircuits (Loaded) 40\nContact Layout Type A (same side)\nMaterial - Plating Mating Tin\nNet Weight 0.441/g\nPackaging Type Bag\nPitch - Mating Interface 0.50mm\nTemperature Range - Operating -40° to +105°C\nWire Size AWG N/A\nWire/Cable Type Flat Flex Cable\nElectrical\nCurrent - Maximum per Contact 0.5A\nVoltage - Maximum 60V AC\nMaterial Info\nReference - Drawing Numbers\nProduct Specification PS-15266-001-001\nSales Drawing SD-15266-001-001\nSeries image - Reference only\nEU ELV\nNot Relevant\nEU RoHS China RoHS\nCompliant\nREACH SVHC\nNot Contained Per -\nD(2021)10043-DC (17\nJan 2022)\nHalogen-Free\nStatus\nNot Low-Halogen\nFor more information, please visit Contact US\nChina ROHS Green Image\nELV Not Relevant\nRoHS Phthalates Not Contained\nSearch Parts in this Series\n15266 Series\nMates With\nEasy-On FFC/FPC Connector: <br>\n541044033  , 541324033  , 5019514000  ,\n525594033\nThis document was generated on 09/16/2022\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 0152660425
+
+#### Key Specifications:
+- **Voltage Ratings**: Maximum 60V AC
+- **Current Ratings**: Maximum 0.5A per contact
+- **Power Consumption**: Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range**: -40°C to +105°C
+- **Package Type**: Bag packaging
+- **Special Features/Notes**: 
+  - Type A contact layout (same side contacts)
+  - Crimp quality equipment compatible
+  - Compliant with RoHS and not containing phthalates
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided information.
+
+#### Description:
+The MOLEX 0152660425 is a **Premo-Flex Flat-Flexible Cable (FFC) Jumper** designed for applications requiring flexible interconnections. It features a 0.50mm pitch and is equipped with 40 circuits, making it suitable for compact electronic designs. The jumper has tin (Sn) plating for improved conductivity and corrosion resistance.
+
+#### Typical Applications:
+This component is typically used in:
+- **Consumer Electronics**: Connecting various components within devices such as laptops, tablets, and smartphones.
+- **Automotive Applications**: For flexible connections in automotive electronics.
+- **Industrial Equipment**: In machinery where space-saving and flexible connections are necessary.
+- **Telecommunications**: For interconnecting circuit boards in communication devices.
+
+The flexibility and compact design of the Premo-Flex FFC jumper make it ideal for applications where space is limited and reliable electrical connections are essential.

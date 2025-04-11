@@ -1,0 +1,42 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 691323100002 production of WURTH from the text:1 2 3 4 5\nA\nB\nC\nDSIZE\nA4\nREV DATE FILE BYA 31-OCT-08         PDF          JPB 24-JAN-14                     LAYO UT DIM                      QLC 17-AUG-15                 CERTIFICATION                    AKDEFG\nAPPROVAL: FBr UNIT: MM DESCRIPTION: SERIE 3231 - 3.50MM VERTICAL PCB HEADER  WITH FLANGES\nWR-TBLSCALE: \nSHEET: 1/2 WERI PART NO: 691 323 100 0xx\nDRAW: MARVINPROJECTION: GENERAL TOLERANCE\n.X = +/- 0.2\n.XX = +/- 0.15RoHS CompliantTECHNICAL  CHARACTERISTICS\nMATERIAL\nINSULA TOR: P A 66\nCOLOR: GREEN\nCONT ACT: BRASS\nSOLDER TAIL PLA TING: TIN\nFLANGES SCREW NUT : BRASS M2.5\nENVIRONMENT AL\nOPERA TING TEMPERA TURE: -40 UP  TO 105°C\nCOMPLIANCE: LEAD FREE AND ROHS\nELECTRICAL                                cULus                  VDE\nCURREN T RATING:                    10 A                      10.5A\nWORKING VO LTAGE:                 300 VAC               300 VAC\nWITHST ANDING VOL TAGE:       1.6KV                   2.5KV\nCONT ACT RESIST ANCE:       20 mOhm max\nSTANDARD\n          CERTIFIED: E315414\n          CERTIFIED: 40023195\nMECHANICAL\nPITCH: 3.5 MM\nSOLDERING\nJEDEC LEAD FREE W AVE SOLDERING PROCESS\nPACKAGING\nBOX\n  \n  c       us\nDIMENSION\nA = (NB. PINS -1) x PITCH\nB = (NB. PINS  x PITCH) +10,3FLAMMABILITY  RATING: UL94-V0\n1 2 3 4 5\nA\nB\nC\nDSIZE\nA4\nREV DATE FILE BYA 10-SEP-14          PDF          QLB                C               D                EFG\nAPPROVAL: JC UNIT: MM DESCRIPTION: DISCLAIMER \nSCALE: \nSHEET: 2/2 WERI PART NO: DISCLAIMER\nDRAW: QLPROJECTION: GENERAL TOLERANCERoHS CompliantCaut ions and Warnings :\nThis electronic component is designed and developed with the intention for use\nin general electronics equipments.\nBefore incorporating the components into any equipments in the field such as aerospace, aviation,\nnuclear control, submarine, transportation, (automotive control, train control, ship control),\ntransportation signal, disaster prevention, medical, public information network etc. where higher safety\nand reliability are especially required or if there is possibility of direct damage or injury to human body,\nWurth Elektronik must be asked for a written approval.\nIn addition, even electronic component in general electronic equipments, when used in electrical circuits\nthat require high safety, reliability functions or performance, the sufficient reliability evaluation-check\nfor the safety must be performed before by the user before usage. \nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Wurth Elektronik:   \n\xa0 691323100002\n'}]
+!==============================================================================!
+### Component Summary for Wurth Elektronik Part Number 691323100002
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Working Voltage: 300 VAC
+  - Withstanding Voltage: 1.6 kV (2.5 kV for certain certifications)
+  
+- **Current Ratings:**
+  - Current Rating: 10 A (10.5 A for certain certifications)
+  
+- **Power Consumption:**
+  - Not explicitly stated; power consumption can be derived from voltage and current ratings.
+  
+- **Operating Temperature Range:**
+  - -40°C to 105°C
+  
+- **Package Type:**
+  - Vertical PCB Header with flanges, 3.5 mm pitch
+  
+- **Special Features or Notes:**
+  - Lead-free and RoHS compliant
+  - Flammability rating: UL94-V0
+  - Contact resistance: 20 mΩ max
+  - Designed for wave soldering processes
+  
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+#### Description:
+The Wurth Elektronik 691323100002 is a vertical PCB header connector designed for electronic circuit applications. It features a 3.5 mm pitch and is constructed with a PA 66 insulating material and brass contacts. The component is designed to facilitate connections on printed circuit boards (PCBs) and is equipped with flanges for secure mounting.
+
+#### Typical Applications:
+This component is typically used in general electronics equipment, including:
+- Power management systems
+- Signal processing applications
+- Industrial control systems
+- Consumer electronics
+- Any application requiring reliable electrical connections on PCBs
+
+The component is suitable for environments where durability and reliability are essential, given its wide operating temperature range and compliance with safety standards. However, caution is advised for use in critical applications such as aerospace, medical, or transportation systems, where additional reliability evaluations are recommended.

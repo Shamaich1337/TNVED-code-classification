@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of QMS-032-01-L-D-DP-RA-PC8 production of SAMTEC from the text:(0.635 mm) .025" QMS-PC, QMS-RF SERIES\nQMS–078–05.75–L–D–RF1\nQMS–052–06.75–L–D–PC4\nChoice of Power \nand RF  optionsIntegral \nmetal plane \nfor power or \nground \nWWW.SAMTEC.COM\nUnless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.\n01\n02\n01\n02(21.35) .840(2.29) .090\n No. of Banks x (21.34) .840 + (14.86) .585 No. of Banks x (21.34) .840 + (13.21) .520\n(0.70)\n.028\nDIA(1.78)\n.070(2.00)\n.07874\n(0.635)\n.025A(2.54)\n.100(2.31)\n.091\n(7.52)\n.296\n(3.56)\n.140(0.23) \n.009\nNote:  \nSome lengths, styles and \noptions are non-standard, \nnon-returnable.Board Mates:\nQFS-PC, QFS-RA-PC,  \nQFS-RF For complete specifications and \nrecommended PCB layouts see \nwww.samtec.com?QMS \nInsulator Material:\nLiquid Crystal Polymer\nTerminal & Ground \nPlane Material:  \nPhosphor Bronze\nPlating:\nAu over 50 µ" (1.27 µm) Ni\n(Tin on Ground Plane Tail)\nCurrent Rating:  \nSignal Contact: \n2.6 A per pin\n(2 pins powered)\nPower Contact:\n4.0 A per pin\n(4 pins powered per end)\nGround Plane: \n15.7 A per ground plane\n(1 ground plane powered)\nVoltage Rating:  \n300 VAC mated with QFS\nOperating Temp:\n-55 °C to +125 °C\nRoHS Compliant:  \nYe s\n–PC4 OPTION\n–RF1 OPTIONLEAD \nSTYLEA\n(5.38)  \n.212\n(6.35)  \n.250–05.75\n–06.75QMSNO. OF PINS\nPER ROWPLATING\nOPTION\n–026, –052, –078 \n(52 total pins per bank)–L\n= 10 µ" (0.25 µm) \nGold on Signal Pins\nand Ground Plane\n(Tin on Signal Pin tails,  \nand Ground Plane tails)D “X”R LEAD \nSTYLEEND\nOPTION\n–PC4\n= 4 Power \nPins per End for \n(1.60 mm) .062" \nthick Board\n(not available \nwith –RF1)\n–RF1\n= One RF \nPlug per End \n(–05.75 only,\nnot available \nwith –PC4)–TR \n=Tape & Reel  \n–FR  \n= Full Reel \nTape & Reel \n(must order max. \nquantity per reel; \ncontact Samtec \nfor quantity \nbreaks)Specify \nLEAD \nSTYLE \nfrom \nchart\nOTHER \nSOLUTIONS\nSee SO Series for precision \nmachined standoffs.\nHIGH-SPEED  COMBO  RF  &  POWER\nFor complete scope of \nrecognitions see \nwww.samtec.com/qualityRECOGNITIONS\nALSO AVAILABLE\n(MOQ Required)\n• Other platings\n• Differential Pairs\n• Retention Pins\n• 8 Power Pins/End for  \n(1.60 mm) 0.62" thick board\n• 4 or 8 Power Pins/End for  \n(2.36 mm) .093" thick board\n• 2 RF Connectors/End\n• Hot PluggableAPPLICATION\nQFS \nMATED\nHEIGHTQMS \nQMS \nLEADSTYLEMATED \nHEIGHT*\n–05.75 (10.00) .394\n–06.75 (11.00) .433\n*Processing conditions will affect \nmated height. See SO Series for  \nboard space tolerances.SPECIFICATIONS\nFILE NO. E111594PROCESSING\nLead–Free Solderable:  \nYe s\nSMT Lead Coplanarity:\n(0.10 mm) .004" max (026-078)\nBoard Stacking:\nFor applications requiring more \nthan two connectors per board, \ncontact ipg@samtec.comF-221 SUPPLEMENT\n'}]
+!==============================================================================!
+### Component Summary: QMS-032-01-L-D-DP-RA-PC8
+
+#### Key Specifications:
+- **Voltage Rating:** 300 VAC (when mated with QFS)
+- **Current Ratings:**
+  - Signal Contact: 2.6 A per pin (2 pins powered)
+  - Power Contact: 4.0 A per pin (4 pins powered per end)
+  - Ground Plane: 15.7 A per ground plane (1 ground plane powered)
+- **Power Consumption:** Not explicitly stated; current ratings imply power handling capabilities.
+- **Operating Temperature Range:** -55 °C to +125 °C
+- **Package Type:** Connector (specifically a high-speed combo RF & power connector)
+- **Special Features:**
+  - Integral metal plane for power or ground
+  - RoHS compliant
+  - Available options for power and RF configurations
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The QMS-032-01-L-D-DP-RA-PC8 is a high-speed combo connector designed for RF and power applications. It features a unique design that integrates both RF and power connections in a single connector, making it suitable for applications that require efficient space utilization and high performance. The connector is constructed with a liquid crystal polymer insulator and phosphor bronze terminals, plated with gold over nickel for enhanced conductivity and durability.
+
+#### Typical Applications:
+This connector is typically used in applications that require both RF signal transmission and power delivery, such as:
+- Telecommunications equipment
+- Data communication systems
+- High-speed computing devices
+- Industrial automation systems
+- Any application where space is limited and both power and RF signals need to be routed efficiently.
+
+The QMS series connectors are particularly beneficial in environments where high reliability and performance are critical, such as in aerospace, military, and high-frequency applications.

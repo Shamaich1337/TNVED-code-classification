@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of AXK680337YG production of ALINX from the text:Партномер -AXK680337YG\nПроизводитель -ALINX\nОписание: Розетка для монтажа на плату 80ти -контактная.\nВнешний вид:\n\n'}]
+!==============================================================================!
+### Component Summary for AXK680337YG
+
+**Manufacturer:** ALINX  
+**Part Number:** AXK680337YG  
+**Description:** 80-pin socket for PCB mounting.
+
+#### Key Specifications:
+- **Voltage Ratings:** Not specified in the provided text; please refer to the datasheet for exact voltage ratings.
+- **Current Ratings:** Not specified in the provided text; please refer to the datasheet for exact current ratings.
+- **Power Consumption:** Not specified in the provided text; please refer to the datasheet for power consumption details.
+- **Operating Temperature Range:** Not specified in the provided text; please refer to the datasheet for the operating temperature range.
+- **Package Type:** 80-pin socket (specific package type details may be available in the datasheet).
+- **Special Features or Notes:** Not specified in the provided text; please refer to the datasheet for any special features.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text; please refer to the datasheet for moisture sensitivity level.
+
+### Component Description:
+The AXK680337YG is an 80-pin socket designed for mounting on printed circuit boards (PCBs). This component serves as a connection interface for integrated circuits (ICs) or other electronic components, allowing for easy insertion and removal without soldering. 
+
+### Typical Applications:
+The AXK680337YG socket is typically used in applications where ICs need to be replaced or upgraded frequently. Common applications include:
+- **Prototyping:** Facilitating quick changes in circuit designs during the development phase.
+- **Testing:** Allowing for easy access to ICs for testing and debugging purposes.
+- **Consumer Electronics:** Used in devices that require modular components for flexibility and maintenance.
+- **Industrial Equipment:** Employed in machinery where components may need to be swapped out for repairs or upgrades.
+
+For detailed specifications and additional information, it is recommended to consult the official datasheet from ALINX.

@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ECS-2520MV-250-CN-TR production of ECS from the text: \n \n15351 West 109th Street   |  Lenexa , KS 66219   |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \n \n   \n \n \n \n  PARAMETERS  CONDITIONS  ECS-2520 MV UNITS  \n  MIN TYP MAX   \nFrequency Range   0.750  160.000 MHz \n* Frequency Stability  -40 ~ + 85°C (BN Opt)    ±50 ppm \nSupply Voltage   1.6  3.6 V \nOutput  Load  CMOS    15 pF \nOutput voltage Level  VOL:  10% Vdd max.  / VOH:  90% Vdd min.V DC  \nRise & Fall time  10% Vdd – 90% Vdd   7 ns \nStart Up Time  @ 90% Vdd   5 mS \nPhase Jitter  12 kHz to 5 MHz    1 pS \nDuty Cycle  @ ½ Vdd    45/55  % \nStandby Current     10 µA \nOperating Temp *  -40   +85 °C \nStorage Temp   -55  +125 °C \nECS            -                 SERIES        FREQUENCY        \nABBREVIATION          -            * STABILITY                     TEMP RANGE  - \n         PACKAGING  PAD CONNECTIONS  \n1 Tri-state  \n2 Gnd  \n3 Output  \n4 Vdd FREQ.   ~ 19 MHz  ~ 39.9 MHz  ~ 50 MHz  ~ 60 MHz  ~ 160 MHz  \n+1.8V  2.5 3.0 3.5 4.0 40 \n+2.5V  4.5 5.5 6.5 7.0 40 \n+3.0V  5.5 6.5 7.5 8.0 40 \n+3.3V  6.0 7.0 8.0 8.5 40 \nTri State Function  \nPin 1  Output  \n0.7 * Vdd Min or NC  Active  \n0.3 * Vdd Max.  High Impedance  CURRENT CONSUMPTION mA Max  \n2520 MV \n2.5 x 2.0 mm  \n MultiVolt \uf0e4 Oscillator  250 = 25.000 MHz  \nSee Developed \nFrequencies Pg.2     A= ±100 ppm  \n   B = ±50 ppm \n   C=  ±25 ppm  \n   D = ±20 ppm \n \n \nRev. 2022 PART NUMBERING GUIDE:  Example ECS -2520 MV-250-BN-TR OPERATING CONDITIONS / ELECTRICAL CHARACTERISTICS  The E CS-2520MV is a miniature  SMD HCMOS Oscillator  with \nMultiVolt \uf0e4 capability of 1.6 ~ 3.6 V .  The 2. 5 x 2.0 x 0.8 mm cera mic \npackage is ideal for  LoRa WAN, Low Power /Portable , Indus trial and I oT \napplication s. \n  L = -10 ~ +70°C   \n M = -20 ~ +70°C \n N = -40 ~ +85°C \n* Frequency Stability includes initial tolerance, temperature, supply voltage and load change reflow frequency shif t, and aging.  \nECS-2520 MV \nSMD MultiVolt \uf0e4 Crystal Oscillator  \n-TR = Tape  & Reel  \n3K/Reel  ECS-2520 MV SMD  XO \n• 2.5 x 2.0 mm Footprint  \n• Extended Temp Range  \n• RoHS Compliant  \n• Wide Supply Voltage  \n• Low Jitter  \n• Compatible with 1.8V, 2.5V \nor 3.3V Power Supply  \n \nECS \nRequest a Sample  \nDIMENSIONS (mm)  \nFigure 1)  Top, Side , and Bottom views  \n \nFigure 2)  Suggested Land \nPattern  \n \n \n15351 West 109th Street   |  Lenexa , KS 66219   |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \n \n   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n FREQUENCY MHz  CODE \n4.000  040 \n8.000  080 \n12.000  120 \n16.000  160 \n24.000  240 \n25.000  250 \n26.000  260 \n32.000  320 \n33.3333  333.3  \n48.000  480 \n50.000  500 \n100.000  1000  \n125.000  1250  \nSOLDER  PROFILE  \nPeak solder Temp +260°C  ±5°C  10 ±5 Sec Max.  \n2 Cycles Max.  \nMSL 1, Lead Finish Au  Application / Temperature Time  T1 / t1  T2 / t2  \nLead Free  260 ± 5°C / 10 ± 5 See Max.  217°C Min / 60 ~ 150 Sec  \nNon-Lead Free  260 ± 5°C / 10 ± 5 See Max.  183°C Min / 60 ~ 150 Sec  \nPOCKET TAPE DIMENSIONS (mm)  DEVELOPED FREQUENC IES \nFigure 3) Suggested Reflow Profile  ECS-2520MV  \nSMD MultiVolt \uf0e4 Crystal Oscillator  \n\n'}]
+!==============================================================================!
+### Component Summary: ECS-2520MV-250-CN-TR
+
+**Key Specifications:**
+- **Frequency Range:** 0.750 MHz to 160.000 MHz
+- **Frequency Stability:** ±50 ppm (over -40°C to +85°C)
+- **Supply Voltage:** 1.6 V to 3.6 V
+- **Output Load:** 15 pF (CMOS)
+- **Output Voltage Levels:** 
+  - VOL: 10% Vdd max
+  - VOH: 90% Vdd min
+- **Rise & Fall Time:** 7 ns (10% Vdd to 90% Vdd)
+- **Start-Up Time:** 5 ms (to reach 90% Vdd)
+- **Phase Jitter:** 1 ps (from 12 kHz to 5 MHz)
+- **Duty Cycle:** 45% to 55% at ½ Vdd
+- **Standby Current:** 10 µA
+- **Operating Temperature Range:** -40°C to +85°C
+- **Storage Temperature Range:** -55°C to +125°C
+- **Package Type:** 2.5 x 2.0 mm ceramic SMD
+- **Moisture Sensitive Level (MSL):** 1 (according to JEDEC J-STD-020E)
+- **Special Features:** Tri-state function, RoHS compliant, MultiVolt capability (compatible with 1.8V, 2.5V, or 3.3V power supply)
+
+**Component Description:**
+The ECS-2520MV-250-CN-TR is a miniature SMD HCMOS oscillator designed for a wide range of applications. It features a compact 2.5 x 2.0 mm ceramic package and operates over a supply voltage range of 1.6V to 3.6V. The oscillator is characterized by low jitter and high frequency stability, making it suitable for precision timing applications.
+
+**Typical Applications:**
+This oscillator is ideal for use in:
+- **LoRa WAN (Long Range Wide Area Network):** Suitable for low-power, long-range communication applications.
+- **Low Power/Portable Devices:** Its low power consumption and compact size make it perfect for battery-operated devices.
+- **Industrial Applications:** Reliable performance in harsh environments due to its extended temperature range.
+- **IoT (Internet of Things):** Essential for devices that require precise timing and synchronization in networked applications.
+
+Overall, the ECS-2520MV-250-CN-TR is a versatile oscillator that meets the demands of modern electronic applications, particularly in the fields of communication and portable technology.

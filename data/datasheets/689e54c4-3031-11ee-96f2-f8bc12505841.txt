@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DLLTE-H10 SMA male production of DOLIN GROUP LIMITED from the text:DOLIN GROUP LIMITED  \n                                        \nDOLIN GROUP LIMITED  www.dolinele.com                         \nSales@dolinele.com  dolinsales@163.com \nSkype: dolinsales What’s APP: +86 19 5858 4601 \n \n \n \nLTE Flat Rotation Antenna \nSpecification \n \nModel: DLLTE-H10 \nMain Technical Specifications \nFrequency  700-2700Mhz  \nGain  5dBi \nVSWR ≤2.0:1 \nInput Impedance 50ohm \nRadiation OMNI \nPolarization Type Vertical \nMax Input power 50w \nAntenna Length 192mm \nDiameter 12.9mm/18mm \nConnector Type SMA /ME etc. \nAntenna Color Black \nWorking Temperature -45℃ to +85℃ \nStorage Temperature     -45℃ to +85℃ \nDOLIN GROUP LIMITED  \n                                        \nDOLIN GROUP LIMITED  www.dolinele.com                         \nSales@dolinele.com  dolinsales@163.com \nSkype: dolinsales What’s APP: +86 19 5858 4601 \n \n \n \nCharacteristic curve  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nDOLIN GROUP LIMITED  \n                                        \nDOLIN GROUP LIMITED  www.dolinele.com                         \nSales@dolinele.com  dolinsales@163.com \nSkype: dolinsales What’s APP: +86 19 5858 4601 \n \n \n \nSize drawing  \n \n \n           \n \n \n'}]
+!==============================================================================!
+### Component Summary: DLLTE-H10 SMA Male Antenna
+
+**Key Specifications:**
+- **Frequency Range:** 700 - 2700 MHz
+- **Gain:** 5 dBi
+- **Voltage Standing Wave Ratio (VSWR):** ≤ 2.0:1
+- **Input Impedance:** 50 Ohm
+- **Radiation Pattern:** Omni-directional
+- **Polarization Type:** Vertical
+- **Maximum Input Power:** 50 W
+- **Antenna Length:** 192 mm
+- **Diameter:** 12.9 mm / 18 mm
+- **Connector Type:** SMA / ME (various options)
+- **Antenna Color:** Black
+- **Operating Temperature Range:** -45°C to +85°C
+- **Storage Temperature Range:** -45°C to +85°C
+
+**Description:**
+The DLLTE-H10 is a flat rotation antenna designed for LTE applications. It operates across a wide frequency range from 700 MHz to 2700 MHz, making it suitable for various wireless communication standards. The antenna features a gain of 5 dBi, which enhances signal strength and coverage. Its omni-directional radiation pattern allows for 360-degree signal transmission and reception, making it versatile for different installation environments.
+
+**Typical Applications:**
+The DLLTE-H10 antenna is typically used in:
+- **Wireless Communication:** Enhancing signal reception and transmission for LTE networks.
+- **Mobile Devices:** Integration into smartphones, tablets, and other mobile devices requiring robust connectivity.
+- **IoT Devices:** Supporting Internet of Things applications where reliable wireless communication is essential.
+- **Telecommunications Infrastructure:** Utilized in base stations and repeaters to improve network coverage and performance.
+
+This antenna is ideal for applications that demand high performance in a compact form factor, particularly in environments with extreme temperatures.

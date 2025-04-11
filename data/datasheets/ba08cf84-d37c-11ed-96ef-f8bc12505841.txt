@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 04BEEG3F-R production of DELTA ELECTRONICS from the text:DELT A DIMENSIONS IN INCHES/mmSTYLEPART NO. A B C D E\n02BEEG3F EG3F\n2.263 2.106 1.66 1.42 1.7404BEEG3F EG3F\n57.5 53.5 42.0 36.0 44.0\n06BEEG3F EG3FSERIES DIMENSIONS\nBEEG3F1. Designed as a  general purpose filter with a fuse holder providing \n    effective EMI suppression for both common and differential \n    mode noise. \n2. All part numbers are UL recognized, CSA  certified and VDE \n    approved.\n3. Bleeder resistor is added with suffix "-R".\n4. With optional Y CAP . from 100pF ~ 4700pF.1. Maximum leakage current each\n    line-to-ground @ 115V AC 60Hz: 0.25mA\n                           @ 250VAC 50Hz: 0.45mA  \n2. Hipot rating (one minute)\n    line-to-ground: 2250VDC\n    line-to-line: 1450VDC\n3. Operating frequency: 50/60Hz\n4. Rated voltage: 115/250V AC\n4-6COMMONMODE \nCOMMON MODEDIFF. MODE\nDIFF. MODE\n10K0 dB\n100K20 dB40 dB60 dB04BEEG4F\n06BEEG3F\n80 dB\n1M 10M E\nN\nGF L\nI\nNL\nD\nG\'N\'Cx\nLOL\nAL\'\nFR\nCyCy\nUNIT: INCH\nmmSUGGESTED MOUNTING CUTOUT\n  (MOUNTING FROM FRONT)\nun fusible de 250VE MAX.Use only with a 250V fuse\nEmployer uniquement avec\nD\nA MAX.C MAX.\nB MAX.28.51.122\n32.61.283\n33.1   0.1M336.0   0.1R3.5R0.14\n29.0   0.11.417   0.004\n1.142   0.004\n1.303   0.004SERIES\nSPECIFICATIONSDUAL-FUSE CONNECTOR FIL TERS \nINTRODUCTIONS\n02BEEG3F/-R 4.0\n0.1 04BEEG3F/-R 1.8 3300 1M\n06BEEG3F/-R 0.8PART NO. Cx (uF) L (mH) Cy (pF) R()  COMPONENTS\nCURRENT       FREQUENCY-MHz\nRATING .15 .50 1.0 5.0 10 30\n2A 29 38 40 42 43 41\n4A 19 30 32 42 42 39\n6A 13 22 26 38 42 38\n2A 5 19 28 48 51 50\n4A 5 14 21 48 48 42\n6A 5 12 15 40 46 38COMMON MODE (L-G) IN 50 OHM SYSTEM\nDIFFERENTIAL MODE (L-L) IN 50 OHM SYSTEMMINIMUM INSERTION LOSS IN dB\nINSERTION LOSS (TYPICAL)\nELECTRICAL  SCHEMATIC\nMECHANICAL CONSTRUCTIONDVEPOWER ENTRY MODULE FILTERS\n'}]
+!==============================================================================!
+### Component Summary for 04BEEG3F-R
+
+**Component Type:**  
+The 04BEEG3F-R is a dual-fuse connector filter designed for EMI suppression, effective against both common and differential mode noise.
+
+**Key Specifications:**
+
+- **Voltage Ratings:**  
+  - Rated Voltage: 115/250V AC
+  - Hipot Rating (one minute): 
+    - Line-to-ground: 2250VDC
+    - Line-to-line: 1450VDC
+
+- **Current Ratings:**  
+  - 2A, 4A, and 6A options available, with varying insertion loss characteristics.
+
+- **Power Consumption:**  
+  - Maximum leakage current:
+    - @ 115V AC 60Hz: 0.25mA
+    - @ 250V AC 50Hz: 0.45mA
+
+- **Operating Temperature Range:**  
+  - Not explicitly stated in the provided text; typically, such components operate within standard industrial temperature ranges (e.g., -40°C to +85°C).
+
+- **Package Type:**  
+  - Dimensions: 2.263 x 2.106 x 1.66 inches (57.5 x 53.5 x 42.0 mm)
+
+- **Special Features or Notes:**  
+  - Designed for general-purpose filtering with a fuse holder.
+  - UL recognized, CSA certified, and VDE approved.
+  - Optional Y capacitor available (100pF to 4700pF).
+  - Bleeder resistor included with suffix "-R".
+
+- **Moisture Sensitive Level (MSL):**  
+  - Not specified in the provided text; typically, this information can be found in the detailed datasheet.
+
+**Description:**  
+The 04BEEG3F-R is a power entry module filter that integrates a fuse holder, providing effective EMI suppression for electrical systems. It is designed to filter out unwanted noise from power lines, ensuring cleaner power delivery to sensitive electronic devices.
+
+**Typical Applications:**  
+This component is commonly used in various applications, including:
+- Power management systems
+- Industrial equipment
+- Consumer electronics
+- Medical devices
+- Telecommunications equipment
+
+The filter helps in maintaining compliance with electromagnetic compatibility (EMC) standards by reducing electromagnetic interference (EMI) in electronic circuits.

@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of R068-3PI-26910 production of SUNKYE INTERNATIONAL CO., LTD from the text:Drawing No.\nArchivesSignature\n/1 1Plnte\nDesign\nStandard checkAuditing\nApproveScale Sheet of REVTechnics\nWeight Phase markerCheckDenomination:\nMaterial\nacreage (mm  ):2DWG No.: Character\nDIN\nA000 4:1 DR\nP/N:Unit:mmHeat\ntreatment\nGeneral  toleranceCritical  Dimension  **Important  Dimension  *\nX  ±0.15 X°  ±1°\n.X  ±0.10 .X°  ±0.5°\n.XX  ±0.05 .XX°  ±0.05°\n.XXX  ± .XXX°  ±1.6\nWo  wo 2023.02.21\nWu  gang\nXianghuaming2023.02.21\n2023.02.211.02±0.03\n1.274.58 0\n-0.1\n2 0\n-0.050.1±0.03\n100\n2.54±0.08\n10.16±0.12\nSPECIFICATIONS\nMaterial:PPS\nEnvironment: -55 ℃~+150℃\nVibration:  10Hz~2000Hz 196m/s²\nShock: 735m/s² 11msRated current: 3ARandom vibration: power spectrum density 0.4G² /Hz, r.m.s value of total acceleration 23.1G Contact resistance: ≤10mΩInsulation resistance: ≥5000MΩ 100VDCDielectric strength: 600VMachine life: 800 timesSUNKYE\nR068-3PI-26910\nMICRO STRIP CONNECTORØ3-0.\n892-0.56\n'}]
+!==============================================================================!
+### Component Summary for R068-3PI-26910
+
+**Component Type:** Micro Strip Connector
+
+**Manufacturer:** SUNKYE INTERNATIONAL CO., LTD
+
+#### Key Specifications:
+- **Voltage Ratings:** 600V (Dielectric strength)
+- **Current Ratings:** 3A (Rated current)
+- **Power Consumption:** Not specified; typically depends on the application and load.
+- **Operating Temperature Range:** -55°C to +150°C
+- **Package Type:** Not explicitly stated; however, it is a micro strip connector.
+- **Special Features/Notes:**
+  - Contact resistance: ≤10mΩ
+  - Insulation resistance: ≥5000MΩ at 100V DC
+  - Machine life: 800 cycles
+  - Vibration resistance: 10Hz to 2000Hz at 196m/s²
+  - Shock resistance: 735m/s² for 11ms
+  - Random vibration: Power spectrum density of 0.4G²/Hz, r.m.s value of total acceleration 23.1G
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The R068-3PI-26910 is a micro strip connector designed for high-performance applications requiring reliable electrical connections. It is constructed from PPS (Polyphenylene Sulfide), which provides excellent thermal stability and chemical resistance. The connector is engineered to withstand extreme environmental conditions, making it suitable for various demanding applications.
+
+#### Typical Applications:
+- **Telecommunications:** Used in high-frequency signal transmission.
+- **Aerospace and Defense:** Suitable for applications requiring high reliability under extreme conditions.
+- **Industrial Equipment:** Ideal for connecting components in machinery that experience vibration and shock.
+- **Consumer Electronics:** Can be utilized in devices where compact and efficient connections are necessary.
+
+This connector is particularly valuable in scenarios where space is limited, and performance is critical, ensuring robust connections in challenging environments.

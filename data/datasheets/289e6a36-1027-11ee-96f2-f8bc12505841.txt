@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of PMISO-1550-D-B-9-08-FA production of SEAGNOL PHOTONICS CO., LTD from the text:www.seagnol.com\nApplication: Features:\nSpecification:\nSymbol Unit\nλ nm\nBW nm\nSingle Stage Dual Stage Triple Stage -\nIL 0.3 0.4 0.9 dB\nIL 0.5 0.6 1.1 dB\nIso 42 58 70 dB\nIso 28 48 65 dB\nPDL 0.2 0.2 0.25 dB\nPMD 0.2 0.05 0.05 ps\nRL dB\nP mW\nN\n-\nT ℃\nT ℃\nΦ5.5×L65 mm\nNotice: Above specifications are tested at center wavelength without connector in room temperature @23 ℃.\n             For devices with connectors, IL will be 0.3dB higher, RL will be 5dB lower.\nDrawing:\nOrdering Information (Part Number):\n WWWW  S  J  LL  CC\n Wavelength  Stage  Fiber Jacket  Fiber Length  Connector\n 1550  - 1550nm  S - Single Stage  B - 250um Bare Fiber  05 - 0.5m  NE - None\n D - Dual Stage  9 - 900um Loose Tube  10 - 1.0m  FA - FC/APC\n T - Triple Stage  15 - 1.5m  FU - FC/UPC\n 20 - 2.0m  SA - SC/APC\n     SS - Specify  SU - SU/APC\n LA - LC/APC\n   LU - LC/UPC\n SS - Specify\nsales@seagnol.com Page 1 of 1Typ. Insertion Loss1550nm Polarization Insensitive Optical Isolator\n       1550nm Polarization Insensitive Optical Isolator is a fiber passive component built with singlemode fiber, it allows light\nsignal to be delivered in one forward direction and avoid the back reflection light, it's widely used in amplifier system, fiber\noptic sensor system to protect the light source and lower down the optical signal noise.\nFiber Amplifier\nFiber Optic Sensor\nFiber Laser\nLab & ResearchHigh Isolation\nLow PDL\nLow Insertion Loss\nHigh Reliability\nParameter Value\nCenter Wavelength 1550\nBandwidth ±15\nStage\nFiber Type SMF-28eMax. Insertion Loss\nTyp. Peak Isolation\nMin. Isolation\nMax. Polarization Dependent Loss\nMax. Polarization Mode Dispersion\nMin. Return Loss 55\nMax. Optical Power (CW) 500\nMax. Tensil Load 5\n PIISO- WWWW-S-J-LL-CCOperating Temperature -5~70\nStorage Temperature -40~85\nPackage Dimension Φ5.5×L35\n5.5mm\nOutputInput\n35mm\n\n"}]
+!==============================================================================!
+### Component Summary: PMISO-1550-D-B-9-08-FA
+
+**Manufacturer:** Seagnol Photonics Co., Ltd  
+**Product Code:** PMISO-1550-D-B-9-08-FA
+
+#### Key Specifications:
+- **Center Wavelength (λ):** 1550 nm
+- **Bandwidth (BW):** ±15 nm
+- **Insertion Loss (IL):**
+  - Single Stage: 0.3 dB
+  - Dual Stage: 0.5 dB
+  - Triple Stage: 0.9 dB
+- **Isolation (Iso):**
+  - Single Stage: 42 dB
+  - Dual Stage: 28 dB
+  - Triple Stage: 70 dB
+- **Polarization Dependent Loss (PDL):** 0.2 dB (Single & Dual Stage), 0.25 dB (Triple Stage)
+- **Polarization Mode Dispersion (PMD):** 0.2 ps (Single Stage), 0.05 ps (Dual & Triple Stage)
+- **Return Loss (RL):** Minimum 55 dB
+- **Maximum Optical Power (CW):** 500 mW
+- **Maximum Tensile Load:** 5 N
+- **Operating Temperature Range:** -5 to 70 °C
+- **Storage Temperature Range:** -40 to 85 °C
+- **Package Dimensions:** Φ5.5 × L35 mm
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+#### Description:
+The PMISO-1550-D-B-9-08-FA is a **polarization insensitive optical isolator** designed for use in fiber optic applications. This passive optical component allows light to pass in one direction while preventing back reflections, which can interfere with the performance of optical systems. It is particularly effective at maintaining signal integrity in high-performance fiber optic networks.
+
+#### Typical Applications:
+- **Fiber Amplifier Systems:** Protects the light source from back reflections that can cause instability and noise.
+- **Fiber Optic Sensor Systems:** Ensures accurate signal transmission by minimizing interference from reflected light.
+- **Fiber Lasers:** Enhances the reliability and performance of laser systems by isolating the output.
+- **Laboratory and Research Applications:** Used in experimental setups where signal integrity is critical.
+
+#### Features:
+- High isolation levels to prevent back reflections.
+- Low insertion loss for efficient signal transmission.
+- High reliability suitable for various demanding applications.
+- Compact package design for easy integration into existing systems.
+
+This optical isolator is essential for enhancing the performance and reliability of fiber optic communication systems, making it a valuable component in modern optical networks.

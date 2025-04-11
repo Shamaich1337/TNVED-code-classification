@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CAS-M025-HNS-0313 production of E-TEC from the text:Wire Harness\nHirose# DF20A-20DS-1C\n to\nHirose# DF20A-20DS-1C\n, L=330mmREV. previous version this version DATE DRAWN\nAN e w 18.05.2023 Cherry\nRoHS\ncompliant\n SHEET UNITmm\nFreeSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO. REV.GENERAL TOLERANCE\n0 ~ 200mm  ->  ±10mm\n201 ~ 1000mm  ->  ±20mm\n1001 ~ 1500mm  ->  ±25mm\n1501 ~ 2100mm  ->  ±30mm\n2100mm↑->  ±40mm  E-tec 2023 © - all rights reserved   www.e-tec.asia\nCherry\nKent\nSH18.05.2023\n18.05.2023\n18.05.2023CAS-M025-HNS-0313\nCAS-M025- HNS-03131/1\nAYY WWHEPB.685623.005\nP1 P2\nP1 P2\n1 Red20\n2 Black19\n31 8\n41 7\n5 16\n61 5\n7 14\n81 3\n9 12\n10 1111 10\n12 9\n13 8\n14 7\n15 6\n16 5\n17 4\n18 3\n19 2\n20 1P1 P2330 ±10\n25±2\n10±2\n10±220±5\n1 1 2 3 4 410±210±225±2\n25\nLabel40YY WWHEPB.685623.005\nYY WWHEPB.685623.005"YYWW" Means the Production Day\nYY=Year  WW=WeekPin 1 Pin 2Pin 19 Pin 20 Pin 2 Pin 1\nPin 20 Pin 19\nBlack\nBlack\nBlack\nBlack\nBlack\nBlack\nBlack\nBlackBlack\nBlack\nBlack\nBlack\nBlack\nBlack\nBlack\nBlack\nBlackBlack\nItem Description Q\'TY\nHousing: Hirose# DF20A-20DS-1C 2\nTerminal: Hirose# DF20F-2830SCFA 401\n2 UL10064 28AWG Insulator Wire, OD 0.62mm 20\n3 Black Heat Shrink Tube 1\n4 Black Acetate Cloth Tape 2\n'}]
+!==============================================================================!
+### Component Summary for CAS-M025-HNS-0313
+
+**Component Type:** Wire Harness
+
+**Manufacturer:** E-TEC
+
+**Connector Type:** Hirose DF20A-20DS-1C
+
+**Key Specifications:**
+- **Length:** 330 mm
+- **Wire Gauge:** 28 AWG
+- **Wire Insulation:** UL10064, OD 0.62 mm
+- **Connector Housing:** Hirose DF20A-20DS-1C
+- **Terminal Type:** Hirose DF20F-2830SCFA
+- **Heat Shrink Tube:** Black
+- **Cloth Tape:** Black Acetate
+- **RoHS Compliance:** Yes
+
+**General Tolerance:**
+- Lengths from 0 to 200 mm: ±10 mm
+- Lengths from 201 to 1000 mm: ±20 mm
+- Lengths from 1001 to 1500 mm: ±25 mm
+- Lengths from 1501 to 2100 mm: ±30 mm
+- Lengths above 2100 mm: ±40 mm
+
+**Moisture Sensitive Level:** Not specified in the provided text.
+
+### Description:
+The CAS-M025-HNS-0313 is a wire harness designed for electrical connections in various applications. It consists of a Hirose DF20A-20DS-1C connector housing and utilizes 28 AWG insulated wires. The harness is constructed to facilitate reliable electrical connections while maintaining compliance with RoHS standards, ensuring it is free from hazardous substances.
+
+### Typical Applications:
+Wire harnesses like the CAS-M025-HNS-0313 are commonly used in:
+- **Automotive:** For connecting various electrical components within vehicles.
+- **Consumer Electronics:** To interconnect components in devices such as computers, televisions, and appliances.
+- **Industrial Equipment:** For wiring connections in machinery and control systems.
+- **Telecommunications:** To connect devices and systems in communication networks.
+
+This wire harness is particularly useful in applications where space is limited, and reliable connections are critical for performance and safety.

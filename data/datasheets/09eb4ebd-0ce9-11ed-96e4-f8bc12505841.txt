@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SX-1650E25 production of XUYI OUGE ELECTRONIC CO.,LTD. from the text:SPECIFICATION  FOR  APPROVAL \nOWNER Macro Group\nItem No： EE25 verti cal pulse transfo rmer \nCUSTOMER NO: CUSTOMER  \nREVISION:  1.0 \nOUGE  No：  SX-1650E25 OU GE \nREVISION:  A1 \nNote:Please send con firmation to us with signature and seal \nsign and seal  by seller Sign and seal by buyer \nPreparer Reviewer Approver Reviewer Approver confirmer \n ZhiHua Zhang \nDate： 10th June. 2020 Date  \nManufacturer: XUYI OUGE ELECTRONIC CO.,LTD\n1.Dimensions(unit:mm)\n2．Circuit dargram: \n3．cross-section drawn: \nOuge Item No SX-1650E25  \nName EE25 vertical Transformer  \nRevision A1 Page No 1/3 \n4. winding process:\n№ Pin  star-stop Specification of \ncopper line Turns Tube \nST FIN \nN1 1－2 2UEW φ0.23mm×1P 84 / / \nN2 6－7 T.I.W φ0.45mm×1P 10 / / \nN3 5－8 T.I.W φ0.45mm×1P 10 / / \nN4 3－4 2UEW φ0.23mm×2P 10 / / \n5．Description：  \n1. EE2501 vertical pin4+4\n2．EE25/20/6.3 PC44 Ferrite Core wit h 2 side air gap. \n3．Transformers vacuum imp regnation and bake. \n4. Coils are packaged with 11.2mm yellow tape inside , last winding do not\npacked with tape .Cores are packaged with 6.2mm Yellow tape \n5.Application: DC-DC pulse converters, 50 V dc max, up to 10 W\n6.Label on top of transformer 《SX-1650E25》\n   OG   Year/Month  \n6. Electrical  Parameter\n○1 Inductance\n№ Pins Specification Test condition Test equipment \n1 1－2 0.65mH±10 % 10.0KHZ 0.3V  TH2819XB \n○2 Leakage Inductance\n№ Pins Specification Test condition Test equipment \n1 1-2 / / TH 819XB \n○3 Isolation Voltage\n№ Part Standard Time Test equipment\n1 PRI TO SEC 500V/AC//3mA/50HZ 5s \nWB2671 2 PRI TO CORE 500V/AC//3mA/50HZ 5s \n3 SEC TO CORE 500V/AC//3mA/50HZ 5s \nItem No SX-1650E25 7.Frequency range 10-150 kHz.\nName SX-1650E25 vertical Transformer  \nRevision A12 Page No 2/3 \n7. BOM List\n№ Name Specification Remark \n1 Ferrite core EE25/20/6.3/PC44 SGS \n2 Bobbin coil EE2501 vertical SGS \n3 Magnet wire 2UEW 155℃ E85640 \n4 Insulating oil T1148-1 \nE228349 \n5 Diluent T1148-1X \n6 MYLAR tape CT-280 yellow/yellow \n 0.055mm E165111 \n7 High temperature tin  100H SGS \nItem No SX-1650E25 \nName: EE25 vertical Transformer  \nRevision A1 Page No 3/3 \n'}]
+!==============================================================================!
+### Component Summary for SX-1650E25
+
+**Manufacturer:** XUYI OUGE ELECTRONIC CO., LTD  
+**Product Code:** SX-1650E25  
+**Component Type:** Vertical Pulse Transformer (EE25)
+
+#### Key Specifications:
+- **Voltage Ratings:** Maximum 50 V DC
+- **Current Ratings:** Up to 10 W (power handling)
+- **Power Consumption:** Not explicitly stated, but implied by the maximum power rating of 10 W
+- **Operating Temperature Range:** Not specified in the provided text
+- **Package Type:** EE25 vertical configuration
+- **Special Features/Notes:**
+  - Vacuum impregnation and bake process for transformers
+  - Coils packaged with yellow tape for insulation
+  - Ferrite core with a two-side air gap
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text
+
+#### Description:
+The SX-1650E25 is a vertical pulse transformer designed for use in DC-DC pulse converters. It features an EE25 ferrite core with a specific winding configuration that allows it to efficiently transfer electrical energy between circuits while isolating them. The transformer is constructed with precision to ensure reliable performance in various applications.
+
+#### Typical Applications:
+- **DC-DC Pulse Converters:** The primary application of the SX-1650E25 is in DC-DC converters, where it helps in stepping up or stepping down voltage levels while maintaining electrical isolation.
+- **Power Management Systems:** It can be utilized in power management circuits to regulate voltage and current levels.
+- **Signal Processing:** The transformer can also be used in signal processing applications where pulse signals need to be transformed or isolated.
+
+This component is particularly suited for applications requiring efficient energy transfer and isolation in power electronics, making it a valuable component in modern electronic designs.

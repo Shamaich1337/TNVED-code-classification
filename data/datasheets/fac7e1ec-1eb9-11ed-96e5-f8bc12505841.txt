@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SDD-0909-2-95-MFN-M025 production of E-TEC from the text:A New 25.07.2022 Cherry\nOrder Code\nSDD-0909-2-95-MFNX-M025\nJ = 4 Jack Screws 4-40 UNC\n      assembled to the connectorOption\nRoHS\ncompliant\nDual Port D-Sub\nUpper part: 09-contact Male\nLower part: 09-contact Female\nwith 4 Grounding Clips SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.25Cherry\nKent\nSH25.07.2022\n25.07.202225.07.2022SDD-0909-2-MFN-M025\nSDD-0909-2-xx-MFNX-M0251/1\nAMaterial\nContact: Copper Alloy\nPlating: see above plating code\nInsulator: PBT (black) UL 94V-0\nShell: SPCC Steel; Ni plated\nGrounding Clips: Copper Alloy; Sn plated\nJack Screws: Copper Alloy; Ni plated\nOperating temperature: -55°C to +85°C\nMechanical Requirements\nInsertion force: 341gf max.\nExtraction force: 21gf min.Specifications\nElectrical\nCurrent rating: 3A\nInsulation resistance: 5000M Ω min.\nContact resistance: 25m Ω max.\nVoltage rating: 25V DC\nWithstanding voltage: 1000V AC rms4-40 UNC SCREW11.80\n4.80\n4.75\n4-40 UNC\n4.80\n19.50\n3.922.848.08\n2.84 3.18 ±0.388.08\n8.0019.20\n8.00\n8.082.84\n3.922.77\n2.848.0824.99\n2.777.90 ±0.13\n2.8430.81 ±0.38\n24.99\n16.33 ±0.1331.60 ±0.3819.05\n12.55 ±0.38\n2.77#4-40 UNC\n2.842.7716.92 ±0.13\n8.36 ±0.1312.55 ±0.38\n6.00\n18x∅1.10\n4x∅3.20\nRecommended PCB Hole Layout\n(Tolerance ±0.05)\n'}]
+!==============================================================================!
+### Component Summary for SDD-0909-2-95-MFN-M025
+
+#### Key Specifications:
+- **Voltage Rating:** 25V DC
+- **Current Rating:** 3A
+- **Power Consumption:** Not specified directly; power can be calculated using P = V x I (P = 25V x 3A = 75W, but this is theoretical and depends on actual usage).
+- **Operating Temperature Range:** -55°C to +85°C
+- **Package Type:** Dual Port D-Sub Connector
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+- **Special Features/Notes:**
+  - Contains 09-contact Male (upper part) and 09-contact Female (lower part).
+  - Includes 4 Grounding Clips.
+  - RoHS compliant.
+  - Mechanical requirements include an insertion force of 341gf max and an extraction force of 21gf min.
+  - Insulation resistance of 5000MΩ min and contact resistance of 25mΩ max.
+  - Withstanding voltage of 1000V AC rms.
+
+#### Description:
+The SDD-0909-2-95-MFN-M025 is a dual port D-Sub connector designed for reliable electrical connections in various applications. It features a male connector on the upper part and a female connector on the lower part, making it suitable for connecting two devices or circuits. The connector is constructed with high-quality materials, including copper alloy contacts and a PBT insulator, ensuring durability and performance under a wide range of environmental conditions.
+
+#### Typical Applications:
+This component is typically used in:
+- **Data Communication:** Connecting devices in computer and telecommunications equipment.
+- **Industrial Automation:** Providing connections in control systems and machinery.
+- **Consumer Electronics:** Used in various electronic devices for signal transmission.
+- **Power Management:** Facilitating connections in power distribution systems.
+- **Test Equipment:** Commonly found in testing setups for electronic devices.
+
+Overall, the SDD-0909-2-95-MFN-M025 connector is a versatile and robust solution for ensuring secure and efficient electrical connections across a variety of applications.

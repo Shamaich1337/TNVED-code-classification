@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 7M-27.000MEIJ-T production of TXC CORPORATION from the text:7M\nMHz Crystal \nRev. 1.08 Page 1 www.txccrystal.com16 ~ 20 MHz 60/uni03A9 Max.\n20 ~ 64 MHz 50/uni03A9 Max.80/uni03A9 Max.\n12 ~ 16 MHz 80/uni03A9 Max. 80 ~ 114 MHz 60/uni03A9 Max.10 ~ 12 MHz 150/uni03A9 Max. 60 ~ 80 MHzNotes:\n[1]Please contact us for low aging +/-1ppm grade  crystals.\nMotional Resistance (ESR )\nFundamental 3rd OvertoneAging (at 25°C ± 3°C, first year) Faging  ±3ppm Max. Note  [1]\nStorage  Temperature Ra nge TSTR -55°C ~ +125°CDrive Level DL 1 ~ 200/uni03BCW  (100/uni03BCW  Typ.)\nLoad Cap acitance CL6pF, 8pF, 9p F, 10pF\n12pF, 16 pF, 18 pF, 20 pF-40°C ~ +85°C\n-40°C ~ +125°C\nShunt Capa citance C0 3pF Max.-40°C ~ +85°C ±20 ppm\n±15 ppm\n±60 ppm -40°C ~ +125°C\nOperating Temperature Ra nge TOTR-20°C ~ +70°CFrequency Stability over\nOperating Temperature Ra nge\n(refer to 2 5°C)Fstab±30 ppm\n-20°C ~ +70°C ±20 ppm\n±10 ppm\n±10 ppm -30°C ~ +85°C\n±30 ppmFrequency Toleranc e Ftol ±30ppm, ±20ppm, ±10ppm at 25°CElectrical Character istics\nItem 7M Conditions\nFrequency Ran ge F0 10MHz ~ 114MHz□RoHS  compliant & Pb free□External dimensions (mm)□Com puter peripherals\nL : 3.2 x W : 2.5 x H : 0.7□Consumer products□Cera mic SMD pa ckage □Cellul ar phone , Pager, DSC\n□Seam sealing □Display, TVFeatures Applications\n□Frequency range : 10MHz to 114MHz □Bluetooth, Wireless LAN\n\n7M\nMHz Crystal \nRev. 1.08 Page 2 www.txccrystal.com-T 7M -20.000M AHEDimensions\nOrdering Information\nFrequency Tolerance (at 25°C) \nA ± 30 ppm \nD ± 20 ppm \nE ± 10 ppm \nFrequency Stability (over Temp.) \nA ± 30 ppm  ( -20°C ~ +70°C ) \nD ± 20 ppm  ( -20°C ~ +70°C ) \nE ± 10 ppm  ( -20°C ~ +70°C ) \nT ± 10 ppm  ( -30°C ~ +85°C ) \nH ± 30 ppm  ( -40°C ~ +85°C ) \n I ± 20 ppm  ( -40°C ~ +85°C ) \nJ ± 15 ppm  ( -40°C ~ +85°C ) \nK ± 60 ppm   ( -40°C ~ +125°C ) Load Capacitance \nB 6 pF \nV 8 pF \nC 9 pF \nQ 10 pF \nE 12 pF \n I 16 pF \nJ 18 pF \nK 20 pF Packa ging Method \nT Tape & Ree l Frequency in Hz \nPlease contact us for \navailable frequencies \n\n7M\nMHz Crystal \nRev. 1.08 Page 3 www.txccrystal.comPacking\nReflow Profile\n(°C) \n260 \n220 \n150 180 \nTime (sec) 120 sec 60 sec 10 sec Solder melting point : 220°C ± 10°C, 60 sec. Min. \nPeak temperat ure : 260°C ± 10°C, 10 sec. Min. \n(Unit: mm) \n(Unit: mm) \n\n'}]
+!==============================================================================!
+### Component Summary: 7M-27.000MEIJ-T (TXC Corporation)
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated; typically, crystals operate at low voltage levels.
+- **Current Ratings**: Not specified; crystals generally have negligible current draw.
+- **Power Consumption**: Drive Level (DL) is specified as 1 ~ 200 µW (100 µW typical).
+- **Operating Temperature Range**: -20°C to +70°C.
+- **Package Type**: Ceramic SMD (Surface Mount Device) package with dimensions of 3.2 mm x 2.5 mm x 0.7 mm.
+- **Special Features/Notes**: 
+  - RoHS compliant and Pb-free.
+  - Frequency range from 10 MHz to 114 MHz.
+  - Various load capacitance options (6 pF, 8 pF, 9 pF, 10 pF, 12 pF, 16 pF, 18 pF, 20 pF).
+  - Frequency tolerance options available (±30 ppm, ±20 ppm, ±10 ppm at 25°C).
+  - Frequency stability over temperature ranges (±30 ppm, ±20 ppm, ±10 ppm).
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The 7M-27.000MEIJ-T is a surface mount crystal oscillator produced by TXC Corporation. It operates at a fundamental frequency of 27.000 MHz and is designed to provide stable frequency output for various electronic applications. Crystal oscillators like this one are essential components in timing circuits, providing precise clock signals for digital devices.
+
+#### Typical Applications:
+- **Computer Peripherals**: Used in devices such as keyboards, mice, and other input/output devices.
+- **Consumer Products**: Found in various consumer electronics, including televisions and displays.
+- **Cellular Phones and Pagers**: Provides timing for communication protocols.
+- **Bluetooth and Wireless LAN**: Used in wireless communication devices to maintain accurate timing and frequency stability.
+- **Digital Signal Processing**: Essential for applications requiring precise timing and synchronization.
+
+This crystal oscillator is particularly suitable for applications where size, frequency stability, and low power consumption are critical.

@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SML-LX0603GW-TR production of LUMEX from the text:MOISTURE SENSITIVE DEVICE\nPER JEDEC LEVEL 2a STANDARDSSTATIC DEVICE FOLLOW PROPER \nE.S.D. HANDLING PROCEDURES \nWHEN WORKING WITH THIS PART 2- 0.800 \n 2- 0.800 \n 0.700 2- 0.450 0.018\n0.700 0.0282 11.000 0.039\n0.280 0.0110.600 0.0241.600 0.063\n0.800 0.031CATHODE\nMARK\nELECTRO-OPTICAL CHARACTERISTIC TA=25 ℃\nABSOLUTE MAXIMUM RATINGS TA=25 ℃\n*t<10usPOLARITY\nRECOMMENDED SOLDER PAD LAYOUT2 1\nPARAMETER MAX UNITS\nPEAK FORWARD CURRENT* 40 mA\nFORWARD CURRENT 20 mA\nREVERSE VOLTAGE 5 V\nPOWER DISSIPATION 48 mW\nSTORAGE TEMPERATURE -40 TO +100 ℃\nOPERATING  TEMPERATURE -40 TO +85 ℃PARAMETER MIN TYP MAX UNITS TEST COND\nPEAK WAVELENGTH - 565 - nm If=20mA\nFORWARD VOLTAGE - 2.2 2.4 Vf If=20mA\nREVERSE CURRENT - - 10 uA VR=5V\nLUMINOUS INTENSITY - 11 - mcd If=20mA\nVIEWING ANGLE - 125 - 2x theta 1/2 -\nEMITTED COLOR  GREEN\nEPOXY LENS FINISH  MILKY WHITE DIFFUSED\nSCALE : \nmm [INCH]DATE： DRAWN BY： 425 N. GARY AVE.\nCAROL STREAM, IL 60188\nPHONE：800-278-5666FAX：630-315-2150\nWEB：WWW.LUMEX.COM1.6(L)*0.8(W)*0.6(H)mm, PCB CHIP, SURFACE MOUNT LED, 565nm GREEN LED, MILKY WHITE DIFFUSED LENS.\n**THE SPECIFICATIONS MAY CHANGE AT ANY TIME WITHOUT NOTICE.**\nCONFIDENTIAL INFORMATION\nTHE INFORMATION CONTAINED IN THIS DOCUMENT IS THE PROPERTY OF LUMEX INC. EXCEPT AS SPECIFICALLY AUTHORIZED IN WRITING BY LUMEX INC., THE HOLDER OF THIS DOCUMENT SHALL \nKEEP ALL INFORMATION CONTAINED HEREIN CONFIDENTIAL AND SHALL PROTECT SAME IN WHOLE OR IN PART FROM DISCLOSURE AND DISSEMINATION TO ALL THIRD PARTIES.CHKD BY：\nAPRVD BY：PAGE：\nUNIT：*UNLESS OTHERWISE SPECIFIED TOLERANCES PER DECIMAL PRECISION ARE: X= ±1 (±0.039), X.X= ±0.5 (±0.020), X.XX= ±0.25 (±0.010), X.XXX= ±0.127 (±0.005).  LEAD SIZE= ±0.05 (±0.002), LEAD LENGTH= ±0.75 (±0.030). MIN=                                     MAX.=  +DECIMAL PRECISION\n-0.00+0.00\n-DECIMAL PRECISION\nNTF\nPbPART NUMBER REV SML-LX0603GW-TR I\n2019.10.14\n1 OF 2C.S.\nE.C.\nG.Y.REV E.C.N. NUMBER AND REVISION COMMENTS\nADATE\n09.30.98 E.C.N. #10BRDR. & REDRAWN.\nB 07.18.00 E.C.N. #10644.\nC 12.03.02 E.C.N. #10933.\nD 03.14.03 E.C.N. #10967.\nE 12.06.04 E.C.N. #11148.\nF 05.19.08 E.C.N. #11508.\nG E.C.N. #10BRDR. & REDRAWN. 09.12.13\nH ECN-Lumex201800005 01.29.18\nI 10.14.19 ECN-Lumex201900133\n PRE-HEATING \n180~200 C\n120 SEC. MAX.  \nABOVE 220 C\n60 SEC. MAX.10S. MAX.\n6C/S MAX.260 C MAX.\n4C/S MAX.TEMPERATURE\nTIME4C/S MAX.\n 8.0 ±0.1  1.50 +\n 0.1\n0.0  3.5 ±0.05  2 ±0.05  4 ±0.1 \n 4 ±0.1  1.75 ±0.1 A\nAB B\n 1.85 ±0.05 \n 0.85 ±0.05 \nSECTION A-A\n 0.88 ±0.05 \nSECTION B-BCARRIER TAPE DIMENSION PROFILE\n2\n1\nNOTE:\n1. PACKAGE: 4000 PCS/REEL \nSCALE : \nmm [INCH]DATE： DRAWN BY： 425 N. GARY AVE.\nCAROL STREAM, IL 60188\nPHONE：800-278-5666FAX：630-315-2150\nWEB：WWW.LUMEX.COM1.6(L)*0.8(W)*0.6(H)mm, PCB CHIP, SURFACE MOUNT LED, 565nm GREEN LED, MILKY WHITE DIFFUSED LENS.\n**THE SPECIFICATIONS MAY CHANGE AT ANY TIME WITHOUT NOTICE.**\nCONFIDENTIAL INFORMATION\nTHE INFORMATION CONTAINED IN THIS DOCUMENT IS THE PROPERTY OF LUMEX INC. EXCEPT AS SPECIFICALLY AUTHORIZED IN WRITING BY LUMEX INC., THE HOLDER OF THIS DOCUMENT SHALL \nKEEP ALL INFORMATION CONTAINED HEREIN CONFIDENTIAL AND SHALL PROTECT SAME IN WHOLE OR IN PART FROM DISCLOSURE AND DISSEMINATION TO ALL THIRD PARTIES.CHKD BY：\nAPRVD BY：PAGE：\nUNIT：*UNLESS OTHERWISE SPECIFIED TOLERANCES PER DECIMAL PRECISION ARE: X= ±1 (±0.039), X.X= ±0.5 (±0.020), X.XX= ±0.25 (±0.010), X.XXX= ±0.127 (±0.005).  LEAD SIZE= ±0.05 (±0.002), LEAD LENGTH= ±0.75 (±0.030). MIN=                                     MAX.=  +DECIMAL PRECISION\n-0.00+0.00\n-DECIMAL PRECISION\nNTF\nPbPART NUMBER REV SML-LX0603GW-TR I\n2019.10.14\n2 OF 2C.S.\nE.C.\nG.Y.\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Lumex:   \n\xa0 SML-LX0603GW-TR\n'}]
+!==============================================================================!
+### Component Summary: SML-LX0603GW-TR
+
+**Description:**
+The SML-LX0603GW-TR is a surface mount LED (Light Emitting Diode) produced by Lumex. It emits green light at a peak wavelength of 565 nm and features a milky white diffused epoxy lens. This component is designed for applications requiring compact and efficient lighting solutions.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Forward Voltage: 2.2 to 2.4 V (at If = 20 mA)
+  - Reverse Voltage: 5 V
+
+- **Current Ratings:**
+  - Forward Current: 20 mA (maximum continuous)
+  - Peak Forward Current: 40 mA (for short durations)
+
+- **Power Consumption:**
+  - Power Dissipation: 48 mW
+
+- **Operating Temperature Range:**
+  - Storage Temperature: -40 to +100 °C
+  - Operating Temperature: -40 to +85 °C
+
+- **Package Type:**
+  - Dimensions: 1.6 mm (L) x 0.8 mm (W) x 0.6 mm (H)
+  - Surface Mount Chip LED
+
+- **Special Features:**
+  - Moisture Sensitive Level: JEDEC Level 2a
+  - ESD (Electrostatic Discharge) handling procedures recommended
+
+**Typical Applications:**
+The SML-LX0603GW-TR is commonly used in various applications, including:
+- Indicator lights in consumer electronics
+- Backlighting for displays and keypads
+- Decorative lighting in automotive and architectural designs
+- Status indicators in industrial equipment
+
+This LED is ideal for applications where space is limited, and efficient light output is required, making it suitable for modern electronic devices and systems.

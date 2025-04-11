@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CRS-104-SP254-99/B-M025 production of E-TEC from the text:SMT Friction Lock Type\nMale Header   vertical\n2.54mm pitchRecommended PCB LayoutORDER CODE\nCRS-1xx-SP254-99/X-M0256.40\nA±0.40\nB±0.40\n2.54\n2.54 1.78\n5.971.521.528.088.30\n3.20   0.64 sq.Pin 1Option\nT = Tube; without PickUp Cap\nA = Tube; with PickUp Cap\nR = Reel; without PickUp Cap\nB = Reel; with PickUp CapPickUp Cap\n A\nB\nC\nD\nE\nF\nG\nHA\nB\nC\nD\nE\nF\nG\nH12 3 4 5 6 78\n1 2 1 2 3 1 2 3 4 5 6 7 8NEW 23.12.2022 AREV. DESCRIPTION DATE DRAWN\nDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATESHEET 1/1\nREV. ADWG. NO.\nSERIES NO.UNIT\nSCALEmm\nFreeGENERAL TOLERANCE\nCherry\nKent\nSH23.12.2022\n23.12.2022\n23.12.2022CRS-SP254\nCRS-1xx-SP254-xx/X-M025  X.°  ±\n  .X°  ±\n .XX°  ±\n.XXX°  ±X.   ±\n.X    ±\n.XX   ±  0.15\n.XXX ±Cherry\nE-tec 2022© - all rights reserved   www.e-tec.asia6.504.50\n7.374.04\n7.50\nSpecifications\nElectrical\nCurrent rating: 3A  AC/DC\nInsulation resistance: 1000M Ω min.\nContact resistance: 20m Ω max.\nVoltage rating: 50V DC\nWithstanding voltage: 1500V AC / MinuteMaterial\nContact: Copper Alloy\nPlating: Sn over Ni\n Insulator: PA46 (nature)  UL 94V-0\nOperating temperature: -40°C to +105°C\nProcessing temperature: +250°C +0/-5°C\n                                         for 10 secondsAB\n5,08 2,54 02\n7,62 5,08 03\n10,16 7,62 04\n12,70 10,16 05\n15,24 12,70 06\n17,78 15,24 07\n20,32 17,78 08\n22,86 20,32 09\n25,40 22,86 10\n27,94 25,40 11\n30,48 27,94 12Dimension mm No. of \nPins\nmate with: CRF-1xx-P254\n'}]
+!==============================================================================!
+### Component Summary for CRS-104-SP254-99/B-M025
+
+**Component Type:**  
+SMT Friction Lock Type Male Header
+
+**Key Specifications:**
+
+- **Voltage Rating:** 50V DC
+- **Current Rating:** 3A AC/DC
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings.
+- **Insulation Resistance:** 1000 MΩ minimum
+- **Contact Resistance:** 20 mΩ maximum
+- **Withstanding Voltage:** 1500V AC for 1 minute
+- **Operating Temperature Range:** -40°C to +105°C
+- **Processing Temperature:** +250°C ± 5°C for 10 seconds
+- **Package Type:** Surface Mount Technology (SMT)
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text, but typically SMT components are rated according to JEDEC J-STD-020E.
+
+**Material Specifications:**
+- **Contact Material:** Copper Alloy
+- **Plating:** Tin (Sn) over Nickel (Ni)
+- **Insulator Material:** PA46 (nature), UL 94V-0 rated
+
+**Special Features or Notes:**
+- The component is available in different packaging options: 
+  - T = Tube; without PickUp Cap
+  - A = Tube; with PickUp Cap
+  - R = Reel; without PickUp Cap
+  - B = Reel; with PickUp Cap
+
+### Description of the Component:
+The CRS-104-SP254-99/B-M025 is a surface mount male header designed for use in electronic connections. It features a friction lock mechanism that ensures a secure connection with compatible female connectors. The 2.54mm pitch makes it suitable for various PCB layouts, allowing for efficient space utilization in electronic designs.
+
+### Typical Applications:
+This male header is commonly used in:
+- **Power Management:** Connecting power supplies to circuit boards.
+- **Signal Processing:** Establishing connections between different circuit components.
+- **Data Storage:** Used in connectors for data storage devices.
+- **Consumer Electronics:** Found in various consumer electronic devices for internal connections.
+- **Industrial Applications:** Utilized in industrial equipment for reliable connections in harsh environments.
+
+This component is ideal for applications requiring robust electrical connections with a focus on reliability and performance in a compact form factor.

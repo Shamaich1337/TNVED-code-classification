@@ -1,0 +1,49 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DTT-SLMS/6-AG production of E-TEC from the text:A New 17.05.2022 Cherry\nOrder Code\nDTT-SLMS/6-XX\nAG = Silver\nAU = GoldSpecifications\nOperating temperature: -40°C to +85°C\nMechanical Requirements\nOperating Force: 0.45N min.\nRelease Force: 0.06N max.\nMovement Differential: 0.7mm max.Terminal PlatingRoHS\ncompliant\nSubminiature Micro Switch\nMulti Switch (NC/NO)\nwith Leave Lever - 6.50mm Height SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all  rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.20Cherry\nCheng\nFagi17.05.2022\n17.05.2022\n17.05.2022DTT-SLMS/6-XX\nDTT-SLMS/6-XX1/1\nA13.50 ±0.30\n2.00Operating\nPosition\n7.00 ±1.20\n1.50\n2.20∅2.00\n6.50\n0.90\n5.08 5.08\n12.80 ±0.305.80\n6.50\n3.60\n0.601\n2\n3\n47\n6\n5\nC NO NCSchematic DiagramC NO NC\nItem Desc. Material/Finish(color)\n1 Plunger PBT / white\n2 Cover PBT / black\n3 Moving Piece Beryllium Alloy\n4 Terminal Brass Alloy H65/Silver or Gold plated\n5 Base PBT / white\n6 Contact AgNi10 / Gold plated\n7 Leave Lever Stainless steelPre-Travel\n3.70\nElectrical\nCurrent rating: 0.1(0.05)A 12 V AC\nInsulation resistance: 100MΩ min.\nContact resistance: 50mΩ max.\nWithstanding voltage: 1000V AC\n'}]
+!==============================================================================!
+### Component Summary: DTT-SLMS/6-AG
+
+**Component Type:**  
+Subminiature Micro Switch (Multi Switch with Leave Lever)
+
+**Key Specifications:**
+
+- **Voltage Ratings:**  
+  - 12 V AC
+
+- **Current Ratings:**  
+  - 0.1 A (0.05 A) at 12 V AC
+
+- **Power Consumption:**  
+  - Not explicitly stated, but can be inferred from current and voltage ratings (Power = Voltage x Current).
+
+- **Operating Temperature Range:**  
+  - -40°C to +85°C
+
+- **Package Type:**  
+  - Subminiature form factor with a height of 6.50 mm
+
+- **Mechanical Requirements:**  
+  - Operating Force: 0.45 N minimum  
+  - Release Force: 0.06 N maximum  
+  - Movement Differential: 0.7 mm maximum
+
+- **Special Features/Notes:**  
+  - Terminal plating options: Silver (AG) or Gold (AU)  
+  - RoHS compliant  
+  - Multi-switch configuration (Normally Closed/Normally Open)
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**  
+  - Not specified in the provided text.
+
+**Description:**  
+The DTT-SLMS/6-AG is a subminiature micro switch designed for various applications requiring compact and reliable switching. It features a leave lever mechanism that allows for precise actuation with minimal force. The switch is constructed from durable materials, including PBT for the housing and stainless steel for the lever, ensuring longevity and performance in diverse environments.
+
+**Typical Applications:**  
+This micro switch is commonly used in applications such as:
+
+- **Consumer Electronics:** For user interface controls in devices like appliances and toys.
+- **Industrial Equipment:** In machinery for limit sensing and control functions.
+- **Automotive:** For safety and operational switches in vehicles.
+- **Home Automation:** In smart home devices for triggering actions based on user input or environmental changes.
+
+Overall, the DTT-SLMS/6-AG is suitable for applications where space is limited, and reliable switching is essential.

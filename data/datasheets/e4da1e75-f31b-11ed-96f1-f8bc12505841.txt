@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of UNI-IR3514HLM production of UNI OPTICS CO., LTD from the text:www.uni-\noptics\n.com\nBuilding\n3,\nNo.7\nJinzhou\nNorth\nRoad,\nJinshan\nIndustrial\nZone,\nCangshan\nDistrict,\nFuzhou\n350002,\nP.\nR.\nChina\nTel:\n+86-591-86395085\nFax:\n+86-591-86395831\nG\nSeries\nITS\nLens(8MP)\nModel\nUN\nI\n-\nIR\n3514\nHLM\nFocal\nlength\n35\nmm\nAperture\nF1.4\nImage\nFormat\n1\n″\nMount\nC\nField\nAngle\nD\nx\nH\nx\nV\n(\n°\n)\n1\n″\n2/3\n″\nD\n26\n°\n1\n8\n°\nH\n2\n9\n°\n14\n°\nV\n1\n6\n°\n1\n1\n°\nOptical\nDistortion\n-\n0.45\n%\n（\n1\n″\n）\nM.\nO.\nD.\n0.\n5\nm\nDimension\nΦ\n41.5\n×\n65.16\nmm\nFlange\nBFL\n17.526mm\nBack\nfocal\nlength\n1\n3\n.\n71\nmm\nMachine\nback\nfocal\n1\n1\n.\n6\nmm\nIR\ncorrection\nYes\nOperation\nManual\nIris\nManual\nFocus\nWeight\n147.7\n±\n5g\nWork\nTemperature\n-20\n℃\n～\n+60\n℃\nComments\n8MP\nSize\nImage\nSize\ntolerance(mm)\n0-10\n±\n0.05\n10-30\n±\n0.10\n30-120\n±\n0.20\nAngel\ntolerance\n±\n2\n°\n\n'}]
+!==============================================================================!
+### Component Summary: UNI-IR3514HLM
+
+**Manufacturer:** UNI OPTICS CO., LTD  
+**Product Code:** UNI-IR3514HLM  
+**Location:** Building 3, No.7 Jinzhou North Road, Jinshan Industrial Zone, Cangshan District, Fuzhou 350002, P.R. China  
+**Contact:** Tel: +86-591-86395085 | Fax: +86-591-86395831  
+
+#### Key Specifications:
+- **Focal Length:** 35 mm
+- **Aperture:** F1.4
+- **Image Format:** 1 inch
+- **Mount Type:** C Mount
+- **Field Angle:**
+  - Diagonal: 26°
+  - Horizontal: 29°
+  - Vertical: 16°
+- **Optical Distortion:** -0.45% (1 inch)
+- **Minimum Object Distance (M.O.D.):** 0.5 m
+- **Dimensions:** Φ 41.5 × 65.16 mm
+- **Back Focal Length (BFL):** 17.526 mm
+- **Machine Back Focal Length:** 11.6 mm
+- **IR Correction:** Yes
+- **Iris Type:** Manual
+- **Focus Type:** Manual
+- **Weight:** 147.7 ± 5 g
+- **Operating Temperature Range:** -20 °C to +60 °C
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The UNI-IR3514HLM is a high-performance lens designed for 8MP imaging applications. It features a focal length of 35 mm and a wide aperture of F1.4, making it suitable for low-light conditions and providing excellent image quality. The lens is compatible with 1-inch image sensors and utilizes a C mount for easy integration into various optical systems. The lens also includes IR correction, ensuring accurate color reproduction in infrared imaging applications.
+
+#### Typical Applications:
+The UNI-IR3514HLM lens is typically used in:
+- **Surveillance Systems:** Due to its high resolution and IR correction, it is ideal for security cameras.
+- **Machine Vision:** The lens is suitable for industrial applications where precise imaging is required for inspection and automation.
+- **Medical Imaging:** Its ability to perform well in low-light conditions makes it useful in medical devices that require high-quality imaging.
+- **Scientific Research:** The lens can be utilized in various research applications where detailed imaging is critical.
+
+This lens is designed to meet the demands of modern imaging systems, providing versatility and high performance across a range of applications.

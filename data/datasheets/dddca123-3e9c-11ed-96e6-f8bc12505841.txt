@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CAS-M025-SIM-0255 production of E-TEC from the text:Cable Assembly\nNano SIM with seal to\nFPC with Micro SIM\n, L=200mm SHEET UNITmm\nFree  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.GENERAL TOLERANCE\n0 ~ 200mm  ->  ±10mm\n201 ~ 1000mm  ->  ±20mm\n1001 ~ 1500mm  ->  ±25mm\n1501 ~ 2100mm  ->  ±30mm\n2100mm↑->  ±40mmCherry\nKent\nSH23.08.2022\n26.08.202226.08.2022CAS-M 025-SIM -0255\nCAS-M025- SIM-02551/1\nA1\n8\n23.80\n35.40 ref.\nNano SIM29.30\n∅27.0013/16" UNEF-28\nSeal\nFPC Micro SIM\n200 ±10\n8\n1\nFPC+Micro SIM\nPCB Layout8\n1Nano SIMRecommended Panel Cut-out19.20 ±0.05∅21.00 ±0.05\nSpecifications\nMaterial\nContact: Phosphor Bronze\nPlating: Au flash over Ni\nInsulator: Engineering Thermoplastic\n                Flammb ility Rating  UL 94V-0\nMechanical Requirements\nPanel thickness: 1.50~6.0mm\nRecommended Torque: 16~18kg-cmRoHS\ncompliantNano SIM Pin Assignment FPC Nano SIM\nC1,C6 VCC 8C 1 , C 6\nC5 GND 7C 5\nC2 RST 6C 2\nC1,C6 VCC 5C 1 , C 6\nC3 CLK 4C 3\nC7 DATA 3C 7\nCD-Pin SIM_CD 2\nC5 GND 1C 5REV. previous version this version DATE DRAWN\nA New 23.08.2022 CherryB L=104mm L=200mm 26.08.2022 Cherry\n'}]
+!==============================================================================!
+### Component Summary: CAS-M025-SIM-0255
+
+**Component Type:** Cable Assembly
+
+**Description:**
+The CAS-M025-SIM-0255 is a cable assembly designed to connect a Nano SIM card to a Flexible Printed Circuit (FPC) with a Micro SIM interface. It features a length of 200mm and is intended for applications requiring a reliable connection between SIM cards and electronic devices.
+
+**Key Specifications:**
+- **Length:** 200 mm (±10 mm tolerance)
+- **Material:**
+  - **Contact:** Phosphor Bronze
+  - **Plating:** Gold flash over Nickel
+  - **Insulator:** Engineering Thermoplastic
+  - **Flammability Rating:** UL 94V-0
+- **Mechanical Requirements:**
+  - **Panel Thickness:** 1.50 mm to 6.0 mm
+  - **Recommended Torque:** 16 to 18 kg-cm
+- **Pin Assignments:**
+  - VCC: Pins C1, C6
+  - GND: Pins C5
+  - RST: Pin C2
+  - CLK: Pin C3
+  - DATA: Pin C7
+  - SIM_CD: Pin CD-Pin
+
+**Operating Conditions:**
+- **Moisture Sensitive Level:** Not specified in the provided text, but typically assessed according to JEDEC J-STD-020E standards.
+
+**Special Features:**
+- The assembly includes a sealing feature for enhanced durability and protection against environmental factors.
+
+### Typical Applications:
+The CAS-M025-SIM-0255 cable assembly is typically used in:
+- **Mobile Devices:** Connecting SIM cards to mobile phones and tablets.
+- **IoT Devices:** Facilitating communication in Internet of Things applications where SIM connectivity is required.
+- **Embedded Systems:** Used in various embedded applications that require a SIM interface for cellular connectivity.
+- **Telecommunications Equipment:** Essential for devices that rely on SIM cards for network access.
+
+This component is crucial for ensuring reliable communication in devices that utilize SIM cards, making it a vital part of modern electronic systems.

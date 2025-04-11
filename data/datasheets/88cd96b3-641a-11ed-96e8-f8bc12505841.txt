@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of LPJ1026BH-MGNL production of LINK-PP from the text:SCALE:SHEET:2/1 1/2ANGLES ±1°UNIT: \nREV:APART NO.:TITLE:\nDR:CHKD:APPD:\nDWG NO.:APPD DATE DESCRIPTION ECN NO. REV.\nREL A\nmm10 12\n11X:X    ±0.30\nX:XX   ±0.25\nX:XXX  ±0.05Schematic:\n9YELLOW2010/12/21\nStevenElectrical Specification @25℃\n1.Turns Ratio:\n  TX=1CT:1         RX=1CT:1CT\n2.Inductance: 350uH MIN\n  @0.1V,0.1MHz,8mA DC Bias\n3.Cross talk(dB TYP):  \n  1-30MHz:-40      30-60MHz:-35  \n  60-100MHz:-30\n4.Common Mode Rejection(dB TYP)\n  1-50MHz:-30;     50-150MHz:-20 \n5.Return Loss(dB TYP  @100Ω±15Ω):\n  1-10MHz:-20;     10-30MHz:-16   \n  30-60MHz:-12;    60-100MHz:-10\n6.Insertion Loss:\n  1-65MHz:-1.0dB TYP\n7.Hipot:1500Vrms @60Hz\n8.Operating Temperature: -40℃～+85℃.1CT:1\n75ΩPC BOARD CONNECTIONS75ΩTD+ P1\nCT P3TX\n75Ω\n75Ω\n0.001uF1CT:1CT RX\nLEFT LED RIGHT LEDGREEN\nLPJ1026BH-MGNL\nLP110623225LINK-PP INT'L TECHNOLOGY CO., LIMITEDλ\nμ\nμ\nRJ45 MAG 10/100 Base-T W/LED,Up\nMechanical:\nLPJ1026BH-MGNL\nSCALE:SHEET:2/1 2/2ANGLES ±1°UNIT: \nREV:APART NO.:TITLE:\nDR:CHKD:APPD:\nDWG NO.:LP110623225mmStevenRJ45 MAG 10/100 Base-T W/LED,UpX:X    ±0.30\nX:XX   ±0.25\nX:XXX  ±0.05APPD DATE DESCRIPTION ECN NO. REV.\nREL A 2010/12/21\n××××\n21\n8910 1112\nSUGGESTED PCB LAYOUT(TOP VIEW)×\n7GREEN YELLLOW\nJ1 J8\n1 8 12\n357468\n910 1112\nLINK-PP INT'L TECHNOLOGY CO., LIMITEDLEFT LED RIGHT LED\nNOTES:\n1.Designed to support application,such as SOHO(ADSL \n  modems),LAN-on-Motherboard(LOM),hub and Switches.\n2.Meets IEEE 802.3 specification\n3.Connector Materials:\n  Housing: Thermoplastic PBT+30%G.F UL94V-0\n  Contact: Phosphor Bronze C5210R-EH Thickness=0.35mm\n  Pins: Brass C2680R-H  Thickness=0.35mm \n  Shield: SUS 201-1/2H  Thickness=0.2mm \n  Contact plating: Gold 6 micro-inches min.In contact area.\n4.Wave solder tip temperature: 250℃,5 Sec.\n5.UL Certification: File Number E484635.\n"}]
+!==============================================================================!
+### Component Summary: LPJ1026BH-MGNL
+
+**Key Specifications:**
+- **Voltage Ratings:** 1500 Vrms @ 60Hz (Hipot)
+- **Current Ratings:** Not explicitly stated; typically determined by application and PCB design.
+- **Power Consumption:** Not specified; dependent on application and usage.
+- **Operating Temperature Range:** -40°C to +85°C
+- **Package Type:** RJ45 connector with integrated magnetics
+- **Special Features/Notes:**
+  - Designed for 10/100 Base-T Ethernet applications.
+  - Supports LED indicators for link status.
+  - Meets IEEE 802.3 specifications.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Description:**
+The LPJ1026BH-MGNL is an RJ45 magnetic connector designed for 10/100 Base-T Ethernet applications. It integrates magnetics to facilitate signal integrity and reduce electromagnetic interference, making it suitable for networking devices. The component features LED indicators for visual feedback on link status, enhancing usability in network setups.
+
+**Typical Applications:**
+- **Networking Equipment:** Ideal for use in devices such as ADSL modems, LAN-on-Motherboard (LOM) designs, hubs, and switches.
+- **Consumer Electronics:** Can be utilized in home and office networking solutions, providing reliable Ethernet connectivity.
+- **Telecommunications:** Suitable for applications requiring robust data transmission over Ethernet, ensuring compliance with industry standards.
+
+This component is particularly valuable in environments where reliable data communication is critical, and its design supports ease of integration into various electronic systems.

@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-2525A-50mmRG174 production of JC ANTENNA HK CO.,LIMITED from the text:MACRO GROU P    E-mail: wireless@macrogroup.ru     Tel: +7 (812) 370 60 70  \n \n \nDATASHEET    \nMMMGGG---222555222555AAA--- 555000mmmmmmRRRGGG111777444   \nType  GPS/GLONASS  Ceramic Active  antenna  \nBrand Name  MG ANTENNAS  \n \n  \n \n \n \n] \n\n1. SPECIFI CATION  \n1.1 Electrical Spe cifications  \n                                                                        \n 1.2 Mechanical specification s \nCable  (type and length )  RG174 , 50mm or other * \nConnector  Stripped end 3-2-1mm  or other * \nDimensions  25*25*4 mm \n    * Customizable Cable and Con nector  \n \n1.3 Envi ronmental specifications  \n \n \n \n \n \n \n \n Frequency  1575 .42/1602 ±3 MHz \nPolari zation  RHCP  \nRadiation  Direction al  \nVSWR  1.5 :1 \nAxial Ratio  3dB（max） \nGain  ANT 5 dBic （Zenith） \nGain LNA  28±2 dBi \nMax p ower  10 W \nFilter Insertion Loss  ＜3dB \nCurrent Consumption  5~15mA \nImpedance  50 Ω \nOperating Temper ature , ℃ -40 ~ + 80 \nOperating Humidity, %  0 ~ 95  \nStorage Temperature , ℃ -40 ~ + 80 \nStorage Humidity, %  0 ~ 95  \n \nE-mail: wireless@ma crogroup.ru     Tel: +7 (812) 370 60 70  2. MEASUREMENT\nRadiation Pattern  \n \n \n'}]
+!==============================================================================!
+### Component Summary: MG-2525A-50mmRG174
+
+#### Key Specifications:
+- **Type**: GPS/GLONASS Ceramic Active Antenna
+- **Frequency**: 1575.42/1602 ±3 MHz
+- **Polarization**: Right-Hand Circular Polarization (RHCP)
+- **Radiation Pattern**: Directional
+- **Voltage Ratings**: Not specified (max power rating provided)
+- **Current Ratings**: 5 to 15 mA
+- **Power Consumption**: Max power of 10 W
+- **Gain**: 
+  - Antenna Gain: 5 dBic (Zenith)
+  - LNA Gain: 28 ± 2 dBi
+- **VSWR**: 1.5:1
+- **Axial Ratio**: 3 dB (max)
+- **Impedance**: 50 Ω
+- **Operating Temperature Range**: -40°C to +80°C
+- **Operating Humidity**: 0% to 95%
+- **Storage Temperature Range**: -40°C to +80°C
+- **Storage Humidity**: 0% to 95%
+- **Cable Type**: RG174, 50mm (customizable)
+- **Connector**: Stripped end (customizable)
+- **Moisture Sensitive Level**: Not specified in the provided data.
+
+#### Description:
+The MG-2525A-50mmRG174 is a ceramic active antenna designed for GPS and GLONASS applications. It features a compact size of 25mm x 25mm x 4mm, making it suitable for various installations where space is limited. The antenna operates within the specified frequency range and is optimized for high gain and low power consumption, making it effective for satellite communication.
+
+#### Typical Applications:
+This antenna is typically used in:
+- **Navigation Systems**: For GPS and GLONASS satellite positioning.
+- **Telematics**: In vehicles for tracking and navigation purposes.
+- **IoT Devices**: Where precise location data is required.
+- **Mobile Communication**: Enhancing signal reception in mobile devices.
+- **Aerospace and Defense**: For applications requiring reliable positioning and tracking.
+
+The MG-2525A-50mmRG174 is ideal for applications that demand high performance in challenging environmental conditions, given its wide operating temperature and humidity ranges.

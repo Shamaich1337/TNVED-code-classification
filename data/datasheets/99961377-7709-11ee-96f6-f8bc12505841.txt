@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of EFD20/10/7-3F36 production of FERROXCUBE from the text:EFD20/10/7 Core \nProduct specifications \nValue Inductance factor \nTol + Tol - Unit Material \n3C95 nH/turns² 25% 25% 1540 \n3C96 nH/turns² 25% 25% 1200 \n3F36 nH/turns² 25% 25% 950 \n3F46 nH/turns² 25% 25% 580 \nPower loss:  3C95 \nMeasuring conditions Unit Max \n100 kHz W/set 0.700 200 mT 100 ºC \n100 kHz W/set 0.760 200 mT 25 ºC \nPower loss:  3C96 \nMeasuring conditions Unit Max \n100 kHz W/set 0.660 200 mT 100 ºC \n400 kHz W/set 0.260 50 mT 100 ºC Symbol Effective parameters \nParameter Value Unit \n1.52 mm ⁻¹\nVe 1460 mm³ \nLe 47 mm \nAe 31 mm² \nAmin 29 mm² ∑(I/A) \n≈ 3.5 core factor (C1) \neffective volume \neffective length \neffective area \nminimum area \nm EFD20/10/7 g/pcs \nSymbol Nom Tol + Tol - Max Unit Min Dimensions for product: EFD20/10/7 \n19.45 mm A 0.55 0.55 20.55 20.00 \n6.50 mm C 0.15 0.15 6.80 6.65 \n14.90 mm E 0.50 0.50 15.90 15.40 \n8.70 mm F 0.20 0.20 9.10 8.90 \n3.45 mm G 0.15 0.15 3.75 3.60 \n9.85 mm H1 0.15 0.15 10.15 10.00 \n7.45 mm H2 0.25 0.25 7.95 7.70 \n2016 \nEFD20/10/7 Core \nProduct specifications \nPower loss:  3F36 \nMeasuring conditions Unit Max \n500 kHz W/set 0.220 50 mT 100 ºC \n500 kHz W/set 1.700 100 mT 100 ºC \nPower loss:  3F46 \nMeasuring conditions Unit Max \n1000 kHz W/set 0.580 50 mT 100 ºC \n3000 kHz W/set 0.220 10 mT 100 ºC \nBsat \nMeasuring conditions Min Material Unit \n25 kHz mT 330 250 A/m 100 ºC 3C95 \n25 kHz mT 340 250 A/m 100 ºC 3C96 \n25 kHz mT 340 250 A/m 100 ºC 3F36 \n25 kHz mT 330 250 A/m 100 ºC 3F46 \nDescription Accessories \nOrdering code Ordering name \nCLI-EFD20 432202135151 Clip \nCLM-EFD20 432202102211 Clamp \nCPH-EFD20-1S-10PD-Z 432202106161 Coil former, termoplastic, horizontal \nCPHS-EFD20/7-1S-10P 432202100071 Coil former, termoplastic, horizontal, S \nCSH-EFD20-1S-8P-IZ 432202106931 Coil former, termoset, horizontal \nCSH-EFD20-1S-8P-TZ 432202106291 Coil former, termoset, horizontal \nCSHS-EFD20-1S-10P-Z 432202106091 Coil former, termoset, horizontal, SMD \nCSHS-EFD20-1S-12P 432202104331 Coil former, termoset, horizontal, SMD \n2016 \n'}]
+!==============================================================================!
+### Component Summary: EFD20/10/7-3F36
+
+#### Key Specifications:
+- **Inductance Factor (3F36)**: 950 nH/turns² (Tolerance: ±25%)
+- **Power Loss**:
+  - At 500 kHz, 50 mT, 100 ºC: 0.220 W/set
+  - At 500 kHz, 100 mT, 100 ºC: 1.700 W/set
+- **Effective Parameters**:
+  - Effective Volume (Ve): 1460 mm³
+  - Effective Length (Le): 47 mm
+  - Effective Area (Ae): 31 mm²
+  - Minimum Area (Amin): 29 mm²
+- **Dimensions**:
+  - A: 19.45 mm (Tolerance: ±0.55 mm)
+  - C: 6.50 mm (Tolerance: ±0.15 mm)
+  - E: 14.90 mm (Tolerance: ±0.50 mm)
+  - F: 8.70 mm (Tolerance: ±0.20 mm)
+  - G: 3.45 mm (Tolerance: ±0.15 mm)
+  - H1: 9.85 mm (Tolerance: ±0.15 mm)
+  - H2: 7.45 mm (Tolerance: ±0.25 mm)
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The EFD20/10/7-3F36 is a ferrite core used primarily in inductive components such as transformers and inductors. It is designed to provide efficient magnetic performance in high-frequency applications. The core is made from a specific ferrite material (3F36) that offers a balance between inductance and power loss, making it suitable for various electronic applications.
+
+#### Typical Applications:
+- **Power Management**: Used in switch-mode power supplies (SMPS) and DC-DC converters where efficient energy transfer is crucial.
+- **Signal Processing**: Employed in inductors and transformers for filtering and signal conditioning in communication devices.
+- **Energy Storage**: Utilized in energy storage applications where inductive components are required to store energy temporarily.
+- **Electromagnetic Interference (EMI) Suppression**: Can be used in circuits to reduce noise and improve signal integrity.
+
+This core is particularly valuable in applications requiring compact size and high efficiency, making it a preferred choice for modern electronic designs.

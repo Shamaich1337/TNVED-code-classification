@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TX-3535W15FC120-NGVEZW-B03E production of GUANGZHOU TIANXIN PHOTOELECTRIC CO., LTD from the text:http://www.txled.cn Version:1.0PartNo.TX-3535W15FC120-NGVEZW-B03E SpecNo.WKF-BE0931Page1of9TX-3535W15FC120-NGVEZW-B03E\nPRODUCTSPECIFICATION\nFeatures:\n◆ExcellenttransitingheatfromLEDchipoperatingunder4500mA.\n◆Highluminousoutput.\n◆NoUV.\n◆Encapsulatedmaterialsareenvironmentallycertifiedandmeetenvironmentalrequirements.\nChipMaterial: EmittingColor: Applications:\n◆GaN ◆White ◆Auxiliarylighting\n◆Architecturallighting\n◆GeneralLighting\nhttp://www.txled.cn Version:1.0PartNo.TX-3535W15FC120-NGVEZW-B03E SpecNo.WKF-BE0931Page2of9PackageDimensions:\n- + - +\n3.25±0.05\n0.475±0.030.51.3\n3.25±0.050.853.45±0.15\n3.45±0.151.32\n1.65\nTopview Sideview Bottomview\n0.5\n1.3\n2.25\n3.25\n3.85\n0.8\n3.25\n3.85\n1.01\n2.25\n3.25\n0.75 0.25\n3.25\nRecommendedsolderpad Recommendedstencilpattern\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesunlessotherwisementionedare±0.1mm.\nhttp://www.txled.cn Version:1.0PartNo.TX-3535W15FC120-NGVEZW-B03E SpecNo.WKF-BE0931Page3of9AbsoluteMaximumRatings(Tc=25℃)\nNotes:\n1.Specificationsaresubjecttochangewithoutnotice.\n2.Thedataonthisspecificationisforreferenceonlyandtheactualdataisinaccordancewiththe\nacknowledgment.\n3.PrecautionsforESD:\nSTATICSHIELDElectricityandsurgedamagestheLED.Itisrecommendedtouseawristbandor\nanti-electrostaticglovewhenhandlingtheLED.Alldevices,equipmentandmachinerymustbeproperly\ngrounded.Parameter Symbol Ratings Unit\nForwardCurrent IF 4500 mA\nReverseVoltage VRNotdesignedforreverse\noperationV\nPowerDissipation PD 18 W\nJunctionTemperature Tj 150 ℃\nElectrostaticDischargeThreshold(ESD) ESD ESDsensitivedevice V\nStorageTemperature Tstg -40~+70\n℃\nOperationTemperature Topr -30~+125\nhttp://www.txled.cn Version:1.0PartNo.TX-3535W15FC120-NGVEZW-B03E SpecNo.WKF-BE0931Page4of9ElectricalOpticalCharacteristics(Tc=25°C)\nWhitelightColorcoordinatefiling(IF=1.0A)\nRegionCCTRange\nX1 Y1 X2 Y2 X3 Y3 X4 Y4\nMin Max\n1C32 5600K 5750K 0.33000.35030.32650.34590.32620.35810.32980.3626\n1C31 5750K 5900K 0.32650.34590.32350.34200.32280.35370.32620.3581\n1C2 5900K 6250K 0.32360.34000.31720.33100.31610.34140.32290.3506\n1C1 6250K 6600K 0.31730.33030.31190.32230.31040.33210.31620.3407\nNotes:\n1.LuminousintensityismeasuredwithalightsensorandfiltercombinationthatapproximatestheCIE\neye-responsecurve.\n2.θ1/2istheoff-axisangleatwhichtheluminousintensityishalftheaxialluminousintensity.\n3.Luminousfluxmeasurementtolerance:±15%.\n4.Forwardvoltagemeasurementtolerance:±0.15V.Parameter SymbolConditionMin. Typ. Max. Units\nLuminousFlux φv\nIf=4500mA950 1150 1300 lm\nForwardVoltage Vf 3.2 3.6 4.0 V\nViewingAngleat50﹪IV 2θ1/2 — 120 — Deg\nCorrelatedColour\nTemperatureCCT If=1000mA 5600 6100 6600 K\nReverseCurrent IR — — — — µA\nThermalResistanceJunction\ntoCaseRθJ-C\nIf=4500mA— 2.0 — K/W\nTemperatureCoefficientof\nVoltageV△F/T — -2 — mV/℃\nhttp://www.txled.cn Version:1.0PartNo.TX-3535W15FC120-NGVEZW-B03E SpecNo.WKF-BE0931Page5of9TypicalElectrical/OpticalCharacteristicsCurves\n(25℃AmbientTemperatureUnlessOtherwiseNoted)\nForward Current  VS. Forward Voltage\nForward Current  If (mA)2.02.42.83.23.64.0\n2500 4000 3500 4000 4500 5000Forward Voltage Vf(V)\n0\n3000 3500 4000 4500 500030060090012001500Forward Current VS.Luminous flux\nForward Current  If (mA)Luminous flux(Lm)\n2500\nhttp://www.txled.cn Version:1.0PartNo.TX-3535W15FC120-NGVEZW-B03E SpecNo.WKF-BE0931Page6of9Temperature  VS. Relative color temperature (IF=4500mA)Relative color temperature  (%)\n100\n25 45 65 85 105 125\nTemperature (℃)102104106108110112114116118120\nhttp://www.txled.cn Version:1.0PartNo.TX-3535W15FC120-NGVEZW-B03E SpecNo.WKF-BE0931Page7of9-60°\n0.8-90°\n1.0 0.60.4-30°\n60°\n0.6 0.2 0.2 0.4 0.81.090°0°\n30°Beam Pattern\nRelative intensity (LOP@ MAX=1)\nNotes:\n1.2θ1/2istheoffaxisanglefromlampcenterlinewheretheluminousintensityis1/2ofthepeakvalue.\n2.Viewangletoleranceis±5°.\nhttp://www.txled.cn Version:1.0PartNo.TX-3535W15FC120-NGVEZW-B03E SpecNo.WKF-BE0931Page8of9UsagePrecautions\nStorageEnvironmentCondition\nTemperature:5℃~30℃(41℉~86℉)\nHumidity:60%RHMax.\nSolderingCondition\n050\n50100150200250300\n100 150 200 250 30025℃217℃240℃ TP 245℃\ntstLtP\ntT\nProfil-Charakteristik\nProfileFeatureSymbolPb-Free(SnAgCu)AssemblyEinheit\nUnit\nMinimumRecommendationMaximum\nRamp-upRatetoPreheat\n25℃to150℃- - 2 3 K/s\nTimetsTSmintoTSmax ts 60 100 120 s\nRamp-upRatetoPeakTSmaxtoTp - - 2 3 K/s\nLiquidusTemperature TL 217 ℃\nTimeaboveLiquidustemperature tL - 80 100 s\nPeakTemperature TP - 245 260 ℃\nTimewithin5℃ofthespecifiedpeak\ntemperatureTp-5KtP 10 20 30 s\nRamp-downRateTpto100℃ - - 3 6 K/s\nTime25℃toTp - - - 480 -\nNote:\nAlltemperaturesrefertotopsideofthepackage,measuredonthepackagebodysurface.\nhttp://www.txled.cn Version:1.0PartNo.TX-3535W15FC120-NGVEZW-B03E SpecNo.WKF-BE0931Page9of9DimensionsForCannulationAndPackaging\nQuantity:1000PCS12\n4.3\n3.7\n3.7\n4.384Φ1.5\nPrinted label\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesare±2.0mmunlessotherwisenoted.\n3.Theproductsarepackagedtogetherwithsilicagel,Transport,nottotheweightofweldingLED\nlight-emittingarea,AsaresultoftheweightofLEDlight-emittingzoneinthequalityof,Irresponsibleofthe\nCompany.\n'}]
+!==============================================================================!
+### Component Summary: TX-3535W15FC120-NGVEZW-B03E
+
+**Manufacturer:** GUANGZHOU TIANXIN PHOTOELECTRIC CO., LTD  
+**Product Code:** TX-3535W15FC120-NGVEZW-B03E  
+**Version:** 1.0  
+**Datasheet Link:** [TXLED](http://www.txled.cn)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (Vf): 3.2 - 4.0 V (typical 3.6 V at 4500 mA)
+  - Reverse Voltage (VR): Not designed for reverse operation
+
+- **Current Ratings:**
+  - Forward Current (IF): 4500 mA (maximum)
+
+- **Power Consumption:**
+  - Power Dissipation (PD): 18 W
+
+- **Operating Temperature Range:**
+  - Storage Temperature (Tstg): -40 to +70 °C
+  - Operating Temperature (Topr): -30 to +125 °C
+  - Junction Temperature (Tj): 150 °C
+
+- **Package Type:**
+  - Dimensions: 3.25 mm x 3.25 mm (with specific tolerances)
+
+- **Special Features:**
+  - Excellent heat dissipation from LED chip at high current
+  - High luminous output with no UV emissions
+  - Environmentally certified encapsulated materials
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Component Description:
+The TX-3535W15FC120-NGVEZW-B03E is a high-power white LED designed for various lighting applications. It utilizes Gallium Nitride (GaN) as the chip material, providing efficient light emission with a high luminous output. The LED is capable of operating at a forward current of up to 4500 mA, making it suitable for applications requiring significant brightness.
+
+#### Typical Applications:
+- **Auxiliary Lighting:** Used in environments where additional lighting is needed.
+- **Architectural Lighting:** Ideal for enhancing the aesthetic appeal of buildings and structures.
+- **General Lighting:** Suitable for general illumination purposes in residential, commercial, and industrial settings.
+
+This LED component is particularly advantageous in applications where high brightness and energy efficiency are critical, while also ensuring compliance with environmental standards.

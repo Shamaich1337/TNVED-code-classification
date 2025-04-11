@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of UNS-B16-UCC21-55/B production of E-TEC from the text:Recommended PCB Layout  Top View\n(Tolerance ±0.05)A New 01.02.2023 Cherry\nSpecifications\nElectrical\nCurrent rating: 3A\nInsulation resistance: 100MΩ min.\nContact resistance: 40mΩ max.\nVoltage rating: 20V AC rms\nWithstanding voltage: 100V AC\nMaterial\nContact: Copper-Nickel alloy (C7025)\nPlating: Au flash on solder, Au on contact \n areas, entire contact Ni\n      underplated\nInsulator: LCP (black)  UL 94V-0\nShell: Stainless steel; Ni plated\nOperating temperature: -30°C to +80°C\nPacking: ReelRoHS\ncompliant\nUSB 2.0  Type-C\n16-Contact - Female - SMT SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2023 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.20Cherry\nRonny\nFagi01.02.2023\n01.02.202301.02.2023UNS-B16-UCC21\nUNS-B16-UCC21-xx/B1/1\nAOrder Code\nUNS-B16-UCC21-xx/B\n55=  Tin/Gold flash\n57=  Tin/15µ" Gold\n58=  Tin/30µ" Gol dPlatingContact No. A1 A4 A5 A6 A7 A8 A9 A12\nSignal Name GND VBUS CC1 D+ D- SBU1 VBUS GND\nContact No. B 1 2 B 9B 8B 7B 6B 5B 4B 1\nSignal Name GND VBUS SBU2 D- D+ CC2 VBUS GNDContact Assignment\n4.800.70\n7.50 ±0.300.95\n0.508.94\n6.50 ±0.30A1 A12\nB12 B16.69 ±0.308.34 ±0.30\n3.59 2.56\n2.102x∅0.400.701.20\n4.30PickUp Cap\n4.80\nA\nA1 A12\nB12 B10.50\n2.50\n5.500.870.307.50\n1.450.95\n0.601.104.30 2.602x∅0.50\nDetail A\n'}]
+!==============================================================================!
+### Component Summary for UNS-B16-UCC21-55/B
+
+**Component Type:** USB 2.0 Type-C Connector (16-Contact Female - SMT)
+
+#### Key Specifications:
+- **Current Rating:** 3A
+- **Voltage Rating:** 20V AC rms
+- **Withstanding Voltage:** 100V AC
+- **Insulation Resistance:** 100 MΩ minimum
+- **Contact Resistance:** 40 mΩ maximum
+- **Operating Temperature Range:** -30°C to +80°C
+- **Package Type:** Surface Mount Technology (SMT)
+- **Material:**
+  - **Contact Material:** Copper-Nickel alloy (C7025)
+  - **Plating:** Au flash on solder, Au on contact areas, entire contact Ni underplated
+  - **Insulator Material:** LCP (black), UL 94V-0 rated
+  - **Shell Material:** Stainless steel, Ni plated
+- **Moisture Sensitive Level:** Not specified in the provided text, but typically assessed under JEDEC J-STD-020E.
+- **RoHS Compliant:** Yes
+
+#### Description:
+The UNS-B16-UCC21-55/B is a USB 2.0 Type-C connector designed for surface mount applications. It features 16 contacts and is suitable for various electronic devices requiring a compact and reliable connection interface. The connector is engineered to support data transfer and power delivery, making it versatile for modern electronic applications.
+
+#### Typical Applications:
+- **Power Management:** The connector can handle up to 3A, making it suitable for charging applications in smartphones, tablets, and other portable devices.
+- **Data Transfer:** As a USB 2.0 Type-C connector, it is ideal for data communication between devices, such as connecting peripherals to computers or other electronic systems.
+- **Consumer Electronics:** Commonly used in laptops, smartphones, and other consumer electronics that require a compact and reversible connector.
+- **Industrial Applications:** Its robust design and wide operating temperature range make it suitable for industrial environments where durability is essential.
+
+This connector is designed to meet the demands of modern electronic devices, providing a reliable interface for both power and data transmission.

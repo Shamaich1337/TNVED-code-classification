@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 34WAL-100_Cu production of AINFO from the text:34WAL-100_Cu\n22.0–33.0GHzStraightWaveguide\nAINFOInc. Page1of3\nChina(Beijing): Tel:(+86)10-6266-7326, (+86)10-6266-7327Fax:(+86)10-6266-7379\nChina(Chengdu):Tel:(+86)28-8519-2786, (+86)28-8519-3044Fax:(+86)28-8519-3068 Website:www.ainfoinc.com\nUSA: Tel:(+1)949-639-9688, (+1)949-639-9608Fax:(+1)949-639-9670 Email:sales@ainfoinc.com\nDatasubjecttochangewithoutnotice.Forcurrentdatasheets,pleasecontact:Sales@ainfoinc.com\nForreferenceonly.Seedatasheetforthedetailedspecifications.\nTechnicalSpecification\nEIAWR WR34\nFrequencyRange(GHz) 22.0–33.0\nLength(mm) 100\nInsertionLoss(dB) 0.1Max.\nVSWR 1.05:1Max.\nFlange FBP260(UBR260)\nMaterial Cu\nFinish SilverPlated,GrayPaint\nSize(mm) 100x21.1x21.1\nNetWeight(Kg) 0.06Around\nOutlineDrawing(Size:mm)\n\n34WAL-100_Cu\n22.0–33.0GHzStraightWaveguide\nAINFOInc. Page2of3\nChina(Beijing): Tel:(+86)10-6266-7326, (+86)10-6266-7327Fax:(+86)10-6266-7379\nChina(Chengdu):Tel:(+86)28-8519-2786, (+86)28-8519-3044Fax:(+86)28-8519-3068 Website:www.ainfoinc.com\nUSA: Tel:(+1)949-639-9688, (+1)949-639-9608Fax:(+1)949-639-9670 Email:sales@ainfoinc.com\nDatasubjecttochangewithoutnotice.Forcurrentdatasheets,pleasecontact:Sales@ainfoinc.com\nFlangeDrawing(Size:mm)\n\n34WAL-100_Cu\n22.0–33.0GHzStraightWaveguide\nAINFOInc. Page3of3\nChina(Beijing): Tel:(+86)10-6266-7326, (+86)10-6266-7327Fax:(+86)10-6266-7379\nChina(Chengdu):Tel:(+86)28-8519-2786, (+86)28-8519-3044Fax:(+86)28-8519-3068 Website:www.ainfoinc.com\nUSA: Tel:(+1)949-639-9688, (+1)949-639-9608Fax:(+1)949-639-9670 Email:sales@ainfoinc.com\nDatasubjecttochangewithoutnotice.Forcurrentdatasheets,pleasecontact:Sales@ainfoinc.com\nTestResults\nI.L.\nVSWR\n\n'}]
+!==============================================================================!
+### Component Summary: 34WAL-100_Cu
+
+**Description:**
+The 34WAL-100_Cu is a straight waveguide designed for microwave applications, specifically operating within the frequency range of 22.0 to 33.0 GHz. It is constructed from copper (Cu) and features a silver-plated finish with gray paint. This component is typically used in high-frequency signal transmission systems.
+
+**Key Specifications:**
+- **Frequency Range:** 22.0 – 33.0 GHz
+- **Length:** 100 mm
+- **Insertion Loss:** 0.1 dB Max
+- **VSWR (Voltage Standing Wave Ratio):** 1.05:1 Max
+- **Flange Type:** FBP260 (UBR260)
+- **Material:** Copper (Cu)
+- **Finish:** Silver Plated, Gray Paint
+- **Size:** 100 x 21.1 x 21.1 mm
+- **Net Weight:** Approximately 0.06 kg
+- **Moisture Sensitive Level:** Not specified in the provided data.
+
+**Typical Applications:**
+The 34WAL-100_Cu waveguide is primarily used in applications that require efficient transmission of microwave signals, such as:
+- **Telecommunications:** For signal routing in microwave communication systems.
+- **Radar Systems:** In radar equipment for transmitting and receiving signals.
+- **Test Equipment:** Used in laboratory setups for testing microwave components and systems.
+- **Satellite Communication:** For signal transmission in satellite systems.
+
+This component is essential for ensuring minimal signal loss and maintaining high performance in high-frequency applications.

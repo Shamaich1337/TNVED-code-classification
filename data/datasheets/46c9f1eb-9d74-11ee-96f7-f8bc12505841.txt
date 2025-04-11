@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDAC02106 production of NEDITEK from the text:NDAC02106\n18-40GHzLowNoiseAmplifier\n►Features\nFrequency:18-40GHz\nTypicalSmallSignalGain:25dB\nNoiseFigure:2.5dB\nP-1:10dBm\nInput/OutputVSWR:2\nBiasVoltage:+5.0V\nDimension:1.85mmx1.15mmx0.1mm\n►GeneralDescription\nTheNDAC02106isaFour-stagelownoiseamplifiermanufacturedwith0.15umGaAsPHEMTTechnology.TheMMICis\ngroundedbythebacksidemetalthroughtheviaholeonthechip.Allchipsare100%RFtested.\n►AbsoluteMaximumRatings1\nSymbol Parameter Value Remark\nVd DrainVoltage 7V\nPin InputPower 17dBm\nTch ChannelTemperature 150℃\nTm MountingTemperature 290℃ 30s,N2protection\nTstg StorageTemperature -55～150℃\n1.Exceedinganyoneorcombinationoftheselimitsmaycausepermanentdamage\n\nNDAC02105\n18-26GHzLowNoiseAmplifier\n2/4\nNEDITechnologyCo.,Ltd\nwww.neditek.comTel:+86-25-86858581/2Fax:+86-25-86858580\nEmail:sales@neditek.com\nAdd:No.521ZhongshanEastRoad,Nanjing,ChinaNote:Allthedataprovidedinthisdatasheetissubjecttochangewithout\nnotice.Therightisreservedtomakechangestospecificationsandother\ninformationatanytime\n►ElectricalCharacteristics(Ta=25℃)\nSymbol Parameter TestConditionValueUnitMin.Typ.Max.\nG SmallSignalGain\nVd:+5V\nF:18~26GHz- 25 - dB\nNF NoiseFigure - 2.5 - dB\nVSWRin InputVSWR - 2.0 -\nVSWRout OutputVSWR - 2.0 -\nP-1 OutputPower@1dB - 10 - dBm\nId DynamicCurrent - 60 - mA\n►TypicalPerformance(TestingCondition:+5V/8mA,Ta=25℃)\nSmallSignalGain NoiseFigure\nInputVSWR OutputVSWR\nNDAC02105\n18-26GHzLowNoiseAmplifier\n3/4\nNEDITechnologyCo.,Ltd\nwww.neditek.comTel:+86-25-86858581/2Fax:+86-25-86858580\nEmail:sales@neditek.com\nAdd:No.521ZhongshanEastRoad,Nanjing,ChinaNote:Allthedataprovidedinthisdatasheetissubjecttochangewithout\nnotice.Therightisreservedtomakechangestospecificationsandother\ninformationatanytime\nOutputPower@1dB\n►OutlineDimension(um)\n\nNDAC02105\n18-26GHzLowNoiseAmplifier\n4/4\nNEDITechnologyCo.,Ltd\nwww.neditek.comTel:+86-25-86858581/2Fax:+86-25-86858580\nEmail:sales@neditek.com\nAdd:No.521ZhongshanEastRoad,Nanjing,ChinaNote:Allthedataprovidedinthisdatasheetissubjecttochangewithout\nnotice.Therightisreservedtomakechangestospecificationsandother\ninformationatanytime\n►PadsDiagram\nPads FunctionDescriptions\nRFin RFsignalinput,50Ωconnection,noblockingcapacitorneeded\nRFout RFsignaloutput,50Ωconnection,noblockingcapacitorneeded\nVdd Drainbias,100pFcapacitorneeded\nGND RF&DCgroundneededonthechipbottom\n'}]
+!==============================================================================!
+### Component Summary: NDAC02106
+
+**Description:**
+The NDAC02106 is a low noise amplifier (LNA) designed for operation in the frequency range of 18-40 GHz. It is a four-stage amplifier manufactured using 0.15 µm GaAs PHEMT technology. The device is optimized for low noise figure and high gain, making it suitable for applications requiring signal amplification with minimal degradation of signal quality.
+
+**Key Specifications:**
+- **Frequency Range:** 18-40 GHz
+- **Typical Small Signal Gain:** 25 dB
+- **Noise Figure:** 2.5 dB
+- **Output Power at 1 dB Compression (P-1):** 10 dBm
+- **Input/Output Voltage Standing Wave Ratio (VSWR):** 2.0
+- **Bias Voltage:** +5.0 V
+- **Dimensions:** 1.85 mm x 1.15 mm x 0.1 mm
+
+**Absolute Maximum Ratings:**
+- **Drain Voltage (Vd):** 7 V
+- **Input Power (Pin):** 17 dBm
+- **Channel Temperature (Tch):** 150 °C
+- **Mounting Temperature (Tm):** 290 °C (30 seconds, N2 protection)
+- **Storage Temperature (Tstg):** -55 to 150 °C
+
+**Moisture Sensitive Level:** Not specified in the provided text.
+
+### Typical Applications:
+The NDAC02106 is primarily used in high-frequency applications such as:
+- **Telecommunications:** Enhancing signal strength in communication systems operating at microwave frequencies.
+- **Radar Systems:** Amplifying weak signals in radar applications to improve detection capabilities.
+- **Satellite Communications:** Used in satellite transceivers for signal amplification.
+- **Test Equipment:** Employed in RF test setups for measuring and analyzing high-frequency signals.
+
+This component is ideal for applications where low noise and high gain are critical, ensuring that the integrity of the signal is maintained during amplification.

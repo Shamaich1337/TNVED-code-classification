@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TPE1207S-2W production of TOPPOWER from the text:TPE-2 W Series                                                                          \nwww.gztoppower.com                TEL:0086-20-62162688            EMAIL:sales2@gztoppower.com                    page 1 of 3      DESCRIPTION ： \nThe TPE-2W series are miniature, isolated 2W DC/DC converters in a SIP package. They offer the \nideal solution in many space critical applications for board level power distribution. The internal SMD construction makes it possible to offer a product with high performance at low cost. The series \noffers smaller size, improved efficiency, lower output ripple noise. 2W 1.5KVDC Isolated Single Output DC/DC Converters  \n   \n \nISOLATION CHARACTERISTICS  \nParameter Conditions Min. Typ. Max. Units \nIsolation test voltage SIP package Tested for 1 second 1500   VDC \nResistance Viso= 1000VDC 1   GΩ \n \nOUTPUT CHARACTERISTICS  \nParameter Conditions Min. Typ. Max. Units \nRated Power TA= - 40°C to 85°C   1.0 W \nVoltage Set Point Accuracy See tolerance envelope     \nLine regulation High VIN to low VIN  1.0 1.2 %/% \nLoad Regulation （10%load to rated load ） 3.3V output  14 15 % FEATURES  \nRoHS compliant  Single isolated output  SIP:1.5KVDC isolation    \nEfficiency up to 81%  Operating temperature :-40 ℃ to 105℃ Power density 2.0W/cm3 \nUL 94V-0 package material  Footprint from 1.05cm2 Industry standard pinout  \nInput voltage: 3.3V, 5V, 12V ,15V  Output voltage:3.3V,5V, 7.2V,9V, 12V, 15V & 24V  CE certification  \nSELECTION GUIDE \nPart Number Nominal In put Volta ge Output Volta ge Output Current (Max./Min ) Efficienc y Package Style \nV V mA % \nTPE0303S-2W 3.3 3.3 606/60.6 72 SIP \nTPE0305S-2W 3.3 5 400/40 74 SIP \nTPE0503S-2W 5 3.3 606/60.6 72 SIP \nTPE0505S-2W 5 5 400/40 70 SIP \nTPE0507S-2W 5 7.2 270/27 70 SIP \nTPE0509S-2W 5 9 221/22.1 78 SIP \nTPE0512S-2W 5 12 168/16.8 78 SIP \nTPE0515S-2W 5 15 132/13.2 80 SIP \nTPE0524S-2W 5 24 83.3/8.33 79 SIP \nTPE1203S-2W 12 3.3 606/60.6 72 SIP \nTPE1205S-2W 12 5 400/40 71 SIP \nTPE1207S-2W 12 7.2 270/27 71 SIP \nTPE1209S-2W 12 9 221/22.1 73 SIP \nTPE1212S-2W 12 12 168/16.8 76 SIP \nTPE1215S-2W 12 15 132/13.2 74 SIP \nTPE1505S-2W 15 5 400/40 71 SIP \nTPE1509S-2W 15 9 221/22.1 73 SIP \nTPE1512S-2W 15 12 168/16.8 76 SIP \nTPE1515S-2W 15 15 132/13.2 74 SIP \n \nINPUT CHARACTERISTICS  \nParameter Conditions Min. Typ. Max. Units \nVoltage range 3.3V input  2.9 3.3 3.6 V \nVoltage range 5V input 4.5 5.0 5.5 V \nVoltage range 12V input 10.8 12.0 13.2 V \nVoltage range 15V input 13.4 15 16.4 V \nReflected ripple current   26 48 mA p-p \n\nTPE-2 W Series                                                                          \nwww.gztoppower.com                TEL:0086-20-62162688            EMAIL:sales2@gztoppower.com                    page 2 of 3     OUTPUT CHARACTERISTICS  \nLoad Regulation （10%load to rated load ） 5V output  14 15 % \nLoad Regulation （10%load to rated load ） 7V output  9 10 % \nLoad Regulation （10%load to rated load ） 9V output  9 10 % \nLoad Regulation （10%load to rated load ） 12V output  7.5 9.5 % \nLoad Regulation （10%load to rated load ） 15V output  7.0 8.5 % \nLoad Regulation （10%load to rated load ） 24V output  5.5 7.5 % \nAll specifications typical at TA=25°C, nominal input voltage and rated output current unless otherwise specified.  \nGENERAL CHARACTERISTICS  \nParameter Conditions Min. Typ. Max. Units \nSwitching frequency 3.3V input  95  kHz \nSwitching frequency 5V input  110  kHz \nSwitching frequency 12V input  145  kHz \nSwitching frequency 15V input  145  kHz \nTEMPERATURE CHARACTERISTICS  \nParameter Conditions Min. Typ. Max. Units \nSpecification Derating if the temperature ≥85°C -40  105 ℃ \nStorage  -55  150 ℃ \nCase Temperature  above ambient 5V output   41 ℃ \nCase Temperature  above ambient All other output   32 ℃ \nCooling Free air convection  \nTEMPERATURE DERATING GRAPHS  TOLERANCE ENVELOPES  \n  \nSOLDERING INFORMATION  \n \nThis series is compatible with RoHS soldering systems with a peak wave solder temperature of 300°C for 10 seconds. Both types i n this series are backward \ncompatible with Sn/Pb soldering systems. \n \n \n      \nOutput VoltageTypical Load Line\n10 25 50 75 100-7.5%+2.5%\n-2.5%NOMV\n   +5%+10%\nOutput Load Current(%)3.0\n2.0\n1.0\n0\n-40 0 50 100 150Output Power(W)\nAmbient Temperature(°C)85°C\nSafe Operating Area\n105\nTPE-2 W Series                                                                          \nwww.gztoppower.com                TEL:0086-20-62162688            EMAIL:sales2@gztoppower.com                    page 3 of 3     All dimensions in mm ±0.25mm. All pins on a 2.54 mm pitch and within ±0.25mm of true position       \nWeight: 1.40g (SIP)  MECHANICAL DIMENSIONS  PIN CONNECTIONS  \n  \n \n 4 PIN SIP \nPin Function \n1 -Vin \n2 +Vin \n3 -Vout \n4 +Vout \nRECOMMENDED FOOTPRINT DETAILS  \n \nTUBE OUTLINE DIMENSIONS \n  \n                                                   \n 4Pin SIP Tube \nUnless otherwise stated all dimensions in mm ±0.5mm. \nTube length (4 Pin SIP) : 520mm ±2mm.                                        Tube Quantity : 17PCS/35PCS 9.30\n12.430.50\n5.0018.00SIP Package \n4Pin SIP Package 1.15\n1.004 孔\n2.54\n2.544 HOLES \n\n'}]
+!==============================================================================!
+### Component Summary: TPE1207S-2W
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Input Voltage Range: 10.8V to 13.2V (Nominal: 12V)
+  - Output Voltage: 7.2V
+
+- **Current Ratings:**
+  - Maximum Output Current: 270 mA
+  - Minimum Output Current: 27 mA
+
+- **Power Consumption:**
+  - Rated Power: 2W
+
+- **Operating Temperature Range:**
+  - Operating Temperature: -40°C to 105°C
+  - Storage Temperature: -55°C to 150°C
+
+- **Package Type:**
+  - SIP (Single In-line Package)
+
+- **Special Features:**
+  - 1.5 kVDC isolation
+  - Efficiency up to 71%
+  - RoHS compliant
+  - UL 94V-0 package material
+  - CE certification
+  - Industry standard pinout
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided text.
+
+**Description:**
+The TPE1207S-2W is a miniature, isolated 2W DC/DC converter designed for board-level power distribution in space-critical applications. It features a single isolated output and is constructed using surface-mount technology (SMD), which allows for high performance at a low cost. The converter is characterized by its compact size, improved efficiency, and low output ripple noise.
+
+**Typical Applications:**
+The TPE1207S-2W is suitable for various applications, including:
+- Power management in telecommunications equipment
+- Industrial automation systems
+- Medical devices
+- Consumer electronics
+- Any application requiring reliable and efficient DC power conversion in a compact form factor.
+
+This component is particularly useful in scenarios where space is limited and isolation is required, making it ideal for modern electronic designs that demand both performance and efficiency.

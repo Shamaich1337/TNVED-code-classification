@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-2G-1.13IPEX-100 production of MG ANTENNAS from the text:Special for MACRO GROU P    E-mail: wireless@macrogroup.ru     Tel: +7 (8 12) 370 60 70  \n1 \n \n \n \nPRODUCT DATASHEET  \n MMMGGG---PPPCCCBBB---222GGG---111...111333IIIPPPEEEXXX---111000000   \nType  GSM PCB  Antenna  \nFrequencies  800-980/1710-1880 MHz \nConnector  I-PEX \nBrand Name  MG ANTENNAS  \n \n \n \n \n \n \n \n \n Revision # Content  Page  Date  \n0 First, document  - 06.12.2021 \n \n2 \n 1. SPECIFICAT ION \n1.1 Electrical Specif ications  \n \n 1.2 Mechanical  and Environmental Specification  \nCable  (type and length )  RF1.13 Coaxial 100mm  or other * \nConnector  IPEX  \nDimensions  (witho ut cable ) 50x8 mm \nMounting  Self-adhesive  tape \nMaterial  PCB  FR-4 \nOperating / Storage  \nTemperature  - 30˚C ~ + 70˚C \nSubst ance Compliance  RoHS  \n * Customizable Cable and Connector   \n \n2. ANTEN NA PERFORMA NCE TEST  \n Frequency  800-980/1710 -1880 MHz \nPolari zation  LEVEL  \nGain  2 dBi max \nVSWR  2.0:1 \nImpedance  50 Ω \nMax Power  10W \n \n3 \n 3. DIMENSION S\n \n'}]
+!==============================================================================!
+### Component Summary for MG-2G-1.13IPEX-100
+
+#### Key Specifications:
+- **Type**: GSM PCB Antenna
+- **Frequencies**: 800-980 MHz / 1710-1880 MHz
+- **Connector**: I-PEX
+- **Dimensions**: 50 mm x 8 mm (without cable)
+- **Cable Type and Length**: RF1.13 Coaxial, 100 mm (customizable)
+- **Mounting**: Self-adhesive tape
+- **Material**: PCB FR-4
+- **Operating Temperature Range**: -30°C to +70°C
+- **Power Consumption**: Max Power 10W
+- **Gain**: 2 dBi max
+- **VSWR**: 2.0:1
+- **Impedance**: 50 Ω
+- **Moisture Sensitive Level**: Not specified in the provided data.
+
+#### Description:
+The MG-2G-1.13IPEX-100 is a GSM PCB antenna designed for wireless communication applications. It operates within the frequency ranges of 800-980 MHz and 1710-1880 MHz, making it suitable for various GSM standards. The antenna features a compact design with a self-adhesive mounting option, allowing for easy integration into devices.
+
+#### Typical Applications:
+This antenna is typically used in mobile communication devices, IoT applications, and other wireless systems that require reliable GSM connectivity. Its small form factor and customizable cable length make it ideal for integration into compact electronic devices, such as smartphones, tablets, and embedded systems. The antenna's performance characteristics, including a maximum gain of 2 dBi and a low VSWR, ensure efficient signal transmission and reception, making it suitable for applications in telecommunications and data transmission.

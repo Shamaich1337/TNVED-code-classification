@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-DMRV5M-02R-T-M0-R production of DECIGN from the text:A New 19.02.2024 Cherry\nDIP SWITCH\nSMD-PH2.54\nVERTICAL SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV .Tom\nJerry\nPAUL19.02.2024\n19.02.2024\n19.02.2024TP-DM(R)V5M-M0\nTP-DM(R)V5M-xxR-x-M0-R1/1\nATP-\nTP-\nTP-\nTP-\nTP-\nTP-\nTP-\nTP-\nTP-\nTP-¨\x01\x01\x01©\nRoHS\ncomplia nt\n'}]
+!==============================================================================!
+Based on the provided text, here is a concise summary of the TP-DMRV5M-02R-T-M0-R component from DECIGN:
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly mentioned in the provided text; typically, DIP switches operate at low voltage levels (usually up to 30V).
+- **Current Ratings**: Not specified; however, standard DIP switches generally handle currents in the range of 0.5A to 2A.
+- **Power Consumption**: Not specified; power consumption is typically low for DIP switches.
+- **Operating Temperature Range**: Not provided; common ranges for electronic components are -40°C to +85°C.
+- **Package Type**: SMD-PH2.54 (Surface Mount Device with a 2.54mm pitch).
+- **Special Features or Notes**: The component is RoHS compliant, indicating it is free from hazardous substances.
+- **Moisture Sensitive Level (MSL)**: Not specified in the provided text.
+
+### Component Description:
+The TP-DMRV5M-02R-T-M0-R is a DIP switch, which is a type of mechanical switch used to control the flow of electricity in a circuit. DIP switches are typically used for setting configurations or options in electronic devices. They consist of multiple individual switches housed in a single package, allowing for multiple settings to be adjusted simultaneously.
+
+### Typical Applications:
+DIP switches are commonly used in various applications, including:
+- **Configuration Settings**: Used in devices to set operational modes or configurations, such as enabling/disabling features.
+- **Addressing**: In communication devices, DIP switches can set device addresses for network identification.
+- **Control Systems**: Employed in industrial control systems for setting parameters or modes of operation.
+- **Consumer Electronics**: Found in devices like printers, routers, and other consumer electronics for user-defined settings.
+
+This summary provides a clear overview of the TP-DMRV5M-02R-T-M0-R component, highlighting its specifications and typical applications based on the available information.

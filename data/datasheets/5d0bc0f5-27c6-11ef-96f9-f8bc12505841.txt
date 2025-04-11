@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ESDSLC8V0D3BA production of YANGZHOU YANGJIE ELECTRONIC from the text:   ESDSLC8V0D3BA                  \xa0\n\xa0\n 1 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S3357 \nRev.1.0,18-Sep-20 www.21yangjie.com\n1-Line Low Capacitance Bi-directional TVS Diode  \n \n Features     \n●350W peak pulse power (8/20μs) \n●Ultra low capacitance: 1pF typical  \n●Ultra low leakage: nA level  \n●Operating voltage:8V ●Low clamping voltage  \n●Protects one power line or data line  \n●Complies with following standards: \n– IEC 61000-4-2 (ESD) immunity test \nAir discharge: ±30Kv \nContact discharge: ±30kV \n– IEC61000-4-5 (Lightning) 18A (8/20μs) \n●RoHS Compliant \n \n                                                                                                                       Marking Information  \n \n \n  \n \n \n \n \n■Maximum Ratings \n \nPARAMETER SYMBOL VALUE UNIT \nPeak Pulse Power (8/20μs)   Ppk 350 W \nPeak Pulse Current (8/20μs) IPP  18 A \nESD per IEC 61000−4−2 (Air)  \nESD per IEC 61000−4−2 (Contact)  VESD  ±30  \n±30  KV \nOperating Temperature Range  TJ  −55 to +125  ℃ \nStorage Temperature Range  Tstg  −55 to +150  ℃ \n COMPLIANT  RoHS  \n\n   ESDSLC8V0D3BA                  \xa0\n\xa0\n 2 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S3357 \nRev.1.0,18-Sep-20 www.21yangjie.com\n■Electrical Characteristics （Ta=25℃ Unless otherwise specified ） \n \nPARAMETER SYMBOL UNIT CONDITIONS MIN TYP MAX \nReverse Working Voltage  V RWM V     8  \nBreakdown Voltage  VBR V IT = 1mA  8.5  10 \nReverse Leakage Current  IR μA  VRWM = 8V    0.2 \nClamping Voltage V C V  IPP = 1A (8/20μs pulse)         9 \nClamping Voltage V C V IPP = 18A (8/20μs pulse)    19.5 \nJunction Capacitance  C J pF VR = 0V, f = 1MHz   1  \n \n  \n■ Characteristics  (Typical)  \n \n \n \n \n   \n\xa0\n\xa0\n\xa0\xa0\n\xa0\n\xa0\xa0\xa0\n\xa0\n   ESDSLC8V0D3BA                  \xa0\n\xa0\n 3 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S3357 \nRev.1.0,18-Sep-20 www.21yangjie.com\n\xa0\n\xa0\n\xa0\xa0\n\xa0\n \n           \n   ESDSLC8V0D3BA                  \xa0\n\xa0\n 4 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S3357 \nRev.1.0,18-Sep-20 www.21yangjie.com\n■ Outline Dimensions  \n \n\xa0\n\xa0\n\xa0\n \n■ Soldering Footprint  \n \n\xa0\n\xa0\nUnit：inches \n\xa0\n\xa0\n\xa0\n\xa0\xa0\n\xa0\n\xa0\xa0\n\xa0\n\xa0\xa0\n\xa0\n \n \n   ESDSLC8V0D3BA                  \xa0\n\xa0\n 5 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S3357 \nRev.1.0,18-Sep-20 www.21yangjie.com\nDisclaimer \n \nThe information presented in this  document is for reference onl y. Yangzhou Yangjie Electronic Technology Co., Ltd. reserves th e \nright to make changes without not ice for the specification of t he products displayed herein to improve reliability, function o r design \nor otherwise.     The product listed herein is designed to be used with ordinary electronic equipment or devices, and not designed to be used wi th \nequipment or devices which require high level of reliability an d the malfunction of with woul d directly endanger human life (s uch as \nmedical instruments, transportat ion equipment, aerospace machin ery, nuclear-reactor controller s, fuel controller s and other sa fety \ndevices), Yangjie or anyone on its behalf, assumes no responsib ility or liability for any damages resulting from such improper  use \nof sale.    This publication supersedes & r eplaces all information previous ly supplied. For additional information, please visit our websi te \nhttp:// www.21yangjie.com  , or consult your nearest Yangjie’s sales office for further a ssistance. \n \n \n'}]
+!==============================================================================!
+### Component Summary: ESDSLC8V0D3BA
+
+**Description:**
+The ESDSLC8V0D3BA is a 1-Line Low Capacitance Bi-directional Transient Voltage Suppressor (TVS) diode designed to protect sensitive electronic components from voltage spikes caused by electrostatic discharge (ESD) and lightning strikes. It features ultra-low capacitance and leakage, making it suitable for high-speed data lines and power lines.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Reverse Working Voltage (V_RWM): 8V
+  - Breakdown Voltage (V_BR): 8.5V (min) to 10V (max) at 1mA
+- **Current Ratings:**
+  - Peak Pulse Current (I_PP): 18A (8/20μs pulse)
+- **Power Consumption:**
+  - Peak Pulse Power (P_pk): 350W (8/20μs)
+- **Operating Temperature Range:**
+  - Junction Temperature (T_J): -55°C to +125°C
+  - Storage Temperature (T_stg): -55°C to +150°C
+- **Package Type:** Not specified in the provided text, but typically available in surface mount packages.
+- **Special Features:**
+  - Ultra-low capacitance: 1pF (typical)
+  - Ultra-low leakage current: 0.2μA at 8V
+  - Low clamping voltage: 9V at 1A and 19.5V at 18A
+  - Complies with IEC 61000-4-2 (ESD) and IEC 61000-4-5 (Lightning) standards
+  - RoHS compliant
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Typical Applications:**
+The ESDSLC8V0D3BA is commonly used in applications requiring protection against ESD and voltage transients, such as:
+- Data line protection in communication devices
+- Power line protection in consumer electronics
+- Automotive electronics
+- Industrial control systems
+- Any sensitive electronic equipment that requires robust protection against transient voltage spikes.
+
+This component is particularly valuable in environments where ESD events are common, ensuring the reliability and longevity of electronic devices.

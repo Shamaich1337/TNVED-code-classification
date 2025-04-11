@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FBRT-I-V(ZN)Y 2K200/230 production of KINZ from the text:ItemSpecification\nMin. Typ. Max.\nOpticalFiberCoreMaterial Quartz\nCoreDiameter [um] 200um\nCladDiameter[um] 230um\nNA 0.5\nWavelength 650nmor850nm\nCoreNumber 2\nJacketJacketMaterial PVC\nDiameter[mm] - 2.2*4.4 -\nJacketColor Orange\nApproximateWeight 8kg/km\nSectional View\nItemSpecification\nMin. Typ. Max.\nPerformanceStorage\nTemperature[ ℃]- -10 ﹣ 70\nOperation\nTemperature[ ℃]- -10 ﹣ 70\nAttenuation\n[dB/km]@650nm - 10 -\n@850nm - 8 -\nStrength - Kevlar\nMinimumBending\nRadius [mm]- ﹣ 22 ﹣\nStrength[N] - - 200 -\nAlltestsarecarried outundertemperatureof25 ℃unlessotherwisespecified.1. Structure\nFBRT-I-V(ZN)Y 2K200/230\n2. PerformanceFIBERT \nFBRT- I-V(ZN)Y 2K200/230\n2.2*4.4  mmIndoorPCFCable\n'}]
+!==============================================================================!
+### Component Summary: FBRT-I-V(ZN)Y 2K200/230
+
+#### Key Specifications:
+- **Optical Fiber Core Material**: Quartz
+- **Core Diameter**: 200 µm
+- **Clad Diameter**: 230 µm
+- **Numerical Aperture (NA)**: 0.5
+- **Wavelength**: 650 nm or 850 nm
+- **Core Number**: 2
+- **Jacket Material**: PVC
+- **Jacket Diameter**: 2.2 mm x 4.4 mm
+- **Jacket Color**: Orange
+- **Approximate Weight**: 8 kg/km
+
+#### Performance Ratings:
+- **Storage Temperature Range**: -10 °C to 70 °C
+- **Operating Temperature Range**: -10 °C to 70 °C
+- **Attenuation**:
+  - @ 650 nm: 10 dB/km
+  - @ 850 nm: 8 dB/km
+- **Minimum Bending Radius**: 22 mm
+- **Strength**: Kevlar reinforcement
+- **Strength Rating**: 200 N
+
+#### Special Features:
+- The cable is designed for indoor use and features a PVC jacket for protection.
+- The optical fiber is designed to operate effectively at two different wavelengths (650 nm and 850 nm), making it versatile for various applications.
+
+#### Moisture Sensitive Level:
+- Not specified in the provided data.
+
+### Description:
+The FBRT-I-V(ZN)Y 2K200/230 is an indoor optical fiber cable designed for data transmission. It features a dual-core quartz fiber structure, which allows for efficient light transmission with minimal loss. The cable is encased in a durable PVC jacket, making it suitable for indoor environments.
+
+### Typical Applications:
+This optical fiber cable is typically used in:
+- **Data Communication**: Ideal for high-speed data transmission in local area networks (LANs).
+- **Telecommunications**: Used in systems requiring reliable and high-bandwidth connections.
+- **Video Transmission**: Suitable for applications that require the transmission of video signals over long distances with minimal attenuation.
+- **Industrial Applications**: Can be utilized in environments where robust and flexible cabling is necessary.
+
+Overall, the FBRT-I-V(ZN)Y 2K200/230 is a versatile optical fiber cable that meets the demands of modern communication systems, providing reliable performance in various applications.

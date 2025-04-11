@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CF297 EE7032 production of COSMO FERRITES LTD. from the text:PRODUCT DATA APPROVAL SHEET \n \n   \n \nAppearance & Shape:  To be free from any defect such as flow, burrs, un evenness etc, As per IEC standards.  \nEffective Parameters irrespective of material grade  (per set)  \n• Effective Length (L e): 149.9mm \n• Effective Area (A e):    683.0mm 2  \n• Effective Area (A Min ): 661.5mm 2 \n• Effective Volume (V e): 10238mm 3 \n              Approximate weight (without Gap): 520 g/Set \n \n \n \nEE7032  \nTest Conditions: 1kHz/1mT/CFR COIL,N=100/25˚C \nMaterial \nGrade Initial Permeability \n(µ iac ) AL Value (nH)/Set PV (W/set) Ordering code \nCF297 2300 ±20% 9900 +30%/-20% ≤9.20 (100mT,100kHz, 100 0C)  CF297EE7032  \n \n \n \n \n \nDimensions : \n \n \n \n \n \n \n \n \n \n \n \nFor Cosmo Ferrites Limited-INDIA                        Customer’s Approval \nChecked By:               A.K.        Authorized Si gnatory:  \nApproved By: B.S.        Name: \nAuthorized By: KSR        Date: \nDate:                           01-01-2019(ISSUE NO .1) \n \n \n \nNOTE:  Please send this Data Sheet back to Cosmo Ferrites Ltd. after approval. If not received back within 15  days, it \nwill be presumed that all the specifications given in the consent/data sheet are acceptable to the con cerned.  Dimension  Nominal  \n(in mm) Maximum  \n(in mm) Minimum  \n(in mm) \nA 70.5  71.5  69.5  \nB 48.75  49.5  48.0  \nC 32.95  33.2  32.7  \nD 22.25  22.6  21.9  \nE 21.65  22.0  21.3  \nF 31.6  32.0  31.2  \nCosmo F errites Ltd. - INDIA  \n Core - EE7032  \n\n'}]
+!==============================================================================!
+### Component Summary: CF297 EE7032
+
+#### Key Specifications:
+- **Effective Length (L e)**: 149.9 mm
+- **Effective Area (A e)**: 683.0 mm²
+- **Minimum Effective Area (A Min)**: 661.5 mm²
+- **Effective Volume (V e)**: 10,238 mm³
+- **Approximate Weight (without Gap)**: 520 g/Set
+- **Initial Permeability (µ iac)**: 2300 ±20%
+- **AL Value**: 9900 nH/Set (±30%/-20%)
+- **Power Loss (PV)**: ≤9.20 W/Set (at 100 mT, 100 kHz, 100°C)
+- **Test Conditions**: 1 kHz, 1 mT, CFR Coil, N=100, at 25°C
+- **Moisture Sensitive Level**: Not specified in the provided data.
+
+#### Description:
+The CF297 EE7032 is a ferrite core component manufactured by Cosmo Ferrites Ltd. It is designed for use in inductive applications, particularly in transformers and inductors. Ferrite cores are used to enhance the magnetic properties of coils, allowing for efficient energy transfer and reduced losses in electronic circuits.
+
+#### Typical Applications:
+- **Power Management**: Used in power supply circuits to improve efficiency and reduce electromagnetic interference.
+- **Signal Processing**: Employed in RF applications for filtering and signal conditioning.
+- **Energy Storage**: Utilized in inductors for energy storage in various electronic devices.
+- **Transformers**: Commonly used in transformer designs to optimize performance in power conversion applications.
+
+This component is particularly suitable for applications requiring high inductance and low power loss, making it ideal for modern electronic devices that demand efficiency and reliability.

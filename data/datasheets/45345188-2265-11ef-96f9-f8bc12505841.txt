@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-SS1280A1H-LLR-B production of DECIGN from the text:A New 19.02.2024 Cherry\nSLIDE SWITCH\nDIP RIGHT ANGLE SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV .Tom\nJerry\nPAUL19.02.2024\n19.02.2024\n19.02.2024TP-SS1280A1H\nTP-SS1280A1H-LLR-B1/1\nARoHS\ncomplia nt\n0.5 1.4 2.5 3.72.54 2.54\n8.42\n10.0\n2.541. Rating : 0.5A, DC 12V~0.3A, DC24V\n2. Contact Resistance : 100m Ω  Max.\n3. Travel : 1.6mm\n4. Operating Force : 250gf ± 150gf\n5. Life cycle : 2,000 Cycle(with load)\n6. General tolerance :  ±0.3mm\nØ0.81.6  (TRAVEL)6.80.6Ø1.0\n'}]
+!==============================================================================!
+### Component Summary for TP-SS1280A1H-LLR-B
+
+**Component Type:** Slide Switch
+
+**Description:**
+The TP-SS1280A1H-LLR-B is a right-angle DIP (Dual In-line Package) slide switch designed for various electronic applications. It allows for manual switching of circuits, providing a reliable means to control the flow of electricity in a compact form factor. The switch is compliant with RoHS standards, indicating it is free from hazardous substances.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - 12V DC (0.5A)
+  - 24V DC (0.3A)
+  
+- **Current Ratings:**
+  - 0.5A at 12V DC
+  - 0.3A at 24V DC
+  
+- **Power Consumption:** Not explicitly stated, but can be inferred from voltage and current ratings.
+  
+- **Operating Temperature Range:** Not specified in the provided text.
+  
+- **Package Type:** DIP (Dual In-line Package), right-angle configuration.
+  
+- **Special Features:**
+  - Contact Resistance: 100 mΩ Max
+  - Travel Distance: 1.6 mm
+  - Operating Force: 250 gf ± 150 gf
+  - Life Cycle: 2,000 cycles with load
+  
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+### Typical Applications:
+The TP-SS1280A1H-LLR-B slide switch is typically used in applications where manual control of electrical circuits is required. Common applications include:
+- Power management in consumer electronics
+- Signal routing in communication devices
+- User interface controls in various electronic devices
+- Industrial equipment for toggling functions
+
+This component is ideal for situations where space is limited, and a reliable mechanical switch is needed to control power or signal paths.

@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PAT-10+ production of MINI-CIRCUITS from the text:Notes\nA. Performance and quality attributes and conditions not expressly stated in this specification document are intended to be excluded and do not form a part of this specification document. \nB. Electrical specifications and performance data contained in this specification document are based on Mini-Circuit’s applicable established test performance criteria and measurement instructions. \nC. The parts covered by this specification document are subject to Mini-Circuits standard limited warranty and terms and conditions (collectively, “Standard Terms”); Purchasers of this part are entitled   \n to the rights and benefits contained therein. For a full statement of the Standard Terms and the exclusive rights and remedies thereunder, please visit Mini-Circuits’ website at www.minicircuits.com/MCLStore/terms.jsp\nMini-Circuits®\nwww.minicircuits.com    P .O. Box 350166, Brooklyn, NY 11235-0003  (718) 934-4500  sales@minicircuits.comA B C D E F G\n.200 .100 .020 .070 .068 .057 .005\n5.08 2.54 0.51 1.78 1.73 1.45 0.13\nH J K L M N wt\n-- .230 .065 .060 .080 .040 grams\n-- 5.84 1.65 1.52 2.03 1.02 0.04Typical Performance DataElectrical Specifications at 25 °CMaximum Ratings\nOperating Temperature  -55°C to 100°C\nStorage Temperature  -55°C to 100°C\nOutline Drawing\nOutline Dimensions  (     )\nPAT-10+\nATTENUATION\n10.010.310.610.911.211.5\n0 1000 2000 3000 4000 5000 6000 7000\nFREQUENCY (MHz)ATTENUATION (dB)inch\nmmPAT-10+\n50Ω      1W     10dB     DC to 7000 MHz Fixed Attenuator   \nREV. H\nM151107\nPAT -10+\n200406Miniature Ceramic\nPAT-10+\nVSWR\n1.01.11.21.31.41.5\n0 1000 2000 3000 4000 5000 6000 7000\nFREQUENCY (MHz)VSWRPCB Land Pattern  \nSuggested L ayout, \nTolerance to be within ±.002Features\n• wideband, DC to 7000 MHz\n• excellent VSWR, through entire band\n• miniature size\n• aqueous washable \nApplications\n• power leveling\n• impedance match improvement\nFREQ.\nRANGE\n(MHz)ATTENUATION \n(dB)\n              Flatness, Max.VSWR\n(:1)\nMax.MAX.\nINPUT \nPOWER\n(W)DC-1 DC-2.5 DC-fU DC-1 DC-2.5 DC-fU \nfL--fU Nom. GHz GHz GHz GHz GHz GHz\nDC-7000 10±0.4 0.4 0.6 1.7 1.3 1.4 1.5 1INPUT 1\nOUTPUT 3\nGROUND 2,4Pin Connections\nDemo Board MCL P/N: TB-319\nSuggested PCB Layout (PL-208)1. RF power at 25 °C case temperature: 1 Watt. Derate linearly to 0.1 Watt at 100 °C.\nFrequency\n(MHz)Attenuation\n(dB)VSWR\n(:1)\n 100.00 10.16 1.10\n 399.70 10.20 1.10\n 699.40 10.22 1.10\n 1000.00 10.23 1.11\n 1500.40 10.25 1.13 \n 2000.80 10.29 1.15\n 2500.00 10.32 1.16\n 4000.30 10.59 1.16\n 5500.60 10.62 1.17\n 7000.00 11.18 1.26Permanent damage may occur if any of these limits are exceeded.\nCASE STYLE: AF320\n+RoHS Compliant\nThe +Suffix identifies RoHS Compliance. See our web site \nfor RoHS Compliance methodologies and qualifications\nAvailable Tape and Reel \nat no extra cost \n Reel Size Devices/Reel\n7” 1000\n \nGeneric photo used for illustration purposes only\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Mini-Circuits:   \n\xa0 PAT-10+\n'}]
+!==============================================================================!
+### Component Summary: PAT-10+ by Mini-Circuits
+
+**Component Type:** Fixed Attenuator
+
+**Description:**
+The PAT-10+ is a miniature fixed attenuator designed for RF applications. It operates over a wide frequency range from DC to 7000 MHz and provides a nominal attenuation of 10 dB. The component is characterized by its excellent Voltage Standing Wave Ratio (VSWR) performance and is suitable for various applications requiring signal level management.
+
+### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated; typically determined by the maximum input power.
+- **Current Ratings:** Not specified; current handling is generally related to power ratings.
+- **Power Consumption:** Maximum input power of 1 Watt at 25 °C, derating to 0.1 Watt at 100 °C.
+- **Operating Temperature Range:** -55°C to 100°C.
+- **Storage Temperature Range:** -55°C to 100°C.
+- **Package Type:** Miniature ceramic package (Case Style: AF320).
+- **Special Features:**
+  - Wideband performance (DC to 7000 MHz).
+  - Excellent VSWR across the entire frequency range.
+  - Aqueous washable for easy cleaning.
+  - RoHS compliant.
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+### Typical Applications:
+- **Power Leveling:** Used in systems where maintaining a consistent power level is critical.
+- **Impedance Match Improvement:** Helps in matching the impedance between different components in RF circuits to minimize signal reflection and loss.
+
+### Additional Notes:
+- The PAT-10+ is designed for applications in telecommunications, broadcasting, and other RF systems where signal integrity is paramount.
+- The component is available in tape and reel packaging for automated assembly processes, with a reel size of 7” containing 1000 devices.
+
+This summary encapsulates the essential characteristics and applications of the PAT-10+ fixed attenuator, providing a clear understanding of its functionality and suitability for various RF applications.

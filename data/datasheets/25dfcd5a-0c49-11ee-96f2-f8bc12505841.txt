@@ -1,0 +1,48 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SDM-025-S101-95/T0-M025 production of E-TEC from the text:Order Code\nSDM-xxx-S101-9x/T0-M025\nPlating\n95=  Tin/Gold flash\n  97 =  Tin/15µ" Gold\n98=  Tin/30µ" Gold\nABCD\n009 30.81 24.99 16.92 19.20\n015 39.20 33.30 25.25 27.70\n025 53.05 47.04 38.96 41.10\n037 69.40 63.50 55.42 57.30No. of \nContactsDimension mm\nRoHS\ncompliant\nD-Sub Connector - S101- Type\nSolder Cup Type -Male-\nwith mounting holes SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.13Cherry\nKent\nSH08.09.2022\n08.09.202208.09.2022SDM-S101/T0-M025\nSDM-xxx-S101-9x/T0-M0251/1\nASpecifications\nElectrical\nCurrent rating: 5A@25°C  3A@70°C\nInsulation resistance:  1000MΩ min. @500V DC\nContact resistance: 20mΩ max.\nVoltage rating: 25V DC\nWithstanding voltage: 1000V A C/ rms 60Hz for 1 MinuteMaterial\nContact: Brass\nPlating: Sn on solder , Au on contact area\n                    entire contact Ni underplated\nInsulator: PBT (black)  UL 94V-0\nShell: Steel; 100 µ" Sn plated over 50 µ" Cu\nOperating temperature: -20°C to +85°CA New 08.09.2022 Cherry\nBA\nC\nD12.55 8.36 2.84 2.77\n6.10\n3.50 ±0.255.10 ±0.25\n10.7212.20 ±0.30Ø3.05 mounting holes\n1.00\n'}]
+!==============================================================================!
+### Component Summary for SDM-025-S101-95/T0-M025
+
+**Component Type:**  
+D-Sub Connector (Solder Cup Type - Male)
+
+**Key Specifications:**
+
+- **Voltage Rating:** 25V DC
+- **Current Rating:** 
+  - 5A at 25°C
+  - 3A at 70°C
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings.
+- **Insulation Resistance:** 1000 MΩ minimum @ 500V DC
+- **Contact Resistance:** 20 mΩ maximum
+- **Withstanding Voltage:** 1000V AC RMS at 60Hz for 1 minute
+- **Operating Temperature Range:** -20°C to +85°C
+- **Package Type:** D-Sub Connector
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+- **Plating Options:** 
+  - 95 = Tin/Gold flash
+  - 97 = Tin/15µ" Gold
+  - 98 = Tin/30µ" Gold
+
+**Material Composition:**
+- **Contact Material:** Brass
+- **Plating:** 
+  - Solder area: Tin (Sn)
+  - Contact area: Gold (Au)
+  - Entire contact: Nickel (Ni) underplated
+- **Insulator Material:** PBT (black), UL 94V-0 rated
+- **Shell Material:** Steel with 100 µ" Sn plated over 50 µ" Cu
+
+**Special Features:**
+- The connector features mounting holes for secure installation.
+- RoHS compliant.
+
+### Description of the Component:
+The SDM-025-S101-95/T0-M025 is a male D-Sub connector designed for solder cup applications. It is primarily used to establish electrical connections in various electronic devices and systems. The solder cup design allows for easy soldering of wires, making it suitable for custom wiring solutions.
+
+### Typical Applications:
+- **Data Communication:** Used in computer and networking equipment for data transmission.
+- **Industrial Automation:** Commonly found in control systems and machinery for signal and power connections.
+- **Telecommunications:** Utilized in telecom equipment for connecting various components.
+- **Consumer Electronics:** Employed in devices requiring reliable electrical connections, such as audio/video equipment.
+
+This connector is ideal for applications where a robust and reliable connection is necessary, particularly in environments with varying temperatures and electrical loads.

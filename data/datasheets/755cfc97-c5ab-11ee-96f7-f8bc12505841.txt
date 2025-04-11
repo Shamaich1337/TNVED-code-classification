@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PRPC040SAAN-RC production of SULLINS from the text:Pb\nRoHS COMPLIANT.098 2.50\n.025 0.64A\n.100 2.54B.012[ 0.30]\n.100 2.54\nHEAD DIM.\nTAIL DIM.\nA\n.100 2.54 .039 1.00\nRECOMMENDED PCB LAYOUT\nNOTES:\n 1. INSULATOR MATERIAL: SEE PART NUMBER CODING, UL 94V-0, BLACK. 2. CONTACT MATERIAL: SEE PART NUMBER CODING. 3. CONTACT PLATING: SEE PART NUMBER CODING.  4. CURRENT RATING: 3 AMPS PER CONTACT. 5. INSULATOR RESISTANCE: 5000 MEGOHMS MIN. 6. CONTACT RESISTANCE: 20 MILLIOHMS MAX. 7. DIELECTRIC WITHSTANDING: 1000 VAC. 8. \nOPERATING TEMPERATURE: SEE PART NUMBER CODING.\n 9. *PROCESSING TEMP.: SEE PART NUMBER CODING.\n*INDICATED TEMPERATURE AND TIME IS FOR COMPONENT INSULATOR. HIGHER PROCESSING  TEMPERATURES MAY BE USED, PROVIDED HEAT IS APPLIED FROM BACK SIDE OF PCB,   AND INSULATOR DOES NOT EXCEED INDICATED TEMPERATURE AND TIME.REVISIONS\nREV. ECO. NO DESCRIPTION DATE BY\nA 2268 INITIAL RELEASE 03/21/2011 LH\nB 2422 ADD \'P\' PLATING OPTION, OBSOLETE 11139 08/04/2011 LH\nD\nC\nB\nAABCD\n1 2 3 4 5 6 7 88 7 6 5 4 3 2 1\nEF\nEF\nUNLESS OTHERWISE SPECIFIED:\nDIMENSIONS ARE IN INCHES[MM]\nTOLERANCES: ANGULAR:    \n.XX=  .012 [.30]\n.XXX=  .008 [.20]\n.XXXX=  .0040 [.100]\nINTERPRET DIMENSIONS\n AND TOLERANCING\nPER: ASME Y14.5M-2009DATE NAME DRAWN\nCDWG.  NO. REV\nSHEET 1 OF 1 SCALE:  5:1LH\n11635 BTHE INFORMATION HEREIN CONTAINS\nPROPIETARY INFORMATION OF\nSULLINS ELECTRONICS AND IS NOT\nTO BE REPRODUCED, USED OR\nDISCLOSED TO OTHERS FOR ANY\nPURPOSE EXCEPT AS SPECIFICALLY\nAUTHORIZED IN WRITING BY AN\nOFFICER OF SULLINS ELECTRONICS.HEADER MALE .100" PITCH, STRAIGHT\n_ R_C_ _ _S_ _N-RC\nFILE NAME: Z:\\ECO PENDING\\2422, TAIWAN HEADER 100 CC ADD P PLATING\\11635, _ R_C_ _ _S_ _N-RC, ST  PRINT: 8/26/2011TITLE03/21/2011\nPART NUMBER\nSIZE CAGE CODE\n54453\n'}]
+!==============================================================================!
+### Component Summary for PRPC040SAAN-RC
+
+**Component Type:** Header Connector (Male)  
+**Primary Function:** The PRPC040SAAN-RC is a straight male header connector designed for PCB mounting, facilitating electrical connections between circuit boards or components.
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, header connectors can handle standard voltages up to 1000 VAC.
+- **Current Ratings:** 3 Amps per contact.
+- **Power Consumption:** Not specified; power consumption is generally dependent on the load connected to the header.
+- **Operating Temperature Range:** Not explicitly stated; typically determined by the insulator material and part number coding.
+- **Package Type:** Through-hole mount with a .100" (2.54 mm) pitch.
+- **Special Features/Notes:**
+  - Insulator material is UL 94V-0 rated, indicating it is flame retardant.
+  - Insulator resistance is 5000 Megaohms minimum.
+  - Contact resistance is 20 milliohms maximum.
+  - Dielectric withstand voltage is 1000 VAC.
+  - Processing temperature and time are specified in the part number coding.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The PRPC040SAAN-RC is a male header connector with a .100" pitch, designed for reliable connections in electronic assemblies. It features a robust construction with a flame-retardant insulator and low contact resistance, making it suitable for various applications where secure and efficient electrical connections are required.
+
+#### Typical Applications:
+- **Power Management:** Used in power distribution boards to connect power supplies to various components.
+- **Signal Processing:** Commonly found in signal routing applications where multiple connections are needed.
+- **Data Storage:** Utilized in connecting storage devices to motherboards or other circuit boards.
+- **General PCB Interfacing:** Ideal for connecting different sections of a circuit board or interfacing with other electronic modules.
+
+This connector is particularly useful in applications requiring a reliable and durable connection, such as in consumer electronics, industrial equipment, and telecommunications.

@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 36638-0002 production of MOLEX from the text:This document was generated on 01/03/2022\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nPart Number: 0366380002\nStatus: Active\nOverview: CMC and CMX Sealed, Hybrid, Modular Connectors\nDescription: 2.50mm, 3.50mm CMC Header, Right-Angle, 48 Position, 1 Port, Black, Peg, Lead-\nFree\nDocuments:\n3D Model Packaging Specification PK-36638-001-001 (PDF)\n3D Model (PDF) Packaging Specification PK-36638-003-001 (PDF)\nDrawing (PDF) Datasheet (PDF)\nProduct Specification PS-36638-001-001 (PDF) RoHS Certificate of Compliance (PDF)\nApplication Specification AS-36638-001-001 (PDF)\nGeneral\nProduct Family PCB Headers\nSeries 36638\nApplication Automotive, Power, Wire-to-Board\nComments Carton Box Packing\nOverview CMC and CMX Sealed, Hybrid, Modular Connectors\nProduct Name CMC\nUPC 822350795654\nPhysical\n(p)ower-(s)ignal Configuration 8p - 40s\nBreakaway No\nCircuits (Loaded) 48\nCircuits (maximum) 48\nCircuits Detail 8 x 1.5mm & 40 x 0.635mm terminals\nColor - Resin Black\nDurability (mating cycles max) 20\nFirst Mate / Last Break Yes\nGlow-Wire Capable No\nGuide to Mating Part Yes\nKeying to Mating Part Yes\nLock to Mating Part Yes\nMated Height 6.70mm\nMaterial - Metal Brass\nMaterial - Plating Mating Tin\nMaterial - Plating Termination Tin\nMaterial - Resin Polyester\nNet Weight 49.152/g\nNumber of Rows 4\nOrientation Right Angle\nPC Tail Length 2.90mm\nPCB Locator Yes\nPCB Retention Yes\nPCB Thickness - Recommended 1.60mm\nPackaging Type Carton\nPitch - Mating Interface 2.50mm, 3.50mm, 3.70mm\nPlating min - Mating 4.064µm\nPlating min - Termination 4.064µm\nPolarized to Mating Part Yes\nPolarized to PCB Yes\nShrouded Closed Ends\nStackable No\nSurface Mount Compatible (SMC) No\nTemperature Range - Operating -40° to +100°C\nSeries image - Reference only\nEU ELV\nNot Relevant\nEU RoHS China RoHS\nCompliant\nREACH SVHC\nNot Contained Per -\nD(2021)4569-DC (8\nJuly 2021)\nHalogen-Free\nStatus\nLow-Halogen\nFor more information, please visit Contact US\nChina ROHS Green Image\nELV Not Relevant\nRoHS Phthalates Not Contained\nSearch Parts in this Series\n36638 Series\nMates With\nCMC Receptacle 643201311  , 643203311\nTermination Interface: Style Solder or Weld\nElectrical\nCurrent - Maximum per Contact 6.0A\nVoltage - Maximum 14V DC\nSolder Process Data\nLead-freeProcess Capability N/A\nMaterial Info\nReference - Drawing Numbers\nApplication Specification AS-36638-001-001\nPackaging Specification PK-36638-001-001, PK-36638-003-001\nProduct Specification PS-36638-001-001\nSales Drawing 366381000-000\nThis document was generated on 01/03/2022\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Molex:   \n\xa0 36638-0002\n'}]
+!==============================================================================!
+### Component Summary for Molex Part Number 36638-0002
+
+**Component Type:**  
+- **Type:** PCB Header  
+- **Series:** 36638  
+- **Product Family:** PCB Headers  
+- **Description:** 2.50mm, 3.50mm CMC Header, Right-Angle, 48 Position, 1 Port, Black, Peg, Lead-Free  
+
+**Key Specifications:**
+
+- **Voltage Rating:** 14V DC
+- **Current Rating:** 6.0A per contact
+- **Power Consumption:** Not specified (dependent on application)
+- **Operating Temperature Range:** -40°C to +100°C
+- **Package Type:** Carton Box Packing
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data
+- **Special Features:**
+  - 48 circuits (8 power and 40 signal)
+  - Right-angle orientation
+  - First Mate / Last Break feature
+  - Keying and locking to mating part
+  - PCB retention and locator features
+  - Halogen-free and low-halogen compliant
+  - RoHS compliant
+
+**Physical Characteristics:**
+
+- **Material - Metal:** Brass
+- **Material - Plating (Mating):** Tin
+- **Material - Plating (Termination):** Tin
+- **Material - Resin:** Polyester
+- **Color - Resin:** Black
+- **Durability (Mating Cycles Max):** 20
+- **Mated Height:** 6.70mm
+- **PCB Thickness - Recommended:** 1.60mm
+- **PC Tail Length:** 2.90mm
+- **Number of Rows:** 4
+- **Pitch - Mating Interface:** 2.50mm, 3.50mm, 3.70mm
+
+**Applications:**
+The Molex 36638-0002 connector is designed for automotive, power, and wire-to-board applications. It is suitable for use in environments where reliable electrical connections are critical, such as in automotive electronics, industrial equipment, and consumer electronics. The connector's robust design and features make it ideal for applications requiring durability and secure connections in harsh conditions.
+
+### Conclusion
+The Molex 36638-0002 is a versatile and reliable PCB header connector, suitable for various applications, particularly in automotive and power management systems. Its design ensures secure connections while maintaining compliance with industry standards for safety and environmental impact.

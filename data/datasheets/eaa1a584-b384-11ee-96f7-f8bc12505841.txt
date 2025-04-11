@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDNM02026-UP production of NEDITEK from the text:1\n \n/ \n3\n \n \nNEDI Technology Co.,Ltd\n \nwww.neditek.com\n \nTel: +86\n-\n25\n-\n86858581/2  Fax: +86\n-\n25\n-\n86858580\n \nEmail: \nsales@neditek.com\n \nAdd: No. 521 Zhongshan East Road, Nanjing, China\n \nNote: All the data provided in this datasheet is subject to change without \nnotice. \nT\nhe \nright is reserved to make changes to specifications and other \ninformation at any time\n \nNDNM\n02\n0\n2\n6\n-\nUP\n \n2.7\n-\n3.\n5\n \nGHz \nGaN\n \nPower Amplifier Module\n \n►\n \nFeatures\n \n \nTe\nchnical Type: 0.\n2\n5um\n \nGaN \nHEMT\n \n \nF\nrequency: \n2.7\n-\n3.5\n \nGHz\n \n \nTypical Output Power:\n52 \ndBm\n \n \n \nTypical \nPower Gain\n: \n42 \ndB\n \n \nTypical PAE: \n50\n%\n \n \nBias Voltage: \n32\nV/\n-\n5\nV\n@\n0.3\nA\n \n \nPackage\n \n: \nHermetic Me\ntal Ceramic Package\n \n►\n \nGeneral Description\n \nThe\n \nNDNM02026\n-\nUP\n \nis \na \nhigh power\n \nand \nhigh efficiency \npower amplifier module\n \nmanufactured with\n \n0.\n2\n5 um GaN HEMT\n \ntechnology\n. \nF\nrom \n2.7\n \nto \n3.5\n \nGHz\n, the \nNDNM02026\n-\nUP\n \nprovides\n \na\nn\n \noutput\n \npower of \n52\n \ndBm\n, power \ngain of \n42\n \ndB, power \nadded efficiency \nof 5\n0\n% and Vds=\n32\n \nV by dual power supplies.\n \n►\n \nAbsolute Maximum Ratings\n1\n \nSymbol\n \nParameter\n \nValue\n \nRemark\n \nV\nds\n \nDrain Source Voltage\n \n40\nV\n \n \nV\ngs\n \nGate\n \nSource Voltage\n \n-\n5\nV\n \n \nPd\n \nDC\n \nPower Consumption\n \n8\n0W\n \n25\no\nC\n \nT\nch\n \nChannel Temperature\n \n2\n00\no\nC\n \n[1]\n \nT\nm\n \nMounting Temperature\n \n300\no\nC\n \n1min\n,\n \nN\n2\n \nprotection\n \nT\nstg\n \nStorage Temperature\n \n-\n55~1\n4\n5\no\nC\n \n \n1.\n \nExceeding any one or combination of these limits may cause permanent damage\n \n►\n \nElectrical Characteristics\n \n(T\nA\n=25\no\nC)\n \nSymbol\n \nParameter\n \nTest Condition\n \nValue\n \nUnit\n \nMin.\n \nTyp.\n \nMax.\n \nP\nout\n \nOutput Power\n \nV\nd\n＝\n32\nV\n, \nVg=\n--\n5V\n \nF:\n2.7\n-\n3.5\nGHz\n \nPW: 1ms\n \nDuty cycle 30%\n \n-\n \n52\n \n-\n \ndBm\n \nG\np\n \nPower Gain\n \n-\n \n42\n \n-\n \ndB\n \nη\nadd\n \nPAE\n \n-\n \n50\n \n-\n \n％\n \n△\nG\np\n \nGain Flatness\n \n-\n0.7\n \n-\n \n+0.7\n \ndB\n \nRth\n \nT\nhermal Resistance\n \n-\n \n-\n \n0\n.3\n \no\nC\n/W\n \n\nNDNM\n02\n0\n2\n6\n-\nUP\n \n2.7\n-\n3.\n5\n \nGHz Ga\nN\n \nPower Amplifier Module\n \n2\n \n/ \n3\n \n \nNEDI Technology Co.,Ltd\n \nwww.neditek.com\n \nTel: +86\n-\n25\n-\n86858581/2  Fax: +86\n-\n25\n-\n86858580\n \nEmail: \nsales@neditek.com\n \nAdd: No. 521 Zhongshan East Road, Nanjing, China\n \nNote: All the data provided in \nthis datasheet is su\nbject to change without \nnotice. \nT\nhe right is reserved to make changes to specifications and other \ninformation at any time\n.\n \n►\n \nTypical Performance\n \nOutput Power & Frequency\n \n \nP\nAE & Frequency\n \n \n\nNDNM\n02\n0\n2\n6\n-\nUP\n \n2.7\n-\n3.\n5\n \nGHz Ga\nN\n \nPower Amplifier Module\n \n3\n \n/ \n3\n \n \nNEDI Technology Co.,Ltd\n \nwww.neditek.com\n \nTel: +86\n-\n25\n-\n86858581/2  Fax: +86\n-\n25\n-\n86858580\n \nEmail: \nsales@neditek.com\n \nAdd: No. 521 Zhongshan East Road, Nanjing, China\n \nNote: All the data provided in \nthis datasheet is su\nbject to change without \nnotice. \nT\nhe right is reserved to make changes to specifications and other \ninformation at any time\n.\n \n►\n \nOutline \nDimension\n \n(\nunit:\nmm)\n \n \nLead Definition\n \n1\n \n2\n \n3\n \n4\n \n5\n \nR\nFin\n \nT\nTL Signal\n \nG\nate (\n-\n5V)\n \nD\nrain (32V)\n \nR\nFout\n \n \n►\n \nApplication Circuit\n \n \n \nApplication\n \nNotes\n:\n \n1)\n \nThe product is power device subject to heat dissipation: shorter lifetime of transistor with higher temperature of package. \nOperation less than 80 \n\uf0b0\nC is recommended;\n \n2)\n \nThe product is static\n-\nsensitive device which requires static protection in operati\non and storage. Good GND is needed in \noperation process.\n \n \n\n'}]
+!==============================================================================!
+### Component Summary: NDNM02026-UP
+
+**Description:**
+The NDNM02026-UP is a high-power, high-efficiency power amplifier module designed for operation in the frequency range of 2.7 to 3.5 GHz. It utilizes 0.25 µm Gallium Nitride (GaN) High Electron Mobility Transistor (HEMT) technology, making it suitable for applications requiring significant output power and efficiency.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Drain-Source Voltage (Vds): 40 V
+  - Gate-Source Voltage (Vgs): -5 V
+- **Current Ratings:**
+  - Bias Current: 0.3 A
+- **Power Consumption:**
+  - DC Power Consumption: 80 W at 25°C
+- **Operating Temperature Range:**
+  - Channel Temperature (Tch): Up to 200°C
+  - Storage Temperature (Tstg): -55°C to 145°C
+- **Package Type:**
+  - Hermetic Metal Ceramic Package
+- **Special Features:**
+  - Typical Output Power: 52 dBm
+  - Typical Power Gain: 42 dB
+  - Typical Power Added Efficiency (PAE): 50%
+  - Gain Flatness: ±0.7 dB
+  - Thermal Resistance: 0.3 °C/W
+- **Moisture Sensitive Level:**
+  - Not specified in the provided data.
+
+**Typical Applications:**
+The NDNM02026-UP is primarily used in high-frequency applications such as:
+- **Telecommunications:** For signal amplification in base stations and other communication devices.
+- **Radar Systems:** Enhancing signal strength in radar applications.
+- **Broadcasting:** Used in transmitters for radio and television broadcasting.
+- **Military and Aerospace:** Suitable for applications requiring robust performance under varying environmental conditions.
+
+This power amplifier module is ideal for scenarios where high output power and efficiency are critical, making it a valuable component in modern RF and microwave systems.

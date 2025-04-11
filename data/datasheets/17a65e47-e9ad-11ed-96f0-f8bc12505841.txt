@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2J0710-C708N_CU100549 production of 2J from the text: \n \n2J0710-C708N     \n \n  Product Datasheet\nKey Features\n433 MHz ISM\n- 433-435  MHz\nConnector Mount\nGround Plane Dependent\nLow Profile\nDimensions 13.2 x 54.6 mm\nwww .2j-antennae.com www .2j-antennasusa.com Page: 1/8433 MHz ISM Connector Mount\n\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 2/81. Antenna and electrical specifications   \nParameters\nStandards\nBand (MHz)\nFrequency (MHz)\nReturn Loss (dB)\nVSWR\nEfficiency (%)\nPeak Gain (dBi)\nAverage Gain (dB)\nImpendance (Ohm)\nPolarisation\nRadiation Pattern\nMax. Input Power (W)\nConnector T ype433 MHz ISM Antenna\nISM, LoRa\n433 MHz\n433-435\n~-13.2\n~1.6:1\n~50\n~-1.1\n~-3.0\n50\nLinear\nOmni-Directional\n25\nSMA-Male  Standard\nAntenna Measurement Conditions:\nMounted on Ground Plane of 150x50 mm\nMeasured in Certified CTIA  3D Anechoic Chamber\n2. Mechanical and environmental specifications    \nSpecifications\nMounting T ype\nDimensions (mm)\nRadome \nRadome color\nOperating T emperature (C)\nStorage T emperature (C)\nSubstance Compliance2J0710-C708N\nConnector Mount\n13.2 x 54.6\nTPE\nBlack\n-40 to +85\n-40 to +85\nRoHS\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 3/83. Antenna parameters    \n-25-20-15-10-50\n400 410 420 430 440 450 460Return Loss (dB)\nFrequency  (MHz)\n0123456789\n400 410 420 430 440 450 460VSWR\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 4/8010203040506070\n430 431 432 433 434 435 436 437 438 439 440Efficiency (%)\nFrequency  (MHz)\n-4-3-2-10\n430 431 432 433 434 435 436 437 438 439 440Peak Gain (dBi)\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 5/8Radiation pattern referen ce-6-5-4-3-2-10\n430 431 432 433 434 435 436 437 438 439 440Average Gain (d B)\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 6/8433 M Hz Rad iation pattern\n\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 7/84. Antenna drawings    \n \n13,2 \nSMA male 54,6 \n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 8/85. Antenna Images    \n\n'}]
+!==============================================================================!
+### Component Summary: 2J0710-C708N
+
+**Component Type:** Antenna  
+**Primary Function:** The 2J0710-C708N is a 433 MHz ISM band antenna designed for wireless communication applications, particularly in the ISM (Industrial, Scientific, and Medical) frequency range.
+
+#### Key Specifications:
+- **Voltage Ratings:** Not applicable (passive component)
+- **Current Ratings:** Not applicable (passive component)
+- **Power Consumption:** Not applicable (passive component)
+- **Operating Temperature Range:** -40°C to +85°C
+- **Storage Temperature Range:** -40°C to +85°C
+- **Package Type:** Connector Mount
+- **Dimensions:** 13.2 mm x 54.6 mm
+- **Max Input Power:** 25 W
+- **Connector Type:** SMA-Male Standard
+- **Impedance:** 50 Ohm
+- **Polarization:** Linear
+- **Radiation Pattern:** Omni-Directional
+- **Return Loss:** ~-13.2 dB
+- **VSWR (Voltage Standing Wave Ratio):** ~1.6:1
+- **Efficiency:** ~50%
+- **Peak Gain:** ~-1.1 dBi
+- **Average Gain:** ~-3.0 dB
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified
+
+#### Description:
+The 2J0710-C708N is a low-profile antenna specifically designed for operation in the 433 MHz ISM band. It is characterized by its connector mount design, making it suitable for various applications where space is limited. The antenna is constructed with a TPE radome, which is black in color, providing durability and environmental protection.
+
+#### Typical Applications:
+- **Wireless Communication:** Used in devices that operate within the ISM band, such as remote controls, telemetry systems, and wireless sensor networks.
+- **IoT Devices:** Ideal for Internet of Things (IoT) applications that require reliable wireless connectivity.
+- **LoRa Technology:** Suitable for Long Range (LoRa) communication systems, which are often used in low-power wide-area networks (LPWAN).
+- **Industrial Automation:** Employed in industrial settings for monitoring and control applications.
+
+This antenna is designed to provide efficient performance in its specified frequency range, making it a versatile choice for various wireless communication needs.

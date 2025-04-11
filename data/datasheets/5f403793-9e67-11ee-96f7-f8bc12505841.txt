@@ -1,0 +1,52 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of LTK101WUBCT42-V0 production of LEADTEKLCD from the text:C A B1 45\n+-\n禁部区 禁部区 禁部区1.60±0.1(CTP)217.56±0.2(CG VA)\n216.81(LCD AA)229.46±0.2（LCM OD）135.50(LCD AA)136.20±0.2(CG VA)149.10±0.2（LCM OD）\n17.0013.28\n4.40±0.2(LCM)6.50±0.3(LCM+CTP)\nBacklight LED Circuit\n1 LTK101WUBCT4223CA\nB\nD\n2 1 3 4D\n5 6REV DESCRIPTION NAMECA\nB\nSCALE:1/1\nPart No:UNIT:mmPAGE:1/1 ApproveCheckDrawn\nCustomer\nNo:2 1 3 4 5 6\nDATE0VER:V0\n2023.12.13LEADTEK COMPANY LIMITED\nKevin Kevin NEWNotes:\n1. Display ：10.1",  TFT\n2. Resolution: 1920xRGBx1200\n3. LCD Viewing Direction: ALL,\n4. Display Mode: Normally Black\n  \n6. unmark Tolerance:±0.5.LCM+CTP Bringhtness：800cd/㎡(TYP)\n2\n7. OPERATING TEMP: -20°C~ +70°C\n8. STORAGE TEMP: -30°C~ +80°C\n9. Requirements on Environmental Protection: ROHSGND\n2421\n2322201913\n16\n17\n1814\n1510\n1211983\n721PIN DESCRIPTION\nK-\nELV3NELV3P\nGND\nGND\nGNDELVCLKP\nGNDELVCLKN\nELV1P\nELV1N\nOLV3P\nOLV3NGND\n255 NC\n6 GND4K-\nIf= 360 mA\nVf= 18 V(typ)\n10.1" TFT\n1920*RGB*1200 DOTS\nVIEWING DIRECTION:ALL\n454438\n41\n42\n4339\n4035\n3736343328\n322726\n30\n3129OLVCLKP\nGNDGND\nGND\nI2C_SDA\nEEPENI2C_SCL\nVDD_OTP\nWDDIN\nWDDIN\nWDDIN\nWDDINWDDINGNDA+A+\nELV2NELV2P\nELV0P\nELV0N\nOLV2P\nOLV2N\nOLVCLKN\nOLV1P\nOLV1N\nOLV0P\nOLV0N\nJONA257.06±0.15 (CG OD)170.20±0.15 (CG OD)19.7512.49\nD+D-1\n2\n3\n4PINdefinitionUSB interface\n+5V\nGNDTechnical parameters:\n1. Structure: G+G\nIC model: ILI2511\n2. Working voltage: 5V\n3. Transmittance: ≥ 85%\n4. Surface hardness: 6H\n5. Working environment: -10℃~+60℃, humidity\n20%~90%\n6. Storage environment: -20℃~+70℃, humidity\n20%~90%\n7. No dimensional tolerance should be ±0.2mm0.5(FOAM)\n4-R12.00\n59.76±0.5038.11±0.50\nProtective film\ntorn hand230.82±0.20 SENSOR\n147.19±0.20 SENSOR\nUSB interface\nConnector type：\nMOLEX/53261-0419,USB-1.25*4PINSilk screen black\nMAX 1.5Components and\ncomponentsReinforcement of steel sheet\nT = 0.2 mm\nReinforcement of steel sheet\nT = 0.2 mm12.949.31LTK101WUBCT42-V0\nYYYY-MM-DDLabel model\nIC\n14\n'}]
+!==============================================================================!
+### Component Summary for LTK101WUBCT42-V0
+
+**Component Type:**  
+10.1" TFT LCD Display with Capacitive Touch Panel (CTP)
+
+**Key Specifications:**
+
+- **Voltage Ratings:**  
+  - Operating Voltage: 5V (typical for the display)
+  
+- **Current Ratings:**  
+  - Backlight Current: 360 mA (typical)
+  
+- **Power Consumption:**  
+  - Backlight Voltage: 18V (typical)
+  
+- **Operating Temperature Range:**  
+  - -20°C to +70°C
+  
+- **Storage Temperature Range:**  
+  - -30°C to +80°C
+  
+- **Package Type:**  
+  - 10.1" TFT LCD with Capacitive Touch Panel (G+G structure)
+  
+- **Special Features or Notes:**  
+  - Resolution: 1920 x RGB x 1200  
+  - Brightness: 800 cd/m² (typical)  
+  - Viewing Direction: All  
+  - Display Mode: Normally Black  
+  - Transmittance: ≥ 85%  
+  - Surface Hardness: 6H  
+  - Environmental Protection: RoHS compliant  
+
+- **Moisture Sensitive Level (MSL):**  
+  - Not specified in the provided text.
+
+**Description:**  
+The LTK101WUBCT42-V0 is a 10.1-inch TFT LCD display that features a capacitive touch panel. It is designed to provide high-resolution visuals with a typical resolution of 1920 x 1200 pixels. The display is characterized by its high brightness and wide viewing angles, making it suitable for various applications where visibility is crucial.
+
+**Typical Applications:**  
+This component is commonly used in applications such as:
+
+- **Consumer Electronics:** Tablets, portable gaming devices, and other handheld devices.
+- **Industrial Equipment:** HMI (Human-Machine Interface) displays for machinery and control panels.
+- **Medical Devices:** Monitors and interfaces for medical equipment.
+- **Automotive Displays:** In-car infotainment systems and dashboards.
+- **Point of Sale Systems:** Touchscreen interfaces for retail and service environments.
+
+The LTK101WUBCT42-V0 is ideal for applications requiring a robust and responsive touch interface combined with high-quality visual output.

@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of EHF-120-01-L-D-SM-LC production of SAMTEC from the text:EHF-1NO. PINS \nPER ROW -01-PLATING \nOPTION -D-TAIL\nOPTION -OTHER  \nOPTION\n04, 05, \n08, 10, 13, \n17, 20, 25\n(Standard sizes)–F\n= Gold flash on post,  \nMatte Tin on tail\n–L\n= 10 µ" (0.25 µm)  \nGold on post, \nMatte Tin on taiLeave blank for \nThrough-hole \nversion  \n–SM\n= Surface Mount\n–RA\n= Right-angle–“XX”\n= Polarized Position\n(–RA not available)\n–LC\n= Locking Clip\n(–SM only)\n(Manual placement \nrequired)\n–K\n= (7.50 mm) \n.295" DIA \nPolyimide Film \nPick & Place Pad\n–P\n= Pick & Place Pad\n(–SM only)\n–TR\n= Tape & Reel\n(–LC not available)\n–FR\n= Full Reel \nTape & Reel \n(must order max. \nquantity per reel; \ncontact Samtec for \nquantity breaks)\n(–LC not available)SERIES -1NO. PINS \nPER ROW -01-PLATING \nOPTION -D-TAIL \nOPTION -OTHER\nOPTION\nSHF\n= Mates with \nFFSD without \nStrain Relief\nESHF\n= Mates with \nFFSD with \nStrain Relief04, 05, 06, \n08, 10, 11, \n12, 13, 15, \n17, 20, 25\n(Standard sizes)–L\n= 10 µ" \n(0.25 µm) \nGold on \npost, \nMatte \nTin \non tail–TH\n = Through-\nhole\n–RA\n = Right-angle\n–SM\n = Surface \nMount–LC\n= Locking Clip\n(Not available with –RA)\n(Manual placement \nrequired)\n–K\n= (6.50 mm) .256" DIA \nPolyimide Film \nPick& Place Pad\n(–SM only)\n–TR\n= Tape & Reel\n–FR\n= Full Reel Tape & Reel \n(must order max. \nquantity per reel; \ncontact Samtec for \nquantity breaks)SPECIFICATIONS\nInsulator Material:  \nBlack Liquid Crystal Polymer\nTerminal Material:  \nPhosphor Bronze\nPlating:  \nSn or Au over \n50 µ" (1.27 µm) Ni \nOperating Temp Range:  \n-55 °C to +125 °C\nPROCESSING\nLead–Free Solderable:  \nYes\nSMT Lead Coplanarity:\n(0.10 mm) .004" maxSHF/ESHF\nMates:\nFFSD, FFTP (SHF)\nEHF\nMates:\nFFSD*, FFTP\nNote:  \nSome lengths, styles and \noptions are non-standard, \nnon-returnable.*Important Note:  \nEHF will not mate to FFSD \nwith strain relief (-SR option), \nsee ESHF series.\n—RA—SM —TH—SM —RA —TH \n—SM —RA\n—LC —TH —RATYPE \nSTRIPA \nSHFNo. of pins x \n(1.27) .050 + (6.35) .250\nESHFNo. of pins x \n(1.27) .050 + (10.16) .400\n—SM —TH SHROUDED AND\nEJECTOR IDC HEADER \nUnless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.\n(5.33)\n.210A\nNo. of positions x \n(1.27) .050  + (14.48) .570 \n(6.67)\n.263No. of positions x (1.27) .050  \n+ (18.16) .715(8.71)\n.343\n(9.70)\n.382EJECTOR HEADER CAP\n(Locks FFSD cable to EHF header)\nECF NO. PINS PER ROW\n05, 08, 10, \n13, 17, 20, 25(1.27 mm) .050" PITCH  •  SHF/ESHF/EHF/ECF SERIES\nF-221 (Rev 01JUN21) samtec.com?SHF, samtec.com?ESHF or samtec.com?EHF\n'}]
+!==============================================================================!
+### Component Summary for EHF-120-01-L-D-SM-LC
+
+**Component Type:** IDC Header (Shrouded and Ejector)
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, IDC headers are rated for low voltage applications.
+- **Current Ratings:** Not specified; generally, current ratings depend on the specific application and configuration.
+- **Power Consumption:** Not applicable; this is a passive connector.
+- **Operating Temperature Range:** -55 °C to +125 °C
+- **Package Type:** Surface Mount (SM)
+- **Special Features or Notes:**
+  - Mates with FFSD and FFTP connectors.
+  - Locking clip option available (manual placement required).
+  - Lead-free solderable.
+  - SMT lead coplanarity: 0.10 mm (0.004") max.
+  - Available in various pin counts (04, 05, 08, 10, 13, 17, 20, 25).
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Description:**
+The EHF-120-01-L-D-SM-LC is a shrouded IDC (Insulation Displacement Connector) header designed for surface mount applications. It features a locking clip for secure connections and is constructed from black liquid crystal polymer with phosphor bronze terminals. The connector is designed to mate with specific cable assemblies, providing a reliable connection for various electronic applications.
+
+**Typical Applications:**
+- **Data Communication:** Used in applications requiring reliable data transmission, such as in telecommunications and networking equipment.
+- **Consumer Electronics:** Commonly found in devices that require compact and efficient interconnect solutions.
+- **Industrial Equipment:** Suitable for use in harsh environments due to its wide operating temperature range.
+- **Automotive Applications:** Can be utilized in automotive electronics where space and reliability are critical.
+
+This component is ideal for applications that require a robust and space-efficient connector solution, particularly in environments where temperature extremes are a concern.

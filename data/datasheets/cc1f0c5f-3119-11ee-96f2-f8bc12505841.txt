@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDNM02133 production of NEDITEK from the text:NDNM02133  \n9.0-10.5 GHz GaN power amplifier module  \nFeatures   \n⚫ Technology type: 0.25 \uf06dm GaN HEMT  \n⚫ Frequency range: 9.0-10.5GHz  \n⚫ Typical Output Power: 44dBm  \n⚫ Typical Power Gain:20 dB \n⚫ Typical PAE: 35% \n⚫ Bias:28V \n⚫ Package :Ceramic Hermetic Sealed Package  \nGeneral Description  \nThe NDNM0 2133  is a high power and high efficiency power amplifier module  with GaN based \n0.25 \uf06dm HEMT technology. This module  operates from 9.0 to 10.5 GHz providing a output power \nof 44 dBm  with gain of 20 dB, power added efficiency of 35% and V ds=28 V by dual power \nsupplies.  \nAbsolute Maximum Ratings(TA =25℃) \nSymbol  Parameter  Value  Notes  \nVds Drain voltage  36V  \nVgs Gate voltage  -5V  \nPd DC power dissipation  100W  25℃ \nTch Channel Temperature  175℃ [1] \nTm Mounting Temperature  300℃ 1 min, N 2 protected  \nTstg Storage Temperature  -55～175℃  \n[1] More than one excess above maximum limits may cause permanent damage  \nSpecifications (TA=25 ℃) \nSymbol  Parameter  Conditions  Value  Units  Min Typical  Max \nPout Output Power  \nVd=28V, \nF: 9.0-10.5GHz  - 44 - dBm  \nGp Power Gain  - 20 - dB \nηadd PAE - 35 - % \n△Gp Gain  Flatness  -0.5  - +0.5  dB \n \n  \n\nNDNM02133  \n9.0-10.5 GHz GaN power amplifier module  \nTypical Performances  \nOutput Power /PAE  \n9.0 9.2 9.4 9.6 9.8 10.0 10.2 10.4 10.64344454647\n Pout\n PAE\nFreq (GHz)Pout (dBm)\n3035404550PAE (%)\n \nOutline Drawing (mm)  \n \nAdvised application circuit  \n\nNDNM02133  \n9.0-10.5 GHz GaN power amplifier module  \n \n \nNotes  \n⚫ Typical package -JF06F007 ; \n⚫ According to the above connection circuit, pay attention to anti -static, power devices to ensure \ngood grounding and cooling;  \n⚫ In order to ensure the good performance of PA module, the capacity of the power filter and the \nstorage capacitor can be selected according to the modul ation mode with pulse operation . \n \n'}]
+!==============================================================================!
+### Component Summary: NDNM02133
+
+**Description:**
+The NDNM02133 is a high-power, high-efficiency power amplifier module utilizing Gallium Nitride (GaN) technology, specifically a 0.25 µm High Electron Mobility Transistor (HEMT). It operates within the frequency range of 9.0 to 10.5 GHz, making it suitable for applications requiring high-frequency signal amplification.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Drain Voltage (Vds): 36V (absolute maximum)
+  - Gate Voltage (Vgs): -5V (absolute maximum)
+  - Bias Voltage: 28V (typical operating condition)
+
+- **Current Ratings:**
+  - Not explicitly stated, but the module supports a DC power dissipation of up to 100W at 25°C.
+
+- **Power Consumption:**
+  - DC Power Dissipation: 100W (at 25°C)
+
+- **Operating Temperature Range:**
+  - Channel Temperature: Up to 175°C
+  - Storage Temperature: -55°C to 175°C
+  - Mounting Temperature: Up to 300°C for 1 minute (N2 protected)
+
+- **Package Type:**
+  - Ceramic Hermetic Sealed Package (Typical package - JF06F007)
+
+- **Special Features:**
+  - Typical Output Power: 44 dBm
+  - Typical Power Gain: 20 dB
+  - Typical Power Added Efficiency (PAE): 35%
+  - Gain Flatness: ±0.5 dB
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided text, but typically assessed according to JEDEC J-STD-020E standards.
+
+**Typical Applications:**
+The NDNM02133 is designed for high-frequency applications, particularly in telecommunications and radar systems. Its high output power and efficiency make it suitable for:
+- Power management in RF transmission systems
+- Signal amplification in communication devices
+- Applications in military and aerospace sectors where high-frequency performance is critical
+- Any system requiring robust amplification in the 9.0 to 10.5 GHz frequency range.
+
+This module is particularly advantageous in environments where high power and efficiency are necessary, such as in base stations, satellite communications, and advanced radar systems.

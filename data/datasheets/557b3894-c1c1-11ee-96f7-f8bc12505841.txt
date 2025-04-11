@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HPUFBG-1550-OC-Z2-10-Z5-02-20 production of SEAGNOL PHOTONICS CO., LTD from the text:Application: Features:\nSpecification:\nSymbol Unit\nλ nm\nnm\nnm\n-\n%\nnm\nnm\nSMSR dB\nmm\nP W\nkpsi\n-\n-\nT ℃\nT ℃\nmm\nNotice: Above specifications are tested at center wavelength without connector in room temperature @23 ℃.\nDrawing:\nOrdering Information (Part Number):\n WWWW  FF  BB  RR  HH  FF  LL\n Wavelength  Filter Type  Bandwidth  Reflectivity  Handling Power  Fiber Type  Fiber Length\n 1310 - 1310nm  HR - High Reflector  Z2 - 0.2nm  06 - 6%  10 - 10W  20 - 20/400 DC Fiber  05 - 0.5m\n 1530  - 1530nm  OC - Output Coupler  Z3 - 0.3nm  98 - 98%  30 - 30W  25 - 25/400DC Fiber  08 - 0.8m\n 1535  - 1535nm  Z4 - 0.4nm  99 - 99%  50 - 50W  SS - Specify  10 - 1.0m\n 1550  - 1550nm  Z5 - 0.5nm  99.9  - 99.9%  100 - 100W  15 - 1.5m\n 1570  - 1570nm  Z6 - 0.6nm  SS - Specify  500 - 500W  20 - 2.0m\n 1575  - 1575nm  Z7 - 0.7nm  SS - Specify  SS - Specify\n SSSS  - Speicfy  SS - Specify\nsales@seagnol.com Page 1 of 1Package Dimension Bare Fiber or 70x12x8\n HPUFBG- WWWW-FF-BB-RR-HH-FF-LLRecoating UV Cured Acrylate or specify\nOperating Temperature -20~75\nStorage Temperature -40~85Min. Tensil Strength 100\nFiber Type 20/400, 25/400 DC Fiber or specifyMin. SMSR 20 10\nGrating Regions Length 1-30\nMax. Handling Power 10, 30, 50, 100, 500Max. 3dB Bandwidth 0.2-0.7 0.1-0.3\nBandwidth Tolerance ± 0.1 ± 0.1Filter Type High Reflector Output Coupler\nReflectivity 99-99.9 (± 2) 6-98 (± 2)Center Wavelength 1550\nTolerance ± 1, ± 0.5, ± 0.1 or specify\nWavelength matching accuracy 0.2       www.seagnol.com\n1550nm High Power Uniform FBG\n            1550nm High Power Uniform FBG is built for high power laser or amplifier systems, it can be used for dispersion\ncompensation and filter out the ASE noise for the systems, compared to the Chirped FBG, Uniform FBG has a narrow\nbandwidth, the handling power will be lower. The parameter can be customized upon request.\nFiber Laser\nEDFA\nFiber Optic Sensor\nLab And ResearchLow Insertion Loss\nHigh Power\nHigh SMSR\nHigh Realibility & Stability\nParameter Value\n54mm7mm8mm4-\n2.20\n70mm\n12mm\n           \n'}]
+!==============================================================================!
+### Component Summary: HPUFBG-1550-OC-Z2-10-Z5-02-20
+
+#### Key Specifications:
+- **Wavelength**: 1550 nm
+- **Filter Type**: Output Coupler (OC)
+- **Bandwidth**: 0.5 nm
+- **Reflectivity**: 99.9%
+- **Max Handling Power**: 100 W
+- **Fiber Type**: 20/400 DC Fiber
+- **Fiber Length**: 2.0 m
+- **Operating Temperature Range**: -20°C to 75°C
+- **Storage Temperature Range**: -40°C to 85°C
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+- **Min. SMSR (Signal-to-Noise Ratio)**: 20 dB
+- **Max. 3dB Bandwidth**: 0.5 nm
+- **Wavelength Matching Accuracy**: ±0.2 nm
+- **Dimensions**: 70 mm x 12 mm x 8 mm
+
+#### Description:
+The HPUFBG-1550-OC-Z2-10-Z5-02-20 is a **1550 nm High Power Uniform Fiber Bragg Grating (FBG)** designed for high power laser or amplifier systems. Its primary function is to provide dispersion compensation and filter out amplified spontaneous emission (ASE) noise in optical systems. The uniform FBG is characterized by a narrow bandwidth, making it suitable for applications requiring precise wavelength filtering.
+
+#### Typical Applications:
+- **Fiber Laser Systems**: Used in high-power fiber laser applications to manage output characteristics.
+- **Erbium-Doped Fiber Amplifiers (EDFA)**: Employed to enhance signal quality by filtering out unwanted noise.
+- **Fiber Optic Sensors**: Utilized in sensing applications where precise wavelength control is necessary.
+- **Laboratory and Research**: Ideal for experimental setups requiring high reliability and stability in optical performance.
+
+This component is particularly valuable in telecommunications and optical networking, where maintaining signal integrity and managing power levels are critical.

@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FVTO10.000M3.3SM7-0.5/0.5DFZ production of CHIP SUN TECHNOLOGY from the text:深圳市炬烜科技有限公司\nCHIPSUNTECHNOLOGYCO.,LTD\nAPPROVAL\nSHEET\nCUSTOMER：\nDESCRIPTION： SMD7050VCTCXO10.000MHz\nMANUFACTURERPARTNO.:\nCUSTOMERPARTNO:\nUSEDINMODELFVTO10.000M3.3SM7-0.5/0.5DF Z\n:\nAPPROVAL\nTECHNOLOGYDEPT. QUALITYDEPT. PURCHASINGDEPT.\nDate:April24,2023RoHS\nCompliant\n深圳市炬烜科技有限公司\nCHIP SUN TECHNOLOGY CO. ，LTD\n地址ADD:深圳市龙华新区大浪腾龙路淘金地电子商务孵化基地 B座206  \nRm. 206, Tower B, Taojindi Building, Tenglong Road, Dalang Street,\nLonghua New District, Shenzhen, China\n电话TEL: 86-755-83458798 传真FAX: 86-755-83459818\n网址WEB ADD: http://www.chinachipsun.com\nE-MAIL: sales04@chinachipsun.com\n\nVCTCXO 10.000000 MHz SPECIFICATION \nw w w . t a i t i e n . c o m                                                             P a g e  4  \n   \nELECTRICAL SPECIFICATIONS  \n¾ FREQUENCY CHARACTERISTICS  \n Parameter Min. Typ. Max. Units Test Condition  \n1-1 Nominal Frequency 10.000000 MHz  \n1-2 Nominal Frequency \nTolerance -0.5  +0.5 ppm Frequency at 25 oC, before reflow. \n1-3 Frequency stability \nover temperature -0.5  +0.5 ppm Referenced to the frequency at 25 ℃. \n1-4 Temperature range -40  +85 oC The operating temperature range over \nwhich the frequency stability is \nmeasured \n1-5 Supply   voltage stability -0.2  +0.2 ppm Supply voltage varied ±5% at 25 oC \n1-6 Aging -1  +1 ppm Year at 25 oC \n \n¾ POWER SUPPLY  \n Parameter Min. Typ. Max. Units Test Condition  \n2-1 Supply voltage 2.97 3.3 3.63 V   \n2-2 Current    8 mA At maximum supply voltage \n \n¾ CONTROL VOLTAGE  \n Parameter Min. Typ. Max. Units Test Condition  \n3-1 Control voltage range 0.5 1.5 2.5 V  \n3-2 Pulling range ±5   ppm Referenced to VCON at 1.5V \n3-3 Vcon input impedance    kOhm Measured between VCON and GND pin\n3-4 Linearity   10 %  \n \nw w w . t a i t i e n . c o m                                                             P a g e  5  \n   \n \n \n  \n¾ OSCILLATOR OUTPUT  \n Parameter Min. Typ. Max. Units Test Condition  \n4-1 Output waveform CMOS   \n4-2 Output voltage level high 2.97   V  \n4-3 Output voltage level low   0.33 V  \n4-4 Output load capacitance   15 pF Operating range \n4-5 Duty cycle 45 50 55 % Measured at 50% VDD trigger level \n4-6 Rise and fall times   6 ns CMOS logic output at 10% to 90% \n4-7 Start time   10 ms  \n \n¾ PHASE NOISE  \n Parameter Min. Typ. Max. Units Test Condition  \n5-1 Hz offset    dBc/Hz  \n5-2 Hz offset    dBc/Hz  \n5-3 Hz offset    dBc/Hz  \n5-4 Hz offset    dBc/Hz  \n5-5 Hz offset    dBc/Hz  \n \n¾ ENVIRONMENTAL  \n Parameter Reference Std. Test Condition  \n6-1 Vibration Test MIL-STD-883 2007 Condition A \nJESD22-B103 Condition 1 10~2000Hz, 1.52mm, 20G, each axis for \n4 hrs \n6-2 Thermal Shock MIL-STD-883 1010 Condition B \nJESD22-A104 Condition B -55 oC , 125 oC ; soak time is 10 mins, \nwith total 200 cycles \n6-3 Mechanical Shock MIL-STD-883 2002 Condition B \nJESD22-B104 Condition B 1500G, half-sine, 0.5ms, each axis for 3 \ntimes. \n6-4 Storage temperature  -40 oC  to +85 oC VCTCXO 10.000000 MHz SPECIFICATION \nw w w . t a i t i e n . c o m                                                             P a g e  6  \n  \n \n \n \n\x84 TEST CIRCUIT  \n \n \n\x84 OUTPUT WAVEFORM  \n \n VCTCXO 10.000000 MHz SPECIFICATION \nw w w . t a i t i e n . c o m                                                             P a g e  7  \n   \n \n\x84 RECOMMENDED IR REFLOW PROFILE \n \n¾ IR REFLOW PROFILE OF CERAMIC SMD PRODUCTS FOR Pb FREE PROCESS \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n     ※Bottom side reflow is forbidden unless sp ecified in the oscillator specification.  \n \n \n \n \n \n \n \n \n \n \n \n \n \nVCTCXO 10.000000 MHz SPECIFICATION \nw w w . t a i t i e n . c o m                                                             P a g e  8  \n  \n \n \n\x84 PRODUCT DIMENSIONS \n¾ DIMENSIONS  \n \n¾ PIN FUNCTIONS \n \n \n \n \n\x84 PRODUCT IDENTIFICATION (MARKING)  \n¾ Procedure: Laser \n \n \n \n                                        \n \n \n¾ For Example \n \n \n Pin Function \n#1 VCON \n#2 GND \n#3 Output \n#4 VDD Unit: mm  \nWeek No. (2 digits) Year of Manufacture \n(1=2011, 2=2012) Date Code  \nYWWFrequency Code \nXX.XXX MHz \n6 digits (Including decimal point) \n   \n   Introduction: \n10.000000 MHz\nMade inWeek 46 2017 Pin 1 Mark\nVCTCXO 10.000000 MHz SPECIFICATION \n10.000\nw w w . t a i t i e n . c o m                                                             P a g e  9  \n  \n \n \n\x84 PACKAGE INFORMATION \n \n¾ TAPE (CARRIER) DIMENSIONS \n \n¾ THE DIRECTION OF PACKING \n \n \n¾ REEL DIMENSIONS  \n \n Unit: mmVCTCXO 10.000000 MHz SPECIFICATION \n'}]
+!==============================================================================!
+### Component Summary for FVTO10.000M3.3SM7-0.5/0.5DFZ
+
+**Component Type:** VCTCXO (Voltage Controlled Temperature Compensated Crystal Oscillator)
+
+**Description:**  
+The FVTO10.000M3.3SM7-0.5/0.5DFZ is a surface-mount device (SMD) VCTCXO that operates at a nominal frequency of 10.000 MHz. It is designed to provide precise frequency stability over a wide temperature range, making it suitable for applications requiring accurate timing signals.
+
+### Key Specifications:
+
+- **Voltage Ratings:**
+  - Supply Voltage: 2.97 V to 3.63 V (typical 3.3 V)
+
+- **Current Ratings:**
+  - Maximum Current: 8 mA at maximum supply voltage
+
+- **Power Consumption:**
+  - Power consumption is determined by the supply voltage and current ratings.
+
+- **Operating Temperature Range:**
+  - -40 °C to +85 °C
+
+- **Package Type:**
+  - SMD7050 (Surface Mount Device)
+
+- **Special Features:**
+  - Frequency Tolerance: ±0.5 ppm at 25 °C
+  - Frequency Stability: ±0.5 ppm over temperature
+  - Aging: ±1 ppm/year at 25 °C
+  - Control Voltage Range: 0.5 V to 2.5 V with a pulling range of ±5 ppm
+  - Output waveform: CMOS
+  - Rise and fall times: 6 ns
+  - Start time: 10 ms
+
+- **Moisture Sensitive Level (MSL):**
+  - MSL according to JEDEC J-STD-020E is not specified in the provided text.
+
+### Typical Applications:
+The FVTO10.000M3.3SM7-0.5/0.5DFZ is typically used in applications that require precise timing and frequency control, such as:
+- Communication systems (e.g., RF transmitters and receivers)
+- Consumer electronics (e.g., clocks, timers)
+- Industrial automation (e.g., control systems)
+- GPS systems
+- Data acquisition systems
+
+This component is ideal for any application where accurate frequency generation is critical, particularly in environments with varying temperatures.

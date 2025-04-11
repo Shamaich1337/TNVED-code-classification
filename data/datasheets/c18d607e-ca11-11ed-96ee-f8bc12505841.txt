@@ -1,0 +1,48 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDNC02005 production of NEDITEK from the text:-1-\nNote: All the data provided in this data sheet guide is subject to\nchange without notice. The right is reserved to makechanges to specifications and other information at any time.Tel: +86-25-86858582 / +86-25-86858740\nFax: +86-25-86858580 E-mail: sales@neditek.comAdd: No. 524 Zhongshan East Road, Nanjing, China NEDI Technology Co., Ltd\nNDNC02005\nDC-18GHz GaN SPDT Switch\n►Features\n\uf06cDC to 18 GHz Operation\n\uf06c1.5dB Nominal Insertion Loss\n\uf06c35dB Nominal Isolation\n\uf06cReflective Design\n\uf06c0.25µm GaN Technology\n\uf06cChip dimensions: 1.8mm×0.82mm×0.1mm\n►General Description\nNDNC02005 is a broadband SPDT MMIC design using 0.25 μm GaN process. The SPDT design utilizes a\ncompact topology that achieves a 1.48mm2die area and high performance. Covering DC to 18 GHz, the switch\nfeatures isolation >35 dB. The insertion loss is measured to be 1.5 dB and the VSWR is less than 1.8. Each chipis RF tested on-wafer to ensure performance compliance. The device is available in chip form.\n►Absolute Maximum Ratings\nSymbol Parameter Value Notes\nV1,2 Control voltage -60V\nPcw Input Continuous Wave Power 45dBm\nTch Junction temperature 150℃\nTstg Store temperature -55～125℃\nTm Mounting Temperature 300℃ 1min, N 2protection\nAny of the stresses above the listed ratings may cause permanent damage.\n►Specifications (T A=25oC)\nSymbol ParameterTesting condition\n(V1，V2=0V/-40V)Value\nunits\nMin Typ Max\nLi insertion loss\nF= DC-18GHz1.5 1.8 dB\nISO isolation 30 35 dB\nVSWR Input/output vswr 1.8 2.1 －\n\n-2-\nNote: All the data provided in this data sheet guide is subject to\nchange without notice. The right is reserved to makechanges to specifications and other information at any time.Tel: +86-25-86858582 / +86-25-86858740\nFax: +86-25-86858580 E-mail: sales@neditek.comAdd: No. 524 Zhongshan East Road, Nanjing, China NEDI Technology Co., Ltd\nNDNC02005\nDC-18GHz GaN SPDT Switch\n►Typical Performances (T A=25oC)\nInput return Loss\n0123456789 1 0 1 1 1 2 1 3 1 4 1 5 1 6 1 7 1 81.01.52.02.53.03.54.0VSWRin&Freq \n VSWRin\nFreq(GHz)\nOutput return Loss\n0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 181.01.52.02.53.03.54.0VSWRout&Freq \n VSWRout\nFreq(GHz)\n-3-\nNote: All the data provided in this data sheet guide is subject to\nchange without notice. The right is reserved to makechanges to specifications and other information at any time.Tel: +86-25-86858582 / +86-25-86858740\nFax: +86-25-86858580 E-mail: sales@neditek.comAdd: No. 524 Zhongshan East Road, Nanjing, China NEDI Technology Co., Ltd\nNDNC02005\nDC-18GHz GaN SPDT Switch\nInsertion loss\n0 2 4 6 8 10 12 14 16 18-3.0-2.5-2.0-1.5-1.0-0.50.0IL&Freq \n Insertion Loss(dB)\nFreq(GHz)\nIsolation\n0 2 4 6 8 10 12 14 16 18-90-80-70-60-50-40-30 \n Isolation(dB)\nFreq(GHz)\n-4-\nNote: All the data provided in this data sheet guide is subject to\nchange without notice. The right is reserved to makechanges to specifications and other information at any time.Tel: +86-25-86858582 / +86-25-86858740\nFax: +86-25-86858580 E-mail: sales@neditek.comAdd: No. 524 Zhongshan East Road, Nanjing, China NEDI Technology Co., Ltd\nNDNC02005\nDC-18GHz GaN SPDT Switch\nP-1 (8GHz)\n34 35 36 37 38 39 40 41 42 43 44 45 46 47-3.0-2.5-2.0-1.5-1.0-0.50.0 -35\n -40\n -45@8GHz \n Insertion Loss(dB)\nPin(dBm)\nP-1 (10GHz)\n34 35 36 37 38 39 40 41 42 43 44 45 46-3.0-2.5-2.0-1.5-1.0-0.50.0 -35\n -40\n -45@10GHz \n Insertion Loss(dB)\nPin(dBm)\n-5-\nNote: All the data provided in this data sheet guide is subject to\nchange without notice. The right is reserved to makechanges to specifications and other information at any time.Tel: +86-25-86858582 / +86-25-86858740\nFax: +86-25-86858580 E-mail: sales@neditek.comAdd: No. 524 Zhongshan East Road, Nanjing, China NEDI Technology Co., Ltd\nNDNC02005\nDC-18GHz GaN SPDT Switch\n►Performance vs. Temperature\nInsertion loss\n02468 1 0 1 2 1 4 1 6 1 8-3.0-2.5-2.0-1.5-1.0-0.50.0\nFreq(GHz)Insertion Loss(dB)\n  +25\n-55\n +125\n►Outline Drawing (Units: um)\n\n-6-\nNote: All the data provided in this data sheet guide is subject to\nchange without notice. The right is reserved to makechanges to specifications and other information at any time.Tel: +86-25-86858582 / +86-25-86858740\nFax: +86-25-86858580 E-mail: sales@neditek.comAdd: No. 524 Zhongshan East Road, Nanjing, China NEDI Technology Co., Ltd\nNDNC02005\nDC-18GHz GaN SPDT Switch\n►Assembly Diagram\nRFin\nV1 V2RF\nout1RF\nout2\n►Truth table\nV1 V2 RFin→RF out1 RFin→RF out2\n-40V 0V ON OFF\n0 -40V OFF ON\n\n'}]
+!==============================================================================!
+### Component Summary: NDNC02005
+
+**Component Type:**  
+GaN SPDT (Single Pole Double Throw) Switch
+
+**Description:**  
+The NDNC02005 is a broadband SPDT MMIC (Monolithic Microwave Integrated Circuit) switch designed for operation from DC to 18 GHz. It utilizes a 0.25 μm GaN (Gallium Nitride) technology, which allows for high performance in a compact die area of 1.48 mm². The switch features low insertion loss and high isolation, making it suitable for various RF applications.
+
+### Key Specifications:
+
+- **Voltage Ratings:**
+  - Control Voltage (V1, V2): -60V
+
+- **Current Ratings:**
+  - Not explicitly stated, but the device can handle input continuous wave power of up to 45 dBm.
+
+- **Power Consumption:**
+  - Input Continuous Wave Power: 45 dBm
+
+- **Operating Temperature Range:**
+  - Junction Temperature (Tch): 150°C
+  - Storage Temperature (Tstg): -55°C to 125°C
+  - Mounting Temperature: 300°C for 1 minute (no protection)
+
+- **Package Type:**
+  - Chip form with dimensions: 1.8 mm × 0.82 mm × 0.1 mm
+
+- **Special Features:**
+  - Reflective design
+  - RF tested on-wafer for performance compliance
+  - Low insertion loss of 1.5 dB (typical)
+  - High isolation of 35 dB (typical)
+  - VSWR (Voltage Standing Wave Ratio) less than 1.8
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+### Typical Applications:
+The NDNC02005 is typically used in RF and microwave applications, including:
+
+- **Telecommunications:** For routing signals in communication systems.
+- **Aerospace and Defense:** In radar and electronic warfare systems where high-frequency switching is required.
+- **Test and Measurement Equipment:** For signal routing in testing setups.
+- **Satellite Communications:** In systems requiring high-frequency signal management.
+
+This component is ideal for applications that demand low insertion loss and high isolation across a wide frequency range, making it suitable for advanced RF systems.

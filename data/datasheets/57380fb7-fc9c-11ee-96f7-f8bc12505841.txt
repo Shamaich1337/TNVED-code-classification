@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SFH11-PBPC-D20-ST-BK production of SULLINS from the text:123\nwww.sullinscorp.com  |  760-744-0125  |  toll-free 888-774-3100  |  fax 760-744-6081  |  info@sullinscorp.com\n   HeadersHeadersPART NUMBER OPTIONS\nP=Phosphor Bronze\nB=Brass\nCONTACT CENTERS\nC=.100” [2.54 mm]NUMBER OF CONTACT POSITIONSST=Straight\nRA =Right AngleTERMINATION TYPE (Opposite Page)\nP=Gold Flash Overall\nE=.000100” Pure Tin, Matte, OverallCONTACT FINISH - RoHS Compliant SERIES\nINSULATOR MATERIAL\nP=PBT\nN=NYLON\nCONTACT MATERIAL\nNUMBER OF ROWS\nD=Dual RowCOLOR\nBK=BlackSFH11 =Female Header, .100 ” [2.54 mm] Contact Centers \nby .100 ” [2.54 mm] Row Spacing\n03 thru 08,10,12, 13, 15,17, 20, 25, 30, 32\nDIMENSIONS  For complete drawings, go to www.sullinscorp.com or e-mail techsupport@sullinscorp.com\nDimensions in [ ] are in millimeters, all others are in inches..100” [2.54 mm] Contact Centers, Female Headers, \nStraight/Right Angle - SFH11 Series\nSPECIFICATIONS\n• Centered Polarizing Key Optional\n• Operating Temperature: -40°C to +105°C\n• Processing Temperature: 230°C Max. for 60 seconds,    \n                                                   (260°C Max. for 10 seconds)\n• UL Flammability Rating: 94V-0\n• Contact Resistance: 20 milli Ohms Max.\n• Current Rating: 3 Amps\n• Dielectric Withstanding: 1000 VAC\n• Insulation Resistance: 5000 Megohms Min.\n.126[3.20].276[7.00]\n.016[0.40]\n.100[2.54]\n.100[2.54]\n.016[0.40]\n.106[2.70].398[10.10].276[7.00]STRAIGHT (ST)\nExample P/N:     SFH11-PPPC-D20-ST-BK\nRIGHT ANGLE (RA)\nExample P/N:     SFH11-PPPC-D20-RA-BK.100[2.54]\n.024[0.60].335\n[8.50].100[2.54]\n.039[1.00]\nCentered Polarizing Key Optional,\nRequires -M181 Modification to Remove.236[6.00]\n-M181 Modification \n(No Centered\nPolarizing Key)\n.236[6.00]\n-M181 Modification \n(No Centered\nPolarizing Key)MODIFICATION (Omit for Standard)\nM181 =Without Centered Polarizing Key   SFH11   -   P    P    P     C  -  D  10 - ST - BK  - M181Mates with SBH11 series (See opposite page)\n'}]
+!==============================================================================!
+### Component Summary: SFH11-PBPC-D20-ST-BK
+
+#### Key Specifications:
+- **Voltage Ratings**: 1000 VAC (Dielectric Withstanding)
+- **Current Ratings**: 3 Amps
+- **Power Consumption**: Not specified; typically determined by the load connected.
+- **Operating Temperature Range**: -40°C to +105°C
+- **Package Type**: Female Header, Dual Row, .100” [2.54 mm] Contact Centers
+- **Special Features/Notes**:
+  - Centered Polarizing Key Optional
+  - UL Flammability Rating: 94V-0
+  - Contact Resistance: 20 milli Ohms Max
+  - Insulation Resistance: 5000 Megohms Min
+  - Processing Temperature: 230°C Max for 60 seconds (260°C Max for 10 seconds)
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Component Description:
+The SFH11-PBPC-D20-ST-BK is a female header connector designed for use in electronic applications. It features a dual-row configuration with contact centers spaced at .100” [2.54 mm]. The connector is made from phosphor bronze with a black finish and is suitable for various electronic interconnections.
+
+#### Typical Applications:
+This component is commonly used in:
+- **Power Management**: Connecting power supplies to circuit boards.
+- **Signal Processing**: Interfacing between different circuit elements.
+- **Data Storage**: Connecting to memory modules or other data storage devices.
+- **General Electronics**: Used in a wide range of electronic devices for reliable connections.
+
+The SFH11 series connectors are versatile and can be utilized in various applications where secure and efficient electrical connections are required.

@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ECX-L35CN-156.250-TR production of ECS from the text: \n \n15351 West 109th Street   |  Lenexa , KS 66219   |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com   \n   \n \n \n \n \n \n   \nPart Numbering Guide : Example ECX -L35BN -156.250  \nSeries  Voltage  Package  \nSize (mm)  Stability  Operating \nTemperature  Frequency  Packaging  \nECX-L \n(LVDS  Output)  2 = +2.5V \n3 = +3.3V  2 = 2.5 x 2  \n3 = 3.2 x 2.5  \n5 = 5 x 3.2  \n7 = 7 x 5  A = ± 100 ppm  \nB = ± 50 ppm  \nC = ± 25 ppm  \nD = ± 20 ppm  L =   -10 ~ +70°C  \nM =  -20 ~ +70°C  \nN =   -40 ~ +85°C  \nP =   -40 ~ +105°C  Customer \nSpecified  Blank =(Bulk)  \n-TR=Tape & Reel \n(1K Min/Mult)  \n \n Parameters  Conditions  ECS-L2 (+2.5V)  ECS-L3 (+3.3V)  Units  MIN TYP MAX  MIN TYP MAX  \nFrequency Range   10.000  1500.0  10.000   1500.0  MHz \nOperating Temperature  Standard  0  +70 0  +70 °C \nExtended (N Option)  -40  +85 -40  +85 °C \nStorage Temperature   -55  +125  -55  +125  °C \nSupply Voltage  VDD +2.375  +2.5 +2.625  +3.135  +3.3 +3.465  VDC  \nFrequency Stability *  Option A    ±100    ±100  ppm \nOption B    ±50   ±50 ppm \nOption C    ±25   ±25 ppm \nOption D    ±20   ±20 ppm \nInput Current  10.0 ~ 100.0 MHz    16   18 mA \n100.1 ~ 250.0 MHz    18   20 mA \n250.1 ~ 500 MHz    21   22 mA \n500.1 ~ 1500.0 MHz    26   28 mA \nOutput Symmetry  @ 50% V DD level   45/55    45/55  % \nOutput Load  Load between each \nOutput    100   100 Ω \nOutput Enable  Pin 1 **  0.7%    0.7%    Vdd \nOutput Disable  Pin 1    0.3%    0.3%  Vdd \nDisable Current    16  16   mA \nOutput Enable Time     200   200 ns \nOutput Disable Time  Pin 1 = VIL    50   50 ns \nDifferential Output Voltage   175 350  175 350  mV \nOffset Voltage    1.25   1.25  V \nRise and Fall Times  10% V DD to 90% Level  150 350 500 150 350 500 pS \nAging  @ +25°C (first year)    ±2   ±2 PPM  \nStart -up Time  @ +25°C (first year)    10   10 ms \nAbsolute Voltage Range     +3.63    +3.63  VDC  \nMoisture Sensitivity Level   1  \nTermination Finish   Au  \nESD Sensitivity  Human Body Model  3kV Max.   OPERATING CONDITIONS / ELECTRICAL CHARACTERISTICS  ECS-L2 (2.5V) and ECS -L3 (3.3V) low jitter, low current \nFrequency Configurable SMD crystal controlled oscillators.  \nECSpressCONTM \nECX-L LVDS  \nOscillator  \nRequest a Sample  \n*Note: Inclusive of 25 ⁰C tolerance, operating temperature, input voltage change, load change, shock and vibration.  \n**Note: Internal pull -up resistor active output if pin 1 is left open.  \n \n \n15351 West 109th Street   |  Lenexa , KS 66219   |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com   \n \n \n \n \nPhase Noise and Jitter Data (typical)  \nSSB \nPhase \nNoise \nData \n(dBc/Hz \ntypical)  Frequency \n(offset)  77.760  122.880  125.000  156.250  212.5  491.520  622.080  1000  1250  \n10 Hz  -64 -68 -63 -55 -62 -61 -48 -52 -42 \n100 Hz  -84 -99 -94 -85 -93 -86 -85 -82 -81 \n1 KHz  -118 -113 -113 -109 -105 -100 -101 -93 -93 \n10 KHz  -128 -119 -118 -116 -113 -105 -102 -97 -96 \n100 KHz  -137 -120 -119 -118 -115 -105 -103 -97 -97 \n1 MHz  -145 -140 -137 -139 -135 -126 -124 -116 -119 \n5 MHz -152 -142 -146 -146 -143 -137 -133 -127 -129 \nPhase Jitter pS  \n12 KHz ~ 20 MHz, \nRMS  0.9 0.8 1.1 0.9 1.0 1.1 1.2 1.5 1.1 \n \nPhase Noise Plot of ECX -L35BN -77.760 (typical)  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Package Data  \nItem Description  \nLid Metal  \nBase  Ceramic  \nPlating  Gold/Nickel  \nSurface/Under  \nECSpressCONTM \nECX-L LVDS \nOscillator  \n\n \n \n15351 West 109th Street   |  Lenexa , KS 66219   |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n Pin Connections  \nPin #  Function  \n1 O/E or No Connect  \n2 No Connect  \n3 Ground  \n4 Differential Output  \n5 Complementary Output  \n6 Supply Voltage  \nECSpressCONTM \nECX-L LVDS  \nOscillator  \nFigure 1) Top, Side,  \nBottom & Land  Figure  2) Top, Side,  \nBottom & Land  Figure 3) Top, Side,  \nBottom & Land  Figure 4) Top, Side,  \nBottom & Land  \nSuggested Reflow Profile  \nDimensions (mm)  \n'}]
+!==============================================================================!
+### Component Summary for ECX-L35CN-156.250-TR
+
+**Component Type:**  
+The ECX-L35CN-156.250-TR is a low jitter, low current crystal-controlled oscillator with LVDS (Low Voltage Differential Signaling) output.
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Supply Voltage (VDD): +2.375V to +2.625V (for 2.5V variant) or +3.135V to +3.465V (for 3.3V variant)
+
+- **Current Ratings:**
+  - Input Current:
+    - 10.0 ~ 100.0 MHz: 16 mA (typical)
+    - 100.1 ~ 250.0 MHz: 18 mA (typical)
+    - 250.1 ~ 500 MHz: 21 mA (typical)
+    - 500.1 ~ 1500.0 MHz: 26 mA (typical)
+
+- **Power Consumption:**
+  - Varies with frequency; maximum current consumption at higher frequencies can reach up to 28 mA.
+
+- **Operating Temperature Range:**
+  - Standard: 0°C to +70°C
+  - Extended (N Option): -40°C to +85°C
+
+- **Package Type:**
+  - Surface Mount Device (SMD) with dimensions based on the specific variant (e.g., 5 x 3.2 mm for the ECX-L35 series).
+
+- **Special Features:**
+  - Low jitter and low current consumption.
+  - Differential output voltage: 175 mV to 350 mV.
+  - Output symmetry: 45/55% at 50% VDD level.
+  - ESD sensitivity: Human Body Model 3kV Max.
+  - Moisture Sensitivity Level: 1 (according to JEDEC J-STD-020E).
+
+**Description:**
+The ECX-L35CN-156.250-TR is a crystal oscillator designed for applications requiring precise frequency generation with low power consumption. It operates at a frequency of 156.250 MHz and is suitable for use in high-speed digital circuits.
+
+**Typical Applications:**
+- **Data Communication:** Used in high-speed data transmission systems where precise timing is critical.
+- **Networking Equipment:** Ideal for routers, switches, and other networking devices that require stable clock signals.
+- **Consumer Electronics:** Can be utilized in devices such as televisions and audio equipment for signal processing.
+- **Embedded Systems:** Suitable for microcontrollers and processors that require accurate clock signals for operation.
+
+This oscillator is particularly beneficial in applications where low power consumption and minimal jitter are essential for maintaining signal integrity and performance.

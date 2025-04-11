@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of RM1204 (6+6)PIN production of XUYI OUGE ELECTRONIC CO.,LTD. from the text: \n Item RM1204  \nDRAFTED  \nBY 付志良  TOLERANCE ANGLR: \n    ±1º MODEL NAME ： \n        RM1204 (6+6)PIN \nCHECKED  \nBY  \n吴志权  0＜L≤4 ±0.1 \n4＜L≤16 ±0.2 \n16＜L≤63 ±0.3 Pin pitch  \n±0.20 UNIT:MM MATERIAL: \nPHENOLIC UL REC: \nUL 94V-0 \n                  盱眙欧歌电子有限公司  \n             XUYI OUGE ELECTRONIC CO.,LTD. \n  TEL: 0086-760-22286356      FAX:0086-760-22286951  \nEmail：sales@ougedianzi.com SCALE: \n    1/1 TERMINAL \nMAT:CP WIRE PIN TENSION LOAD:  \n1.0 KGS MIN \n DATE: \n2015.06.03 DRAWING \nNO: REV. A  \n \n\n'}]
+!==============================================================================!
+### Component Summary for RM1204 (6+6)PIN
+
+**Manufacturer:** XUYI OUGE ELECTRONIC CO., LTD.
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text.
+- **Current Ratings:** Not explicitly stated in the provided text.
+- **Power Consumption:** Not explicitly stated in the provided text.
+- **Operating Temperature Range:** Not explicitly stated in the provided text.
+- **Package Type:** 6+6 PIN configuration.
+- **Special Features or Notes:**
+  - Tolerance angles: ±1º
+  - Pin pitch tolerances:
+    - 0 < L ≤ 4: ±0.1 mm
+    - 4 < L ≤ 16: ±0.2 mm
+    - 16 < L ≤ 63: ±0.3 mm
+  - Material: Phenolic
+  - UL Rating: UL 94V-0 (indicating flame resistance)
+  - Wire pin tension load: 1.0 KGS minimum
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not explicitly stated in the provided text.
+
+#### Component Description:
+The RM1204 (6+6)PIN is a connector component designed for electronic applications. It features a 6+6 pin configuration, which typically indicates a dual-row arrangement of pins, allowing for a compact connection interface. The component is made from phenolic material and is rated for flame resistance according to UL 94V-0 standards, making it suitable for various electronic environments.
+
+#### Typical Applications:
+The RM1204 (6+6)PIN connector is commonly used in:
+- **Signal Transmission:** Facilitating connections between different electronic modules or components.
+- **Power Distribution:** Providing a reliable interface for power connections in electronic devices.
+- **Consumer Electronics:** Often found in devices where space-saving and efficient connectivity are required.
+- **Industrial Equipment:** Used in machinery and control systems where robust connections are necessary.
+
+This component is essential for ensuring reliable electrical connections in various electronic applications, contributing to the overall functionality and safety of the devices in which it is used.

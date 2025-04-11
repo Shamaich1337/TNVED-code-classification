@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SKKT 323/16E production of SEMIKRON from the text:SKKT 323/16 E\n© by SEMIKRON Rev. 4 – 11.11.2013 1\nSEMIPACK® 3\nSKKTThyristor Modules\nSKKT 323/16 E \nFeatures\n• Industrial standard package \n• Electrically insulated base plate • Heat transfer through aluminum oxide \nceramic insulated metal base plate \n• Chip soldered on direct copper bonded \nAl\n2O3 ceramic \n• Thyristor with center gate • UL recognition applied for file no. \nE63532\nTypical Applications*\n• DC motor control (e. g. for machine \ntools)\n• Temperature control (e. g. for ovens, \nchemical processes)\n• Professional light dimming (studios, \ntheaters)Absolute Maximum Ratings \nSymbol Conditions Values Unit\nChip\nIT(AV)sinus 180°Tc=8 5° C 320 A\nTc=1 0 0° C 241 A\nITSM10 msTj=2 5° C 9500 A\nTj=1 3 0° C 8200 A\ni2t10 msTj=2 5° C 451250 A²s\nTj=1 3 0° C 336200 A²s\nVRSM 1700 V\nVRRM 1600 V\nVDRM 1600 V\n(di/dt) cr Tj= 130 °C 130 A/µs\n(dv/dt) cr Tj= 130 °C 1000 V/µs\nTj -40 ... 130 °C\nModule\nTstg -40 ... 125 °C\nVisola.c.; 50 Hz; r.m.s.1m i n 3000 V\n1s 3600 V\nCharacteristics \nSymbol Conditions min. typ. max. Unit\nChip\nVT Tj=2 5° C ,  I T= 750 A 1.45 V\nVT(TO) Tj= 130 °C 0.81 V\nrT Tj= 130 °C 0.85 m Ω\nIDD;IRD Tj=1 3 0° C ,  V DD = V DRM; VRD = V RRM 100 mA\ntgd Tj=2 5° C ,  I G=1A ,  d i G/dt = 1 A/µs 1µ s\ntgr VD = 0.67 * V DRM 2µ s\ntq Tj= 130 °C 150 µs\nIH Tj=2 5° C 150 500 mA\nIL Tj=2 5° C ,  R G=3 3Ω 300 2000 mA\nVGT Tj=2 5° C ,  d . c . 2V\nIGT Tj=2 5° C ,  d . c . 150 mA\nVGD Tj= 130 °C, d.c. 0.25 V\nIGD Tj= 130 °C, d.c. 10 mA\nRth(j-c)cont.per chip 0.091 K/W\nper module 0.0455 K/W\nRth(j-c)sin. 180°per chip 0.095 K/W\nper module 0.048 K/W\nRth(j-c)rec. 120°per chip 0.11 K/W\nper module 0.055 K/W\nModule\nRth(c-s) chip 0.08 K/W\nmodule 0.04 K/W\nMs to heatsink M5 4.25 5.75 Nm\nMt to terminals M8 7.65 10.34 Nm\na 5 * 9,81 m/s²\nw4 1 0 g\nSKKT 323/16 E\n2 Rev. 4 – 11.11.2013 © by SEMIKRONFig. 1L: Power dissipation per thyristor/diode vs. on-state \ncurrentFig. 1R: Power dissipation per thyristor/diode vs. ambient temperature\nFig. 2L: Power dissipation of one module vs. rms currentFig. 2R: Power dissipation of one module vs. case temperature\nFig. 3L: Power dissipation of two modules vs. direct \ncurrentFig. 3R: Power dissipation of two modules vs. case temperature\n\nSKKT 323/16 E\n© by SEMIKRON Rev. 4 – 11.11.2013 3Fig. 4L: Power dissipation of three modules vs. direct and \nrms currentFig. 4R: Power dissipation of three modules vs. case temperature\nFig. 5: Recovered charge vs. current decrease Fig. 6: Transient thermal impedance vs. time\nFig. 7: On-state characteristics Fig. 8: Surge overload current vs. time\n\nSKKT 323/16 E\n4 Rev. 4 – 11.11.2013 © by SEMIKRONThis is an electrostatic discharge sensitive device (ESDS), international standard IEC 60747-1, Chapter IX\n* The specifications of our components may no t be considered as an assurance of component characteristics. Components have to b e tested \nfor the respective application. Adjustments may be necessary. The use of SEMIKRON produc ts in life support appliances and syste ms is \nsubject to prior specification and written approval by SEMIKRON. We therefore strongly recommend prior consultation of our staf f.Fig. 9: Gate trigger characteristics\nSKKT\nSEMIPACK 3\n\n'}]
+!==============================================================================!
+### Component Summary: SKKT 323/16 E
+
+**Manufacturer:** SEMIKRON  
+**Product Code:** SKKT 323/16 E  
+**Type:** Thyristor Module  
+**Package Type:** SEMIPACK® 3
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - **Repetitive Reverse Voltage (VRRM):** 1600 V
+  - **Surge Voltage (VRSM):** 1700 V
+  - **Blocking Voltage (VDRM):** 1600 V
+
+- **Current Ratings:**
+  - **Average On-State Current (IT(AV)):**
+    - 320 A at 85°C
+    - 241 A at 100°C
+  - **Surge On-State Current (ITSM):**
+    - 9500 A for 10 ms at 25°C
+    - 8200 A for 10 ms at 130°C
+
+- **Power Consumption:**
+  - **On-State Voltage Drop (VT):** 1.45 V at 750 A and 25°C
+  - **Thermal Resistance (Rth(j-c)):** 
+    - 0.091 K/W per chip (continuous)
+    - 0.0455 K/W per module (continuous)
+
+- **Operating Temperature Range:**
+  - **Junction Temperature (Tj):** -40°C to 130°C
+  - **Storage Temperature (Tstg):** -40°C to 125°C
+
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+- **Special Features:**
+  - Electrically insulated base plate
+  - Heat transfer through aluminum oxide ceramic insulated metal base plate
+  - UL recognition (file no. E63532)
+  - Thyristor with center gate
+
+#### Description:
+The SKKT 323/16 E is a thyristor module designed for high-power applications. It features a robust construction with an insulated base plate, allowing for efficient heat dissipation and reliable operation in demanding environments. The module is capable of handling significant surge currents, making it suitable for applications that require high reliability and performance.
+
+#### Typical Applications:
+- **DC Motor Control:** Used in applications such as machine tools where precise control of motor speed and torque is required.
+- **Temperature Control:** Ideal for systems like ovens and chemical processes that need accurate temperature regulation.
+- **Professional Light Dimming:** Commonly utilized in studios and theaters for controlling lighting levels smoothly and effectively.
+
+This component is particularly suited for industrial applications where high power handling and thermal management are critical.

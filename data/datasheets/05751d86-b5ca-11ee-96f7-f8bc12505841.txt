@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-PCS-103-Q396-99 production of DECIGN from the text:AB\n02 7,86 3,96\n03 11,82 7,92\n04 15,78 11,88\n05 19,74 15,84\n06 23,70 19,80\n07 27,66 23,76\n08 31,62 27,72\n09 35,58 31,68\n10 39,54 35,64\n11 43,50 39,60\n12 47,46 43,56\n13 51,42 47,52\n14 55,38 51,48\n15 59,34 55,44No. of \nPinsDimension mm\nTP-\nTP-TP-\n'}]
+!==============================================================================!
+Based on the provided information, it appears that the component in question is a connector or a terminal block, specifically the TP-PCS-103-Q396-99 from DECIGN. Below is a concise summary of the key characteristics and specifications, along with a description and typical applications.
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, terminal blocks can handle various voltage levels depending on design.
+- **Current Ratings**: Not explicitly stated; current ratings for terminal blocks can vary widely based on the specific model and application.
+- **Power Consumption**: Not applicable for connectors; power consumption is generally determined by the connected load.
+- **Operating Temperature Range**: Not specified; typical ranges for connectors are usually from -40°C to +85°C.
+- **Package Type**: Terminal block or connector type (exact dimensions not provided).
+- **Special Features or Notes**: The text lists dimensions in mm, indicating a range of pin configurations or sizes.
+- **Moisture Sensitive Level (MSL)**: Not specified; typically, connectors may have an MSL rating based on their materials and construction.
+
+### Component Description:
+The TP-PCS-103-Q396-99 is likely a terminal block or connector designed for electrical connections in various applications. Terminal blocks are used to connect wires to a circuit and provide a secure and reliable connection point. They are often used in industrial, automotive, and consumer electronics.
+
+### Typical Applications:
+- **Power Distribution**: Used in power management systems to connect power lines securely.
+- **Signal Transmission**: Facilitates the connection of signal wires in communication systems.
+- **Control Systems**: Commonly found in control panels and automation systems for connecting sensors and actuators.
+- **Consumer Electronics**: Used in devices requiring modular connections for ease of assembly and maintenance.
+
+### Conclusion:
+The TP-PCS-103-Q396-99 from DECIGN is a versatile connector or terminal block suitable for various applications in power management, signal processing, and control systems. While specific electrical ratings are not provided in the text, terminal blocks generally offer robust performance in connecting electrical circuits.

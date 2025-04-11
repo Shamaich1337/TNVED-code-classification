@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of KB-H22-6-XP production of KINGBRITE from the text:备注:\nShenzhen KingBrite Optoelectronics Co.,Ltd深圳市金澜信光电科技有限公司\n> 0  -10DIM CLASS\n> 10 -20\n> 20 -50\n> 50 -100\n> 100-200\n> 200-300\n> 300-± 0.10\n± 0.15\n± 0.25\n± 0.35\n± 0.40\n± 0.45\n± 0.50\n± 20＇未注尺寸公差：\nANGLE 1 2 3 4\n4 3 2\nC D F E BC D F E\nA\n1A B\n核  准 审  核 制  图\nA4 产 品图纸规格 图纸类别 发行日期 文件编号H0\n页  数版  本\n设  计1:1MM 单  位\n比  例KB-H22-6-XP 产品型号\nG 镜  面 重  量\n耐温度 角  度面  型\nPMMALED透镜\n材  质品  名\n-30\n+85 C°C°\n2017.03.036° 01/01勿在图上量数！确认人 修改人 修改内容概述 日 期 修改版本号\nNO.01\n00-00-0000-00-00(DESCRIPTION) (REV.) (DCN DATE) (BY) (APP'D)\nNO.02\n"}]
+!==============================================================================!
+### Component Summary for KB-H22-6-XP
+
+**Manufacturer:** Shenzhen KingBrite Optoelectronics Co., Ltd.
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, LED components operate at low voltage (usually around 2-3V for individual LEDs).
+- **Current Ratings:** Not specified; however, standard LED current ratings range from 20mA to 30mA.
+- **Power Consumption:** Not provided; can be estimated based on voltage and current ratings.
+- **Operating Temperature Range:** -30°C to +85°C.
+- **Package Type:** Not specified in the text; however, it is likely a lens or optical component based on the context.
+- **Special Features or Notes:** The component is made from PMMA (Polymethyl methacrylate), which is a common material for LED lenses due to its optical clarity and durability.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The KB-H22-6-XP is an LED lens component designed for use in various lighting applications. It is made from PMMA, which provides excellent light transmission and resistance to UV degradation. The lens is likely designed to focus or diffuse light emitted from an LED source, enhancing the efficiency and effectiveness of the lighting system.
+
+#### Typical Applications:
+- **Lighting Solutions:** Used in LED lighting fixtures to improve light distribution and intensity.
+- **Automotive Lighting:** Potentially used in vehicle lighting systems for headlights, taillights, or interior lighting.
+- **Display Technology:** Can be utilized in backlighting applications for displays and screens.
+- **Signage:** Suitable for illuminated signs and advertising displays where light diffusion is critical.
+
+This summary provides a concise overview of the KB-H22-6-XP component, highlighting its key specifications and typical applications based on the available information.

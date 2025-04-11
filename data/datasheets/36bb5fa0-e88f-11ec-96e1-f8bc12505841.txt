@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TFL-C-20-PM-B production of SHENZHEN BOXOPTRONICS TECHNOLOGY CO.,LTD from the text:www.boxoptronics.com\nEmail:sales@boxoptronics.com|Tel:+86-0755-21009302Ref:S037.2021.08.18\nC-bandTunableFiberLaser\n1\nC-bandTunableFiberLaser\n1.Description:\nThewavelengthtuningrangeofthislightsourcecoverstheC-bandandrealizescontinuouslaseroutput\nofupto96wavelengths(ITU-Tstandardwavelength,wavelengthinterval50GHz).Theintegratedtunable\nfilterandhighgainchiphavethecharacteristicsofhighoutputopticalpower,narrowlinewidthandhigh\nwavelengthaccuracy.Equippedwithdedicateddrivecontrolcircuit,high-definitioncolorLCDscreen,and\noptionalhostcomputersoftware,userscaneasilydoaccuratetuningofwavelength.Itcanbeusedin\nDWDMsystemresearchanddevelopment,fiberlaser,fiberlink,opticaldevicetestingandotherfields.\n2.Features:\n\uf06c89Wavelengths;\n\uf06cHighpowerstability;\n\uf06cHighsidemodesuppressionratio.\n3.Applications:\n\uf06cDWDMsystem;\n\uf06cOpticalfiberlink;\n\uf06cOpticaldevicetest.\n4.Electro-OpticalCharacteristics:\nParameters Unit Values Notes\nWavelengthtuningrange nm 1529.16~1567.13 ITU:H60~C13\nFrequencytuningrange THz 191.3~196.05\nWavelengthaccuracy nm 0.01\nChannelspacing GHz 50 Equivalent0.4nm\nSidemodesuppressionratio dB >50\nWavelengthchannels - 96\nOutputpower dBm 10/20 Customizable\nPowerinstability\n(Short-term15mins)dB ≤±0.02Singlewavelength\nfulltemperature\nPowerinstability\n(Long-term8hours)dB ≤±0.05Singlewavelength\nfulltemperature\nConnector - FC/APC\nFibertype - SMF-28e/PM1550\nDimensions mm260(W)×280(D)×120(H) Benchtop\n150(W)×125(D)×30(H) Module\nPowersupply VAC110~240V,<30W Benchtop\nDC5V,<14W Module\nwww.boxoptronics.com\nEmail:sales@boxoptronics.com|Tel:+86-0755-21009302Ref:S037.2021.08.18\nC-bandTunableFiberLaser\n2\nCommunicationinterface - DB9Female(RS232)\nOperatingtemperature ℃ -5~+55\nStoragetemperature ℃ -40~+85\n5.TypicalCharacteristicalCurve:\n*Note:Thepictureaboveonlyshowsthewavelengthtuningrange,non-96wavelengthscanbeoutputsimultaneously.\n6.Orderinginformation:\nTFL Wavelength Outputpower Fibertype Dimension\nTunableFiber\nLaserC:C-band 10:10mW\n20:20mW\n1H:100mW\n2H:200mWSM:SMF-28e\nPM:PM1550B:Benchtop\nM:Module\n'}]
+!==============================================================================!
+### Component Summary: TFL-C-20-PM-B
+
+**Manufacturer:** SHENZHEN BOXOPTRONICS TECHNOLOGY CO., LTD  
+**Product Code:** TFL-C-20-PM-B  
+**Product Type:** C-band Tunable Fiber Laser
+
+#### Key Specifications:
+- **Wavelength Tuning Range:** 1529.16 nm to 1567.13 nm (ITU: H60 to C13)
+- **Frequency Tuning Range:** 191.3 THz to 196.05 THz
+- **Wavelength Accuracy:** ±0.01 nm
+- **Channel Spacing:** 50 GHz (equivalent to 0.4 nm)
+- **Number of Wavelength Channels:** 96
+- **Output Power:** Customizable (10 dBm or 20 dBm)
+- **Power Instability (Short-term, 15 mins):** ≤ ±0.02 dB (single wavelength, full temperature)
+- **Power Instability (Long-term, 8 hours):** ≤ ±0.05 dB (single wavelength, full temperature)
+- **Connector Type:** FC/APC
+- **Fiber Type:** SMF-28e or PM1550
+- **Operating Temperature Range:** -5°C to +55°C
+- **Storage Temperature Range:** -40°C to +85°C
+- **Power Supply:**
+  - Benchtop: AC 110~240V, <30W
+  - Module: DC 5V, <14W
+- **Communication Interface:** DB9 Female (RS232)
+- **Package Type:** Benchtop (260 mm x 280 mm x 120 mm) or Module (150 mm x 125 mm x 30 mm)
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+#### Description:
+The TFL-C-20-PM-B is a C-band tunable fiber laser designed for applications requiring precise wavelength tuning and high optical power output. It features an integrated tunable filter and high-gain chip, which provide high output stability, narrow linewidth, and excellent wavelength accuracy. The device is equipped with a dedicated drive control circuit and a high-definition color LCD screen, allowing users to perform accurate wavelength tuning easily.
+
+#### Typical Applications:
+- **DWDM Systems:** Used in dense wavelength division multiplexing systems for efficient data transmission over optical fibers.
+- **Optical Fiber Links:** Ideal for establishing high-performance optical communication links.
+- **Optical Device Testing:** Suitable for testing and characterizing optical devices, ensuring they meet performance specifications.
+
+This tunable fiber laser is particularly valuable in research and development environments, where flexibility in wavelength selection and high stability are critical for experimental setups and testing scenarios.

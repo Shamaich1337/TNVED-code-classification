@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MTMM-120-02-G-D-115 production of SAMTEC from the text:MMT -1NO. PINS \nPER ROW -LEAD \nSTYLE -PLATING \nOPTION -ROW \nOPTION -OPTION\n02 thru 36 –01\n= (3.20 mm) \n.126" post\n–02\n= (4.45 mm) \n.175" post–F\n= Gold flash \non post, \nMatte Tin \non tail\n–L\n= 10 µ" \n(0.25 µm)  \nGold post, \nMatte Tin \non tail\n–T \n= Matte Tin–SH\n= Single \nRow \n–DH\n= Double \nRow \n–MT\n= Double \nRow Mixed \nTechnology–K\n= (4.00 mm) .157" \nDIA Polyimide Film \nPick & Place Pad\n(3 positions min.)\n–P\n= Pick & \nPlace Pad\n(2 positions min.)\n–“XXX”\n= Polarized \nPosition \nSpecify position \nof omitted pin\n–TR\n= Tape & Reel\n–FR\n= Full Reel \nTape & Reel \n(must order max. \nquantity per reel; \ncontact Samtec for \nquantity breaks)\nMTMM -1NO. PINS \nPER ROW -LEAD \nSTYLE -PLATING \nOPTION -ROW\nOPTION -POST\nHEIGHT -OPTION\n01 thru 50 Specify \nLEAD \nSTYLE \nfrom \nchart–F\n= Gold flash \non post, \nMatte Tin \non tail\n–L\n= 10 µ" \n(0.25 µm)  \nGold post, \nMatte Tin \non tail\n–T\n= Matte Tin–S\n= Single\nRow\n–D\n= Double\nRow\n–Q\n= Quad\nRow–“XXX”\n = Post \nHeight\nin inches \n(0.13 mm) \n.005"  \nincrements\nExample: \n–070 \n= (1.78 mm) \n.070"–“XXX”\n= Polarized \nPosition \nSpecify \nposition of \nomitted pinSPECIFICATIONSMMT/MTMM\nBoard Mates:\nCLT, SQT*, SQW, ESQT,  \nTLE, SMM, MMS\nCable Mates:\nTCSD\nInsulator Material:  \nBlack Liquid Crystal Polymer \nTerminal Material:  \nPhosphor Bronze\nPlating:  \nAu or Sn over \n50 µ" (1.27 µm) Ni\nOperating Temp Range:\n-55 °C to +105 °C with Tin; \n-55 °C to +125 °C with Gold\nPROCESSING\nLead–Free Solderable:  \nYes\nSMT Lead Coplanarity (MMT): \n(0.10 mm) .004" max (02-25)\n(0.15 mm) .006" max (26-36)*\n*(.004" stencil solution  \nmay be available; contact  \nipg@samtec.com)\nLEAD\n STYLEOAL\n–02 (6.48) .255\n–03 (7.67) .302\n–04 (8.20) .323\n–05 (9.58) .377\n–06 (10.08) .397\n–07 (11.58) .456\n–08 (12.09) .476\n–09 (13.59) .535\n–10 (14.10) .555\n–11 (15.09) .594\n–12 (15.60) .614\n–13 (17.09) .673\n–14 (19.08) .751\n–15 (21.08) .830\nNote:  \nSome lengths, styles and \noptions are non-standard,  \nnon-returnable.–D\n–Q–S—SH\n—DH \n—MT \n—MT —DH —DH —SH\n—MT\nOther Platings \n(MOQ Required)ALSO AVAILABLEAlignment pins\nLocking clips\nMolded pick &  \nplace pads\nOther platingsALSO AVAILABLE\nMOQ RequiredHORIZONTAL &\nMODIFIED HEADERS \n(2.00 mm) .0787" PITCH  •  MMT/MTMM SERIES\nsamtec.com?MMT or samtec.com?MTMM\nUnless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.\n(2.54)\n.100(4.00)\n.157 \nPOST\n(6.22)\n.245(2.79)\n.110 (2.00)\n.0787\n(2.00)\n.0787No. of positions x \n(2.00) .0787 \nNo. of positions x \n(2.00) .0787 \n(6.22)\n.245(2.79)\n.110POST\n(1.50)\n.059No. of positions x \n(2.00) .0787 \n(2.00)\n.0787\n(8.00)\n.315\n(0.00) .000 MIN\n(0.00) .000 MINPOST\nHEIGHT(3.94)\n.155\nOAL*Important Note:  \nSQT will not mate to the  \nMMT –02 lead style .\nF-221 (Rev 06APR21)\n'}]
+!==============================================================================!
+### Component Summary for MTMM-120-02-G-D-115
+
+**Component Type:** Connector (Header)
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, connectors like this can handle standard voltages up to 250V depending on the application.
+- **Current Ratings:** Not specified; generally, current ratings for similar connectors can range from 1A to 3A per pin.
+- **Power Consumption:** Not applicable; connectors do not consume power but facilitate power transfer.
+- **Operating Temperature Range:** 
+  - With Tin: -55 °C to +105 °C
+  - With Gold: -55 °C to +125 °C
+- **Package Type:** Surface Mount Technology (SMT) header
+- **Special Features or Notes:** 
+  - Lead-free solderable
+  - Available in various lead styles and post heights
+  - Options for gold flash or matte tin plating
+  - Polarized positions available
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Description:**
+The MTMM-120-02-G-D-115 is a surface mount header connector designed for high-density applications. It features a double row configuration with a 2.00 mm (0.0787") pitch, allowing for compact connections in electronic devices. The connector is made from black liquid crystal polymer for the insulator and phosphor bronze for the terminals, with various plating options available to suit different environmental and electrical requirements.
+
+**Typical Applications:**
+This connector is typically used in:
+- **Consumer Electronics:** For connecting various components on PCBs.
+- **Telecommunications Equipment:** Facilitating connections in communication devices.
+- **Industrial Automation:** Used in control systems and machinery for reliable connections.
+- **Data Storage Devices:** Connecting internal components in storage solutions.
+- **Power Management Systems:** Providing connections for power distribution in electronic systems.
+
+The MTMM series connectors are versatile and can be utilized in a wide range of applications where reliable electrical connections are essential.

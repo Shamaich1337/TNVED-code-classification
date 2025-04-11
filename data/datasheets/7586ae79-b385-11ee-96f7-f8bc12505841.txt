@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 53047-0210 production of MOLEX from the text:-\n \n \n \n \n \nDocuments & Resources \nDrawings\nDrawing  530470210_sd.pdf\n \n3D Models and Design Files\n2D Drawing DXF  530470210.dxf\n2D Drawing DXF (PDF)  530470210.pdf\n3D Model  530470210_stp.zip\n \nSpecifications\nApplication Specification  510210000-AS-000.pdf\nPackaging Specification  SPK-53047-001-001.pdf\nProduct Specification  510211010-PS-000.pdf\nProduct Specification  510211110-PS-000.pdf\n \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance Statements\nEu RoHSPart Number : 530470210\nProduct Description : 1.25mm Pitch,\nPicoBlade PCB Header, Single Row, Vertical,\nThrough Hole, Tin Plating, Friction Lock, 2\nCircuits, Tray, 2.30mm PC Tail Length\nSeries Number : 53047\nStatus : Active\nProduct Category : PCB Headers and\nReceptacles\nGADSL/IMDS Compliant with Exemption 44\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Not Low-Halogen per IEC 61249-2-\n21\nREACH SVHC Not Contained per D(2023)3788-DC\n(14 Jun 2023)\nEU RoHS Compliant per EU 2015/863\n-\n-\n-\n-\n-\n-\n-\nREACH SVHC\nLow-Halogen\n \nMultiple Part Industry Compliance Documents\nIPC 1752A Class C\nIPC 1752A Class D\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneral \n \n \nAgency \n \n \nElectrical \n \n \nPhysical \n Status Active\nCategory PCB Headers and Receptacles\nSeries 53047\nDescription 1.25mm Pitch, PicoBlade PCB\nHeader, Single Row, Vertical,\nThrough Hole, Tin Plating, Friction\nLock, 2 Circuits, Tray, 2.30mm PC\nTail Length\nApplication Signal, Wire-to-Board\nComponent Type PCB Header\nProduct Family PicoBlade Connector System\nProduct Name PicoBlade\nUPC 800753566224\nUL E29179\nCurrent - Maximum per Contact 1.0A\nVoltage - Maximum 125V\nBreakaway No\nCircuits (Loaded) 2\nCircuits (maximum) 2\n \n \nMates With / Use With \nMates with Part(s) \n Color - Resin Natural\nDurability (mating cycles max) 30\nFirst Mate / Last Break No\nFlammability 94V-0\nGlow-Wire Capable No\nGuide to Mating Part No\nKeying to Mating Part None\nLock to Mating Part Yes\nMated Height 5.20mm\nMaterial - Metal Phosphor Bronze\nMaterial - Plating Mating Tin\nMaterial - Plating Termination Tin\nMaterial - Resin Nylon\nNet Weight 57.800/mg\nNumber of Rows 1\nOrientation Vertical\nPackaging Type Tray\nPC Tail Length 2.30mm\nPCB Locator No\nPCB Retention None\nPCB Thickness - Recommended 0.80mm\nPitch - Mating Interface 1.25mm\nPolarized to PCB No\nShrouded Fully\nStackable No\nTemperature Range - Operating -40° to +85°C\nTermination Interface Style Through Hole\nDescription Part Number\nPicoBlade Single Row Receptacle\nHousings51021\n \n \n \n \nThis document was generated on Jan 15, 2024 PicoBlade Female-to-PicoBlade\nFemale Off-the-Shelf (OTS) Cable\nAssemblies15134\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 53047-0210
+
+**Component Type:**  
+- PCB Header
+
+**Description:**  
+The MOLEX 53047-0210 is a 1.25mm pitch PicoBlade PCB header designed for vertical, through-hole mounting. It features a single row configuration with two circuits and is constructed with tin plating for enhanced conductivity. The component is equipped with a friction lock mechanism to ensure secure connections.
+
+### Key Specifications:
+
+- **Voltage Rating:** 125V
+- **Current Rating:** 1.0A per contact
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range:** -40°C to +85°C
+- **Package Type:** Tray
+- **Special Features:**
+  - Friction lock for secure mating
+  - Mated height of 5.20mm
+  - Mates with PicoBlade connectors
+  - Not stackable
+  - Fully shrouded design
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+### Typical Applications:
+The MOLEX 53047-0210 is primarily used in signal and wire-to-board applications. It is suitable for various electronic devices where reliable connections are required, such as in consumer electronics, telecommunications, and industrial equipment. The compact design and secure locking mechanism make it ideal for applications where space is limited and durability is essential.
+
+### Compliance and Environmental Information:
+- **EU RoHS Compliant:** Yes, per EU 2015/863
+- **Low-Halogen Status:** Not classified as low-halogen per IEC 61249-2-21
+- **REACH SVHC:** Not contained as per D(2023)3788-DC
+- **Durability:** Rated for a maximum of 30 mating cycles
+- **Flammability Rating:** 94V-0
+
+This summary provides a comprehensive overview of the MOLEX 53047-0210 PCB header, highlighting its key specifications and typical applications in electronic systems.

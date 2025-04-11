@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SLE-020-S630B-95/2S production of E-TEC from the text:ABC\n010 23.80 8.00 14.60\n012 25.80 10.00 16.60\n014 27.80 12.00 18.60\n016 29.80 14.00 20.60\n020 33.80 18.00 24.60\n022 35.80 20.00 26.60\n024 37.80 22.00 28.60\n026 39.80 24.00 30.60\n030 43.80 28.00 34.60\n034 47.80 32.00 38.60\n040 53.80 38.00 44.60\n044 57.80 42.00 48.60\n050 63.80 48.00 54.60No.\xa0Of\nPinDimension \xa0mm\n'}]
+!==============================================================================!
+Based on the provided information, here is a concise summary of the SLE-020-S630B-95/2S component from E-TEC:
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this information would be found in the full datasheet.
+- **Current Ratings**: Not explicitly stated; would require the full datasheet for accurate values.
+- **Power Consumption**: Not provided; typically found in the full datasheet.
+- **Operating Temperature Range**: Not provided; typically found in the full datasheet.
+- **Package Type**: Not specified; would require the full datasheet for details.
+- **Special Features or Notes**: Not provided; would require the full datasheet for details.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not provided; typically found in the full datasheet.
+
+### Component Description:
+The SLE-020-S630B-95/2S appears to be a specific model of an electronic component, likely a connector or a similar device, based on the naming convention. However, without the full datasheet, it is difficult to ascertain the exact nature of the component. The dimensions provided suggest it may be a multi-pin connector or a similar device used in electronic assemblies.
+
+### Typical Applications:
+While specific applications are not detailed in the provided text, components like the SLE-020-S630B-95/2S are typically used in:
+- **Interconnect Solutions**: Connecting various electronic components within a circuit.
+- **Signal Transmission**: Facilitating the transfer of signals between different parts of an electronic system.
+- **Power Distribution**: Distributing power to various components in a system.
+
+### Additional Notes:
+To provide a more accurate and detailed summary, including voltage ratings, current ratings, and other specifications, it is essential to refer to the complete datasheet for the SLE-020-S630B-95/2S component. The provided text appears to list dimensions and possibly pin configurations, but lacks critical electrical specifications and operational details.

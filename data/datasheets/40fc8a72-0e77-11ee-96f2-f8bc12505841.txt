@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HX1140 production of HISIWELL from the text: \n      \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n电性能（TA=25℃ , Z0=50Ω） \n指标  最小值  典型值  最大值  单位  \n频率  10～2000  MHz \n小信号增益  20 23 26 dB \n噪声系数  － 0.8 1.1 dB \n输出 P-1dB 17 20 － dBm  \n输入驻波比  － 1.5 2 :1 \n输出驻波比  － 1.5 2 :1 \n反向隔离度  － -25 － dB \n供电电压  4.8 5 15 V \n供电电流  － 0.1 0.15  A \n \n \n  关键指标  \n\uf0d8 频率范围 : 10～2000M Hz \n\uf0d8 增益 : 23dB \n\uf0d8 输出 P-1dB:20dBm  \n\uf0d8 供电电流:100mA  \n\uf0d8 模块尺寸 : 54mm×30mm×8mm  \n 产品简介\n 低 噪 放 模 块 HX1140 工 作 于 10MHz 至\n2000MHz, 采用 GaAs工艺制成 ,在100mA 工作电\n流下 ,可提供 23dB小信号增益 ,20dBm 输出 P-1dB。 \n 实物图  \n  \n \n \n机械接口参数  \n指标  \n输入 /输出  SMA /SMA  \n馈电方式  玻针 /外壳接地  \n外壳材料  铝合金  \n重量  85g \n 典型应用 \n\uf0d8 雷达和电子对抗  \n\uf0d8 RF/微波电路  \n\uf0d8 军事和航天  \n\uf0d8 测试测量  \n\uf0d8 仪器仪表  \nHX1140\n10-2000MHz GaAs LNA Module Hisiwell \nTechnology Co., Ltd Email: sales@hisiwell.com\n \n   \n \n \n \n 18  21  24  27  30  \n0.0  0.5  1.0  1.5  2.0  2.5  3.0  \n频率 (GHz ) 25℃ \n-55℃ \n+85℃   小信号增益 (dB) vs.温度  \n-40  -35  -30  -25  -20  -15  \n0.0  0.5  1.0  1.5  2.0  2.5  3.0  \n频率 (GHz ) 25℃ \n-55℃ \n+85℃   反向隔离度 (dB) vs.温度  \n1.0  1.5  2.0  2.5  3.0  3.5  4.0  4.5  5.0  \n0.0  0.5  1.0  1.5  2.0  2.5  3.0  \n频率 (GHz ) 25℃ \n-55℃ \n+85℃   输入驻波比 (:1) vs.温度  \n1.0  1.5  2.0  2.5  3.0  3.5  4.0  4.5  5.0  \n0.0  0.5  1.0  1.5  2.0  2.5  3.0  \n频率 (GHz ) 25℃ \n-55℃ \n+85℃   输出驻波比 (:1) vs.温度  \n10  15  20  25  30  \n0.0  0.5  1.0  1.5  2.0  2.5  3.0  \n频率 (GHz ) +25℃ \n-55℃ \n+85℃   输出 P-1dB(dBm) vs. 温度  \n20  25  30  35  40  45  50  \n0.0  0.5  1.0  1.5  2.0  2.5  3.0  \n频率 (GHz ) +25℃ \n-55℃ \n+85℃              输出 IP3(dBm) vs. 温度  典型测试曲线  \nHX1140\n10-2000MHz GaAs LNA Module Hisiwell \nTechnology Co., Ltd Email: sales@hisiwell.com\n \n     \n \n \n                             \n \n \n  \n \n \n 0.0  0.5  1.0  1.5  2.0  \n0.0  0.5  1.0  1.5  2.0  2.5  3.0  \n频率 (GHz ) +25℃ \n-55℃ \n+85℃   噪声系数 (dB) vs.温度  \n注意：  \n2个SMA接头为现场可拆卸  外形图  \n所有尺寸均为毫米  \nHX1140\n10-2000MHz GaAs LNA Module Hisiwell \nTechnology Co., Ltd Email: sales@hisiwell.com\n'}]
+!==============================================================================!
+### Component Summary: HX1140
+
+**Key Specifications:**
+- **Voltage Ratings:** 4.8V to 15V
+- **Current Ratings:** 100mA (typical)
+- **Power Consumption:** 0.5W (at 5V, 100mA)
+- **Operating Temperature Range:** -40°C to +85°C
+- **Package Type:** Module (dimensions: 54mm x 30mm x 8mm)
+- **Special Features:**
+  - Low noise figure (0.8 to 1.1 dB)
+  - High small signal gain (23 dB typical)
+  - Output P-1dB of 20 dBm
+  - SMA connectors for input/output
+  - Reverse isolation of -25 dB
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+**Description:**
+The HX1140 is a low noise amplifier (LNA) module designed for operation in the frequency range of 10 MHz to 2000 MHz. It is constructed using Gallium Arsenide (GaAs) technology, which is known for its high efficiency and performance in RF applications. The module provides a typical small signal gain of 23 dB and can deliver an output power of 20 dBm at the P-1dB point, making it suitable for amplifying weak signals in various applications.
+
+**Typical Applications:**
+- **Radar and Electronic Warfare:** Enhancing signal detection and processing capabilities.
+- **RF/Microwave Circuits:** Used in communication systems for signal amplification.
+- **Military and Aerospace:** Reliable performance in demanding environments.
+- **Test and Measurement Equipment:** Essential for accurate signal analysis and testing.
+- **Instrumentation:** Used in various measurement devices requiring signal amplification.
+
+This summary encapsulates the essential characteristics and applications of the HX1140, providing a clear understanding of its capabilities and uses in electronic systems.

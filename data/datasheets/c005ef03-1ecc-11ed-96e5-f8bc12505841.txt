@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of VT3-801FL production of QUARTZCOM AG from the text:VT3-801F   \n \nSMD VC -TCXO  \nClipped sine wave  \n  \n \n 2002/95/EC  RoHS  compliant  06 Dec. 11  \nQuartzCom AG  QuartzCom Asia  QuartzCom USA  \nsales@quartzcom.com  sales -asia@quartzcom.com  sales -usa@quartzcom.com  \n \nwww.quartzcom.com    \n Features \uf0a7 Application s: mobile communication s, GPS, instrumentation , \nmicrowave  \n\uf0a7 Frequency range up to 50 MHz  \n\uf0a7 Tight frequency stability vs. temperature  \n\uf0a7 Low phase noise  \n \nParameter  Specification  \nVT3-801FL  VT3-801FM  VT3-801FS  \nFrequency range  9.6 ~ 50 MHz  \nStandard frequencies  10.00, 13.00, 16.384, 19.20, 19.44, 20.00, 20.48 & 2 7.00 MHz  \nFrequency stability :  \n vs. temperature   \uf0a3 \uf0b11.0  ~  \uf0b1 2.5 ppm  \n vs. supply & load change   \uf0a3 \uf0b10.2 ppm  \uf0b15 % \n vs. aging  \uf0a3 \uf0b11.0 ppm  1st year \nFrequency tolerance ex. factory   \uf0a3 \uf0b10.5 ppm  @ +25 °C  \nSupply voltage  +3.0 V  \uf0b15 % +3.3 V  \uf0b15 % +5.0 V  \uf0b15 % \nSupply current  1.5 ~ 4 mA  \nOutput signal   > 0.8 Vp -p clipped sine wave  \nOutput load  10 k\uf057 // 10 pF  \nFrequency p ulling range  \uf0b110 ~ \uf0b115 ppm  \nVoltage control  +1.5 V  \uf0b11.35 V  +1.65  V \uf0b11.35 V +2.5 V  \uf0b12.0 V  \nFrequency adjustment   > ± 3 ppm  by internal  trimmer  \nPhase noise @ 13.0 MHz  carrier frequency   -140 dBc /Hz @ 1 kHz  \nOperating temperature range  \n  -30 ~ +75 °C  commercial  application  \n -40 ~ +85 °C  industrial application  \nStorage tempera ture range  -55 ~ +125 °C  \nPackaging units   tape & reel  500 or 1’000 pieces  \nCustomer specifications on request  \n \n \n Pin  function  \n \n# 1 Vc Voltage control  \n# 2 GND  \n# 3 Output  \n# 4 Vdc \n Example for solder pattern  \n \nDo not design any conductive path between th e pattern  \nExample for IR reflow soldering temperature  \n \n \n'}]
+!==============================================================================!
+### Component Summary: VT3-801FL
+
+**Description:**
+The VT3-801FL is a Surface Mount Device (SMD) Voltage-Controlled Temperature Compensated Crystal Oscillator (VC-TCXO) produced by QuartzCom AG. It generates a clipped sine wave output and is designed for applications requiring precise frequency stability and low phase noise. This component is particularly suitable for mobile communications, GPS, instrumentation, and microwave applications.
+
+**Key Specifications:**
+- **Frequency Range:** 9.6 MHz to 50 MHz
+- **Standard Frequencies:** 10.00, 13.00, 16.384, 19.20, 19.44, 20.00, 20.48, and 27.00 MHz
+- **Frequency Stability:**
+  - **vs. Temperature:** ±1.0 to ±2.5 ppm
+  - **vs. Supply & Load Change:** ±0.2 ppm (±5%)
+  - **vs. Aging:** ±1.0 ppm (1st year)
+- **Frequency Tolerance (ex. factory):** ±0.5 ppm @ +25 °C
+- **Supply Voltage:** 
+  - +3.0 V ±5%
+  - +3.3 V ±5%
+  - +5.0 V ±5%
+- **Supply Current:** 1.5 to 4 mA
+- **Output Signal:** > 0.8 Vp-p clipped sine wave
+- **Output Load:** 10 kΩ // 10 pF
+- **Frequency Pulling Range:** ±10 to ±15 ppm
+- **Voltage Control:** 
+  - +1.5 V ±1.35 V
+  - +1.65 V ±1.35 V
+  - +2.5 V ±2.0 V
+- **Frequency Adjustment:** > ±3 ppm by internal trimmer
+- **Phase Noise @ 13.0 MHz Carrier Frequency:** -140 dBc/Hz @ 1 kHz
+- **Operating Temperature Range:**
+  - Commercial: -30 °C to +75 °C
+  - Industrial: -40 °C to +85 °C
+- **Storage Temperature Range:** -55 °C to +125 °C
+- **Packaging Units:** Tape & reel (500 or 1,000 pieces)
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Typical Applications:**
+The VT3-801FL is commonly used in:
+- Mobile communications systems
+- GPS devices
+- Instrumentation equipment
+- Microwave applications
+
+This component is ideal for scenarios where precise frequency control and stability are critical, making it a valuable choice for modern electronic designs that require reliable timing sources.

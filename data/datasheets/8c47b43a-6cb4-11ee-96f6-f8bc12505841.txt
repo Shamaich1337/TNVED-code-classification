@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of AXU15EG Carrier board production of ALINX from the text:Наименование: AXU15EG Carrier board\nПроизводитель : Alinx Electronic Technology (Shanghai) Co., Ltd\nВнешний вид:\nОписание:\nПлата расширения для установки системы на модуле ACU15EG . Содержит интерфейсные разъёмы\nдля подключения внешних устройств. Не содержит вычислительных элементов.\n\n'}]
+!==============================================================================!
+### Component Summary: AXU15EG Carrier Board
+
+**Manufacturer:** Alinx Electronic Technology (Shanghai) Co., Ltd
+
+**Description:**
+The AXU15EG Carrier Board is an expansion board designed specifically for the installation of the ACU15EG system-on-module (SoM). It serves as a platform that provides various interface connectors for connecting external devices. Notably, the carrier board does not contain any computational elements, focusing instead on facilitating connectivity and integration with the SoM.
+
+### Key Specifications:
+- **Voltage Ratings:** Not specified in the provided text.
+- **Current Ratings:** Not specified in the provided text.
+- **Power Consumption:** Not specified in the provided text.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Not applicable as this is a carrier board.
+- **Special Features or Notes:** 
+  - Designed for use with the ACU15EG SoM.
+  - Contains interface connectors for external device connectivity.
+  - No computational elements included on the board.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+### Typical Applications:
+The AXU15EG Carrier Board is typically used in applications where a system-on-module needs to be integrated into a larger system. It is suitable for:
+- **Embedded Systems:** Providing a platform for developing embedded applications.
+- **Prototyping:** Allowing developers to quickly prototype and test designs using the ACU15EG SoM.
+- **Interface Expansion:** Facilitating connections to various peripherals and external devices, such as sensors, displays, and communication modules.
+
+This carrier board is essential for users looking to leverage the capabilities of the ACU15EG SoM while ensuring easy integration with other components in their electronic designs.

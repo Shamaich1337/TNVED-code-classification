@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CRS-103-F254W-99 production of E-TEC from the text:AB\n2.54 5.08 02\n5.08 7.62 03\n7.62 10.16 04\n10.16 12.70 05\n12.70 15.24 06\n15.24 17.78 07\n17.78 20.32 08\n20.32 22.86 09\n22.86 25.40 10\n25.40 27.94 11\n27.94 30.48 12\n30.48 33.02 13\n33.02 35.56 14\n35.56 38.10 15\n38.10 40.64 16\n40.64 43.18 17\n43.18 45.72 18\n45.72 48.26 19\n48.26 50.80 20Dimension mm No. of\nPins\n'}]
+!==============================================================================!
+Based on the provided product code CRS-103-F254W-99 from E-TEC, here is a concise summary of the component's key characteristics and specifications:
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Current Ratings**: Not explicitly stated; refer to the full datasheet for specific current handling capabilities.
+- **Power Consumption**: Not specified; this would also be detailed in the full datasheet.
+- **Operating Temperature Range**: Not provided; check the full datasheet for environmental specifications.
+- **Package Type**: The component appears to be a connector based on the context of the product code.
+- **Special Features or Notes**: The "F" in the product code may indicate a specific feature or configuration, but further details would be in the full datasheet.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified; this information is typically included in the full datasheet.
+
+### Component Description:
+The CRS-103-F254W-99 is likely a type of connector, specifically designed for applications requiring reliable electrical connections. The dimensions mentioned (2.54 mm to 50.80 mm) suggest that it may be a modular connector with various pin configurations, allowing for flexibility in design and application.
+
+### Typical Applications:
+Connectors like the CRS-103-F254W-99 are commonly used in:
+- **Power Management**: Connecting power supplies to various components in electronic devices.
+- **Signal Processing**: Facilitating communication between different parts of a circuit or system.
+- **Data Storage**: Used in devices that require data transfer, such as hard drives or memory modules.
+- **Consumer Electronics**: Found in a wide range of devices, including computers, televisions, and other electronic gadgets.
+
+For precise specifications and additional details, it is recommended to consult the full datasheet associated with the CRS-103-F254W-99 product code.

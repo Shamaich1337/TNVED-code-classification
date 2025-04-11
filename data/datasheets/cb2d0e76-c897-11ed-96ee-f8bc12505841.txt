@@ -1,0 +1,58 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-505P-300-FAKRA production of MG ANTENNAS from the text:Special for MACRO GROU P    E-mail: wireless@macrogroup.ru     Tel: +7 (8 12) 370 60 70  \n1 \n \n \n \nPRODUCT DATASHEET  \n MODEL:    MMMGGG---555000555PPP---333mmmFFFAAAKKKRRRAAA   \nType  GSM/3G/4 G External Antenna  \nFrequencies  855-960/1800-1990 MHz \nMounting  Adhesive / Patch  \nBrand Name  MG ANTENNAS  \n \n  \n \n \nRevision # Content  Page  Date  \n0 First, document  - 07.02.2011 \n \n\n \n2 \n 1. SPECIFICATION  \n1.1 Electrical Specifications  \n \n 1.2 Mechanical  and Environmental Specification  \nCable  (type and length )  RG17 4, 3m or other * \nConnector  FAKRA D female/ SMA  male  Nickel  or other * \nH.S T ube Heat shrink tube  \nShell material , Color  ABS Black  \nMounting Type  3M Glue  \nDimensions  116 * 21.5 mm \nOperating / Storage  \nTemperature  - 45˚C ~ + 8 5˚C \nSubstance Compliance  RoHS  \n * Customizable Cable and Connector   \n2. MEASUREMEN T \n Frequency  855-960/1800-1990 MHz \nPolari zation  Vertical  \nGain  2.5DBi \nVSWR  2 :1 \nImpedance  50 Ω \nRadiation  Omnidirectional  \nMax power   10 W  \n \n3 \n 3. DIMENSIONS  \n \n \n\n'}]
+!==============================================================================!
+### Component Summary for MG-505P-300-FAKRA
+
+**Component Type:**  
+External Antenna
+
+**Description:**  
+The MG-505P-300-FAKRA is a GSM/3G/4G external antenna designed for wireless communication applications. It operates across multiple frequency bands, making it suitable for various mobile network technologies. The antenna features a compact design and is mounted using adhesive, making it easy to install in various environments.
+
+### Key Specifications:
+
+- **Frequency Range:**  
+  - 855-960 MHz (GSM)
+  - 1800-1990 MHz (3G/4G)
+
+- **Gain:**  
+  - 2.5 dBi
+
+- **VSWR (Voltage Standing Wave Ratio):**  
+  - 2:1
+
+- **Impedance:**  
+  - 50 Ω
+
+- **Max Power Rating:**  
+  - 10 W
+
+- **Operating Temperature Range:**  
+  - -45°C to +85°C
+
+- **Cable Type and Length:**  
+  - RG17, 4.3 m (customizable)
+
+- **Connector Type:**  
+  - FAKRA D female / SMA male (Nickel or other options available)
+
+- **Mounting Type:**  
+  - 3M Glue (adhesive/patch)
+
+- **Shell Material:**  
+  - ABS (Black)
+
+- **Moisture Sensitive Level (MSL):**  
+  - Not specified in the provided data.
+
+### Special Features or Notes:
+- The antenna is RoHS compliant, indicating it meets environmental standards for hazardous substances.
+- Customizable cable and connector options are available, allowing for flexibility in installation.
+
+### Typical Applications:
+The MG-505P-300-FAKRA antenna is typically used in:
+- Mobile communication systems (GSM, 3G, 4G)
+- Wireless data transmission applications
+- IoT devices requiring reliable wireless connectivity
+- Automotive applications where external antennas are needed for enhanced signal reception
+
+This antenna is ideal for scenarios where a compact, adhesive-mounted solution is required to ensure optimal performance in various environmental conditions.

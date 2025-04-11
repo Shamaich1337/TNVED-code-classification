@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 54-00151 production of TENSILITY INTERNATIONAL CORP from the text:  10.9  \n  9.8  \n10/30/2018 A\nUpdated overmold material\nPart number:\n5 4Size:\nScale: Sheet 1 of 2Revision:\nInitial release\nintermittent\nX.XX: 12/13/2018Description:\nweb\n2threaded, nut and washer, 105 °CA\n 0.1 mm X.X:     0.3 mmRoHS compliant\n1Function test: no open, no short circuit, no \n 0.05 mmDescription:Prepared:\nVerified:A1\n32:1  tensility.comNotes:\n54-00151Dimensions are in \nmillimeters.Tolerances: X:        tel   1.541.323.3228     800   877.670.7118\nfax  1.541.323.4202     \nConnector, dc jack, 5.5x2.1xL17.6 mm, panel mount, Date:  2.5    17.6 ±0.50  \n  2.5  \n  9.5    R1  ITEM NO. PART NUMBER DESCRIPTION QTY. COMPONENT NOTES\n1 50-00541 Connector, dc jack, 5.5x2.1x17.6 mm, molding style, spring contacts, nickel plated, 105° C 1\n2 24-00287 Overmold, dc jack, 13.5x14 mm, panel mount 1 Nylon 94V-0 , black\n3 56-00000 Hardware, nut, hex, 13x2.5 mm,  M11x1.0, brass, nickel plated 1\n4 56-00001 Hardware, washer, lock, 14x11. 1x1.1 mm, SPCC, nickel plated 1\nInstallation Details\nPanel thickness: 1.5 - 4.5Recommended panel cutout:\n3\n21\n4 M11 x 1.0\n  \n13.5    \n2.1    \n5.5  2.15  \n  1.6      13  \nRatings\n  Maximum Operating Voltage: 48 Vdc  Maximum Operating Current:  7.5 A Operating Temperature Range -25° to 105 °C, relative humidity of 85% or less\nTesting based on IEC 60512-5-2. Max current curve  generated with isolated test article  under controlled environmental condition s, \nand does not take into account external factors such as housi ngs,mating cables, or other circu itry. Operating current curve \n(derated by 20% of maximum values) accounts f or external factors, and manufacturing variation.\nPart number:\n5 4 2 1Sheet 2 of 2Size:\nScale:54-00151RoHS compliant\nFunction test: no open, no short circuit, no \nintermittentDate: Description: Revision:\n10/30/2018\nUpdated overmold material 12/13/2018 A1Initial release A\n2:1Dimensions are in \nmillimeters.Tolerances: X:        \n 0.3 mm\nX.X:     0.1 mm\nX.XX:  0.05 mmDescription:Prepared:\nVerified:\n3Notes:\ntel   1.541.323.3228     800   877.670.7118\nfax  1.541.323.4202     web  tensility.com\nConnector, dc jack, 5.5x2.1xL17.6 mm, panel mount, \nthreaded, nut and washer, 105 °CA\n\n'}]
+!==============================================================================!
+### Component Summary for TENSILITY INTERNATIONAL CORP Part Number 54-00151
+
+#### Key Specifications:
+- **Voltage Ratings**: Maximum Operating Voltage: 48 Vdc
+- **Current Ratings**: Maximum Operating Current: 7.5 A
+- **Power Consumption**: Not specified directly; however, the current rating indicates the maximum load it can handle.
+- **Operating Temperature Range**: -25°C to 105°C, with a relative humidity of 85% or less.
+- **Package Type**: Panel mount DC jack connector, dimensions 5.5 mm x 2.1 mm x 17.6 mm.
+- **Special Features or Notes**: 
+  - RoHS compliant
+  - Molding style with spring contacts
+  - Nickel plated for corrosion resistance
+  - Function test: no open, no short circuit, no intermittent
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The component is a **DC jack connector** designed for panel mounting. It features a threaded design with a nut and washer for secure installation. The connector is intended for use in various electronic applications where a reliable power connection is required. The dimensions of the connector are 5.5 mm (outer diameter) x 2.1 mm (inner diameter) x 17.6 mm (length).
+
+#### Typical Applications:
+The 54-00151 DC jack connector is typically used in:
+- **Power Management**: Connecting power supplies to devices, ensuring stable power delivery.
+- **Consumer Electronics**: Commonly found in laptops, chargers, and other portable devices.
+- **Industrial Equipment**: Used in machinery and equipment that require a robust power connection.
+- **Telecommunications**: Employed in devices that need reliable power sources for operation.
+
+This connector is suitable for applications that demand durability and reliability, especially in environments with varying temperatures and humidity levels.

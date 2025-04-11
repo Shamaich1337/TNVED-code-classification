@@ -1,0 +1,54 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HI 1060 production of SEAGNOL PHOTONICS CO., LTD from the text:Page 1 High Index / Bend Insensitive  \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Manufactured with Corning’s \npatented Outside Vapor \nDeposition (OVD) process, \nCorning®   HI 1060 Specialty \nFiber offers world-class \ndurability and reliability. When \nused as component pigtails, \nthis fiber allows for efficient \nfiber coupling within photonic \nproducts.  Applications: \nHI 1060 \n\uf0b7 Photonic products and fused fiber couplers \n\uf0b7 Component fiber for EDFAs, couplers, and other DWDM components \n\uf0b7 Laser diode pigtails \n\uf0b7 Gratings \nRC HI 1060  \n\uf0b7 Component fiber for EDFAs, couplers, and other DWDM components \n\uf0b7 Pigtails for pump lasers \n\uf0b7 Outstanding consistency and uniformity using Corning’s patented \nOutside Vapor Deposition (OVD) process \n\uf0b7 Dual acrylate coating system pr ovides excellent protection from \nmicrobend-induced attenuation and superior mechanical robustness \n\uf0b7 Excellent geometry control \n\uf0b7 High core index of refraction \n\uf0b7 Efficient coupling \n\uf0b7 High numerical aperture \n\uf0b7 RC HI 1060 offers 80 µm diam eter for miniature packaging \n \n \n Industry standard \nfor 980 pump \npigtails for high \nperformance \ncomponents and \nsmall footprint \nassemblies \nFeatures: \nHI 1060 HI 1060 Specialty Optical \nFiber\n \nMaximum Attenuation  (dB/km) 2.1 @ 980 nm \n1.5 @ 1060 nm \nCutoff Wavelength  (nm) 920 ± 50 \nMode-field Diameter (μm) 5.9 ± 0.3 @ 980 nm \n6.2 ± 0.3 @ 1060 nm \n \n*10 km lengths only available for HI 1060 \n \nPerformance Characterizations** \nNominal Delta (%) 0.48 \nNumerical Aperture 0.14 \nRefractive Index Value – Core 1.464 @ 651 nm \nDispersion  (ps/nm/km) -53 @ 980 nm \n-38 @ 1060 nm \nBendloss (@ 20 mm O.D.; 1150 nm)  (dB/turn) ≤ 0.01  \nCore Diameter  (μm) 5.3  \n** Values in this table are nominal or calculated values  HI 1060 \n Key Optical Specifications \nOperating Wavelength (nm) > 980  \nKey Geometric, Mechanical and Environmental Specifications \nCladding Outside Diameter  (μm) 125 ± 0.5  \nCoating Outside Diameter  (μm) 245 ± 10    \nCore-to-Cladding Offset  (μm) ≤ 0.3  \nStandard Lengths  500 m, 1 km, 2 km, 5 km, 10 km* \nProof Test  (kpsi) 100 or 200 \nOperating Temperature  (°C) -60 to 85 \n'}]
+!==============================================================================!
+### Component Summary: HI 1060 Specialty Optical Fiber
+
+**Manufacturer:** SEAGNOL PHOTONICS CO., LTD  
+**Product Code:** HI 1060
+
+#### Key Specifications:
+- **Maximum Attenuation:** 
+  - 2.1 dB/km @ 980 nm
+  - 1.5 dB/km @ 1060 nm
+- **Cutoff Wavelength:** 920 ± 50 nm
+- **Mode-field Diameter:** 
+  - 5.9 ± 0.3 μm @ 980 nm
+  - 6.2 ± 0.3 μm @ 1060 nm
+- **Nominal Delta:** 0.48%
+- **Numerical Aperture:** 0.14
+- **Refractive Index Value (Core):** 1.464 @ 651 nm
+- **Dispersion:** 
+  - -53 ps/nm/km @ 980 nm
+  - -38 ps/nm/km @ 1060 nm
+- **Bendloss (@ 20 mm O.D.; 1150 nm):** ≤ 0.01 dB/turn
+- **Core Diameter:** 5.3 μm
+- **Cladding Outside Diameter:** 125 ± 0.5 μm
+- **Coating Outside Diameter:** 245 ± 10 μm
+- **Core-to-Cladding Offset:** ≤ 0.3 μm
+- **Standard Lengths Available:** 500 m, 1 km, 2 km, 5 km, 10 km (10 km lengths only available for HI 1060)
+- **Proof Test:** 100 or 200 kpsi
+- **Operating Temperature Range:** -60 to 85 °C
+
+#### Package Type:
+- Not specified in the provided text, but typically optical fibers are packaged in reels or spools.
+
+#### Special Features:
+- Manufactured using Corning’s patented Outside Vapor Deposition (OVD) process, ensuring high durability and reliability.
+- Dual acrylate coating system provides excellent protection from microbend-induced attenuation and superior mechanical robustness.
+- High core index of refraction and efficient coupling capabilities.
+- Excellent geometry control and outstanding consistency.
+
+#### Moisture Sensitive Level:
+- Not specified in the provided text.
+
+### Description:
+The HI 1060 is a high-index, bend-insensitive specialty optical fiber designed for use in photonic applications. Its primary function is to facilitate efficient light transmission in various optical systems, particularly in environments where space is limited and performance is critical.
+
+### Typical Applications:
+- **Photonic Products:** Used as component pigtails for efficient fiber coupling within photonic devices.
+- **Fused Fiber Couplers:** Integral in the construction of couplers for optical signals.
+- **EDFA (Erbium-Doped Fiber Amplifiers):** Serves as component fiber for EDFAs, enhancing signal strength in fiber optic communications.
+- **DWDM Components:** Utilized in dense wavelength division multiplexing systems for high-capacity data transmission.
+- **Laser Diode Pigtails:** Acts as pigtails for pump lasers, ensuring effective light delivery.
+- **Gratings:** Employed in optical gratings for various signal processing applications.
+
+This optical fiber is particularly noted for its high performance in miniature packaging, making it an industry standard for 980 nm pump pigtails in high-performance components and small footprint assemblies.

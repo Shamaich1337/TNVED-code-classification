@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FM16 production of YANGZHOU YANGJIE ELECTRONIC from the text: FM16\xa0\n\xa0\n 1 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S4165                        \nRev. 1.0, 20-Nov-21 www.21yangjie.com\nSurface Mount Schottky Rectifier \n \n \n                   Features     \n●Low profile package ● Ideal for autom ated placement \n● Guardring for overvoltage protection ● Low power losses, high efficiency ● High forward surge capability ● Meets MSL level 1, per J-STD-020, LF maximum peak  \n of 260 °C \n \n                                     Typical Applications \nFor use in low voltage high frequency inverters,  \nfreewheeling, DC/DC converters , and polarity protection  \napplications. \n \n  Mechanical Date \n● Package : SOD-323FL \nMolding compound meets UL 94 V-0 flammability \nrating, RoHS-compliant, halogen-free \n● Terminals : Tin plated leads, solderable  per  \n J-STD-002 and JESD22-B102 \n● Polarity: Cathode line denotes  the cathode end \u3000 \n \n■Maximum Ratings  (Tj=25℃ Unless otherwise specified ） \n \nPARAMETER SYMBOL UNIT FM16 \nDevice marking code   FM16 \nRepetitive peak reverse voltage  VRRM  V 60 \nAverage rectified output current  \n@60Hz sine wave, Resistance load, T C (FIG.1) IO A 1.0 \nSurge(non-repetitive)forward current  \n@ 60Hz half-sine wave,1 cycle, Tj=25 ℃ \nIFSM  A 25 \nForward Surge Current (Non-repetitive) \n@1ms, square wave, 1 cycle, Tj=25 ℃ 50 \nCurrent squared time \n@1ms≤t≤8.3ms Tj =25 ℃，Rating of per diode I2t A2S 2.60 \nTypical junction capacitance \n@Measured at 1MHz and Applied Reverse Voltage of 4.0 V.D.C Cj pF 40 \nStorage temperature Tstg ℃ -55 ~+150 \nJunction temperature Tj ℃ -55 ~+150 \n \n \n COMPLIANT RoHS  \n\n FM16\xa0\n\xa0\n 2 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S4165                        \nRev. 1.0, 20-Nov-21 www.21yangjie.com\n■Electrical Characteristics （Tj=25℃ Unless otherwise specified ） \n \nPARAMETER SYMBOL UNIT TEST CONDITIONS Min Typ Max \nPeak Forward Voltage V FM V  IFM=1.0A \nTj=25℃ - 0.60 0.70 \nIFM=1.0A \nTj=125℃ - - 0.65 \nMaximum DC reverse current  \nat rated DC blocking voltage \nper diode IRRM1 \nmA VRM=VRRM \nTj=25℃ - - 0.20 \nIRRM2 VRM=VRRM \nTj=125℃ - -                 30 \n \n \n■Thermal Characteristics （Tj=25℃ Unless otherwise specified ） \n \nPARAMETER SYMBOL UNIT FM16 \nThermal Resistance RθJ-A \n℃/W 901) \nRθJ-c 461) \nNote： \n(1) Thermal resistance between junction and ambient and between  junction and lead mounted on P.C.B with 3mm*3mm  copper pad areas . \n \n  \n■ Characteristics (Typical)  \n \n \n \n \n     \n \n     \n \n     \n \n     \n \n000.2FIG1:Io-T C Curve\n50 100 1500.40.60.81.01.2Average Forward Output （A）\nCase Temperature （℃）\nPeak\xa0Forward\xa0Surge\xa0Current(A)\nNumber\xa0of\xa0Cycles     FIG2：Surge\xa0Forward\xa0Current\xa0Capability\n8.3ms Single Half Sine Wave\n1 10 100030\n510152025\n FM16\xa0\n\xa0\n 3 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S4165                        \nRev. 1.0, 20-Nov-21 www.21yangjie.com\n \n  \n \n     \n \n     \n \n      \n \n   \n■ Outline Dimensions  \n \n \nSOD-323FL \nDim Min Max \nA 1.05 1.45 \nB 0.90 1.15 \nC 2.30 2.70 \nD 0.80 1.20 \nE 0.25 0.70 \nF 0.05 0.25 \n \n \n \n  \n \n  \n \n \n         Dimensions in millimetersSOD-323FL\nD\nE\nFCBAInstantaneous Forward Current(A)FIG.3: Typical Forward Characteristics\n0.01\nInstantaneous Forward Voltage (V)0.40.11.010100\n0.6 0.8 1.0 1.2 1.4 0.2 0Tj=25℃\nTj=125℃ FIG4：Typical\xa0Reverse\xa0Characteristics\nPercent\xa0of\xa0Rated\xa0Peak\xa0Reverse\xa0Voltage(%)Instantaneous\xa0Re verse\xa0Current(mA)\n0 20 40 60 80 1000.001Tj=25℃100\n10\n1.0\n0.1\n0.01\nTj=125℃\n FM16\xa0\n\xa0\n 4 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S4165                        \nRev. 1.0, 20-Nov-21 www.21yangjie.com\n■ Suggested pad layout \n \n \nSOD-323FL \nDim Millimeters \nP1 1.30 \nQ1\xa0 1.00 \nQ2\xa0 1.50 \n \n \n  \n \n   \n \n \n \n \n  \n \n  \n \n  \n \n  \n \n \nDisclaimer \n \nThe information presented in this  document is for reference onl y. Yangzhou Yangjie Electronic Technology Co., Ltd. reserves th e \nright to make changes without not ice for the specification of t he products displayed herein to improve reliability, function o r design \nor otherwise.     The product listed herein is designed to be used with ordinary electronic equipment or devices, and not designed to be used wi th \nequipment or devices which require high level of reliability an d the malfunction of with woul d directly endanger human life (s uch as \nmedical instruments, transportat ion equipment, aerospace machin ery, nuclear-reactor controller s, fuel controller s and other sa fety \ndevices), Yangjie or anyone on its behalf, assumes no responsib ility or liability for any damages resulting from such improper  use \nof sale.    This publication supersedes & r eplaces all information previous ly supplied. For additional information, please visit our websi te \nhttp:// www.21yangjie.com  , or consult your nearest Yangjie’s sales office for further a ssistance. \n \n Dimensions in millimetersP1\nQ2 Q1\n'}]
+!==============================================================================!
+### Component Summary: FM16 Schottky Rectifier
+
+**Manufacturer:** Yangzhou Yangjie Electronic Technology Co., Ltd.  
+**Product Code:** FM16  
+**Type:** Surface Mount Schottky Rectifier  
+**Package Type:** SOD-323FL  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Repetitive Peak Reverse Voltage (VRRM): 60 V
+- **Current Ratings:**
+  - Average Rectified Output Current (IO): 1.0 A
+  - Surge (Non-repetitive) Forward Current (IFSM): 25 A
+  - Forward Surge Current (Non-repetitive): 50 A (1 ms, square wave)
+- **Power Consumption:**
+  - Forward Voltage Drop (VFM): 
+    - 0.60 V (at IFM = 1.0 A, Tj = 25°C)
+    - 0.65 V (at IFM = 1.0 A, Tj = 125°C)
+- **Operating Temperature Range:**
+  - Storage Temperature (Tstg): -55°C to +150°C
+  - Junction Temperature (Tj): -55°C to +150°C
+- **Thermal Resistance:**
+  - RθJ-A: 90 °C/W
+  - RθJ-C: 46 °C/W
+- **Moisture Sensitive Level (MSL):**
+  - MSL Level 1, per J-STD-020, LF maximum peak of 260 °C
+- **Special Features:**
+  - Low profile package ideal for automated placement
+  - Guardring for overvoltage protection
+  - Low power losses and high efficiency
+  - High forward surge capability
+  - RoHS-compliant and halogen-free
+
+#### Description:
+The FM16 is a surface mount Schottky rectifier designed for low voltage and high-frequency applications. Schottky rectifiers are known for their low forward voltage drop and fast switching capabilities, making them ideal for applications where efficiency is critical.
+
+#### Typical Applications:
+- Low voltage high-frequency inverters
+- Freewheeling applications
+- DC/DC converters
+- Polarity protection circuits
+
+This component is particularly useful in power management systems, where it can help improve efficiency and reduce heat generation in electronic devices. Its robust surge current handling makes it suitable for applications that experience transient conditions.

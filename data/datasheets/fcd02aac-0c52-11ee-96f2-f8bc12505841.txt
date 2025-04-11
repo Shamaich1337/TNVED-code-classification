@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HSG-037-S101-00Z production of E-TEC from the text:HS  Series - D-Sub  Hoods  \n \n \nmetal  hood   \nmaterials  RoHS compiant  \nhood: zinc alloy Nickel plated \nscrew: steel  \nPlease ask for detail drawing each type. \n Dimension D-Sub   \n A B C  D contacts  \n 24.99 31.00 47.00 7.00 009 / 015 (HD)   \n 33.32 40.00 48.20 10.00 015 / 026 (HD)  \n 47.04 53.30 48.70 14.00 025 / 044 (HD)  \n 63.50 69.00 48.60 14.00 037 / 062 (HD)   \n 61.11 67.00 48.30 14.00 050 / 078 (HD)   \n \nOrdering Code  \n \n HSM - xxx - S xxx - xx Z \n \n \n Size Code   screw type   cable exit   \n  009 = 9-pole Std. / 15-pole HD \n 015 = 15-pole Std. / 26-pole HD \n 025 = 25-pole Std. / 44-pole HD \n 037 = 37-pole Std. / 62-pole HD \n 050 = 50-pole Std. / 78-pole HD   \n101  =  cross cut screw \n not available for 90° cable exit \n102  =  thumbscrew \n \n \nothers on request    00  =  straight \n 90  =  90°   \nwith Rubber grommet:  \n 0R  =  straight \n 9R  =  90°  \n90° cable exit only for size code  \n009/H15  015/H26   025/H44   \n   \nplastic  hood \nmaterials  RoHS compiant  \nhood: PBT  UL 94-V0 \nscrew: steel  \nPlease ask for detail drawing each type.  \n Dimension D-Sub   \n A B C  D contacts  \n 24.99 30.80 40.50 7.00 009 / 015 (HD)   \n 33.32 39.70 38.80 9.70 015 / 026 (HD)  \n 47.04 55.00 44.50 14.00 025 / 044 (HD)  \n 63.50 69.00 52.50 14.00 037 / 062 (HD)   \n 61.11 67.00 48.30 14.00 050 / 078 (HD)   \n  \nOrdering Code  \n \n HS X - xxx - S xxx - xx Z \n \n \n \n colour / type   Size Code  screw type   cable exit  \n  B  =  black  \n G  =  grey   C  =  chromated \n \nothers on request    009 = 9-pole Std. / 15-pole HD \n 015 = 15-pole Std. / 26-pole HD \n 025 = 25-pole Std. / 44-pole HD \n 037 = 37-pole Std. / 62-pole HD \n 050 = 50-pole Std. / 78-pole HD   101  =  cross cut screw \n not available for 45° cable exit \n102  =  thumbscrew \n \nothers on request    00  = straight \n 45  =  45° \n  \n \n71 \n'}]
+!==============================================================================!
+### Component Summary: HSG-037-S101-00Z
+
+**Component Type:** D-Sub Hood (Metal)
+
+**Key Specifications:**
+- **Material:** 
+  - Hood: Zinc Alloy, Nickel Plated (RoHS compliant)
+  - Screw: Steel
+- **Dimensions:**
+  - A: 63.50 mm
+  - B: 69.00 mm
+  - C: 48.60 mm
+  - D: 14.00 mm
+- **Contact Size:** 37-pole Standard / 62-pole High Density (HD)
+- **Screw Type:** Cross cut screw (not available for 90° cable exit)
+- **Cable Exit:** Straight (00)
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+**Description:**
+The HSG-037-S101-00Z is a metal D-Sub hood designed to provide a protective enclosure for D-sub connectors. It is constructed from a zinc alloy with a nickel plating, ensuring durability and resistance to corrosion. The hood is RoHS compliant, indicating that it meets environmental standards regarding hazardous substances.
+
+**Typical Applications:**
+D-Sub hoods are commonly used in various electronic and electrical applications where secure and reliable connections are required. Typical applications include:
+- **Industrial Automation:** Connecting sensors and actuators in control systems.
+- **Telecommunications:** Providing connections in communication equipment.
+- **Data Acquisition Systems:** Ensuring stable connections for data transfer.
+- **Computer Interfaces:** Used in legacy and modern computer systems for peripheral connections.
+
+The HSG-037-S101-00Z is particularly suited for environments where robust mechanical protection is necessary, making it ideal for industrial and outdoor applications.

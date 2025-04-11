@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TEM-F-405-30mW production of CNI OPTOELECTRONICS from the text: \nWebsite: http://www.cnilaser.com   E -mail: sales@cnilaser.com    Tel: +86 -431-85603799   Fax: +86 -431-87020258   TEM -F-405/1~30mW（TEM 00） \n \n \n \n \n \n \n \n     \n                                                                                           \n \n \n \n \n \n \n \n \n \n \n \n \n VIOLET DIODE LASER  \nAT 405nm  \n \nIt features  TEM 00 mode, ultra \ncompact design, long lifetime, \ncost-effectiveness  and easy operation. \nThey are  used in measurement,  \ncommunicatio n, spectrum analysis , etc. \n SPECIFICATION S \nCentral w avelength (nm)  405±5 \nOperating mode  CW \nOutput power (mW)  >1,2,3……, 30 \nPower stability (rms, over 4 hours)  25℃ <1%, < 2%, <3% \nTransverse mode  TEM 00 \nEllipticity  >0.95 \nM2 factor  <1.1 \nBeam diameter at the aperture (1/e2,mm)  ~1.0 \nBeam divergence, full angle (mrad)  <1.5 \nWarm -up time (minutes)  <5 \nBeam height from base plate (mm)  25 \nOperating temperature ( ℃) 25+/-3 \nPower supply (85 -264V AC)  PSU-III-LED  PSU-III-FDA  \nTTL / Analog modulation  TTL or Analog with 1Hz -1kHz 1 kHz-10kHz, 10 kHz-30kHz optional  \nExpected lifetime (hours)  10000  \nWarranty  1 year  \nNote: The laser head needs to be used on a heat sink with good heat dissipation . \nTEM -F-405 PSU-III-LED PSU-III-FDA \n \n146 (L)  ×58(W)  ×45 (H) mm3, 0.7kg \n \n188.6 (L) ×155(W)  ×92 (H) mm3, 1.5kg \n \n171(L) ×130(W)  ×62.2 (H) mm3, 1.2kg \n \n\n'}]
+!==============================================================================!
+### Component Summary: TEM-F-405-30mW
+
+**Description:**
+The TEM-F-405-30mW is a violet diode laser operating at a central wavelength of 405 nm. It features a transverse electromagnetic mode (TEM 00), which is known for producing a Gaussian beam profile. This laser is designed for continuous wave (CW) operation and is characterized by its compact design, long operational lifetime, and cost-effectiveness. 
+
+**Key Specifications:**
+- **Central Wavelength:** 405 ± 5 nm
+- **Operating Mode:** Continuous Wave (CW)
+- **Output Power:** Ranges from >1 mW to 30 mW
+- **Power Stability (rms, over 4 hours at 25°C):** 
+  - <1% for 1 mW
+  - <2% for 2 mW
+  - <3% for 3 mW
+- **Transverse Mode:** TEM 00
+- **Ellipticity:** >0.95
+- **M² Factor:** <1.1
+- **Beam Diameter at Aperture (1/e²):** ~1.0 mm
+- **Beam Divergence (full angle):** <1.5 mrad
+- **Warm-up Time:** <5 minutes
+- **Beam Height from Base Plate:** 25 mm
+- **Operating Temperature Range:** 25 ± 3 °C
+- **Power Supply:** 85 - 264V AC (PSU-III-LED, PSU-III-FDA)
+- **TTL/Analog Modulation:** 
+  - TTL or Analog with frequency options of 1 Hz - 1 kHz, 1 kHz - 10 kHz, and 10 kHz - 30 kHz
+- **Expected Lifetime:** 10,000 hours
+- **Warranty:** 1 year
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided data.
+
+**Package Type:**
+- Dimensions: 146 mm (L) × 58 mm (W) × 45 mm (H), Weight: 0.7 kg
+- Additional PSU dimensions: 
+  - PSU-III-LED: 188.6 mm (L) × 155 mm (W) × 92 mm (H), Weight: 1.5 kg
+  - PSU-III-FDA: 171 mm (L) × 130 mm (W) × 62.2 mm (H), Weight: 1.2 kg
+
+**Typical Applications:**
+The TEM-F-405-30mW violet diode laser is utilized in various applications, including:
+- **Measurement:** Precision measurement tasks that require accurate wavelength output.
+- **Communication:** Optical communication systems where wavelength-specific lasers are essential.
+- **Spectrum Analysis:** Used in spectrometers for analyzing materials and substances based on their spectral properties.
+
+**Special Notes:**
+- The laser head must be mounted on a heat sink with good heat dissipation to ensure optimal performance and longevity. 
+
+This summary provides a comprehensive overview of the TEM-F-405-30mW laser, highlighting its specifications and typical applications in various fields.

@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of HPFWDM-1550/980-01-2-B-20-NE production of SEAGNOL PHOTONICS CO., LTD from the text:       www.seagnol.com\nApplication:\nSpecification:\nSymbol Unit\nP1064 R1550 nm\nλ 1064 (1020-1080) nm\nλ 1550 (1520-1600) nm\nIL dB\nIL dB\nIso dB\nIso dB\ndB\nPDL dB\nPMD ps\ndB\nRL dB\nP W\nN\n-\nT ℃\nT ℃\nmm\nNotice: Above specifications are tested at center wavelength without connector in room temperature @23 ℃.\n             For devices with connectors, IL will be 0.3dB higher, RL will be 5dB lower. connectors only 1W CW optical power guarantee. \nDrawing:\nOrdering Information (Part Number):\n WWW/WWWW  HH  D  J  CC\n Wavelength Handling\n Power Package Dimension  Fiber Jacket  Connector\n 1064/1550  - 1064nm Pass,  01 - 1W  1 - Φ5.5×L35mm  B - 250um Bare Fiber  NE - None\n                   1550nm Reflect  02 - 2W  2 - 90x20x10mm  9 - 900um Loose Tube  FA - FC/APC\n 1550/1064  - 1550nm Pass,  03 - 3W  S - Specify  2 - 2.0mm Loose Tube  FU - FC/UPC\n                   1064nm Reflect  05 - 5W  3 - 3.0mm Loose Tube  SA - SC/APC\n SS - Specify  SU - SU/APC\n LA - LC/APC\n LU - LC/UPC\n SS - Specify\nsales@seagnol.com Page 1 of 1Reflect Band\nMax. Insertion Loss Temperature Sensitivity 0.5\nMax. Polarization Dependent LossMax. Insertion Loss @Reflect ChannelMax. Insertion Loss @Pass Channel\n0.11064 (1020-1080)\n130.8\n250.6\n Fiber Length1, 2, 3, 5 or specifyMin. Return Loss 5055 Min. Directivity\nMax. Optical Power (CW)\nSMF-28e or HI 1060 fiber on Pass Port\nHI 1060 or SMF-28e on Common & Reflect Port\nΦ5.5×L35\n HPFWDM- WWW/WWWW-HH-D-J-LL-CC\n LL\n 05 - 0.5mMax. Polarization Mode Dispersion 0.1\n 10 - 1.0mHigh Power 1064/1550nm 1x2 Filter WDM\n      High Power 1064/1550nm Wavelength Division Mulitplexer is a fiber component built with thin-film filter technology,\nit can be used to sepreate or combine 1064nm and 1550nm wavelength signal, it's widely used in Fiber Laser Systems\nand Fiber Amplifier Systems, the handling power can be customized.\nParameter\nPass Band\nMin. Isolation @Reflect ChannelType\nMin. Isolation @Pass ChannelFiber Laser\nEDFA\nOptical Diffraction System\nLab And Research\nP1550 R1064\n1550 (1520-1600)ValueHigh Power\nHigh Isolation\nLow Insertion Loss\nOptical Path ReversibilityFeatures:\nOperating Temperature\nStorage Temperature\nPackage DimensionMax. Tensil Load 5\nFiber Type\n-5~75\n-40~85\n 15 - 1.5m\n 20 - 2.0m\n SS - Specify\n5.5mm\nPassCommon\n35mm Reflect\n"}]
+!==============================================================================!
+### Component Summary: HPFWDM-1550/980-01-2-B-20-NE
+
+**Manufacturer:** SEAGNOL PHOTONICS CO., LTD  
+**Product Code:** HPFWDM-1550/980-01-2-B-20-NE
+
+#### Key Specifications:
+- **Wavelength Handling:**
+  - Pass: 1064 nm (range: 1020-1080 nm)
+  - Reflect: 1550 nm (range: 1520-1600 nm)
+- **Max Insertion Loss (IL):**
+  - Pass Channel: 0.1 dB
+  - Reflect Channel: 0.5 dB
+- **Isolation (Iso):**
+  - Min Isolation @ Reflect Channel: 130.8 dB
+  - Min Isolation @ Pass Channel: 250.6 dB
+- **Polarization Dependent Loss (PDL):** 0.1 dB
+- **Polarization Mode Dispersion (PMD):** 0.5 ps
+- **Return Loss (RL):** Min 55 dB
+- **Max Optical Power (CW):** Up to 5 W (depending on configuration)
+- **Operating Temperature Range:** -5 to 75 °C
+- **Storage Temperature Range:** -40 to 85 °C
+- **Package Type:** Φ5.5 × L35 mm
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+#### Description:
+The HPFWDM-1550/980-01-2-B-20-NE is a high-power wavelength division multiplexer (WDM) designed for fiber optic applications. It utilizes thin-film filter technology to separate or combine optical signals at 1064 nm and 1550 nm wavelengths. This component is particularly suited for high-power applications, such as fiber laser systems and fiber amplifier systems, where efficient signal management is crucial.
+
+#### Typical Applications:
+- **Fiber Laser Systems:** Used to combine or separate laser signals for enhanced performance and efficiency.
+- **Fiber Amplifier Systems:** Facilitates the amplification of specific wavelengths while minimizing loss and interference.
+- **Optical Diffraction Systems:** Helps in managing multiple wavelengths in complex optical setups.
+- **Laboratory and Research Applications:** Ideal for experimental setups requiring precise control over optical signals.
+
+This component is essential for applications that demand high isolation, low insertion loss, and the ability to handle significant optical power, making it a valuable asset in advanced fiber optic systems.

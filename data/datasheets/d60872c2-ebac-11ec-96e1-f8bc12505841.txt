@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ER34615-MG11 production of HCB BATTERY CO., LTD from the text:Primary Lithium Battery\nER34615We Power Your Technology\nP .O.：430040    \nTel：+86(0)27 83248452\nFax：+86(0)27 83248455Email：haocheng@cnhcb.comWeb：www.cnhcb.com\nNo.:  HCB-MKT.PM-S[V1.0  2017 02] \n \nBeneﬁts\n°\x01\x01\x01\x01High and Stable Voltage\n°\x01\x01\x01\x01Energy Density up to 590Wh/kg\n°\x01\x01\x01\x01Long Shelf Life (less than 1% per year after 1 \nyear of storage at +25¥)\n°\x01\x01\x01\x01Wide Operating Temperature (-55℃ ~+85℃ )\nKey Features\n°\x01\x01\x01\x01Stainless Steel Container\n°\x01\x01\x01\x01Glass to Metal Hermetic Sealing\n°\x01\x01\x01\x01Non-flammable Electrolyte\n°\x01\x01\x01\x01CE\r\x01UL(MH10060) and UN38.3 Certified\nMain Applications\n°\x01\x01\x01\x01Security System\n°\x01\x01\x01\x01Smart Metering\n°\x01\x01\x01\x01RFID / IoT System\n°\x01\x01\x01\x01Wireless Transmitting\n°\x01\x01\x01\x01Smart Home Devices\n°\x01\x01\x01\x01Military Devices3.6V Lithium-thionyl chloride[Li-SOCl 2] \nD-size bobbin cell\nElectrical Characteristics\nOpen circuit voltage (at 25°C)                       ≥3.65V\nNominal capacity                                     \n(At +25°C, battery discharged at continuous current 2mA until \nvoltage reaches cut-off voltage 2.0V. The capacity can vary at \ndifferent temperature, discharge current or cut-off voltage.)\nStorage (recommended)                                 ≤30°C\n(For more severe conditions, consult HCB.)           ≤75%RH\nOperating temperature range              -55°C~+85°CMaximum pulse discharge current               400mA\n(400 mA/0.1 second pulses, drained every 2 minutes at +25°C \nfrom undischarged the new cell with 10 uA base current, yield \nvoltage reading above 3.0V. The readings may vary according to \nthe pulse characteristics, the temperature, and the’s previous \nhistory. Fitting the cell with a capacitor may be recommended in \nsevere conditions. Consult HCB.) \n(Operation above ambient temperature may lead to reduced \ncapacity and lower voltage readings at the beginning of pulses. \nConsult HCB\x0f)Maximum continuous current                       \n(New cell*, at +25°C, 2.0V cut-off, battery discharged for \nminimum 50% of nominal capacity.)19000mAh\n250mA\nHCB BATTERY CO., LTD\nAdd：Special No 1. Taizhong Avenue, Gaoqiao lndustrial Park, \nWujiashan Economic Development Zone, Wuhan, P .R.China\nNew cell*:\nRefer to the cells that are stored within two months \nat no higher than +25°C.\n°\x01\x01\x01\x01Do not short circuit\n°\x01\x01\x01\x01Do not recharge\n°\x01\x01\x01\x01Do not puncture\n°\x01\x01\x01\x01Do not crush°\x01\x01\x01\x01Do not dismantle\n°\x01\x01\x01\x01Do not incinerate\n°\x01\x01\x01\x01Do not mix new and used batteries\n°\x01\x01\x01\x01Do not heat above 100°cWARNING: Dimensions in mmPhysical CharacteristicsPrimary Lithium Battery\nER34615\n3.6V Lithium-thionyl chloride[Li-SOCl 2] \nD-size bobbin cell\nDiameter (max)                                          34.2mm\nHeight(max)                                               61.5mm\nTypical weight                                             105.0g\nLithium metal content                                     5.2g\n                                                  MSDS as per request\n                                             Diode (1N4007, 1N5819)\n                                                               PTC (SRS175...)\n                          Tag, wire, connector, etc. available\n                                                                                \nTemperature ：25℃ Discharge current ：2mA\nStored for 225 days at 60 ℃ \n（Equivalent to storage at \n25℃ for 10 years ）Initial\n10 100 10002.53.03.54.0\n2.0\n1 10000 100000Voltage (V)\nTime (h)1. Typical discharge profiles at 25 °C\n              (at  the mid-discharge)\n2. Voltage plateau versus Current and Temperature\n                          (at the mid-discharge) \n3. Storage characteristics \nP .O.：430040    \nTel：+86 (0) 27 83248452\nFax：+86 (0) 27 83248455Email：haocheng@cnhcb.comWeb：www.cnhcb.com\nVersion No.:  HCB-MKT. PM-S[V1.0  2017 02]vzvzvHCB BATTERY CO., LTD\nAdd：Special No 1. Taizhong Avenue, Gaoqiao lndustrial Park, Wujiashan Economic Development Zone, Wuhan, P .R.China❃\nMax61.5\nMaxΦ34.2Φ4.2\x0c\nVoltage (V)\nTime (h)1 10 100 1000 10000110Ω\n32mA\n(14.8Ah)1.78KΩ\n2.0mA\n(19Ah)33Ω\n100mA\n(12.7Ah)9.1KΩ\n400µA\n(16.3Ah)\n1000001.01.52.02.53.03.54.0Voltage (V)\nTemperature (oC)250mA100mA32mA2.0mA\n-60 -40 -20 0 202.73.0\n40 602.13.3\n803.6\n2.4\n'}]
+!==============================================================================!
+### Component Summary: ER34615-MG11 (Primary Lithium Battery)
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Open Circuit Voltage (at 25°C): ≥ 3.65V
+  - Nominal Voltage: 3.6V
+
+- **Current Ratings:**
+  - Maximum Continuous Current: 250mA
+  - Maximum Pulse Discharge Current: 400mA (for 0.1 second pulses)
+
+- **Power Consumption:**
+  - Nominal Capacity: 19,000mAh (at +25°C, discharged at 2mA until 2.0V cut-off)
+
+- **Operating Temperature Range:**
+  - -55°C to +85°C
+
+- **Package Type:**
+  - D-size bobbin cell
+
+- **Special Features or Notes:**
+  - Stainless Steel Container
+  - Glass to Metal Hermetic Sealing
+  - Non-flammable Electrolyte
+  - CE, UL (MH10060), and UN38.3 Certified
+  - Long shelf life (less than 1% capacity loss per year at +25°C)
+  - Recommended storage conditions: ≤30°C and ≤75% RH
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+**Description:**
+The ER34615-MG11 is a primary lithium battery utilizing lithium-thionyl chloride (Li-SOCl2) chemistry. It is designed as a D-size bobbin cell, providing a high and stable voltage output suitable for various applications. The battery is hermetically sealed to ensure safety and longevity, making it ideal for use in environments where reliability is critical.
+
+**Typical Applications:**
+The ER34615-MG11 is commonly used in:
+- Security Systems
+- Smart Metering
+- RFID and IoT Systems
+- Wireless Transmitting Devices
+- Smart Home Devices
+- Military Equipment
+
+This battery is particularly advantageous in applications requiring long shelf life and stable performance over a wide temperature range, making it suitable for both consumer and industrial uses.

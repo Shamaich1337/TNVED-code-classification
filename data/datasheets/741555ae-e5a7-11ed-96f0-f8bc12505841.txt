@@ -1,0 +1,51 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FPMC-1550-2-1-P-1-G-0-2-2-2 production of LIGHTSTAR TECHNOLOGY LIMITED from the text:·\nFusedPMCoupler(FPMCCAT0617REV01\nSpecifications：\nParameter GradeP GradeA\nOperatingwavelength(nm) 532,635,780,850,980,1030,1064,1310,1550,1650,1940\nOperatingBandwidth(nm) ±15nm\n50/50 ≤3.6 ≤3.8\n40/60 ≤5.2/3.1 ≤5.4/3.3\n30/70 ≤5.8/2.0 ≤6.1/2.1\n20/80 ≤8/1.5 ≤8.2/1.7\n10/90 ≤11.6/1.2 ≤11.8/1.4\nInsertion\nloss(dB)5/95 ≤14.8/0.8 ≤15/1.0\n1/99--≤22/0.35\n0.1/99.9--≤30-28/0.3\nCouplerRatio＞10% 20 18\nER(dB)10%≤CouplerRatio\n≥5%18 16\nCouplerRatio＜5% 16 14\n1、Thespecificationsarewithoutconnector.Fordeviceswithconnectors,0.3dBhigherforIL,and2dBlowerforER.\n*PackageInformation\nConfiguration 1x2or2x2\nFiberlength 0.8m,othersonrequest\nFiberType PandaFiber\nPigtailtype 250μmbarefiber900μmloosetube900μm/2mm/3mmloosetube\nDimensions(φ×L)(mm)φ3.0×L54\nφ3.0×L40\nφ3.0×L35φ3.0×L60\nφ3.0×L7090x20x9.5\n\nOrderingInformation\nFP\nMCWaveleng\nthPort\nTypeCoupling\nRatioGradePackageFibertype0PigtailTypeLengthConnector\n31=13101=11=1/99P=P1=φ3.0×L5\n4\n4=φ3.0×L4\n0\nG=φ3.0×L\n70\nA=90x20\nx9.51=PM\nFiber01=250umbare\nfiber\n2=900umloose\ntube\n3=3mmloose\ntube\n4=2mmloose\ntubeH=0.5m0=None\n55=1550x22=2/98grade 8=0.8m1=FC/UPC\n98=980\n64=1064\n85=850\n78=780\n63=6332=2\nx2\n…..3=3/97\n5=5/95\nA=10/90\nB=20/80\nC=30/70A=A\ngrade1=1m\nS=Other2=FC/APC\n3=SC/APC\n4=SC/UPC\n6=LC/PC\n7=LC/APC\n53=532 D=40/60\nE=50/50\nSS=Othe I=0.1/99.\nr 9\nS=Other\n'}]
+!==============================================================================!
+### Component Summary for FPMC-1550-2-1-P-1-G-0-2-2-2
+
+**Component Type:** Fused PM Coupler
+
+**Manufacturer:** LIGHTSTAR TECHNOLOGY LIMITED
+
+#### Key Specifications:
+- **Operating Wavelengths:** 
+  - 532 nm, 635 nm, 780 nm, 850 nm, 980 nm, 1030 nm, 1064 nm, 1310 nm, 1550 nm, 1650 nm, 1940 nm
+- **Operating Bandwidth:** ±15 nm
+- **Insertion Loss (IL):**
+  - 50/50: ≤3.6 dB (Grade P), ≤3.8 dB (Grade A)
+  - 40/60: ≤5.2/3.1 dB (Grade P), ≤5.4/3.3 dB (Grade A)
+  - 30/70: ≤5.8/2.0 dB (Grade P), ≤6.1/2.1 dB (Grade A)
+  - 20/80: ≤8/1.5 dB (Grade P), ≤8.2/1.7 dB (Grade A)
+  - 10/90: ≤11.6/1.2 dB (Grade P), ≤11.8/1.4 dB (Grade A)
+  - 5/95: ≤14.8/0.8 dB (Grade P), ≤15/1.0 dB (Grade A)
+  - 1/99: ≤22/0.35 dB (Grade P)
+  - 0.1/99.9: ≤30-28/0.3 dB (Grade P)
+- **Coupler Ratio:** 
+  - >10%: 20 (Grade P), 18 (Grade A)
+  - ≤10%: 16 (Grade P), 14 (Grade A)
+- **Extinction Ratio (ER):** 
+  - 10% ≤ Coupler Ratio: ≥5%: 18 (Grade P), 16 (Grade A)
+- **Configuration:** 1x2 or 2x2
+- **Fiber Length:** 0.8 m (standard), other lengths available upon request
+- **Fiber Type:** Panda Fiber
+- **Pigtail Type:** 
+  - 250 μm bare fiber
+  - 900 μm loose tube
+  - 2 mm / 3 mm loose tube
+- **Dimensions:** 
+  - φ3.0 × L54 mm
+  - φ3.0 × L40 mm
+  - φ3.0 × L35 mm
+  - φ3.0 × L60 mm
+  - φ3.0 × L70 mm
+  - 90 × 20 × 9.5 mm
+
+#### Description:
+The FPMC-1550-2-1-P-1-G-0-2-2-2 is a Fused PM Coupler designed for optical fiber applications. It is used to split or combine optical signals in fiber optic networks. The coupler is characterized by its low insertion loss and high extinction ratio, making it suitable for high-performance optical systems.
+
+#### Typical Applications:
+- **Optical Communication Systems:** Used in fiber optic networks for signal splitting and combining.
+- **Telecommunications:** Essential for managing signal paths in telecom infrastructure.
+- **Data Transmission:** Facilitates efficient data transfer in high-speed networks.
+- **Research and Development:** Utilized in laboratory settings for experiments involving light and fiber optics.
+
+This coupler is particularly useful in applications requiring precise control over optical signal distribution, such as in telecommunications and advanced optical systems.

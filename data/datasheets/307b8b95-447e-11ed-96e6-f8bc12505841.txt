@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BL2-050-GW003-98 production of E-TEC from the text:www.e-tec.com          E-tec 2019 copyright - all rights reserved  Cannot be copied, reproduced or modified without a prior written approval of E-tec Interconnect AG 0 \n 2.40 \n 5.80 \n 7 \n 20.08  \n0.64 \n 5.08 \n 2.54  ###/2 x2.54 \n 1.27  2.54 \nInsulator Black glass filled polyester \nFlammability: UL 94V-0\nSleeve: Brass Tin plated\nClips : BeCu gold plated 0.75my for pin Ø0.70-0.90\nInsertion force 1.2N\nWithdrawal force 0.6N\nContact life: 500 cycles\nCurrent rating: 3 A\nContact resistance: max10 mΩ\nDRAWN\nCHK\'D\nAPPV\'DUNLESS OTHERWISE SPECIFIED:\nDIMENSIONS ARE IN MILLIMETERS\nGENERAL TOLERANCES ISO  2768mRemark:\nREVScale\n4:1 A4V\nBL2-###-GW003-980\nwww.e-tec.comThe information contained in this \ndrawing is proprietary to E-tec \nInterconnect AG and shall not be \nreproduced or disclosed in whole or \nin part or used for any design or \nmanufacture except whe such user \npossesses direct, written authorization \nfrom E-tec Interconnect AG-\n01.06.2022"E-tec order code"\n- --DATE NAME\nsme 01.06.2022\nREV\'Dmodif:\nC:\\LOCAL E-TEC\\Dessins\\Divers\\Pablo\\BL2-###-GW003-98\\BL2-###-GW003-98smepatented\nSHEET 1 OF 1NUMBER OF POLES 4 TO 100\n\n'}]
+!==============================================================================!
+### Component Summary for BL2-050-GW003-98
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text.
+- **Current Ratings**: 3 A
+- **Power Consumption**: Not specified; power consumption can be inferred based on current and voltage ratings if voltage is known.
+- **Operating Temperature Range**: Not specified in the provided text.
+- **Package Type**: Not explicitly mentioned; however, it appears to be a connector based on the context.
+- **Special Features/Notes**:
+  - Insulator material: Black glass filled polyester
+  - Flammability rating: UL 94V-0
+  - Sleeve material: Brass, tin plated
+  - Clips material: BeCu, gold plated (0.75 µm for pin Ø0.70-0.90)
+  - Insertion force: 1.2 N
+  - Withdrawal force: 0.6 N
+  - Contact life: 500 cycles
+  - Contact resistance: Maximum 10 mΩ
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Component Description:
+The BL2-050-GW003-98 is a connector component produced by E-tec Interconnect AG. It is designed for electrical interconnections, facilitating the connection between different electronic circuits or devices. The component features a robust design with a glass-filled polyester insulator and metal contacts that ensure reliable electrical performance.
+
+#### Typical Applications:
+This connector is typically used in various electronic applications where reliable connections are essential. Common applications include:
+- **Power Management**: Connecting power supplies to circuit boards or other components.
+- **Signal Processing**: Facilitating connections in signal transmission paths within electronic devices.
+- **Data Storage**: Used in connectors for data storage devices, ensuring stable connections for data transfer.
+- **General Electronics**: Suitable for a wide range of electronic devices requiring secure and efficient interconnections.
+
+This summary provides a concise overview of the BL2-050-GW003-98 connector, highlighting its specifications and typical use cases in electronic applications.

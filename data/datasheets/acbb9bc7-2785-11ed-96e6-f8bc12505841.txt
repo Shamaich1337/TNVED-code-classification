@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ASM712H production of YANGZHOU YANGJIE ELECTRONIC from the text:ASM712H                  \xa0\n\xa0\n 1 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1878 \nRev.1.6,05-Sep-20 www.21yangjie.com\nESD Protection Diode  \n \n Features     \n● Low clamping voltage \n● Low leakage  \n● Operating voltage: 7V or 12V \n● Moisture Sensitivity: Level 3 per J-STD-020 \n● Marking:H712 \n   \n                           \n \n \n  \n \n \n■Maximum Ratings  \nPARAMETER SYMBOL VALUE UNIT \nOperating Junction  T J -55 to +125 ℃ \nStorage Temperature T STG -55 to +150 ℃ \nIEC61000-4-2(ESD)Air \nVESD（1） ±30 KV \nIEC61000-4-2(ESD)Contact ±30 KV \nPeak Pulse Power  PPP（2） 600-1000 W \nPeak Pulse Current  IPP（2） Pin 1 or 2 to \nPin 3 30 \nA \nPin 3 to Pin 1 \nor 2 38 \n \n(1).Device stressed with ten non-repetitive ESD pulses. \n(2).Non-repetitive current pulse 8/20 μs exponential decay waveform according to IEC61000-4-5. \n \n  \n \n  \n \n  \n \n  \n \n COMPLIANT  RoHS  \n\nASM712H                  \xa0\n\xa0\n 2 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1878 \nRev.1.6,05-Sep-20 www.21yangjie.com\n■Electrical Characteristics （Ta=25℃ Unless otherwise specified ） \nPARAMETER SYMBOL UNIT CONDITIONS MIN TYP MAX \nReverse Standoff Voltage VRWM（1） V Pin 1 to Pin 3 and Pin2 to Pin 3   12 \nPin 3 to Pin 1 and Pin3 to Pin 2   7 \nReverse Leakage Current I R uA Pin 1 to Pin 3 and Pin2 \nto Pin 3 VR = V RWM   0.5 \nPin 3 to Pin 1 and Pin3 \nto Pin 2 VR = V RWM   0.5 \nBreakdown Voltage  V(BR) V Pin 1 to Pin 3 and Pin2 \nto Pin 3 IT = 1mA 13.3   \nPin 3 to Pin 1 and Pin3 \nto Pin 2 IT = 1mA 7.5   \nClamping Voltage VC（2） V Pin 1 to Pin 3 and Pin2 \nto Pin 3 IPP = 1A(8/20 μs pulse)   19 \nPin 3 to Pin 1 and Pin3 \nto Pin 2 IPP = 1A(8/20 μs pulse)   11 \nClamping Voltage VC（2） V Pin 1 to Pin 3 and Pin2 \nto Pin 3 IPP = 30A(8/20 μs pulse)   25 \nClamping Voltage VC（2） V Pin 3 to Pin 1 and Pin3 \nto Pin 2 IPP = 38A(8/20 μs pulse)   17 \nJunction Capacitance C J pF Pin 1 to Pin 3 and Pin2 \nto Pin 3 VR = 0V, f = 1MHz   75 \nPin 3 to Pin 1 and Pin3 \nto Pin 2 VR = 0V, f = 1MHz   75 \nJunction Capacitance C J pF Pin 1 to Pin 3 and Pin2 \nto Pin 3 VR = V RWM, f = 1MHz   38 \nPin 3 to Pin 1 and Pin3 \nto Pin 2 VR = V RWM, f = 1MHz   55 \n \n(1).Other voltages available upon request. \n(2).Non-repetitive current pulse 8/20 μs exponential decay waveform according to IEC61000-4-5  \n \n \n■Thermal Characteristics （Ta=25℃ Unless otherwise specified ） \nPARAMETER SYMBOL UNIT ASM712H \nThermal Resistance(Typical)  RθJ-A ℃/W 357 \nRθJ-C ℃/W 143 \n \n  \n \n     \n \n     \n \n \nASM712H                  \xa0\n\xa0\n 3 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1878 \nRev.1.6,05-Sep-20 www.21yangjie.com\n■ Characteristics  (Typical)  \n \n    \n\xa0\n\xa0\n\xa0\nASM712H                  \xa0\n\xa0\n 4 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1878 \nRev.1.6,05-Sep-20 www.21yangjie.com\n■ Outline Dimensions  \n \n\xa0\n\xa0\n \n■ Soldering Footprint  \n \n \n  \n \n  \n \n  \n \n \n \n \n \n     \n \n     \n \n     \n \n    \n\nASM712H                  \xa0\n\xa0\n 5 / 5 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1878 \nRev.1.6,05-Sep-20 www.21yangjie.com\nDisclaimer \n \nThe information presented in this document is for reference only.  Yangzhou Yangjie Electronic Technology Co., Ltd. reserves the  \nright to make changes without notice for t he specification of the produc ts displayed herein to improve reliability, function or  design \nor otherwise.     The product listed herein is designed to be used with ordinary electronic equipment or  devices, and not designed to be used wit h \nequipment or devices which require high level of reliability and the malfunction of with would directly endanger human life (su ch as \nmedical instruments, trans portation equipment, aerospa ce machinery, nuclear-reactor controll ers, fuel controll ers and other saf ety \ndevices), Yangjie or anyone on its behalf, assumes no responsibilit y or liability for any damages resulting from such improper use \nof sale.    This publication supersedes & replaces all information previous ly supplied. For additional information, please visit our websit e \nhttp:// www.21yangjie.com  , or consult your nearest Yangjie’s sales office for further assistance. \n \n \n'}]
+!==============================================================================!
+### Component Summary: ASM712H
+
+**Manufacturer:** Yangzhou Yangjie Electronic Technology Co., Ltd.
+
+**Component Type:** ESD Protection Diode
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Reverse Standoff Voltage (VRWM): 12V (Pin 1 to Pin 3 and Pin 2 to Pin 3), 7V (Pin 3 to Pin 1 and Pin 3 to Pin 2)
+  - Breakdown Voltage (V(BR)): 13.3V (Pin 1 to Pin 3 and Pin 2 to Pin 3), 7.5V (Pin 3 to Pin 1 and Pin 3 to Pin 2)
+
+- **Current Ratings:**
+  - Peak Pulse Current (IPP): 30A (Pin 1 or 2 to Pin 3), 38A (Pin 3 to Pin 1 or 2)
+
+- **Power Consumption:**
+  - Peak Pulse Power (PPP): 600-1000W
+
+- **Operating Temperature Range:**
+  - Junction Temperature (T_J): -55°C to +125°C
+  - Storage Temperature (T_STG): -55°C to +150°C
+
+- **Package Type:** Not specified in the provided text, but typically in a standard diode package.
+
+- **Special Features:**
+  - Low clamping voltage
+  - Low leakage current (Reverse Leakage Current: 0.5 µA at VRWM)
+  - Compliant with RoHS
+  - Moisture Sensitivity Level: Level 3 per J-STD-020
+
+#### Description:
+The ASM712H is an ESD protection diode designed to safeguard sensitive electronic components from electrostatic discharge (ESD) events. It features low clamping voltage and low leakage current, making it suitable for protecting circuits from high-voltage transients.
+
+#### Typical Applications:
+- **ESD Protection:** The primary function of the ASM712H is to protect sensitive electronic devices from ESD, which can occur during handling or operation.
+- **Consumer Electronics:** Commonly used in smartphones, tablets, and other portable devices to ensure reliability and longevity.
+- **Industrial Equipment:** Protects control circuits and communication lines in industrial applications.
+- **Automotive Electronics:** Used in automotive applications to protect against ESD events that can occur due to the vehicle's environment.
+
+This component is essential in applications where electronic devices are exposed to potential ESD threats, ensuring their functionality and reliability in various environments.

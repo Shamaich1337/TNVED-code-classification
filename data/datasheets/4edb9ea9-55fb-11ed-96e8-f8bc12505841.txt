@@ -1,0 +1,54 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TX-5050RGBW10FC120-NGVCND34-02BH80 production of GUANGZHOU TIANXIN PHOTOELECTRIC CO., LTD from the text:http://www.txled.cn Version:1.0PartNo. TX-5050RGBW10FC120-NGVCND34-02BH80SpecNo.WKF-EG0037Page1of9TX-5050RGBW10FC120-NGVCND34-02BH80\nPRODUCTSPECIFICATION\nFeatures:\n◆ExcellenttransitingheatfromLEDchipoperatingunder1A\n◆Highluminousoutput\n◆NoUV\n◆Encapsulatedmaterialsareenvironmentallycertifiedandmeetenvironmentalrequirements.\nChipMaterial: EmittingColor: Applications:\n◆Red:AlInGaP ◆Red(R) ◆Auxiliarylighting\n◆Green:GaInN ◆Green(G) ◆Ambientlighting\n◆Blue:GaInN ◆Blue(B) ◆Architecturallighting\n◆White:GaInN ◆White(W)\nhttp://www.txled.cn Version:1.0PartNo. TX-5050RGBW10FC120-NGVCND34-02BH80SpecNo.WKF-EG0037Page2of9PackageDimensions:\nTop view Side view Bottom view\n0.4 0.9\n4.8\n2.8 0.5 0.5\n4.8R+ G+ B+ W+\nR- G- B- W-\n0.4 0.9\n4.8\n2.80.5 0.5\n4.81.0\n5.6\nRecommended solder pad Recommended stencil patternS+ B+ G+ R+\nS- B- G- R-\n3±0.1 0.4 0.9\n4.8\n2.8 0.5 0.5\n4.8\n0.7\nB+ G+ S+ R+\nB- G- S- R-\n5.00\n5.00?4.40B+ G+ S+ R+\nB- G- S- R-\n5.00\n5.00R2.2\nR+ G+ B+ W+\nR- G- B- W-Φ4.5±0.1\n4.95±0.1\n4.95±0.1\n0.7\n3±0.1\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesunlessotherwisementionedare±0.1mm.\nhttp://www.txled.cn Version:1.0PartNo. TX-5050RGBW10FC120-NGVCND34-02BH80SpecNo.WKF-EG0037Page3of9AbsoluteMaximumRatings(Tc=25℃)\nNotes:\n1.Specificationsaresubjecttochangewithoutnotice.\n2.Thedataonthisspecificationisforreferenceonlyandtheactualdataisinaccordancewiththe\nacknowledgment.\n3.PrecautionsforESD:\nSTATICSHIELDElectricityandsurgedamagestheLED.Itisrecommendedtouseawristbandor\nanti-electrostaticglovewhenhandlingtheLED.Alldevices,equipmentandmachinerymustbeproperly\ngrounded.Parameter Symbol MaxRatings Unit\nForwardCurrent IFR 1.0\nAG 1.0\nB 1.0\nW 1.0\nReverseVoltage VR 5 V\nPowerDissipation PDR 2.7\nWG 3.7\nB 3.7\nW 3.7\nJunctionTemperature TjR 115\n℃G 150\nB 150\nW 150\nElectrostaticDischargeThreshold(ESD) ESD 2000 V\nStorageTemperature Tstg -40~70\n℃\nOperationTemperature Topr -30~85\nhttp://www.txled.cn Version:1.0PartNo. TX-5050RGBW10FC120-NGVCND34-02BH80SpecNo.WKF-EG0037Page4of9ElectricalOpticalCharacteristics(Tc=25°C,IF=0.7A)\nNotes:\n1.LuminousintensityismeasuredwithalightsensorandfiltercombinationthatapproximatestheCIE\neye-responsecurve.\n2.θ1/2istheoff-axisangleatwhichtheluminousintensityishalftheaxialluminousintensity.Parameter SymbolEmitting\nColorMin. Typ.Max.Units\nLuminousFlux φvR 110 130 150\nlmG 200 225 250\nB 35 55 70\nW 180 210 240\nDominantWavelength λdR 618 623 628\nnm G 523 528 533\nB 450 455 470\nCorrelatedColour\nTemperatureCCT W 3780 4040 4300 K\nColorRenderingIndex Ra W 80 82.5 — —\nPeak-emissionWavelength λpR 628 633 638\nnmG 519 524 529\nB 446 451 456\nSpectralLineHalf-Width △λR 10 15 20\nnmG 30 35 40\nB 15 20 25\nW 25 35 45\nForwardVoltage VfR 2.0 2.3 2.7\nVG 3.0 3.3 3.7\nB 3.0 3.3 3.7\nW 3.0 3.3 3.7\nReverseCurrent IR VR=5V — — 2 µA\nViewingAngleat50﹪IV 2θ1/2 — — 120 — Deg\nThermalResistanceJunction\ntoCaseRθJ-CR — 3.7 —\nK/WG — 3.7 —\nB — 3.7 —\nW — 3.7 —\nTemperatureCoefficientof\nVoltageV△F/TR — -2 —\nmV/℃G — -3.5 —\nB — -2 —\nW — -3 —\nhttp://www.txled.cn Version:1.0PartNo. TX-5050RGBW10FC120-NGVCND34-02BH80SpecNo.WKF-EG0037Page5of93.Luminousfluxmeasurementtolerance:±10%.\n4.Forwardvoltagemeasurementtolerance:±10%V.\n5.Rameasurementtolerance:±2.\nWhitelightColorcoordinatefiling(Tc=25℃,IF=0.7A)\n0.360.360.370.380.390.40\n0.370.380.390.405A25B45D24150K\n4300K3950K3780K\n0.410.41\n0.350.35\nRegionCCTRange\nX1 Y1 X2 Y2 X3 Y3 X4 Y4\nMin Max\n5D2 3780K 3950K 0.39030.38250.38230.37750.38530.38920.39400.3944\n5B4 3950K 4150K 0.38130.37380.37320.36900.37590.38160.38490.3876\n5A2 4150K 4300K 0.37270.36670.36700.36340.36890.37400.37510.3778\nhttp://www.txled.cn Version:1.0PartNo. TX-5050RGBW10FC120-NGVCND34-02BH80SpecNo.WKF-EG0037Page6of9TypicalElectrical/OpticalCharacteristicsCurves\n(25℃AmbientTemperatureUnlessOtherwiseNoted)\n2.42.83.2\n0.2 0.4 0.6 0.8Forward Current VS.  Relative Forward VoltageForward  Voltage  VF  (V)\nForward Current IF  (A)3.6\n1.02.0 2060100140\n0.2 0.4 0.6 0.8Forward Current VS.  Relative Luminous FluxRelative  Luminous  Flux  (%)\nForward  Current  IF  (A)1.0180\n25 45 65 85 105Temperature VS.  Relative Luminous FLux (IF=0.7A)\nTc  (℃)Forward  Voltage  Vf  (V)\n1254.0\n2.02.42.83.23.6\n25 45 65 85 105020406080100Temperature VS. Forward Voltage (IF=0.7A)\nTc  (℃)Relative   Luminous   Flux  (%)\n125\nNotes: Red（R）;Green（G）;Blue（B）;White（W）;\nhttp://www.txled.cn Version:1.0PartNo. TX-5050RGBW10FC120-NGVCND34-02BH80SpecNo.WKF-EG0037Page7of90.4 0.6 0.8-0.016-0.012-0.008-0.00400.0040.0080.0120.016\nForward Current (A)R(x)\nR(y)Relative Chromaticity VS.Current\n1.0G(x)\nG(y)\nB(x)\nB(y)\nW(x)\nW(y)\n25 45 65 85-0.04-0.03-0.02-0.0100.010.020.030.04\nTc (℃)Relative Chromaticity VS. Temperature (IF=0.7A)\nR(x)\nR(y)\nG(x)\nG(y)\nB(x)\nB(y)\nW(x)\nW(y)\nNotes: Red（R）;Green（G）;Blue（B）;White（W）;\n380.0 420.0 460.0500.0 540.0 580.0 620.0660.0 700.0 740.0 780.0\nWavelength (nm)0.0000.1000.2000.3000.4000.5000.6000.7000.8000.9001.0001.100Relative Spectral DistributionSpectrum\nNotes:\n1.2θ1/2istheoffaxisanglefromlampcenterlinewheretheluminousintensityis1/2ofthepeakvalue.\n2.Viewangletoleranceis±5°.\nhttp://www.txled.cn Version:1.0PartNo. TX-5050RGBW10FC120-NGVCND34-02BH80SpecNo.WKF-EG0037Page8of9UsagePrecautions\nStorageEnvironmentCondition\nTemperature:5℃~30℃(41℉~86℉)\nHumidity:60%RHMax.\nSolderingCondition\nUsetheconditionsshowntotheunderfigure.\nt\ntLP\nt 25℃ to Peak\nTimets PreheatTSminTSmaxRamp-UPCritical Zone\nT  to TP L\nRamp-downT\nTP\nL\n25Temperature\nProfileFeature Lead-BasedSolder\nAverageRamp-UpRate(TsmaxtoTp) 3℃/secondmax.\nPreheat:TemperatureMin(Tsmin) 100℃\nPreheat:TemperatureMax(Tsmax) 150℃\nPreheat:Time(TsmintoTsmax) 60-120seconds\nTimeMaintainedAbove:Temperature(TL) 183℃\nTimeMaintainedAbove:Time(TL) 60-150seconds\nPeak/ClassificationTemperature(TP) 225℃\nTimeWithin5℃ofActualPeakTemperature(TP) 10-30seconds\nRamp-DownRate 6℃/secondmax.\nTime25℃toPeakTemperature 6minutesmax.\nNote:\nAlltemperaturesrefertotopsideofthepackage,measuredonthepackagebodysurface.\nhttp://www.txled.cn Version:1.0PartNo. TX-5050RGBW10FC120-NGVCND34-02BH80SpecNo.WKF-EG0037Page9of9DimensionsForCannulationAndPackaging\nQuantity:500PCS12\n5.3\n5.3 84Φ1.5\n3.2\nPrinted label\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesare±2.0mmunlessotherwisenoted.\n3.Theproductsarepackagedtogetherwithsilicagel,Transport,nottotheweightofweldingLED\nlight-emittingarea,AsaresultoftheweightofLEDlight-emittingzoneinthequalityof,Irresponsibleofthe\nCompany.\n'}]
+!==============================================================================!
+### Component Summary: TX-5050RGBW10FC120-NGVCND34-02BH80
+
+**Manufacturer:** Guangzhou Tianxin Photoelectric Co., Ltd  
+**Version:** 1.0  
+**Product Code:** TX-5050RGBW10FC120-NGVCND34-02BH80  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (Vf):
+    - Red: 2.0 - 2.7 V
+    - Green: 3.0 - 3.7 V
+    - Blue: 3.0 - 3.7 V
+    - White: 3.0 - 3.7 V
+  - Reverse Voltage (VR): 5 V
+
+- **Current Ratings:**
+  - Forward Current (IF): 1.0 A for each color (R, G, B, W)
+
+- **Power Consumption:**
+  - Power Dissipation:
+    - Red: 2.7 W
+    - Green: 3.7 W
+    - Blue: 3.7 W
+    - White: 3.7 W
+
+- **Operating Temperature Range:**
+  - Storage Temperature (Tstg): -40 to 70 °C
+  - Operating Temperature (Topr): -30 to 85 °C
+  - Junction Temperature (Tj): 
+    - Red: 115 °C
+    - Green, Blue, White: 150 °C
+
+- **Package Type:** 5050 package dimensions (5.0 mm x 5.0 mm)
+
+- **Special Features:**
+  - High luminous output
+  - No UV emissions
+  - Environmentally certified encapsulated materials
+  - Excellent heat dissipation under 1A operation
+
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Component Description:
+The TX-5050RGBW10FC120-NGVCND34-02BH80 is a multi-color LED component that integrates red, green, blue, and white LEDs in a single package. It is designed for high luminous output and efficient thermal management, making it suitable for various lighting applications. The component is encapsulated in environmentally friendly materials, ensuring compliance with environmental standards.
+
+#### Typical Applications:
+- **Auxiliary Lighting:** Used in applications where additional lighting is required.
+- **Ambient Lighting:** Ideal for creating mood lighting in residential and commercial spaces.
+- **Architectural Lighting:** Suitable for enhancing the aesthetics of buildings and structures through dynamic color effects.
+- **Decorative Lighting:** Commonly used in decorative installations for events, festivals, and displays.
+
+This LED component is versatile and can be utilized in various lighting solutions, providing flexibility in design and application.

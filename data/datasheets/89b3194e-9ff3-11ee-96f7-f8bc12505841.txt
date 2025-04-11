@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-SLE-020-S630B-95/2S production of DECIGN from the text:CSPECIFICATIONS\nMATERIAL\nInsulator: Nylon66,glass reinforced,rated UL94V-0\nContact: Brass\nELECTRICAL\nCurrent Rating: 1 Amp\nContact Resistance:30m Ω max.\nInsulation Resistance:3000M Ω Min.\nDielectric Withstand Voltage:500V AC for 1minute.\nOperating Temperature: -40 ℃ ～ +105℃.\nRECOMMENDED P.C.B LAYOUTSTEEL\nSWIN-LOCK\nTP-SLE-020-S630B-95/2S\nS630B4\n4\n4\n4TP-SLE-xxx -S630B-95/2S\nNumber of  Pins\n'}]
+!==============================================================================!
+### Component Summary for TP-SLE-020-S630B-95/2S
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated, but dielectric withstand voltage is 500V AC for 1 minute.
+- **Current Ratings**: 1 Amp maximum.
+- **Power Consumption**: Not specified in the provided text.
+- **Operating Temperature Range**: -40 °C to +105 °C.
+- **Package Type**: Not specified, but it is designed for PCB layout.
+- **Special Features or Notes**: 
+  - Insulator material is Nylon66, glass reinforced, rated UL94V-0 (flame retardant).
+  - Contact material is brass.
+  - Contact resistance is a maximum of 30 mΩ.
+  - Insulation resistance is a minimum of 3000 MΩ.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The TP-SLE-020-S630B-95/2S is a connector component designed for printed circuit board (PCB) applications. It features a robust construction with a nylon66 insulator that is glass reinforced, ensuring durability and resistance to environmental factors. The component is rated for a maximum current of 1 Amp and is suitable for a wide range of operating temperatures, making it versatile for various electronic applications.
+
+#### Typical Applications:
+This connector is typically used in applications where reliable electrical connections are required, such as:
+- **Power Management**: Connecting power supplies to various components on a PCB.
+- **Signal Processing**: Facilitating communication between different circuit elements.
+- **Consumer Electronics**: Used in devices that require compact and reliable connectors.
+- **Industrial Equipment**: Suitable for harsh environments due to its wide operating temperature range and robust materials.
+
+Overall, the TP-SLE-020-S630B-95/2S is a reliable connector option for various electronic applications, ensuring efficient performance and durability.

@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of R04J-15RHJS1 production of SUNKYE INTERNATIONAL CO., LTD from the text:Drawing No.\nArchivesSignature\n/11Plnte\nDesign\nStandard checkAuditing\nApproveScale Sheet of REVTechnics\nWeight Phase markerCheckDenomination:\nMaterial\nacreage (mm  ):2DWG No.: Character\nDIN\nA000 4:1 DR04J-15RHJS1P/N:Unit:mmHeat\ntreatment\nGeneral  toleranceCritical  Dimension  **Important  Dimension  *\nX  ±0.15 X°  ±1°\n.X  ±0.10 .X°  ±0.5°\n.XX  ±0.05 .XX°  ±0.05°\n.XXX  ± .XXX°  ±2022.11.041.6\nWo  wo\nWu  gang\nXiang zhongR\nSUNKYEA\nA7.6 0\n-0.10\n5±0.05\n12.6 0\n-0.10\n6x1.27=7.6218.2±0.05\n1.271.271.16.32±0.05\n4.7+0.10\n 0Ø0.56±0.02Ø0.85 0\n-0.106.1±0.21.55+0.10\n 0\n4±0.2\n2.8A-A\n2xR3.16\n2xR3.8\n0.33 0\n-0.10 1.277.87SUNKYE\n4.20min\n5.50max#2-56 UNC -2BB-B\nB\n0.90.24xR2.2\n4xR32x30°\n2x30°\n4xR1.74xR2.4\n3.185.33\n1.27\n0.8\nB4x30°12.3+0.08\n 022.025±0.0523.305±0.05\n7x1.27=8.89\n(6.6)\n(14.2)\n1 15 9C0.3\nPERFORMANCE:\n1.TEMPERATURE:-55°C-+200°C;\n2.LEAK RATE: LESS THAN 1*10-3PA.CM³/S AT 1ATM; Micro-D Connector\n2022.11.04\n2022.11.043.CURRENT RATING:3 AMP MAX;\n4.INSULATION RESISTANCE: NOT LESS THAN 1000MΩ AT\nNORMAL CONDITION\n5.DIELECTRIC WITHSTAND VOLTAGE:350VDC AT SEA LEVEL\n'}]
+!==============================================================================!
+### Component Summary for R04J-15RHJS1
+
+**Manufacturer:** SUNKYE INTERNATIONAL CO., LTD  
+**Component Type:** Micro-D Connector
+
+#### Key Specifications:
+- **Voltage Ratings:** 350 VDC (Dielectric withstand voltage)
+- **Current Ratings:** 3 A max
+- **Power Consumption:** Not specified directly; power consumption would depend on the application and load.
+- **Operating Temperature Range:** -55°C to +200°C
+- **Package Type:** Micro-D Connector
+- **Special Features or Notes:**
+  - Leak rate: Less than 1 x 10^-3 Pa.cm³/s at 1 ATM
+  - Insulation resistance: Not less than 1000 MΩ at normal conditions
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The R04J-15RHJS1 is a Micro-D connector designed for high-performance applications requiring reliable electrical connections in compact spaces. It is engineered to withstand extreme temperatures and has a robust construction that ensures durability and longevity in various environments.
+
+#### Typical Applications:
+Micro-D connectors like the R04J-15RHJS1 are commonly used in:
+- Aerospace and defense systems
+- Medical devices
+- Telecommunications equipment
+- Industrial automation
+- Data storage and processing systems
+
+These connectors are ideal for applications where space is limited, and high reliability is essential, making them suitable for both commercial and military-grade equipment.

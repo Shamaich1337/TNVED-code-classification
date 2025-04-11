@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of RFXF8553-TR13 production of QORVO, INC. from the text:Features\n1 of 2RF MICRO DEVICES®, RFMD®, Optimum Technology Matching®, Enabling Wireless Connectivity™, PowerStar®, POLARIS™ TOTAL RADIO™ and UltimateBlue™ are trademarks of RFMD, LLC. BLUETOOTH is a trade-\nmark owned by Bluetooth SIG, Inc., U.S.A. and licensed for use by RFMD. All other trade names, trademarks and registered tradem arks are the property of their respective owners. ©2006, RF Micro Devices, Inc.Product Description\n7628 Thorndike Road, Greensboro, NC  27409-9421 · For sales or technical \nsupport, contact RFMD at (+1) 336-678-5570  or sales-support@rfmd.com .RFXF8553\n1:4 SMT TRANSFORMER\nThe RFXF8553 Transformer is designed for a pplications that require small, low cost,\nand highly reliable surface mount componen ts. Applications may be found in broad-\nband, wireless, and other commincations sy stems. These units are built Lead-Free\nand RoHS compliant. S-Parameters are available on request.\uf06eFrequency Range: 500 MHz to \n2500MHz\n\uf06eLow Cost and RoHS Compliant\uf06eIndustry Standard SMT package\n\uf06eAvailable in Tape-and -Reel\n\uf06e50\uf057 Characteristic Impedance\nDS101011RoHS Compliant and Pb-Free Product\nPackage: S20RFXF8553\nRFXF8553\nSpecifications\nParameterSpecificationUnitMin. Typ. Max.\nFrequency Range 500 2500 MHz\nInsertion Loss <1dB 500 1000 MHz\nInsertion Loss <2dB 500 1500 MHz\nInsertion Loss <3dB 500 2500 MHz\nImpedance Ratio 1:4\nType Unbalanced to Balanced\n-30-25-20-15-10-50\n0 250 500 750 1000 1250 1500 1750 2000 2250 2500dB\nFrequency (MHz)Input Return Loss\nS11\n-5.0-4.5-4.0-3.5-3.0-2.5-2.0-1.5-1.0-0.50.0\n0 250 500 750 1000 1250 1500 1750 2000 2250 2500dB\nFrequency (MHz)Insertion Loss\nS21 S31Schematic\n2 of 2 DS1010117628 Thorndike Road, Greensboro, NC  27409-9421 · For sales or technical \nsupport, contact RFMD at (+1) 336-678-5570  or sales-support@rfmd.com .RFXF8553\n170172174176178180182184186188190\n0 250 500 750 1000 1250 1500 1750 2000 2250 2500Deg\nFrequency (MHz)Phase Balance\nS31-S21\n-2.0-1.5-1.0-0.50.00.51.01.52.0\n0 250 500 750 1000 1250 1500 1750 2000 2250 2500dB\nFrequency (MHz)Amplitude Balance\nS31-S21\nPin Out\nPin Name\n1S e c o n d a r y  D o t\n2S e c o n d a r y  C T\n3S e c o n d a r y\n4P r i m a r y  D o t5P r i m a r y\nExceeding any one or a combination of the Absolute Maximum Rating conditions may cause \npermanent damage to the device.  Extended ap plication of Absolute Maximum Rating condi-\ntions to the device may reduce device reliability.  Specified typical performance or functional \noperation of the device under Absolute Ma ximum Rating conditions is not implied.\nRoHS status based on EUDirective2002/95/EC (at time of this document revision).\nThe information in this publication is believed to be accurate and reliable. However, no \nresponsibility is assumed by RF Micro Devices, Inc. ("RFMD") for its use, nor for any infringe-\nment of patents, or other rights of third parties, resulting from its use. No license is granted \nby implication or otherwise under any patent or patent rights of RFMD. RFMD reserves the right to change component circuitry, recommended application circuitry and specifications \nat any time without prior notice.Absolute Maximum Ratings\nParameter Rating Unit\nRF Power 2 W\nOperating Temperature -40 to +85 °C\nStorage Temperature -55 to +100 °C\nS20 Package Drawing\n'}]
+!==============================================================================!
+### Component Summary: RFXF8553-TR13
+
+**Manufacturer:** Qorvo, Inc. (formerly RF Micro Devices, Inc.)
+
+**Description:**
+The RFXF8553 is a 1:4 surface mount transformer designed for applications requiring compact, cost-effective, and reliable components. It is suitable for broadband, wireless, and various communication systems. The transformer is built to be lead-free and RoHS compliant, ensuring it meets modern environmental standards.
+
+### Key Specifications:
+
+- **Voltage Ratings:** Not explicitly stated; however, the RF power rating is provided.
+- **Current Ratings:** Not explicitly stated; the RF power rating is 2 W.
+- **Power Consumption:** RF Power rating of 2 W.
+- **Operating Temperature Range:** -40°C to +85°C.
+- **Storage Temperature Range:** -55°C to +100°C.
+- **Package Type:** S20 (Surface Mount Technology).
+- **Frequency Range:** 500 MHz to 2500 MHz.
+- **Insertion Loss:**
+  - <1 dB at 500-1000 MHz
+  - <2 dB at 500-1500 MHz
+  - <3 dB at 500-2500 MHz
+- **Impedance Ratio:** 1:4 (Unbalanced to Balanced).
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+### Special Features:
+- RoHS compliant and lead-free.
+- Available in tape-and-reel packaging for automated assembly.
+- S-Parameters available upon request for detailed performance analysis.
+
+### Typical Applications:
+The RFXF8553 transformer is typically used in:
+- **Broadband Communication Systems:** Enhancing signal integrity and performance in various RF applications.
+- **Wireless Communication:** Facilitating efficient signal transmission in wireless devices.
+- **Consumer Electronics:** Used in devices requiring RF signal processing and management.
+- **Telecommunications Equipment:** Supporting various RF functions in telecom infrastructure.
+
+This transformer is ideal for engineers looking for a reliable solution in RF applications, particularly where space and cost are critical factors.

@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of RYG13264C2 production of ROYAL DISPLAY CO.,LIMITED from the text:First issue\n1.LCD Display Type:FSTN\n4.Drive Method:1/9Bias,1/65Duty3.Viewing Direction:10:302.Polarzier Mode:Reflective,Positive\n11.Ulteriorly Tolerance:±0.2MM\n12.Rohs8.Storage Temp：-40 TO 85℃7.Operating Temp: -30 TO 85℃\n9.IC:ST7567A5.LCD Driving Voltage(Vop):9.0VNOTE\n 10.Connector:LCD+PINPINSYMBOL\n1ESD\n2\n3\n4\n5\n6\n7\n8\n9\n10VG\nXV0\nV0\nVSS\nVDD\nSDA\nSCK\nRST\nESD\n6.Logic supply Voltage(VDD):3.0V11-12S1\nS2 13-14\nFirst issue\nPINSYMBOL\n1ESD\n2\n3\n4\n5\n6\n7\n8\n9\n10VG\nXV0\nV0\nVSS\nVDD\nSDA\nSCK\nRST\nESD\n11-12S1\nS2 13-14\n'}]
+!==============================================================================!
+### Component Summary: RYG13264C2
+
+**Description:**
+The RYG13264C2 is an FSTN (Film Super Twisted Nematic) LCD display manufactured by Royal Display Co., Limited. It is designed for various applications requiring visual output, such as consumer electronics, industrial equipment, and embedded systems. The display features a reflective, positive polarizer mode, which enhances visibility under ambient light conditions.
+
+**Key Specifications:**
+- **LCD Display Type:** FSTN
+- **Drive Method:** 1/9 Bias, 1/65 Duty
+- **Viewing Direction:** 10:30
+- **Polarizer Mode:** Reflective, Positive
+- **Operating Temperature Range:** -30°C to 85°C
+- **Storage Temperature Range:** -40°C to 85°C
+- **LCD Driving Voltage (Vop):** 9.0V
+- **Logic Supply Voltage (VDD):** 3.0V
+- **Ulteriorly Tolerance:** ±0.2mm
+- **Connector Pins:** 
+  - ESD
+  - VG
+  - XV0
+  - V0
+  - VSS
+  - VDD
+  - SDA
+  - SCK
+  - RST
+  - ESD
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+**Special Features:**
+- The display utilizes a reflective mode, making it suitable for applications where power efficiency is critical, as it does not require a backlight in well-lit environments.
+- The combination of a 1/9 bias and 1/65 duty cycle allows for efficient driving of the display, optimizing power consumption.
+
+**Typical Applications:**
+The RYG13264C2 LCD display is commonly used in:
+- Consumer electronics (e.g., handheld devices, appliances)
+- Industrial control panels
+- Medical devices
+- Automotive displays
+- Embedded systems requiring visual feedback
+
+This component is ideal for applications where a clear visual output is needed in varying lighting conditions, and where low power consumption is a priority.

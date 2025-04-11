@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FTX14.745M16SM-50/100DFC62 production of CHIP SUN TECHNOLOGY from the text:Add:Rm 206,Tower B,Tao jindi Building,Tenglong Road,Dalang Street,Longhua New District,Shenzhen,China Tel:(86)755-83458718 Email: sales@chinachipsun.com\n \n  SMD  QUARTZ CRYSTAL RESONATOR                            石 英 晶 体 谐 振 器   \n \n \n \n \n \n \n \n★ PARAMETERS  技术参数   \n  \nPARAMETERS 参数   SPECIFICATION 规格  \nFrequency Range  频率范围  3.5  ~ 100MHz \nOperation Mode 振动模式  （3.5 ~ 40MHz ） Fundamental  （27 ~ 100MHz ）3rd /5rd Overtone \nLoading Capacitance 负载电容  20pF Std.  8 to 33pF , Series available \nDrive Level 激励电平  10μW（300μW Max） \nFrequency Tolerance 频率偏差  ±10ppm  ~ ±30ppm（at 25℃）  \nEquivalent Resistance 谐振电阻  See Below \nFrequency Stability 频率稳定性  ±2.5ppm  ~ ±50ppm \nOperating Temp. Range:  工作温度范围  0 ~ +50℃ to -40  ~ +85℃ \nStorage Temp. Range:  储存温度范围   -55  ~ +125℃ \n☉All specification subject change without notice. 规格变化，恕不另行通知 。 \n \n★ FREQUENCY STABILITY VS. TEMPERATURE    频率温度特性           ★ ESR（SERIES RESISTANCE RS ）           \n \nFrequency Stability  Operation \nTemperature Range \n±2.5ppm ±5ppm ±10ppm ±20ppm ±30ppm ±50ppm  \n0℃~+50℃ ○ ○ ○ ● ○ ○ \n-10℃~+60℃  ○ ○ ● ○ ○ \n-20℃~+70℃   ○ ○ ● ○ \n-40℃~+85℃    ○ ○ ● \n● standard  ○ available \n \n \n \n \n \n \n \n★ PART NUMBER GUIDE 部件号示例   e.g. FTX16.000M20SM-30/30B (*SM=HC-49/SMD TYPE)  \n \nLogo Quartz Crystal Resonator \n石英晶体谐振器  Frequency \n频率  \nHz Load Capacitance\n负载电容  \npF Package \n盒型  Frequency \nTolerance \n常温频差  \nppm Frequency \nStability \n温度频差  \nppm Operating Temp. \nRange \n工作温度  \nFT X 16.000M 20 SM 30 30 B \n \nCHIP S UN TECHNOLOG Y  CO., LTD.\n 深 圳 市 炬 烜 科 技有 限 公 司\n2 Pad SMD Crystal 11.5×4.8 mm  HC-49SMD \n\x84 Package Height 4.2 mm ma x, 2.8~4.2 mm available  \n\x84 Reflow soldering temperature: 260 ℃ max \n\x84 highly stable and reliable crystal unit with a metallic package  \n\x84 Taped Version Standard  RoHS  \n2002/95/EC  \nRoHS com pliant\nFrequency Vibration Mode ESR \n3.5-3.999MHz AT CUT/FUND. 150 Ω(MAX)\n4.000-4.499MHz AT CUT/FUND. 120Ω(MAX)\n4.500-5.999MHz AT CUT/FUND. 100 Ω(MAX)\n6.000-7.999MHz AT CUT/FUND. 80Ω(MAX)\n8.000-9.999MHz AT CUT/FUND. 60 Ω(MAX)\n10.000-11.999MHz AT CUT/FUND. 50Ω(MAX)\n12.000-13.999MHz AT CUT/FUND. 40 Ω(MAX)\n14.000-40.000MHz AT CUT/FUND. 30Ω(MAX)\n27.000-100MHz AT  3rd /OT 100 Ω(MAX)\n \nAdd:Rm 206,Tower B,Tao jindi Building,Tenglong Road,Dalang Street,Longhua New District,Shenzhen,China Tel:(86)755-83458718 Email: sales@chinachipsun.com                 \n9.55.5\n2.00.7 min11.4±0.112.3±0.3\n4.74±0.0510.20 max0.33±0.054.88±0.24.5±0.50.8±0.24-R0.53.80 maxH \nDefinition Description \nA：-10~+60℃ \nB：-20~+70℃ \nC：-30~+80℃ \nD：-40~+85℃ Operating \nTemperature Range  \nE：Customer specified \n \n★ DIMENSIONS& LAND PATTERN LAYOUT (Unit: mm)   外形尺寸                                      \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n★ REFLOW SOLDERING PROFILE   回流焊特性                                                    \n \n \n \n \n \n \n \n CHIP S UN TECHNOLOG Y CO., LTD.\n深 圳 市 炬 烜 科 技有 限 公 司\n4.2 mm max \n3.5mm max \n3.0 mm max H \n2.8mm max \nTemperature ( ℃) \nTimes (S) 260℃ max \n220℃ \n180℃ \n① ③\n②\n① Preheat 160~180 ℃ 120sec. max \n② Primary heat 220 ℃ 60sec.  max Pb free reflow \nA ③ Peak 260 ℃ 10sec.  max. \n\n'}]
+!==============================================================================!
+### Component Summary for FTX14.745M16SM-50/100DFC62
+
+**Component Type:** SMD Quartz Crystal Resonator
+
+**Manufacturer:** CHIP SUN TECHNOLOGY
+
+**Key Specifications:**
+- **Frequency Range:** 3.5 MHz to 100 MHz
+- **Operation Mode:** 
+  - Fundamental mode for 3.5 MHz to 40 MHz
+  - 3rd/5th overtone for 27 MHz to 100 MHz
+- **Loading Capacitance:** 20 pF standard; available from 8 pF to 33 pF
+- **Drive Level:** 10 μW (maximum 300 μW)
+- **Frequency Tolerance:** ±10 ppm to ±30 ppm (at 25°C)
+- **Equivalent Resistance (ESR):** Varies by frequency (see detailed table in datasheet)
+- **Frequency Stability:** ±2.5 ppm to ±50 ppm
+- **Operating Temperature Range:** -40°C to +85°C
+- **Storage Temperature Range:** -55°C to +125°C
+- **Package Type:** HC-49SMD (2 Pad SMD Crystal, dimensions 11.5 mm x 4.8 mm)
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text, but typically follows JEDEC J-STD-020E guidelines for SMD components.
+- **Reflow Soldering Temperature:** 260°C maximum
+
+**Description:**
+The FTX14.745M16SM-50/100DFC62 is a surface-mount device (SMD) quartz crystal resonator designed for precise frequency control in electronic circuits. It operates within a frequency range of 3.5 MHz to 100 MHz, making it suitable for various applications that require stable oscillation frequencies. The device is characterized by its low drive level and high frequency stability, which are critical for maintaining performance in temperature-variable environments.
+
+**Typical Applications:**
+- **Timing Circuits:** Used in microcontrollers and digital circuits for clock generation.
+- **Communication Systems:** Essential in RF applications for frequency synthesis and signal processing.
+- **Consumer Electronics:** Found in devices such as smartphones, tablets, and other portable electronics where precise timing is crucial.
+- **Industrial Equipment:** Utilized in automation and control systems for accurate timing and frequency reference.
+
+This component is ideal for applications requiring high reliability and stability, particularly in environments with varying temperatures.

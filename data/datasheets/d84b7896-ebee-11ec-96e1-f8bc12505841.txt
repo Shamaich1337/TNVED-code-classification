@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 1GLBH640D1250-06 production of BM-CAPACITOR from the text:TZ-1GLBH640D1250-06D\nExplain of change Symbol No. DatePeople of \nchange AuditingZhang hao LIPart/Model \nJ1019Material/Model Quantity Craft Remarks6\nShape plastic case\nFilling material Flame-resistant epoxy resin\nMedium material PP\nConnect terminal M6 Copper screw\nMax warp distance of terminal 5N.m\nClimatic Category -4070℃～℃\nCooling way Natural cooling\nStandard GB/T17702、IEC61071\nFlame-resistant class UL94-V0Purchase no.\nDetailed data\nCharacteristic of structure\nWorking condition\nSafty classConfirm by signature and fax.\n0757-2360 8828\nProduct DrawingDKMJ-P\nDC-Link CapacitorGUANG DONG FENGMING ELECTRONIC TECH.CO.,LTD.\ndate authorize auditing design plot scaleName \nof \nproductName\n of\npart\nDrawing\n No.Zhang teng \nCheng1.5±1\n44.5±1\n10M6\n4\n28±175±1\n90±1Ø6Hole29\n105±1DKMJ-P\n40μF ±5%\nUN     1250V  DC  SH\nTracking \nNumber -4070℃～℃\n12\n50±1\nBottom view1GLBH640D1250-06\n40μF\n±5%\n1250V.DC\n25A@ 40℃ 10kHz\nIp 800A \ndv/dt 20V/ μS\ntg≤0.001100Hz（）\nESR≤7mΩ\nESL≤30nH\nIR·C≥5000S\n1800V.DC/10S\n-- VT-C(terminal and case)VT-T(terminal and terminal)Insulation resistorMixed inductanceEquivalent \nresistor in seriesTangent of loss angleChange rate of votageBiggest impact currentBiggest currentRated voltageCapacitance toleranceRated capacitance\nAmbient humidity 095%～\nZhang teng \nChengFelix wu\n'}]
+!==============================================================================!
+### Component Summary for 1GLBH640D1250-06
+
+#### Key Specifications:
+- **Voltage Rating:** 1250V DC
+- **Capacitance:** 40μF ±5%
+- **Current Rating:** 25A @ 40°C, 10kHz
+- **Power Consumption:** Not explicitly stated; however, the equivalent series resistance (ESR) is ≤7mΩ, indicating low power loss.
+- **Operating Temperature Range:** -40°C to 70°C
+- **Package Type:** Plastic case
+- **Special Features:**
+  - Flame-resistant epoxy resin filling material
+  - Natural cooling method
+  - High insulation resistance (IR·C ≥ 5000S)
+  - dv/dt rating of 20V/μs
+  - Maximum impact current of 800A
+  - Insulation resistance of 1800V DC for 10 seconds
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The 1GLBH640D1250-06 is a DC-Link capacitor designed for high voltage applications. It is constructed with a plastic case and filled with flame-resistant epoxy resin, making it suitable for demanding environments. The capacitor features a high capacitance value of 40μF, which allows it to store significant electrical energy, and is rated for a maximum voltage of 1250V DC. Its low ESR and ESL values indicate efficient performance in filtering and energy storage applications.
+
+#### Typical Applications:
+This capacitor is typically used in power electronics, particularly in applications such as:
+- **Power Management:** Used in DC-Link circuits for smoothing and filtering in power converters and inverters.
+- **Energy Storage:** Acts as a buffer to store energy and release it when needed, improving the efficiency of power systems.
+- **Signal Processing:** Can be utilized in circuits requiring stable voltage and current supply, such as in audio and RF applications.
+- **Industrial Equipment:** Suitable for use in various industrial applications where high voltage and reliability are critical.
+
+This summary provides a comprehensive overview of the 1GLBH640D1250-06 capacitor, highlighting its key specifications, functionality, and typical applications in electronic systems.

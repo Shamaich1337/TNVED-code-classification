@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NSL-32SR2 production of ADVANCED PHOTONIX from the text:     Opto coupler   \nNSL-32SR2 \nWWW.ADVANCEDPHOTONIX.COM   Precision – Control – Results  \n \nInformation in this technical data sheet is believed to \nbe correct and reliable. However, no responsibility is \nassumed for possible inaccuracies or omission. \nSpecifications are subject to change without notice.  Page 1/2 REV 12-02-15 \n© 2015 Advanced Photonix, Inc. All rights reserved.  \nAdvanced Photonix Inc. 1240 Avenida Acaso, Camarillo CA 93012 • Phone (805) 987 -0146 • Fax (805) 484 -9935 \n \nAdva nce d P h otonix, Inc.\n   \nP h o to ce ll\nL E D\nCo lo r d o t0 .4 5 -0 .5 6  \nce ll le a d s\nDime n sio n s in  mm.\nL e a d  sp a cin g  to le ra n ce : +/-0 .1 3\uf0c6A n o d e  le a d\n0 .2 5  x 0 .5 1\nCa th o d e  le a d\n0 .2 5  x 0 .6 4\uf0c66 .0  - 6 .5+\n-2 5 .4  min .5 .7  min .\n2 .5 4\n5 .7 2  - 6 .2 23 .3 0+\n-L E DP h o to ce ll\nCircu it S ch e ma tic\n \n  \nDESCRIPTION  FEATURES  \nThis optocoupler consists of an LED input optically coupled to a photocell.  \nThe photocell resistance is high when the LED current is “off” and low \nresistance when the LED current is “on”.   \uf0b7 Compact, moisture resistant package  \n\uf0b7 Low LED current  \n\uf0b7 Passive resistance output  \nRELIABILITY  APPLICATIONS  \nCdS/CdSe photo resistors are temperature sensitive, i t should be noted  \nthat operation of the photocell above +75 ˚C does not usually lead to \ncatastrophic failure but the photoconductive surface may be damaged \nleading to irreversible changes in sensitivity  \n \nContact API for recommendations on specific test conditions and \nproced ures.  \n  \uf0b7 Industrial  sensing  \nABSOLUTE MAXIMUM RATINGS   \nIsolation Voltage    2000  V Ta = 23°C \nOperating Temperature  -40 to +75 °C non condensing  \nStorage Temperature  -40 to +75 °C  \nSoldering Temperature    +260 °C >0.05” from case for <  5 sec. \n      \n(1) Derate linearly to 0 at 75 \uf0b0C \n(2) Measured after 1 minute ON @ IF = 20mA  \n        and followed by 10 sec. OFF.  \n   (3)   Print “ NSL-32SR2” and date code “ YYWW ”  \n  \n  \n     Opto coupler   \nNSL-32SR2 \nWWW.ADVANCEDPHOTONIX.COM   Precision – Control – Results  \n \nInformation in this technical data sheet is believed to \nbe correct and reliable. However, no responsibility is \nassumed for possible inaccuracies or omission. \nSpecifications are subject to change without notice.  Page 2/2 REV 12-02-15 \n© 2015 Advanced Photonix, Inc. All rights reserved.  \nAdvanced Photonix Inc. 1240 Avenida Acaso, Camarillo CA 93012 • Phone (805) 987 -0146 • Fax (805) 484 -9935 \n \nAdva nce d P h otonix, Inc.OPTO -ELECTRICAL PARAMETERS  Ta = 23°C unless noted otherwise  \n \nPARAMETER  TEST CONDITIONS  MIN  TYP MAX  UNITS  \nLED   \nForward Current      25 mA \nForward Voltage   IF = 20mA   2.5 V \nReverse Current   VR = 4V    10 µA \nCell \nMaximum Cell Voltage   (Peak AC or DC)    60 V \nPower Dissipation   (1)   50 mW \nCoupled  \nOn Resistance    IF = 20mA   40 Ω \n   IF = 1mA  140  Ω \nOff Resistance  (2)   10 sec after IF = 0 mA, 5 V dc on cell  1 5  MΩ \nRise Time    Time for the dark to light change in conductance  \n   to reach 63% of its final value   5  msec.  \nDecay Time    Time to reach 100 KΩ after removal of IF =16 mA   5  msec.  \nCell Temp. Coefficient    IF > 5 mA   0.7  %/˚C \n \n \n 10 100 1000  10000  \n0.1 1 10 100 Resistance ( W) \nCurrent (mA)  Resistance vs. Current  \n'}]
+!==============================================================================!
+### Component Summary: NSL-32SR2 Optocoupler
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Maximum Cell Voltage: 60 V (Peak AC or DC)
+  - Isolation Voltage: 2000 V (at Ta = 23°C)
+
+- **Current Ratings:**
+  - Forward Current (LED): 25 mA
+  - Reverse Current (LED): 10 µA (at VR = 4V)
+
+- **Power Consumption:**
+  - Power Dissipation: 50 mW
+
+- **Operating Temperature Range:**
+  - Operating Temperature: -40 to +75 °C (non-condensing)
+  - Storage Temperature: -40 to +75 °C
+  - Soldering Temperature: +260 °C (for < 5 sec, >0.05” from case)
+
+- **Package Type:**
+  - Compact, moisture-resistant package
+
+- **Special Features or Notes:**
+  - Low LED current
+  - Passive resistance output
+  - Photocell resistance is high when the LED is off and low when the LED is on.
+  - Temperature sensitivity of CdS/CdSe photo resistors; operation above +75 °C may lead to irreversible changes in sensitivity.
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+#### Description:
+The NSL-32SR2 is an optocoupler that consists of an LED input optically coupled to a photocell. Its primary function is to provide electrical isolation between its input and output while allowing for signal transmission through light. The photocell's resistance changes based on the LED's state, making it useful for applications where light detection and control are required.
+
+#### Typical Applications:
+- **Industrial Sensing:** The NSL-32SR2 is commonly used in industrial applications for sensing light levels, enabling control systems to react to changes in ambient light conditions.
+- **Automation Systems:** It can be utilized in automation systems where isolation between control and power circuits is necessary.
+- **Lighting Control:** The component is suitable for applications in lighting control systems, where it can help manage the operation of lights based on environmental light levels.
+- **Safety Systems:** It can be integrated into safety systems that require light detection to trigger alarms or other safety measures.
+
+This optocoupler is particularly advantageous in environments where moisture resistance and temperature stability are critical, making it a reliable choice for various electronic applications.

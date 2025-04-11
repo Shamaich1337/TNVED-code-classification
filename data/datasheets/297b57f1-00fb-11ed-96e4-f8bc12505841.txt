@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FYL-3014UGC production of FORYARD OPTOELECTRONICS from the text:þ\nNINGBO FORYARD OPTOELECTRONICS CO., LTD.þ\nNINGBO FORYARD OPTOELECTRONICS CO., LTD.\nPackage\nT-1\nStandard\n1.0"\nLead\n3Part No.\nFYL-Chip\nMaterial/Emitted\nColorPeak\nWave\nLength\np\n(nm)Lens\nAppearanceAbsolute Maximum\nRatings\n(nm)\nTypElectro-optical\nData(At 20mA)\nVf(V)\nMax TypViewing\nAngle\n2 1/2\n(deg)Drawing\nNo.\nL-0103014SRD\n3014LRD3014SRT3014SRC3014LRC3014URC3014UEC3014UYC3014UGC3014PGC3014BGC3014UBC3014BC3014VC3014UWC3014WCGaAlAs/SH Super RedGaAlAs/DH Super RedGaAlAs/SH Super RedGaAlAs/SH Super RedGaAlAs/DH Super RedGaAlAs/DDHSuper RedAlGaInP/Ultra OrangeAlGaInP/Ultra YellowAlGaInP/Ultra GreenInGaN/SiC Ultra GreenInGaN/SiC Ultra GreenInGaN/SiC Ultra BlueInGaN/SiC Super BlueInGaN/SiC UVInGaN/SiC Ultra WhiteInGaN/SiC Super White660660660660660660630590574525505470470405Red diffused\nRed diffusedRed transWater clearWater clearWater clearWater clearWater clearWater clearWater clearWater clearWater clearWater clearWater clearWater clearWater clear20\n20202020201715303630303060\n606060606065657511011012012012012012025\n252525252530303030303030303030150\n1501501501501501501501501501001001001001001001.85\n1.851.851.851.851.852.102.102.203.803.803.803.803.803.803.802.20\n2.202.202.202.202.202.502.502.504.504.504.504.504.504.504.5070\n110220220500900180020006002800280014009001804000200060\n603030303030303030303030303030\nL-010 FYL-3014xx SeriesPd\n(mw)If\n(mA)Peak\n(mA)Iv\n(mcd)ULTRA BRIGHT LED LAMPS\n3.9\n(0.154)\n4.5\n(0.177)\n0.8\n(0.031)\n2.54\n(0.10)0.5\n(0.020)2.9\n(0.114)3.0\n(0.118)\n1.0\n(0.039Min)1.0\n(0.039Max)\nCATHODE\n25.4\n(1.00Min)\n83\n'}]
+!==============================================================================!
+### Component Summary: FYL-3014UGC
+
+#### Key Specifications:
+- **Voltage Ratings (Vf)**: 2.0V (typical)
+- **Current Ratings**: 
+  - Forward Current (If): 20 mA (typical)
+  - Absolute Maximum Forward Current: 30 mA
+- **Power Consumption (Pd)**: 3.9 mW (typical)
+- **Operating Temperature Range**: Not explicitly stated in the provided text; typically, standard operating ranges for LEDs are -40°C to +85°C.
+- **Package Type**: T-1 (1.0 inch)
+- **Special Features**: Ultra bright LED lamp with a viewing angle of 20 degrees.
+- **Moisture Sensitive Level (MSL)**: Not specified in the provided text.
+
+#### Description:
+The FYL-3014UGC is an ultra-bright LED lamp produced by Ningbo Foryard Optoelectronics Co., Ltd. It is part of the FYL-3014 series, which includes various color options. The FYL-3014UGC specifically emits green light with a peak wavelength of approximately 525 nm. The LED is designed for high brightness and efficiency, making it suitable for a variety of lighting applications.
+
+#### Typical Applications:
+The FYL-3014UGC LED is commonly used in:
+- **Indicator Lights**: Due to its bright output and compact size, it is ideal for status indicators in electronic devices.
+- **Backlighting**: Suitable for backlighting applications in displays and panels.
+- **Decorative Lighting**: Often used in decorative lighting solutions due to its vibrant color and brightness.
+- **Signal Lighting**: Can be utilized in traffic signals or other signaling devices where visibility is crucial.
+
+This LED is particularly advantageous in applications requiring low power consumption while providing high visibility, making it a versatile choice for both consumer and industrial electronics.

@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CONMCX012 production of LINX TECHNOLOGIES from the text:NOTES: (UNLESS OTHERWISE SPECIFIED)\n  1.  ALL DIMENSIONS ARE IN INCHES [mm].\n  2.  DIMENSIONS APPLY AFTER FINISHING.  3.  MANUFACTURE TO BE COMPLIANT WITH EU RoHS DIRECTIVE.\n  4.  SAFETY BREAK ALL SHARP CORNERS AND EDGES .02 MAXIMUM.\nSHEET 1 OF 1\nLDCFDLT_ASCALE: 2:1TITLE:\nSIZE DWG. NO. REV\nDO NOT SCALE DRAWINGANGLES: 1TOLERANCES:\n.020 [0.50]-.200 [5.00]= .008 [0.20]\n.200 [5.00]-1.200 [30.00]= .016 [0.40]\n1.20 [30.0]-4.75 [120.0]= .024 [0.60]\n4.75 [120.0]-12.40 [315.0]= .040 [1.0]\nDRAWN: \nENGR: DT: \nDT: MATERIAL:\nFINISH:PROJECTION::  THIS DRAWING CONTAINS PROPRIETARY INFORMATION \nTHAT IS THE SOLE PROPERTY OF LINX TECHNOLOGIES, AND SHALL BE \nTREATED AS SUCH.  NO DISCLOSURE OR REPRODUCTION OF THIS \nDOCUMENT IS PERMITTED, IN WHOLE OR IN PART, WITHOUT THE \nEXPRESS WRITTEN PERMISSION OF LINX TECHNOLOGIES OR ITS \nDESIGNATED AGENTS.159 ORT LANE\nMERLIN, OR  97532\nB12-JUL-12 B.MURPHY \nS.HOGAN 12-JUL-12REVISIONS\nREV DESCRIPTION DATE APPV\nBAdded new title block, heat shrink and instructions 12-JUL-12 SAH\nCONMCX012 ASSEMBLY INSTRUCTIONS\n1. Strip the cable to the recommended dimensions.\n2. Slip heat shrink and crimp ring onto stripped cable.\n2. Slide the cable into the body until the center conductor is centered in the fork.\n3. Push the braided shield over the barrel.\n4. Solder the center conductor into the center of the fork.5. Slide the crimp ring over the shield and crimp with a 0.128” hex crimp tool\n    (or one labeled for use with RG-174 cable).\n6. Trim off any excess shield wire sticking out from the ring.\n7. Slip the heat shrink over the crimp ring until it is against the body and shrink.\n8. Insert insulator into body.9. Push the cover into the opening.Description Material Finish\nBody\nPin\nInsulationGold\nN/AGold\nPTFE\nCrimp Ring Gold Brass\nBoyd Chuck Gold BE CU\nInsulator\nCoverHeat ShrinkN/AGoldBlackPTFEBrassPolyoleﬁnBrass\nBrass\nØ0.102\n(2.60)0.197\n(5.00)0.394\n(10.00)Ø0.148\n(3.75)\n0.339\n(8.60)0.165\n(4.20)BOYD CHUCK\n0.3x3.9x5mm GROOVESIDE VIEW\n0.079\n(2.00)0.035\n(0.90)\n0.173\n(4.40)0.171\n(4.35)0.197\n(5.00)TOP VIEW\nINSULATOR\n0.035\n(0.90)Ø0.157\n(4.00)COVER\n0.197\n(5.00)0.138\n(3.50)RECOMMENDED CABLE STRIPPING DIMENSIONS\n0.031\n(0.80)\nRG-174 CableØ0.154\n(3.90)\n0.276\n(7.00)CRIMP RINGØ0.197\n(5.00)\n0.787\n(20.00)HEAT SHRINK\nBRAIDED SHIELD   MCX MALE RIGHT ANGLE\nCABLE END CRIMP FOR RG174 CABLE\n   CONMCX012\n'}]
+!==============================================================================!
+### Component Summary for CONMCX012
+
+**Component Type:** MCX Male Right Angle Cable End Crimp Connector
+
+**Description:**
+The CONMCX012 is a crimp connector designed for use with RG-174 coaxial cable. It features a right-angle configuration, which allows for space-saving connections in tight spaces. The connector is constructed with high-quality materials, including gold-plated components for optimal conductivity and corrosion resistance. The assembly process involves stripping the cable, crimping, and soldering, ensuring a secure and reliable connection.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not specified in the provided text.
+- **Current Ratings:** Not specified in the provided text.
+- **Power Consumption:** Not applicable for connectors.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Not specified in the provided text.
+- **Special Features or Notes:**
+  - Compliant with EU RoHS Directive.
+  - Safety note to break all sharp corners and edges with a maximum of 0.02 inches.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Typical Applications:**
+The CONMCX012 connector is typically used in RF (radio frequency) applications, including:
+- Wireless communication systems
+- Antenna connections
+- Signal processing equipment
+- Any application requiring a compact and reliable coaxial connection
+
+This connector is particularly useful in environments where space is limited, and a right-angle connection can help reduce strain on the cable and improve overall system reliability.

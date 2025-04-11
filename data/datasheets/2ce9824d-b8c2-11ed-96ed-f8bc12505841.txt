@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of PS811-C production of DAHENG OPTICAL THIN FILM CENTER from the text:25.401.006.05 REF0.24\n2.67 0.15mm0.117°41'\n4°0'\nS2S1\nNOTES/SPECIFICATIONS:\nDESIGN WAVELENGTH: 633nm 1.\nCLEAR APERTURE: >80% OF DIAMETER 2.\nSURFACE FLATNESS (S1, S2): λ/10 AT DESIGN WAVELENGTH OVER CLEAR APERTURE 3.\nSURFACE QUALITY (S1, S2): 40-20 SCRATCH-DIG 4.\nANGULAR TOLERANCE: 30 arcsec 5.\nDIAMETER TOLERANCE: +0.0/-0.3mm 6.\nCOATING (S1, S2): BBAR Ravg <0.5% FROM 1050-1700nm, 0  AOI 7.\nD\nPS811-CMATERIALDRAWN\nAPPROVAL REVGG\nDD20/MAR/09DATE\n01/OCT/13w w w . t h o r  l a b s . c o m\nITEM # APPROX WEIGHTN-BK7\n0.02 kgVALUES IN PARENTHESIS ARE CALCULATED\nAND MAY CONTAIN ROUNDOFF ERRORSDRAWING\nPROJECTION\nNAME\nFOR INFORMATION ONLY \nNOT FOR MANUFACTURING PURPOSES4 ROUND WEDGE PRISM, 25.4mm\nBBAR COATED1050-1700nm\nCOPYRIGHT © 2012 BY THORLABS \n"}]
+!==============================================================================!
+### Component Summary: PS811-C
+
+**Component Type:** Optical Component (Round Wedge Prism)
+
+**Key Specifications:**
+- **Design Wavelength:** 633 nm
+- **Clear Aperture:** >80% of diameter
+- **Surface Flatness (S1, S2):** λ/10 at design wavelength over clear aperture
+- **Surface Quality (S1, S2):** 40-20 scratch-dig
+- **Angular Tolerance:** 30 arcseconds
+- **Diameter Tolerance:** +0.0/-0.3 mm
+- **Coating (S1, S2):** BBAR (Broadband Anti-Reflective) coating with Ravg <0.5% from 1050-1700 nm at 0° Angle of Incidence
+- **Approximate Weight:** 0.02 kg
+- **Material:** N-BK7 (Borosilicate glass)
+
+**Moisture Sensitive Level:** Not specified in the provided text.
+
+### Description:
+The PS811-C is a round wedge prism designed for optical applications. Its primary function is to manipulate light through refraction, which can be utilized in various optical systems. The prism is coated with a broadband anti-reflective coating, making it suitable for applications that require minimal light loss across a wide range of wavelengths (1050-1700 nm).
+
+### Typical Applications:
+- **Optical Systems:** Used in laser applications, imaging systems, and optical instruments where precise light manipulation is required.
+- **Beam Steering:** The wedge shape allows for angular adjustments of light paths, making it useful in beam steering applications.
+- **Interferometry:** The high surface quality and flatness make it suitable for interferometric setups where precise measurements of light interference patterns are necessary.
+- **Spectroscopy:** The prism can be used in spectroscopic applications to analyze light properties across a range of wavelengths.
+
+This component is particularly valuable in research and development settings, as well as in industries that rely on advanced optical technologies.

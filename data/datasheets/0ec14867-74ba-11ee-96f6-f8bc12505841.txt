@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of U-CP-130513p production of UNION OPTRONICS CORP. from the text:U-CP-1305013p                 U-CP-13XX SERIES LASER DIODE  CHIP  \n                                                                                Ver.A \nUNION OPTRONICS CORP.  \nNo.156, Gaoshih Rd., Yangmei Township, Taoyuan County 326, Taiwan (R.O.C.)  \nTEL: 886 -3-485-2687   FAX : 886 -3-475-4378  \nE-mail: sales@uocnet.com     Website:http://www.uocnet.com  \n1 / 2 \n■ Features  \n1. 1310nm wavelength . \n2. 1.25/2.5 Gbps Laser diode bare chip  \n3. Wide operation temperature range  \n■ Applications  \n1. Optical communication  \n■ External dimensions(Unit : μm) \n \n \n \n◎ P-electrode and N-electrode are both gold pads.  \n\nU-CP-1305013p                 U-CP-13XX SERIES LASER DIODE  CHIP  \n                                                                                Ver.A \nUNION OPTRONICS CORP.  \n2 / 2 \n \n \n■ Electrical and Optical Characteristics( Tc=25  ℃) \nParameter  Symbol  Condition  Min.  Typ. Max.  Unit \nThreshold Current  Ith Tc=25℃ - 7  15  mA \nOperating V oltage  V op Po=5mW,  Tc=25℃ - 1.25  1.5  V \nSlope Efficiency  SE Po=1 to 5mW  0.34  0.40  - mW/mA  \nLasing Wavelength  λ Po=5mW  1290  1310  1330  nm \nSpectral Width  Δλ  Po=5mW  - 1.8  3  nm  \nRise Time  Tr Po=5mW, 20 -80% - - 150  ps \nFall Time  Tf Po=5mW, 20 -80% - - 150  ps \nBeam Divergence  Parallel  θ// Po=5mW  - 22  - deg. \n(FWHM)  Perpendicular  θ⊥ Po=5mW  - 34  - deg. \n◎ θ// and θ ⊥ are defined as the angle within which the intensity is 50% of the peak value.  \n■ Precautions  \nQUALITY ASSURANCE  \nAfter any processing of laser chip or laser diode TO -CAN (LD) by the customer, the performance, yield and \nreliability of the product, in which the chip or LD is applied, are subject to change due to customer’s \nhandling, assembly, testing, and processing. B ecause laser chip and LD are strongly affected by \nenvironmental conditions, physical stress, and chemical stresses imposed by customer that are not in Union \nOptronics Corp. (UOC) control and hence no guarantee on the characteristics and the reliability at all after \nthe shipment. Also, UOC does not have any responsibility for field failures in a customer product. When \nattaching a heat sink to laser chip or LD, be careful not to apply excessive force to the device in the process.  \nSAFETY PRECAUTIONS  \nAlthough U nion Optronics Corp. (UOC) keeps improving quality and reliability of its laser chip and laser \ndiode TO -CAN (LD), semiconductor devices in general can malfunction or fail due to their intrinsic \ncharacteristics. Hence, it is required that the customer’s pro ducts are designed with full regard to safety by \nincorporating the redundancy, fire prevention, error prevention so that any problems or error with UOC laser \nchip or LD does not cause any accidents resulting in injury, death, fire, property damage, economi c damage, \nor environmental damage. In case customer wants to use UOC laser chip or LD in the systems requiring \nhigh safety, customer is requested to confirm safety of entire systems with customer’s own testing.  \nSPECIFICATIONS ARE SUBJECT TO CHANGE WITHOUT NOTICE.  \nThe information provided by Union Optronics Corp. (UOC), including but not limited to technical \nspecifications, recommendations, and application notes relating to laser chip or laser diode TO -CAN (LD) is \nbelieved to be reliable and accurate and is subject to change without notice.  UOC reserves the right to \nchange its assembly, test, design, form, specification, control, or function without notice.  \n'}]
+!==============================================================================!
+### Component Summary: U-CP-130513p (U-CP-13XX Series Laser Diode Chip)
+
+#### Key Specifications:
+- **Wavelength**: 1310 nm
+- **Data Rate**: 1.25/2.5 Gbps
+- **Threshold Current (Ith)**: 
+  - Minimum: 7 mA
+  - Typical: 15 mA
+- **Operating Voltage (Vop)**: 
+  - Minimum: 1.25 V
+  - Typical: 1.5 V
+- **Slope Efficiency (SE)**: 
+  - Minimum: 0.34 mW/mA
+  - Typical: 0.40 mW/mA
+- **Lasing Wavelength (λ)**: 
+  - Range: 1290 nm to 1330 nm
+- **Spectral Width (Δλ)**: 
+  - Maximum: 3 nm
+- **Rise Time (Tr)**: Maximum 150 ps
+- **Fall Time (Tf)**: Maximum 150 ps
+- **Beam Divergence**: 
+  - Parallel (θ//): Maximum 22 degrees
+  - Perpendicular (θ⊥): Maximum 34 degrees
+- **Operating Temperature Range**: Wide range (specific values not provided)
+- **Package Type**: Bare chip
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The U-CP-130513p is a laser diode chip designed for high-speed optical communication applications. It operates at a wavelength of 1310 nm and supports data rates of 1.25 Gbps to 2.5 Gbps. The device is characterized by its low threshold current and efficient performance, making it suitable for various optical transmission systems.
+
+#### Typical Applications:
+- **Optical Communication**: The primary application of the U-CP-130513p is in optical communication systems, where it is used to transmit data over fiber optic cables. Its high-speed capabilities make it ideal for telecommunications and data center interconnects.
+- **Data Transmission**: It can be utilized in various data transmission applications requiring reliable and fast optical signals.
+
+#### Special Features:
+- The laser diode chip features gold pads for both the P-electrode and N-electrode, which enhances its reliability and performance.
+- The device is designed to operate over a wide temperature range, making it versatile for different environmental conditions.
+
+#### Precautions:
+- The manufacturer emphasizes the importance of careful handling and assembly to maintain the performance and reliability of the laser diode chip.
+- Safety precautions are highlighted due to the potential for malfunction or failure, necessitating robust design considerations in customer applications.
+
+This summary provides a comprehensive overview of the U-CP-130513p laser diode chip, detailing its specifications, applications, and important considerations for use.

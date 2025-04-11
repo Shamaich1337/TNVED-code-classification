@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of ADAS.01.001_WINDOW production of OPLENTICS from the text: 28,6 \n2x 0,3 x 45° 2 \nRa 0,05Ra 0,05\n0,1B0,1BB\nClear aperture > 19 mm 1.\nSurface quality 40-20 Scratch-dig2.\nDiametr tolerance +0.00/-0.15 mm3.\nThickness tolerance 0.1 mm 4.\nCoating BBAR 380-780 nm, Ravg < 1%5.\nAlternate material N-BK7, Silica6.ne 3Á\n(nF'-nC') 3Â\nÎäíîðîäí. 1\nÄâóëó÷åïð. 2\nÁåññâèëüí. 1Á\nÏóçûðí. 3Ã\nN 3\nN 0,5\nP V\nA AB BC CD DE EF F\n44\n33\n22\n11\nDRAWN\nCHK'D\nAPPV'D\nMFG\nQ.AUNLESS OTHERWISE SPECIFIED:\nDIMENSIONS ARE IN MILLIMETERS\nSURFACE FINISH: Ra 6.3\nTOLERANCES:\n   LINEAR: 0.1 mm\n   ANGULAR: 5 arcminFINISH: DEBURR AND \nBREAK SHARP \nEDGES\nNAME SIGNATURE DATE\nMATERIAL:Scale: 4:1REVISION\nTITLE:\nDWG NO.\nSCALE:4:1 SHEET 1 OF 1A4\nWEIGHT: 3.4 g Gurovich\nSalmin\nADAS01.001Window\nSapphire\n"}]
+!==============================================================================!
+### Component Summary for ADAS.01.001_WINDOW by OPLENTICS
+
+#### Key Specifications:
+- **Material**: Sapphire
+- **Clear Aperture**: > 19 mm
+- **Surface Quality**: 40-20 Scratch-dig
+- **Diameter Tolerance**: +0.00/-0.15 mm
+- **Thickness Tolerance**: 0.1 mm
+- **Coating**: BBAR (Broadband Anti-Reflection) for 380-780 nm, with average reflectance (Ravg) < 1%
+- **Surface Finish**: Ra 0.05
+- **Weight**: 3.4 g
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The ADAS.01.001_WINDOW is a high-quality optical window made from sapphire, designed for use in advanced driver-assistance systems (ADAS). Its primary function is to provide a protective barrier for sensors and cameras while allowing optimal light transmission. The sapphire material is chosen for its durability, scratch resistance, and excellent optical properties.
+
+#### Typical Applications:
+- **ADAS**: The component is specifically designed for use in advanced driver-assistance systems, where it protects optical sensors and cameras that are critical for functions such as lane departure warning, adaptive cruise control, and collision avoidance.
+- **Optical Systems**: It can also be used in various optical applications where high durability and low reflectance are required, such as in industrial imaging systems, scientific instruments, and military applications.
+- **Environmental Protection**: The sapphire window provides protection against environmental factors, ensuring the reliability and longevity of sensitive electronic components in harsh conditions.
+
+This summary encapsulates the essential characteristics and applications of the ADAS.01.001_WINDOW, highlighting its role in enhancing the performance and durability of optical systems in automotive technology.

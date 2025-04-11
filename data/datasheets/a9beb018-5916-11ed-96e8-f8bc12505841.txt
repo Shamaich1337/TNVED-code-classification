@@ -1,0 +1,66 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ACD06PS065C production of ALPHA POWER SOLUTIONS from the text: ACD06PS065C \nSilicon Carbide  Schottky  Diode  \n                                          \n \nRevision 2.0                                      P.1 of 4 \n \nThis document is the property of ALPHA POWER SOLUTIONS LIMITED , and not allowed to copy or transformed to other format if not \nunder the authority approval.  \nProduct Summary  \n \nVR = 650 V \nIF = 6A (TC=150oC)  \nQc = 15nC (VR=400V)   \n     \n \n \n \n \n \n  TO-220-2 \n \nFeatures  \n• Zero Forward/Reverse Recovery  \n• High Blocking Voltage  \n• High Frequency Operation  \n• Positive Temperature Coefficient on V F \n• Temperature Independent Switching Behavior  \n \n          \nBenefits  \n• High System Efficiency  \n• Parallel Device Convenience  \n• High Temperature Application  \n• High Frequency Operation  \n• Hard Switching & High Reliability  \n• Environmental Protection  \nApplications  \n• Switch Mode Power Suppli es \n• Solar Inverters  \n  \n• AC/DC converters  \n• DC/DC converters  \n• Uninterruptable power supplies  \n \nMaxim um Ratings    (TC=25°C unless otherwise specified)  \nParameter  Symbol  Test conditions  Value  Unit \nPeak Repetitive Reverse Voltage  VRRM   650 V \nPeak Reverse Surge Voltage  VRSM   650 V \nDC Blocking Voltage  VR  650 V \nContinuous Forward Current   IF TC=25°C  \nTC=135°C  \nTC=150°C  19 \n8 \n6 A \nNon repetitive Forward Surge Current   \n IFSM TC = 25°C, t p=10 ms,  \nHalf Sine Pulse  \nTC = 110°C, t p=10 ms,  \nHalf Sine Pulse  \nTC = 25°C, t p=10 µs, \nSquare  40 \n \n35 \n \n300 \n A \nRepetitive peak Forward Surge Current   IFRM TC = 25°C, t p=10 ms,  \nFreq = 0.1Hz, 100 cycles,  \nHalf Sine Pulse  \nTC = 110°C, t p=10 ms,  \nFreq = 0.1Hz, 100 cycles,  \nHalf Sine Pulse  35 \n \n \n30 A \nTotal power dissipation   PD TC=25°C  68 W \nOperating Junction Temperature  TJ  -55 to 175 °C \nStorage Temperature  TSTG  -55 to 175  °C \n \nStresses exceeding those listed in the Maximum Ratings table may damage the device. If any of these limits are exceeded, device \nfunctionality  should not be assumed, damage may occur and reliability may be affected.  \n\n ACD06PS065C \nSilicon Carbide  Schottky  Diode  \n                                          \n \nRevision 2.0                                      P.2 of 4 \n \nThis document is the property of ALPHA POWER SOLUTIONS LIMITED , and not allowed to copy or transformed to other format if not \nunder the authority approval.  \nElectrical Characteristics  \nParameter  Symbol  Test c ondition s Min Typ Max Unit \nDC Blocking Voltage   VDC IR = 250µ A,TJ = 25°C 650   V \nForward Voltage   VF IF = 6A, TJ = 25°C \n 1.45 1.8 V \nIF = 6A, T J = 125°C 1.6   \nIF = 6A, TJ = 175 °C 1.75  V \nRevers e Current   IR VR = 650V, T J = 25°C \n 7 80 uA \nVR = 650V, T J = 125°C 38  uA \nVR = 650V, T J = 175 °C 108  uA \nTotal Capacitive Charge   QC VR = 400V   15  nC \nTotal Capacitance   C VR = 1V, T J = 25°C, \nFreq = 1MHz  \n 230 \n pF VR = 200V, T J = 25°C, \nFreq = 1MHz  33 \nVR = 400V, T J = 25°C, \nFreq = 1MHz  24 \n \nThermal  Characteristics  \nParameter  Symbol  Condition  Min Typ Max Unit \nThermal Resistance  Rth(j-c) junction -case   1.8  0C/W \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n\n ACD06PS065C \nSilicon Carbide  Schottky  Diode  \n                                          \n \nRevision 2.0                                      P.3 of 4 \n \nThis document is the property of ALPHA POWER SOLUTIONS LIMITED , and not allowed to copy or transformed to other format if not \nunder the authority approval.  \n \nTypical Electrical Curves  \n \nFigure 1. Forward Characteristics            Figure 2. Forward Characteristics  \n \n          \n           \n \n                  \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 3. Reverse  Characteristics                 Figure 4. Power Derating  \n             \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 5. Capacitance vs Reverse Voltage      Figure 6. Recovery  Charge vs Reverse Voltage  \n \n               \n  \n\n ACD06PS065C \nSilicon Carbide  Schottky  Diode  \n                                          \n \nRevision 2.0                                      P.4 of 4 \n \nThis document is the property of ALPHA POWER SOLUTIONS LIMITED , and not allowed to copy or transformed to other format if not \nunder the authority approval.  \nPackage Dimen sions    \n(TO-220-2 Package ) \n \n \n \nPart Number  Package  Packing  Marking  M.O.Q  \nACD06PS065C  TO-220-2 50pcs / Tube  ACD06PS065C  500 \n \n \nAlpha Power Solutions  \nACD: APS SiC Diode; 06: 6A current; P: Planar Technology;  \nS: Single diode; 065: 650V voltage; C: TO -220-2 \n7-9 digits: Traceable code  \n'}]
+!==============================================================================!
+### Component Summary: ACD06PS065C
+
+**Component Type:** Silicon Carbide Schottky Diode
+
+**Manufacturer:** Alpha Power Solutions
+
+---
+
+#### Key Specifications:
+
+- **Voltage Ratings:**
+  - Peak Repetitive Reverse Voltage (VRRM): 650 V
+  - DC Blocking Voltage (VR): 650 V
+  - Peak Reverse Surge Voltage (VRSM): 650 V
+
+- **Current Ratings:**
+  - Continuous Forward Current (IF):
+    - 19 A (at TC=25°C)
+    - 8 A (at TC=135°C)
+    - 6 A (at TC=150°C)
+  - Non-repetitive Forward Surge Current (IFSM): 
+    - 40 A (at TC=25°C, tp=10 ms)
+    - 35 A (at TC=110°C, tp=10 ms)
+    - 300 A (at TC=25°C, tp=10 µs)
+
+- **Power Consumption:**
+  - Total Power Dissipation (PD): 68 W
+
+- **Operating Temperature Range:**
+  - Junction Temperature (TJ): -55 to 175 °C
+  - Storage Temperature (TSTG): -55 to 175 °C
+
+- **Package Type:**
+  - TO-220-2
+
+- **Special Features:**
+  - Zero Forward/Reverse Recovery
+  - High Blocking Voltage
+  - High Frequency Operation
+  - Positive Temperature Coefficient on Forward Voltage (VF)
+  - Temperature Independent Switching Behavior
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+---
+
+#### Description:
+
+The ACD06PS065C is a Silicon Carbide (SiC) Schottky diode designed for high-efficiency power applications. Schottky diodes are known for their low forward voltage drop and fast switching capabilities, making them ideal for high-frequency applications. The ACD06PS065C features a high blocking voltage of 650 V and a continuous forward current rating of 6 A at elevated temperatures, which allows it to operate effectively in demanding environments.
+
+---
+
+#### Typical Applications:
+
+The ACD06PS065C is suitable for a variety of applications, including:
+
+- **Switch Mode Power Supplies (SMPS):** Utilized for efficient power conversion and regulation.
+- **Solar Inverters:** Converts DC from solar panels to AC for grid connection or local use.
+- **AC/DC Converters:** Converts alternating current to direct current.
+- **DC/DC Converters:** Converts one level of DC voltage to another.
+- **Uninterruptible Power Supplies (UPS):** Provides backup power and protects against outages.
+
+The combination of high efficiency, reliability, and thermal performance makes this diode an excellent choice for modern power management solutions.

@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CR-M51V81-259 production of GYSUNTEC from the text: \n PPrroodduucctt  DDeessccrriippttiioonn \n(SFP), with Diagnostic Monitoring 2Mbps C37.94  \n \nFFeeaattuurreess    \n\uf06c\uf06c  IIEEEEEE  CC3377..9944  aapppplliiccaattiioonn  \n\uf06c\uf06c  RRooHHSS  ccoommpplliiaanntt  \n\uf06c\uf06c  CCoommpplliiaanntt  wwiitthh  SSFFFF88447722  ddiiaaggnnoossttiicc  mmoonniittoorriinngg  IInntteerrffaaccee  \n\uf06c\uf06c  DDuupplleexx  LLCC  ccoonnnneeccttoorr  \n\uf06c\uf06c  SSiinnggllee  ppoowweerr  ssuuppppllyy  33..33VV  \n\uf06c\uf06c  HHoott  PPlluuggggaabbllee  \n\uf06c\uf06c  CCllaassss  11  llaasseerr  pprroodduucctt  ccoommpplliieess  wwiitthh  EENN  6600882255--11  \n\uf06c\uf06c  OOppeerraattiinngg  ccaassee  tteemmppeerraattuurree::    \n\uf06c\uf06c  IInndduussttrriiaall::  --4400  ℃℃~~  ++8855℃℃      \n  \nSSppeecciiffiiccaattiioonn  \n \nAbsolute Maximum Ratings  \nParameter  Symbol  Min. Max.  Unit \nStorage Temperature  TS -40 +85 ℃ \nSupply Voltage  VCC -0.5 4 V \nInput Voltage  \n VIN -0.5 VCC V \n \nRecommended Operating Conditions  \n Parameter  Symbol  Min. Typical  \n Max.  Unit \nOperating Case Temperature   -40 25 85 ℃ \nPower Supply Voltage  VCC3  3.135 3.3 3.465 V \nICC3 - - 150 mA \nData Rate  Mb/s - 2 - Mbps \nTransmission Distance   - - 2 km \n \n \n \n \n \n \n V1.0  2Mbps SFP Transceiver Duplex LC 850nm Reach 2KM  \n   CR -M51V81- 259 \n \nCR-M51V81-259 RoHS compliant 850 nm Multi-mode Transceiver, 2km Small Form Pluggable \nData Sheet  V1.0                    - 1 -                CR-M51V81-259 \n \n Transmitter Operating Characteristic -Optical,  Electrical  \nParameter  Symbol  Min. Typical  Max.  Unit Note  \nOutput Optical Power  \n62.5/125μm fiber  Pout -19 - -11 nm   \nOutput Optical Power  \n50/125μm fiber  Pout -23 - -11 nm  \nExtinction Ratio  ER 12 - - dB  \nCenter Wavelength  λ 830 850 860 dB  \nSpectral Width (RMS)  Δλ - - 1 Nm  \nMax. Pout TX -DISABLE Asserted  POFF  - - -45 dBm  \nDifferential Input Voltage  VDIFF  0.4 - 2 V  \n \nReceiver Operating Characteristic -Optical,  Electrical  \nPara meter  Symbol  Min. Typ. Max.  Unit Note  \nOptical Input Power -maximum  PIN -8 - - dBm \n \nOptical Input Power -minimum  \n(Sensitivity)  PIN - - -32 dBm \n \nOperating Center Wavelength  λC 790 - 870 Nm  \nLOS-Deasserted  PA - - -32 dBm  \nLOS-Asserted  PD -45 - - dBm  \nDifferential Output Voltage  VDIFF 0.6 - 1.8 V  \nReceiver Loss of Signal Output  \nVoltage -Low RX_LOS L 0 - 0.5 V  \nReceiver Loss of Signal Output  \nVoltage -High RX_LOS H 2.4 - VCC V  \n \nDDiiggiittaall  DDiiaaggnnoossttiicc  MMeemmoorryy  MMaapp  \n \n \nData Sheet  V1.0                    - 2 -                CR-M51V81-259 \n \n PPiinn--oouutt  DDeeffiinniittiioonn  \n \n \nFigure1  \n  \nPPiinn  AAssssiiggnnmmeenntt  \nPin Logic  Symbol  Name/Description  Note  \n1  VeeT Module Transmitter Ground  Note1  \n2 LVTTL -O TX_Fault Module Transmitter Fault Note2  \n3 LVTTL -I TX_Disable  Transmitter Disable; Turns o ff transmitter laser output  Note3  \n4 LVTTL -I/O SDA 2-wire Serial Inte rface Data Line (Same as MOD -DEF2 as deﬁned in \nthe INF -8074i)  Note4  \n5 LVTTL -I/O SCL 2-wire Serial Inter face Clock (Same as MOD -DEF1 as deﬁned in the \nINF-8074i)  Note4  \n6  MOD_ABS  Module Absent, connected to VeeT or VeeR in the module  Note5  \n7 LVTTL -I RS0 Not used   \n8 LVTTL -O RX_LOS  Rece iver Loss of Signal Indication (In FC designated as RX_LOS, in \nSONET designated as LOS, and in Ethernet designated at Signal Detect)  Note2  \n9 LVTTL -I RS1 Not used   \n10  VeeR Module Rece iver Ground Note1  \n11  VeeR Module Rece iver Ground Note1  \n12 CML -O RD- Rece iver Inverted Data Output   \n13 CML -O RD+ Rece iver Non -Inverted Data Output   \n14  VeeR Module Rece iver Ground  Note1  \n15  VccR  Module Rece iver 3.3 V Supply   \n16  VccT  Module Transmitter 3.3 V Supply   \n17  VeeT Module Transm itter Ground  Note1  \n18 CML -I TD+ Transmitter Non -Inverted Data Input   \nData Sheet  V1.0                    - 3 -                CR-M51V81-259 \n \n 19 CML -I TD- Transmitter I nverted Data Input   \n   20  VeeT Module Transmitter Ground  Note1  \nNotes:  \n[1] The module signal ground pins, VeeR and VeeT, shall be isolated from the module ca se. \n[2] This pin is an open  collector/drain  output  pin and shall be pulled  up with 4.7k-10kohms  to Host_Vcc on  the host board.  Pull ups \ncan be connected to multiple power supplies, however the host board design shall ensure that no module pin has voltage \nexceeding module VccT/R + 0.5 V.  \n[3] This pin is an open collector/drain input pin and shall be pulled up with 4.7k -10kohms to VccT in the module.  \n[4] See SFF -8431 4.2 2 -wire Electrical Specifications.  \n[5] This pin shall be pulled up with 4.7k -10kohms to Ho st_Vcc on the host board.  \n \nDDiimmeennssiioonnss  \nUint: mm \n \nFigure 4 \n \n \n \n \n \n \n \n \nData Sheet  V1.0                    - 4 -                CR-M51V81-259 \n'}]
+!==============================================================================!
+### Component Summary for CR-M51V81-259
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Supply Voltage (VCC): 3.135V to 3.465V (typical 3.3V)
+  - Absolute Maximum Supply Voltage: -0.5V to 4V
+  - Input Voltage: -0.5V to VCC
+
+- **Current Ratings:**
+  - Maximum Supply Current (ICC3): 150 mA
+
+- **Power Consumption:**
+  - Operating Power Supply Voltage: 3.3V
+
+- **Operating Temperature Range:**
+  - Storage Temperature: -40°C to +85°C
+  - Operating Case Temperature: -40°C to +85°C
+
+- **Package Type:**
+  - Small Form Pluggable (SFP)
+
+- **Special Features:**
+  - RoHS compliant
+  - Diagnostic monitoring interface compliant with SFF8472
+  - Hot pluggable
+  - Class 1 laser product compliant with EN 60825-1
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided text.
+
+#### Component Description:
+The CR-M51V81-259 is an 850 nm multi-mode transceiver designed for Small Form Pluggable (SFP) applications. It operates at a data rate of 2 Mbps and is capable of transmitting data over distances of up to 2 km. This transceiver is compliant with the IEEE C37.94 standard and features diagnostic monitoring capabilities, making it suitable for various industrial applications.
+
+#### Typical Applications:
+The CR-M51V81-259 is typically used in:
+- **Telecommunications:** For data transmission in fiber optic networks.
+- **Industrial Automation:** To facilitate communication between devices in industrial settings.
+- **Data Centers:** For connecting servers and switches over short to medium distances.
+- **Signal Processing:** In applications requiring reliable data transfer with diagnostic capabilities.
+
+This transceiver is particularly useful in environments where monitoring and diagnostics of the optical signal are critical, ensuring optimal performance and reliability in data communication systems.

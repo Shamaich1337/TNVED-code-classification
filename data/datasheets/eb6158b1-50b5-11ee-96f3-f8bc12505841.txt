@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 1DH547D250-13WG production of BM-CAPACITOR from the text:TZ-1DH547D250-13WGD29.5\n2313.5≥1600MΩ(100VDC/60s)\n26101.6UR/10s  no exceptional250VDC\nInsulatingresistance6\nName\nof\npart\nDrawing \nNo.date auditing authorize scale plot designFONGMING ELECTRONIC TECH. CO., LTD.\n(RoHS)Envelop Capacitors\nProductDrawing\nM0820Name\nofproductLead type (d)Rated voltage\nRange of  temperature\nTinned cuprum pin, φ0.8mm.-40～105℃VT-T(terminal and terminal)Tangent of loss angle ≤0.0012(1KHz  1V)Capacitance tolerance ±5%(J)Rated Capacitance 4.7μF/475PartNo. 1DH547D250-13WG\nType CBB21\nHeight（H）Length（L）\nBreadth（B）\nTerminals length(E)\nDistancebetween\nTerminals （P）E±1H(MAX)1.5(MAX)\nΦd±0.05L(MAX) B(MAX)\n250V 475 JCBB21\nYongTao\nLiP±1\nJingMing\nLiangGuiZhong\nLouWave soldering process conditions: perheat temperature 105/MAX, ℃\nlargest tin temperature260/MAX ℃， tin on the total time of 5s\n'}]
+!==============================================================================!
+### Component Summary for 1DH547D250-13WG (BM-CAPACITOR)
+
+#### Key Specifications:
+- **Voltage Rating:** 250V DC
+- **Current Rating:** Not specified in the provided text.
+- **Power Consumption:** Not specified in the provided text.
+- **Operating Temperature Range:** -40°C to +105°C
+- **Package Type:** CBB21 (Envelop Capacitor)
+- **Special Features/Notes:**
+  - Insulating resistance: ≥1600 MΩ (100VDC/60s)
+  - Tangent of loss angle: ≤0.0012 (1KHz, 1V)
+  - Capacitance tolerance: ±5% (J)
+  - Rated Capacitance: 4.7μF (475)
+  - Lead type: Tinned copper pin, φ0.8mm
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The 1DH547D250-13WG is a CBB21 type capacitor manufactured by Fongming Electronic Tech Co., Ltd. It is an envelop capacitor designed for various electronic applications. The primary function of this component is to store electrical energy and filter signals in electronic circuits. It is characterized by its high voltage rating and low loss angle, making it suitable for applications requiring stability and reliability.
+
+#### Typical Applications:
+- **Power Management:** Used in power supply circuits to smooth out voltage fluctuations and provide stable power.
+- **Signal Processing:** Employed in audio and radio frequency circuits to filter out unwanted frequencies and improve signal quality.
+- **Timing Circuits:** Utilized in timing applications where precise capacitance is required for timing intervals.
+- **Coupling and Decoupling:** Commonly used in coupling and decoupling applications to block DC while allowing AC signals to pass.
+
+This capacitor is particularly useful in environments where high reliability is essential, given its wide operating temperature range and high insulating resistance.

@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of S2.6IR-3MP production of LUMENS SOLUTION from the text: 0-25 25-50 50-100 Unit\n±0.1 ±0.2 ±0.3 mm\nModel No. S2.6IR（3MP）\nFocal\nResolution 1/2.7''2.6mm Aperture F2.0\n0.3m\n/Format\nM.O.D\nFlange focal lengthMount Optical Distortion\nTotal track length 22.7mm3MP\nM12\nIR Correct78.00%\nBack focal length 5.3mmWeight 20g\nNO\nFocus Manual\nDIris Fixed\nFOV Operating temperature\nH\nV-20℃～70℃1/2.7''\n160\n130\n68\nReviser: Hans Zhou Approved:  Jack LinToleranceDimensions\nTolerance\nDate: 2020-11-20\n\n"}]
+!==============================================================================!
+### Component Summary for S2.6IR-3MP
+
+**Component Type:** Camera Lens (IR Corrected)
+
+**Key Specifications:**
+- **Model Number:** S2.6IR-3MP
+- **Focal Length:** 2.6 mm
+- **Aperture:** F2.0
+- **Format:** 1/2.7"
+- **Minimum Object Distance (M.O.D):** 0.3 m
+- **Flange Focal Length:** 22.7 mm
+- **Back Focal Length:** 5.3 mm
+- **Optical Distortion:** 78.00%
+- **Weight:** 20 g
+- **Focus Type:** Manual
+- **Iris Type:** Fixed
+- **Field of View (FOV):** 
+  - Horizontal: 160°
+  - Vertical: 130°
+- **Operating Temperature Range:** -20°C to 70°C
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+**Description:**
+The S2.6IR-3MP is a compact, manual focus camera lens designed for infrared (IR) applications. It features a focal length of 2.6 mm and is optimized for use with 3MP image sensors. The lens has a fixed aperture of F2.0, allowing for adequate light transmission in various lighting conditions. Its design includes IR correction, making it suitable for capturing clear images in the infrared spectrum.
+
+**Typical Applications:**
+The S2.6IR-3MP lens is typically used in:
+- Surveillance and security cameras, particularly those requiring IR capabilities for night vision.
+- Machine vision systems where precise imaging is critical.
+- Robotics and automation applications that utilize visual feedback.
+- Any application that requires a wide field of view and the ability to operate effectively in varying temperatures.
+
+This lens is particularly valuable in environments where low-light performance is essential, and its compact size makes it suitable for integration into small camera systems.

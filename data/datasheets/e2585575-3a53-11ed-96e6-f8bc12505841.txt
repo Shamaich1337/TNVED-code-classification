@@ -1,0 +1,48 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BST5-150ICV1M production of BYD SEMICONDUCTOR from the text:BST5-150ICV1M\nDatasheet WI-D06F06-H-0050Rev.A/3 Page1of6Description\nFortheelectronicmeasurementofcurrent:DC,AC,pulsed…,withgalvanicisolationbetweentheprimary(high\npower)andthesecondarycircuit(electroniccircuit).\nFeatures\n\uf075Closedloopmulti-rangecurrentsensors\n\uf075Voltageoutput\n\uf075Unipolarsupplyvoltage\nAdvantages\n\uf075Verylowoffsetdrift\n\uf075Verygooddv/dtimmunity\nApplications\n\uf075UninterruptiblePowerSupplies(UPS)\n\uf075Powersuppliesforweldingapplications\n\uf075Switched-ModePowerSupplies\n(SMPS)\n\uf075Solarinverters\n\uf075ACvariablespeedandservomotor\ndrives\nStandards\n\uf075IEC61800-1:1997\n\uf075IEC61800-2:2015\n\uf075IEC61800-3:2004\n\uf075IEC61800-5-1:2007\n\uf075IEC62109-1:2010\n\uf075IEC62477-1:2012\nApplicationDomain\n\uf075industrial\n\uf075Batterysuppliedapplications\nBST5-150ICV1M\nDatasheet WI-D06F06-H-0050Rev.A/3 Page2of6Absolutemaximumratings\nStressesabovetheseratingsmaycausepermanentdamage.Exposuretoabsolutemaximumratingsforextendedperiodsmaydegrade\nreliability.\nEnvironmentandmechanicalcharacteristics\nParameter SymbolUnitMinTypeMaxComment\nAmbientoperatingtemperature TA ℃ -40 85\nAmbientstoragetemperature TS ℃ -55 125\nMass m g 46Parameter Symbol Unit Value\nMaximumsupplyvoltage Vcmax V 7\nMaximumprimaryconductor\ntemperatureTBmax ℃ 110\nESDrating,HumanBodyModel(HBM) UESDHBM KV 4\nRMSvoltageforACisolationtest,\n50/60Hz/1minVd KV 3\nPulsevoltagetest,1.2/50uS Vp KV 8\nInsulationresistance,@500VDC Ri GΩ 200\nComparativetrackingindex CTI 600\nClearance(pri.–sec.) dcl mm 12.9\nCreepagedistance(pri.–sec.) dcp mm 12.9\nBST5-150ICV1M\nDatasheet WI-D06F06-H-0050Rev.A/3 Page3of6ElectricaldataBST5-150ICV1M\nAtT=25℃,Vc=+5V,Np=1turn,RL=10kΩ\nParameter SymbolUnitMinType Max Comment\nPrimarynominalcurrent\nrms IPNA 150\nPrimarycurrent,measuring\nrangeIPMA-450 450\nSupplyvoltage VCV4.75 5 5.25\nCurrentconsumption ICmA 8+IP(mA)/NS20+IP(mA)/\nNSNS=1600turns\nReferencevoltage@IP=0AVREFV2.4852.5 2.515Internalreference\nOutputvoltage VOUTV0.25VREF±\n(0.625*IP/IPN\n)4.75WithVc=5V\nOutputvoltage@IP=0 VOUTV VREF\nElectricaloffsetvoltage VOEmV-2.5 2.5100%testedVout-Vref\nElectricaloffsetcurrent\nreferredtoprimaryIOEmA-600 600100%tested\nTemperaturecoefficientof\nVOE@IP=0ATCVOEppm/K-30 30ppm/Kof2.5V\n-40℃…85℃\nTemperaturecoefficientof\nVrefTCVrefppm/K-100 100Internalreference\nTheoreticalsensitivity GthmV/A 4.166 625mV/IPN\nSensitivityerror εG%-0.8 0.8100%tested(typical\nvalue)\nTemperaturecoefficientofSTCSppm/K 75-40℃…85℃\nLinearityerror εL%ofIPN-0.10 0.10\nMagneticoffsetvoltage\n(6.66*IPN)referredto\nprimaryVOMmV-2 2\nResponsetime@80％ofIPNTD80uS 3di/it=50A/μs\nprimarybusbarwith\nthefullsizeofhole\ndimensions:\n11*20.5[H*Winmm]\nFrequencybandwidth\n(±3dB)BWKHz200\nTotalerror εtot%ofIPN 1\nTotalerror@TA=85℃ εtot%ofIPN 1.4\nSumofsensitivityand\nlinearityεSL%ofIPN 0.83\nSumofsensitivityand\nlinearity@TA=85℃εSL%ofIPN 1.2\nBST5-150ICV1M\nDatasheet WI-D06F06-H-0050Rev.A/3 Page4of6DimensionsBST5-150ICV1M(inmm.1mm=0.0394inch)\n□\n□\nBST5-150ICV1M\nDatasheet WI-D06F06-H-0050Rev.A/3 Page5of6Connection\nPCBfootprint\nAssemblyonPCB\n\uf06cRecommendedPCBholediameter1mmforsecondarypin\n2mmforretentionpin\n\uf06cMaximumPCBthickness 2.4mm\n\uf06cWavesolderingprofile maximum260℃for10s\nNocleanprocessonly\nBST5-150ICV1M\nDatasheet WI-D06F06-H-0050Rev.A/3 Page6of6Instructionsofuse\n1.Whenthetestcurrentpassesthroughthesensor,youcangetthesizeoftheoutputcurrent.\n(Warning:wrongconnectionmayleadtosensorsdamage)\n2.IsispositivewhenIpflowsinthedirectionofthearrow.\n3.Inordertoachievethebestmagneticcoupling,theprimarywindingshavetobewoundoverthetopedgeofthe\ndevice.\n4.Accordingtouserneeds,differentratedinputcurrentsandoutputcurrentsofthesensorscanbecustomized.\nRESTRICTIONSONPRODUCTUSE\n\uf06eTheinformationcontainedhereinissubjecttochangewithoutnotice.\n\uf06eBYDSemiconductorCompanyLimitedexertsthegreatestpossibleefforttoensurehighqualityandreliability.\nNevertheless,semiconductordevicesingeneralcanmalfunctionorfailduetotheirinherentelectricalsensitivity\nandvulnerabilitytophysicalstress.Itistheresponsibilityofthebuyer,whenutilizingBMEproducts,tocomply\nwiththestandardsofsafetyinmakingasafedesignfortheentiresystem,includingredundancy,fire-prevention\nmeasures,andmalfunctionprevention,topreventanyaccidents,fires,orcommunitydamagethatmayensue.In\ndevelopingyourdesigns,pleaseensurethatBMEproductsareusedwithinspecifiedoperatingrangesassetforthin\nthemostrecentBMEproductsspecifications.\n\uf06eTheproductslistedinthisdocumentareintendedforusageingeneralelectronicsapplications(computer,personal\nequipment,officeequipment,measuringequipment,industrialrobotics,domesticappliances,etc.).TheseBME\nproductsareneitherintendednorwarrantedforusageinequipmentthatrequiresextraordinarilyhighqualityand/or\nreliabilityoramalfunctionorfailureofwhichmaycauselossofhumanlifeorbodilyinjury(“UnintendedUsage”).\nUnintendedUsageincludeatomicenergycontrolinstruments,airplaneorspaceshipinstruments,transportation\ninstruments,trafficsignalinstruments,combustioncontrolinstruments,medicalinstruments,alltypesofsafety\ndevices,etc..UnintendedUsageofBMEproductslistedinthisdocumentshallbemadeatthecustomer’sownrisk.\n'}]
+!==============================================================================!
+### Component Summary: BST5-150ICV1M
+
+**Manufacturer:** BYD Semiconductor  
+**Product Code:** BST5-150ICV1M  
+**Datasheet Reference:** WI-D06F06-H-0050Rev.A/3
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Maximum Supply Voltage (Vcmax): 7 V
+  - Supply Voltage (Vc): 4.75 V to 5.25 V
+
+- **Current Ratings:**
+  - Primary Nominal Current (IPNA): 150 A
+  - Primary Current Measuring Range (IPMA): -450 A to 450 A
+
+- **Power Consumption:**
+  - Current Consumption (IC): 8 mA + IP (mA) / NS (where NS = 1600 turns)
+
+- **Operating Temperature Range:**
+  - Ambient Operating Temperature (TA): -40 °C to 85 °C
+  - Ambient Storage Temperature (TS): -55 °C to 125 °C
+
+- **Package Type:**
+  - Not explicitly stated in the provided text, but typically in a PCB mountable format.
+
+- **Special Features or Notes:**
+  - Closed-loop multi-range current sensor
+  - Voltage output with unipolar supply voltage
+  - Very low offset drift and good dv/dt immunity
+  - Insulation resistance at 500 VDC: 200 GΩ
+  - ESD rating (HBM): 4 kV
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+#### Description:
+The BST5-150ICV1M is a closed-loop current sensor designed for the electronic measurement of current in both AC and DC applications. It provides galvanic isolation between the primary (high power) and secondary (electronic circuit) sides, ensuring safe operation in high-voltage environments. The sensor outputs a voltage proportional to the measured current, making it suitable for various power management applications.
+
+#### Typical Applications:
+- **Uninterruptible Power Supplies (UPS):** For monitoring and managing power supply to ensure continuous operation during outages.
+- **Power Supplies for Welding Applications:** To measure and control current in welding processes.
+- **Switched-Mode Power Supplies (SMPS):** For efficient power conversion and regulation.
+- **Solar Inverters:** To monitor current flow in solar energy systems.
+- **AC Variable Speed and Servomotor Drives:** For controlling motor speed and performance in industrial applications.
+
+This component is particularly useful in industrial and battery-supplied applications where precise current measurement and isolation are critical for system reliability and safety.

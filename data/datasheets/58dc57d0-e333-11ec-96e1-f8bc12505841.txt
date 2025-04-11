@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of RYG12832K production of ROYAL DISPLAY CO.,LIMITED from the text:32.90 16.2090.00°\n0.5\n90.00°\n1.LCD Display Type:FSTN\n4.Drive Method:1/6Bias,1/33Duty3.Viewing Direction:6:002.Polarzier Mode:Transflection,Positive\n10.Ulteriorly Tolerance:±0.2MM\n11.Rohs7.Storage Temp：-40 TO 85℃6.Operating Temp: -30 TO 85℃\n8.IC:ST7567A5.LCD Driving Voltage:6.0VNOTE\n 9.Connector:LCD+PINPINSYMBOL\n1ESD\n2\n3\n4\n5\n6\n7\n8\n9\n10VG\nXV0\nVO\nVSS\nVDD\nSDA\nSCL\nRST\nESD\n'}]
+!==============================================================================!
+### Component Summary: RYG12832K
+
+**Manufacturer:** ROYAL DISPLAY CO., LIMITED  
+**Product Code:** RYG12832K
+
+#### Key Specifications:
+- **Display Type:** FSTN (Film Super Twisted Nematic)
+- **Drive Method:** 1/6 Bias, 1/33 Duty
+- **Viewing Direction:** 6:00
+- **Polarizer Mode:** Transflective, Positive
+- **LCD Driving Voltage:** 6.0V
+- **Operating Temperature Range:** -30°C to 85°C
+- **Storage Temperature Range:** -40°C to 85°C
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text
+- **Ulteriorly Tolerance:** ±0.2mm
+- **Connector Pins:**
+  - 1: ESD
+  - 2: VG
+  - 3: XV0
+  - 4: VO
+  - 5: VSS
+  - 6: VDD
+  - 7: SDA
+  - 8: SCL
+  - 9: RST
+  - 10: ESD
+
+#### Description:
+The RYG12832K is a graphical LCD display module that utilizes FSTN technology to provide clear visuals. It operates with a driving voltage of 6.0V and is designed for low power consumption while maintaining a wide operating temperature range. The display features a transreflective polarizer mode, which allows for visibility in various lighting conditions, making it suitable for outdoor applications.
+
+#### Typical Applications:
+The RYG12832K is commonly used in:
+- **Consumer Electronics:** Such as handheld devices, portable gaming consoles, and smartwatches.
+- **Industrial Equipment:** For user interfaces in machinery and control panels.
+- **Medical Devices:** In diagnostic equipment and monitoring systems.
+- **Automotive Displays:** For dashboard indicators and infotainment systems.
+- **Embedded Systems:** In microcontroller-based projects requiring visual output.
+
+This component is ideal for applications where a clear display is needed in varying light conditions and where durability across a wide temperature range is essential.

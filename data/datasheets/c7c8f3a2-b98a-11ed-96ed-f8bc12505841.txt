@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 09694000077 production of HARTING from the text:05\n62\nD-Sub 3W3 09 69 210 0033 09 69 200 0033 2W2 09 69 110 0522 09 69 100 0522\n 5W5 09 69 310 0055 09 69 300 0055\n 7W7 09 69 410 0077 09 69 400 0077\nD-Sub DIN 41 652 T1\n 8W8 09 69 410 0088 09 69 400 0088\n1) Explanations see page 05.51\nBoard drillings see pages 05.78 ff\nOrder special contacts separately. See pages 05.69 ffmale connectors female connectors No. of\nIdentification contacts1) Part numberShells without signal contacts for cable applicationsNumber of contacts\n2--8\nDimensions in mmFemale connectorsMale connectors\na b c d e f g\n2W2 16.9 30.8 –25.00 16.4 8.7 8.6\n3W3 25.2 39.1 27.5 33.30 24.6 6.4 6.3\n5W5 38.9 53.0 41.3 47.04 38.3 6.4 6.3\n7W7 55.3 69.3 57.7 63.50 54.9 6.4 6.3\n8W8 55.3 69.3 57.7 63.50 54.8 6.4 6.3\n'}]
+!==============================================================================!
+### Component Summary for HARTING Product Code 09694000077
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, D-Sub connectors can handle voltages up to 250V depending on the specific design.
+- **Current Ratings:** Not specified; however, D-Sub connectors generally support current ratings from 1A to 5A per contact.
+- **Power Consumption:** Not applicable for connectors; power consumption is determined by the connected devices.
+- **Operating Temperature Range:** Not specified in the provided text; typical ranges for connectors are -40°C to +85°C.
+- **Package Type:** D-Sub connector (specifically a male connector with 7 contacts).
+- **Special Features or Notes:** The connector is designed for cable applications and requires separate ordering for special contacts.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The HARTING product code 09694000077 refers to a D-Sub connector, specifically a male connector with 7 contacts. D-Sub connectors are widely used in various electronic applications for connecting cables to devices. They are characterized by their D-shaped metal shell and are available in various configurations, including male and female versions.
+
+#### Typical Applications:
+D-Sub connectors are commonly used in:
+- **Data Communication:** Connecting computers and peripherals, such as printers and modems.
+- **Industrial Equipment:** Used in control systems and automation for connecting sensors and actuators.
+- **Audio/Video Equipment:** For connecting audio and video devices in professional settings.
+- **Test and Measurement Devices:** Providing reliable connections in laboratory and testing environments.
+
+These connectors are versatile and can be found in a wide range of applications due to their robust design and ease of use.

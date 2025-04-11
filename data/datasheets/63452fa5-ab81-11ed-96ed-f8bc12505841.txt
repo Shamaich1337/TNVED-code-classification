@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FFSD-13-D-02.10-01-N production of SAMTEC from the text:SERIES -NO. PINS\nPER ROW -END \nOPTION -OVERALL\nLENGTH -01- N -OTHER\nOPTION\nFFSD\n= Socket \nStrip–04, –05,–06, \n–08, –10, –11, \n–12, –13, –15, \n–17, –20, –25\n(Standard sizes)–S \n= Single End\n–D \n= Double End–“XX.XX”\n= Assembled \nLength–N \n= Notch\nPolarization\n(Notch option \nnot available  \nwith -04 position)  \n  –RW\n= Reverse Wiring\n(Red wire opposite \nposition #1)\n–D “XX”\n= Daisy Chain\n–SR\n= Strain Relief\n(Mates only with \nESHF Series)\n(Not available with \n–O, –M, –R or –DXX)\n–R\n= Reverse\n–M\n= Middle Reverse\n(Requires –DXX)\n–O\n= Outside Reverse\n(Requires –DXX) SPECIFICATIONS\nInsulator Material:\nPBT\nContact:  \nBeCu\nPlating:\n10 µ" (0.25 µm) Au over 50 µ" \n(1.27 µm) Ni on contact area; \nSn over 50 µ" (1.27 µm) Ni \non balance\nWire:  \n30 AWG\nCurrent Rating (FFSD/FTSH):  \n2.3 A per pin\n(2 pins powered)\nOperating Temp Range:\n-40 °C to +105 °C\nLead Size Accepted:\n(0.41 mm) .016" SQ\nInsertion Depth:\n(2.64 mm) .104" to  \n(3.17 mm) .125"FFSD\nMates:\nFTS, FTSH, EHF, \nSHF, ESHF\nNote:  \nThis Series is non-standard, \nnon-returnable.Single End (—S) Double End (—D)\nDaisy Chain (—D “XX”)“XX” \n± 1/8"\n(101.60 mm) 4.00 min.(50.8 mm)\n2.00 \nmin.\nStrain Relief (—SR)No. of positions x \n(1.27) .050 + (8.00) .31501\n(3.05)\n.120\nNo. of positions x\n(1.27) .050 + (4.19) .165\n(5.08)\n.200\nMiddle Reverse (—M) Reverse (—R) Outside Reverse (—O)Reverse Wiring (—RW) 01\n 02\nAssembled Length (—“XX.XX”)Assembled Length\n in INCHES (1/8")\n1 inch minimumOther Sizes \n(MOQ Required)ALSO AVAILABLETIGER EYE™ FLAT \nIDC WIRE CABLES \n(1.27 mm) .050" PITCH  •  FFSD SERIES\nsamtec.com?FFSD\nUnless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.™TIGEREYE\nIDC\nF-221\n'}]
+!==============================================================================!
+### Component Summary for FFSD-13-D-02.10-01-N
+
+**Component Type:** Socket Strip
+
+**Description:**
+The FFSD-13-D-02.10-01-N is a socket strip connector designed for use in various electronic applications. It features a double-ended configuration and is part of the FFSD series, which includes multiple standard sizes. The connector is designed to mate with various Samtec series connectors, providing reliable electrical connections in a compact form factor.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically determined by the application and mating connectors.
+- **Current Ratings:** 2.3 A per pin (when 2 pins are powered).
+- **Power Consumption:** Not specified; depends on the application and load.
+- **Operating Temperature Range:** -40 °C to +105 °C.
+- **Package Type:** Socket strip, double-ended configuration.
+- **Special Features:**
+  - Insulator Material: PBT (Polybutylene Terephthalate).
+  - Contact Material: BeCu (Beryllium Copper).
+  - Plating: 10 µ" (0.25 µm) Au over 50 µ" (1.27 µm) Ni on contact area; Sn over 50 µ" (1.27 µm) Ni on balance.
+  - Wire Size Accepted: 30 AWG.
+  - Insertion Depth: 2.64 mm to 3.17 mm.
+  - Mates with FTS, FTSH, EHF, SHF, ESHF series connectors.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Typical Applications:**
+The FFSD-13-D-02.10-01-N socket strip is typically used in applications requiring reliable electrical connections, such as:
+- **Power Management:** Connecting power supplies to various components.
+- **Signal Processing:** Facilitating communication between different circuit elements.
+- **Data Storage:** Used in connectors for memory modules and other storage devices.
+- **General Electronics:** Suitable for a wide range of electronic devices where space-saving and reliable connections are essential.
+
+This component is particularly useful in environments where temperature fluctuations are common, and it provides a robust solution for connecting various electronic components in a compact layout.

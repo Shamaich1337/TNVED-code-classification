@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BC856B production of YANGZHOU YANGJIE ELECTRONIC from the text:BC856/BC857/BC858                      \xa0\n\xa0\n 1 / 5 \n   Yangzhou Yangjie Electronic Technology Co., Ltd. \n S-S1766  \nRev.1.1, 24-Jan-19 www.21yangjie.com\nCOMPLIANT  RoHS  \n        PNP Transistor  \n  \nFeatures                                   \n●Epoxy meets UL-94 V- 0 flammability rating  \n●Moisture Sensitivity Level 1 \n●High Conductance \n●Surface Mount Package Ideally Suited for Automatic  \nInsertion \n \nMechanical Data \n● Package : SOT-23 \nMolding compound m eets UL 94 V-0 flammability rating,     \nRoHS-compliant, halogen-free ● Terminals:  Tin plated leads, solderable  per  \nJ-STD-002 and JESD22-B102 \n● Marking :  \nBC856A=3A; BC856B=3B; \nBC857A=3E;BC857B=3F;BC857C=3G; BC858A=3J; BC858B=3K; BC858C=3L \n \n \n■ Maximum Ratings  (Ta=25℃ unless otherwise noted)  \nSymbol  Parameter  Value  Unit \nBVCBO Collector-Base Voltage \n                                             BC856 \n                                             BC857 \nBC858 -80  \n-50 \n -30 V \nBVCEO Collector-Emitter Voltage \n  BC856 \n                                             BC857 \nBC858  -65  \n-45  \n-30 V \nBVEBO Emitte r-Base Voltage  -6 V \nIC Collector Current –Continuous  -0.1 A \nPC Collector Power Dissipation  200 mW \nRΘJA Thermal Resistance From Jun ction To Ambient   625 ℃/W \nTj Junction Temperature 150 ℃ \nTstg Storage Temperature -55～+150 ℃ \n \n \n \n  \n \n  COMPLIANT  RoHS  \n\nBC856/BC857/BC858                      \xa0\n\xa0\n 2 / 5 \n   Yangzhou Yangjie Electronic Technology Co., Ltd. \n S-S1766  \nRev.1.1, 24-Jan-19 www.21yangjie.com\nCOMPLIANT  RoHS  \n■ Electrical Characteristics (Ta=25℃ unless otherwise noted) \n \nParameter  Symbol  Test conditions Min Max Unit \nCollector-base breakdown voltage \n       BC856 \n                                           BC857 \nBC858 BVCBO IC= -10µA, IE=0 -80  \n-50 \n-30  V  \nCollector-emitter breakdown voltage \nBC856 \n                                           BC857 \nBC858  BVCEO IC= -10mA, IB=0 -65  \n-45 \n -30  V  \nEmitter-base breakdown voltage BVEBO IE= -1µA, IC=0 -5  V \nCollector cut-off current   ICBO VCB=-30 V ,IE=0   -0.1 μA \nEmitter cut-off current IEBO VEB=-5 V , IC=0  -0.1  μA \nDC current gain \nBC856A,857A,858A \nBC856B,857B,858B \nBC857C,BC858C hFE VCE= -5V, IC= -2mA 125  \n220 \n 420 250 \n475 \n800  \nCollector-emitter saturation vo ltage VCE(sat) IC=-100mA, IB= -5 mA  -0.65 V \nBase-emitter saturati on voltage VBE(sat) IC=-100mA, IB= -5mA  - 1.1 V \nTransition frequency fT VCE= -5 V, IC= -10mA \nf=100MHz 100  MHz \nCollector output capacitance Cob VCB=-10V,f=1MHz  4.5 pF \n \n■ Ordering Information  (Example)  \nPREFERED P/N PACKING  \nCODE UNIT WEIGHT(g) MINIMUM \nPACKAGE(pcs)INNER BOX \nQUANTITY(pcs)OUTER CARTON \nQUANTITY(pcs) DELIVERY MODE \nBC856/BC857/BC858 F2 Approximate 0.008 3000 30000 120000 7” reel  \n \n■ Characteristics(Typical)   \n   \n \n  \n \n  \n \n  \n \n  \n \n  \n \n\nBC856/BC857/BC858                      \xa0\n\xa0\n 3 / 5 \n   Yangzhou Yangjie Electronic Technology Co., Ltd. \n S-S1766  \nRev.1.1, 24-Jan-19 www.21yangjie.com\nCOMPLIANT  RoHS  \n \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n \n \n\nBC856/BC857/BC858                      \xa0\n\xa0\n 4 / 5 \n   Yangzhou Yangjie Electronic Technology Co., Ltd. \n S-S1766  \nRev.1.1, 24-Jan-19 www.21yangjie.com\nCOMPLIANT  RoHS  \n■SOT-23 Package Outline Dimensions \n \n \n■SOT-23Suggested Pad Layout \n \n \n   \n \n     \n \nBC856/BC857/BC858                      \xa0\n\xa0\n 5 / 5 \n   Yangzhou Yangjie Electronic Technology Co., Ltd. \n S-S1766  \nRev.1.1, 24-Jan-19 www.21yangjie.com\nCOMPLIANT  RoHS  \nDisclaimer \n \nThe information presented in this  document is for reference onl y. Yangzhou Yangjie Electronic Technology Co., Ltd. reserves th e \nright to make changes without not ice for the specification of t he products displayed herein to improve reliability, function o r design \nor otherwise.     The product listed herein is designed to be used with ordinary electronic equipment or devices, and not designed to be used wi th \nequipment or devices which require high level of reliability an d the malfunction of with woul d directly endanger human life (s uch as \nmedical instruments, transportat ion equipment, aerospace machin ery, nuclear-reactor controller s, fuel controller s and other sa fety \ndevices), Yangjie or anyone on its behalf, assumes no responsib ility or liability for any damages resulting from such improper  use \nof sale.    This publication supersedes & r eplaces all information previous ly supplied. For additional information, please visit our websi te \nhttp:// www.21yangjie.com , or consult your nearest Yangjie’s s ales office for further assistance. \n \n'}]
+!==============================================================================!
+### Component Summary: BC856B PNP Transistor
+
+**Manufacturer:** Yangzhou Yangjie Electronic Technology Co., Ltd.  
+**Product Code:** BC856B  
+**Package Type:** SOT-23  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Collector-Base Voltage (BVCBO): -80 V
+  - Collector-Emitter Voltage (BVCEO): -65 V
+  - Emitter-Base Voltage (BVEBO): -6 V
+
+- **Current Ratings:**
+  - Continuous Collector Current (IC): -0.1 A
+
+- **Power Consumption:**
+  - Collector Power Dissipation (PC): 200 mW
+
+- **Operating Temperature Range:**
+  - Junction Temperature (Tj): Up to 150 °C
+  - Storage Temperature (Tstg): -55 °C to +150 °C
+
+- **Thermal Resistance:**
+  - Thermal Resistance from Junction to Ambient (RΘJA): 625 °C/W
+
+- **Moisture Sensitivity Level:** 
+  - Level 1 (according to JEDEC J-STD-020E)
+
+#### Description:
+The BC856B is a PNP bipolar junction transistor (BJT) designed for general-purpose amplification and switching applications. It features high conductance and is packaged in a compact SOT-23 surface mount configuration, making it suitable for automatic insertion in manufacturing processes. The epoxy used in the packaging meets the UL-94 V-0 flammability rating, ensuring safety and reliability.
+
+#### Typical Applications:
+The BC856B is commonly used in:
+- **Signal Amplification:** It can amplify weak signals in audio and radio frequency applications.
+- **Switching Applications:** It is suitable for low-power switching tasks in various electronic circuits.
+- **Power Management:** The transistor can be utilized in power management circuits to control power flow.
+- **General Purpose Electronics:** It is widely used in consumer electronics, automotive applications, and other general electronic devices.
+
+This transistor is ideal for applications where space is limited and where reliable performance is required in low to moderate power scenarios.

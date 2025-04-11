@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CV101M016E077ETR production of CAPXON from the text:\xa0\nAluminum \xa0Electrolytic \xa0Capacitor \xa0\n\xa0\nCV\xa0series\xa0\nCapXon\xa0\xa0 \xa0 \xa0 V.ED‐20171110 \xa0Specification \xa0and\xa0description \xa0for\xa0the\xa0component(s) \xa0are\xa0subject\xa0to\xa0change\xa0without\xa0notice.\xa0For\xa0packaging, \xa0handling, \xa0precautions \xa0and\xa0warning\xa0 information,\xa0 please\xa0visit\xa0our\xa0website: www.capxongroup.com\xa0\n\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\n\xa0\n\xa0\xa0\xa0\xa0\xa0\xa0\n\xa0\n\xa0Part\xa0number\xa0 CV101M016E077ETR\nCapacitance \xa0 100 µF\nVoltage\xa0 16 VDC\nSurge\xa0 Voltage\xa0 18 VDC\nCapacitance\xa0\xa0 Tolerance \xa0(@120Hz, \xa0+20°C) ±20 %\nRipple\xa0current\xa0(max,\xa0@100KHz,+105°C) \xa0 140 mA\nDissipation \xa0factor\xa0(tanδ\xa0@120Hz,\xa0+20°C)\xa0 26 %\nLeakage\xa0Current\xa0(max,\xa0@\xa0+20°C)*\xa0 16 µA\nImpedance \xa0(max.\xa0@\xa0100KHz,+20°C) \xa0 1.1 Ω\nSize\xa0 6.3x7.7 mm\nOperating \xa0temperature\xa0‐ 25\xa0to\xa0105 °C\nEndurance \xa0 7000 h\n*L.C.\xa0\xa0I≦\xa00.03\xa0 CV\xa0or\xa04µA\xa0\xa0(C\xa0=\xa0CAP.,\xa0V\xa0=\xa0W.V.)\xa0\nAfter\xa02\xa0minutes,\xa0whichever \xa0is\xa0greater\xa0measured\xa0 with\xa0rated\xa0working\xa0voltage\xa0applied.\xa0\nWhichever \xa0is\xa0greater\xa0after\xa02\xa0minutes\xa0 with\xa0rated\xa0working\xa0voltage\xa0applied.\xa0Test\xa0conditions \xa0 Endurance \xa0 Shelf\xa0Life\xa0\nDuration\xa0time\xa0 7000h\xa0@\xa0105°C\xa0 1000h\xa0@\xa0105°C\xa0\nApplied\xa0voltage\xa0 Rated\xa0DC\xa0working\xa0voltage,I R\xa0 None\xa0\nAfter\xa0 test\xa0requirements \xa0(+20°C):\xa0\xa0 \xa0\nCapacitance\xa0\xa0 change\xa0≤ \xa0 ±30%\xa0of\xa0initial\xa0measured \xa0value\xa0\nDissipation \xa0factor\xa0change\xa0≤ \xa0 300%\xa0of\xa0the\xa0initial\xa0specified\xa0 value\xa0\nLeakage\xa0current\xa0≤ \xa0 the\xa0initial\xa0specified\xa0value\xa0\ncomment \xa0\xa0 Pre‐treatment \xa0for\xa0measurements \xa0shall\xa0\nbe\xa0conducted \xa0after\xa0 application \xa0of\xa0DC\xa0\nworking\xa0voltage\xa0for\xa030\xa0min.\xa0\nSeries\xa0 Cap\xa0 Tol.\xa0 Voltage\xa0 Case\xa0D\xa0 Case\xa0L\xa0 Type\xa0 Cust.\xa0\n1_2\xa0 3_4_5\xa0 6\xa0 7_8_9\xa0 10\xa0 11_12_13 14_15_16 \xa0 17_18_19_20 \xa0\nCV\xa0 101\xa0 M\xa0 016\xa0 E\xa0 077\xa0 ETR\xa0 \xa0\n\xa0 =100µF\xa0 =±20%\xa0 =16V\xa0 =6.3mm\xa0 =7.7mm\xa0 =tape\xa0and\xa0reel \xa0 no\xa0request\xa0\n\xa0\xa0 \xa0 \xa0\xa0\xa0 \xa0 \xa0\n\xa0 …\xa0\xa0 \xa0 \xa0 \xa0\xa0 \xa0D\xa0 L\xa0 A\xa0 B\xa0 C\xa0 W\xa0 P±0.2\xa0\n6.3\xa0 7.7\xa0 6.6\xa0 6.6\xa0 7.2\xa0 0.5~0.8\xa0 2.2\xa0\nL\xa0max\xa0\n\n'}]
+!==============================================================================!
+### Component Summary for CV101M016E077ETR (CapXon Aluminum Electrolytic Capacitor)
+
+**Key Specifications:**
+- **Capacitance:** 100 µF
+- **Voltage Ratings:**
+  - **Rated Voltage:** 16 VDC
+  - **Surge Voltage:** 18 VDC
+- **Capacitance Tolerance:** ±20% (@120Hz, +20°C)
+- **Ripple Current (max):** 140 mA (@100KHz, +105°C)
+- **Dissipation Factor (tanδ):** 26% (@120Hz, +20°C)
+- **Leakage Current (max):** 16 µA (@ +20°C)
+- **Impedance (max):** 1.1 Ω (@100KHz, +20°C)
+- **Operating Temperature Range:** -25 to +105 °C
+- **Endurance:** 7000 hours at 105°C
+- **Package Type:** 6.3 x 7.7 mm
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+**Description:**
+The CV101M016E077ETR is an aluminum electrolytic capacitor from the CV series by CapXon. It is designed to store electrical energy and is characterized by its high capacitance value of 100 µF and a rated voltage of 16 VDC. This component is typically used in applications where energy storage and filtering are required, such as in power supply circuits and signal processing.
+
+**Typical Applications:**
+- **Power Management:** Used in power supply circuits to smooth out voltage fluctuations and provide stable power to electronic devices.
+- **Signal Processing:** Employed in audio and radio frequency applications to filter signals and reduce noise.
+- **Decoupling:** Acts as a decoupling capacitor to stabilize voltage levels in digital circuits.
+- **Timing Circuits:** Utilized in timing applications where precise timing intervals are necessary.
+
+This capacitor is suitable for a variety of electronic applications due to its compact size and reliable performance under a wide range of temperatures.

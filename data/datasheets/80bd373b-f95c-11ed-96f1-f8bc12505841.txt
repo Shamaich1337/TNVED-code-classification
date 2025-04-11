@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PCIE-064-02-F-D-RA production of SAMTEC from the text:Unless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.• 1.00 mm pitch \n• Supports 1, 4, 8 and 16 PCI Express® links\n• PCIE® 3.0 Solution (PCIE)\n• PCIE® 4.0 Solution with low-profile design for space savings (PCIE-LP)\n• PCIE® 4.0 with slim body design (PCIE-G4)\n• PCIE® 5.0 Solution with differential pair signaling (PCIE-G5)\n• Vertical, right-angle and edge mount\n• Mates with .062" (1.60 mm) thick cards\n• Alignment pin and weld tab options\nKEY SPECIFICATIONS  FEATURES & BENEFITS\nSERIESTOTAL PINS \n(LANES)INSULATOR \nMATERIALCONTACT \nMATERIALOPERATING  \nTEMP RANGECURRENT \nRATINGVOLTAGE \nRATINGPCIE®  \nCOMPATIBILITY\nPCIE36 (x1), 64 (x4),  \n98 (x8), 164 (x16) -TH = Black Nylon         \n-EMS2 & -TH = LCPPhosphor Bronze -55 °C to +125 °C 2.4 A (2 pins) 215 VAC 3.0\nPCIE-LP36 (x1), 64 (x4),  \n98 (x8), 164 (x16)LCP Phosphor Bronze -55 °C to +125 °C 2.1 A (2 pins) 215 VAC 4.0\nPCIE-G436 (x1), 64 (x4),  \n98 (x8), 164 (x16)LCP Copper Alloy -55 °C to +125 °C 2.2 A (2 pins) 300 VAC 4.0\nPCIE-G536 (x1), 64 (x4),  \n98 (x8), 164 (x16)LCP Copper Alloy -55 °C to +125 °C 3.2 A (2 pins) 235 VAC 5.0PCI EXPRESS® EDGE CARD SOCKETS\n(1.00 mm) .0394" PITCH  \n8 mm11 mm\nPCIE -LP PCIE\nPCIE® 3.0 & 4.0  \nEdge Card  \nconnectorsPCIE® 4.0 slim body  \nsocket with Edge Rate®  \ncontacts (PCIE-G4)\nF-221 (Rev 09FEB22) samtec.com/EdgeCard\nPCIE -LP-NUMBER OF \nLANES -01-PLATING \nOPTION -DV-A-OPTION -PACKAGING\n–01, –04, \n–08, –16–F\n= Gold Flash on \ncontact, Matte \nTin on tail\n–S\n= 30 µ " (0.75 µ m) \nGold on contact, \nMatte Tin on tail\n  –WT\n= Weld Tab\n–K\n= Polyimide film \nPick & Place Pad(For -16 lanes  \nonly leave blank for \nTray Packaging)\n–TR\n= Tape & Reel \n(“X”R required with \n–01, –04, –08 lanes)\n–FR\n= Full Reel  \nTape & Reel  \n(must order max. \nquantity per reel; \ncontact Samtec for \nquantity breaks)  \n(“X”R required with \n–01, –04, –08 lanes)\nUnless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.Note:  \nSome lengths, styles and \noptions are non-standard, \nnon-returnable.PCIE -NUMBER OF POSITIONS -02-PLATING OPTION -D-TAIL OPTION\n–036, –064, –098, –164 –F\n=Gold flash on contact, \nTin on tail\n  –EMS2\n= Edge Mount\n–TH\n=Through-hole\n–RA\n=Right-angle(1.00 mm) .0394" PITCH  •  PCI EXPRESS®  CARD SOCKETS\nView complete specifications at: samtec.com?PCIE\nPCIE-LP\nCard Mates:\n(1.60 mm) \n.062” card\nCable Mates:\nPCIECPOSITIONS A\n–036 (x1) (25.00) .984\n–064 (x4) (39.00) 1.535\n–098 (x8) (56.00) 2.205\n–164 (x16) (89.00) 3.504\nA\n(7.80)\n.307(7.98)\n.314(7.50) \n.295PCIE\nCard Mates:\n(1.60 mm)  \n.062" card\nCable Mates:\nPCIECA\n(8.61)\n.339\n(15.40)\n.606(7.30)\n.287\n(11.05)\n.435\n(9.45)\n.372A\n-RA-TH -EMS2\nPCI-SIG®, PCI Express® and  \nthe PCIe® design marks are \nregistered trademarks and/or \nservice marks of PCI-SIG.PCI EXPRESS® EDGE CARD SOCKETS\nNUMBER OF \nLANESA\n–01 (26.60) 1.047\n–04 (40.60) 1.598\n–08 (57.60) 2.268\n–16 (90.60) 3.567\nView complete specifications at: samtec.com? PCIE -LP3.0 & 4.0 SOLUTIONS\nF-221 (Rev 09FEB22) samtec.com/EdgeCard\n'}]
+!==============================================================================!
+### Component Summary: PCIE-064-02-F-D-RA by Samtec
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - PCIE: 215 VAC
+  - PCIE-LP: 215 VAC
+  - PCIE-G4: 300 VAC
+  - PCIE-G5: 235 VAC
+- **Current Ratings**: 
+  - PCIE: 2.4 A (2 pins)
+  - PCIE-LP: 2.1 A (2 pins)
+  - PCIE-G4: 2.2 A (2 pins)
+  - PCIE-G5: 3.2 A (2 pins)
+- **Power Consumption**: Not explicitly stated; depends on the application and configuration.
+- **Operating Temperature Range**: -55 °C to +125 °C
+- **Package Type**: Edge card socket with a 1.00 mm pitch.
+- **Special Features/Notes**: 
+  - Supports 1, 4, 8, and 16 PCI Express links.
+  - Available in vertical, right-angle, and edge mount configurations.
+  - Mates with .062" (1.60 mm) thick cards.
+  - Options for alignment pins and weld tabs.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The PCIE-064-02-F-D-RA is an edge card socket designed for PCI Express (PCIe) applications. It features a 1.00 mm pitch and supports multiple PCIe link configurations (1, 4, 8, and 16 lanes). This component is part of a series that includes various designs compatible with PCIe 3.0, 4.0, and 5.0 standards, making it suitable for high-speed data transfer applications.
+
+#### Typical Applications:
+The PCIE-064-02-F-D-RA is typically used in:
+- **Data Communication**: Connecting PCIe cards in computers and servers for high-speed data transfer.
+- **Networking Equipment**: Used in routers and switches to facilitate fast network connections.
+- **Graphics Cards**: Providing a connection interface for graphics processing units (GPUs).
+- **Storage Solutions**: Connecting SSDs and other storage devices that utilize PCIe interfaces for enhanced performance.
+
+This component is essential in modern computing environments where high-speed data transfer and efficient connectivity are critical.

@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of QC400DI-NJ production of HARXON from the text: \n  \n450～470MHz 3.6dBi Vertical Polarization \n \n  \n Technical info QC400SI-5M \nFrequency range (MHz) 450～470 \nBandwidth (MHz) 20 \nPolarization mode Vertical \nGain (dBi) 3.6 \nInput Impedance (Ω) 50 \nVSWR ≤2.2 \nMaximum power (W) 100 \nAntenna height (cm) 45 \nConnector type TNC male \nCable length (m) 5M \nAntenna weight (kg) 0.12(Weight varies with the length of the wire) \nLimit wind speed (km/h) 120 \nInstallation method Standard φ76 stainless steel magnetic sucker base \n\n'}]
+!==============================================================================!
+### Component Summary for QC400DI-NJ by HARXON
+
+#### Key Specifications:
+- **Frequency Range:** 450 – 470 MHz
+- **Bandwidth:** 20 MHz
+- **Polarization Mode:** Vertical
+- **Gain:** 3.6 dBi
+- **Input Impedance:** 50 Ω
+- **Voltage Standing Wave Ratio (VSWR):** ≤ 2.2
+- **Maximum Power:** 100 W
+- **Antenna Height:** 45 cm
+- **Connector Type:** TNC male
+- **Cable Length:** 5 meters
+- **Antenna Weight:** 0.12 kg (Weight may vary with cable length)
+- **Limit Wind Speed:** 120 km/h
+- **Installation Method:** Standard φ76 stainless steel magnetic sucker base
+
+#### Description:
+The QC400DI-NJ is a vertical polarization antenna designed for use in the frequency range of 450 to 470 MHz. It features a gain of 3.6 dBi, making it suitable for applications requiring moderate signal amplification. The antenna is constructed with a 50 Ω input impedance and is capable of handling a maximum power of 100 W. It is designed for easy installation using a magnetic sucker base, which allows for flexible positioning.
+
+#### Typical Applications:
+The QC400DI-NJ antenna is typically used in various wireless communication applications, including:
+- **Two-way radio systems:** Ideal for enhancing communication range and clarity in public safety and commercial radio operations.
+- **Amateur radio:** Suitable for hobbyists operating in the VHF/UHF bands.
+- **Remote monitoring systems:** Used in telemetry and data acquisition systems where reliable signal transmission is essential.
+- **Wireless data transmission:** Effective for applications requiring stable connections in environments with potential interference.
+
+This antenna is particularly beneficial in scenarios where vertical polarization is preferred, and its robust design allows it to withstand wind speeds up to 120 km/h, making it suitable for outdoor installations.

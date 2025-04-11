@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDAC08076 production of NEDITEK from the text:NDAC08076\n0-20GHzAbsorptiveSPDTSwitchMMIC\nKeyTechnicalSpecificationsandApplications\nFrequencyRange:DC-20GHz\nInsertionLoss:2dB\nIsolation:55dB\nInputVSWR:1.3:1\nOutputVSWR:1.3:1\nSwitchingTime:10ns\nControlMode:TTL\nCircuitForm:Voltage-controlledabsorptiveswitch\nOutlineDimensions:2.0mm×1.0mm×0.08mmFunctionalBlockDiagram\nV1V2GaAs\nSPDT\nGeneralDescription\nTheNDAC08076isavoltage-controlledabsorptiveSPDTswitchMMICwithadriver.ThisMMICoperateswithapowersupplyof\n-5VandadoptstheTTLcontrolmode.WithintheDC-20GHzrange,itcanprovideaninsertionlossof2dB,anisolationof55dB,an\ninputVSWRof1.3:1,anoutputVSWRof1.3:1,andaswitchingtimeof10ns.\nAbsoluteMaximumRatings1(TA=25℃)\nSymbol Parameter Value Remarks\nV SupplyVoltage 0.6/-8V\nPcw InputSignalPower(CW) 25dBm\nTCH ChannelTemperature 150℃\nTM MountingTemperature 300℃ 1min,N2Protection\nTSTG StorageTemperature -55℃~150℃\n【1】Operationinexcessofanyoftheseconditionsmayresultinpermanentdamage.\nElectricalCharacteristics(TA=25℃,ProbeData)\nSymbol ParameterTestingConditions\n(V=-5V,C=TTL)ValueUnit\nMin.Typ.Max.\nLi InsertionLoss\nF=DC-20GHz－ 2 dB\nISO Isolation － -55 dB\nVSWRin InputVSWR － 1.3 －\nVSWRoutOutputVSWR － 1.3 －\nNDAC08076\n0-20GHzAbsorptiveSPDTSwitchMMIC\nNEDITechnologyCo.,Ltd\nwww.neditek.comTel:+86-25-86858581/2Fax:+86-25-86858580\nEmail:sales@neditek.com\nAdd:No.521ZhongshanEastRoad,Nanjing,ChinaNote:Allthedataprovidedinthisdatasheetissubjecttochange\nwithoutnotice.Therightisreservedtomakechangesto\nspecificationsandotherinformationatanytime.\n2/3TypicalPerformances\nInputVSWR OutputVSWR\nInsertionLoss Isolation0 2 4 6 8 10 12 14 16 18 201.01.52.02.53.0VSWRin&Freq \n VSWRin\nFreq(GHz)0 2 4 6 8 10 12 14 16 18 201.01.52.02.53.0\n ON\n OFFVSWRout&Freq \n VSWRout\nFreq(GHz)\n0 2 4 6 8 10 12 14 16 18 20-5.0-4.5-4.0-3.5-3.0-2.5-2.0-1.5-1.0-0.5IL&Freq \n Insertion Loss(dB)\nFreq(GHz)0 2 4 6 8 10 12 14 16 18 20-90-80-70-60-50-40-30-20-100 \n Isolation(dB)\nFreq(GHz)\nNDAC08076\n0-20GHzAbsorptiveSPDTSwitchMMIC\nNEDITechnologyCo.,Ltd\nwww.neditek.comTel:+86-25-86858581/2Fax:+86-25-86858580\nEmail:sales@neditek.com\nAdd:No.521ZhongshanEastRoad,Nanjing,ChinaNote:Allthedataprovidedinthisdatasheetissubjecttochange\nwithoutnotice.Therightisreservedtomakechangesto\nspecificationsandotherinformationatanytime.\n3/3OutlineDimensions(Unit:µm) AssemblyDiagram\nTruthTable\nV CRFc—RF1RFc—RF2\n-5V 0V ON OFF\n-5V+5V OFF ON\nPadsDefinitions\nPads FunctionDescription\nRFc RFInput,connectedtoanexternal50Ωsystem,noneedforDCblockingcapacitor.\nRF1,RF2 RFOutput,noneedforDCblockingcapacitor.\nGND Thebacksidemetalofthechipmustbegrounded.\nC,V ThebottomofthechiprequiresgoodcontactwithbothRFandDCground.\n'}]
+!==============================================================================!
+### Component Summary: NDAC08076
+
+**Component Type:**  
+The NDAC08076 is a voltage-controlled absorptive Single Pole Double Throw (SPDT) switch MMIC (Monolithic Microwave Integrated Circuit).
+
+**Key Specifications:**
+
+- **Frequency Range:** DC to 20 GHz
+- **Insertion Loss:** 2 dB
+- **Isolation:** 55 dB
+- **Input VSWR:** 1.3:1
+- **Output VSWR:** 1.3:1
+- **Switching Time:** 10 ns
+- **Control Mode:** TTL (Transistor-Transistor Logic)
+- **Supply Voltage:** -5V
+- **Absolute Maximum Ratings:**
+  - Supply Voltage: 0.6/-8V
+  - Input Signal Power (CW): 25 dBm
+  - Channel Temperature: 150°C
+  - Storage Temperature: -55°C to 150°C
+  - Mounting Temperature: 300°C (1 min, N2 Protection)
+- **Package Type:** 2.0 mm x 1.0 mm x 0.08 mm
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Description:**  
+The NDAC08076 is designed to function as a high-frequency switch that can route RF signals between two outputs (RF1 and RF2) based on a control voltage. It is particularly useful in applications where rapid switching is required, given its fast switching time of 10 ns. The device operates with a TTL control signal, making it compatible with standard digital logic levels.
+
+**Typical Applications:**  
+The NDAC08076 is typically used in RF and microwave applications, including:
+
+- **Telecommunications:** For routing signals in communication systems.
+- **Test Equipment:** In RF test setups where signal paths need to be switched quickly.
+- **Signal Processing:** In systems requiring precise control over signal paths.
+- **Antenna Switching:** For selecting between multiple antennas in wireless systems.
+- **Radar Systems:** In applications where rapid switching of RF signals is critical.
+
+This component is ideal for applications that demand low insertion loss and high isolation, making it suitable for high-performance RF systems.

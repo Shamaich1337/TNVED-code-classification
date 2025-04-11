@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of RM8 clip production of XUYI OUGE ELECTRONIC CO.,LTD. from the text: \n \n  \n                              SIZE  RM8 clip \n \nREV . REVISIONS \nREC. DATE.\n   \n   \n    \nDRAFTED BY  TOLERANCE ANGLR:\n   ± 1 º  MODEL NAME ： \n RM8 \nCHECKED BY  0＜L≤4   ±0.1 \n4＜L≤16  ±0.2 \n16＜L≤63  ±0.3 Pin pitch  \n±0.20 UNIT: \n    \nMM BOBBIN MATERIAL: \nS/S UL REC: \n \n    U L  9 4 V - 0  \n盱眙欧歌电子有限公司\n  XUYI OU GE ELECTRONIC CO.,LTD. \n  TEL: 0760-87867920/87867921  FAX:07760-2286951 \n  E m a i l： sales03@ougedianzi.com SCALE:\n   1 / 1  TERMINAL MAT: \n PIN TENSION LOAD: \n   \n DATE: \n2012.03.17 DRAWING NO: REV . A \n0 \n\n'}]
+!==============================================================================!
+### Component Summary: RM8 Clip
+
+**Manufacturer:** XUYI OUGE ELECTRONIC CO., LTD.
+
+#### Key Specifications:
+- **Size:** RM8 clip
+- **Tolerance Angles:** 
+  - ±1º for general dimensions
+  - ±0.1 mm for lengths (0 < L ≤ 4 mm)
+  - ±0.2 mm for lengths (4 < L ≤ 16 mm)
+  - ±0.3 mm for lengths (16 < L ≤ 63 mm)
+- **Pin Pitch:** ±0.20 mm
+- **Bobbin Material:** Stainless Steel (S/S)
+- **UL Rating:** UL 94 V-0 (indicating flame retardant properties)
+- **Terminal Material:** Not specified in the provided text
+- **Pin Tension Load:** Not specified in the provided text
+- **Moisture Sensitivity Level (MSL):** Not specified in the provided text
+
+#### Description:
+The RM8 clip is a mechanical component designed for securing or connecting electronic components. It is typically used in applications where a reliable and stable connection is required, such as in circuit boards or electronic assemblies. The clip's design allows for easy installation and removal, making it suitable for various electronic applications.
+
+#### Typical Applications:
+- **Electronic Assemblies:** Used to secure components on printed circuit boards (PCBs).
+- **Connectors:** Acts as a connector in various electronic devices, ensuring stable connections.
+- **Mechanical Support:** Provides mechanical support for components that require stability during operation.
+- **Consumer Electronics:** Commonly found in consumer electronic devices where space and reliability are critical.
+
+This summary provides a concise overview of the RM8 clip's specifications and applications based on the provided text. Further details regarding specific electrical ratings or additional features may be available in a more comprehensive datasheet or technical documentation.

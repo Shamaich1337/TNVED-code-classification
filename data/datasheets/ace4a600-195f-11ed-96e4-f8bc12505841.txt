@@ -1,0 +1,55 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of YZPST-F2x101-12A production of YANGZHOU POSITIONING TECH from the text: YANGZHOU  POSITIONING  TECH . CO., LTD \nTel: +86 -514-87782298    FAX:+86 -514-87782297   E -mail: info@yzpst.com;  \nWeb Site:www. Pst888.com   www. yzpstcc.com   www. yzpst.net    www. yzpst.com   \n1 1 RM  \n \n \nFast Recovery  \nEpitaxial Diode  (FRED)  YZPST -F2x101 -12A \n \nVRRM   = 1200  V \nIFAVM    = 2x 91 A  \ntrr = 48 ns \n \n \n  \n \nSymbol  Test Conditions  Maximum  Ratings  (per diode)  Features  \n● International standard  package  \n● miniBLOC (ISOTOP  compatible)  \n● Isolation voltage 2500  V~ \n   ●   matched diodes f. parallel  operation  \nIFSM TVJ  = 45° C;  t = 10 ms  (50 Hz), sine 900 A \n  t = 8.3 ms (60 Hz),  sine 970 A   ● Planar passivated chips  \n● two independent  diodes  \n● Very short recovery  time \n● Extremely low switching  losses  \n● Low I -values  \n● Soft re covery behaviour  \n \n \n \n \n \n \n \n \n \n \n \n \n \nSymbol  Test Conditions  Characteristic  Values  (per diode)  \n \ntyp. max.  \nIR TVJ = 25° C  \nTVJ = 25° C  \nTVJ  = 125° C  VR \nVR \nVR = VRRM  \n= 0.8 •  VRRM  \n= 0.8 •  VRRM  3 mA \n1.5 mA \n15 mA \nVF IF  = 100  A; TVJ \nTVJ = 150° C  \n=  25° C  1.61 V \n1.87 V \nVT0 For power -loss calculations  only \nrT 1.01 V \n6.1 mn \nRthJC  \nRthCH 0.05 0.5 K/W \nK/W \ntrr IF  = 1 A; -di/dt = 400 A/µ s; V R = 30 V; T VJ  = 25° C  40 60 ns \nIRM VR  = 100  V; IF  = 75 A; -diF/dt = 200  A/µ s \nL 至 0.05 mH; TVJ = 100° C  24 30 A \n \n① \nFAVM  rating includes reverse blocking losses at T VJM, VR  = 0.8 V   \n \nRRM  , duty cycle d = 0.5  \nData according to IEC 60747  \nVRSM \nV VRRM \nV Type  \n1200  1200  YZPST-F2x 101-12A \n \nminiBLOC , SOT-227 B \nI IF(RMS)  TVJ  = TVJM 130 A \nIF(AV) M ① TC  = 50° C ; rectangular , d = 0.5 91 A \nIFRM  tP  < 10 µs; rep. rating , pulse width limite d by TVJM TBD A \n \n TVJ  = 150° C;  t = 10 ms  (50 Hz), sine 810 A \n t = 8.3 ms (60 Hz), sine 870 A \nI2t TVJ  = 45° C  t = 10 ms  (50 Hz), sine 4100  A2s \n  t = 8.3 ms (60 Hz), sine 4000  A2s \n TVJ  = 150° C;  t = 10 ms  (50 Hz), sine 3300  A2s \n  t = 8.3 ms (60 Hz), sine 3200  A2s \nTVJ \nTVJM  \nTstg   -40...+150  \n150 \n-40...+150  °C \n°C \n°C \nPtot TC  = 25° C   250 W \nVISOL  50/60 Hz, RMS \nIISOL  至 1 mA 2500  V~ \nMd Mountin g torque  1.5/13  Nm/lb.in.  \n Termina l connectio n torqu e (M4) 1.5/13  Nm/lb.in.  \nWeight   30 g \n \n YANGZHOU  POSITIONING  TECH . CO., LTD \nTel: +86 -514-87782298    FAX:+86 -514-87782297   E -mail: info@yzpst.com;  \nWeb Site:www. Pst888.com   www. yzpstcc.com   www. yzpst.net    www. yzpst.com   \n2 2 800 \n800 1000  0.0 F \nF F \nr \nVJ F \nF fr \nthJC  \n \n \n150 \nA \n125 \nIF \n100 \n \n \n75 \n \n \n50 \n \n \n25 16 \n\uf06dC \n14 \n \nQr  12 \n \n10 \n \n8 \n \n6 \n \n4 \n \n2 140 \nA \n120 \nIRM \n100 \n \n80 \n \n60 \n \n40 \n \n20 \n \n0 \n0.0 0.5 1.0 1.5 V  \n2.0 0 \n100  \nA/hs 1000  0 \n0 200  \n400  \n600  \nA/hs  \n1000  \nVF -diF/dt -diF/dt \nFig. 1  Forward current  I versus  V Fig. 2 Reverse recovery charge  Q \nversus -di /dt Fig. 3 Peak reverse current  I \nversus   -di /dt \n \n1.4 \n \n \n1.2 \n \nKf \n1.0 \n \n \n0.8 \n \n \n0.6  \n \n \ntrr 500 \nns \n450 \n \n400 \n \n \n350 \n \n \n300 \n \n \n250 60 \nV \n50 \nVFR \n40 \n \n \n30 \n \n \n20 \n \n \n10 1.5 \n \n\uf06ds \n1.0 \n \n \n \n0.5  \n \n \ntfr \n \n0.4 \n0 40 80 120  °C 160 \nTVJ 200 \n0  \n200  \n400  \n600 \n-diF/dt  \nA/hs  \n1000  0 \n0 200 400 600 800 \ndiF/dt \nFig. 4 Dynamic parameters Q ,  I \nversus  T Fig. 5  Recovery time  t versus -di /dt Fig. 6  Peak forward voltage  V \nversus di  /dt and t  \n \n1 \nK/W Constants for Z  calculation:  \n \n \n \nZthJC \n \n \n \n \n0.1 \n \n \n0.05 \n0.001  0.01 0.1 1 s 10 \nt \nFig. 7  Transient  thermal  impedance  junction  to case  at various  duty cycles  TVJ= 100° C \nVR  = 600V  \nIF=200A \nIF=100A \nI =  50A F TVJ= 100°C \nIF     = 100A  \n \ntfr  \nVFR TVJ= 100° C \nVR  =600V  \nIF=200A \nIF=100A \nIF=  50A TVJ=100° C T  =150° C VJ \nTVJ= 25°C \n \nA/hs F r RM \nRM rr FR TVJ= 100° C \nVR  = 600V         \n         \n         \n IF=200A \nIF=100A        \n IF=  50A       \n  \n         \n         \n         \n \n        \n        \n        \n        \n        \n IRM       \n        \n  Qr      \n        \n        \n \n                                                                                                                                            \n \nD=0.7                                \n0.5                            \n \n \n0.3                            \n \n0.2 \n \n0.1                        \n0.05                                                S ingle Pulse                                                                     DS EI 2x10  1-12 \n i R   (K/W)  \nthi t (s) \ni \n1 0.02 0.00002  \n2 0.05 0.00081  \n3 0.076  0.01 \n4 0.24 0.94 \n5 0.114  0.45 \n \n'}]
+!==============================================================================!
+### Component Summary: YZPST-F2x101-12A
+
+**Manufacturer:** YANGZHOU POSITIONING TECH CO., LTD  
+**Contact Information:**  
+- Tel: +86 -514-87782298  
+- Fax: +86 -514-87782297  
+- Email: info@yzpst.com  
+- Website: www.yzpst.com  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Maximum Reverse Voltage (VRRM): 1200 V
+  - Maximum Surge Voltage (VRSM): 1200 V
+  - Isolation Voltage: 2500 V (50/60 Hz, RMS)
+
+- **Current Ratings:**
+  - Average Forward Current (IFAVM): 2 x 91 A
+  - Maximum Forward Surge Current (IFSM): 900 A (10 ms, 50 Hz); 970 A (8.3 ms, 60 Hz)
+  - RMS Forward Current (IF(RMS)): 130 A
+  - Reverse Current (IR) at 25°C: 3 mA (at VRRM)
+
+- **Power Consumption:**
+  - Total Power Dissipation (Ptot) at 25°C: 250 W
+
+- **Operating Temperature Range:**
+  - Junction Temperature (TVJ): -40°C to +150°C
+  - Storage Temperature (Tstg): -40°C to +150°C
+
+- **Package Type:**
+  - miniBLOC, SOT-227 B
+
+- **Special Features:**
+  - Fast Recovery Epitaxial Diode (FRED)
+  - Very short recovery time (trr = 48 ns)
+  - Extremely low switching losses
+  - Soft recovery behavior
+  - Matched diodes for parallel operation
+  - Planar passivated chips
+  - Two independent diodes
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+#### Component Description:
+The YZPST-F2x101-12A is a Fast Recovery Epitaxial Diode (FRED) designed for high-performance applications requiring rapid switching and low power losses. It features two independent diodes in a single package, making it suitable for various power management tasks.
+
+#### Typical Applications:
+- **Power Management:** Used in power supply circuits to rectify AC to DC, ensuring efficient energy conversion.
+- **Signal Processing:** Ideal for applications where fast switching is critical, such as in high-frequency circuits.
+- **Motor Control:** Can be utilized in motor drive circuits where rapid response times are necessary.
+- **Inverter Circuits:** Suitable for use in inverters for renewable energy systems, such as solar inverters, due to its high voltage and current ratings.
+
+This diode is particularly beneficial in applications that demand high reliability and efficiency, making it a valuable component in modern electronic designs.

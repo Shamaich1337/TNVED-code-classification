@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-A002G-3mSMA production of JC ANTENNA HK CO.,LIMITED from the text:MACRO GROU P    E-mail: wireless@macrogroup.ru     Tel: +7 (8 12) 370 60 70  \n1 \n \n \n \nPRODUCT DATASHEET  \nMMMGGG---AAA000000222GGG---xxxxxxxxxxxx   \nType  GPS /GLONASS External Antenna  \nMounting  Adhesive & Magnet  \nBrand Name  MG ANTENNAS  \n  \n \n \n\n \n2 \n 1. SPECIFICATION  \n1.1 Electrical Specifications  \n \n 1.2 Mechanical  and Environmental Specification  \nCable  (type and length )  RG17 4, 1m/3m/5m or other * \nConnector  SMA male  /FACRA C male Blue or other * \nH.S T ube Heat shrink tube  \nHousing  Color  ABS Black  \nMounting  Magnet/Adhesive  \nDimensions  45.2 x 36 x 15.1 mm \nOperating / Storage  \nTemperature  - 40 ˚C ~ + 80 ˚C  \nIngress Protection  IP65~IP67  \nVibration  10 to 55Hz with 1.5mm amplitu de 2hour s \n    * Customizable Cable and Connector   \n \n \n \n Frequency  GPS       1575.42  MHz \nGLONASS       1601 -1610  MHz \nPolari zation  RHCP  \nNoise -Figure  1.5dB (+25°C±10°C)  \nAxial ratio  3dB（max） \nGain LNA  28±2dB  \nSupply Voltage  2.2~5 .5V DC  \nSaw Filter  Pre-Filter  \nVSWR  1.5 :1 \nImpedance  50 Ω \nCurrent Consumption  5~15mA  \n \n3 \n 2. MEASUREMEN T \n \n \n \n'}]
+!==============================================================================!
+### Component Summary for MG-A002G-3mSMA
+
+**Component Type:**  
+GPS / GLONASS External Antenna
+
+**Key Specifications:**
+
+- **Voltage Ratings:**  
+  Supply Voltage: 2.2V to 5.5V DC
+
+- **Current Ratings:**  
+  Current Consumption: 5mA to 15mA
+
+- **Power Consumption:**  
+  The power consumption varies based on the operating conditions, typically within the range of 5mA to 15mA.
+
+- **Operating Temperature Range:**  
+  -40°C to +80°C
+
+- **Package Type:**  
+  Dimensions: 45.2 x 36 x 15.1 mm  
+  Housing Material: ABS Black  
+  Mounting: Adhesive & Magnet
+
+- **Special Features or Notes:**  
+  - Ingress Protection: IP65 to IP67 (water and dust resistant)  
+  - Vibration Resistance: 10 to 55Hz with 1.5mm amplitude for 2 hours  
+  - Customizable cable length (1m, 3m, 5m, or other) and connector types (SMA male / FACRA C male Blue or other)
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**  
+  Not specified in the provided data.
+
+**Description:**  
+The MG-A002G-3mSMA is a GPS and GLONASS external antenna designed for high-performance satellite signal reception. It features a low-noise amplifier (LNA) with a gain of 28±2dB, ensuring strong signal amplification. The antenna is constructed with durable ABS housing and is designed for easy mounting using adhesive or magnets.
+
+**Typical Applications:**  
+This antenna is typically used in applications requiring reliable GPS and GLONASS positioning, such as:
+
+- Automotive navigation systems
+- Fleet management and tracking
+- Personal navigation devices
+- IoT devices requiring location tracking
+- Drones and UAVs for navigation and telemetry
+
+The MG-A002G-3mSMA is suitable for both consumer and industrial applications where accurate positioning and robust environmental resistance are critical.

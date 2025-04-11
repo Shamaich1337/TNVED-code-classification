@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of ER32615S production of AKKU TRONICS NEW ENERGY TECH. CO., LTD. from the text:\uf027：027-83259868/83248463 \uf037：027-83259718网址：www.cnhcb.com3.6VPrimaryLi-SOCl2Battery\nER32615S\nDSizeHighTemperatureType\nElectricalcharacteristics\nNominalcapacity\nAt23±2℃dischargeatconstantcurrent2.0mAuntil2.0Vcutoff,\nBatterycapacitydependingontemperatureanddischarge 14000mAh\ncurrentsandcutoffvoltagechanges.\nNominalvoltage\nMicro-currentdischargeplatformvoltagereferencevalues\nhastodowithbatterychemistrysystemandhasnothingto 3.6V\ndowiththebatterymodel.\nThevoltagebetweenpositiveandnegativewhilethecurrent≥3.65V\nisopen.\nMaximumcontinuouscurrent\nAt23±2℃thebatterycandischargeatleastthemaxconti-\nnuousdischargevaluewhichratedcapacity50%canpermit.700mA\nMaximumpulsedischargecurrent\nAt23±2℃,batterydischargedurationfor3secondsandstand\n27seconds,itcandischargeatleastthemaxpulsedischarge1300mA\nvaluewhichratedcapacity50%canpermit.\nStoragecondition\nStoredthebatteryunderrecommendsconditiontomakesure\neffectivelybattery'sperformance,thestoragetemperatureor ≤30℃\nhumiditytoohighwillincreasebattery'sself-dischargerate ≤75%RH\nandreducebattery'sstoragelife.\nOperatingtemperature\nExceedtheoperatingtemperaturerangecouldleadtobattery\noperatingvoltagereductionorevenasecurityrisk. -40~+150℃\nOutlinedimension\nFinishedSinglecells'standardsize 32.2×61.5mm\nWeight\nFinishedSinglecells'maxweight 108.0g\nSelf-dischargerate\nOutoftherecommendedcondition,theself-dischargerate 2%\nmayincrease.\uf06cHighEnergyDensity\n●Highsinglecellvoltage\n●Lightweight\n●Highsecurity\n●Stableoperatingvoltage\n●WideOperatingtemperaturerange\n●LowSelf-dischargerate\n●IEC60086-4UN38.3Compliance\nOpencircuitvoltage\n参数●DownholeOil&GasMWD,LWD\n●Safealarmsystem\n●Wirelessandothermilitaryequipment\n●GPStrackingsystem\n●PipelineinspectionGauges\nSpecificationER32615S\nLithiumThionylChlorideBattery\nhttp://www.akkutronics.comTherightLithiumBatterySolution\n\uf027：027-83259868/83248463 \uf037：027-83259718网址：www.cnhcb.comOverallDimension\n●Donotconnectthepositiveandnegativeterminalsofthe\nbattery.\n●Donotplacebatteryintofire\n●Donotwelddirectlybatterylongtime.\n●Donotrechargebattery.\n●Donotforce-discharge.\n●Donotcombinebatteriesinseriesorparallelbyoneself.\n●Donotreversethepositiveandnegativeterminals\n●Donotswallow.\n●Donotdiscard.\n●Stopimmediatelyuseitwhenseriousheatingorleakage.\n●Beforeusingourproducts,pleasereadthemanualCarefully\norcontactourTechnician.\nPleaseconsultwithAkkuTronicsforfurtherinformation.\nAkkuTronicsNewEnergyTechnologyCo.,Ltd\nTherightlithiumbatterysolution\nSpecificationER31615S\nLithiumThionylChlorideBattery\nhttp://www.akkutronics.com\nCAPACITYVSCURRENT\nVOLTAGEVSTEMPERATURE\nDISCHARGECHARACTERISTICSAT150℃\n"}]
+!==============================================================================!
+### Component Summary: ER32615S Lithium Thionyl Chloride Battery
+
+**Manufacturer:** Akku Tronics New Energy Tech. Co., Ltd.
+
+**Product Code:** ER32615S
+
+#### Key Specifications:
+- **Nominal Voltage:** 3.6 V
+- **Nominal Capacity:** 14,000 mAh (at 23±2°C, discharged at constant current of 2.0 mA until 2.0 V cutoff)
+- **Maximum Continuous Current:** 700 mA (at 23±2°C)
+- **Maximum Pulse Discharge Current:** 1,300 mA (for 3 seconds with a 27-second rest period, at 23±2°C)
+- **Operating Temperature Range:** -40°C to +150°C
+- **Storage Conditions:** 
+  - Temperature: ≤30°C
+  - Humidity: ≤75% RH
+- **Self-Discharge Rate:** 2% (may increase outside recommended conditions)
+- **Package Type:** D Size (32.2 mm x 61.5 mm)
+- **Weight:** 108.0 g
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+  
+#### Special Features:
+- High energy density
+- High single-cell voltage
+- Lightweight
+- High security
+- Stable operating voltage
+- Low self-discharge rate
+- Compliance with IEC 60086-4 and UN38.3 standards
+
+#### Description:
+The ER32615S is a primary lithium thionyl chloride (Li-SOCl2) battery designed for high-temperature applications. It is characterized by its high energy density and stable voltage output, making it suitable for long-term use in various demanding environments. This battery type is non-rechargeable and is known for its low self-discharge rate, allowing it to maintain its charge over extended periods.
+
+#### Typical Applications:
+The ER32615S battery is commonly used in applications that require reliable power sources in extreme conditions, including:
+- Downhole oil and gas measurement while drilling (MWD) and logging while drilling (LWD)
+- Safety alarm systems
+- Military equipment, including wireless devices
+- GPS tracking systems
+- Pipeline inspection gauges
+
+This battery is particularly suited for applications where long life and stable performance are critical, especially in remote or harsh environments.

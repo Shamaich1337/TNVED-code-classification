@@ -1,0 +1,48 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BFT92 production of INFINEON TECHNOLOGIES from the text:2013-11-21 1BFR92P\nLow Noise Silicon Bipolar RF Transistor\n• For broadband amplifiers up to 2 GHz and\n   fast non-saturated switches at collector currents   from 0.5 mA to 20 mA\n• Pb-free (RoHS compliant) package\n• Qualification report according to AEC-Q101 available\nESD (Electro static discharge) sensitive device, observe handling precaution!\nType Marking Pin Configuration Package\nBFR92P GFs 1=B 2=E 3=C SOT23\nMaximum Ratings  at TA = 25 °C, unless otherwise specified\nParameter Symbol Value Unit\nCollector-emitter voltage VCEO15 V\nCollector-emitter voltage VCES20\nCollector-base voltage VCBO20\nEmitter-base voltage VEBO2.5\nCollector current IC45 mA\nBase current IB4\nTotal power dissipation1) \nTS ≤ 93 °CPtot280 mW\nJunction temperature TJ150 °C\nStorage temperature TStg -55 ... 150\nThermal Resistance\nParameter Symbol Value Unit\nJunction - soldering point2) RthJS205 K/W\n1TS is measured on the collector lead at the soldering point to the pcb\n2For the definition of RthJS please refer to Application Note AN077 (Thermal Resistance Calculation)\n2013-11-21 2BFR92P\nElectrical Characteristics at TA = 25 °C, unless otherwise specified\nParameter Symbol Values Unit\nmin. typ. max.\nDC Characteristics\nCollector-emitter breakdown voltage I\nC = 1 mA, IB = 0 V(BR)CEO15 - - V\nCollector-emitter cutoff current \nVCE = 20 V, VBE = 0 ICES- - 10 µA\nCollector-base cutoff current \nVCB = 10 V, IE = 0 ICBO- - 100 nA\nEmitter-base cutoff current \nVEB = 2.5 V, IC = 0 IEBO- - 100 µA\nDC current gain \nIC = 15 mA, VCE = 8 V, pulse measuredhFE70 100 140 -\n2013-11-21 3BFR92P\nElectrical Characteristics at TA = 25 °C, unless otherwise specified\nParameter Symbol Values Unit\nmin. typ. max.\nAC Characteristics (verified by random sampling)\nTransition frequency \nIC = 15 mA, VCE = 8 V, f = 500 MHzfT3.5 5 - GHz\nCollector-base capacitance \nVCB = 10 V, f = 1 MHz, VBE = 0 ,  \nemitter groundedCcb- 0.39 0.55 pF\nCollector emitter capacitance \nVCE = 10 V, f = 1 MHz, VBE = 0 ,  \nbase groundedCce- 0.23 -\nEmitter-base capacitance \nVEB = 0.5 V, f = 1 MHz, VCB = 0 ,  \ncollector groundedCeb- 0.64 -\nMinimum noise figure \nIC = 2 mA, VCE = 6 V, ZS = ZSopt,  \nf = 900 MHz \nIC = 2 mA, VCE = 6 V, ZS = ZSopt,  \nf = 1.8 GHzNFmin  \n \n-\n \n-  \n1.4\n \n2  \n-\n \n-dB\nPower gain, maximum available1) \nIC = 15 mA, VCE = 8 V, ZS = ZSopt, ZL = ZLopt ,  \nf = 900 MHz \nIC = 15 mA, VCE = 8 V, ZS = ZSopt, ZL = ZLopt,  \nf = 1.8 GHzGma  \n \n-\n \n-  \n16\n \n10.5  \n-\n \n-\nTransducer gain I\nC = 15 mA, VCE = 8 V, ZS = ZL = 50 Ω,  \nf = 900 MHz \nIC = 15 mA, VCE = 8 V, ZS = ZL = 50 Ω,  \nf = 1.8 MHz|S21e|2  \n \n-\n \n-  \n13\n \n7.5  \n-\n \n-dB\n1Gma = |S21e / S12e| (k-(k²-1)1/2)\n2013-11-21 4BFR92P\nTotal power dissipation  Ptot = ƒ(TS)\n015 30 45 60 75 90105 120 °C 150\nTS0 25 50 75 100 125 150 175 200 225 250 mW300 Ptot\n2013-11-21 5BFR92P Package SOT23\n\n2013-11-21 6BFR92P\nEdition 2009-11-16\n Published byInfineon Technologies AG81726 Munich, Germany\n \n\uf8e9 2009 Infineon Technologies AG\nAll Rights Reserved.  Legal Disclaimer The information given in this document shall in no event be regarded as a guaranteeof conditions or characteristics. With respect to any examples or hints given herein,any typical values stated herein and/or any information regarding the application ofthe device, Infineon Technologies hereby disclaims any and all warranties andliabilities of any kind, including without limitation, warranties of non-infringement ofintellectual property rights of any third party.  Information For further information on technology, delivery terms and conditions and prices,please contact the nearest Infineon Technologies Office ( <www.infineon.com\n>).\n  Warnings Due to technical requirements, components may contain dangerous substances.For information on the types in question, please contact the nearest InfineonTechnologies Office.Infineon Technologies components may be used in life-support devices or systemsonly with the express written approval of Infineon Technologies, if a failure of suchcomponents can reasonably be expected to cause the failure of that life-supportdevice or system or to affect the safety or effectiveness of that device or system.Life support devices or systems are intended to be implanted in the human body orto support and/or maintain and sustain and/or protect human life. If they fail, it isreasonable to assume that the health of the user or other persons may beendangered.\n'}]
+!==============================================================================!
+### Component Summary: BFR92P
+
+**Manufacturer:** Infineon Technologies  
+**Product Code:** BFR92P  
+**Type:** Low Noise Silicon Bipolar RF Transistor  
+**Package Type:** SOT23  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Collector-Emitter Voltage (VCEO): 15 V
+  - Collector-Emitter Voltage (VCES): 20 V
+  - Collector-Base Voltage (VCBO): 20 V
+  - Emitter-Base Voltage (VEBO): 2.5 V
+
+- **Current Ratings:**
+  - Collector Current (IC): 45 mA
+  - Base Current (IB): 4 mA
+
+- **Power Consumption:**
+  - Total Power Dissipation (Ptot): 280 mW (at TS ≤ 93 °C)
+
+- **Operating Temperature Range:**
+  - Junction Temperature (TJ): 150 °C
+  - Storage Temperature (TStg): -55 °C to 150 °C
+
+- **Thermal Resistance:**
+  - Junction to Soldering Point (RthJS): 205 K/W
+
+- **Moisture Sensitive Level:** 
+  - JEDEC J-STD-020E: Not specified in the provided text.
+
+#### Special Features:
+- Pb-free (RoHS compliant) package.
+- Qualification report according to AEC-Q101 available.
+- ESD sensitive device; handling precautions are advised.
+
+### Description:
+The BFR92P is a low noise silicon bipolar RF transistor designed for use in broadband amplifiers and fast non-saturated switching applications. It operates effectively at frequencies up to 2 GHz, making it suitable for high-frequency applications. The transistor is characterized by its low noise figure, which is critical in RF applications where signal integrity is paramount.
+
+### Typical Applications:
+- **Broadband Amplifiers:** The BFR92P is ideal for use in RF amplifiers that require low noise performance, particularly in communication systems.
+- **Fast Switching Applications:** It can be utilized in circuits that require rapid switching capabilities, such as in RF transmitters and receivers.
+- **Signal Processing:** The transistor is suitable for various signal processing applications where amplification of weak signals is necessary.
+- **Consumer Electronics:** Commonly found in devices that operate in the RF spectrum, including radios, televisions, and other communication devices.
+
+This summary provides a comprehensive overview of the BFR92P transistor, highlighting its key specifications, features, and applications in electronic circuits.

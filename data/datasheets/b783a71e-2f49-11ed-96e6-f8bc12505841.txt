@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NR6028T2R2N production of TAIYO YUDEN from the text: \nSpec Sheet\nhttp://www.ty-top.comThe data is reference only. Electrical characteristics vary depending on environment or measurement condition.\nTAIYO YUDEN reserves the right to make change to the Date at any time without notice.\nBefore making final selection, please check product specification.PrintPDF\nSMD Power Inductors (NR series)\nNR6028T2R2N\nFeatures\nItem Summary\n2.2uH±30%, 3.7A, 6.0x6.0x2.8mm\nLifecycle Stage\nMass Production\nStandard packaging quantity (minimum)\nTaping Embossed 2000pcs\nProducts characteristics table\nInductance 2.2 uH ± 30 %\nCase Size (mm) 6.0x6.0\nRated Current (max) 3.7 A\nSaturation Current (max) 4.2 A\nTemperature Rise Current (max) 3.7 A\nDC Resistance (max) 26 mΩ\nDC Resistance (typ) 20 mΩ\nLQ Measuring Frequency 100 kHz\nSelf Resonant Frequency (min) 68 MHz\nOperating Temp. Range -25 to +120 ℃\n(Including-self-generated heat)\nTemperature characteristic ± 20 %\n(Inductance change)\nRoHS2 Compliance (10 subst.) Yes\nREACH Compliance (168 subst.) Yes\nSoldering ReflowExternal Dimensions\nDimension L 6.0 ±0.2 mm\nDimension W 6.0 ±0.2 mm\nDimension H Max 2.8 mm\nDimension e 1.35 ±0.2 mm\nDimension f 4.0 ±0.2 mm\nDimension ΔI Typ 2.3 mm\nRecommended Land Patterns\n2017.01.02\nPowered by TCPDF (www.tcpdf.org)\n                                1 / 1\nHalogen free  /  RoHS compliant\nWire Wound Inductor -Electrical Characteristics Data-\nDimension\nLength : 6.0+ / -0.2 ( 0.236 + / - 0.008 )\nWidth : 6.0+ / -0.2 ( 0.236 + / - 0.008 )\nHeight : 2.8 max. ( 0.11 max.  )\nInductance : 2.2 uH ( test freq at 0.1MHz )\nDC Resistance : 0.02 /0.026 ohm ( typ / max )\nSaturation Current : 4,200 mA ( max )\nTemp. rise Current : 3,700 mA ( max )\nSaturation current typical :  30% reduction from initial L value.\nTemp rise Current typical :  Temperature will rise by 40 deg C2016/7/19\nSMD Power Inductors (NR series)\nunit : mm unit : inch\nNR6028T2R2N\n012345\n0 2000 4000 6000 8000 10000Inductance [uH]\nDC Bias [mA]DC Bias vs Inductance\n0.1110100\n0.1 1 10 100Inductance [uH]\nFrequency [MHz]Frequency vs Inductance0102030405060\n0 2000 4000 6000 8000 10000Self-temperature rise [deg]\nDC Bias [mA]DC Bias vs Temperature\nThe data is reference only. Electrical characteristics vary depending on environment or measurement condition.\nTAIYO YUDEN reserves the right to make change to the data at any time without notice.\nBefore making final selection, please check product specification.\n\n'}]
+!==============================================================================!
+### Component Summary: NR6028T2R2N
+
+**Type:** SMD Power Inductor  
+**Manufacturer:** TAIYO YUDEN  
+**Series:** NR Series  
+
+#### Key Specifications:
+- **Inductance:** 2.2 µH ± 30%
+- **Rated Current (max):** 3.7 A
+- **Saturation Current (max):** 4.2 A
+- **Temperature Rise Current (max):** 3.7 A
+- **DC Resistance (max):** 26 mΩ
+- **DC Resistance (typ):** 20 mΩ
+- **Self Resonant Frequency (min):** 68 MHz
+- **Operating Temperature Range:** -25 to +120 °C (including self-generated heat)
+- **Package Type:** 6.0 x 6.0 x 2.8 mm
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided data.
+- **Compliance:** RoHS2 and REACH compliant
+
+#### Description:
+The NR6028T2R2N is a surface-mount power inductor designed for use in various electronic applications. It features a compact size of 6.0 mm x 6.0 mm with a maximum height of 2.8 mm, making it suitable for space-constrained designs. The inductor has a nominal inductance of 2.2 µH, which can vary by ±30%, and is capable of handling a maximum rated current of 3.7 A. The inductor is constructed using a wire-wound design, which provides good performance characteristics, including low DC resistance and high saturation current.
+
+#### Typical Applications:
+The NR6028T2R2N is typically used in power management applications, including:
+- DC-DC converters
+- Power supply circuits
+- Energy storage in power electronics
+- Filtering applications in RF circuits
+- Smoothing applications in power supply designs
+
+This component is ideal for use in consumer electronics, telecommunications, and automotive applications where efficient power management is critical. Its compliance with RoHS and REACH standards also makes it suitable for environmentally conscious designs.

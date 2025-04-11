@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 53398-1271 production of MOLEX from the text:This document was generated on 01/04/2023\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nPart Number: 0533981271\nStatus: Active\nOverview: PicoBlade Connector System\nDescription: 1.25mm Pitch, PicoBlade PCB Header, Single Row, Vertical, Surface Mount, Tin (Sn)\nPlating, Friction Lock, 12 Circuits, Tape and Reel, 0.60mm PC Tail Length\nDocuments:\nDrawing (PDF) Product Specification 510211124-PS-000 (PDF)\n2D Drawing DXF (PDF) Product Specification PS-51021-024-001 (PDF)\n2D Drawing (DXF) Application Specification 510210000-AS-000 (PDF)\n3D Model (PDF) Packaging Specification SPK-53398-002-001 (PDF)\n3D Model Datasheet (PDF)\nProduct Specification 510211024-PS-000 (PDF) RoHS Certificate of Compliance (PDF)\nAgency Certification\nUL E29179\nGeneral\nProduct Family PCB Headers\nSeries 53398\nApplication Signal, Wire-to-Board\nComponent Type PCB Header\nOverview PicoBlade Connector System\nProduct Name PicoBlade\nTaxonomy PCB Headers and Receptacles\nUPC 822348164394\nPhysical\nBreakaway No\nCircuits (Loaded) 12\nCircuits (maximum) 12\nColor - Resin Natural\nDurability (mating cycles max) 30\nFirst Mate / Last Break No\nFlammability 94V-0\nGlow-Wire Capable No\nGuide to Mating Part No\nLock to Mating Part Yes\nMated Height 5.70mm\nMaterial - Metal Phosphor Bronze\nMaterial - Plating Mating Tin\nMaterial - Plating Termination Tin\nMaterial - Resin Nylon\nNet Weight 350.230/mg\nNumber of Rows 1\nOrientation Vertical\nPC Tail Length 0.60mm\nPCB Locator No\nPCB Retention Yes\nPackaging Type Embossed Tape on Reel\nPitch - Mating Interface 1.25mm\nPolarized to Mating Part Yes\nPolarized to PCB Yes\nShrouded Partial\nStackable No\nTemperature Range - Operating -40° to +105°C\nTermination Interface: Style Surface Mount\nSeries image - Reference only\nEU ELV\nNot Relevant\nEU RoHS China RoHS\nCompliant\nREACH SVHC\nNot Contained Per -\nD(2022)4187-DC (10\nJune 2022)\nHalogen-Free\nStatus\nNot Low-Halogen\nFor more information, please visit Contact US\nChina ROHS Green Image\nELV Not Relevant\nRoHS Phthalates Not Contained\nSearch Parts in this Series\n53398 Series\nMates With\nPicoBlade Housing 51021 <br>PicoBlade\nCable Assembly 15134\nElectrical\nCurrent - Maximum per Contact 1.0A\nVoltage - Maximum 125V\nMaterial Info\nReference - Drawing Numbers\nApplication Specification 510210000-AS-000\nPackaging Specification SPK-53398-002-001\nProduct Specification 510211024-PS-000, 510211124-PS-000,\nPS-51021-024-001\nSales Drawing 533980000-SD-000\nThis document was generated on 01/04/2023\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\n'}]
+!==============================================================================!
+### Component Summary for Molex Part Number 0533981271
+
+#### Key Specifications:
+- **Voltage Rating:** 125V
+- **Current Rating:** 1.0A per contact
+- **Power Consumption:** Not specified (dependent on application)
+- **Operating Temperature Range:** -40°C to +105°C
+- **Package Type:** Surface Mount
+- **Special Features:**
+  - 12 circuits (maximum)
+  - Friction lock mechanism
+  - Mated height of 5.70mm
+  - PCB retention feature
+  - Polarized to mating part and PCB
+  - Durability of 30 mating cycles
+- **Moisture Sensitive Level (MSL):** Not specified in the provided information.
+
+#### Description:
+The Molex 0533981271 is a **PicoBlade PCB Header**, which is a type of connector designed for surface mount applications. It features a 1.25mm pitch and is configured in a single row with 12 circuits. The connector is made from durable materials, including phosphor bronze for the metal components and nylon for the resin, with tin plating for both mating and termination interfaces. The design includes a friction lock to ensure secure connections.
+
+#### Typical Applications:
+The PicoBlade connector system is primarily used in **signal and wire-to-board applications**. Its compact size and reliable performance make it suitable for various electronic devices, including:
+- Consumer electronics
+- Telecommunications equipment
+- Industrial automation systems
+- Automotive applications
+
+This connector is ideal for applications where space is limited and reliable electrical connections are critical. The operating temperature range allows it to be used in diverse environments, making it versatile for many electronic designs.

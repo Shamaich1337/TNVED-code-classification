@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of RV-3028-C7 32.768kHz 1ppm TA QC production of MICRO CRYSTAL AG from the text:DIMENSIONSRV-3028-C7\nExtreme Low Power RTC Module\nDESCRIPTION\nThe RV-3028-C7 is a SMD Real-Time Clock Module that incorporates \nan integrated CMOS circuit together with an XTAL. It operates under \nvacuum in a hermetically sealed ceramic package with metal lid.APPLICATIONS\nIoT\nMetering\nIndustrial\nAutomotive\nHealth Care\nWearables, PortablesPackage: Recommended Solder Pad:0,8 max\n0,150,93,2\n0,4\n1,50,5\n3,20,9 0,9 0,9\n0,50,80,80,4\nFEATURES\nExtreme low power consumpt ion: 45 nA @ 3 V.\nWide operating voltag e range: 1.1 V to 5.5 V.\nTime accuracy: Factory calibrated to ±1 ppm @ 25°C\nUser progr. password for write protection of time and configuration.\nNon-volatil e configuration settings with u ser programmable offset value.\nAutomatic Backup Switchover and Trickle Charger function.\nProvides year, month, date, weekday, hours, minutes, seconds, UNIX.\nTimer, Alarm and External event input with Time Stamp function.\nClock output: 32.768 kHz, 8192 Hz, 1024 Hz, 64 Hz, 32 Hz, 1 Hz.\n43 bytes non-volatile user memory, 2 bytes user RAM.\nI2C-bus interface: 400 kHz.\n100% Pb-free, R oHS-compliant.\nAutomotive qualification according to AEC-Q200 available.\nBLOCK DIAGRAM\nEVIINT\nRESETCLKOUTSCL\nSDAVSSVDDPOWER\nCONTROL \nUNIX Time 1UNIX Time 0\nUNIX Time 2\nUNIX Time 3\nUser RAM 100\n0FSeconds\nWeekday\nControl 2Control 1StatusTimer Status 1Timer Status 0Timer Value 1 Weekday Alarm\n Date Alarm\n Hours Alarm\n Minutes Alarm\n YearMonthHoursMinutes\nCount TSEvent ControlCLKIMTimer Value 0 \nYear TS\n Month TSMinutes TSSeconds TS\nHours TS  Date\n1F7\n5\n3\n4\n1\n2\n8I2C-BUS\nINTERFACE\nSYSTEM\nCONTROL\nLOGIC \nINPUT\nOUTPUT\nCONTROLVBACKUP6\nXTAL\nOSCILLATORDIVIDERFREQUENCY\nOFFSET\nCOMPENSATION\n10RAM\n20 User RAM 2\nPW 2\nIDEECMDEEDATAEEADDRPW 1PW 0\nPW 3RAM\n28\n30\nEEPW 1\nEEPROM BackupEEPROM OffsetEEPROM ClkoutEEPW 3EEPW 0EEPWE\nEEPW 2Configuration EEPROM\nwith RAM mirror\n37\n43 Bytes of \nuser EEPROM\n(00h – 2Ah)User EEPROM\nDate TS  GP BitsMetal lid is connected to VSS (pin #5)\nAll dimensions in mm typical\nVersion 1.3/09.2021Micro Crystal AG  Phone +41 32 655 82 82\nMuehlestrasse 14  sales@microcrystal.com\nCH-2540 Grenchen  www.microcrystal.com\nSwitzerland  A unique part number will be generated for each product specification, i.e:\n  20xxxx-MG01     1\'000 pcs  (in 12 mm tape on 7" reel)\n  20xxxx-MG03     3\'000 pcs  (in 12 mm tape on 7" reel)Temperature range Package size\nTA= -40 to +85°C (Standard)Qualification\nQC= Commercial Grade (Standard)\nQA= Automotive Grade AEC-Q200 Product typeRTC module\nC7 = 3.2 x 1.5 x 0.8 mmRV - 3028 - C7  TA  QCTERMINATIONS AND\nPROCESSINGPackage Termination Processing\nSON-8 (DFN-8) Au flashed padsIPC/JEDEC J-STD-020C\n260°C / 20 - 40 s\nORDERING INFORMATION\nAll specifications subject to change without notice.ENVIRONMENTAL \nCHARACTERISTICSConditions Max. Dev.\nStorage temperature range –55 to +125°C\nTA Operating temperature range –40 to +85°C\nShock resistance ΔF/F 5000 g, 0.3 ms, ½ sine ±5 ppm\nVibration resistance ΔF/F 20 g / 10–2000 Hz ±5 ppmELECTRICAL CHARACTERISTICS \nAT 25°C\nMore detailed information can be found in the \nApplication Manual.Symbol Condition Min. Typ. Max Unit\nSupply voltage VDD Time keeping 1.1 5.5 V\nSupply voltage VDD I2C-bus active 1.2 5.5 V\nCurrent consumption  \nTime keeping modeIDDOI2C-bus inactive, \nVDD = 3 V45 60 nA\nCLKOUT frequency FCLKOUT Programmable 32768...to...1 Hz\nTime accuracy Δt/t @ 25°C ±1 ppm\nAging first year max. ΔF/F @ 25°C ±3 ppm\nPIN CONNECTIONS  \nTOP VIEW\nM039A1\n3028\n#1 #4#5 #8\nPin 1 IndexProduct Date Code\nPart DesignationPin Connection\n1 CLKOUT Clock Output\n2 INT Interrupt Output\n3 SCL Serial Clock Input\n4 SDA Serial Data\n5 VSS Ground\n6 VBACKUP Backup Supply Voltage\n7 VDD Power Supply Voltage\n8 EVI Event Input-160-140-120-100-80-60-40-20020\n-60 -40 -20 0 20 40 60 80 100ΔF/F [ppm]\nT[°C]T0 = 25°C ±5°C\n–0.035*(T-T0)2 ppm ±10%\nTuning Fork CrystalFREQUENCY TEMPERATURE\nCHARACTERISTICS\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Micro Crystal:   \n\xa0 RV-3028-C7 32.768kHz 1ppm TA QC\xa0 RV-3028-C7 32.768kHz 1ppm TA QA\n'}]
+!==============================================================================!
+### Component Summary: RV-3028-C7
+
+**Description:**
+The RV-3028-C7 is an extreme low power Real-Time Clock (RTC) module designed for various applications, including IoT, metering, industrial, automotive, healthcare, and wearables. It integrates a CMOS circuit with a crystal oscillator in a hermetically sealed ceramic package, ensuring reliable timekeeping and low power consumption.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Operating Voltage (VDD): 1.1 V to 5.5 V
+  - I2C-bus Active Voltage: 1.2 V to 5.5 V
+
+- **Current Ratings:**
+  - Timekeeping Mode Current Consumption: 45 nA @ 3 V (typical), 60 nA (max)
+
+- **Power Consumption:**
+  - Extremely low power consumption of 45 nA in timekeeping mode.
+
+- **Operating Temperature Range:**
+  - Standard: -40°C to +85°C
+
+- **Package Type:**
+  - SMD (Surface Mount Device), SON-8 (DFN-8) with dimensions of 3.2 x 1.5 x 0.8 mm.
+
+- **Special Features:**
+  - Time accuracy: Factory calibrated to ±1 ppm @ 25°C.
+  - User programmable password for write protection of time and configuration.
+  - Non-volatile configuration settings with user programmable offset value.
+  - Automatic backup switchover and trickle charger function.
+  - Provides year, month, date, weekday, hours, minutes, seconds, UNIX time.
+  - Timer, alarm, and external event input with time stamp function.
+  - Multiple clock output frequencies: 32.768 kHz, 8192 Hz, 1024 Hz, 64 Hz, 32 Hz, 1 Hz.
+  - 43 bytes of non-volatile user memory and 2 bytes of user RAM.
+  - I2C-bus interface supporting up to 400 kHz.
+  - 100% Pb-free and RoHS-compliant.
+  - Automotive qualification available according to AEC-Q200.
+
+- **Moisture Sensitive Level:**
+  - IPC/JEDEC J-STD-020C.
+
+### Typical Applications:
+The RV-3028-C7 is suitable for a wide range of applications due to its low power consumption and accurate timekeeping capabilities. Typical applications include:
+- **IoT Devices:** For maintaining accurate time in connected devices.
+- **Metering:** Used in smart meters for energy, water, and gas to timestamp data.
+- **Industrial Automation:** For time-stamping events and managing schedules in industrial systems.
+- **Automotive Systems:** For timekeeping in automotive electronics, including navigation and infotainment systems.
+- **Healthcare Devices:** In medical devices for tracking time-sensitive data.
+- **Wearables and Portables:** For fitness trackers and smartwatches that require precise timekeeping with minimal power usage.
+
+This RTC module is ideal for applications where battery life is critical, and accurate timekeeping is essential.

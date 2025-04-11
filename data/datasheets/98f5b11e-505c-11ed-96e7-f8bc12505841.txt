@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of GNI090100-P55 production of ELITE PHOTOELECTRIC TECH CO., LTD from the text:                                           GNI090100 -P55 \nWeb：www.emec.c n         Fax：+86-28-87425019        Tel：+86-28-87428329   \n1 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  9-10 GHz GaN IMFET  transistor  \nKey Features:  \n   Frequency ：9-10 GHz  \n   Typical Gain ：9 dB \n   Typical Output ：55dBm  \n   Power Added Efficiency ：30% \n   Technology ：0.25um GaN HEMT   \n   Offset：45V/ -2.5V \n   Packaging Mode: Cermet  \n Introduction  \nGNI090100 -P55 is a 9-10GHz high pow er and efficiency GaN IMFET , the bare die inside is using 0.25um \ngrid length GaN HEMT  technology 。It works with dual power supply, Vds= 45V，and can provide  55dBm output \npower in  9-10GHz, power gain is  9dB, power added effici ency is 30%. \n \nAbsolute Maximum Ratings  (TA=25℃)  \nSymbol  Parameter  Value  Mark  \nVd Drain V oltage  50V  \nVg Gate  Voltage  -5V  \nPd Power Dissipation  180W 25 oC \nTch Channel Temperature  225oC [1] \nTm Mounting  Temperature  300 oC 1min,  N2 Protection  \nTstg Storage Te mperature  -55～175 oC  \n[1] Higher tha n any v alues above may cause permanent damage 。 \n \nSpecifications  (TA=25℃)  \nSymbol  Parameter  Test Condition  Values  \nUnit \nMin Typ Max \nPout Output Power  \nVd=45V \nVg= -2.5V \n100us, 10% \nF: 9-10GHz  55 - dBm  \nGp Power  Gain   9 - dB \nPAE Power Adde d Efficiency   30 - ％ \n△Gp Gain  Flatness  -0.8  +0.8 dB \n \n                                           GNI090100 -P55 \nWeb：www.emec.c n         Fax：+86-28-87425019        Tel：+86-28-87428329   \n2 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  Typical Performances  \nPout & PAE  \n9.0 9.2 9.4 9.6 9.8 10.05354555657\n Pout\n PAE\nFreq (GHz)Pout (dBm)\n253035404550PAE (%)\n \nDimension (Unit: m m) \n1.60\n**4.60+0.25\n-0.15\n8-R0.508-R1.002-0.60±0.05\n0.10\n2.60+0.20\n 018.65(封接框)\n23.10\n*26.40\n15.55(封接框)\n17.404-2.60\n8.00\nmin3.00\n \n                                           GNI090100 -P55 \nWeb：www.emec.c n         Fax：+86-28-87425019        Tel：+86-28-87428329   \n3 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  Recommended  Circuit  \n \nNotes:   \n1) This product is IMFET, input and output impend ence are 50 Ohm . \n2) Power -on sequence: Vg -->Vd \n  Power -off sequen ce: Vd-->Vg \n3) The  working temperature should be lower  than 80 oC. \n   \n \n \n'}]
+!==============================================================================!
+### Component Summary: GNI090100-P55
+
+**Manufacturer:** ELITE PHOTOELECTRIC TECH CO., LTD  
+**Website:** www.emec.cn  
+**Contact:** Tel: +86-28-87428329 | Fax: +86-28-87425019  
+**Address:** Hezuo Road 333, High Technology Development District (West), Chengdu, P.R. China  
+
+#### Key Specifications:
+- **Type:** GaN IMFET Transistor
+- **Frequency Range:** 9-10 GHz
+- **Typical Gain:** 9 dB
+- **Typical Output Power:** 55 dBm
+- **Power Added Efficiency (PAE):** 30%
+- **Technology:** 0.25 µm GaN HEMT
+- **Drain Voltage (Vd):** 45V (Absolute Maximum: 50V)
+- **Gate Voltage (Vg):** -2.5V (Absolute Maximum: -5V)
+- **Power Dissipation (Pd):** 180W at 25°C
+- **Channel Temperature (Tch):** 225°C (Absolute Maximum)
+- **Mounting Temperature (Tm):** 300°C for 1 min (N2 Protection)
+- **Storage Temperature (Tstg):** -55 to 175°C
+- **Package Type:** Cermet
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+#### Description:
+The GNI090100-P55 is a high-power and high-efficiency GaN (Gallium Nitride) IMFET (Insulated Metal-Film Field Effect Transistor) designed for operation in the frequency range of 9-10 GHz. Utilizing advanced 0.25 µm GaN HEMT (High Electron Mobility Transistor) technology, this component is capable of delivering significant output power while maintaining a reasonable power added efficiency.
+
+#### Typical Applications:
+The GNI090100-P55 is primarily used in applications that require high-frequency signal amplification, such as:
+- **Telecommunications:** For base stations and RF amplifiers in communication systems.
+- **Radar Systems:** In military and civilian radar applications where high power and efficiency are critical.
+- **Satellite Communications:** For transmitting signals over long distances with minimal loss.
+- **Industrial Equipment:** In systems that require robust and efficient power amplification at microwave frequencies.
+
+This component is particularly suited for environments where high performance and reliability are essential, making it a valuable choice for engineers designing high-frequency electronic systems.

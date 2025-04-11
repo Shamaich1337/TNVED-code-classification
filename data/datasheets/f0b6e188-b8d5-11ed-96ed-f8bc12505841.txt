@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 212515-3101 production of MOLEX from the text:C C\nSECTION C-C\nSCALE 8:1D D\nSECTION D-D\nSCALE 8:114 AWG CRIMP SIZE 16 AWG CRIMP SIZE\nE E\nSECTION E-E\nSCALE 8:1F F\nSECTION F-F\nSCALE 8:1\nNOTES:\n1. MATERIAL: HIGH CONDUCTIVITY COPPER ALLOY\n2. PLATING FINISH:\n        1.02μm(40μin)-2.54μm(100μin) REFLOW MATTE TIN OVER\n        1.27μm(50μin) MINIMUM NICKEL.\n3. PRODUCT SPECIFICATION 2125150001-PS.\n4. PACKAGING SPECIFICATION 2125150001-PK.\n5. TERMINAL FOR USE WITH RECEPTACLE HOUSING SERIES 212514.\n6. MATES WITH: HEADER SERIES 212520.\n7. PART CONFORMS TO CLASS "B" REQUIREMENTS OF COSMETIC SPECIFICATION PS-45499-002.\n8. APPLICATION SPECIFICATION 2125150001-AS.\n9. RECOMMENDED INSULATOR\n        14AWG WIRE - OD 2.78MM MAX.\n        16AWG WIRE - OD 2.42MM MAX.FINISHED RECEPTACLE TERMINALS\nPART NUMBER CONTACT PLATING OPTION CRIMP SIZE\n212515-3101 REFLOW MATTE TIN 14AWG\n212515-3102 REFLOW MATTE TIN 16AWG\n�10.00�\n�20.00�1.60⌀REELING DIRECTION\nREADY FOR CRIMPING\n3.352.15\n�19.30�1.90\n�0.20�\nCUT OFF VESTIGE\n3.873.48\n3.323.003.473.72\n3.003.021.55\nFORMAT: master-tb-prod-A3\nREVISION: J1\nDATE: 2021/05/01DOCUMENT STATUS P1 RELEASE DATE 2022/11/15 03:37:38 \n \n \nMINI-FIT MAX RECEPT CRIMP TML\n PRODUCT CUSTOMER DRAWING\nDOCUMENT NUMBER DOC TYPE DOC PART REVISION\n2125150001-SD PSD 000A1\nMATERIAL NUMBER CUSTOMER SHEET NUMBER\nSEE CHART GENERAL MARKET  1 OF 1CURRENT REV DESC:\nEC NO: 726892\nDRWN: ZIXUAQ 2022/09/27\nCHK\'D: XQZHANG 2022/11/15\nAPPR: XQZHANG 2022/11/15\nINITIAL REVISION:\nDRWN: SCHEN76 2020/04/24\nAPPR: YXZHENG 2020/05/13\nTHIRD ANGLE PROJECTION DRAWING SERIES\nA3-SIZE 212515DIMENSION UNITS SCALE\nmm NTS\nGENERAL TOLERANCES\n   (UNLESS SPECIFIED)\nANGULAR TOL ±  °\n4 PLACES ±\n3 PLACES ±\n2 PLACES ± 0.25\n1 PLACE ± 0.5\n0 PLACES ±\nDRAFT WHERE APPLICABLE\nMUST REMAIN\nWITHIN DIMENSIONSTHIS DRAWING CONTAINS INFORMATION THAT IS PROPRIETARY TO MOLEX ELECTRONIC TECHNOLOGIES, LLC AND SHOULD NOT BE USED WITHOUT WRITTEN PERMISSION10 9\n98\n87\n7F6\nF\n6E5\nE\n5D4\nD\n4C3\nC\n3B2\nB\n2A1\nA\n1\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 212515-3101
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, Mini-Fit connectors can handle up to 600V.
+- **Current Ratings**: Designed for 14 AWG wire, typically rated for up to 15A depending on the application.
+- **Power Consumption**: Not specified; power consumption would depend on the application and load.
+- **Operating Temperature Range**: Not specified in the provided text; generally, Mini-Fit connectors operate within -40°C to +105°C.
+- **Package Type**: Crimp terminal for use with receptacle housing.
+- **Special Features or Notes**:
+  - Material: High conductivity copper alloy.
+  - Plating Finish: Reflow matte tin over nickel.
+  - Conforms to Class "B" requirements of cosmetic specification PS-45499-002.
+  - Recommended for use with 14 AWG and 16 AWG wire.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The MOLEX 212515-3101 is a crimp terminal designed for use with Mini-Fit Max receptacle housing series 212514. It is constructed from high conductivity copper alloy and features a reflow matte tin plating over nickel, ensuring good electrical conductivity and resistance to corrosion. This terminal is specifically designed for crimping onto 14 AWG wire, making it suitable for various electrical connections.
+
+#### Typical Applications:
+The 212515-3101 crimp terminal is commonly used in applications requiring reliable electrical connections, such as:
+- **Power Management**: Connecting power supplies to devices in consumer electronics, automotive, and industrial applications.
+- **Signal Processing**: Used in data transmission applications where secure and stable connections are necessary.
+- **Data Storage**: Employed in devices that require robust connections for data transfer, such as hard drives and SSDs.
+- **General Electronics**: Suitable for a wide range of electronic devices where reliable crimp connections are needed.
+
+This component is ideal for applications that demand high reliability and performance in electrical connections, particularly in environments where vibration and movement may occur.

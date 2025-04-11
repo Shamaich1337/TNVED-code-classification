@@ -1,0 +1,23 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-DIV5H-02R-M0-T production of DECIGN from the text:A New 20.01.2022 Tom\nSWITCH\nDIP VERTICAL SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV .\n0.30Tom\nJerry\nSH20.01.2022\n20.01.2022\n20.01.2022DI(R)V5H-°°R-°\x0e.\x11\nTP-DI(R)V5H-°°R-°\x0e.\x11\x0e51/1\nARoHS\ncomplian t\n""\n'}]
+!==============================================================================!
+Based on the provided text, here is a concise summary of the component TP-DIV5H-02R-M0-T from DECIGN:
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly mentioned in the provided text; please refer to the full datasheet for specific voltage ratings.
+- **Current Ratings**: Not explicitly mentioned in the provided text; please refer to the full datasheet for specific current ratings.
+- **Power Consumption**: Not explicitly mentioned in the provided text; please refer to the full datasheet for specific power consumption details.
+- **Operating Temperature Range**: Not explicitly mentioned in the provided text; please refer to the full datasheet for specific temperature range.
+- **Package Type**: DIP (Dual In-line Package), vertical orientation.
+- **Special Features or Notes**: The component is RoHS compliant, indicating it meets environmental standards for hazardous substances.
+- **Moisture Sensitive Level (MSL)**: Not explicitly mentioned in the provided text; please refer to the full datasheet for MSL information.
+
+### Component Description:
+The TP-DIV5H-02R-M0-T is a switch component designed in a DIP vertical package format. It is typically used for applications requiring manual control or selection, such as toggling between different circuit paths or settings.
+
+### Typical Applications:
+- **Power Management**: Used in power distribution circuits to control the flow of electricity.
+- **Signal Processing**: Can be utilized in signal routing applications where manual intervention is required.
+- **Data Storage**: May be employed in systems where user input is necessary to select different storage options or modes.
+
+### Additional Notes:
+For precise specifications such as voltage and current ratings, as well as the operating temperature range, it is recommended to consult the complete datasheet for the TP-DIV5H-02R-M0-T component. The provided text does not contain all necessary details for a comprehensive analysis.

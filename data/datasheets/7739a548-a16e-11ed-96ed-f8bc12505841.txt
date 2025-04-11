@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2J4301MPGF-050RG174-C20NST_CU100549 production of 2J from the text:GPS Adhesive/Magnetic Mount \n \n2J4301MPFx     \n \n  Product Datasheet\nwww .2j-antennae.com www .2j-antennasusa.com Page: 1/6\nKey Features\nGPS/QZSS/Galileo\n- 1575 MHz\nAdhesive/Magnetic Mount\nPost-Filter\nVoltage 2.7 - 5.5 V\nGround Plane Independent\nCustomizable Cable and Connector\nDimensions 38  x 34 x 13.5/14.5  mm\nCertificates IP67\n\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 2/6   \nPassive Parameters\nStandards\nBands (MHz) \nFrequency (MHz)\nPatch Size (mm)\nReturn Loss  (dB)\nVSWR\nEfficiency (%)\nPeak Gain (dBiC)\nAverage  Gain (dB)\nImpendance  (Ohm)\nRadiation Pattern\nAxial Ratio (dB)\nPolarizationGPS Antenna\nGPS/QZSS/Galileo\n1575\n1575.42\n25 x 25 x 4\n~-25dB\n~1.1:1dB\n~69\n~3.9\n~-1.6\n50\nHemispherical\n3 Max\nRHCP\nActive Parameters\nStandards\nBands (MHz) \nFrequency (MHz)\nImpendance (Ohm)\nVSWR\nRadiation Pattern\nPolarization\nSaw Filter\nActive Gain (dB)\nNoise Figure (dB)\nVoltage (V)\nCurrent (mA)\nPower Consumption (mW)\nConnector T ype\nCable Length (m)\nCable T ypeGPS Antenna\nGPS/QZSS/Galileo\n1575\n1575.42\n50\n<1.2:1\nHemispherical\nRHCP\nPost-Filter\n23 @ 3V , 24 @ 5V\n1.15\n2.7 - 5.5\n15 - 25\n138 Max\nSMA-Male Standard (Other Connectors Available)\n300cm Standard (Any Cable Length Available)\nRG174 Standard (Other Cables Available)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 3/62. Mechanical and environmental specifications    \nSpecifications\nMounting T ype\nDimensions (mm)\nRandome T ype\nRandome Color\nAntenna Base\nOperating T emperature (C)\nStorage T emperature (C)\nCertificates\nSubstance Compliance2J4301MPFx\nAdhesive/Magnetic Mount\n38 x 34 x 13.5/14.5\nABS\nBlack\nABS\n-40 to +85\n-40 to +85\nIP67\nRoHS\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 4/6Radiation pattern referen ce\n1575 M Hz Rad iation pattern\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 5/6   \n 13,5 \n 1  34 \n 38 \n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 6/6   \n\n'}]
+!==============================================================================!
+### Component Summary: 2J4301MPGF-050RG174-C20NST_CU100549
+
+#### Key Specifications:
+- **Voltage Ratings:** 2.7 - 5.5 V
+- **Current Ratings:** 15 - 25 mA
+- **Power Consumption:** 138 mW (max)
+- **Operating Temperature Range:** -40 to +85 °C
+- **Storage Temperature Range:** -40 to +85 °C
+- **Package Type:** Adhesive/Magnetic Mount
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified, but the component is IP67 rated, indicating protection against dust and water ingress.
+- **Special Features:**
+  - Ground Plane Independent
+  - Customizable Cable and Connector options
+  - Post-Filter integrated
+  - Certificates: IP67, RoHS compliant
+
+#### Description:
+The 2J4301MPGF-050RG174-C20NST_CU100549 is a GPS antenna designed for use with GPS, QZSS, and Galileo systems, operating at a frequency of 1575 MHz. It features an adhesive/magnetic mount for versatile installation options. The antenna is characterized by its compact dimensions of 38 x 34 x 13.5/14.5 mm and is constructed from durable ABS material, ensuring longevity and reliability in various environmental conditions.
+
+#### Typical Applications:
+This GPS antenna is typically used in applications requiring precise location tracking and navigation. Common uses include:
+- Automotive GPS systems
+- Fleet management and tracking
+- Personal navigation devices
+- IoT devices requiring location services
+- Drones and UAVs for navigation and telemetry
+- Any application where reliable GPS signal reception is critical
+
+The antenna's ground plane independence and customizable features make it suitable for a wide range of devices and installations, enhancing its versatility in various technological environments.

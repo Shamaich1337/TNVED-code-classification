@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HYB35C05 production of SEPA EUROPE GMBH from the text: Blower  \n Radial  Lüfter  \n \n  \n   \n  \n \n \n \n \n \n● Technical changes without notice  ● 02.12.2020 ● Technische Änderungen vorbehalten  \n \nSEPA EUROPE GmbH ●  DE-79427 Eschbach  Tel.: +49  7634/59459 -0 ● info@sepa -europe.com  \n  \n \n \n \nHYB35C05  \n \n \n  \n \n \n HYB35C05 -007 \nSafety Approval / Zertifizierungen   \nU [VDC]  4.5 … 5 … 5.5 \nItyp [mA] 70 \nImax [mA] 140 \nVmax [l/min – m³/h]  27 – 1.6 \n𝑝max [Pa – mmH²O]  29.4 - 3 \nNoise  / Geräusch (typ.)*  [dB(A)]  27 \nRPM * [min−1] 7400  \nFG (…A)  [pulses per r evolution ] - \nPWM  [VDC]  - \nTemp.  [°C] -10 … +80  \nMotorp rotection / Motorschutz  Impedance  \nL10/MT TF @ 40°C  [h] 70000/350000  \nBearing / Lagersystem  Ball bearing  \nWeight / Gewicht  [g] 10 \n* Noise and rotation speed ar e subject to deviations due to tolerance.  \n  Geräusch und Drehzahl u nterliegen toleranzbedingten Abweichungen.  \n \n● ORDER INFORMATION / BESTELLDATEN  \nHYB35C05 -007 113531000  \n  \n  \n  \n  \n  \n  051015202530\n0 0,5 1 1,5 2p [Pa]\nV̇[m³/h] 2x AWG 28 \nBlack = GND  Red = VCC  Air performance / Luftleistung  \n\n Blower  \n Radial  Lüfter  \n \n  \n   \n  \n \n \n \n \n \n● Technical changes without notice  ● 02.12.2020 ● Technische Änderungen vorbehalten  \n \nSEPA EUROPE GmbH ●  DE-79427 Eschbach  Tel.: +49  7634/59459 -0 ● info@sepa -europe.com  \n  \n \n \n \nHYB35C05  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n● ACCESSORIES / ZUBEHÖR  \n  \n    \n LFGFSB  FG FM LM \nCable assembly  Dust filter / Fan guard  Metal fan guard  EMC metal filter  Elastic fastening \nsleeves  \nKonfektionierung  Staubschutzfilter / \nFingerschutzgitter  Fingerschutzgitter  EMV \nFilterrahmen  Lüftermanschette  \n \n\n'}]
+!==============================================================================!
+### Component Summary: HYB35C05
+
+**Component Type:**  
+Radial Blower Fan
+
+**Key Specifications:**
+- **Voltage Ratings:**  
+  - Operating Voltage: 4.5 to 5.5 VDC
+- **Current Ratings:**  
+  - Typical Current (Ityp): 70 mA  
+  - Maximum Current (Imax): 140 mA
+- **Airflow Performance:**  
+  - Maximum Airflow: 27 l/min (1.6 m³/h)
+- **Static Pressure:**  
+  - Maximum Pressure: 29.4 Pa (3 mmH²O)
+- **Noise Level:**  
+  - Typical Noise: 27 dB(A)
+- **Speed:**  
+  - RPM: 7400 min⁻¹
+- **Operating Temperature Range:**  
+  - -10°C to +80°C
+- **Package Type:**  
+  - Not specified in the provided text, but typically compact for integration into electronic devices.
+- **Special Features:**  
+  - Ball bearing system for durability
+  - Motor protection via impedance
+  - Long lifespan: L10/MT @ 40°C rated for 70,000 hours (MTTF) and 350,000 hours (MTBF)
+- **Moisture Sensitive Level:**  
+  - Not specified in the provided text.
+
+**Description:**  
+The HYB35C05 is a radial blower fan designed for efficient air movement in various electronic applications. It operates at a low voltage and is characterized by its compact size, making it suitable for integration into devices where space is limited. The fan utilizes a ball bearing system, which enhances its reliability and longevity.
+
+**Typical Applications:**  
+The HYB35C05 is commonly used in:
+- **Cooling Systems:** To dissipate heat from electronic components and maintain optimal operating temperatures.
+- **Ventilation:** In enclosures or cabinets to ensure proper airflow and prevent overheating.
+- **Air Circulation:** In various consumer electronics, medical devices, and industrial equipment where air movement is necessary for performance.
+- **Dust Removal:** In applications where dust accumulation can affect performance, such as in computer systems or sensitive electronic equipment.
+
+This component is ideal for applications requiring a compact, efficient, and reliable airflow solution.

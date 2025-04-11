@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of XQY-PS4-A10-DC/P-SFI production of SHENZHEN XINQIYUAN TECHNOLOGY CO., LTD. from the text:精密高频功分器/合路器\nPrecisionRFPowerSplitter/Combiner\nTel/公司座机：0755-23345158Email/邮箱：Hansen.hou@xqy-tech.com\nWeb/官网：www.xqy-tech.com Zipcode/邮编：518101\nAdd/地址：深圳市宝安区新安街道新一代信息技术产业园C座512-525室第1页共2页\n文档编号DN：XQY006-220701-SXQY-PS4-A10-DC/P-SFI\n【一、产品参数Parameters/规格指标Specifications】\n频率范围FrequencyRange 1.1~1.7GHzTyp.（0.05~3GHzMax.）\n增益Gain 10±2dBtyp.\n合路端驻波CombinedportVSWR ≤1.4:1(0.05~2GHz)≤1.8:1(2~3GHz)\n分配端驻波DistributionportVSWR ≤1.35:1\n噪声系数NoiseFigure 2.5dBTyp.\n输出1dB压缩点1dBComp.Pt -4dBm\n输出三阶截断点OutputIP3 6dBm\n幅度平衡AmplitudeBalance ≤1dB\n相位平衡PhaseBalance ≤±5°\n隔离度Isolation ≥33dB\n工作电流Operatingcurrent25mA@12VTyp.\n30mA@9VTyp.\n52mA@5VTyp.\n75mA@3.3VTyp.\n直流馈通电流DCThroughCurrent 250mAMax\n直流馈通电压DCThroughVoltage3.3V~28V\n（OUT1in输入,ANTout输出,OUT2/3/4DCblocked隔直）\nANT端口直流电压ANTportDCVoltage等于OUT1端口直流电压\n（EqualtotheDCvoltageofOUT1port）\n最大输入功率MaxRFInput -8dBmCW\n连接形式Connectortype SMAfemale母头\n表面处理SurfaceFinishing 本导喷砂Sandblastingnaturalcolorconductiveoxide\n精密高频功分器/合路器\nPrecisionRFPowerSplitter/Combiner\nTel/公司座机：0755-23345158Email/邮箱：Hansen.hou@xqy-tech.com\nWeb/官网：www.xqy-tech.com Zipcode/邮编：518101\nAdd/地址：深圳市宝安区新安街道新一代信息技术产业园C座512-525室第2页共2页\n文档编号DN：XQY006-220701-S【二、规格草图Draftspecifications】\n注:尺寸(mm/[英寸])，一般公差(±0.3)\nNote:Dimensions(mm/[inch]),Generaltolerance(±0.3)\n【三、测试曲线图Testcurve】\n\n'}]
+!==============================================================================!
+### Component Summary: XQY-PS4-A10-DC/P-SFI
+
+**Manufacturer:** Shenzhen Xinqiyuan Technology Co., Ltd.  
+**Product Type:** Precision RF Power Splitter/Combiner
+
+#### Key Specifications:
+- **Frequency Range:** 
+  - Typical: 1.1 to 1.7 GHz
+  - Maximum: 0.05 to 3 GHz
+- **Gain:** 10 ± 2 dB (typical)
+- **Combined Port VSWR:** 
+  - ≤ 1.4:1 (0.05 to 2 GHz)
+  - ≤ 1.8:1 (2 to 3 GHz)
+- **Distribution Port VSWR:** ≤ 1.35:1
+- **Noise Figure:** 2.5 dB (typical)
+- **Output 1 dB Compression Point:** -4 dBm
+- **Output Third-Order Intercept Point (IP3):** 6 dBm
+- **Amplitude Balance:** ≤ 1 dB
+- **Phase Balance:** ≤ ±5°
+- **Isolation:** ≥ 33 dB
+- **Operating Current:** 
+  - 25 mA @ 12V (typical)
+  - 30 mA @ 9V (typical)
+  - 52 mA @ 5V (typical)
+  - 75 mA @ 3.3V (typical)
+- **DC Through Current:** 250 mA (max)
+- **DC Through Voltage:** 3.3V to 28V
+- **Max RF Input Power:** -8 dBm CW
+- **Connector Type:** SMA female
+- **Surface Finishing:** Sandblasting natural color conductive oxide
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The XQY-PS4-A10-DC/P-SFI is a precision RF power splitter/combiner designed for high-frequency applications. Its primary function is to split an input RF signal into multiple output signals with minimal loss and distortion, or to combine multiple input signals into a single output. This component is essential in RF signal processing where maintaining signal integrity is crucial.
+
+#### Typical Applications:
+- **Telecommunications:** Used in base stations and communication systems to manage RF signals.
+- **Signal Processing:** Employed in various RF applications where signal distribution or combination is required.
+- **Testing Equipment:** Utilized in laboratory settings for testing and measurement of RF signals.
+- **Broadcasting:** Applied in radio and television broadcasting systems to distribute signals effectively.
+
+This component is ideal for engineers and designers working in RF applications, ensuring reliable performance in demanding environments.

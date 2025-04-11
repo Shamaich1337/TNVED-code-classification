@@ -1,0 +1,48 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SBH11-PBPC-D20-ST-BK production of SULLINS from the text:122\nwww.sullinscorp.com  |  760-744-0125  |  toll-free 888-774-3100  |  fax 760-744-6081  |  info@sullinscorp.com\nHeaders Headers\nDIMENSIONS  For complete drawings, go to www.sullinscorp.com or e-mail techsupport@sullinscorp.com\nDimensions in [ ] are in millimeters, all others are in inches..100” [2.54 mm] Contact Centers, Shrouded (Box) Headers,\nStraight/Right Angle/SMT - SBH11 Series\nSPECIFICATIONS\n• Centered\tPolarizing\tNotch\n•\tOperating\t Temperature: \t-40°C\tto\t+105°C\n•\tProcessing\t Temperature: \t230°C\tMax. \tfor\t60\tseconds, \t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t(260°C\tMax. \tfor\t10\tseconds)\n•\tUL\tFlammability\tRating: \t94V-0\n•\tContact\tResistance: \t20\tmilli\tOhms\tMax.\n•\tCurrent\tRating: \t3\tAmps\n•\tDielectric\t Withstanding: \t1000\tVAC\n•\tInsulation\tResistance: \t5000\tMegohms\tMin.\n.118[3.00]\n.100[2.54]\n.406 [10.30].418\n[10.62].100[2.54].423\n[10.74].126[3.20]STRAIGHT (ST)\nExample P/N:   SBH11-PBPC-D20-ST-BK\nRIGHT ANGLE (RA)\nExample P/N:   SBH11-PBPC-D20-RA-BK\nSURFACE MOUNT (SM)\nExample P/N:   SBH11-NBPC-D20-SM-BK.346[8.80]\n.025[0.64] SQ. .100[2.54]\n.346[8.80] .358[9.10].256[6.50]\n.100[2.54]Mates with SFH11 series, SFH210 series and SFH213 series\nPART NUMBER OPTIONS\nB=Brass\nCONTACT CENTERS\nC=.100” [2.54 mm]NUMBER OF CONTACT POSITIONS (Pins per Row)ST=Straight\nRA =Right Angle\nSM =Surface Mount\nSP=Surface Mount with Guide PostsTERMINATION TYPE \n03 thru 08, 10, 12, 13, 15, 17, 20, 22, 25, 30, 32P=Gold Flash OverallCONTACT FINISH - RoHS Compliant SERIES\nINSULATOR MATERIAL\nP=PBT\nN or G =Nylon\nCONTACT MATERIAL\nNUMBER OF ROWS\nD=Dual RowCOLOR\nBK=Black SBH11 =Box Header, .100” [2.54 mm] Contact Centers by\n.100” [2.54 mm] Row Spacing   SBH11   -   P    B    P     C  -  D  10 - ST - BK\n'}]
+!==============================================================================!
+### Component Summary for SBH11-PBPC-D20-ST-BK
+
+**Component Type:**  
+- **Type:** Box Header  
+- **Series:** SBH11  
+- **Contact Centers:** 0.100” [2.54 mm]  
+
+**Key Specifications:**
+
+- **Voltage Ratings:**  
+  - Dielectric Withstanding: 1000 VAC
+
+- **Current Ratings:**  
+  - Maximum Current: 3 Amps
+
+- **Power Consumption:**  
+  - Not specified directly; however, the current rating can be used to estimate power consumption based on the voltage applied.
+
+- **Operating Temperature Range:**  
+  - -40°C to +105°C
+
+- **Package Type:**  
+  - Dual Row, Straight (ST) configuration
+
+- **Special Features or Notes:**  
+  - Centered polarizing notch for proper alignment during mating.  
+  - UL Flammability Rating: 94V-0  
+  - Contact Resistance: 20 milli Ohms Max  
+  - Insulation Resistance: 5000 Megohms Min  
+  - Processing Temperature: 230°C Max for 60 seconds (260°C Max for 10 seconds)  
+
+- **Moisture Sensitive Level (MSL):**  
+  - Not specified in the provided text.
+
+**Description of the Component:**  
+The SBH11-PBPC-D20-ST-BK is a dual-row box header connector designed for use in electronic applications where reliable connections are required. It features a centered polarizing notch to ensure correct orientation during mating with compatible connectors, specifically the SFH11 series, SFH210 series, and SFH213 series. The header is constructed from PBT (Polybutylene Terephthalate) with brass contacts that are RoHS compliant.
+
+**Typical Applications:**  
+This component is typically used in various electronic applications, including:
+
+- **Power Management:** Connecting power supplies to circuit boards.
+- **Signal Processing:** Facilitating connections between different circuit elements.
+- **Data Storage:** Used in connectors for data storage devices.
+- **Consumer Electronics:** Commonly found in devices requiring reliable interconnections, such as computers, telecommunications equipment, and industrial machinery.
+
+Overall, the SBH11-PBPC-D20-ST-BK is a versatile and robust connector suitable for a wide range of electronic applications, ensuring durability and reliability in performance.

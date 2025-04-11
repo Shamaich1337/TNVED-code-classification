@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of C34202222KX08-01 production of GDHY from the text:GDHY® GuangdongHuaYu\nElectronicLtd.\nSpecificationDataSheet\nCustomer:\nProductName:C34IGBTSnubberProtectionCapacitor\nModelspecification:C34series\nPRODUCTNO.:Seepage5list\nSpecNo.:HY01220824-01\n制造 客户\nManufacturer Customer\n拟制 审批 检验 审批\nDesigner Approver Inspector Approver\n韦学成 韩梅\n日期：2022.08.24日期：\nDate Date\n地址：广州市天河区龙洞第三工业区E栋三楼\nADD:FLOOR3,BUILDINGE,THETHIRDINDUSTRIALAREASOFLONGDONG,103LONGDONGYINGLONG\nROAD,TIANHEDISTRICT,GUANGZHOUCHINA\n电话(tel)：020-87023331/87023336传真(fax)：020-87023473\nHttp://www.gdhy.com E-mail:hy@gdhy.com 电力工业技术部电裕华\n东广司公限有子\nGDHY®产品规格书 HY01220824-01\n产品特点.Characteristics\n●塑料外壳，干式树脂灌注；\n●镀锡铜线引出;\n●耐压高，损耗(tgδ)小，温升低;\n●自感(ESL)小，等效串联电阻(ESR)小;\n●高脉冲电流、高dv/dt承受能力\n●Plasticshell,Sealedwithepoxyresin\n●Tinnedplatedcopperwireextraction\n●Resistancetohighvoltage,lowdissipationfactor\n●LowESL,lowESR,lowtemperaturerise\n●Highpulsecurrent,Highdv/dtaffordability\n产品应用.Application\n●IGBT缓冲吸收\n●广泛应用于电力电子装置UPS、逆变器、感应加热、电焊机等设备的尖峰电压、尖峰电流吸收保护\n●IGBTbufferabsorptioncircuitprotection;IGBTbufferabsorptiondevice\n●WidelyusedinpowerelectronicequipmentUPS,inverter,inductionheating,electricweldingmachine\nandotherequipmentpeakvoltage,peakcurrentabsorptionprotection\n性能参数.TechnicalData\n引用标准ReferenceStandard IEC61071.GB/T17702\n工作温度范围OperatingTemperatureRange -40℃~85℃最高温度+110℃\n当t>85℃时，温度每上升1℃，\n必须电压（dc/ac）降低（1.5/2.5）%。\n容量范围CapacitanceRange 2.2nF/10nF/15nF/22nF\n额定电压RatedVoltage 1250VDC/2000VDC\n容量偏差CapacityTolerance ±5%(J);±10%(K)\n耐电压WithstandVoltage 1.5UnDc/10Sat20℃\n损耗角正切DissipationFactor tgδ≤0.0010 f=1KHzat20℃\n绝缘电阻InsulationResistanceC≤0.33μFRs≥30000MΩ(at20℃100VDC60S)\nC>0.33μFRsC≥10000S(at20℃100VDC60S)\n阻燃性Flameretardation UL94V-0\n预期寿命Lifeexpectancy 100000hrs(Unθhotspot≤85℃)\nGDHY®产品规格书 HY01220824-01\n典型线路图.TypicalCircuit 结构图.ConstructionDiagram\n单相UPS/EPS电源的主电器图中C2、C3为IGBT吸收电容器\nInthemainelectricaldiagramofthesingle-phaseUPS/EPSpowersupply,\nC2andC3areIGBTabsorptioncapacitors.\n产品编码ProductCoding\n预期寿命曲线Lifetimecurve\n\nGDHY®产品规格书 HY01220824-01\n温度特性TemperatureCharacteristics\n频率特性FrequencyCharacteristics\n\nGDHY®产品规格书 HY01220824-01\n产品外形及参考尺寸图\nPartNumberCAP\nnFDimension（mm）\ndv/dt\nV/μsIrms\n10KHz70℃\n(A)ESL\n(nH)ESR\n10KHz\n(mΩ)L T H P P1 d\nUn1250Vdc\nC341252103JX08-01 10 18 6 12 15 0.8 1000 0.8 30 42\nC341252153JX08-01 15 18 7.5 13.5 15 0.8 1000 1.0 30 35\nC341252223JX08-01 22 18 8.5 14.5 15 0.8 1000 1.5 30 30\nUn2000Vdc\nC34202222JX08-01 2.2 18 7.5 13.5 15 0.8 1500 0.7 30 54\nMARKING\nP±0.5\nH±1\nT±1\nMARKING\nGDHY       C34\nC341252153JX08-01\n0.015μF±5%  1250VDC\nwww.gdhy.com 日期代码W±1\n5.5±1\nd±0.1\n'}]
+!==============================================================================!
+### Component Summary for C34202222KX08-01
+
+**Manufacturer:** GDHY (Guangdong Hua Yu Electronic Ltd.)  
+**Product Name:** C34 IGBT Snubber Protection Capacitor  
+**Model Specification:** C34 Series  
+**Product Code:** C34202222KX08-01  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Rated Voltage: 2000 VDC
+  - Withstand Voltage: 1.5 Un DC at 20°C (3000 VDC)
+  
+- **Current Ratings:**
+  - RMS Current: 1.5 A at 10 kHz, 70°C
+  
+- **Power Consumption:**
+  - Dissipation Factor (tgδ): ≤ 0.0010 at 1 kHz, 20°C
+  
+- **Operating Temperature Range:**
+  - -40°C to +85°C (maximum temperature +110°C)
+  - Voltage derating: For temperatures above 85°C, voltage must be reduced by 1.5% per °C for DC and 2.5% for AC.
+  
+- **Package Type:**
+  - Plastic shell, sealed with epoxy resin
+  
+- **Special Features:**
+  - Low Equivalent Series Resistance (ESR)
+  - Low Equivalent Series Inductance (ESL)
+  - High pulse current and high dv/dt capability
+  - Flame retardation rating: UL94V-0
+  
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+#### Description:
+The C34202222KX08-01 is a snubber protection capacitor designed specifically for IGBT (Insulated Gate Bipolar Transistor) applications. It is constructed with a plastic shell and is filled with epoxy resin for durability and reliability. This capacitor is engineered to handle high voltage and current spikes, making it suitable for protecting sensitive electronic components in power electronics.
+
+#### Typical Applications:
+- **IGBT Buffer Absorption:** The capacitor is primarily used in circuits that require buffering and absorption of voltage and current spikes, particularly in IGBT applications.
+- **Power Electronics Equipment:** It is widely utilized in uninterruptible power supplies (UPS), inverters, induction heating systems, and electric welding machines, where it protects against peak voltage and peak current absorption.
+- **Circuit Protection:** The capacitor serves as a protective component in various electronic devices, ensuring stable operation and longevity by mitigating transient voltage conditions.
+
+This summary encapsulates the essential characteristics and applications of the C34202222KX08-01 capacitor, highlighting its role in enhancing the performance and reliability of power electronic systems.

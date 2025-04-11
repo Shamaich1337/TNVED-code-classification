@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 09561515512 production of HARTING from the text:03.\n12\n 15 09 56 151 751 .  09 56 151 551 .\n 26 09 56 251 751 .  09 56 251 551 .\n 44 09 56 351 751 .  09 56 351 551 .\n 62 09 56 451 751 .  09 56 451 551 .\n 78 09 56 551 751 .  09 56 551 551 . 15 09 56 161 771 .  09 56 161 571 .\n 26 09 56 261 771 .  09 56 261 571 .\n 44 09 56 361 771 .  09 56 361 571 .\n 62 09 56 461 771 .  09 56 461 571 .\n 78 09 56 561 771 .  09 56 561 571 .\nD-Sub - HDПрямые соединители высокой плотности с штампованными контактами и заземляющими клипсамиКол-во контактов\n15--78\n1) S4: ≥ 0,76 µm Au (30 µinch)Уровни исполнения\nпояснения см. стр. 03.02  þ\nДругие уровни исполнения по запросу\nВведите число, соответствующее резьбе фланца \nили с соответствующим винтом крепления розетки Уровень исполнения\n3 S41)\n 4-40 UNC þ 2\n укомплектованные винтами 4-40 UNC þ 3Вилка\nметаллический корпус с углублениями\nРозетка\nметаллический корпусD-Sub\nНаименование  АртикулКол-во \nконтактов\n03.\n13\n15-62 78 15-62 78\n15-62 78 15-62 78\nD-Sub - HD\n4-40 UNC4-40 UNCНаименование Чертеж Размеры в мм\nВилка\nРозетка\nОтверстия в плате\nКонтакт №1Контакт №1\nКонтакт №1\nКонтакт № 78Контакт №1\nКонтакт № 78соответствующие винты \nкрепления\n4-40 UNCКонтакт №1\nсоответствующие винты \nкрепления\n4-40 UNCПрямые соединители высокой плотности с штампованными контактами и заземляющими клипсамиКол-во контактов\n15--78\nрозетка 15-62 вилка 15-62\nрозетка 78 вилка 78  a b±0,1 c e f g\n 15 30,9 25,0 12,5 0,89 0,25 2,29\n 26 39,2 33,3 12,5 0,64 0,51 2,29\n 44 53,1 47,0 12,5 0,64 0,51 2,29\n 62 69,4 63,5 12,5 0,62 0,58 2,41\n 78 67,0 61,1 15,4 – – 2,41D-Sub\n'}]
+!==============================================================================!
+### Component Summary for HARTING Product Code 09561515512
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, D-Sub connectors can handle voltages up to 250V.
+- **Current Ratings**: Not specified; however, standard D-Sub connectors can typically handle currents ranging from 1A to 5A per contact depending on the configuration.
+- **Power Consumption**: Not applicable for connectors; power consumption is determined by the connected devices.
+- **Operating Temperature Range**: Not specified; typical operating ranges for similar connectors are -40°C to +85°C.
+- **Package Type**: D-Sub connector (high-density).
+- **Special Features or Notes**: 
+  - High-density stamped contacts.
+  - Grounding clips included.
+  - Available in various contact configurations (15 to 78 contacts).
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The HARTING 09561515512 is a high-density D-Sub connector designed for robust electrical connections in various applications. It features stamped contacts and grounding clips, which enhance the reliability and performance of the connection. The connector is available in multiple configurations, accommodating between 15 to 78 contacts, making it versatile for different wiring needs.
+
+#### Typical Applications:
+D-Sub connectors, including the HARTING 09561515512, are commonly used in:
+- **Data Communication**: Connecting computers and peripherals.
+- **Industrial Automation**: Linking sensors, actuators, and control systems.
+- **Telecommunications**: Providing connections in networking equipment.
+- **Test and Measurement Equipment**: Facilitating connections in laboratory and testing environments.
+- **Audio/Video Equipment**: Used in professional audio and video applications for signal transmission.
+
+This connector is ideal for applications requiring reliable and high-density connections in environments where space is limited.

@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-SS1-008-H380/0-55/1A production of DECIGN from the text: ±0.46 SQ2.50±0.20\n1.27×CONTACTS±0.35\n2.50±0.20B±0.25\nA±0.25C±0.256.35±0.153.40±0.15\n4.30±0.15NO.01\n1.27±0.101.27×(CONTACTS-1)±0.20\nPIN HEADER\n1.27PH SMT+CAP H:2.50\n1*XXPINNOTES:\n1.HOUSING:NY6T，UL94V-0\nCAP    :NY9T，UL94V-0\nCOLOR  :BLACK\n2.CONTACT:BRASS\nPLATED :GOLD FLASH\n3.CURRENT : 1A\n4.OPERATING TEMPERATURE: - 40°C TO +105°C\n5.CONTACT RESISTANCE   : 20 MILLIOHMS Max.\n6.INSULATION RESISTANCE: 1000 MEGAOHMS Min.\n7.WITHSTANDING VOLTAGE : 500 V AC/minute\nA：  5.04  mm\nB:   2.80  mm\nC:   3.81  mm\nP.C.B.LAYOUT1.271.27×(CONTACTS-1)\nA+1.0CONTACTS\n      1×11\n   1×12\n   1×13\n   1×14\n   1×15\n   1×16\n   1×17\n   1×18\n   1×19\n   1×201×21\n1×22\n1×23\n1×24\n1×25\n1×26\n1×27\n1×28\n1×29\n1×301×31\n1×32\n1×33\n1×34\n1×35\n1×36\n1×37\n1×38\n1×39\n1×40   1×03\n   1×04\n   1×05\n   1×06\n   1×07\n   1×08\n   1×09\n   1×101×40\n1×41\n1×42\n1×43\n1×44\n1×45\n1×46\n1×47\n1×48\n1×49\n1×500.76\nTP-SS1-XXX-H380/0-55/1A\nTP-SS1-XXX-H380/0-55/1A\n'}]
+!==============================================================================!
+### Component Summary for TP-SS1-008-H380/0-55/1A
+
+#### Key Specifications:
+- **Voltage Ratings**: 500 V AC/minute (withstanding voltage)
+- **Current Ratings**: 1 A
+- **Power Consumption**: Not specified directly; however, the current rating indicates the maximum load.
+- **Operating Temperature Range**: -40°C to +105°C
+- **Package Type**: Pin Header, SMT (Surface Mount Technology)
+- **Special Features/Notes**:
+  - Housing material: NY6T, UL94V-0 rated
+  - Cap material: NY9T, UL94V-0 rated
+  - Contact material: Brass with gold flash plating
+  - Contact resistance: 20 milliohms max
+  - Insulation resistance: 1000 megaohms min
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Component Description:
+The TP-SS1-008-H380/0-55/1A is a surface mount pin header connector designed for electronic applications. It features a compact design with a pitch of 1.27 mm and is suitable for connecting various electronic components on a printed circuit board (PCB). The connector is made from durable materials that comply with UL94V-0 flammability standards, ensuring safety and reliability in various environments.
+
+#### Typical Applications:
+This pin header connector is typically used in:
+- **Power Management**: Connecting power supplies to circuit boards.
+- **Signal Processing**: Facilitating communication between different electronic components.
+- **Data Storage**: Connecting storage devices to motherboards or other circuitry.
+- **Consumer Electronics**: Used in devices such as computers, smartphones, and other electronic gadgets where compact and reliable connections are required.
+
+Overall, the TP-SS1-008-H380/0-55/1A is a versatile component suitable for a wide range of electronic applications, providing reliable connectivity in compact spaces.

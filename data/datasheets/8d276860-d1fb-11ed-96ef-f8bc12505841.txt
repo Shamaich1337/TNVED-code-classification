@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-450-D025 production of MG ANTENNAS from the text:MACRO  GROU P    E-mail: wireless@macrogroup .ru    Tel: +7 (812) 370 60 70  \n \n \n Datasheet  \n450MHz UHF ANTENNA  \nModel: MG-450-D025  \n \n \nMACRO  GROU P    E-mail: wireless@macrogroup .ru    Tel: +7 (812) 370 60 70  1. Main Technical Specifications  \n \nRevision #  Content  Page  Date  Manufacture  \n0 First, document  - 01.10.2017 MG ANTENNAS  \n1     \n     \n1.1 Electrical Specifications  \n                                                                        \n1.2 Mechanical specification s \nCable  (type and length )  RG174, 2m or others  \nConnector  SMA  male  or others  \nHousing  Color  Black  \nMounting  Magnetic base  \nDimensions  H150*30mm \nWeigh t 60g \n   \n2. Envir onmental specifications  \n Center Frequency  400~470 MHz \nPolari zation Vertica l \nGain  2,5~3 dBi \nMax p ower  50 W \nVSWR  1.5 :1 \nImpedance  50 Ω \nOperating Temperature , ℃ -40 ~ + 75 \nOperating Humidity, %  0 ~ 85 \nStorage Temperature , ℃ -40 ~ + 75 \nStorage Humidity, %  0 ~ 85 \nVibration  10 to 55Hz with 1.5mm amplitude 2hours  \nEnvironmentally Friendly  ROHS Compliant  \n'}]
+!==============================================================================!
+### Component Summary: MG-450-D025 UHF Antenna
+
+#### Key Specifications:
+- **Center Frequency:** 400 ~ 470 MHz
+- **Gain:** 2.5 ~ 3 dBi
+- **Maximum Power:** 50 W
+- **Voltage Standing Wave Ratio (VSWR):** 1.5:1
+- **Impedance:** 50 Ω
+- **Operating Temperature Range:** -40 °C to +75 °C
+- **Operating Humidity:** 0% to 85%
+- **Storage Temperature Range:** -40 °C to +75 °C
+- **Storage Humidity:** 0% to 85%
+- **Vibration Resistance:** 10 to 55 Hz with 1.5 mm amplitude for 2 hours
+- **Cable Type and Length:** RG174, 2m or others
+- **Connector Type:** SMA male or others
+- **Housing Color:** Black
+- **Mounting Type:** Magnetic base
+- **Dimensions:** Height 150 mm, Diameter 30 mm
+- **Weight:** 60 g
+- **Environmental Compliance:** ROHS Compliant
+
+#### Description:
+The MG-450-D025 is a UHF antenna designed for operation in the frequency range of 400 to 470 MHz. It features a vertical polarization and provides a gain of 2.5 to 3 dBi, making it suitable for various wireless communication applications. The antenna is constructed with a magnetic base for easy mounting and is designed to withstand a wide range of environmental conditions, including extreme temperatures and humidity levels.
+
+#### Typical Applications:
+The MG-450-D025 antenna is typically used in applications such as:
+- **Wireless Communication:** Ideal for UHF communication systems, including two-way radios and other wireless devices.
+- **Telematics:** Used in vehicle tracking and monitoring systems.
+- **Remote Sensing:** Suitable for applications requiring reliable data transmission over UHF frequencies.
+- **Industrial Automation:** Employed in wireless control systems and monitoring equipment in industrial settings.
+
+This antenna is particularly beneficial in environments where durability and performance are critical, given its robust design and compliance with environmental standards.

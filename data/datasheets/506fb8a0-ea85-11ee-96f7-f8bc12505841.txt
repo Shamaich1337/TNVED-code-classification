@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FYL-1821PTD1B-02 production of FORYARD OPTOELECTRONICS from the text:■Dice material: Silicon \n■Emitting Color: Phototransistor(NPN).\n■Device Outline: Φ5mm  round type.\n■Lens Type: Black diffusion.\nNINGBO FORYARD OPTOELECTRONICS CO.,LTD.\nAdd: No. 666 Jinghua Road, Hi-tech Park, Ningbo, Zhejian g, China              Zip: 315103 \nTel:   0086-574-87933652 87927870 \nFax:  0086-574-87927917 \nE-mail: Sales@foryard.com     (General) \nPage ：1/5 Model No. ：：：：FYL-1821PTD1B-02 \nDescriptions: \nCUSTOMER APPROVED \nSIGNATURES APPROVED BY SALES BY PREPARED BY Model  No. FYL-1821PTD1B-02 \nDate / Rev. 2023.08.17 / A \nPRODUCT SPECIFICATION \n                      Http://www.foryard.com \nS 020 F oryard \n2 0 2 3 . 0 8 . 1 7 E 0 0 1 For yard \n2023.08. 17 \nModel No. ：：：：FYL-1821PTD1B-02 \n■■■■ Features \n   1.Low power consumption.\n   2.High efficiency.\n   3.General purpose leads. \n   4.High intensity.\n   5.RoHs compliant.\n■■■■ Package configuration \nNotes: \n1. All dimensions are millimeters (inches) \n2. Tolerance is ±0.25mm(.010”) unless otherwise not ed.\n3. The specifications, characteristics and technica l data described in the datasheet are subject \n     to change without prior notice.\n4.The drawing is different from the actual one, ple ase refer to the sample.\nPage ：2/5 Date / Rev. 2023.08.17 / A Model  No. FYL-1821PTD1B-02 \n                      Http://www.foryard.com \n\nModel No. ：：：：FYL-1821PTD1B-02 \n■■■■ Absolute Maximun Ratings(Ta=25ºC) \n■■■■ Typical Electrical &Optical Charcteristics(Ta=25ºC ) \nSymbol Min. Typ. Max. Unit\nBvceo 30 --100 V\nBvceo 5 -- -- V\nIceo -- 1 100  nA \nIon 2 7 --  mA \nVce(s) -- -- 0.4 V\nTr/Tf-- 15/15 -- µs \nλp -- 940 -- nm \nHfe 200 -- --\nCCB 5.4 -- 7.4 PF \n730  --- 1100 nm \n   Note:\n           1.Luminous Intensity is based on the For yard standards.\n           2.Pay attention about static for InGaN \nPage ：3/5 Peak Collection Wavelength Rise/Fall Time Vce=5V \nIc=1mA \nRl=1000Ω \nCurrent Gain Vce=5V \nIc=2mA \nCollector-base Capacitance F=1MHZ \nVCB=3V Ic=2mA \nIb=100µA Parameter \nCollector-Emitter Voltage \nEmitter-Collector Voltage \nCollector Current\nCollect Power Dissipation \nOperating Temperature Range \nStorage Temperature Range \nSoldering Condition Symbol\nVceo \nVeco \nIc \nPc \nTopr \nTstg \nTsol\nIc=100µA \nIb=0 \nIe=100µA \nIb=0 \nVce=20V \nEe=0mW/cm2 \nVce=5V \nEe=1mW/cm2 Model  No. FYL-1821PTD1B-02 \nDate / Rev. 2023.08.17 / A \n5 V\n50 mA Rating Unit\n30 V\n                      Http://www.foryard.com 100 mW \n-40 ℃ to +85 ℃\n-40 ℃ to +100 ℃\nReflow(hand) soldering : 260°C(300°C )For 5 \n(3)Seconds \nSpectral Range Parameter Test Condition \nEmitter-Collector Breakdown \nVoltage Collector-Emitter Breakdown \nVoltage \nCollect CurrentCollector Dark Current\nCollector-Emitter Saturation \nVoltage \n\nModel No. ：：：：FYL-1821PTD1B-02 \n■■■■ Typical Eletrical/Optical Characteristics Curves(T a=25ºC Unless Otherwise Noted) \nPage ：4/5 Model  No. FYL-1821PTD1B-02 \nDate / Rev. 2023.08.17 / A \n                      Http://www.foryard.com \n\n■■■■  LAMP PACKING.\n1,000pcs/Reel.\nNote: The specifications are subject to change with out notice. Please contact us for updated informati on.\nPage ：5/5 Model  No. FYL-1821PTD1B-02 \nDate / Rev. 2023.08.17 / A \nModel No. ：：：：FYL-1821PTD1B-02 \n                      Http://www.foryard.com \n\n'}]
+!==============================================================================!
+### Component Summary for FYL-1821PTD1B-02
+
+**Component Type:** Phototransistor (NPN)
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Collector-Emitter Breakdown Voltage (Bvceo): 30 V (Max)
+  - Emitter-Collector Breakdown Voltage (Veco): 5 V (Max)
+  
+- **Current Ratings:**
+  - Collector Current (Ic): 50 mA (Max)
+  - Collector Dark Current (Iceo): 1 nA (Typ), 100 nA (Max)
+  
+- **Power Consumption:**
+  - Collector Power Dissipation (Pc): 100 mW (Max)
+  
+- **Operating Temperature Range:**
+  - -40 °C to +85 °C (Operating)
+  - -40 °C to +100 °C (Storage)
+  
+- **Package Type:**
+  - Φ5mm round type
+  
+- **Special Features:**
+  - Low power consumption
+  - High efficiency
+  - General purpose leads
+  - High intensity
+  - RoHS compliant
+  
+- **Moisture Sensitive Level:** 
+  - Not specified in the provided data, but typically assessed according to JEDEC J-STD-020E.
+
+**Description:**
+The FYL-1821PTD1B-02 is a silicon-based NPN phototransistor designed for general-purpose applications. It is characterized by its black diffusion lens, which helps in providing a uniform light output. The device is optimized for low power consumption and high efficiency, making it suitable for various electronic applications.
+
+**Typical Applications:**
+- **Optical Sensing:** Used in light detection and switching applications.
+- **Signal Processing:** Can be utilized in circuits that require light-to-electricity conversion.
+- **Consumer Electronics:** Commonly found in devices that require light sensing capabilities, such as remote controls and optical encoders.
+- **Automation Systems:** Employed in systems that rely on light barriers or presence detection.
+
+This phototransistor is ideal for applications where space is limited and efficiency is crucial, making it a versatile component in modern electronic designs.

@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of HPICIR-1550-3-01-B-10-FA production of SEAGNOL PHOTONICS CO., LTD from the text:       www.seagnol.com\nApplication:\nSpecification:\nUnit\nnm\nnm\ndB\ndB\ndB\ndB\ndB\ndB\ndB\nW\nkW\nN\n-\n℃\n℃\nmm\nNotice: Above specifications are tested at center wavelength without connector in room temperature @23 ℃.\n             For devices with connectors, IL will be 0.3dB higher, RL will be 5dB lower. connectors only 1W CW optical power guarantee. \nDrawing:\nOrdering Information (Part Number):\n WWW  P  HH  LL  CC\n Wavelength  Port  Handling Power  Fiber Jacket  Fiber Length  Connector \n 780 - 780nm  3 - 3 Ports  01 - 1W  B - 250um Bare Fiber  05 - 0.5m  NE - None\n 785 - 785nm  03 - 3W  9 - 900um Loose Tube  10 - 1.0m  FA - FC/APC\n 790 - 790nm  05 - 5W  15 - 1.5m  FU - FC/UPC\n 793 - 793nm  SS - Specify  20 - 2.0m  SA - SC/APC\n SSS - Specify      SS - Specify  SU - SU/APC\n LA - LC/APC\n  LU - LC/UPC\n SS - Specify\nsales@seagnol.com Page 1 of 1Parameter Symbol ValueHigh Power 780nm 3-port Polarization Insensitive Optical Circulator\n      High Power 780nm 3-port Polarization Insensitive Optical Circulator is a fiber passive component built with TGG crystal,\nwhich can change signal light transmission path, the signal can be delivered from Port 1 to Port 2, the other signal light\nfrom Port 2 to Port 3, the high isolation can block the back reflection light. It's widely used in Fiber Amplifier System, Fiber\nOptic Sensor and Testing System field. If need pulse type please tell us to confirm.\nFeatures\nFiber Optic Sensor\nFiber Optic Amplifier\nCoherent Detecting\nTesting SystemHigh Power\nHigh Isolation\nLow Insertion Loss\nHigh Reliability\nCenter Wavelength λ 780\nBandwidth BW ±5\nTyp. Insertion Loss (Port 1 to 2, 2 to 3) IL 1.2\nMax. Insertion Loss (Port 1 to 2, 2 to 3) IL 1.5\nTyp. Isolation (Port 2 to 1, 3 to 2) Iso 25\nMin. Isolation (Port 2 to 1, 3 to 2) Iso 22\nMin. Cross Talk Ct 50Max. Polarization Dependent Loss PDL 0.15\nMin. Return Loss RL 45\nMax. Optical Power (CW) P 1, 3, 5 or specify\n HPICIR- WWW-P-HH-J-LL-CC\n JOperating Temperature T +5~65\nStorage Temperature T -40~85Max. Peak Power P 5, 10 or specify\nPackage DimensionMax. Tensil Load 5\nFiber Type HI 780 fiber\nPort 1 Port 2\nPort 34x3mm17mm 17mm28mm\n31,5mm\n2mm26,5mm72mm\n67mm\n                          \n"}]
+!==============================================================================!
+### Component Summary: HPICIR-1550-3-01-B-10-FA
+
+**Manufacturer:** SEAGNOL PHOTONICS CO., LTD  
+**Product Code:** HPICIR-1550-3-01-B-10-FA
+
+#### Key Specifications:
+- **Center Wavelength:** 780 nm
+- **Bandwidth:** ±5 nm
+- **Insertion Loss (IL):**
+  - Typical (Port 1 to 2, 2 to 3): 1.2 dB
+  - Maximum (Port 1 to 2, 2 to 3): 1.5 dB
+- **Isolation:**
+  - Typical (Port 2 to 1, 3 to 2): 25 dB
+  - Minimum: 22 dB
+- **Cross Talk:** Minimum 50 dB
+- **Polarization Dependent Loss (PDL):** Maximum 0.15 dB
+- **Return Loss (RL):** Minimum 45 dB
+- **Maximum Optical Power (CW):** 1W, 3W, or 5W (specify)
+- **Operating Temperature Range:** +5°C to +65°C
+- **Storage Temperature Range:** -40°C to +85°C
+- **Maximum Peak Power:** 5W, 10W, or specify
+- **Package Dimensions:** 4x3 mm (Port 1), 17 mm (Port 2), 31.5 mm (Port 3)
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The HPICIR-1550-3-01-B-10-FA is a **High Power 780nm 3-port Polarization Insensitive Optical Circulator**. It is a passive fiber optic component designed to manage the direction of optical signals. The circulator allows light to be transmitted from one port to another while blocking back reflections, making it essential for maintaining signal integrity in optical systems.
+
+#### Typical Applications:
+- **Fiber Amplifier Systems:** Enhances the performance of optical amplifiers by managing signal paths.
+- **Fiber Optic Sensors:** Used in sensing applications where precise signal routing is critical.
+- **Testing Systems:** Facilitates the testing of optical components and systems by directing light paths effectively.
+- **Coherent Detection:** Supports applications that require high isolation and low insertion loss for coherent optical signals.
+
+This component is particularly valuable in high-performance optical networks and systems where signal integrity and reliability are paramount.

@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 1GLBH640D1250-07 production of BM-CAPACITOR from the text:TZ-1GLBH640D1250-07D\nExplain of change Symbol No. DatePeople of \nchange AuditingChenCuipengPart/Model \nJ0325Material/Model Quantity Craft Remarks6\nShape plastic case\nFilling material Flame-resistant epoxy resin\nMedium material PP\nConnect terminal M6 Copper nut\nMax warp distance of terminal 5N.m\nClimatic Category -4070℃～℃\nCooling way Natural cooling\nStandard GB/T17702、IEC61071\nFlame-resistant class UL94-V0Purchase no.\nDetailed data\nCharacteristic of structure\nWorking condition\nSafty classConfirm by signature and fax.\n0757-2360 8828\nProduct DrawingDKMJ-P\nDC-Link CapacitorGUANG DONG FENGMING ELECTRONIC TECH.CO.,LTD.\ndate authorize auditing design plot scaleName \nof \nproductName\n of\npart\nDrawing\n No.ChenCuipeng5.5±1\n44.5±1\nØ10\n4\n28±175±1\n90±1Ø6Hole29\n105±1DKMJ-P\n40μF ±5%\nUN     1250V  DC  SH\nTracking \nNumber -4070℃～℃\n50±11GLBH640D1250-07\n40μF\n±5%\n1250V.DC\n25A@ 40 10kHz℃\nIp≥800A \ndv/dt≥20V/μS\ntg≤0.001100Hz（）\nESR≤7mΩ1kHz（）\nESL≤20nH\nIR·C≥5000S\n1800V.DC/60S\n-- VT-C(terminal and case)VT-T(terminal and terminal)Insulation resistorMixed inductanceEquivalent \nresistor in seriesTangent of loss angleChange rate of votageBiggest impact currentBiggest currentRated voltageCapacitance toleranceRated capacitance\nAmbient humidity 095%～\nLiuWenchangM6\n'}]
+!==============================================================================!
+### Component Summary for 1GLBH640D1250-07
+
+**Component Type:** DC-Link Capacitor
+
+**Description:**
+The 1GLBH640D1250-07 is a DC-Link capacitor designed for high voltage applications. It is constructed with a plastic case and filled with flame-resistant epoxy resin, making it suitable for various industrial applications. The capacitor is primarily used to smooth out voltage fluctuations in power electronics, providing stability and efficiency in power management systems.
+
+### Key Specifications:
+- **Voltage Rating:** 1250V DC
+- **Capacitance:** 40μF ±5%
+- **Current Rating:** 25A @ 40°C, 10kHz
+- **Power Consumption:** Not explicitly stated, but related parameters include:
+  - **ESR (Equivalent Series Resistance):** ≤ 7mΩ at 1kHz
+  - **ESL (Equivalent Series Inductance):** ≤ 20nH
+  - **dv/dt:** ≥ 20V/μs
+  - **Ip (Peak Current):** ≥ 800A
+- **Operating Temperature Range:** -40°C to 70°C
+- **Package Type:** Plastic case
+- **Moisture Sensitive Level (MSL):** Not specified, but typically assessed under JEDEC J-STD-020E standards.
+- **Climatic Category:** -40 to 70°C
+- **Flame Resistance Class:** UL94-V0
+- **Ambient Humidity:** 0 to 95%
+
+### Special Features:
+- Natural cooling mechanism
+- High insulation resistance (IR·C ≥ 5000S)
+- High voltage withstand capability (1800V DC for 60 seconds)
+
+### Typical Applications:
+- **Power Management:** Used in power supply circuits to stabilize voltage and reduce ripple.
+- **Industrial Equipment:** Suitable for applications in industrial machinery where high voltage and capacitance are required.
+- **Renewable Energy Systems:** Can be utilized in inverters and converters for solar and wind energy systems.
+- **Motor Drives:** Employed in motor control applications to enhance performance and efficiency.
+
+This capacitor is ideal for applications requiring reliable performance under high voltage and temperature conditions, making it a critical component in various electronic systems.

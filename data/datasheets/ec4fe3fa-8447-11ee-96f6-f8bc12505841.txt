@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of KL220M450J250A00T production of CAPXON from the text:AluminumElectrolytic Capacitor  \nKLseries  \n \nL.C.: After1min.withratedworkingvoltage applied.  \n \nTest  conditions  Endurance  Shelf  Life \nDuration  time  5000h@ 105°C  1000h@ 105°C  \nApplied  voltage  Rated  DC working  voltage, IR None  \nAfter  test requirements (+20°C):  \nCapacitance  change  ≤±20%  of initial  measured  value  \nDissipation  factor  change  ≤200%  of the initial  specified value  \nLeakage  current  ≤the  initial  specified  value  \ncomment   Pre‐treatment  for measurements  shall \nbe conducted after application of DC  \nWorking  voltage  for30 min.  \n \n \n \n \n \n \n \n \n \nSeries  Cap Tol. Voltage  Case D Case L Type  Lead Treatm.  Special  \n1_2 3_4_5  6 7_8_9  10 11_12_13  14 15_16  17_18_19_20  \nKL 220 M 450 J 250 A 00 T \n =22µF  =±20%  =450V  =16mm  =25mm  A=standard  No request   = Temperature  \n         \n …        \n \nSpecificationanddescriptionforthecomponent(s)aresubjecttochangewithoutnotice.Forpackaging,handling,precautionsandwarninginfor mation,pleasevisitourwebsite: www.capxongroup.com  \nCapXon  V.ED‐20171027  \nPart number  KL220M450J250A 00T \nCapacitance  22 µF \nVoltage  450 VDC \nSurge  Voltage  495 VDC \nCapacitance  Tolerance(@ +20°C)  ±20 % \nRipple  current(max, @120Hz,+105°C)  360 mA \nDissipation  factor(tanδ@120Hz, +20°C)  17 % \nLeakage  Current(max,@ +20°C)*  496 µA \nSize 16x25  mm \nOperating  temperature  ‐40 to105 °C \nEndurance  5000  h \n \nD 16 \nL 25 \nF 7.5 \ndø 0.8 \n \n \n \n22µF450V  \n \n \nKL105°C \ndø±0.02   \nL±1.5  PETSleeve  \n'}]
+!==============================================================================!
+### Component Summary for KL220M450J250A00T (CapXon Aluminum Electrolytic Capacitor)
+
+#### Key Specifications:
+- **Capacitance**: 22 µF
+- **Voltage Ratings**:
+  - **Rated DC Working Voltage**: 450 VDC
+  - **Surge Voltage**: 495 VDC
+- **Capacitance Tolerance**: ±20% at +20°C
+- **Ripple Current (max)**: 360 mA at 120Hz and +105°C
+- **Dissipation Factor (tan δ)**: 17% at 120Hz and +20°C
+- **Leakage Current (max)**: 496 µA at +20°C
+- **Operating Temperature Range**: -40°C to +105°C
+- **Endurance**: 5000 hours at 105°C
+- **Package Type**: Radial leaded capacitor, dimensions 16 mm (D) x 25 mm (L)
+- **Moisture Sensitive Level**: Not specified in the provided text, but typically aluminum electrolytic capacitors are classified under standard moisture sensitivity levels.
+
+#### Description:
+The KL220M450J250A00T is an aluminum electrolytic capacitor designed for various electronic applications. It features a capacitance of 22 µF and is rated for a maximum DC voltage of 450 V, making it suitable for high-voltage applications. The capacitor is characterized by its ability to handle ripple currents up to 360 mA and operates effectively within a wide temperature range of -40°C to +105°C.
+
+#### Typical Applications:
+This aluminum electrolytic capacitor is commonly used in:
+- **Power Supply Circuits**: For filtering and smoothing applications in power supplies, ensuring stable voltage levels.
+- **Signal Coupling and Decoupling**: In audio and RF applications, where it helps in coupling signals between stages while blocking DC.
+- **Energy Storage**: In applications requiring temporary energy storage, such as in power backup systems.
+- **Motor Drives**: For providing necessary capacitance in motor control circuits to improve performance and efficiency.
+
+Overall, the KL220M450J250A00T is a versatile component suitable for a variety of electronic circuits requiring reliable performance under demanding conditions.

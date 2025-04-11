@@ -1,0 +1,49 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ES-VMHRPX28C production of EPISTAR CORPORATION from the text:COPYRIGHT \xa0©2017\xa0Epistar\xa0Corporation. \xa0All\xa0Rights\xa0Reserved. \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 www.epistar.com.tw \xa0\nCC‐201706‐A\xa0\n\xa0\n\xa0\xa0\xa0\n\xa0\n\xa0\n>\xa0Mechanical \xa0Specification: \xa0\n\xa0\n(1)\xa0Dimension \xa0\n\xa0\xa0‐ \xa0Chip\xa0size:\xa028\xa0mil\xa0x\xa028\xa0mil\xa0(710±25\xa0μm\xa0x\xa0710±25\xa0μm)\xa0\n\xa0\xa0‐ \xa0Thickness: \xa08.8\xa0mil\xa0(225±25\xa0µm)\xa0\n\xa0\xa0‐ \xa0P\xa0bonding\xa0pad:\xa04.7\xa0mil\xa0(120\uf0b110\xa0µm)\xa0\n\xa0\n(2)\xa0Metallization \xa0\n\xa0\xa0‐ \xa0Topside\xa0P\xa0electrode: \xa0Au\xa0alloy\xa0\xa0\n\xa0\xa0‐ \xa0Backside\xa0N\xa0electrode: \xa0Au\xa0alloy\xa0\n\xa0\n\xa0\n\xa0\n\xa0\n>\xa0Electro‐optical\xa0Characteristics \xa0at\xa025\uf0b0C:\xa0\nParameter \xa0 Symbol\xa0 Condition \xa0 Min.\xa0 Typ.\xa0 Max.\xa0 Unit\xa0\nForward\xa0Voltage\xa0Vf1\xa0 If\xa0=\xa010µA\xa0 1.35\xa0‐ \xa0 ‐ \xa0 V\xa0\nVf2\xa0 If\xa0=\xa0250mA\xa0‐ \xa0 2.2\xa0 2.6\xa0 V\xa0\nReverse\xa0Current\xa0 Ir\xa0 Vr\xa0=\xa025V\xa0‐ \xa0 ‐ \xa0 5.0\xa0μ A\xa0\nPeak\xa0Wavelength \xa0 λp\xa0 If\xa0=\xa0250mA\xa0‐ \xa0 631\xa0‐ \xa0 nm\xa0\nDominant \xa0Wavelength(1)\xa0λd\xa0 If\xa0=\xa0250mA\xa0 619\xa0 624\xa0 629\xa0 nm\xa0\nSpectra\xa0Half‐width\xa0 Δλ\xa0 If\xa0=\xa0250mA\xa0‐ \xa0 18\xa0‐ \xa0 nm\xa0\nLuminous \xa0Intensity(2)(3)\xa0 Iv\xa0H13\xa0\nIf\xa0=\xa0250mA\xa09000\xa0‐ \xa0 ‐ \xa0\nmcd\xa0\nH14\xa0 11000\xa0‐ \xa0 ‐ \xa0\nNote:\xa0\n(1)\xa0Basically,\xa0the\xa0wavelength \xa0span\xa0is\xa010nm;\xa0however,\xa0customers’ \xa0special\xa0requirements \xa0are\xa0also\xa0welcome. \xa0\n(2)\xa0Customers’ \xa0special\xa0requirements \xa0are\xa0also\xa0welcome. \xa0\n(3)\xa0Luminous \xa0intensity\xa0is\xa0measured \xa0by\xa0EPISTAR’s \xa0equipment \xa0on\xa0bare\xa0chips.\xa0\t\t\nFeatures: \xa0\n\uf09e\xa0Long‐term\xa0supply\xa0\n\uf09e\xa0High\xa0luminous\xa0intensity \xa0\xa0\n\uf09e\xa0Thin\xa0film\xa0structure\xa0\n\uf09e\xa0Vertical\xa0electrode \xa0\n\uf09e\xa0High\xa0driving\xa0current\xa0\n\xa0Applications: \xa0\n\uf09e\xa0Automotive \xa0ES‐VMHRPX28C\nAIGaInP\xa0PX‐series LED\xa0ChipP.1/3\nN-electrodeP-electrode\n \nSi-substrate \n\nCOPYRIGHT \xa0©2017\xa0Epistar\xa0Corporation. \xa0All\xa0Rights\xa0Reserved. \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 www.epistar.com.tw \xa0\nCC‐201706‐A\xa0\nES‐VMHRPX28C \xa0AlGaInP\xa0PX‐series\xa0LED\xa0Chip \xa0\n\xa0\n>\xa0Absolute\xa0Maximum \xa0Ratings(1):\xa0\nParameter\xa0 Symbol\xa0 Condition\xa0 Rating\xa0 Unit\xa0\nForward\xa0DC\xa0Current\xa0 If\xa0 Ta\xa0=\xa025˚C\xa0 ≤\xa0350\xa0 mA\xa0\nReverse\xa0Voltage\xa0 Vr\xa0 Ta\xa0=\xa025˚C\xa0 ≤\xa010\xa0 V\xa0\nJunction\xa0Temperature \xa0 Tj\xa0 ‐\xa0 ≤\xa0125\xa0 ˚C\xa0\nESD\xa0withstand \xa0voltage(HBM)(2)\xa0 VESD\xa0 \xa0 Up\xa0to\xa02\xa0 kV\xa0\nStorage\xa0Temperature \xa0 Tstg\xa0Chip\xa0 ‐40\xa0~\xa0+85\xa0 ˚C\xa0\nChip‐on‐tape/storage \xa0 5\xa0~\xa035\xa0 ˚C\xa0\nChip‐on‐tape/transportation \xa0‐20\xa0~\xa0+65\xa0 ˚C\xa0\nTemperature \xa0during\xa0Packaging\xa0‐\xa0 ‐\xa0 280(<10sec) \xa0 ˚C\xa0\nNote:\xa0(1)Maximum \xa0ratings\xa0are\xa0package\xa0dependent. \xa0The\xa0above\xa0maximum \xa0ratings\xa0were\xa0determined \xa0using\xa0a\xa0Metal\xa0Core\xa0Printed\xa0Circuit\xa0Board\xa0(MCPCB)\xa0without\xa0an\xa0encapsulant. \xa0\nStresses\xa0in\xa0excess\xa0of\xa0the\xa0absolute\xa0maximum \xa0ratings\xa0such\xa0as\xa0forward\xa0current\xa0and\xa0junction\xa0temperature \xa0may\xa0cause\xa0damage\xa0to\xa0the\xa0LED.\xa0\n\xa0\xa0\xa0\xa0\xa0 (2)According \xa0to\xa0ANSI/ESDA/JEDEC \xa0JS‐001\xa0\n\xa0\n>\xa0Characteristic \xa0Curves:\xa0\nFig.1\xa0–\xa0Relative\xa0luminous \xa0Intensity\xa0vs.\xa0Forward\xa0Current\xa0\xa0 Fig.2\xa0–\xa0Forward\xa0Current\xa0vs.\xa0Forward\xa0Voltage\xa0\nFig.3\xa0–\xa0Relative\xa0Intensity\xa0(@250mA) \xa0vs.\xa0Ambient\xa0\xa0\nTemperature \xa0\xa0Fig.4\xa0–\xa0Forward\xa0Voltage\xa0(@250mA) \xa0vs.\xa0Ambient\xa0\nTemperature \xa0\nFig.5\xa0–\xa0Dominant \xa0Wavelength \xa0(@250mA) \xa0vs.\xa0Ambient\xa0\nTemperature \xa0\xa0Fig.6\xa0–\xa0Maximum \xa0Driving\xa0Forward\xa0DC\xa0Current\xa0vs.\xa0Ambient\xa0\nTemperature \xa0(De‐rating\xa0based\xa0on\xa0Tj\xa0max.\xa0=\xa0125oC)\xa0\n \n\xa0P.2/3\nCOPYRIGHT \xa0©2017\xa0Epistar\xa0Corporation. \xa0All\xa0Rights\xa0Reserved. \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 www.epistar.com.tw \xa0\nCC‐201706‐A\xa0\nES‐VMHRPX28C \xa0AlGaInP\xa0PX‐series\xa0LED\xa0Chip\xa0\n\xa0 \xa0\n\xa0\n>\xa0Qualification \xa0:\xa0\n1)\xa0EPISTAR’s \xa0LED\xa0chips\xa0and\xa0epi‐wafers\xa0are\xa0designed\xa0and\xa0manufactured \xa0according \xa0to\xa0the\xa0quality\xa0management \xa0system\xa0that\xa0\ncomplies\xa0to\xa0the\xa0ISO/TS\xa016949:2009 \xa0requirements \xa0(IATF\xa0No:\xa00194279/ \xa0Certificate \xa0Registration \xa0No:\xa020000908 \xa0TS09).\xa0\n2)\xa0The\xa0chip\xa0qualification \xa0test\xa0plan\xa0is\xa0based\xa0on\xa0the\xa0guidelines \xa0of\xa0AEC‐Q101‐REV‐D\xa0,\xa0Failure\xa0Mechanism \xa0Based\xa0Stress\xa0Test\xa0\nQualification \xa0for\xa0Discrete\xa0Semiconductors \xa0in\xa0Automotive \xa0Applications. \xa0\n\xa0\n>\xa0Revision\xa0:\xa0\n\xa0\nVersion \xa0 Page\xa0 Subjects Date\xa0of\xa0Modification\nA\xa0 \xa0 Initial\xa0Release Apr.\xa02017\n\xa0\n\xa0P.3/3\n'}]
+!==============================================================================!
+### Component Summary: ES-VMHRPX28C
+
+**Description:**
+The ES-VMHRPX28C is an AlGaInP (Aluminum Gallium Indium Phosphide) LED chip produced by Epistar Corporation. It is designed for high luminous intensity applications, making it suitable for various lighting and display technologies. The chip features a thin film structure and vertical electrode design, which enhances its performance and efficiency.
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Forward Voltage (Vf1 at If = 10µA): 1.35 V
+  - Forward Voltage (Vf2 at If = 250mA): 2.2 V (typical) to 2.6 V (maximum)
+  - Reverse Voltage (Vr): ≤ 10 V
+
+- **Current Ratings:**
+  - Forward DC Current (If): ≤ 350 mA
+  - Reverse Current (Ir at Vr = 25V): ≤ 5.0 µA
+
+- **Power Consumption:**
+  - Power consumption is not explicitly stated but can be derived from the forward voltage and current ratings.
+
+- **Operating Temperature Range:**
+  - Junction Temperature (Tj): ≤ 125 °C
+  - Storage Temperature: -40 °C to +85 °C
+  - Chip-on-tape/storage: 5 °C to 35 °C
+  - Chip-on-tape/transportation: -20 °C to +65 °C
+
+- **Package Type:**
+  - Chip size: 28 mil x 28 mil (710 ± 25 μm x 710 ± 25 μm)
+  - Thickness: 8.8 mil (225 ± 25 µm)
+
+- **Special Features:**
+  - High luminous intensity (up to 11,000 mcd)
+  - Long-term supply assurance
+  - High driving current capability
+  - Thin film structure
+  - Vertical electrode design
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+**Typical Applications:**
+The ES-VMHRPX28C LED chip is primarily used in automotive applications, including:
+- Automotive lighting (e.g., headlights, taillights)
+- Indicator lights
+- Display backlighting
+- General illumination in automotive interiors
+
+This LED chip is designed to meet the stringent requirements of automotive applications, ensuring reliability and performance under various environmental conditions.

@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2004490001 production of MOLEX from the text:-\n-\n-\n-\n-\n \n \n \n \n \nDocuments & Resources \nDrawings\nDrawing  2004490001_sd.pdf\nPackaging Design Drawing  2004490001PK-000.pdf\n \nSpecifications\nProduct Specification  2008900001PS-000.pdf\n \nTooling Specifications\nCrimp Specification  2004490001CS-000.pdf\n \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance Statements\nEu RoHS\nREACH SVHC\nLow-Halogen\n \nMultiple Part Industry Compliance Documents\nIPC 1752A Class C\nIPC 1752A Class DPart Number : 2004490001\nProduct Description : 2.00mm Pitch EdgeLock\nCrimp Terminal, Phosphor Bronze, Tin (Sn)\nPlating,Reel\nSeries Number : 200449\nStatus : Active\nProduct Category : Crimp Terminals\nGADSL/IMDS Not Relevant\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Low-Halogen per IEC 61249-2-21\nREACH SVHC Not Contained per D(2023)3788-DC\n(14 Jun 2023)\nEU RoHS Compliant per EU 2015/863\n-\n-\n-\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneral \n \n \nElectrical \n \n \nPhysical \n Status Active\nCategory Crimp Terminals\nSeries 200449\nDescription 2.00mm Pitch EdgeLock Crimp\nTerminal, Phosphor Bronze, Tin\n(Sn) Plating,Reel\nApplication Signal, Wire-to-Board\nProduct Family EdgeLock Wire-to-Edge-Card Signal\nSystem\nProduct Name EdgeLock\nUPC 889056469395\nCurrent - Maximum per Contact 3.0A\nVoltage - Maximum 125V\nDurability (mating cycles max) 30\nGender N/A\nMaterial - Metal Phosphor Bronze\nMaterial - Plating Mating Tin\nMaterial - Plating Termination Tin\nNet Weight 47.042/mg\nPackaging Type Reel\nPlating min - Mating 1.000µm\nPlating min - Termination 1.000µm\nTermination Interface Style Crimp or Compression\nWire Insulation Diameter 1.10-1.40mm\nWire Size (AWG) 22, 24\n \n \n \nUse with Part(s) \n \n \nApplication Tooling \n \nGlobal\n \n \n \nThis document was generated on Aug 29, 2023 Wire Size mm² N/A\nDescription Part Number\nEdgeLock Wire-to-Board Edge Card\nConnectors200890\nDescription Part Number\nHand Crimp Tool for EdgeLock\nCrimp Terminals, 24 AWG2002182800\nHand Crimp Tool for EdgeLock\nCrimp Terminals, 22 AWG2002182900\nExtractor Tool for CTX64 Female\nCrimp Terminals0638135700\nHand Crimp Tool for EdgeLock\nCrimp Terminal, 24 AWG Wire,\nUL1007 and UL1061 Insulation0638279000\nFineAdjust Applicator for EdgeLock\nCrimp Terminal, 24 AWG, UL1061\nwire0639039800\nFineAdjust Applicator for EdgeLock\nCrimp Terminal, 24 AWG, UL1007\nwire0639039900\n'}]
+!==============================================================================!
+### Component Summary for Part Number: 2004490001
+
+#### Key Specifications:
+- **Voltage Rating:** 125V
+- **Current Rating:** 3.0A (maximum per contact)
+- **Power Consumption:** Not specified (typically not applicable for terminals)
+- **Operating Temperature Range:** Not explicitly stated in the provided information
+- **Package Type:** Reel
+- **Special Features/Notes:**
+  - Durability: 30 mating cycles maximum
+  - Material: Phosphor Bronze with Tin (Sn) plating
+  - Low-Halogen compliant per IEC 61249-2-21
+  - EU RoHS compliant per EU 2015/863
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified
+
+#### Component Description:
+The component is a **2.00mm Pitch EdgeLock Crimp Terminal** designed for wire-to-board applications. It is made from phosphor bronze and features tin plating for both mating and termination surfaces. The terminal is part of the EdgeLock series, which is specifically designed for signal transmission in electronic systems.
+
+#### Typical Applications:
+The 2004490001 crimp terminal is typically used in:
+- **Signal Transmission:** It is suitable for connecting wires to printed circuit boards (PCBs) in various electronic devices.
+- **Wire-to-Board Connections:** Ideal for applications where reliable connections between wires and circuit boards are required.
+- **Consumer Electronics:** Commonly found in devices such as computers, telecommunications equipment, and automotive electronics.
+
+This terminal is designed to provide a secure and efficient connection, ensuring durability and reliability in various electronic applications.

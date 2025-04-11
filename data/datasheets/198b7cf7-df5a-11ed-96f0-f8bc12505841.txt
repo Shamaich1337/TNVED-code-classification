@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DBT-245-MPE40-99/BT production of E-TEC from the text:A New 02.11.2022 Cherry\nOrder Code\nDBT-MPE75-SCREW\nRoHS\ncompliant\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2023 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.05Cherry\nRonny\nFagi02.11.2022\n19.04.202319.04.2023MPE-075-RLE91/R\nMPE-075-RLE91-xx/R3/3\nBPCB Layout\nfor "Distance Bolt "  Fixing Hardware\n for Mini PCI Express Connector\nMPE-075-RLE91-55/RB21 pc. needed each connector\nDBT-245-MPE40-99/BT 2.45mm 4.05mmHow to order "Distance Bolt" Module Fixing Hardware\nOrder Code DIM "B2"Connector\nheight 6.50 Sq.\n∅4.20\nRecommended PCB Layout Top View\n(PCB Tolerance  ±0.05 )X-XX X\nPCBM3x0.50 0.70∅5.50 ±0.10\nOnly Screw from this directionPickUp Tape\n∅4.00\nMaterial\nContact: Copper Ally\nPlating: Sn1 pc. needed each connector\nRoHS\ncompliant\nMaterial\nContact: Low-Carbon Steel\nPlating: Ni∅5.50 0.00\n-0.50\n2.50 0.00\n-0.30\nM3x0.500.80 ±0.10B 5.50+0.00/-0.05 -> 5.50+0.00/-0.50 19.04.2023 Cherry\n'}]
+!==============================================================================!
+### Component Summary for DBT-245-MPE40-99/BT
+
+**Component Type:** Distance Bolt Module Fixing Hardware
+
+**Key Specifications:**
+- **Dimensions:**
+  - Height: 6.50 mm
+  - Diameter: 4.20 mm
+- **Material:**
+  - Contact: Copper Alloy
+  - Plating: Sn (Tin)
+- **Moisture Sensitive Level:** Not specified in the provided text, but typically, hardware components like this may not have a defined moisture sensitivity level.
+- **RoHS Compliance:** Yes, the component is RoHS compliant.
+
+**Description:**
+The DBT-245-MPE40-99/BT is a distance bolt designed for securing Mini PCI Express connectors on printed circuit boards (PCBs). It serves as a mechanical fastening solution that ensures proper alignment and stability of the connectors during operation.
+
+**Typical Applications:**
+- **Connector Mounting:** Primarily used in applications where Mini PCI Express connectors need to be securely mounted on PCBs, such as in laptops, embedded systems, and other electronic devices that utilize Mini PCIe interfaces.
+- **Electronics Assembly:** Useful in the assembly of electronic devices where space constraints and secure connections are critical.
+- **Telecommunications Equipment:** Can be employed in telecommunications devices that require reliable connector interfaces.
+
+This component is essential for ensuring that connectors maintain their position and integrity, which is crucial for the performance and reliability of electronic systems.

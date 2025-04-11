@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of CAS-M025-HNS-0307 production of E-TEC from the text:Wire Harness\n2.00mm Housing 1x14p to\n2.00mm Housing 1x16p+ Stripped\nInsulator Tinned 5mm , L=400mmREV. previous version this version DATE DRAWN\nAN e w 26.04.2023 Cherry\nRoHS\ncompliant\n SHEET UNITmm\nFreeSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO. REV.GENERAL TOLERANCE\n0 ~ 200mm  ->  ±10mm\n201 ~ 1000mm  ->  ±20mm\n1001 ~ 1500mm  ->  ±25mm\n1501 ~ 2100mm  ->  ±30mm\n2100mm↑->  ±40mm  E-tec 2023 © - all rights reserved   www.e-tec.asia\nCherry\nKent\nSH26.04.2023\n26.04.202326.04.2023CAS-M025-HNS-0307\nCAS-M025- HNS-03071/1\nAP1\nP4P2\nP3\nP1 P2\n11\n2\n3\n4\n5Red\n6B l a c k\n7\n8\n9\n10 Black5mm\n5mm\n5\n11 NC\n12 Blue 3\n13 NC\n14 White 4P3\nP4#28 Black#28 Black\n#28 Black\n#28 Black#28 Red\n#28 Red\n#28 Red\n#28 Red\n#28 RedUL1007 #22\nUL1007 #22Pin 1\nPin 14\n12 34 30±5100±10 (250) 50±5\n30±55±1 Tin\nPin 6\nPin 1\n5 678\nItem Description Q'TY\nHousing: 1x14 pins, pitch 2.00mm 1Terminal: pitch 2.00mm 12Housing: 1x6 pins, pitch 2.00mm 1\nTerminal: pitch 2.00mm 3\n3 UL1571 28AWG Insulator Wire 12\n4 UL1007 22AWG Insulator Wire 2\n5\nAcetate Cloth Tape 1\n6 Heat Shrink Tube, 300V, Color: Black 1\n7 Heat Shrink Tube, 600V, Color: Black 2\n8 Heat Shrink Tube, 300V, Color: Black 21\n2400±10\n"}]
+!==============================================================================!
+### Component Summary for CAS-M025-HNS-0307
+
+**Component Type:** Wire Harness
+
+**Description:**
+The CAS-M025-HNS-0307 is a wire harness designed for electrical connections in various applications. It features a 2.00mm pitch housing with a configuration of 1x14 pins and an additional 1x16 pins housing. The harness includes tinned wires with a length of 400mm, making it suitable for a range of electronic devices and systems.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, wire harnesses are rated based on the wire insulation and application.
+- **Current Ratings:** Not specified; generally depends on the wire gauge and application.
+- **Power Consumption:** Not applicable; wire harnesses do not consume power but facilitate electrical connections.
+- **Operating Temperature Range:** Not specified; typically determined by the insulation material used.
+- **Package Type:** Not specified; wire harnesses are usually packaged based on manufacturer standards.
+- **Special Features or Notes:** 
+  - RoHS compliant
+  - Includes various wire gauges (28AWG and 22AWG)
+  - Contains heat shrink tubing for insulation and protection
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Typical Applications:**
+The CAS-M025-HNS-0307 wire harness is commonly used in:
+- **Consumer Electronics:** Connecting components within devices such as computers, televisions, and appliances.
+- **Automotive Applications:** Wiring connections in vehicles for various electronic systems.
+- **Industrial Equipment:** Facilitating connections in machinery and control systems.
+- **Telecommunications:** Used in networking equipment and communication devices.
+
+This wire harness is essential for ensuring reliable electrical connections while providing flexibility in installation and maintenance.

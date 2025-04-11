@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MPE-075-REE9/A-55/R production of E-TEC from the text:A New 11.02.2022 Cherry\nSpecificationsRoHS\ncompliant\nMini PCI Express Connector\n3.05mm height - M.2 (NGFF) "E" Key\n0.50mm pitch 75-ContactRecommended PCB Layout  Top View\n(Tolerance ±0.05)\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.25Cherry\nKent\nSH11.02.2022\n11.02.2022\n11.02.2022MPE-075-REE9/A/R\nMPE-075-REE9/A-xx/R1/2\nA0.2X\nX5.5010.50\n0.16 ±0.05 0.5018.50\n0.70\n0.904.75\n2.955.65\n5.0010.50\n18.00\n21.60#1#75\n#2\n#74\n20.10+0.10\n-0.05\n2.625 ±0.03\n3.050.60\n∅1.40 ±0.05∅0.90 ±0.05\n20.00 ±0.102.50\n1.75 1.350.90\n5.5010.5018.5021.90\n1.20\n2.75\n1.55\n0.30 ±0.03\n0.50 0.1X5.00\n10.50∅1.60 ∅1.10\n3.006.00#1#75\n#2\n#74Material\nContact: Phosphor Bronze\nPlating: Au flash over Ni\nHold down: Brass; Matte Sn plated\nInsulator: LCP (black)  UL 94V-0\nOperating temperature: -40°C to +85°C\nStorage temperature: -40°C to +85°C\nMechanical Requirements\nInsertion force: 20N max.\nExtraction force: 25N max.\nOperating life: 60 cycles\nPacking\nReelOrder Code\nMPE-075-REE9/A-55/R\n0.10 min.\n16°\n1.35 max.Electrical\nCurrent rating: 0.5A per pin\nInsulation resistance: 500MΩ min.\nContact resistance: 50mΩ max.\nVoltage rating: 5V dC\nWithstanding voltage: 300V AC\nA New 11.02.2022 Cherry\nRecommended Module Design\n& PCB Layout\nfor Mini PCI Express Connector  M.2 (NGFF)\n0.50mm pitch 75-Contact "E" Key SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.15Cherry\nKent\nSH11.02.2022\n11.02.202211.02.2022MPE-075-REE9/A/R\nMPE-075-REE9/A-xx/R2/2\nA1.1251.375\n0.35 ±0.04\n0.501.20 ±0.05\nDetail X0.20 min.0.3020.0° ±5°\nDetail Y10.502.625\n19.85 ±0.103.80\n2.003.504.00 min.\n0.80 ±0.08Y1.25 ±0.101.25 ±0.10\n1.00\nX\n2.503.505.20 min.\n10.50\n1.125\n1.3755.00R0.50\n#74#2℄ ℄\n5.50Top view Bottom view∅3.50 ±0.05∅5.50 ±0.10\n#1#75∅6.00\n'}]
+!==============================================================================!
+### Component Summary: MPE-075-REE9/A-55/R
+
+**Description:**
+The MPE-075-REE9/A-55/R is a Mini PCI Express Connector designed for M.2 (NGFF) applications. It features a 75-contact configuration with a 0.50mm pitch and is specifically keyed for "E" type modules. This connector is suitable for high-density applications where space is a constraint, providing reliable electrical connections in compact designs.
+
+**Key Specifications:**
+- **Voltage Rating:** 5V DC
+- **Current Rating:** 0.5A per pin
+- **Power Consumption:** Not specified directly; however, the current rating indicates the maximum load per pin.
+- **Operating Temperature Range:** -40°C to +85°C
+- **Storage Temperature Range:** -40°C to +85°C
+- **Package Type:** Mini PCI Express Connector (M.2 "E" Key)
+- **Special Features:**
+  - Insulation resistance: 500MΩ minimum
+  - Contact resistance: 50mΩ maximum
+  - Withstanding voltage: 300V AC
+  - Mechanical requirements include a maximum insertion force of 20N and extraction force of 25N, with an operating life of 60 cycles.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Typical Applications:**
+The MPE-075-REE9/A-55/R connector is typically used in applications that require high-speed data transfer and compact form factors, such as:
+- **Networking Equipment:** For connecting wireless cards and other communication modules.
+- **Consumer Electronics:** In devices like laptops, tablets, and other portable devices that utilize M.2 interfaces.
+- **Embedded Systems:** For connecting various peripherals and expansion cards in compact embedded solutions.
+- **Industrial Applications:** Where robust and reliable connections are necessary in harsh environments.
+
+This connector is RoHS compliant, ensuring it meets environmental standards for hazardous substances, making it suitable for modern electronic applications.

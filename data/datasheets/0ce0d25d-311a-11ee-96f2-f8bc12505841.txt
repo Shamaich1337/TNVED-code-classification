@@ -1,0 +1,48 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDNM01151 production of NEDITEK from the text:NDNM01151  \n8.5-9.6 GHz GaN Internally Matched HEMT  \n\uf0d8 Features  \n\uf06c 0.25 \uf06dm HEMT technology  \n\uf06c Frequency range: 8.5 -9.6 GHz  \n\uf06c Typical  Output Power: 5 3 dBm(Typ.)  \n\uf06c Typical  Gain: 8.0 dB  \n\uf06c Typical  PAE: 40%(Typ.)  \n\uf06c Bias Voltage : 28V/-2.4V@6.5A \n\uf06c Ceramic Hermetic Sealed Package  \n \n\uf0d8 General Description  \nThe NDNM01151  is a high power and high efficiency internally matched \ntransistor with GaN based 0.25 \uf06dm HEMT technology. This transistor operates \nfrom 8.5 to 9.6 GHz providing a output  power of 53 dBm  with gain of 8 dB, \npower added efficiency of  40% and V ds=28 V by dual  power supplies.  \n\uf0d8 Absolute Maximum Ratings  (TA=25\uf0b0C) \nSymbol  Parameter  Value  Notes  \nVds Drain Bias Voltage  36 V  \nVgs Gate Bias Voltage  -2.4 V  \nPd Power Consumption  100 W 25\uf0b0C \nTch Channel Temperature  175\uf0b0C [1] \nTm Sintering Temperature  300\uf0b0C 1 min, N2 protection  \nTstg Storage Temperature  -55~175\uf0b0C  \n[1] Any of the stresses above the listed ratings may cause permanent damage.  \n\uf0d8 Specifications  (TA=25\uf0b0C) \nSymbol  Parameter  Value  Units  Min Typical  Max \nPout Output Power  - 50 - dBm  \nGp Power Gain  - 8.0 - dB \nηadd Power Added Efficiency  - 40 - ％ \n△Gp Gain Flatness  -0.8 - +0.8 dB \n Test conditions: V d=28V , V g＝-2.4V, Id≈6.5A , F: 8.5-9.6 GHz . \n\uf0d8 Typical Performances:  \nOutput Power / Power Added Efficiency  \nNDNM01151  \n8.5-9.6 GHz GaN Internally Matched HEMT  \n8.5 8.6 8.7 8.8 8.9 9.0 9.1 9.2 9.3 9.4 9.5 9.65152535455\n Pout\n PAE\nFreq (GHz)Pout (dBm)\n3540455055PAE (%)\n \n\uf0d8 Package Size  \n \n1 - source , 2 - drain, 3 - gate. \nNDNM01151  \n8.5-9.6 GHz GaN Internally Matched HEMT  \nUnit:  mm \nSymbol  Value  \nMin Max \nU1 23.80  24.20  \nU2 17.20  17.60  \nA - 5.2 \n\uf0d8 Advised application circuit  \n \nAdvised values in circuit  \nname  Symbol value  unit \nFilting capacitor  C1, C2, C4, C5, C6  1000  pF \nFilting capacito r C3, C7  100 pF \nBlocking capacitor  C8, C9  20 pF \nstable resistor  R1 15 Ω \nresistor  R2 50 Ω \nMicrostrip line  TL1, TL2  λ/4 (λ - wavelength)  - \nNotes \n1) The product is internally matched transistor c 50 \uf057 input/output impe dance; \n2) Power -on order strictly follows: beginning with negative voltage , positive in \nthe next; Switch -off order  – reduction of drain voltage in first, reduction of gate \nvoltage in the next;  \nNDNM01151  \n8.5-9.6 GHz GaN Internally Matched HEMT  \n3) The product is  power device with attention to radiation: shorter resource of \ntransistor with higher temperature of package, no more 80 \uf0b0C is advised;  \n4) The product is static -sensi tive device  with attention to static protection in \noperating and storage process. Good GND is needed in operating process.  \n'}]
+!==============================================================================!
+### Component Summary: NDNM01151
+
+**Product Code:** NDNM01151  
+**Manufacturer:** NEDITEK  
+**Type:** GaN Internally Matched HEMT (High Electron Mobility Transistor)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Drain Bias Voltage (Vds): 36 V (Absolute Maximum)
+  - Gate Bias Voltage (Vgs): -2.4 V (Absolute Maximum)
+  - Bias Voltage: 28 V / -2.4 V @ 6.5 A (Typical)
+
+- **Current Ratings:**
+  - Drain Current (Id): Approximately 6.5 A (Typical)
+
+- **Power Consumption:**
+  - Maximum Power Consumption: 100 W @ 25°C
+
+- **Operating Temperature Range:**
+  - Channel Temperature (Tch): Up to 175°C
+  - Storage Temperature (Tstg): -55°C to 175°C
+
+- **Package Type:**
+  - Ceramic Hermetic Sealed Package
+
+- **Special Features:**
+  - Internally matched transistor with 50 Ω input/output impedance
+  - High power and high efficiency
+  - 0.25 μm GaN HEMT technology
+  - Power Added Efficiency (PAE): 40% (Typical)
+  - Gain: 8.0 dB (Typical)
+  - Output Power: 53 dBm (Typical)
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Description:
+The NDNM01151 is a high-power, high-efficiency GaN (Gallium Nitride) High Electron Mobility Transistor (HEMT) designed for operation in the frequency range of 8.5 to 9.6 GHz. Utilizing advanced 0.25 μm HEMT technology, this transistor is optimized for applications requiring significant output power and efficiency. It features an internally matched design, which simplifies integration into RF circuits by providing a 50 Ω input/output impedance.
+
+#### Typical Applications:
+The NDNM01151 is primarily used in:
+- **Power Amplification:** Suitable for RF power amplification in communication systems, particularly in the microwave frequency range.
+- **Signal Processing:** Ideal for applications in radar systems, satellite communications, and other high-frequency signal processing tasks.
+- **Telecommunications:** Can be utilized in base stations and other telecommunication infrastructure requiring high output power and efficiency.
+
+This component is particularly valuable in environments where high performance and reliability are critical, such as military, aerospace, and advanced telecommunications systems.

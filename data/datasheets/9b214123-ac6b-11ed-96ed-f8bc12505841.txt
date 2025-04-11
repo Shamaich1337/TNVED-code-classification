@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MIPB-S335 production of SHENZHEN HUPUU ELECTRONICS from the text:SHENZHEN HUPUU ELECTRONICS CO., LTD  \nReversion : v1.1   2018/02/18    Page:  1 / 3 \n1/2.8” 500 万 IMX33 5 Sensor  MIPI MODULE   MIPB -S335 \nParameters  \nMax resolution: 5MP \nSensor: SONY IMX33 5 \nResolution: 2592*1944  \nCamera  parameters  \nCMOS size: 1/ 2.8" \nBoard size: 38mm × 38mm  \n4 screw holes: Can be used for fixed position  with PM2*4 or PM2*5 screws \nlens holder screw hole distance: 20mm  \n\nSHENZHEN HUPUU ELECTRONICS CO., LTD  \nReversion : v1.1   2018/02/18    Page:  2 / 3 \nFPC Cable : \nFPC pin definition:  \n\nSHENZHEN HUPUU ELECTRONICS CO., LTD  \nReversion : v1.1   2018/02/18    Page:  3 / 3 \nPin definition  \nJ1：IR-CUT Dual filters switch  \n1 IR-CUT+  \n2 IR-CUT- \nJ2: CDS  \n1 3.3V \n2 CDS_IN  \nJ1 J22 1 2 1\n'}]
+!==============================================================================!
+### Component Summary: MIPB-S335
+
+**Manufacturer:** SHENZHEN HUPUU ELECTRONICS CO., LTD  
+**Product Code:** MIPB-S335  
+**Revision:** v1.1 (2018/02/18)
+
+#### Key Specifications:
+- **Max Resolution:** 5 Megapixels (MP)
+- **Sensor Type:** Sony IMX335
+- **Resolution:** 2592 x 1944 pixels
+- **CMOS Size:** 1/2.8 inch
+- **Board Size:** 38 mm x 38 mm
+- **Mounting Features:** 
+  - 4 screw holes for fixed positioning (compatible with PM2*4 or PM2*5 screws)
+  - Lens holder screw hole distance: 20 mm
+
+#### Special Features:
+- **IR-CUT Dual Filters Switch:** 
+  - J1 Pin Definition:
+    - 1: IR-CUT+
+    - 2: IR-CUT-
+- **CDS Pin Definition:**
+  - J2 Pin Definition:
+    - 1: 3.3V
+    - 2: CDS_IN
+
+#### Moisture Sensitivity Level:
+- Not specified in the provided text.
+
+### Description:
+The MIPB-S335 is a 5MP MIPI camera module that utilizes the Sony IMX335 sensor. It is designed for high-resolution imaging applications, providing a maximum resolution of 2592 x 1944 pixels. The module features a compact board size of 38 mm x 38 mm, making it suitable for integration into various electronic devices.
+
+### Typical Applications:
+The MIPB-S335 camera module is typically used in applications such as:
+- **Surveillance Systems:** For capturing high-quality images in security cameras.
+- **Robotics:** Enabling vision capabilities in robotic systems for navigation and object recognition.
+- **Smart Home Devices:** Used in smart doorbells, security cameras, and other home automation products.
+- **Mobile Devices:** Integration into smartphones or tablets for enhanced camera functionality.
+- **Industrial Automation:** For machine vision applications in manufacturing and quality control processes.
+
+This module is ideal for projects requiring compact size and high-resolution imaging capabilities, making it versatile for various electronic applications.

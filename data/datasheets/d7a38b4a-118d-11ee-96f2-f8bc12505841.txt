@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of JMV0805S260T221XXC production of JOYIN from the text:信昌電子陶瓷股份有限公司\nProsperity Dielectrics Co., Ltd.\nCustomer:\nProducts Name : Multilayer Chip Varistor\nP/N :   \nJMV0805S260T221XXC\n     ISSUE DATE : Oct -31-2022 \nEDITED BY 李旻珊CHECKED BY APPROVED BY\nCUSTOMER  APPROVAL \n□  Approval\n□  Approval with the following change\n□  Reject with the following reasons\nCUSTOMER SIGNATURE DATE\n■ Vendor: PROSPERITY DIELECTRICS CO., LTD.\nNo. 566-1, Kaoshi Rd., Yangmei, Taoyuan 32668, Taiwan (R.O.C.)\nTEL: +886-3-475-3355 , FAX: +886-3-485-4959 ,  http://www.pdc.com.tw/\n■ Manufacturer: Joyin Co., Ltd.\nNo.160, Ln.623, Shenshen Rd., Yangmei Dist.,Taoyuan city,Taiwan .  http://www.joyin.com.tw\nMade In TaiwanSPECIFICATION   FOR   APPROVAL No.566 -1, Gaoshi Rd., Lujhu, Yangmei Dist., Taoyuan City 32668, Taiwan , R.O.C . \nTel.：+886 -3-4753355         Fax ：+886 -3-4854959  \n\nMultilayer Chip Varistor\nEdition：JMV0805S260T221XXC\nPart Number Code\nJMV 0805 S 260 XX C\n(1) (2) (3) (4) (7) (8)\nNo. Item Digit\n(1) Product Type JMV\n(2) Chip Size 0805 0.08 x 0.05 ( inch )\n(3) Series S\n(4) Working Voltage 260 26 x 100= 26V DC\n(5) Packaging T\n(6) Optional Suffix 221 Control Code\n(7) Optional Suffix XX Control Code\n(8) Optional Suffix C AEC-Q200Tape on reelSurge Protection and/or ESD ProtectionSpecification\nJoyin Multilayer Varistor221 T\n(5) (6)\n\nELECTRICAL CHARACTERISTICS\nPeak\nCurrent\n(Ip)Transient\nEnergy\n(Et)\nVolt Amp Amp Joule\nVc Ic 8/20μs 10/1000 μs\n56 1.0 100 0.4\n   \n   \nVw - The max. steady state DC operating voltage of which varistor could maintain also not\n         exceeding 50uA leakage current.\nVb - The Voltage acrossed the device  measured at 1mA DC current.\nVc - The  peak voltage acrossed the varistor measured at a specified pulse current and waveform. \nIp - The max.peak current applied with specified wavefoem without any possibility of device fail.\nEt - The max. energy which dissipated with the specified waveform without any possibility of device fail.\n Storage condition →\xa0  Temperature ：≦30℃ ； Humidity ：≦65% RH (Moisture Sensitivity Levels: 2a)\n Operating temperature ： -40℃ ~ 125℃\nChip DimensionMultilayer Chip Varistor\nEdition：JMV0805S260T221XXC\n0805 2.00±0.20 1.25±0.15 0.90±0.10Part NumberWorking\nVoltage\n(Vw)\nVolt Volt\n0.50±0.25   \n Preservation period → 12 months\nUnit：mm\nChip Size L T<50μA 1mA(DC)\nABreakdown\nVoltage\n(Vb)\n Clamping\nVoltage\n8/20μs\nJMV0805S260T221XXC 26.0 29.7~37.3\n  \nW\nL \nT \nA W \n\nMultilayer Chip Varistor\nEdition：JMV0805S260T221XXC\nPackaging Specification\nType A B C D E F L W\n8.00 3.50 1.75 2.00 4.00 1.50 2.30 1.55\n±0.30 ±0.05 ±0.10 ±0.05 ±0.10 ±0.10 ±0.15 ±0.15\nReel Dimension\nA\nB\nC\nD\nE\nF\nG\nStandard Packaging\n0805\n4,0009.0±0.5\n1.3±1.0\nSize\nPcs / Reel0805\n178.0±2.0\n2.0±0.5\n13.0±0.5\n21.0±0.8\n62.0±1.5\nTop TapeFLWE\nDA\nWLFE\nC\nBAB DC\n4.0\n1.5\n3.5\n1.90.1\n0.2\n0.20.1\n08.00.3\n3.50.05\n2.00.051.750.1\n\nMultilayer Chip Varistor\nEdition：JMV0805S260T221XXC\nReliability Tests\nTest  item Reference\nResistance to Solder HeatMIL-STD-202\nMethod 210F\nTemperature CycleJESD22\nMIL STD 202-\n107\nHigh Temperature LifeMIL-STD-202\nMethod 108\nBias Humidity TestMIL-STD-202\nMethod 103\nSolderability J-STD-002\nResistance to SolventMIL-STD-202\nMethod 215\nMoisture Sensitivity J-STD-0201. Temperature：85±2℃\n2. Humidity：85% RH\n3. Testing time：168 hrs.1. Temperature：-40℃/85℃ For 30 minutes each temperature\n2. Cycle：100 cycles\n3. Measurement：At room temperature 24 hours after test completion\n1. Immerse the chips in the IPA solution with ultrasonic.\n2. Testing time：5 min.\n3. Measurement：At room temperature 24 hours after test completion1. Temperature：40±2℃\n2. Humidity：90% RH\n3. Applied rated source\n4. Testing time：1000 hrs\n5. Measurement：At room temperature 24 hours after test completion\n1. 8 hours ± 15 min steam conditioning\n2. Solder temperature：245±5℃\n3. Flux：Rosin\n4. DIP time：5±1sec.Test condition\n1. Temperature：85±2℃\n2. Testing time：1000 hrs\n3. Applied rated source\n4. Measurement：At room temperature 24 hours after test completion1. Solder temperature：260±5℃\n2. Flux：Rosin\n3. DIP time：10±1 sec\n\nRecommendable reflow soldering\n*According to J-STD-020CAverage Ramp-Up Rate 3° C/second max.\nTime maintained above:– Temperature Min (Tsmin)\nTime within 5 °C of actual Peak60-180 seconds\n20-40 seconds60-150 seconds – Time (tL)(Tsmax to Tp)Multilayer Chip Varistor\nEdition：JMV0805S260T221XXC\n– Temperature Max (Tsmax)150 °CPb-Free Assembly\n217 °C – Temperature (TL)Profile Feature\n200 °C\nTime 25 °C to Peak Temperature 8 minutes max.6 °C/second max. Ramp-Down RatePeak/Classification Temperature (Tp)– Time (tsmin to tsmax)Preheat\n260 °C\nTemperature (tp)\n\n'}]
+!==============================================================================!
+### Component Summary: JMV0805S260T221XXC
+
+**Component Type:** Multilayer Chip Varistor  
+**Manufacturer:** Joyin Co., Ltd.  
+**Vendor:** Prosperity Dielectrics Co., Ltd.  
+**Issue Date:** October 31, 2022  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Working Voltage (Vw): 26V DC
+  - Breakdown Voltage (Vb): 26.0V
+  - Clamping Voltage (Vc): 29.7V to 37.3V (at specified pulse current)
+  
+- **Current Ratings:**
+  - Maximum Peak Current (Ip): 100A (8/20μs pulse)
+  - Leakage Current: Not exceeding 50μA at Vw
+
+- **Power Consumption:**
+  - Transient Energy (Et): 0.4 Joules (10/1000 μs pulse)
+
+- **Operating Temperature Range:**
+  - -40°C to 125°C
+
+- **Package Type:**
+  - Chip Size: 0805 (2.00mm x 1.25mm x 0.90mm)
+
+- **Special Features:**
+  - AEC-Q200 compliant
+  - Tape on reel packaging for automated assembly
+  - Moisture Sensitivity Level: 2a (Storage conditions: Temperature ≤ 30°C, Humidity ≤ 65% RH)
+
+#### Description:
+The JMV0805S260T221XXC is a multilayer chip varistor designed for surge protection and electrostatic discharge (ESD) protection in electronic circuits. Varistors are voltage-dependent resistors that exhibit a nonlinear resistance characteristic, allowing them to clamp voltage spikes and protect sensitive components from transient overvoltages.
+
+#### Typical Applications:
+- **Surge Protection:** Used in power supply circuits to protect against voltage spikes caused by lightning or switching events.
+- **ESD Protection:** Commonly employed in data lines and sensitive electronic components to prevent damage from electrostatic discharge.
+- **Consumer Electronics:** Integrated into devices such as smartphones, computers, and home appliances to enhance reliability and longevity.
+- **Automotive Applications:** Suitable for automotive electronics due to AEC-Q200 compliance, ensuring performance under harsh conditions.
+
+This varistor is ideal for applications requiring robust protection against voltage transients, making it a critical component in various electronic designs.

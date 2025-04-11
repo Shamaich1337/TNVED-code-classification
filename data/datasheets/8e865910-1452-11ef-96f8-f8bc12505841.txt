@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of HD-100WEL500PPC production of HENGDA MICROWAVE from the text:- 1 -\n=============================================================== \nXI’AN HENGDA MICROWAVE TECHNOLOGY DEVELOPMENT CO., LTD \n485 FeiTian Road,Xi'an National Civil Aerospace Industrial Base,Xi'an,Shaanxi Province,China 710100 \nTel: +86-29-85224787    Fax: +86-29-85264764   www.hengdamw.com Flexible-Twistable Waveguide  \nPart No:  HD-100WEL500PPC \n1.0 Mechanical Specifications \n1.1 Waveguide type WR90 \n1.2 Flange type FBP100 (Cover) \n1.3 Material Copper/Brass \n1.4 Jacket material Black polysulfide rubber \n1.5 Maximum Twist 360 deg/m \n1.6 Minimum Bend Radius (E-Plane) 66 mm \n1.7 Minimum Bend Radius (H-Plane) 132 mm \n1.8 Length L=500 mm \n2.0 Electrical Specifications \n2.1 Frequency Range 8.2-12.4 GHz \n2.2 VSWR (Max) 1.20 \n2.3 Attenuator (Max) 0.37 dB/m \n2.4 Power Handling 1 kW (CW) \n3.0 Outline Drawings \n\n \n- 2 - \n=============================================================== \nXI’AN HENGDA MICROWAVE TECHNOLOGY DEVELOPMENT CO., LTD \n485 FeiTian Road,Xi'an National Civil Aerospace Industrial Base,Xi'an,Shaanxi Province,China 710100 \nTel: +86-29-85224787    Fax: +86-29-85264764   www.hengdamw.com Revision History \nDate Revision Changes \n9-Sep-2006 1 First release \n \n                        \nInformation furnished is believed to be accurate and reliable. However, HengDa Microwave assumes no responsibility for the \nconsequences of use of such information nor for any infringement of patents or other rights of third parties which may result f rom \nits use. No license is granted by implication or otherwise under any patent or patent rights of HengDa Microwave. Specification s \nmentioned in this publication are subject to change without notice. This publication supersedes and replaces all information previously supplied. HengDa Microwave products are not authorized for use as critical components in life support devices or \nsystems without express written approval of HengDa Microwave. \n \n \n© 2002 Xi’an HengDa Microwave Technology Development Company - All rights reserved \n \nEmail: market@hdmicrowave.com  \n \nwww.hdmicrowave.com \n \n \n \n \n"}]
+!==============================================================================!
+### Component Summary: HD-100WEL500PPC
+
+**Manufacturer:** XI’AN HENGDA MICROWAVE TECHNOLOGY DEVELOPMENT CO., LTD  
+**Website:** [www.hengdamw.com](http://www.hengdamw.com)
+
+#### Key Specifications:
+
+- **Waveguide Type:** WR90
+- **Flange Type:** FBP100 (Cover)
+- **Material:** Copper/Brass
+- **Jacket Material:** Black polysulfide rubber
+- **Maximum Twist:** 360 degrees/m
+- **Minimum Bend Radius:**
+  - E-Plane: 66 mm
+  - H-Plane: 132 mm
+- **Length:** 500 mm
+
+**Electrical Specifications:**
+- **Frequency Range:** 8.2 - 12.4 GHz
+- **VSWR (Max):** 1.20
+- **Attenuation (Max):** 0.37 dB/m
+- **Power Handling:** 1 kW (Continuous Wave)
+
+#### Description:
+The HD-100WEL500PPC is a flexible-twistable waveguide designed for microwave applications. It is constructed from copper and brass, providing durability and excellent conductivity. The waveguide features a black polysulfide rubber jacket, which enhances its flexibility and protects it from environmental factors. The design allows for a maximum twist of 360 degrees per meter, making it suitable for applications where space constraints require bending and twisting without compromising performance.
+
+#### Typical Applications:
+The HD-100WEL500PPC waveguide is typically used in microwave communication systems, radar systems, and other high-frequency applications. Its ability to handle high power levels (up to 1 kW) and maintain low attenuation makes it ideal for signal transmission in environments where flexibility and space-saving designs are critical. This component is particularly useful in aerospace, telecommunications, and military applications where reliable microwave signal propagation is essential.

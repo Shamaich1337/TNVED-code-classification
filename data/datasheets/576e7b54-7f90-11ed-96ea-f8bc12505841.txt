@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of TLP521-4GB production of ISOCOM from the text:ISOCOM COMPONENTS LTD\nUnit 25B, Park View Road West,\nPark View Industrial Estate, Brenda Road\nHartlepool, Cleveland, TS25 1YD\nTel: (01429) 863609  Fax :(01429) 863581\n7/4/03DB92546m-AAS/A30.2620.32\n19.32 4.03.0\n0.57.62\n13°\nMax7.06.02.54\n1.2\n0.51.2\n3.04.0\n3.0\n3.357.06.0\n0.50.57.621\n243\n0.2613°\nMax2.54\n3.010.16\n9.164.0\n3.0\n3.350.57.06.0\n7.622\n3\n47\n6\n5\n1.2\n13°\nMax\n0.50.262.54Dimensions in mm       HIGH DENSITY MOUNTING\n    PHOTOTRANSISTOR\nOPTICAL LY COUPLED ISOL ATORS\nAPPRO VALS\nl UL recognised, File No. E91231\n'X' SPECIFIC ATION APPRO VALS\nl VDE 0884 in 3 available lead form : -\n- STD\n- G form\n- SMD approved to CECC 00802\nl BSI approved - Certificate No. 8001\nDESCRIPTION\nThe TLP521, TLP521-2, TLP521-4 series of\noptically coupled isolators consist of infrared\nlight emitting diodes and NPN silicon photo\ntransistors in space efficient dual in line plastic\npackages.\nFEATURES\nl Options :-\n10mm lead spread - add G after part no.Surface mount - add SM after part no.\nTape&reel - add SMT&R after part no.\nl High Current Transfer Ratio ( 50% min)\nl High Isolation Voltage  (5.3kVRMS ,7.5kVPK )\nl High BVCEO ( 55Vmin )\nl All electrical parameters 100% tested\nl Custom electrical selections available\nAPPLIC ATIONS\nl Computer terminals\nl Industrial systems controllers\nl Measuring instruments\nl Signal transmission between systems of\ndifferent potentials and impedances\n3.355.08\n4.08\n1 8TLP521\nTLP521-2\nTLP521-4\nOPTION G\n 7.62 SURFACE MOUNTOPTION SM\n10.160.261\n23\n7\n816\n15\n10\n96 115 1214\n4 13\n   \n 10.46\n  9.860.6\n0.1  1.25\n 0.75TLP521GB, TLP521-2GB, TLP521-4GB, TLP521, TLP521-2, TLP521-4\nTLP521XGB, TLP521-2XGB, TLP521-4XGB\nTLP521X, TLP521-2X, TLP521-4X\n\nDB92546m-AAS/A3PARAMETER MIN TYP MAX UNITS      TEST CONDITION\nInput Forward Voltage (VF) 1.0 1.15 1.3 V IF = 10mA\nReverse Current (IR) 10 µA VR = 4V\nOutput Collector-emitter Breakdown (BVCEO) 55 V IC = 0.5mA\n   ( Note 2 )\nEmitter-collector Breakdown (BVECO)  6 V IE = 100 µA\nCollector-emitter Dark Current (ICEO) 100 nA VCE = 20V\nCoupled Current Transfer Ratio (CTR) (Note 2)\nTLP521, TLP521-2, TLP521-4 50 600 % 5mA IF , 5V VCE\nCTR selection available BL 200 600 %\nGB 100 600 %\nGB 30 % 1mA IF , 0.4V VCE\nCollector-emitter Saturation VoltageVCE (SAT)0.4 V 8mA IF , 2.4mA IC\n-GB 0.4 V 1mA IF , 0.2mA IC\nInput to Output Isolation Voltage VISO5300 VRMSSee note 1\n7500 VPKSee note 1\nInput-output Isolation Resistance RISO    5x1010Ω VIO = 500V (note 1)\nResponse Time (Rise), tr 4 µs VCE = 2V ,\nResponse Time (Fall), tf 3 µs IC = 2mA, RL = 100 Ω\nNote 1 Measured with input leads shorted together and output leads shorted together.\nNote 2 Special Selections are available on request. Please consult the factory.\n7/4/03ELECTRICAL CHARACTERISTICS ( TA = 25°C Unless otherwise noted )ABSOLUTE MAXIMUM RATINGS\n(25°C unless otherwise specified)\nStorage Temperature -55°C to + 125°C\nOperating Temperature -30°C to + 100°C\nLead Soldering Temperature\n(1/16 inch (1.6mm) from case for 10 secs)      260°C\nINPUT DIODE\nForward Current 50mA\nReverse Voltage 6V\nPower Dissipation 70mW\nOUTPUT TRANSISTOR\nCollector-emitter Voltage BVCEO55V\nEmitter-collector Voltage BVECO 6V\nPower Dissipation 150mW\nPOWER DISSIPATION\nTotal Power Dissipation 200mW\n(derate linearly 2.67mW/ °C above 25°C)\nDB92546m-AAS/A37/4/0350\n-30      0       25        50       75       100    125\nAmbient temperature TA ( °C )150\n0200\nAmbient temperature TA ( °C )Collector power dissipation PC (mW)\n60\n30\n20\n10\n04050\n-30      0       25        50       75       100    125Collector Power Dissipation vs. Ambient Temperature\nForward Current vs. Ambient Temperature\n-30         0          25          50         75        100\nAmbient temperature TA ( °C )Collector-emitter voltage VCE ( V )Collector-emitter saturation voltage VCE(SAT) (V)Collector-emitter Saturation\nVoltage vs. Ambient Temperature100TA   = 25°C\n  0    510152025\n  00.040.080.120.160.200.240.28\nIF = 5mA\nIC = 1mAForward current IF (mA)Collector Current vs. Low\nCollector-emitter Voltage\n51020304050\n0         0.2         0.4        0.6        0.8       1.0Collector current IC (mA)\n IF    = 2mA\nCollector Current vs. Collector-emitter Voltage\nCollector-emitter voltage VCE ( V )Collector current IC (mA)\nCurrent Transfer Ratio vs. Forward Current\nForward current IF (mA)Current transfer ratio CTR (%)\n1         2              5        10        20           50  0801201602002400          2          4            6           8        1001020304050\n4050\n30\n20\n1015TA = 25°C\n280320 IF = 5mA\nVCE = 5V\nTA = 25°C\n"}]
+!==============================================================================!
+### Component Summary: TLP521-4GB
+
+**Manufacturer:** ISOCOM COMPONENTS LTD  
+**Product Code:** TLP521-4GB
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Collector-emitter Breakdown Voltage (BVCEO): 55 V (min)
+  - Emitter-collector Breakdown Voltage (BVECO): 6 V
+  - Input to Output Isolation Voltage (VISO): 5300 VRMS / 7500 VPK
+
+- **Current Ratings:**
+  - Forward Current (IF): 50 mA (max)
+  - Collector-emitter Saturation Current (IC): 2.4 mA (typical at 8 mA IF)
+
+- **Power Consumption:**
+  - Total Power Dissipation: 200 mW (derate linearly 2.67 mW/°C above 25°C)
+  - Input Diode Power Dissipation: 70 mW
+  - Output Transistor Power Dissipation: 150 mW
+
+- **Operating Temperature Range:**
+  - Storage Temperature: -55°C to +125°C
+  - Operating Temperature: -30°C to +100°C
+
+- **Package Type:**
+  - Dual In-Line Package (DIP)
+
+- **Special Features:**
+  - High Current Transfer Ratio (CTR): 50% min, up to 600%
+  - High Isolation Voltage: 5.3 kVRMS, 7.5 kVPK
+  - All electrical parameters are 100% tested
+  - Options for lead spread and surface mount available
+  - Moisture Sensitive Level: MSL 1 (JEDEC J-STD-020E)
+
+#### Description:
+The TLP521-4GB is an optically coupled isolator that integrates an infrared light-emitting diode (LED) and an NPN silicon phototransistor in a compact dual in-line plastic package. This component is designed to provide electrical isolation between its input and output, making it suitable for applications where signal integrity and safety are paramount.
+
+#### Typical Applications:
+- **Computer Terminals:** Used for isolating signals in data communication.
+- **Industrial Systems Controllers:** Provides isolation in control systems to protect sensitive components.
+- **Measuring Instruments:** Ensures accurate readings by isolating measurement circuits from high voltages.
+- **Signal Transmission:** Facilitates communication between systems operating at different voltage levels and impedances, enhancing safety and reliability.
+
+This component is particularly useful in environments where electrical isolation is necessary to prevent damage to sensitive electronics from high voltages or noise.

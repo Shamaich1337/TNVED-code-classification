@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-868-Spring-25 production of MG ANTENNAS from the text:Special for MACRO GROU P    E-mail: wireless@macrogroup.ru     Tel: +7 (812) 370 60 70  \n \n \nDATASHEET    \nMMMGGG---888666888---SSSppprrriiinnnggg---222555   \nType  spring antenna   \nFrequencies  800-1800  MHz \nMounting  soldering  \nBrand Name  MG ANTENNAS  \n \n \n \nRevision #  Content  Page  Date  \n0 First, document  - 13.08.201 7 \n \n\n1. SPECIFICATION  \n1.1 Electrical Spe cifications  \n                                                                        \n 1.2 Mechanical specification s \nMaterial  Pure copper  \nHousing  Color  Golden \nMounting  SMD \nDimensions  Ø4*25*5  mm \n   \n1.3 Environmental specifications  \n \n \n \n \n \n \n \n \n \n \n Frequency  800-1800 MHz \nPolari zation  Vertic al \nGain  2.5 dB \nMax p ower  5 W \nVSWR  2 :1 \nImpedance  50 Ω \nOperating Temper ature , ℃ -40 ~ + 80 \nOperating Humidity, %  0 ~ 95  \nStorage Temperature , ℃ -40 ~ + 80 \nStorage Humidity, %  0 ~ 95  \n'}]
+!==============================================================================!
+### Component Summary: MG-868-Spring-25 Antenna
+
+**Product Code:** MG-868-Spring-25  
+**Manufacturer:** MG ANTENNAS  
+**Contact Information:**  
+- **E-mail:** wireless@macrogroup.ru  
+- **Tel:** +7 (812) 370 60 70  
+
+#### Key Specifications:
+- **Type:** Spring Antenna
+- **Frequency Range:** 800 - 1800 MHz
+- **Mounting Type:** Soldering (SMD)
+- **Material:** Pure Copper
+- **Housing Color:** Golden
+- **Dimensions:** Ø4 x 25 x 5 mm
+- **Polarization:** Vertical
+- **Gain:** 2.5 dB
+- **Maximum Power:** 5 W
+- **Voltage Standing Wave Ratio (VSWR):** 2:1
+- **Impedance:** 50 Ω
+- **Operating Temperature Range:** -40 to +80 °C
+- **Operating Humidity:** 0 to 95%
+- **Storage Temperature Range:** -40 to +80 °C
+- **Storage Humidity:** 0 to 95%
+
+#### Description:
+The MG-868-Spring-25 is a spring-type antenna designed for wireless communication applications. It operates within the frequency range of 800 to 1800 MHz, making it suitable for various RF applications, including cellular and other wireless communication systems. The antenna features a vertical polarization and provides a gain of 2.5 dB, which enhances signal reception and transmission capabilities.
+
+#### Typical Applications:
+The MG-868-Spring-25 antenna is typically used in:
+- **Wireless Communication:** Ideal for mobile devices, base stations, and other RF communication systems operating in the specified frequency range.
+- **IoT Devices:** Suitable for Internet of Things applications where compact and efficient antennas are required.
+- **Telecommunications:** Can be utilized in various telecom equipment for improved signal quality and coverage.
+- **Consumer Electronics:** Used in devices that require reliable wireless connectivity, such as smartphones and tablets.
+
+This antenna is designed to withstand a wide range of environmental conditions, making it versatile for both indoor and outdoor applications. Its compact size and soldering mount make it easy to integrate into various electronic designs.

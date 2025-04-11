@@ -1,0 +1,42 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDNC01055 production of NEDITEK from the text:   \n► Features  \n Technical Type: 0. 25um GaN HEMT  \n Frequency: 14~18 GHz \n Typical Power Gain: 23 dB \n Typical Output Power: 47 dBm@V d=28V  \n Typical PAE: 34 % \n Bias Voltage: 28 V, -2.7V \n Dimension: 3.3mm x 4.3 mm x 0 .1mm \n► General Description  \nNDNC 01055  is a 14~18 GHz high performance p ower amplifier MMIC, it uses 0.25 um GaN HEMT Technology. The chip is \ngrounded by the me tal of the back side through  via hole on the chip. All chips are 100% tested . NDNC 01055  uses 2 power \nsupply, the drain voltage Vd is 28V, it can provide 47dBm output power at 14~18 GHz.  \n► Absolute Maximum Ratings1 \nSymbol  Parameter  Value  Remark  \nVd Drain Voltage  32V  \nId Drain Current  4A  \nVg Gage Voltage  -10V  \nIg Gate Current  40mA   \nPd DC Power Consumption  128W   \nPin Input Power  30dBm   \nTch Channel Temperature  175℃ ℃ \nTm Mounting Temperature  310℃ ℃ (1min, N 2 protection)  \nTstg Storage Temperature  -55～150℃ ℃ \n1. Exceeding any one or combination of these limits may cause permanent damage  \n  \nNDNC01055  \n14-18 GHz GaN Power Amplifier  \n\nNDNC01055 \n14-18 GHz GaN Power Amplifier  \n 2 / 5 \n \nNEDI Technology Co.,Ltd  \nwww.neditek.com   \nTel: +86 -25-86858581/2  Fax: +86 -25-86858580  \nEmail: sales@neditek.com  \nAdd: No. 521 Zhongshan East Road, Nanjing, China  \nNote: All the data provided in this datasheet is subject to change without \nnotice. The right is reserved to make changes to specifications and other \ninformation at any time  \n► Electrical Characteristics \nSymbol  Parameter  Test Condition  Value  Unit Min. Typ. Max.  \nG Small Signal Gain  \nVd: 28V，Vg=-2.7V  \nFreq：14~18 GHz \n10% Duty Cycle   29 - dB \nGp Power Gain   23 - dB \nPsat Saturated  Power   47 - dBm \nPAE  Power Added Efficiency   34 - ％ \n► Typical Performance  \n \n \n \n 05101520253035\n12 12.5 13 13.5 14 14.5 15 15.5 16 16.5 17 17.5 18 18.5 19Gain(dB)  \nFreq(GHz)  Small Signal Gain (Vd=28V/Vg --2.7V)  \n-25-20-15-10-50\n12 12.5 13 13.5 14 14.5 15 15.5 16 16.5 17 17.5 18 18.5 19dB(S11)  \nFreq(GHz)  Input VSWR (Vd=28V/Vg= -2.7V)  \nNDNC01055 \n14-18 GHz GaN Power Amplifier  \n 3 / 5 \n \nNEDI Technology Co.,Ltd  \nwww.neditek.com   \nTel: +86 -25-86858581/2  Fax: +86 -25-86858580  \nEmail: sales@neditek.com  \nAdd: No. 521 Zhongshan East Road, Nanjing, China  \nNote: All the data provided in this datasheet is subject to change without \nnotice. The right is reserved to make changes to specifications and other \ninformation at any time  \n \n  404142434445464748\n13 13.5 14 14.5 15 15.5 16 16.5 17 17.5 18 18.5Pout(dBm)  Pout (Vd=28V/1mS_10%/Pin=24dBm)  \nGaN1#\nGaN2#\n22242628303234363840\n13 13.5 14 14.5 15 15.5 16 16.5 17 17.5 18 18.5PAE(%)  PAE (Vd=28V/1mS_10%/Pin=24dBm)  \nGaN1#\nGaN2#\nNDNC01055 \n14-18 GHz GaN Power Amplifier  \n 4 / 5 \n \nNEDI Technology Co.,Ltd  \nwww.neditek.com   \nTel: +86 -25-86858581/2  Fax: +86 -25-86858580  \nEmail: sales@neditek.com  \nAdd: No. 521 Zhongshan East Road, Nanjing, China  \nNote: All the data provided in this datasheet is subject to change without \nnotice. The right is reserved to make changes to specifications and other \ninformation at any time  \n► Outline Drawing (mm) \n \n \n \n  \n\nNDNC01055 \n14-18 GHz GaN Power Amplifier  \n 5 / 5 \n \nNEDI Technology Co.,Ltd  \nwww.neditek.com   \nTel: +86 -25-86858581/2  Fax: +86 -25-86858580  \nEmail: sales@neditek.com  \nAdd: No. 521 Zhongshan East Road, Nanjing, China  \nNote: All the data provided in this datasheet is subject to change without \nnotice. The right is reserved to make changes to specifications and other \ninformation at any time  \n► Assembly Diagram \n \n \n \n \n\n'}]
+!==============================================================================!
+### Component Summary: NDNC01055
+
+**Description:**
+The NDNC01055 is a high-performance power amplifier MMIC (Monolithic Microwave Integrated Circuit) designed for operation in the frequency range of 14 to 18 GHz. It utilizes 0.25 µm GaN (Gallium Nitride) HEMT (High Electron Mobility Transistor) technology, which allows for efficient power amplification in high-frequency applications. The chip is grounded through a via hole on the back side and is 100% tested for reliability.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Drain Voltage (Vd): 28V (Absolute Maximum: 32V)
+  - Gate Voltage (Vg): -2.7V (Absolute Maximum: -10V)
+  
+- **Current Ratings:**
+  - Drain Current (Id): 4A
+  - Gate Current (Ig): 40mA
+  
+- **Power Consumption:**
+  - DC Power Consumption (Pd): 128W
+  
+- **Operating Temperature Range:**
+  - Channel Temperature (Tch): Up to 175°C
+  - Storage Temperature (Tstg): -55°C to 150°C
+  - Mounting Temperature (Tm): 310°C (1 min, N2 protection)
+  
+- **Package Type:**
+  - Dimensions: 3.3 mm x 4.3 mm x 0.1 mm
+  
+- **Special Features:**
+  - Typical Power Gain: 23 dB
+  - Typical Output Power: 47 dBm at Vd = 28V
+  - Typical Power Added Efficiency (PAE): 34%
+  - Input Power (Pin): 30 dBm
+  - Moisture Sensitive Level: Not specified in the provided text.
+
+**Typical Applications:**
+The NDNC01055 is primarily used in applications requiring high-frequency power amplification, such as:
+- **Telecommunications:** For signal amplification in communication systems operating in the microwave frequency range.
+- **Radar Systems:** Enhancing signal strength for radar applications.
+- **Satellite Communications:** Amplifying signals for satellite transmission and reception.
+- **Test Equipment:** Used in various RF test setups where high power and frequency are required.
+
+This component is ideal for systems that demand high efficiency and performance in the 14-18 GHz range, making it suitable for advanced communication and radar technologies.

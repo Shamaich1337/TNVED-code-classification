@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SL2-030-S081/2-55/11 production of E-TEC from the text:Single \nRowDual \nRowL1 L2\n002 2.54 1.27 \n003 006 3.81 2.54 \n004 008 5.08 3.81 \n005 010 6.35 5.08 \n006 012 7.62 6.35 \n007 014 8.89 7.62 \n008 016 10.16 8.89 \n009 018 11.43 10.16 \n010 020 12.70 11.43 \n011 022 13.97 12.70 \n012 024 15.24 13.97 \n013 026 16.51 15.24 \n014 028 17.78 16.51 \n015 030 19.05 17.78 \n016 032 20.32 19.05 \n017 034 21.59 20.32 \n018 036 22.86 21.59 \n019 038 24.13 22.86 \n020 040 25.40 24.13 \n021 042 26.67 25.40 \n022 044 27.94 26.67 \n023 046 29.21 27.94 \n024 048 30.48 29.21 \n025 050 31.75 30.48 \n026 052 33.02 31.75 \n027 054 34.29 33.02 \n028 056 35.56 34.29 \n029 058 36.83 35.56 \n030 060 38.10 36.83 \n031 062 39.37 38.10 \n032 064 40.64 39.37 \n033 066 41.91 40.64 \n034 068 43.18 41.91 \n035 070 44.45 43.18 \n036 072 45.72 44.45 \n037 074 46.99 45.72 \n038 076 48.26 46.99 \n039 078 49.53 48.26 \n040 080 50.80 49.53 \n041 082 52.07 50.80 \n042 084 53.34 52.07 \n043 086 54.61 53.34 \n044 088 55.88 54.61 \n045 090 57.15 55.88 \n046 092 58.42 57.15 \n047 094 59.69 58.42 \n048 096 60.96 59.69 \n049 098 62.23 60.96 \n050 100 63.50 62.23 No. of  Pins Dimension  (mm)\nSee Table\non sheet  2/2Pin code\nAB\n081/0 12.32 3.05\n081/1 3.00 2.60\n081/2 4.00 2.60\n081/3 6.00 2.60\n081/4 3.10 2.30\n081/5 5.50 4.40\n081/6 4.30 4.30\n081/7 8.00 2.00\n081/8 2.50 2.60\n081/9 17.90 12.30Pin\ncodeDimension mm\nAB\n082/0 3.20 2.60Pin\ncodeDimension mm\n'}]
+!==============================================================================!
+### Component Summary for SL2-030-S081/2-55/11 by E-TEC
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Current Ratings**: Not explicitly stated; usually specified in the complete datasheet.
+- **Power Consumption**: Not provided in the text; refer to the full datasheet for details.
+- **Operating Temperature Range**: Not mentioned; check the complete datasheet for this information.
+- **Package Type**: The component appears to be a connector, likely in a single or dual row configuration based on the pin count and dimensions.
+- **Special Features or Notes**: The component is part of a series that includes various pin configurations and dimensions, indicating versatility in applications.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text; this would typically be included in the full datasheet.
+
+#### Component Description:
+The SL2-030-S081/2-55/11 is a connector component produced by E-TEC. It is designed for use in electronic applications where reliable electrical connections are required. The designation suggests it may be a dual-row connector with a specific pin configuration, which allows for a compact arrangement of connections in electronic devices.
+
+#### Typical Applications:
+Connectors like the SL2-030-S081/2-55/11 are commonly used in various electronic applications, including:
+- **Power Management**: Connecting power supplies to circuit boards.
+- **Signal Processing**: Facilitating communication between different circuit components.
+- **Data Storage**: Used in devices that require data transfer connections, such as hard drives or memory modules.
+- **Consumer Electronics**: Found in devices like computers, televisions, and other electronic gadgets where multiple connections are necessary.
+
+### Conclusion:
+The SL2-030-S081/2-55/11 connector from E-TEC is a versatile component suitable for a range of electronic applications. For precise specifications such as voltage ratings, current ratings, and operating temperature range, it is recommended to consult the complete datasheet from E-TEC.

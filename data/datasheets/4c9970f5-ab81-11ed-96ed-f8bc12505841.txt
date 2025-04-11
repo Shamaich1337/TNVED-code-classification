@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DW-12-09-G-S-400 production of SAMTEC from the text:SERIES -NO. PINS \nPER ROW -LEAD \nSTYLE -PLATING \nOPTION -ROW \nOPTION -STACKER  \nHEIGHT -OTHER\nOPTION\nDW\n= (2.79 mm) \n.110" Tail\nEW\n= (8.38 mm) \n.330" Tail\nZW\n= Custom \nTail01 thru 50 Specify \nLEAD \nSTYLE \nfrom \nchart–F\n= Gold flash \non contact,\nMatte Tin \non tail\n–L\n= 10 µ" \n(0.25 µm) \nGold on \ncontact \narea of \nlonger tail,  \nMatte Tin \non tail\n–G\n= 10 µ" \n(0.25 µm) \nGold on \ncontact \narea of \nlonger tail, \nGold flash \non balance\n–T\n= Matte \nTin–S\n= Single \nRow\n–D\n= Double \nRow\n–T\n= Triple Row\n–Q\n= Double \nRow \n.200" \n(5.08 mm) \nrow \nspace–“XXX”\n= Stacker \nHeight\n(in inches) \n(5.08 mm)  \n.200"\nminimum\nExample:  \n–250\n= (6.35 mm) \n.250"–“XXX”\n= ZW \nTail \nLength  \n(in inches) \n(1.40 mm) \n.055" \nminimum\nExample:  \n–250\n= (6.35 mm) \n.250"\n–LL\n= Locking \nLead \n(Shortest \ndimension \nbetween the \ntail and the \npost is the \nend that will \nbe crimped. \nAvailable on \ntails from \n(2.29 mm) \n.090" to \n(7.87 mm) \n.310" only.)\nSingle row, \n01 & 02 \npositions & \n–Q row not \navailable\n–“XXX”\n= Polarized\n(Specify \nomitted \npin position)SPECIFICATIONS\nInsulator Material:  \nBlack Glass Filled Polyester\nTerminal Material:  \nPhosphor Bronze\nPlating:  \nAu or Sn over \n50 µ" (1.27 µm) Ni \nOperating Temp Range:\n-55 °C to +125 °C with Gold\n-55 °C to +105 °C with Tin\nPROCESSING\nLead–Free Solderable:  \nNo, Lead Wave Only\nNotes:  \nFor added mechanical \nstability, Samtec recommends \nmechanical board spacers be \nused in applications with gold or \nselective gold plated connectors.  \nContact ipg@samtec.com for \nmore information.\nThis Series is non-standard,  \nnon-returnable.DW/EW/ZW\nBoard Mates:\nSSW, SSQ, ESW, ESQ, \nCES, SLW, BSW, BCS, \nSSM, HLE, PHF\nCable Mates:\nIDSS, IDSD\nOVERALL\nLENGTH\n(OAL)STACKER\nHEIGHTPOST\n(0.00).000\nMIN\nTAIL\n(1.40) .055\nMIN(2.54) .100 x No. of Positions\n(5.08)\n.200(2.54)\n.100\n(2.54)\n.100(2.54)\n.100(7.52)\n.296—S \n—D \n—T or —Q*\n–Q* same as –T except middle row pins are removedLEAD \nSTYLEOAL\n– 07 (10.92) .430\n– 08 (13.46) .530\n– 09 (18.54) .730\n–10 (21.08) .830\n–11 (23.62) .930\n–12 (26.16) 1.030\n–13 (31.24) 1.230\n–14 (36.32) 1.430\n–15 (16.00) .630\n–16 (11.30) .445\n–17 (12.19) .480\n–19 (33.78) 1.330\n–20 (28.70) 1.130FLEXIBLE .025" SQ\nBOARD STACKERS \n(2.54 mm) .100" PITCH  •  DW/EW/ZW SERIES\nUnless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.samtec.com?DW , samtec.com?EW or samtec.com?ZW\n F-221\n'}]
+!==============================================================================!
+### Component Summary for DW-12-09-G-S-400 from Samtec
+
+**Component Type:** Connector (Board Stacker)
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, connectors like these are rated for standard voltages in electronic applications.
+- **Current Ratings:** Not specified; generally, current ratings depend on the specific application and configuration.
+- **Power Consumption:** Not applicable for connectors.
+- **Operating Temperature Range:** 
+  - -55 °C to +125 °C with Gold plating
+  - -55 °C to +105 °C with Tin plating
+- **Package Type:** Board stacker connector with a pitch of 2.54 mm (0.100 inches).
+- **Special Features or Notes:**
+  - Lead-free solderable: No, only lead wave soldering is allowed.
+  - Recommended use of mechanical board spacers for added stability in applications with gold or selective gold plated connectors.
+  - Non-standard and non-returnable series.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Description:**
+The DW-12-09-G-S-400 is a board stacker connector from Samtec's DW series. It features a double row configuration with a total of 12 positions and a tail length of 0.330 inches (8.38 mm). The connector is designed for applications requiring reliable electrical connections between printed circuit boards (PCBs) while allowing for vertical stacking.
+
+**Typical Applications:**
+This type of connector is commonly used in:
+- **Power Management:** Connecting power distribution boards or modules.
+- **Signal Processing:** Facilitating connections between signal processing units in electronic devices.
+- **Data Storage:** Used in devices that require interconnections between storage components.
+- **General Electronics:** Suitable for various applications in consumer electronics, telecommunications, and industrial equipment where space-saving and reliable connections are essential.
+
+This summary provides a concise overview of the DW-12-09-G-S-400 connector, highlighting its specifications and typical use cases in electronic applications.

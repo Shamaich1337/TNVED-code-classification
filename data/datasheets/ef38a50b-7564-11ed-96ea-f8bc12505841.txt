@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ACWX002 production of AICO ELECTRONICS LIMITED from the text:AicoElectronicsLimited\nRoom1203,kairuiBuilding,kejiguanRoad,Binjiang,Hangzhou,China\nTEL:86-571-86619019\nFAX:86-571-81069179\ninfo@aico-lens.com\nProductname CCD&CMOSlensholder\nOutlinedimensions 13x13x12mm\nInnerdimensions 11.8x11.8x2.4mm\nColor Black\nPinholedistance 22mm\nMaterial plastic\nMount M12x0.5\nModel ACWX002\n'}]
+!==============================================================================!
+### Component Summary for ACWX002
+
+**Component Type:** Lens Holder
+
+**Manufacturer:** Aico Electronics Limited
+
+**Description:**
+The ACWX002 is a lens holder designed for use with CCD and CMOS sensors. It provides a stable and secure mounting solution for optical components, ensuring precise alignment and positioning. The lens holder is constructed from durable plastic and is designed to accommodate various lens types, making it versatile for different applications.
+
+### Key Specifications:
+- **Outline Dimensions:** 13 mm x 13 mm x 12 mm
+- **Inner Dimensions:** 11.8 mm x 11.8 mm x 2.4 mm
+- **Color:** Black
+- **Pin Hole Distance:** 22 mm
+- **Material:** Plastic
+- **Mounting Thread:** M12 x 0.5
+
+### Typical Applications:
+The ACWX002 lens holder is typically used in applications involving:
+- **Optical Systems:** It is suitable for mounting lenses in cameras, imaging systems, and other optical devices.
+- **Surveillance Cameras:** The holder can be used in security and surveillance applications where CCD or CMOS sensors are employed.
+- **Industrial Automation:** It can be integrated into machine vision systems for quality control and inspection processes.
+- **Consumer Electronics:** The lens holder is applicable in various consumer devices that require precise lens positioning.
+
+### Additional Notes:
+- The design of the ACWX002 allows for easy integration into existing systems, making it a practical choice for engineers and designers working with optical components. 
+
+This summary provides a clear overview of the ACWX002 lens holder, highlighting its specifications and typical uses in various optical applications.

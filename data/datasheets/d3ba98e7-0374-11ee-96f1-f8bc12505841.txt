@@ -1,0 +1,23 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CRS-103-S125-99/S production of E-TEC from the text:AB\n4.25 1.25 02\n5.50 2.50 03\n6.75 3.75 04\n8.00 5.00 05\n9.25 6.25 06\n10.50 7.50 07\n11.75 8.75 08\n13.00 10.00 09\n14.25 11.25 10\n15.50 12.50 11\n16.75 13.75 12\n18.00 15.00 13\n19.25 16.25 14\n20.50 17.50 15Dimension mm No. of \nPins\n'}]
+!==============================================================================!
+Based on the provided product code CRS-103-S125-99/S from E-TEC, here is a concise summary of the component's key characteristics and specifications:
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Current Ratings**: Not explicitly stated; refer to the full datasheet for specific current ratings.
+- **Power Consumption**: Not specified; check the datasheet for power consumption details.
+- **Operating Temperature Range**: Not provided; this information is usually included in the full datasheet.
+- **Package Type**: The dimensions suggest a compact package, but the exact type (e.g., DIP, SMD) is not specified in the text.
+- **Special Features or Notes**: The text does not provide specific features; refer to the datasheet for any unique characteristics.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not mentioned; this would typically be found in the detailed specifications of the datasheet.
+
+### Component Description:
+The CRS-103-S125-99/S appears to be a connector or a similar electronic component, given the context of dimensions and pin counts. It is likely used for establishing electrical connections between different parts of a circuit or system.
+
+### Typical Applications:
+- **Interconnect Solutions**: Used in various electronic devices for connecting different circuit boards or components.
+- **Signal Transmission**: Facilitates the transfer of signals between devices, which is crucial in communication systems.
+- **Power Distribution**: May be used in power management applications to distribute power across different components in a system.
+
+### Conclusion:
+For a complete understanding of the CRS-103-S125-99/S component, including its voltage and current ratings, power consumption, operating temperature range, and specific applications, it is essential to refer to the full datasheet provided by E-TEC. The information provided here is based on the limited text and may not encompass all specifications and features of the component.

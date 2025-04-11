@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of E3388B-R1 production of EVETAR from the text:∅16.5∅8.3Image plane\n(Include 0.3Filter+0.4C.G∅22\n60°(D.FOV)35.6\n8.514.1\nM12x0.5\n7.6(MBFL)\n8.04(BFL)\n34.5(TTL)14(D.FOV)0.875\n2-1\n(Include 0.3Filter+0.4C.G\n(Include 0.3Filter+0.4C.G)20\n8.7511 11\n8.75 8.75\n8.752-∅12-M2x0.4\n2017\n16.9\n1727.12\nØ9mmMax Image Circle \nPortfolio Size.±0.30\nSingle Part Size.±0.1UNLESS TOLERANCE  AUDI.\n APPR. REVISED DESCRIPTION DATE 3RD Angle ProjectionDATE NAME\nDRAWN \nCHECKED\n APPR. NO.外形尺寸  最大主光线入射角相对照度光学 畸变镜头组成后面前面\n通光口径后截距\n>50%Sensor Spec\nEFL 有效焦距SPECIFICATION  SHEET\n7.84mm\n0.5 mFrontBack Focal Length\nBack\nIris 光圈Relative IlluminationOP Distortion\nResolution 分辨率Lens constructionLens Effective \nDiameter\nMount 接口M.O.D 最近物距\nTTL 光学总长\nDimension (ØxL)Max Chief Ray AngleØ16.5mm\nØ8.3mm\n8.7°9-8FNo. F值EVETARR\nREV.F2.6\n8.04mm \n＜-2.9% \nFixed\nM12X0.5\n34.5mm\nØ22x35.6mmE3388B-R1 Model No. 型号\nwww.evetar.com厦门力鼎光电股份有限公司\nXiamen Leading Optics Co., Ltd.Working Distance \n工作物距最大像面\nD.对角\nV.垂直H.水平60°\n53°\n31.1° F.O.V. 视场角  传感器规格\nFilter Spec\n滤光片规格  7.68X4.32, 8.81\nINF 5M\n420-630nm Tavg>92％、\n650±10nm T＝50％、\n680-1000nm Tmax<5％(Include 0.3Filter+0.4C.G)\n(Include 0.3Filter+0.4C.G)1/1.8"  CCD/COMS\n2023.5.9 检讨版00 XKW WJS 00\n'}]
+!==============================================================================!
+### Component Summary for E3388B-R1
+
+**Component Type:** Lens
+
+**Description:**
+The E3388B-R1 is a fixed-focus optical lens designed for use with 1/1.8" CCD/CMOS sensors. It features a compact design with a maximum image circle of Ø9mm, making it suitable for various imaging applications. The lens is characterized by its effective focal length (EFL) of 7.84mm and a maximum chief ray angle of 8.7°. 
+
+**Key Specifications:**
+- **Effective Focal Length (EFL):** 7.84 mm
+- **Maximum Image Circle:** Ø9 mm
+- **Mount Type:** M12x0.5
+- **Dimensions:** Ø22 x 35.6 mm
+- **Working Distance:** 0.5 m
+- **Back Focal Length (BFL):** 8.04 mm
+- **Total Length (TTL):** 34.5 mm
+- **Field of View (D.FOV):** 60° (Diagonal), 53° (Vertical), 31.1° (Horizontal)
+- **Relative Illumination:** >50%
+- **Optical Distortion:** < -2.9%
+- **Resolution:** Not specified, but designed for high-performance imaging
+- **Filter Specifications:** 
+  - Transmission average (Tavg): >92% for 420-630 nm
+  - Transmission at 650±10 nm: T = 50%
+  - Maximum transmission at 680-1000 nm: Tmax < 5%
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+**Typical Applications:**
+The E3388B-R1 lens is typically used in applications requiring high-quality imaging, such as:
+- Surveillance systems
+- Machine vision
+- Robotics
+- Optical inspection systems
+- Medical imaging devices
+
+This lens is particularly suited for environments where compact size and high optical performance are critical, making it ideal for integration into various electronic imaging systems.

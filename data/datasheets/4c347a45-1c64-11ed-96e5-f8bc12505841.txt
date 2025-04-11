@@ -1,0 +1,42 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDAC01093 production of NEDITEK from the text:                                      NDAC01093  \n8-12GHz Power amplifier MMIC  \n\uf0d8 Features                                           Function table  \n\uf06c Frequency range ：8～12 GHz  \n\uf06c Small signal gain ：30dB \n\uf06c Output power ：37.5dBm  \n\uf06c PAE： 40% \n\uf06c Technology type ：0.35um PHEMT  \n\uf06c Bias：Vd=8 V，Vg=-0.6V \n\uf06c Chip size ：3.2mm× 2.2mm× 0.08mm  \n\uf0d8 General Description  \nThe NDAC01 093 is a power amplifier and it is made by the 0. 35\uf06dm length of GaAs PHEMT \ntechnology process. The chip is grounded by through back metal hole. All chip tested by 100% \nradio frequency. The NDAC01 093 with dual DC power supply, drain voltage is 8V, can provide \n37.5dBm output power in frequency range  8-12GHz.  \n\uf0d8 Absolute Maximum Ratings1（TA＝25℃）1 \nSymbol  Parameter  Value  Note  \nVd Drain Voltage  9V  \nId Drain Current  3A  \nVg Gate Voltage  -2V  \nIg Gate Current  100mA   \nPd DC Consumption  25W  \nPin Input Signal Power  20dBm  \nTch Channel Operating \nTemperature  175℃  \nTm Mounting Temperature  310℃ 30s，N2 Protection  \nTstg Storage Temperature  -65～150℃  \n【1】 Exceeding any one or combination of these limits may cause permanent  damage.  \n\uf0d8 Electrical Characteristics (Ta=25oC) \nSymbol  Parameter  Testing \ncondition  Value  \nUnit \nMin Typ Max \nG Small signal gain  Vd＝8V，\nVg=-0.6V \nF：8～12 \nGHz  30 - dB \nGp Power gain   23 - dB \nPout Saturation power   37.5 - dBm \nPAE Power additional efficiency   40 - ％ \nVGVD1VD2 VD3\nRFin RFout\nVG VD2 VD3\nNDAC01093  \n8-12GHz Power amplifier MMIC  \n\uf0d8 Typical testing curve  \nSmall signal gain curve                      Output power  curve    \n \n \n \n \n \n \n \n \n \nPAE curve                           Drain current  curve  \n \n \n \n \n \n \n \n \n \n\uf0d8 Definition of pressure point  \nPressure point  Function  Equivalent circuit  \nRFin  RF signal input terminal, external 50 ohm system, no \nDC isolation capacitor  \nIN  \nRFout  RF signal output terminal, external 50 ohm system, \nno DC isolation capacitor  \nOUT  \nVG The amplifier gate is biased, and 100pF and 1000pf \ncapacitors are required to be connected externally  \nVG \nVD1、VD2、VD3、 The drain bias of the amplifier requires 100pF \ncapacitors  \nVD  \nGND  The bottom of the chip should be in good contact with \nRF and  DC ground  \nGND \n \n \n \n \n7.0 7.5 8.0 8.5 9.0 9.5 10.0 10.5 11.0 11.5 12.0 12.5 13.010121416182022242628303234363840Vd=8V,Vg=-0.6V,Pin=-10dBm,PL\n  Gain(dB)\nFreq(GHz) Gain\n8.0 8.5 9.0 9.5 10.0 10.5 11.0 11.5 12.0 12.530.032.535.037.540.042.545.0Vd=8V,Vg=-0.6V,Pin=14dBm,CW\nFreq(GHz)PAE(%)\n8.0 8.5 9.0 9.5 10.0 10.5 11.0 11.5 12.0 12.51.01.21.41.61.82.02.22.42.62.83.03.23.43.63.84.0Vd=8V,Vg=-0.6V,Pin=14dBm,CW\n  ID(A)\nFreq(GHz)\n8.0 8.5 9.0 9.5 10.0 10.5 11.0 11.5 12.0 12.53031323334353637383940Vd=8V,Vg=-0.6V,Pin=14dBm,CW\nFreq(GHz)Pout(dBm)\nNDAC01093  \n8-12GHz Power amplifier MMIC  \n\uf0d8 Chip size （Unit: um ）          Assembly diagram （Unit: um ） \nVg10uF\n \nNEDI  NEDI  \n'}]
+!==============================================================================!
+### Component Summary for NDAC01093
+
+**Component Type:**  
+Power Amplifier MMIC (Monolithic Microwave Integrated Circuit)
+
+**Key Specifications:**
+
+- **Frequency Range:** 8 - 12 GHz
+- **Small Signal Gain:** 30 dB
+- **Output Power:** 37.5 dBm
+- **Power Added Efficiency (PAE):** 40%
+- **Technology Type:** 0.35 µm PHEMT (Pseudomorphic High Electron Mobility Transistor)
+- **Bias Conditions:** 
+  - Drain Voltage (Vd): 8 V
+  - Gate Voltage (Vg): -0.6 V
+- **Chip Size:** 3.2 mm x 2.2 mm x 0.08 mm
+- **Absolute Maximum Ratings:**
+  - Drain Voltage (Vd): 9 V
+  - Drain Current (Id): 3 A
+  - Gate Voltage (Vg): -2 V
+  - Gate Current (Ig): 100 mA
+  - DC Power Consumption (Pd): 25 W
+  - Input Signal Power (Pin): 20 dBm
+  - Channel Operating Temperature (Tch): 175 °C
+  - Mounting Temperature (Tm): 310 °C (30s, N2 Protection)
+  - Storage Temperature (Tstg): -65 to 150 °C
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+**Description:**  
+The NDAC01093 is a high-performance power amplifier designed for operation in the frequency range of 8 to 12 GHz. Utilizing advanced 0.35 µm GaAs PHEMT technology, this MMIC is optimized for high output power and efficiency, making it suitable for various RF applications. The chip features a compact size and is designed to be grounded through a back metal hole, ensuring reliable performance in demanding environments.
+
+**Typical Applications:**  
+The NDAC01093 is typically used in applications requiring high-frequency amplification, such as:
+
+- **Telecommunications:** Enhancing signal strength in communication systems operating in the microwave frequency range.
+- **Radar Systems:** Amplifying signals for radar applications, improving detection and tracking capabilities.
+- **Satellite Communications:** Providing necessary power amplification for satellite transmission and reception.
+- **Test Equipment:** Used in RF test setups for measuring and analyzing high-frequency signals.
+
+This component is ideal for engineers and designers looking for robust solutions in high-frequency power amplification, particularly in the fields of telecommunications and radar technology.

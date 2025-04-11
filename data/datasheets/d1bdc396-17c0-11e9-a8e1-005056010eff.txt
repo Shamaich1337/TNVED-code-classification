@@ -1,0 +1,52 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 1GSBH510D1600-07 production of BM-CAPACITOR from the text: \n \n \nVersion: 28-Dec-2018                         Page 1of 5                        Document number:  G18140  \n \nSPECIFICATION FOR APPROVAL   \n \nFilm Capacitor for Snubber Application \n \n  \nCustomer Code :      \nSeries / Type： SKMJ-PT  1μF ± 10%  1600VDC \nOrdering code : 1GSBH510D1600-07  \nCustomer ’s P/N:       \nDate： 28-Dec-2018 \n \n     \n \n                                                                              \n  \n \nMANUFACTURER INFORMATION: \nName: GUANGDONG FENGMING ELECTRONIC TECH. CO., LTD. \nAddress：No.1,Longle road, Huanglong village, Beijiao town, Shunde district, Foshan, Guangdong,    \n528311,P.R. China  \nWeb site: www.bm-cap.com         \nTel: +86-757-223602928    Fax: +86-757-23608828 \nEmail: powerelectech @bm-cap.com  FENGMING ELECTRONIC TECH. CO., LTD.  APPROVED BY  \nPrepared  Checked  Approved  \nMing He \n28-Dec-2018 Zhanteng Cheng \n28-Dec-2018 Felix Wu \n28-Dec-2018  \n \n \n \n SKMJ-PT \n                                                          1GSBH510D1600-07  \n \nVersion: 28-Dec-2018                         Page 2of 5                        Document number:  G18140  \n \nn Revision record   \nNO Revision description Recorder Date \n1 New HeMing 2018-12-28 \n    \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n SKMJ-PT \n                                                          1GSBH510D1600-07  \n \nVersion: 28-Dec-2018                         Page 3of 5                        Document number:  G18140  \n \nn OUTLINE DRAWING_(mm)   \n17\n1619±1\n118.2\nP±1\n0.8\n4.3\nL±1 B±1\nH±1 SKMJ-PT\n1μF  ±10%\nUN    1600V  D C  \nMAX105℃SH\n追 溯 号R\nE215893MARK\n \n \nn APPLICATIONS  \nWidely used in frequency converter, switch power supply, plating power supply, induction heating \nmachine, UPS, inversion power and other kinds of electronic equipment for IGBT snubber protection \nand peak voltage clamp occasions. \n \nn TYPICAL CIRCUIT  \nType1 Type2C1\nC2C3\n \nn FEATURES  \nl Metallized film, non-inductive structure \nl Self-healing property \nl High ripple current handling capabilities \nl Low ESR, Low ESL \nl Long lifetime \nn SAFETY APPROVALS \n UL UL810, Voltage Limits: Max. 4000VDC, 105 °C \nCertificate No.: E215893 CN (μF) UN (VDC) L (mm) B (mm) H (mm) P \n1 1600 57.5 30 45 50 \nR\nE215893\n SKMJ-PT \n                                                          1GSBH510D1600-07  \n \nVersion: 28-Dec-2018                         Page 4of 5                        Document number:  G18140  \n \n \nn TEST CONDITIONS  \nEnvironment Temperature:  T = +20 °C ± 10 °C \nEnvironment Humidity:     RH ≤ 65% \nn QUICK REFERENCE DATA  \nReference standard  IEC 61071 \nRated capacitance   CN 1 μF \nCapacitance tolerance  ±10% \nRated DC voltage      UNDC 1600 VDC \nRated AC voltage      UNAC  550VAC   \nRated temperature  +85 °C \nStorage temperature range  -40 °C to + 85 °C \nMaximum permissible case temperature  +105 °C, respecting voltage derating \nTangent of loss angle tgδ ≤ 0.0010 (10kHz)  \nTest voltage between terminals   Ut-t 1.5U NDCfor 10s \nMaximum  current Imax 18A  \nMaximum peak current Ipeak 800A \nVoltage rise time dv/dt 800 V/μS \nEquivalent series resistance ESR(Typ)  5.5mΩ \nEquivalent series inductance Ls 35nH \nInsulation resistance (100VDC for 60s) IR 10000S  \n1.1 x Un, 30% on load duration. \n1.15 x Un for 30min  \n1.2 x Un for 5min \n1.3 x Un for 1min Temporarily Overvoltage (per day) \n1.5 x Un for 100ms each time, 1,000 times during the life \nof the capacitor. \n \n \nn CHARACTERISTICS  \n                                            \n \n \n \n \n \n \n \n \n \n \n 4\n2\n0\n-2\n-4\n-6\n-50 0 50 100\nTamb (℃)\nCapacitance vs. temperature (typical)ΔC/C(%)\n1041031051061.3\n1.2\n1.1\n1.0\n0.9\n0.8\n0.7\n0.6\n0.5\n105℃85℃70℃U    /U      (V)op NDC\n(h)\nExpected lifetime (typical)\n SKMJ-PT \n                                                          1GSBH510D1600-07  \n \nVersion: 28-Dec-2018                         Page 5of 5                        Document number:  G18140  \n \n \n \n \n \nIMPORTANT NOTES \nSome parts of this publication contain statements about the suitability of our products for certain areas of application. \nThese statements are based on our knowledge of typical requirements that are often placed on our products in the \nareas of application concerned. We nevertheless expressly point out that such statements cannot be regarded as \nbinding statements about the suitability of our products for a particular customer application. As a rule, BM is either \nunfamiliar with individual customer applications or less familiar with them than the customers themselves. For these \nreasons, it is always ultimately incumbent on the customer to check and decide whether an BM product with the \nproperties described in the product specification is suitable for use in a particular customer application. \nIn individual cases, a malfunction of electronic components or failure before the end of their usual service life cannot be \ncompletely ruled out in the current state of the art, even if they are operated as specified. In customer applications \nrequiring a very high level of operational safety and especially in customer applications in which the malfunction or \nfailure of an electronic component could endanger human life or health (e.g. in accident prevention or lifesaving \nsystems), it must therefore be ensured by means of suitable design of the customer application or other action taken \nby the customer (e.g. installation of protective circuitry or redundancy) that no injury or damage is sustained by third \nparties in the event of malfunction or failure of an electronic component.  \n \n'}]
+!==============================================================================!
+### Component Summary for 1GSBH510D1600-07
+
+**Component Type:** Film Capacitor  
+**Series/Type:** SKMJ-PT  
+**Manufacturer:** Guangdong Fengming Electronic Tech. Co., Ltd.  
+**Document Version:** 28-Dec-2018  
+**Document Number:** G18140  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Rated DC Voltage: 1600 VDC
+  - Rated AC Voltage: 550 VAC
+  - Maximum Voltage Limits: 4000 VDC (UL approved)
+  
+- **Current Ratings:**
+  - Maximum Current (Imax): 18 A
+  - Maximum Peak Current (Ipeak): 800 A
+  
+- **Power Consumption:** Not explicitly stated; however, the capacitor is designed for high ripple current handling capabilities.
+
+- **Operating Temperature Range:**
+  - Rated Temperature: +85 °C
+  - Maximum Permissible Case Temperature: +105 °C
+  - Storage Temperature Range: -40 °C to +85 °C
+
+- **Package Type:** Not specified in detail, but dimensions are provided (L: 57.5 mm, B: 30 mm, H: 45 mm, P: 50 mm).
+
+- **Special Features:**
+  - Metallized film, non-inductive structure
+  - Self-healing property
+  - High ripple current handling capabilities
+  - Low Equivalent Series Resistance (ESR) and Low Equivalent Series Inductance (ESL)
+  - Long lifetime
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The 1GSBH510D1600-07 is a film capacitor designed specifically for snubber applications. It features a metallized film construction that provides a non-inductive structure, making it suitable for high-frequency applications. The capacitor is characterized by its self-healing properties, which enhance reliability and longevity in various electronic circuits.
+
+#### Typical Applications:
+This capacitor is widely used in:
+- Frequency converters
+- Switch power supplies
+- Plating power supplies
+- Induction heating machines
+- Uninterruptible Power Supplies (UPS)
+- Inversion power systems
+- Other electronic equipment requiring IGBT snubber protection and peak voltage clamping
+
+The capacitor's design and specifications make it ideal for applications where high voltage and current handling, as well as reliability, are critical.

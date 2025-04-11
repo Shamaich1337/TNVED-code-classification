@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BCX9-IOV1HT production of BYD SEMICONDUCTOR from the text: \nBCX9-\nIOV1HT\n \n \nBYD Semiconductor Co., Ltd                                                             \nCurrent Sensors\n \nDatasheet                                        Rev.A/0                                        Page 1 of 4 \nDescription  \nFor the electronic measu rement of currents: DC, AC, pulsed , mixed , with a galvanic  \nisolation between the primary circuit and the  secondary  circuit .\n \nFeatures  \n\uf075 Open  loop transducer using the Hall effect  \n\uf075 Low voltage application  \n\uf075 Unipolar +5VDC  power supply  \n\uf075 Primary current measuring range up  \nto ±800A ~ 1200 A \n\uf075 Operating temperature range:  \n-40℃< T\nA\n <+125℃ \n\uf075 Output voltage: fully ratio -metric(gain  \nand offset)  \n \nAdvantage s \n\uf075 High  accuracy  \n\uf075 Excellent linearity  \n\uf075 Low temperature drift  \n\uf075 No insertion losses  \n\uf075 Wide frequency bandwith  \n\uf075 Very fast response time  \n \n \n \n \n \n \n \n  \n \n \n \nI\nPN\n = 800A ~ 1200 A\n \nAutomotive  Applicatio ns \n\uf075 Starter Generators  \n\uf075 Inverters  \n\uf075 HEV applications  \n\uf075 EV application  \n\uf075 DC/DC converter.  \n \n \n \n \n \n \n \n \n \nTYPES OF PRODUCTS  \nType  Primary nominal  current \nI\nPN \n(A) Primary current measuring range  \nI\nPM \n(A) \nBCX9-IOV1H T 800~1200  ±800~1200  \nBYD  Semiconductor Co., Ltd.                            BCX9-IOV1H T \n \n                                                                                         Current sensors  \nDatasheet                                         Rev. A/0                                       Page  2 of 4 Parameters  Table  \n \n \n \n \nNotes:  \n(1) The indicated offset voltage is the one after the core hysteresis is removed.  PARAMETERS  SYMBOL  UNIT V ALUE  CONDITIONS  Min. Typ. Max. \nElectrical data  \nSupply voltage  Vcc V 4.75 5 5.25  \nCurrent consumption  Icc mA - 36 45 @T A = 25°C   \nOutput Load Resistance  RL kΩ 6 - - @V OUT to GND  \nOutput Load Capacitance  CL nF - - 10 @V OUT to GND  \nOutput internal  Resistance  ROUT  Ω - 1 5 Vout = 50% Vdd, \nRL = 10kΩ  \nPerformance data  \nOutput voltage  VOUT V VOUT=(Vcc/5 )×( VOUTQ +G×IP ) @T A = 25°C  \nOutput Linearity  εL % -1 - 1 @T A = 25°C  \nAccuracy  X % -1 - 1 @T A = 25°C  \nAccuracy  @-40~125°C  XT % -2 - 2 @-40~125°C  \nQuiescent Output V oltage(1) VOUTQ V 2.5 @T A = 25°C  \n@Vcc=5V  \nElectrical offset Voltage  VOE mV -4 - 4 @T A = 25°C  \n@Vcc=5V  \nMagnetic offset Voltage  VOM mV -3 - 3 @T A = 25°C  \n@Vcc=5V  \nSensitivity (G)  G mV/A  - 2000/  IP - @T A = 25°C  \nQuiescent Output V oltage  \nTemperature  Coefficient  TC OUTQ mV/℃ -0.05  0.05  \nOutput Bandwidth  BW kHz 40 - - @Small signal  -3dB \nResponse time  tr µS - 2 3  \nPhase shift △ψ ° -4 - - @DC to 1k Hz \nRms voltage isolation test  Vd kV - - 3 @AC 50Hz 1Min  \nGeneral data  \nAmbient operating temperature  TA ℃ -40～+125  \nAmbient s torage temperature  TS ℃ -40～+ 125  \nBYD  Semiconductor Co., Ltd.                            BCX9-IOV1H T \n \n                                                                                         Current sensors  \nDatasheet                                         Rev. A/0                                       Page  3 of 4 Dimensions  BCX9-IOV1HT (in mm. 1 mm = 0.0394 inch)  \nⅠ\nⅠ\nⅡⅡ\n：\n：\n（％）：\n：\n：\n：\n： ％\n（\n \n◆Instructions of use  \n1. When the test current pa sses through the sensor s, you can get the size of the output voltage.  \n(Warning: wrong connection may lead to sensor s damage) . \n2. Based on user needs, the output range  of the  sensor s can be appropriately regulated.  \n3. According to user needs, different rated input currents and output voltages of the sensor s can \nbe customized. \n \n           \nBYD  Semiconductor Co., Ltd.                            BCX9-IOV1H T \n \n                                                                                         Current sensors  \nDatasheet                                         Rev. A/0                                       Page  4 of 4 RESTRICTIONS ON PRODUCT USE  \n \n\uf06e The information contained herein is subject to change without notice.  \n \n\uf06e BYD Semiconductor  Co., Ltd. (short for) exerts the greatest possible effort to ensure high quality \nand reliability. Nevertheless, semiconductor devices in general can malfunction or fail due to their \ninherent electrical sensitivity and vulnerability to physical stress. It is the responsibility of the buyer, \nwhen utilizing products, t o comply with the standards of safety in making a safe design for the entire \nsystem, including redundancy, fire- prevention measures, and malfunction prevention, to prevent any \naccidents, fires, or community damage that may ensue. In developing your designs , please ensure \nthat products are used within specified operating ranges as set forth in the most recent products \nspecifications.  \n \n\uf06e The products listed in this document are intended for usage in general electronics applic ations \n(computer, personal equipment, office equipment, measuring equipment, industrial robotics, \ndomestic appliances, etc.). These products are neither intended nor warranted for usage in \nequipment that requires extraordinarily high quality and/or reliability or a malfunction or failure of \nwhich may cause loss of human life or bodily injury (“Unintended Usage”). Unintended Usage \ninclude atomic energy control instruments, airplane or sp aceship instruments, transportation \ninstruments, traffic signal instruments, combustion control instruments, medical instruments, all \ntypes of safety devices, etc.. Unintended Usage of  products listed in this document shall be made at \nthe customer’s own ri sk. \n \n \n \n'}]
+!==============================================================================!
+### Component Summary: BCX9-IOV1HT
+
+**Manufacturer:** BYD Semiconductor Co., Ltd  
+**Type:** Current Sensor  
+**Description:** The BCX9-IOV1HT is an open-loop Hall effect transducer designed for the electronic measurement of currents, including DC, AC, pulsed, and mixed currents, with galvanic isolation between the primary and secondary circuits.
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Supply Voltage (Vcc): 4.75V to 5.25V
+- **Current Ratings:**
+  - Primary Current Measuring Range (IPM): ±800A to ±1200A
+  - Nominal Primary Current (IPN): 800A to 1200A
+- **Power Consumption:**
+  - Current Consumption (Icc): 36mA (typical) to 45mA (max) at TA = 25°C
+- **Operating Temperature Range:**
+  - Ambient Operating Temperature (TA): -40°C to +125°C
+  - Ambient Storage Temperature (TS): -40°C to +125°C
+- **Package Type:** Not specified in the provided text.
+- **Special Features:**
+  - High accuracy and excellent linearity
+  - Low temperature drift
+  - No insertion losses
+  - Wide frequency bandwidth
+  - Very fast response time (2 to 3 µs)
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+#### Performance Data:
+- **Output Voltage:** VOUT = (Vcc/5) × (VOUTQ + G × IP)
+- **Output Linearity:** ±1% at TA = 25°C
+- **Accuracy:** ±1% at TA = 25°C; ±2% over the full temperature range (-40°C to +125°C)
+- **Sensitivity (G):** 2000 mV/A at TA = 25°C
+- **Output Bandwidth:** 40 kHz (small signal -3dB)
+- **RMS Voltage Isolation Test:** 3 kV @ AC 50Hz for 1 minute
+
+### Typical Applications:
+The BCX9-IOV1HT is primarily used in automotive applications, including:
+- Starter generators
+- Inverters
+- Hybrid Electric Vehicle (HEV) applications
+- Electric Vehicle (EV) applications
+- DC/DC converters
+
+### Conclusion:
+The BCX9-IOV1HT is a versatile current sensor suitable for high-accuracy current measurements in various applications, particularly in the automotive sector. Its robust design allows for reliable operation across a wide temperature range, making it ideal for demanding environments.

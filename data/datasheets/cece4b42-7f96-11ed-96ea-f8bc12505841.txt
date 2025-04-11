@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TX-3535W10VRA1-NG4CD-01 production of GUANGZHOU TIANXIN PHOTOELECTRIC CO., LTD from the text:http://www.txled.cn Version:1.1PartNo.TX-3535W10VRA1-NG4CD-01 SpecNo.WKF-ED0121Page1of8TX-3535W10VRA1-NG4CD-01\nPRODUCTSPECIFICATION\nFeatures:\n◆ExcellenttransitingheatfromLEDchipoperatingunder3000mA.\n◆Highluminousoutput.\n◆NoUV.\n◆Encapsulatedmaterialsareenvironmentallycertifiedandmeetenvironmentalrequirements.\nChipMaterial: EmittingColor: Applications:\n◆GaN ◆white ◆Auxiliarylighting\n◆Architecturallighting\n◆GeneralLighting\nhttp://www.txled.cn Version:1.1PartNo.TX-3535W10VRA1-NG4CD-01 SpecNo.WKF-ED0121Page2of8PackageDimensions:\n- +\n0.85±0.053.45±0.15\n3.45±0.151.03\n1.03\n3.3±0.05\n0.475±0.031.3\n3.3±0.05- +\nTX\nTopview Sideview Bottomview\n0.5\n1.3\n2.25\n3.25\n3.85\n0.8\n3.25\n3.85\n1.01\n2.25\n3.25\n0.75 0.25\n3.25\nRecommendedsolderpad Recommendedstencilpattern\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesunlessotherwisementionedare±0.1mm.\nhttp://www.txled.cn Version:1.1PartNo.TX-3535W10VRA1-NG4CD-01 SpecNo.WKF-ED0121Page3of8AbsoluteMaximumRatings(Tc=25℃)\nNote:1.Pulsewidth≤0.1msec,duty≤1/10.\nNotes:\n1.Specificationsaresubjecttochangewithoutnotice.\n2.Thedataonthisspecificationisforreferenceonlyandtheactualdataisinaccordancewiththe\nacknowledgment.\n3.PrecautionsforESD:\nSTATICSHIELDElectricityandsurgedamagestheLED.Itisrecommendedtouseawristbandor\nanti-electrostaticglovewhenhandlingtheLED.Alldevices,equipmentandmachinerymustbeproperly\ngrounded.Parameter Symbol Ratings Unit\nForwardCurrent IF 3000\nmA\nPeakForwardCurrent(Note1) IFP 4200\nReverseVoltage VRNotdesignedforreverse\noperationV\nPowerDissipation PD 11.4 W\nJunctionTemperature Tj 150 ℃\nElectrostaticDischargeThreshold(ESD) ESD ESDsensitivedevice V\nStorageTemperature Tstg -40~+70\n℃\nOperationTemperature Topr -30~+85\nhttp://www.txled.cn Version:1.1PartNo.TX-3535W10VRA1-NG4CD-01 SpecNo.WKF-ED0121Page4of8ElectricalOpticalCharacteristics(Tc=25°C，IF=1.0A)\nWhitelightColorcoordinatefiling(IF=1A)\n0.300.310.320.330.310.320.330.340.35\n6400K5900K\n0.29 0.345700K\n2A0.36\n1A26600K0.37\n1D2\n1D16100K\nRegionCCTRange\nX1 Y1 X2 Y2 X3 Y3 X4 Y4\nMin Max\n2A 5700K 5900K 0.32800.33950.32380.33390.32290.34540.32780.3532\n1D2 5900K 6100K 0.32400.33140.32050.32650.31940.33930.32300.3444\n1D1 6100K 6400K 0.32050.32650.31580.32000.31410.33160.31940.3393\n1A2 6400K 6600K 0.31620.31710.31340.31290.31170.32420.31450.3284\nNotes:\n1.LuminousintensityismeasuredwithalightsensorandfiltercombinationthatapproximatestheCIE\neye-responsecurve.\n2.θ1/2istheoff-axisangleatwhichtheluminousintensityishalftheaxialluminousintensity.Parameter Symbol Min. Typ. Max. Units\nLuminousFlux φv 315 350 — lm\nForwardVoltage Vf 2.8 3.2 3.5 V\nCorrelatedColour\nTemperatureCCT 5700 6000 6600 K\nSpectralLineHalf-Width △λ 20 24 28 nm\nViewingAngleat50﹪IV 2θ1/2 — 120 — Deg\nReverseCurrent IR — — 2 µA\nThermalResistanceJunction\ntoCaseRθJ-C — 2.7 — K/W\nTemperatureCoefficientof\nVoltageV△F/T — -2.8 — mV/℃\nhttp://www.txled.cn Version:1.1PartNo.TX-3535W10VRA1-NG4CD-01 SpecNo.WKF-ED0121Page5of83.Luminousfluxmeasurementtolerance:±10%.\n4.Forwardvoltagemeasurementtolerance:±0.3V.\n5.Rameasurementtolerance:±2.\nTypicalElectrical/OpticalCharacteristicsCurves\n(25℃AmbientTemperatureUnlessOtherwiseNoted)\n4.04.4\n2.81000 1500 2000 2500Forward Current VS.  Relative Forward VoltageForward  Voltage  VF  (V)\nForward Current IF  (mA)3.2\n30003.6250\n50100150\n3000 1000 1500 2000Forward Current VS.  Relative Luminous FluxRelative  Luminous  Flux  (%)\nForward  Current  IF  (mA)2500200\n25 45 65 85 105Temperature VS.  Relative Luminous FLux (IF=1.0A)\nTc  (℃)Forward  Voltage  Vf  (V)\n1252.62.83.03.23.43.6Temperature  VS.  Relative Luminous Flux (IF=1.0A)Relative Luminous Flux (%)\n020406080100\n25 45 65 85 105 125\nTemperature (℃)\nNotes: White（W）;\nhttp://www.txled.cn Version:1.1PartNo.TX-3535W10VRA1-NG4CD-01 SpecNo.WKF-ED0121Page6of81000-0.020-0.015-0.010-0.00500.0050.0100.0150.020\nForward Current (mA)W(x)\nW(y)Relative Chromaticity VS.Current\n3000 200025 45 65 85-0.004-0.003-0.002-0.00100.0010.0020.0030.004\nTc (℃)Relative Chromaticity VS. Temperature (IF=1.0A)\nW(x)\nW(y)\n380.0 420.0 460.0 500.0 540.0 580.0 620.0 660.0 700.0 740.0 780.0\nWavelength (nm)0.0000.1000.2000.3000.4000.5000.6000.7000.8000.9001.0001.100Relative Spectral DistributionSpectrum\nNotes: White（W）;\nNotes:\n1.2θ1/2istheoffaxisanglefromlampcenterlinewheretheluminousintensityis1/2ofthepeakvalue.\n2.Viewangletoleranceis±5°.\nhttp://www.txled.cn Version:1.1PartNo.TX-3535W10VRA1-NG4CD-01 SpecNo.WKF-ED0121Page7of8UsagePrecautions\nStorageEnvironmentCondition\nTemperature:5℃~30℃(41℉~86℉)\nHumidity:60%RHMax.\nSolderingCondition\nUsetheconditionsshowntotheunderfigure.\nt\ntLP\nt 25℃ to Peak\nTimets PreheatTSminTSmaxRamp-UPCritical Zone\nT  to TP L\nRamp-downT\nTP\nL\n25Temperature\nProfileFeature Pb-FreeSolder(SnBi35Ag0.3)\nAverageRamp-UpRate(TsmaxtoTp) 3℃/secondmax.\nPreheat:TemperatureMin(Tsmin) 100℃\nPreheat:TemperatureMax(Tsmax) 150℃\nPreheat:Time(TsmintoTsmax) 60-120seconds\nTimeMaintainedAbove:Temperature(TL) 183℃\nTimeMaintainedAbove:Time(TL) 60-150seconds\nPeak/ClassificationTemperature(TP) 225℃\nTimeWithin5℃ofActualPeakTemperature(TP) 10-30seconds\nRamp-DownRate 6℃/secondmax.\nTime25℃toPeakTemperature 6minutesmax.\nNote:\nAlltemperaturesrefertotopsideofthepackage,measuredonthepackagebodysurface.\nhttp://www.txled.cn Version:1.1PartNo.TX-3535W10VRA1-NG4CD-01 SpecNo.WKF-ED0121Page8of8DimensionsForCannulationAndPackaging\nQuantity:1000PCS12\n4.3\n3.7\n3.7\n4.384Φ1.5\nPrinted label\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesare±2.0mmunlessotherwisenoted.\n3.Theproductsarepackagedtogetherwithsilicagel,Transport,nottotheweightofweldingLED\nlight-emittingarea,AsaresultoftheweightofLEDlight-emittingzoneinthequalityof,Irresponsibleofthe\nCompany.\n'}]
+!==============================================================================!
+### Component Summary: TX-3535W10VRA1-NG4CD-01
+
+**Manufacturer:** GUANGZHOU TIANXIN PHOTOELECTRIC CO., LTD  
+**Product Code:** TX-3535W10VRA1-NG4CD-01  
+**Version:** 1.1
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (Vf): 2.8 - 3.5 V
+  - Reverse Voltage (VR): Not designed for reverse operation
+
+- **Current Ratings:**
+  - Forward Current (IF): 3000 mA
+  - Peak Forward Current (IFP): 4200 mA (Pulse width ≤ 0.1 msec, duty ≤ 1/10)
+
+- **Power Consumption:**
+  - Power Dissipation (PD): 11.4 W
+
+- **Operating Temperature Range:**
+  - Storage Temperature (Tstg): -40 to +70 °C
+  - Operating Temperature (Topr): -30 to +85 °C
+  - Junction Temperature (Tj): 150 °C
+
+- **Package Type:**
+  - Dimensions: 3.45 mm x 3.45 mm x 1.03 mm (L x W x H)
+
+- **Special Features:**
+  - Excellent heat dissipation from LED chip operating under 3000 mA
+  - High luminous output
+  - No UV emissions
+  - Environmentally certified encapsulated materials
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Description:
+The TX-3535W10VRA1-NG4CD-01 is a high-power white LED component designed for various lighting applications. It utilizes Gallium Nitride (GaN) as the chip material, providing efficient light emission with a high luminous output. The LED is encapsulated in environmentally friendly materials, making it suitable for applications that require compliance with environmental standards.
+
+#### Typical Applications:
+- **Auxiliary Lighting:** Used in applications where additional lighting is needed, such as in automotive or decorative lighting.
+- **Architectural Lighting:** Ideal for enhancing the aesthetic appeal of buildings and structures through effective illumination.
+- **General Lighting:** Suitable for general-purpose lighting solutions in residential, commercial, and industrial settings.
+
+This LED component is particularly advantageous for applications requiring high brightness and energy efficiency, making it a versatile choice for modern lighting solutions.

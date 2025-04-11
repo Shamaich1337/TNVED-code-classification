@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-4010-028-22 production of HONGFA from the text:电磁继电器，4 Z/10 A\nRELAYNON-LATCH，4PDT/10AMP\n·极性，单稳态密封电磁继电器\nPolarized, non-latching hermetically sealed relay\n·触点类型\nContact arrangement4Z（4PDT）\n·线圈供电类型\nCoil supply直流电（ Direct current ）\n·认证或者符合的规范\nQualified or in accordance withGJB2888-1997\nequalMIL-PRF-83536\n关键技术参数\nPRINCIPAL TECHNICAL CHARACTERISTICS\n应用指南\nApplication Notes ：\n001\n007\n101\n102\n103D\nS320·触点额定值\nContacts rated at10 A/ 28 Vd.c. or 115 Va.c.-400 Hz\n·重量\nWeight80 g max\n·外形尺寸\nDimensions of case26×26×26mm\n·平衡力式磁路设计，全金属熔焊密封\nBalanced-force design, all welded construction\n·气密封，防腐蚀金属外壳设计\nHermetically sealed, corrosion protected metal can\n·先断后合\nNo make before break\n触点电气特性/触点额定值\nCONTACT ELECTRICAL CHARACTERISTICS / CONTACT RATING\n最小动作次数\nMinimum operating cycles负载类型\nType of load28 Vd.c.115/200Va.c.\n400Hz\n100 000次（cycles）阻性\nResistive load10 A 10 A\n20 000次（cycles）感性\nInductive load8 A 8 A\n100 000次（cycles）电动机\nMotor load4 A 4 A\n100 000次（cycles）灯负载\nLamp load2 A 2 A\n50次（cycles）阻性过负载\nResistive overload40 A -MG4010M\n电磁继电器，4 Z/10 A\nRELAYNON-LATCH，4PDT/10AMP\n线圈特性（Vd.c.）\nCOIL CHARACTERISTICS\n规格序号\nCoil voltage006 012 024 028\n线圈额定工作电压\nNominal operating voltage6 12 24 28\n最大工作电压， +125℃下\nMaximum operating voltage at +125 ℃7.3 14.5 26.0 29.0(8)\n最大动作电压， +125℃下（线圈冷态）\nMaximum pickup voltage at +125 ℃(Cold coil)4.5 9.0 19.0 20.0\n最大动作电压，高温试验\nMaximum pickup voltage at High temperature test5.0 9.9 20.0 21.0\n最小释放电压， +25℃下\nMinimum drop-out voltage at +25 ℃0.40 0.75 1.90 2.3\n最小释放电压， -65℃下\nMinimum drop-out voltage at -65 ℃0.25 0.50 1.20 1.50\n线圈电阻， （ 1±10%）Ω， +25℃下\nCoil resistance in ohms (1 ±10%) at +25 ℃20 80 235 320\n通用特性\nGENERAL CHARACTERISTICS\n温度范围 /Temperature range -65℃～ +125℃\n介质耐电压 @海平面 /Dielectric strength at sea level\n-触点对外壳、触点组间 /Contacts to ground and between contacts\n-线圈对外壳 /Coil to ground1 250 Vr.m.s./50 Hz\n1 000 Vr.m.s./50 Hz\n介质耐电压 @25,000 米高空（所有点）\nDielectric strength at altitude 25,000 m (all points) 350 Vr.m.s./50 Hz\n密封性 /Seal ≤1×10-3Pa·cm3/s\n绝缘电阻，初始值， @500 Vd.c.\nInitial insulation resistance at 500 Vd.c.≥100 MΩ\n正弦振动 /Sinusoidal vibration10 Hz～3 000 Hz\n30 g\n随机振动 /Random vibration50 Hz～2 000 Hz\n0.4 g2/Hz\n冲击 /Mechanical shock 200 g/6 ms\n稳态加速度 /Acceleration 50 g\n振动与冲击条件下触点断开时间最大值\nMaximum contact opening time under vibration and shock≤10μs\n额定工作电压下的动作时间\nOperate time at nominal voltage≤15 ms\n释放时间 /Release time ≤15 ms\n回跳时间 /Bounce time ≤2 ms\n触点接触电阻或压降 /Contactresistanceorvoltagedrop\n-初始值 @6 Vd.c.，10 mA/ Initial value at 6 V,10 mA\n-寿命后 @额定阻性电流下 /After life atnominalresistivecurrent≤0.02 Ω\n≤0.125 VMG4010M\n电磁继电器，4 Z/10 A\nRELAYNON-LATCH，4PDT/10AMP\n安装方式\nMOUNTING STYLESDimensions in mm\nTolerances, unless otherwise specified,See GB/T 1804:Table 1,C26max\n1\n23.8\n35.5\n36.7\n44max3.81\n15.8826max\n26max4.4\n安装方式0\nMOUNTING STYLE 0安装方式1\nMOUNTING STYLE 1\n1\n4\n23.8\n35.5\n36.7\n44max3.81\n15.884.4\n安装方式2\nMOUNTING STYLE 226max\n44max135.536.715.8823.8\n3.81\n4.4\n1\n23.8\n35.5\n36.7\n44max3.81\n15.889.5M3-6h1.2\n17.58.7517.54.4\n安装方式4\nMOUNTING STYLE 4安装方式9\nMOUNTING STYLE 9安装方式3\nMOUNTING STYLE 3Φ7.826max\n26max\n引出脚形式\nTERMINAL TYPES\n5.085.086.9\n14× Φ1.57\n6.9\n14× Φ1.57±0.06\n1.37.9\n14× Φ1.57异色绝缘子\nCONTRASTING BEAD\n硅胶垫片\nSILICONE GASKET\n焊钩式引出端\nSOLDER HOOKS\n引出端形式4A\nTERMINAL TYPE 4A焊针式引出端\nTIN PLATED PINS\n引出端形式2\nTERMINAL TYPE 2镀金插入式引出端\nGOLD PLATED PINS\n引出端形式9\nTERMINAL TYPE 9异色绝缘子\nCONTRASTING BEADMG4010M\n电磁继电器，4 Z/10 A\nRELAYNON-LATCH，4PDT/10AMP\n电路图\nSCHEMATIC DIAGRAM\n底视电路图，线圈去激励状态下\nBOTTOM VIEW ，DE-ENERGIZED COIL\n+X1-X2 D1 23\nC\nB\nA\n订货标记\nORDERING INFORMATION\n1.用于 PCB安装的隔离垫片当客户有需求时可提供，其它类型的垫片请与工厂联系。\nIsolation spacer pads for PCB mounting available on request, other spacer pads are available.\n2.若有不同安装方式与引出端形式的需求，请与工厂联系。\nFor other mounting styles or terminal types,please contact the factory.\n3.可选项｜ Options：\nC: 限时电流继电特性：15 A/1 h,50 A/5 s,75 A/1.2 s。\nCircuit breaker compatibility: 15 A/1 h,50 A/5 s,75 A/1.2 s.\nD: 低电平能力 30 μA/30 mV - 没有 D，最小电流为 10 mA。\nLow level 30 μA/30 mV – without D option, the minimum current is 10 mA.\n4.认证与质量等级：请与工厂联系。\nQualification and quality levels: Contact the factory.\n5.对线圈施加反极性不会损坏继电器。\nThe relay will not be damaged by application of reverse polarity to coil.说明\nNOTESMG4010M\nMG 4010M  -028  -3  2   -C -XXX\n继电器型号｜ Basic series designation\n1.线圈规格｜ Coil voltage （006,012,024,028 ）\n2.安装方式｜ Mounting styles （0,1,2,3,4,9 ）\n3.引出脚形式｜ Terminal types （2,4A,9）\n4.详见说明第 3 条｜ See note 3 below\n5.详见说明第 4 条｜ See note 4 below\n例如｜Example： MG4010M-028-32\n电磁继电器，4 Z/10 A\nRELAYNON-LATCH，4PDT/10AMP\n6.继电器线圈时间常数 L/R：14 ms。\nCoil time constant L/R: 14 ms.\n7.螺钉 M3 的推荐扭矩为：0.5 N·m。\nRecommended torque level for screws M3 : 0.5 N ·m.\n8.当环境温度不超过+85 ℃时，最大工作电压为32 Vd.c.。\nWhen maximum ambient temperature does not exceed +85 ℃the maximum operating voltage is 32 Vd.c.MG4010M\n'}]
+!==============================================================================!
+### Component Summary: MG-4010-028-22 (HONGFA)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Nominal Operating Voltage: 28 V DC
+  - Maximum Operating Voltage at +125°C: 29.0 V DC
+  - Maximum Pickup Voltage (Cold Coil) at +125°C: 20.0 V DC
+  - Minimum Drop-out Voltage at +25°C: 2.3 V DC
+
+- **Current Ratings:**
+  - Contact Rating: 10 A at 28 V DC or 115 V AC (400 Hz)
+  - Resistive Load: 10 A
+  - Inductive Load: 8 A
+  - Motor Load: 4 A
+  - Lamp Load: 2 A
+
+- **Power Consumption:**
+  - Coil Resistance at +25°C: 320 Ω
+  - Coil Time Constant (L/R): 14 ms
+
+- **Operating Temperature Range:**
+  - -65°C to +125°C
+
+- **Package Type:**
+  - Dimensions: 26 mm x 26 mm x 26 mm
+  - Weight: 80 g max
+
+- **Special Features:**
+  - Polarized, non-latching hermetically sealed relay
+  - Balanced-force design with all welded construction
+  - Hermetically sealed, corrosion-protected metal can
+  - No make before break contact arrangement
+  - High dielectric strength: 1,250 Vr.m.s. (contacts to ground)
+
+- **Moisture Sensitive Level:**
+  - JEDEC J-STD-020E: Not specified in the provided text.
+
+#### Description:
+The MG-4010-028-22 is a polarized, non-latching electromagnetic relay with a 4PDT (4 Pole Double Throw) contact arrangement. It is designed for switching applications where reliable operation is required under varying environmental conditions. The relay features a hermetically sealed construction, ensuring protection against moisture and corrosion, making it suitable for harsh environments.
+
+#### Typical Applications:
+This relay is commonly used in:
+- **Power Management:** Switching circuits in power supplies and control systems.
+- **Signal Processing:** Used in telecommunications and data transmission systems.
+- **Industrial Automation:** Control of motors, lamps, and other electrical loads in industrial settings.
+- **Aerospace and Military Applications:** Due to its compliance with military specifications (MIL-PRF-83536), it is suitable for use in aerospace and defense systems where reliability is critical.
+
+Overall, the MG-4010-028-22 relay is a robust component ideal for applications requiring high reliability and performance in demanding conditions.

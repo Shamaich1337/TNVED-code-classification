@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ETD54 clip production of XUYI OUGE ELECTRONIC CO.,LTD. from the text: \n \n 型号  ETD54    \n \nDRAFTED BY  TOLERANCE ANGLR:\n   ± 1 º  MODEL NAME ： \n     E T D 5 4  c l i p  \nCHECKED BY  0＜L≤4   ±0.1 \n4＜L≤16  ±0.2 \n16＜L≤63  ±0.3 Pin pitch  \n±0.20 UNIT: \n    \nMM BOBBIN MATERIAL: \nS/S UL REC: \n \nUL 94V-0 \n 盱眙欧歌电子有限公司\n  XUYI OU GE ELECTRONIC CO.,LTD. \n  TEL: 0760-87867920/87867921  FAX:0760-22286951\n  E m a i l：sales03@ougedianzi.com SCALE:\n   1 / 1   PIN TENSION LOAD: \n1.5 KGS MIN \n DATE: \n2010.6.13 DRAWING NO: REV . A \n1 \n'}]
+!==============================================================================!
+### Component Summary: ETD54 Clip
+
+**Manufacturer:** XUYI OUGE ELECTRONIC CO., LTD.
+
+#### Key Specifications:
+- **Model Name:** ETD54 Clip
+- **Pin Tension Load:** 1.5 KGS minimum
+- **Bobbin Material:** Stainless Steel (S/S)
+- **UL Rating:** UL 94V-0 (Flame Retardant)
+- **Tolerance Angles:** 
+  - ±1º for overall dimensions
+  - ±0.1 mm for lengths up to 4 mm
+  - ±0.2 mm for lengths between 4 mm and 16 mm
+  - ±0.3 mm for lengths between 16 mm and 63 mm
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+#### Description:
+The ETD54 clip is a mechanical component designed for securing and supporting electronic assemblies. It is typically used in conjunction with bobbins and transformers, providing a stable connection and ensuring that components remain in place during operation. The clip is made from stainless steel, which offers durability and resistance to corrosion.
+
+#### Typical Applications:
+- **Power Management:** The ETD54 clip is often used in power supply circuits, particularly in transformers and inductors, where it helps maintain the integrity of the assembly.
+- **Electronics Assembly:** It is suitable for various electronic devices where secure mounting of components is necessary.
+- **Industrial Equipment:** The clip can be utilized in industrial applications where robust mechanical support is required for electronic components.
+
+This summary provides a concise overview of the ETD54 clip, highlighting its specifications, functionality, and typical applications in the electronics industry.

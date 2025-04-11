@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-CRS-110-SS125-99/R production of DECIGN from the text:A B C\n4,25 1,25 3,05 02\n5,50 2,50 4,30 03\n6,75 3,75 5,55 04\n8,00 5,00 6,80 05\n9,25 6,25 8,05 06\n10,50 7,50 9,30 07\n11,75 8,75 10,55 08\n13,00 10,00 11,80 09\n14,25 11,25 13,05 10\n15,50 12,50 14,30 11\n16,75 13,75 15,55 12\n18,00 15,00 16,80 13\n19,25 16,25 18,05 14\n20,50 17,50 19,30 15No. of \nPinsDimension mm\nRoHS\ncompliant\nTP-CRS-1xx-SS125-xx / X\nTP-CRS-1xx-S125TomTomTomTomTom\nTP-CRS-1xx-SS125-xx/RTP-CRS-SS125Tom\nJerry\nPaul\n\n'}]
+!==============================================================================!
+### Component Summary for TP-CRS-110-SS125-99/R
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, this would be found in the full datasheet.
+- **Current Ratings:** Not explicitly stated in the provided text; typically, this would be found in the full datasheet.
+- **Power Consumption:** Not explicitly stated in the provided text; typically, this would be found in the full datasheet.
+- **Operating Temperature Range:** Not explicitly stated in the provided text; typically, this would be found in the full datasheet.
+- **Package Type:** Not explicitly stated in the provided text; typically, this would be found in the full datasheet.
+- **Special Features or Notes:** RoHS compliant.
+- **Moisture Sensitive Level (MSL):** Not explicitly stated in the provided text; typically, this would be found in the full datasheet.
+
+#### Component Description:
+The TP-CRS-110-SS125-99/R is a connector component from DECIGN, specifically part of the TP-CRS series. This series appears to be a type of connector with multiple pin configurations, as indicated by the varying dimensions and pin counts listed in the text. The "SS" in the product code may suggest a specific style or configuration of the connector.
+
+#### Typical Applications:
+Connectors like the TP-CRS-110-SS125-99/R are commonly used in various electronic applications where reliable electrical connections are required. Typical applications may include:
+- **Data Communication:** Used in devices that require data transfer between components.
+- **Power Distribution:** Connecting power supplies to various electronic modules.
+- **Signal Processing:** Facilitating connections in signal processing circuits.
+- **Consumer Electronics:** Found in devices such as computers, smartphones, and other electronic gadgets.
+
+### Conclusion:
+The TP-CRS-110-SS125-99/R is a connector component that is RoHS compliant, suitable for various applications in electronics. For detailed specifications such as voltage ratings, current ratings, and operating temperature range, it is recommended to refer to the complete datasheet from DECIGN.

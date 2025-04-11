@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DAI2-6A production of DOREXS from the text:DAI2SeriesEMIpowernoisefilters\nFeatures\n■SinglePhaseAC220VEMIFilters/NoiseFilters\n■RatedCurrent：1A---10A\n■pininterfacedesign\n■EMIFilterwithagoodsuppressiontocommon-modeanddifferential-mode\ninterference\nProductintroduction\nDAI2SeriesEMIpowerlinenoisefilterischaracterizedbyStandardIECsocketinputinterface,modulardesign,smallvolume,lowprice,and\ngoodperformanceinsolvinghighfrequencyinterferenceof1mhz-30mhz.Theyhavebeenwidelyusedinavarietyofelectricalappliances,testing\nequipment,medicalequipment,animationentertainmentgamemachine,fireprotectionsystem,urbansecuritymonitoringsystem,audioequipment,\nandotherequipmentincomplexelectromagneticinterference\neenvironment,.anditisanemifilterwithgoodsuppressionofcommonmodeanddifferentialmodeinterference.Thisproductissimpleindesig\nn,buthasbetterperformance,convenientconnection,convenientuseandlowprice.DAI1SeriesEMIpowerlinenoisefilterisverypopularo\nverseasmarket,andmanycustomersallovertheworldcontactusforbulkpurchase.Ourproductsareofhighqualityandaffordable.Weare\nalsoaprofessionalmanufacturerinChina.OurMOQisnothigh.Ifyouneedsamples,youcancontactusfirst.Wewillprovidesamplesforyo\nutocheckthequality.\nApplicationcases\nRatedvoltage 115/250VAC\nLineFrequency 50/60Hz\nTestVoltage 1500VDC(line/line)\n2150VAC(line/ground)\nInsulationResistance >50MΩ@500VDC\nClimaticcategory 25/085/21\nPartNo. RatedCurrentLeakage\nCurrentElectricalSchematicsSafety\ncertificationRemark\nDAI2-1A 1A <0.5mA\nCUL，CE\nCQC,ROHSParameterssupport\ncustomizationDAI2-3A 3A <0.5mA\nDAI2-6A 6A <0.5mA\nDAI2-10A 10A <0.5mA\n\nInsertionLoss\nDAI2-1A DAI2-3A\nDAI2-6A DAI2-10A\n\n'}]
+!==============================================================================!
+### Component Summary for DAI2-6A
+
+**Component Type:** EMI Power Line Noise Filter
+
+**Description:**
+The DAI2-6A is part of the DAI2 Series of EMI power line noise filters designed to suppress electromagnetic interference (EMI) in electrical systems. It features a standard IEC socket input interface and is modular in design, making it compact and cost-effective. The filter is specifically engineered to mitigate both common-mode and differential-mode interference, making it suitable for a wide range of applications.
+
+**Key Specifications:**
+- **Voltage Ratings:** 115/250 VAC
+- **Current Ratings:** 6A
+- **Power Consumption:** Not explicitly stated; however, it is designed to handle up to 6A of current.
+- **Operating Temperature Range:** Climatic category 25/085/21 (indicating a temperature range of -25°C to +85°C).
+- **Package Type:** Modular design with standard IEC socket interface.
+- **Special Features:**
+  - Good suppression of common-mode and differential-mode interference.
+  - Low leakage current (<0.5 mA).
+  - Insulation resistance >50 MΩ @ 500 VDC.
+  - Test voltage: 1500 VDC (line/line), 2150 VAC (line/ground).
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Typical Applications:**
+The DAI2-6A EMI filter is widely used in various applications, including:
+- Electrical appliances
+- Testing equipment
+- Medical equipment
+- Animation and entertainment gaming machines
+- Fire protection systems
+- Urban security monitoring systems
+- Audio equipment
+
+These applications benefit from the filter's ability to reduce high-frequency interference in environments with complex electromagnetic interference, ensuring reliable operation and improved performance of electronic devices. 
+
+Overall, the DAI2-6A is a versatile and effective solution for managing EMI in a variety of electronic systems, making it a popular choice in both domestic and international markets.

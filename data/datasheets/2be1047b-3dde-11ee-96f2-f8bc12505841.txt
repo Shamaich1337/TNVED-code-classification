@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 20900003 production of RECOM from the text:www.recom-power.com REV.:  0/2023 P-1\nAccessoryFeatures\nDIN Rail \nMounting Kit• Accessor y fitting to panel-mount modules /PMx\n•\n Mating to \nTS 35 according to DIN EN 60715\n•\n Kit of the clip includes appropriate scr\news\nTS 35 DIN Rail \nClip KitR-DR/CLIP\nDescription\nThe R-DR/Clip is the accessory for the convertibles under RECOM´s panel-mount \nAC/DC modules to clip them onto TS 35 DIN rails. It comes as a kit together with the appropriate screws for fixing onto the panel mount series with the suffix “/PMx”.\nDIMENSION AND PHYSICAL CHARACTERISTICS\nParameter Type Value\nDimension (LxWxH) 48.0 x 25.0 x 9.0mm\nMaterialsclip aluminum\nscrews low carbon steel\nWeight clip 20.8g typ.\n Dimension Drawing (mm)\n25 ±0.502.3 ±0.15\n12.5 ±0.50\n48 ±1.020 ±0.3017.78±0.30\n9 ±0.50\n1 ±0.052x Ø3.2\nØ3.2±0.2\nSECTION A-AØ6.2±0.2112.6°\nA\nAProduct Seriesnom. Input \nVoltage [VAC]nom. Output \nVoltage [VDC]Max. Tightening \nTorque [Nm]Product Datasheet \nLink\nRACM30-K/277/PMP 85-305 5, 12, 15, 24 0.7 RACM30-K/277.pdfCompatible Converters\nPreliminary\nwww.recom-power.com REV.:  0/2023 P-2\nAccessory\nSpecifications (measured @ Ta= 25°C, nom. Vin, full load and after warm-up unless otherwise stated) R-DR/CLIPThe product information and speciﬁcations may be subject to changes even without prior written notice.The product has been designed for various applications; its suitability lies in the responsibility of each customer. The \nproducts  are not authorized for use in safety-critical applications without RECOM’s explicit written consent. A safety-critical application is an application where a failure may reasonably be expected to endanger or cause \nloss of life, inﬂict bodily harm or damage property. The applicant shall indemnify and hold harmless RECOM, its afﬁliated companies and its representatives against any damage claims in connection with the unauthorized \nuse of RECOM products in such safety-critical applications.PACKAGING INFORMATION\nParameter Type Value\nPackaging Dimension (LxWxH) cardboard box 112.0 x 70.0 x 72.0mm\nPackaging Quantity cardboard box24pcs R-DR/CLIP (each clip in one airbag)\n48pcs M3X0.5 countersunk head screws (all screws in  one airbag)EXPLODED VIEW\nR-DR/CLIP accessory part\n2x M3X0.5   length: 8mm\nCountersunk head with recessed headScrew driver size: P1Torque: 0.7Nm max.RACM30-K/277/PMP module\nPreliminary\n'}]
+!==============================================================================!
+### Component Summary for R-DR/CLIP (Product Code: 20900003)
+
+#### Key Specifications:
+- **Voltage Ratings**: Not applicable (accessory component)
+- **Current Ratings**: Not applicable (accessory component)
+- **Power Consumption**: Not applicable (accessory component)
+- **Operating Temperature Range**: Not specified in the provided text
+- **Package Type**: Clip kit for DIN rail mounting
+- **Special Features or Notes**: 
+  - Designed for panel-mount AC/DC modules with the suffix “/PMx”.
+  - Includes appropriate screws for installation.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The R-DR/Clip is an accessory designed for mounting RECOM's panel-mount AC/DC modules onto TS 35 DIN rails, compliant with DIN EN 60715 standards. It is a clip kit that facilitates the secure installation of these modules, ensuring they are properly fixed in place. The kit includes the necessary screws for attachment.
+
+#### Typical Applications:
+The R-DR/Clip is primarily used in electrical and electronic installations where AC/DC power modules need to be mounted securely on DIN rails. Typical applications include:
+- Power management systems
+- Industrial automation
+- Control panels
+- Electrical distribution systems
+
+This accessory is essential for ensuring that power modules are installed safely and efficiently in various electronic and electrical setups, contributing to organized and reliable system designs.

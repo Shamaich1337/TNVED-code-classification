@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-GSM-WiFi-R0-02W production of DOLIN GROUP LIMITED from the text:Special for MACR OGROU P    E-mail: wireless@macrogrou p.ru    Tel: +7 (812) 370 60 70  \n \n \nDATASHEET    \nMMMGGG---GGGSSSMMM---WWWiiiFFFiii---RRR000---000222WWW   \nType  GSM / Wi-Fi Rubber  antenna  \nFrequencies  700-2700  MHz \nBrand Name  MG ANTENNAS  \n \n \n \n \nRevision #  Content  Page  Date  \n0 First, document  - 13.08.2018 \n \n1. SPECIFICATION  \n1.1 Electrical Specifications  \n                                                                        \n 1.2 Mechanical specification s \nCable  (type and length )  - \nConnector   SMA  straight  male  Gold  or R/A \nHousing  Color  White \nMounting  Connector Mount  \nDimensions  50*17 mm \nWeight <10g  \n   \n1.3 Environmental specifications  \n \n \n \n \n \n2. MEASUREMENT S \nCharacteristic curve  Frequen cy 700-960/1710 -1900/2400 -2500 MHz \nPolari zation  Vertical  \nGain  ~2.0 dBi \nMax p ower  50 W \nVSWR  2.0 :1 \nImpedance  50 Ω \nOperating Temperature , ℃ -40 ~ + 85 \nOperating Humidity, %  0 ~ 95  \nStorage Temperature , ℃ -40 ~ + 85 \nStorage Humidity, %  0 ~ 95  \n \n \n \n \n \n                                      \n \n'}]
+!==============================================================================!
+### Component Summary: MG-GSM-WiFi-R0-02W
+
+#### Key Specifications:
+- **Type**: GSM / Wi-Fi Rubber Antenna
+- **Frequencies**: 700 - 2700 MHz
+- **Connector**: SMA straight male (Gold) or Right Angle (R/A)
+- **Housing Color**: White
+- **Dimensions**: 50 mm x 17 mm
+- **Weight**: < 10 g
+- **Gain**: ~2.0 dBi
+- **Maximum Power**: 50 W
+- **Voltage Standing Wave Ratio (VSWR)**: 2.0:1
+- **Impedance**: 50 Ω
+- **Operating Temperature Range**: -40°C to +85°C
+- **Operating Humidity**: 0% to 95%
+- **Storage Temperature Range**: -40°C to +85°C
+- **Storage Humidity**: 0% to 95%
+- **Moisture Sensitive Level**: Not specified in the provided data.
+
+#### Description:
+The MG-GSM-WiFi-R0-02W is a rubber antenna designed for GSM and Wi-Fi applications. It operates across a wide frequency range from 700 MHz to 2700 MHz, making it suitable for various wireless communication standards. The antenna features a vertical polarization and is designed to provide a gain of approximately 2.0 dBi, which enhances the signal strength for better communication performance.
+
+#### Typical Applications:
+This antenna is typically used in wireless communication systems, including:
+- Mobile communication devices (GSM)
+- Wi-Fi routers and access points
+- IoT devices requiring wireless connectivity
+- Any application where reliable wireless signal transmission is necessary, particularly in environments with varying temperature and humidity conditions.
+
+The MG-GSM-WiFi-R0-02W is ideal for both indoor and outdoor applications due to its robust design and wide operating temperature range, making it a versatile choice for various electronic projects and commercial products.

@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FGG.1B.305.CLAD62Z production of LEMO from the text:FGG.1B.305.CLAD62Z\nMECHANICAL DETAILS\nFG* : Straight plug \n cable collet and nut for fitting a \nbend relief \n1 key  (alpha=0, plug: male \ncontacts, receptacle: female \ncontacts)\nBrass (chrome plated) shell and \ncollet nut, nickel plated brass \nlatch sleeve and mid pieces\n5.3 - 6.2 mm\nZ  : Nut for fitting a bend reliefPERFORMANCE DETAIL\nShell Style Model1B.305 : 5 Low Voltage\nL: PEEK\nKeying\nSolder\nHousing Material 5000\n0.9 mm (0.035in)\nCable Fixing0.8 mm (0.031in)\nVariant 20.34 mm^2 (AWG 22)\nA\n0.34 mm^2 (AWG 22)\n4.8 mOhmOTHER CHARACTERISTICS\nInsert Libellé\nInsulator <=95% [at 60 deg C /140 F]\nSpecifications 15 g [10 Hz - 2000 Hz]\nContact Type:100 g [ 6 ms]\nMax. Matings:>144 hr\nContact Dia.:50/175/21\nBucket Dia.:75 dB (10 MHz)\nMax. Solid 40 dB (1 GHz)\nL\nMax. Stranded 50\n9\nR (max):\n 0.35\nShell Style/Model\nHumidity (max):\nVibration:\nShock Resistance:\nSalt Spray \nClimatical \nShielding (min):\nShielding (min):\nM\nIP Rating\n10\n 0.39\nS1\n31\n 1.22\nS2\n42\n 1.65\n12\n 0.47Mm.\nIn.\nAvailable Download\n Related links\nunipole_multipole.pdf\nContact\nQuote Request\nCatalogs Downloads\nCatalogs Requests\nSample Request\n3D drawings\n'}]
+!==============================================================================!
+### Component Summary: FGG.1B.305.CLAD62Z
+
+#### Key Specifications:
+- **Voltage Ratings**: Low Voltage (specific voltage rating not provided)
+- **Current Ratings**: 
+  - Contact Resistance: 4.8 mOhm
+  - Max. Solid Wire: 40 dB (1 GHz)
+  - Max. Stranded Wire: 50
+- **Power Consumption**: Not specified in the provided text.
+- **Operating Temperature Range**: Insulator rated up to 95% humidity at 60°C (140°F).
+- **Package Type**: Straight plug with cable collet and nut for fitting a bend relief.
+- **Special Features/Notes**: 
+  - Keying: 1 key (alpha=0)
+  - Shell and collet nut made of brass (chrome plated), with nickel plated brass latch sleeve and mid pieces.
+  - Designed for cable fixing with a diameter range of 5.3 - 6.2 mm.
+  - Insert Libellé and various mechanical and performance characteristics including vibration and shock resistance.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The FGG.1B.305.CLAD62Z is a straight plug connector designed for low voltage applications. It features a cable collet and nut that allows for the fitting of a bend relief, which helps to protect the cable from stress and strain. The connector is equipped with male contacts on the plug side and female contacts on the receptacle side, ensuring secure connections. The housing is made from durable materials, including brass and PEEK, which provide robustness and reliability in various environments.
+
+#### Typical Applications:
+This connector is typically used in applications requiring reliable electrical connections in environments where low voltage is present. Common applications include:
+- **Industrial Equipment**: For connecting sensors and actuators in machinery.
+- **Telecommunications**: In communication devices where low voltage connections are necessary.
+- **Consumer Electronics**: For connecting various electronic devices that require secure and stable connections.
+- **Automotive**: In automotive electronics for connecting components that operate at low voltage.
+
+Overall, the FGG.1B.305.CLAD62Z connector is designed for versatility and durability, making it suitable for a wide range of applications where reliable electrical connections are critical.

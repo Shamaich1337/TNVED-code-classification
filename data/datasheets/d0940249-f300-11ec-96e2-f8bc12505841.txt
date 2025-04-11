@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BAV99 production of YANGZHOU YANGJIE ELECTRONIC from the text:BAV99                        \xa0\n\xa0\n 1 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1591  \nRev.1.8,16-Feb-22 www.21yangjie.com\nDual Switching Diode  \n \nFeatures                                  \n● Epoxy meets UL-94 V- 0 flammability rating  \n● Moisure Sensitivity Level 1 \n● Fast switching speed \n● High Conductance \n● Surface mount package ideally Suited for Automatic  \nInsertion \n  \nMechanical Data \n● Package : SOT-23 \n● Terminals : Tin plated leads, solderable  per  \n                       J-STD-002 and JESD22-B102 \n● Polarity: Cathode line denote s the cathode end \n● Marking: A7 \n \n \n \n \n \n■Maximum Ratings (Ta=25℃ Unless otherwise specified) \nItem Symbol Unit Value \nPeak Reverse Voltage V RRM V 100 \nReverse Voltage V R V 75 \nForward Continuous Current@f>=50Hz, Per Leg I F mA 200 \nNon-Repetitive Peak Forward Surge Current \n@8.3ms, Half sine-wave, Per Leg IFSM A  2 . 0  \nPower Dissipation P D mW 350 \nMaximum Thermal Resisance R thJA ℃/W 357 \nOperating Junction Temperature T J ℃ -55 to +150  \nStorage Temperature T STG ℃ -55 to +150 \n \n■Ordering Information (Example) \nPREFERED P/N PACKING  \nCODE UNIT WEIGHT(g) MINIMUM \nPACKAGE(pcs)INNER BOX \nQUANTITY(pcs)OUTER CARTON \nQUANTITY(pcs) DELIVERY \nMODE \nBAV99 F2 Approximate 0.008 3000 30000 120000 7” reel \n \n      COMPLIANT RoHS  \n\nBAV99                        \xa0\n\xa0\n 2 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1591  \nRev.1.8,16-Feb-22 www.21yangjie.com\n■Electrical Characteristics （Ta=25℃ Unless otherwise specified, Per Leg ） \nItem Symbol Unit Conditions Value \nReverse Voltage V R V  I R=100uA 75 \nForward Voltage  V F V  IF=1mA  0.715 \nIF=10mA  0.855 \nIF=50mA  1.00 \nIF=150mA  1.25 \nMaximum DC Reverse Current I R u A  V R=75V 2.5 \nTypical Junction Capacitance C J pF f=1.0MHz, V R=0V 4 \nReverse Recovery Time T rr n s  IF=10mA, V R=6V, R L=100Ω, \nIrr=1mA 4 \n \n■ Typical Characteristics (Per Leg) \n \n \n \n  \n \n \n \n\nBAV99                        \xa0\n\xa0\n 3 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1591  \nRev.1.8,16-Feb-22 www.21yangjie.com\n■SOT-23 Package Outline Dimensions \n \n \n \n■SOT-23 Suggested Pad Layout \n \nBAV99                        \xa0\n\xa0\n 4 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1591  \nRev.1.8,16-Feb-22 www.21yangjie.com\nDisclaimer \n \nThe information presented in this  document is for reference onl y. Yangzhou Yangjie Electronic Technology Co., Ltd. reserves th e \nright to make changes without not ice for the specification of t he products displayed herein to improve reliability, function o r design \nor otherwise.     The product listed herein is designed to be used with ordinary electronic equipment or devices, and not designed to be used wi th \nequipment or devices which require high level of reliability an d the malfunction of with woul d directly endanger human life (s uch as \nmedical instruments, transportat ion equipment, aerospace machin ery, nuclear-reactor controller s, fuel controller s and other sa fety \ndevices), Yangjie or anyone on its behalf, assumes no responsib ility or liability for any damages resulting from such improper  use \nof sale.    This publication supersedes & r eplaces all information previous ly supplied. For additional information, please visit our websi te \nhttp:// www.21yangjie.com , or consult your nearest Yangjie’s s ales office for further assistance. \n \n'}]
+!==============================================================================!
+### Component Summary: BAV99 Dual Switching Diode
+
+**Manufacturer:** Yangzhou Yangjie Electronic Technology Co., Ltd.  
+**Product Code:** BAV99  
+**Package Type:** SOT-23
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Peak Reverse Voltage (V_RRM): 100 V
+  - Reverse Voltage (V_R): 75 V
+- **Current Ratings:**
+  - Forward Continuous Current (I_F): 200 mA (per leg)
+  - Non-Repetitive Peak Forward Surge Current (I_FSM): 2.0 A (8.3 ms, half sine-wave, per leg)
+- **Power Consumption:**
+  - Power Dissipation (P_D): 350 mW
+- **Operating Temperature Range:**
+  - Junction Temperature (T_J): -55°C to +150°C
+  - Storage Temperature (T_STG): -55°C to +150°C
+- **Thermal Resistance:**
+  - Maximum Thermal Resistance (R_thJA): 357 °C/W
+- **Moisture Sensitivity Level:** 1 (according to JEDEC J-STD-020E)
+
+#### Description:
+The BAV99 is a dual switching diode designed for high-speed switching applications. It features a compact SOT-23 surface mount package, making it suitable for automatic insertion in circuit boards. The diode is characterized by its fast switching speed and high conductance, which are essential for efficient signal processing in electronic circuits.
+
+#### Typical Applications:
+The BAV99 is commonly used in various applications, including:
+- **Signal Switching:** Ideal for switching signals in communication devices.
+- **Clamping and Protection Circuits:** Protects sensitive components from voltage spikes.
+- **Rectification:** Used in power supply circuits for converting AC to DC.
+- **General Purpose Switching:** Suitable for a wide range of electronic applications where fast switching is required.
+
+This diode is compliant with RoHS standards, ensuring it meets environmental regulations for hazardous substances.

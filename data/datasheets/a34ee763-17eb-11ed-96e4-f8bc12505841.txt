@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of GNI090095-P58 production of ELITE PHOTOELECTRIC TECH CO., LTD from the text:                                           GNI090095 -P58 \nWeb：www. emec.cn          Fax：+86-28-87425019        Tel：+86-28-87428329   \n1 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  9-9.5 GHz GaN IMFET  \nKey Features:  \n   Frequency ：9-9.5GHz  \n   Typical Gain ：9dB \n   Typical Output ：58dBm   \n   Typical  Efficiency ：30%    Technology ：0.35um GaN HEMT   \n   Offset：70V/ -1V \n   Packaging Mode: Cermet  \n \n Introduction  \nGNI090095 -P58 is a 9-9.5GHz high power and efficiency GaN IMFET , the bare die inside is using 0.35um \ngate length GaN HEMT  technology 。It works with dual power supply ，Vds= 70V，and can provide  58dBm output \npower in  9-9.5GHz, power gain is  9dB, power added efficiency is 30%. \n \nAbsolute Maximu m Ratings  (TA=25℃)  \nSymbol  Parameter  Value  Mark  \nVd Drain V oltage  210V  \nVg Gate  V oltage  -15V  \nTm Mounting  Temperature  300°C 1min,  N2 Protection  \nTstg Storage Temperature  -55～175°C  \n[1] Higher tha n any v alues above may cause permanent damage 。 \n \nSpecifica tions  (TA=25℃)  \nSymbol  Parameter  Test Condition  Values  \nUnit \nMin Typ Max \nPout Output Power  \nVd=70V \nVg= -1V \n9-9.5GHz  \n10us PW \n1ms duty cycle  58  - dBm  \nGp Power Gain   9 - dB \nPAE Power Added Efficiency   30 - ％ \n△Gp Gain Flatness  -0.5  +0.5 dB \n \n \n \n \n \n                                           GNI090095 -P58 \nWeb：www. emec.cn          Fax：+86-28-87425019        Tel：+86-28-87428329   \n2 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  Typical Performances  \nPout & PAE  \n \n \nDimension (Unit: m m) \n0.05\n0.05A\n0.05A\n1.60\n**4.60+0.25\n-0.15\n8-R0.508-R1.002-0.60±0.05\n17.05(封接框)\n18.65(封接框)\n23.10\n*26.40\n12.69±0.20(陶瓷腔)\n13.95(封接框)\n15.55(封接框)\n17.404-2.60\n8.00\n \n                                           GNI090095 -P58 \nWeb：www. emec.cn          Fax：+86-28-87425019        Tel：+86-28-87428329   \n3 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  Recommended  Circuit  \n \n \nRecommended  component value  \nItem Symbol  Value Unit \nFilter capacito r C1, C2, C4, C5, C6 1000 pF \nFilter capacito r C3, C7 100 pF \nBlocking capacitor  C8，C9 1.0 pF \nStabilizing  resist or R1 15 Ω \nResistor R2 51 Ω \nMicrostrip lin e TL1,  TL2 λ/4（λ is wave length） - \n \nImporta nt using n otes:   \n1) Before instal l the IMFET, carefully checking voltage wavefor m is ne cessary, there shouldn’t \nbe any high overshoot . \n2) Power -on sequence: Vg -->Vd；Power -off sequen ce: Vd-->Vg \n3) When start test the IMFET , firstly should c heck the static condition of IMFET, increase \nvoltage from low to high step by step.  \n4) When static condition is normal, then we can add input voltage, increase input  power step by \nstep.  \n5) This product is IMFET, input and output impendence are 50 Ohm . \n6) The working temperature lower  than 80 oC is preferable .   \n'}]
+!==============================================================================!
+### Component Summary: GNI090095-P58
+
+**Manufacturer:** ELITE PHOTOELECTRIC TECH CO., LTD  
+**Website:** www.emec.cn  
+**Contact:** Tel: +86-28-87428329, Fax: +86-28-87425019  
+**Address:** Hezuo Road 333, High Technology Development District (West), Chengdu, P.R. China  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Drain Voltage (Vd): 70V (Absolute Maximum: 210V)
+  - Gate Voltage (Vg): -1V (Absolute Maximum: -15V)
+  
+- **Current Ratings:** Not explicitly stated, but inferred from power output and voltage ratings.
+
+- **Power Consumption:**
+  - Output Power (Pout): 58 dBm
+  - Power Added Efficiency (PAE): 30%
+
+- **Operating Temperature Range:**
+  - Storage Temperature (Tstg): -55°C to 175°C
+  - Mounting Temperature (Tm): 300°C for 1 minute (N2 Protection)
+  - Recommended Operating Temperature: Below 80°C
+
+- **Package Type:** Cermet (bare die)
+
+- **Special Features:**
+  - Frequency Range: 9-9.5 GHz
+  - Typical Gain: 9 dB
+  - Gain Flatness: ±0.5 dB
+  - Technology: 0.35 µm GaN HEMT
+
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+#### Component Description:
+The GNI090095-P58 is a high-power and high-efficiency Gallium Nitride (GaN) Integrated Metal-Ferroelectric Field Effect Transistor (IMFET) designed for operation in the frequency range of 9 to 9.5 GHz. Utilizing 0.35 µm GaN HEMT technology, this component is capable of delivering significant output power while maintaining efficiency, making it suitable for demanding RF applications.
+
+#### Typical Applications:
+The GNI090095-P58 is primarily used in:
+- **Power Amplification:** Ideal for applications requiring high output power in RF communication systems.
+- **Signal Processing:** Suitable for use in transmitters and amplifiers in telecommunications.
+- **Radar Systems:** Can be utilized in radar applications due to its high frequency and power capabilities.
+- **Wireless Communication:** Effective in various wireless communication systems, including satellite communications and microwave links.
+
+This component is particularly valuable in scenarios where high efficiency and power output are critical, such as in base stations, satellite transponders, and other high-frequency RF applications.

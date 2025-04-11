@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PBS-040-HT500W-95/6E production of E-TEC from the text:P/N (Female) P/N (male)Female Height\nDim. H1male Height\nDim. H2Mating\nHeight Dim.\nH\nPBS-xxx-HT500W-xx/6X 5.00 6.00\nPBS-xxx-HT600W-xx/6X 6.00 7.00\nPBS-xxx-HT700W-xx/6X 7.00 8.00\nPBS-xxx-HT800W-xx/6X 8.00 9.00\nPBS-xxx-HT900W-xx/6X 9.00 10.00\nPBS-xxx-HT500W-xx/6X 5.00 12.00\nPBS-xxx-HT600W-xx/6X 6.00 13.00\nPBS-xxx-HT700W-xx/6X 7.00 14.00\nPBS-xxx-HT800W-xx/6X 8.00 15.00\nPBS-xxx-HT900W-xx/6X 9.00 16.00**Mating Height Dimension\nPBH-xxx-HT400W-xx/6X\nPBH-xxx-HT1000W-xx/6X4.00\n10.00ABC\n13.22 5.715 8.22 020\n16.40 8.890 11.40 030\n19.57 12.065 14.57 040\n22.75 15.240 17.75 050\n25.92 18.415 20.92 060\n29.10 21.590 24.10 070\n32.27 24.765 27.27 080\n35.45 27.940 30.45 090\n38.62 31.115 33.62 100\n44.97 37.465 39.97 120\n51.32 43.815 46.32 140\n57.67 50.165 52.67 160No. of\nContactDimension mm\n'}]
+!==============================================================================!
+### Component Summary: PBS-040-HT500W-95/6E
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Current Ratings:** Not explicitly stated; usually specified in the complete datasheet.
+- **Power Consumption:** Not provided; generally found in the detailed specifications.
+- **Operating Temperature Range:** Not mentioned; refer to the full datasheet for this information.
+- **Package Type:** Not specified; typically detailed in the complete datasheet.
+- **Special Features or Notes:** The component appears to be part of a series of connectors with varying heights and mating dimensions.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not provided; this would be included in the full datasheet.
+
+#### Description:
+The PBS-040-HT500W-95/6E is a connector component from E-TEC, specifically designed for applications requiring reliable electrical connections. The designation indicates it is part of a series of connectors with specific height dimensions for male and female configurations. The "HT" in the part number suggests it is a high-temperature variant, which may be suitable for environments where thermal stability is crucial.
+
+#### Typical Applications:
+Connectors like the PBS-040-HT500W-95/6E are commonly used in various electronic applications, including:
+- **Power Management:** Facilitating connections in power distribution systems.
+- **Signal Processing:** Ensuring reliable signal transmission in communication devices.
+- **Data Storage:** Used in storage devices where secure connections are necessary.
+- **Industrial Equipment:** Often found in machinery and equipment that require robust and durable connectors.
+
+### Additional Notes:
+For precise voltage, current ratings, and other specific parameters, it is recommended to consult the complete datasheet for the PBS-040-HT500W-95/6E. The provided text primarily focuses on the mating height dimensions and does not include comprehensive electrical specifications.

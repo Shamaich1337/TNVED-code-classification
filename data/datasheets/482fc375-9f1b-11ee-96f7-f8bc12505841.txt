@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CSTCR4M00G53093-R0 production of MURATA ELECTRONICS from the text:Product Search Data Sheet\nCSTCR4M00G53093-R0Note: This datasheet may be out of date.\nPlease download the latest datasheet of CSTCR4M00G53093-R0 from the official website of Murata \nManufacturing Co., Ltd.\nhttp://www.murata.com/en/products/productdetail?partno=CSTCR4M00G53093-R0\nAttention\n1.This datasheet is downloaded from the website of Murata Manufacturing Co., Ltd. Therefore, it’s specifications are subject to change or our products in it may be discontinued\nwithout advance notice. Please check with our sales representatives or product engineers before ordering.\n2.This datasheet has only typical specifications because there is no space for detailed specifications.\nTherefore, please review our product specifications or consult the approval sheet for product specifications before ordering.\nURL : https://www.murata.com/Last updated12/20/2023\nApplications\nUnsuitable \nApplicationsPlease be sure to read and comply with \nthese "Precautions for use."\nSpecific \nApplicationsConsumer equipment,Industrial \nequipment except for transportation & \nfacility & energy equipment,Medical \nequipment [GHTF A/B],Mobile \nElectronics\nPlease refer to Our Website and \nspecifications, etc. for information about \nthe performance, functions, quality, \nmanagement, and safety required for \nthe above applications, and use \nProducts after confirming the \nperformance and reliability of the actual \nProduct.\nAppearance & Shape\nPackaging Information\nPackaging SpecificationsStandard \nPacking \nQuantity\nR0 180mm Embossed Tape 3000\nFeatures\nMURATA\'s package technology expertise has enabled the \ndevelopment of the Chip CERALOCK. High- density mounting can \nbe realized because of the small package and the elimination of \nthe need for an external load capacitor.\nFeatures\n1. Oscillation circuits do not require external load capacitors.\n2. Available in a wide frequency range.\n3. Extremely small and have a low profile.\n4. No adjustment is necessary for oscillation circuits.\n1 of 2\nProduct Search Data Sheet\nCSTCR4M00G53093-R0Note: This datasheet may be out of date.\nPlease download the latest datasheet of CSTCR4M00G53093-R0 from the official website of Murata \nManufacturing Co., Ltd.\nhttp://www.murata.com/en/products/productdetail?partno=CSTCR4M00G53093-R0\nAttention\n1.This datasheet is downloaded from the website of Murata Manufacturing Co., Ltd. Therefore, it’s specifications are subject to change or our products in it may be discontinued\nwithout advance notice. Please check with our sales representatives or product engineers before ordering.\n2.This datasheet has only typical specifications because there is no space for detailed specifications.\nTherefore, please review our product specifications or consult the approval sheet for product specifications before ordering.\nURL : https://www.murata.com/Last updated12/20/2023\nSpecifications\nProduct TypeCeramic Resonator \n(CERALOCK)\nSeries CSTCR_G\nFrequency 4.000MHz\nFrequency Tolerance +/-0.50% max.\nOperating Temperature \nRange-20℃~80℃\nFrequency Shift by \nTemperature+/-0.20% max.\nFrequency Aging +/-0.10% max.\nResonant Impedance (R1) 50ohm max.\nBuilt-in Load Capacitance\n(CL1/CL2)15pF\nShape SMD\nWash Not available\nL x W (size) 4.5x2.0mm\nMass 29mg\n2 of 2\n'}]
+!==============================================================================!
+### Component Summary: CSTCR4M00G53093-R0
+
+**Manufacturer:** Murata Electronics  
+**Product Type:** Ceramic Resonator (CERALOCK)  
+**Series:** CSTCR_G  
+
+#### Key Specifications:
+- **Frequency:** 4.000 MHz
+- **Frequency Tolerance:** ±0.50% max
+- **Operating Temperature Range:** -20°C to 80°C
+- **Frequency Shift by Temperature:** ±0.20% max
+- **Frequency Aging:** ±0.10% max
+- **Resonant Impedance (R1):** 50 ohm max
+- **Built-in Load Capacitance (CL1/CL2):** 15 pF
+- **Package Type:** SMD (Surface Mount Device)
+- **Dimensions:** 4.5 mm x 2.0 mm
+- **Mass:** 29 mg
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text
+- **Power Consumption:** Not specified in the provided text
+
+#### Special Features:
+- Oscillation circuits do not require external load capacitors.
+- Available in a wide frequency range.
+- Extremely small and low profile design.
+- No adjustment is necessary for oscillation circuits.
+
+#### Description:
+The CSTCR4M00G53093-R0 is a ceramic resonator, specifically designed for use in oscillation circuits. It is part of Murata's CERALOCK series, which is known for its compact size and integrated load capacitance, allowing for high-density mounting in electronic applications. The resonator operates at a frequency of 4.000 MHz and is characterized by its minimal frequency tolerance and stability over temperature variations.
+
+#### Typical Applications:
+This component is suitable for a variety of applications, including:
+- **Consumer Electronics:** Used in devices such as smartphones, tablets, and other portable gadgets.
+- **Industrial Equipment:** Applicable in various industrial control systems, excluding transportation and energy facilities.
+- **Medical Equipment:** Compliant with GHTF A/B standards, making it suitable for medical devices.
+- **Mobile Electronics:** Ideal for use in mobile devices where space and efficiency are critical.
+
+The CSTCR4M00G53093-R0 is particularly advantageous in applications where space is limited and reliability is essential, due to its small footprint and the elimination of external components.

@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of YJD21701K0BGH production of YANGZHOU YANGJIE ELECTRONIC from the text:YJD21701K0BGH\n1/9\nYangzhouYangjieElectronicTechnologyCo.,Ltd. www.21yangjie.com\nCOMPLIANTRoHS\nSiliconCarbidePowerMOSFET（N-ChannelEnhancement）\nFeatures\n●Highspeedswitching\n●Essentiallynoswitchinglosses\n●Reductionofheatsinkrequirements\n●Maximumworkingtemperatureat175°C\n●Highblockingvoltage\n●FastIntrinsicdiodewithlowrecoverycurrent\n●High-frequencyoperation\n●Halogenfree,RoHScompliant\nTypicalApplications\nTypicalapplicationsareinpowerfactorcorrection(PFC),solar\ninverter,uninterruptiblepowersupply,motordrives,photovoltaic\ninverter,electriccarandcharger.\nMechanicalData\n●Package:TO-263\n●Terminals:Tinplatedleads\n●Polarity:Asmarked\n■MaximumRatings(TC=25℃Unlessotherwisespecified）\nPARAMTETER SYMBOLUNIT VALUE TESTCONDITIONS NOTE\nDevicemarkingcode D21701K0BGH\nDrainsourcevoltage\n@Tj=25°CVDS,maxV 1700 VGS=0V,ID=100uA\nGatesourcevoltage\n@Tj=25°CVGS,maxV-10/+25Absolutemaximumvalues\n(ACf>1Hz,dutycycle<1%)Note1\nGatesourcevoltage\n@Tj=25°CVGS,opV -5/+20 Recommendedoperationalvalues\nContinuousdraincurrent@Tc=25°C\nIDA4.7VGS=20V,Tc=25℃\nFig.14\nContinuousdraincurrent@Tc=110°C 3.5 VGS=20V,Tc=110℃\nPulseDrainCurrent ID,pulseA 7 Limitedbytpw Fig.15\nAvalancheenergy,SinglePulse EASmJ 60 VDD=100V,ID=2.2A\nPowerDissipation PTOTW75 Tc=25°C,Tj=175℃ Fig.13\nOperatingjunctionandStoragetemperaturerangeTj,Tstg°C-55to+175\nSolderingtemperature TL°C 260 1.6mm(0.063’’)fromcasefor10s\nMountingtorque TMNm 0.6M3screwMaximumofmounting\nprocess:3COMPLIANTRoHS\nVDS 1700V\nID（25°C） 4.7A\nRDS(on) 1Ω\n\nYJD21701K0BGH\n2/9\nYangzhouYangjieElectronicTechnologyCo.,Ltd. www.21yangjie.com\nCOMPLIANTRoHS\n■StaticElectricalCharacteristics（Tc=25℃unlessotherwisespecified）\nPARAMTETER SYMBOLUNIT Min. Typ. Max. TestConditions Note\nGatethresholdvoltage VGS(th)V 3.0 VDS=VGS,ID=5mA Fig.4,11\nDrainsourcebreakdownvoltageV(BR)DSSV1700 VGS=0,ID=100uA\nZerogatevoltagedraincurrentIDSSuA<1 50 VDS=1700V,VGS=0V\n10 500VDS=1700V,VGS=0V,Tj=175℃\nGatesourceleakagecurrent IGSSnA 250 VGS=20V,VDS=0V\nCurrentdrainsourceon-state\nresistanceRDSONΩ1 1.4 VGS=20V,ID=2A\nFig.3,5,6\n2.1 VGS=20V,ID=2A,Tj=175℃\nTransconductance gf S 1.0 VDS=20V,ID=2A\n■DynamicElectricalCharacteristics（Tc=25℃unlessotherwisespecified）\nPARAMTETER SYMBOLUNIT Min. Typ. Max. TestConditions Note\nInputcapacitance Ciss\npF222\nVDS=1000V,VGS=0V,Tj=25℃,\nf=1MHz,VAC=25mVFig.10 Outputcapacitance Coss 14\nReversecapacitance Crss 5\nCossstoredenergy EossuJ 8 Fig.12\nGatesourcecharge Qgs\nnC7\nVDS=1200V,VGS=-5/20V,ID=2AFig.16 Gatedraincharge Qgd 16\nGatecharge Qg 31\nInternalGateResistance RG(int)Ω 17 f=1MHz,VAC=25mV\n■SwitchingCharacteristics（Tc=25℃unlessotherwisespecified）\nPARAMTETER SYMBOLUNIT Min. Typ. Max. TestConditions Note\nTurnondelaytime td(on)\nns11\nVDD=1200V,VGS=-4/+20V,ID=2A,\nRL=600Ω,RG(ext)=2.7ΩRisetime tr 12\nTurnoffdelaytime td(off) 20\nFalltime tf 26\nTurnonswitchingenergy Eon\nuJ17VDD=1200V,VGS=0/+20V,ID=2A,\nRg(ext)=2.7ΩFig.17,18\nTurnoffswitchingenergy Eoff 15\nYJD21701K0BGH\n3/9\nYangzhouYangjieElectronicTechnologyCo.,Ltd. www.21yangjie.com\nCOMPLIANTRoHS\n■Bodydiodecharacteristics（Tc=25℃unlessotherwisespecified）\nPARAMTETER SYMBOLUNIT Min. Typ. Max. TestConditions Note\nDiodeforwardvoltage VSD V 3.0 VGS=0V,ISD=0.3A Fig.8\nContinuousdiodeforward\ncurrentIS A 6.6 VGS=0V,Tc=25℃\nReverserecoverytime trr nS 36\nVDS=400V,VGS=0V,ISD=2A,\ndi/dt=300A/uSReverserecoverycharge QrrnC 11\nPeakreverserecoverycurrent Irrm A 0.8\nNote1:WhenusingSiCBodyDiodethemaximunrecommendedVGS=-5V\n■ThermalCharacteristics（Ta=25℃Unlessotherwisespecified）\nPARAMETER SYMBOL UNIT Value\nThermalresistance RθJ-C °C/W 2.0\n■TypicalCharacteristics\nFigure1.OutputCharacteristicsTj=25℃ Figure2.OutputCharacteristicsTj=175℃\n\nYJD21701K0BGH\n4/9\nYangzhouYangjieElectronicTechnologyCo.,Ltd. www.21yangjie.com\nCOMPLIANTRoHS\nFigure3.On-resistancevs.draincurrent Figure4.TransferCharacteristicsforvariousTj\nFigure5.On-resistancevs.gatevoltageforvariousTj Figure6.On-resistancevs.Temperaturefor\nvariousGatevoltage\nFigure7.NormalizedOn-Resistancevs.Temperature Figure8.ReverseOutputCharacteristicsatTj=25°C\n\nYJD21701K0BGH\n5/9\nYangzhouYangjieElectronicTechnologyCo.,Ltd. www.21yangjie.com\nCOMPLIANTRoHS\nFigure9.ReverseOutputCharacteristicsatTj=175°C Figure10.Capacitancesvs.DraintoSourceVoltage\nFigure11.Thresholdvoltagevs.temperature Figure12.OutputCapacitorStoredEnergy\nFigure13.MaximumPowerDissipationDeratingvs.CaseTemperatureFigure14.DrainCurrentDeratingvs.CaseTemperature\n\nYJD21701K0BGH\n6/9\nYangzhouYangjieElectronicTechnologyCo.,Ltd. www.21yangjie.com\nCOMPLIANTRoHS\nFigure15.SafeOperatingArea Figure16.GateChargeCharacteristics\nFigure17.ClampedInductiveSwitchingEnergyvs.DrainCurrentFigure18.ClampedInductiveSwitchingEnergyvs.\nExternalGateResistor(RG(ext.))\nFigure19.TransientJunctiontoCaseThermalImpedance\n\nYJD21701K0BGH\n7/9\nYangzhouYangjieElectronicTechnologyCo.,Ltd. www.21yangjie.com\nCOMPLIANTRoHS\nFigure20.SchematicofResistiveSwitching Figure21.SwitchingTimesDefinition\n\nYJD21701K0BGH\n8/9\nYangzhouYangjieElectronicTechnologyCo.,Ltd. www.21yangjie.com\nCOMPLIANTRoHS\n■OutlineDimensions\n\nYJD21701K0BGH\n9/9\nYangzhouYangjieElectronicTechnologyCo.,Ltd. www.21yangjie.com\nCOMPLIANTRoHS\nDisclaimer\nTheinformationpresentedinthisdocumentisforreferenceonly.YangzhouYangjieElectronicTechnologyCo.,Ltd.reservesthe\nrighttomakechangeswithoutnoticeforthespecificationoftheproductsdisplayedhereintoimprovereliability,functionordesign\norotherwise.\nTheproductlistedhereinisdesignedtobeusedwithordinaryelectronicequipmentordevices,andnotdesignedtobeusedwith\nequipmentordeviceswhichrequirehighlevelofreliabilityandthemalfunctionofwithwoulddirectlyendangerhumanlife(suchas\nmedicalinstruments,transportationequipment,aerospacemachinery,nuclear-reactorcontrollers,fuelcontrollersandothersafety\ndevices),Yangjieoranyoneonitsbehalf,assumesnoresponsibilityorliabilityforanydamagesresultingfromsuchimproperuse\nofsale.\nThispublicationsupersedes&replacesallinformationpreviouslysupplied.Foradditionalinformation,pleasevisitourwebsite\nhttp://www.21yangjie.com,orconsultyournearestYangjie’ssalesofficeforfurtherassistance.\n'}]
+!==============================================================================!
+### Component Summary: YJD21701K0BGH
+
+**Manufacturer:** Yangzhou Yangjie Electronic Technology Co., Ltd.  
+**Component Type:** Silicon Carbide Power MOSFET (N-Channel Enhancement)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Maximum Drain-Source Voltage (VDS,max): 1700 V
+  - Gate-Source Voltage (VGS,max): -10/+25 V (absolute maximum), -5/+20 V (recommended operational)
+  
+- **Current Ratings:**
+  - Continuous Drain Current (ID) at 25°C: 4.7 A
+  - Continuous Drain Current (ID) at 110°C: 3.5 A
+  - Pulse Drain Current (ID,pulse): 7 A
+
+- **Power Consumption:**
+  - Maximum Power Dissipation (PTOT): 75 W at 25°C, junction temperature (Tj) of 175°C
+
+- **Operating Temperature Range:**
+  - Junction and Storage Temperature (Tj, Tstg): -55°C to +175°C
+
+- **Package Type:**
+  - TO-263
+
+- **Special Features:**
+  - High-speed switching capability
+  - Low switching losses
+  - Reduced heatsink requirements
+  - Fast intrinsic diode with low recovery current
+  - High-frequency operation
+  - Halogen-free and RoHS compliant
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+#### Description:
+The YJD21701K0BGH is a high-performance N-channel enhancement mode Silicon Carbide (SiC) Power MOSFET. It is designed for high-voltage applications, providing efficient switching capabilities with minimal losses. The device is characterized by its ability to operate at elevated temperatures and high frequencies, making it suitable for demanding power applications.
+
+#### Typical Applications:
+The YJD21701K0BGH is commonly used in:
+- Power Factor Correction (PFC) circuits
+- Solar inverters
+- Uninterruptible Power Supplies (UPS)
+- Motor drives
+- Photovoltaic inverters
+- Electric vehicles and chargers
+
+This component is ideal for applications requiring high efficiency and reliability in power management and conversion systems. Its robust design and high voltage rating make it suitable for various industrial and renewable energy applications.

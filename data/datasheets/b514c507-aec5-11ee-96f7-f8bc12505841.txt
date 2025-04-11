@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CBH-3030HF-04-235 production of KAWEEI from the text:Bill Of M aterial\nNo. Material Name and Name Qty Unit1 mm2 PCS\n1332 22 AWG Black,Yellow,Green,White,BlueMolex 505151-0601 2.0 mm Pitch Housing 6P.\nVendor NAMEKWQS221 Wire Molex CONN. 13 PCS Molex 505487-8000  2.0 mm Pitch Terminal Gold Plated TER. 52 Yellow 黄1 Black 黑P1\n21\n2.0mm Housing 6P & Micro Fit 3.0 4P WIRE\nHARNESS\nCBH-3030 HF-04-235Oct-16-2023\n3THIRD ANGLE PROJECTION1:XXDATE\nEREV\n1\n2REV:\nmmUNIT:A/1\nSCALE(比例):\nD CSHEET:DESCRIPTION\nAPPROVAL:DRAWN:\nCHECKED:\nPART  NO:\nB3\nA1\n2C D E A B\nFILE NO: KW-4E-094A4DESCRIPTION:\n1/2X.:\nX.X:±0.50\nX.XX:±0.30\nX.XXX:±0.20X°:±5.0°\nX.X°:±3.0°\nX.XX°:±2.0°\nX.XXX°:±1.0°GENERAL TOLERANCE\nLINEAR ANGLES\nORIGINAL±1.00\nTHIS DRAWING CONTAINS INFORMATION THAT IS PROPRIETARY TO KAWEEI\nINCORPORATED AND SHOULD NOT BE USED WITHOUT WRITTEN PERMISSI ONwww .kaweei.com\nJack Wu\nJeffJokerNOTES: UNLESS OTHERWISE SPECIFIED.\n1、Important Dim.\n2、Crimping PullOut Force:3.98Kgf Min.\n3、Electrical Character:100% Open/ShortA\nCAS-T001- HNS-0281-M LX-B Electronia part number :3A185±10\n110±10\n105±10\n155±10\n235±10B\nC\nD\nE45\n63 Gree n 绿\n4 White 白\n5 NC\n6 Blue 蓝2 Yellow 黄1 Black 黑\n3 Gree n 绿\n4 White 白\nBlue 蓝P2\n4 PCS Mole 43645-0400 Micro-Fit 3.0mm Housing 4P CONN. 15 PCS Molex 43030-0002 Micro-Fit 3.0mm Terminal Gold Plated TER. 46 PCS CKS RNYL1-4 #8 Ring Term inals-Nylon66 Insulated UL94V-0 Red Tin Plated KWQS310 TER. 1\nMolexMolexMolexKnot*5\nCONN P1Wire Diagram\nCOLOR\nRed 红 1\nBlack 黑 2\nBlue 蓝 3\nYellow 黄 4CONN P2\n1\n2\n3\n4\nBlue 蓝 6 R TER.\n'}]
+!==============================================================================!
+Based on the provided information, the component in question is the **CBH-3030HF-04-235** from KAWEEI. Below is a concise summary of its key characteristics and specifications, along with a description and typical applications.
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this would be determined by the connectors used (Molex).
+- **Current Ratings**: Not specified; however, the crimping pull-out force is noted as 3.98 Kgf Min, which may imply a certain current capacity based on the wire gauge (22 AWG).
+- **Power Consumption**: Not applicable as this is a wiring harness component.
+- **Operating Temperature Range**: Not specified in the provided text; typically determined by the materials used in the connectors and wires.
+- **Package Type**: The component consists of a wire harness with Molex connectors.
+- **Special Features or Notes**: 
+  - Crimping pull-out force of 3.98 Kgf Min.
+  - Electrical characteristics include 100% open/short testing.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+### Description:
+The **CBH-3030HF-04-235** is a wire harness assembly that includes multiple Molex connectors and terminals. It is designed to facilitate electrical connections in various applications. The harness is constructed using 22 AWG wire in multiple colors (Black, Yellow, Green, White, Blue) and features a 2.0 mm pitch housing with 6 positions (6P) and Micro-Fit 3.0 mm connectors.
+
+### Typical Applications:
+This component is typically used in:
+- **Power Management**: Connecting power supplies to devices or systems.
+- **Signal Processing**: Facilitating communication between electronic components.
+- **Data Storage**: Connecting storage devices to controllers or power sources.
+- **General Wiring Solutions**: Used in various electronic devices and systems where reliable electrical connections are required.
+
+Overall, the CBH-3030HF-04-235 serves as a crucial component in ensuring effective electrical connectivity in a range of electronic applications.

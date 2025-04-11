@@ -1,0 +1,22 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MCRF plug to free end, L=130mm production of RAYNOOL from the text:B ACkd by Drawn by Appd byTitle\nScale\nSheet 1 of 1Date\nRoHS Compliant.2\n100 Sketch Only\n31/05/2023\n31/05/2023\nSpecifications \n1.Impedance: 50 Ω\n2.Frequency: 0~6 GHz\n3.VSWR: ≤1.30\n3C022M05-130P/N1.13mm Assembly, MHF1 to OPEN, \nL=130mm130.00 ± 3.00\n130.00 ± 3.00\n'}]
+!==============================================================================!
+### Component Summary: MCRF Plug to Free End (L=130mm) by RAYNOOL
+
+#### Key Specifications:
+- **Impedance**: 50 Ω
+- **Frequency Range**: 0 to 6 GHz
+- **Voltage Standing Wave Ratio (VSWR)**: ≤ 1.30
+- **Length**: 130 mm (± 3.00 mm)
+- **Connector Type**: MHF1 to OPEN
+- **RoHS Compliance**: Yes
+
+#### Description:
+The MCRF plug to free end is a coaxial cable assembly designed for high-frequency applications. It features a 50-ohm impedance, making it suitable for RF (radio frequency) signal transmission. The assembly is characterized by its MHF1 connector on one end, which connects to devices or systems, while the other end is left open for flexibility in applications.
+
+#### Typical Applications:
+- **Telecommunications**: Used in RF signal transmission for mobile and wireless communication systems.
+- **Antenna Systems**: Ideal for connecting antennas to transmitters or receivers in various RF applications.
+- **Test Equipment**: Commonly utilized in laboratory settings for testing and measurement of RF signals.
+- **Broadcasting**: Employed in broadcasting systems where high-frequency signal integrity is crucial.
+
+This component is particularly valuable in environments where maintaining signal quality over a range of frequencies is essential, such as in telecommunications and broadcasting industries.

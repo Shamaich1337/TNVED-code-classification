@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MD165K12D2 production of YANGZHOU YANGJIE ELECTRONIC from the text:                 MD165 C(A/K) -D2 COMPL IANT RoHS  \n \n \n \n \n    \n \n \n Module Type   \nTYPE VRRM VRSM \nMD165 C08D2 \nMD165C 12D2 \nMD165C 16D2 \nMD165 C18D2 MD165 A08D2 \nMD165A 12D2  \nMD165A 16D2  \nMD165 A18D2 MD165 K08D2 \nMD165K 12D2  \nMD165K 16D2  \nMD165 K18D2 800V  \n1200V  \n1600V  \n1800V  900V  \n1300V  \n1700V  \n1900V  \n \nMaximum Ratings  \nSymbol Conditions Values Units \nIFAV Single phase ,half wave 180 °conduction Tc=101℃ 165 A \nIFSM t=10mS Tvj =45 ℃ 6000  A \ni2t t=10mS Tvj =45 ℃ 180000  A2s \nVisol a.c.50HZ;r.m.s.;1min  3000  V \nTvj  -40 to +150 ℃ \nTstg  -40 to +125 ℃ \nMt To terminals(M6)  5±15%  Nm \nMs To heatsink(M6)  5±15%  Nm \nWeight  Module  (Approximately)  160 g \n \nThermal Chara cteristics  \nSymbol  Conditions  Values  Units  \nRth(j-c) Per diode  0.21 ℃/W \nRth(c-s) Module  0.05 ℃/W  \n \nElectrical Characteristics  \n \n  \n \n \n \n Glass Passivated Rectifier  \nDiode Modules  \n V\nRRM  800 to 1 800V  \nIFAV   165 Amp \nApplications  \n\uf09f Non- controllable rectifiers for AC/AC \nconverters  \n\uf09f Line rectifiers for transistorized AC motor \ncontrollers  \n\uf09f Field supply for DC motors  \nFeatures  \n\uf09f Blocking voltage:800 to 18 00V \n\uf09f Heat transfer through aluminum  oxide DBC \nceramic isolated metal baseplate  \n\uf09f Glass passivated chip  \n\uf09f UL recognized applied for file no. E360040  \nSymbol  Conditions  Values  Units  Min. Typ. Max.  \nVFM T=25℃ IF =300A － 1.20  1.40 V \nIRD Tvj=150℃ VRD=VRRM － － 9 mA \nrf TJ=25℃  1.25  mΩ \nVfO  0.82  V \n \n Circuit \nMD165K18D2\n1 3 2MD165A18D2\n1 3 2MD165C18D2\n1 3 2\n \n \nS-M006                                                                             www.21yangjie.com  \nRev.2.0, 27-May-17                                  1 \n                 MD165 C(A/K) -D2 COMPL IANT RoHS  \n     \n  \nPerformance Curves   \n \n \n  \n      \n \n             \n \n \n    \n         \n \n \n \n            \n \n     \n \n Fig3. Transient thermal impe dance  Fig4. Max Non -Repetitive Forward Surge \nCurrent  Zth(j-C) \n0.001   0.01      0.1     1.0      10   S 100  1                 10            cycles 100  50HZ  Fig1.  Power dissipation  Fig2.Forward Current Derating Curve  0 ID                 120             A  240 300 \n \nW \n \n \n \n \n150 \n \n  \n \n \nPvtot \n \n0 \n0  Tc        50           100       ℃ 150  DC \nsin.180 rec.120 \nrec.60 rec.30 DC \nsin.180 \nrec.120 \nrec.60 \nrec.30 \nFig5. Forward Characteristics  0   V F   0.5        1.0       1.5      V 2.0  25℃ \n- - -125℃ \n 0.3 \n \n℃/ W  \n \n \n \n \n \n0.15 \n \n \n \n \n \n \n \n0 8000  \n \nA \n \n \n \n \n \n4000  \n  \n \n \n \n \n \n0 250 \n \nA \n \n200 \n \n \n150 \n \n \n100 \n \n \n50 \n \nID \n \n0 \n400 \n \nA \n \n300 \n \n \n200 \n \n \n \n100 \n \n \nIF \n \n0 typ. \nmax.  \nS-M006                                                                             www.21yangjie.com  \nRev.2.0, 27-May-17                                  2 \n                 MD165 C(A/K) -D2 COMPL IANT RoHS  \n \nPackage Outline Information  \n \n \n \n           \n \n         \n     \n \n   \n  \n \n \n                       CASE : D2 \nDimensions in mm  YJ \n \nS-M006                                                                             www.21yangjie.com  \nRev.2.0, 27-May-17                                  3 \n'}]
+!==============================================================================!
+### Component Summary for MD165K12D2
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Reverse Voltage Rating (VRRM): 1200V
+- **Current Ratings:**
+  - Average Forward Current (IFAV): 165A
+  - Maximum Surge Current (IFSM): 6000A (for 10ms)
+- **Power Consumption:**
+  - Forward Voltage Drop (VFM) at 25°C, IF = 300A: 1.20V to 1.40V
+- **Operating Temperature Range:**
+  - Junction Temperature (Tvj): -40°C to +150°C
+  - Storage Temperature (Tstg): -40°C to +125°C
+- **Package Type:**
+  - Module Type: D2
+- **Special Features:**
+  - Glass passivated rectifier
+  - Heat transfer through aluminum oxide DBC ceramic isolated metal baseplate
+  - UL recognized (File No. E360040)
+- **Moisture Sensitive Level:**
+  - Not specified in the provided text.
+
+**Component Description:**
+The MD165K12D2 is a glass passivated rectifier diode module designed for high-power applications. It is part of the MD165 series, which includes various voltage ratings ranging from 800V to 1800V. This component is primarily used for converting AC to DC in various industrial applications, providing reliable performance under high current and voltage conditions.
+
+**Typical Applications:**
+- Non-controllable rectifiers for AC/AC converters
+- Line rectifiers for transistorized AC motor controllers
+- Field supply for DC motors
+
+This component is suitable for applications requiring robust rectification capabilities, particularly in power management systems where high efficiency and reliability are critical.

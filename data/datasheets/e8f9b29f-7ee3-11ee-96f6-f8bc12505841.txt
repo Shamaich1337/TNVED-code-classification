@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 1-338068-4 production of TE CONNECTIVITY from the text:A3DIMENSIONS:\n0 PLC\n1 PLC\n2 PLC\n3 PLC\n4 PLC\nANGLESD D\nC\nB\nAC\nB\nA4 3 2 1\nOF SCALE SHEET REVNAME\nSIZE CAGE CODE DRAWING NOTOLERANCES UNLESS\nOTHERWISE SPECIFIED:DWN\nCHK\nAPVD\nMATERIAL FINISHREVISIONS\nPLTR DATE APVD DWN DESCRIPTIONALL RIGHTS RESERVED.RELEASED FOR PUBLICATION\nCCOPYRIGHTTHIS DRAWING IS UNPUBLISHED.\nPRODUCT SPEC\nAPPLICATION SPEC\nWEIGHT\n1470-19 (3/13)RESTRICTED TOTHIS DRAWING IS A CONTROLLED DOCUMENT.\nTE Connectivity1\n2\n3\nCustomer Drawing338068M. GOSSELINK-\n--\n--\n5:1 11F1108-19052\n-\n-SEE TABLE SEE TABLEmm\n-\n-\n-\n-\n-\n-CONNECTOR,\nFEMALE-ON-BOARD TOP-ENTRY,\nTHRU-HOLE,WITH LATCHES,Micro-Match\n---\n00779BY -\n- -F1. 25JAN2016 SSPS\n5,2\nMAX.\n \n2,54\n4,0\x01#\x020,2\n1,400,05\n1,800,05"A" MAX\n3,10,2\nPOLARIZATION HOLE1,500,05 TYP 0,250,05\n(n-1)x1,27\n2,54\n1,272,54\n(n-1)x1,27\n1,272,54\n2,54\n TYP.\nSOLDER CONTACT HOLES0,800,05TYP0,50,1\n15 REF.\nITEM NO. DESCRIPTION MATERIAL FINISH / COLOR1FEMALE CONTACT PHOSPHOR BRONZE TIN OVER NICKEL2FEMALE HOUSING G.F.POLYESTER PBT REDPART NUMBER\nREEL\nPACKAGINGNR OF\nPOS\n"n"DIMENSION\n"A" MAX\n  338068-4 4 9,7\n  338068-6 6 12,2\n  338068-8 8 14,7\n1-338068-0 10 17,3\n1-338068-2 12 19,8\n1-338068-4 14 22,4\n1-338068-6 16 24,9\n1-338068-8 18 27,4\n2-338068-0 20 30,0\nPC-BOARD LAYOUT\n(COMPONENT SIDE OF BOARD SHOWN)NOTES:\n IN EACH ROW, DIRECTION OF KINKS STARTS RANDOM.\n IN EACH ROW, SEQUENTIAL CONTACTS HAVE OPPOSITE KINK DIRECTIONS.  \n CORING-OUTS FOR MANUFACTURING PURPOSE ONLY.\n SHAPE MAY VARY, BUT IS NOT FUNCTIONAL FOR THE APPLICATION. SHOWN IS A 10 POSITION CONNECTOR.\n2500 CONNECTORS PER REEL FOR ALL PART NUMBERSDEREELING DIRECTION AND CONNECTOR PO SITIONREEL PACKAGINGTAPE WIDTH DIMENSION REMOVED\nSCALE  3:1\nALL CONTACTS\n0,40KMREFERENCE MATING INTERFACE PATTERN\n1,27 STAGGERED PITCH x 1,5 ROW DISTANCE.\n2\n1\nSECTION  A-A\nALL CONTACTS HOLES\n0,10FGTYP\nTYPTYPTYP(CONTACTROW-DISTANCE)SEE DETAIL  A\nPAPERREEL TAPE\nSCALE  1:2M\nK\nF\nG12\n'}]
+!==============================================================================!
+### Component Summary for TE Connectivity Product Code 1-338068-4
+
+**Component Type:** Connector  
+**Description:** The 1-338068-4 is a female on-board top-entry connector designed for through-hole mounting. It features latches for secure connection and is part of the Micro-Match series. This connector is designed to accommodate 14 positions.
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, Micro-Match connectors are rated for low voltage applications.
+- **Current Ratings:** Not specified; generally, Micro-Match connectors can handle currents in the range of 1A to 3A depending on the specific application and configuration.
+- **Power Consumption:** Not applicable as this is a passive connector.
+- **Operating Temperature Range:** Not specified in the provided text; typical operating ranges for similar connectors are -40°C to +105°C.
+- **Package Type:** Through-hole connector with latches.
+- **Special Features/Notes:** 
+  - Female housing made of glass-filled polyester (PBT) in red color.
+  - Female contacts made of phosphor bronze with tin over nickel plating.
+  - Designed for easy PCB mounting with a staggered pitch layout.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text; typically, connectors may have an MSL rating of 1 or 2.
+
+#### Typical Applications:
+The 1-338068-4 connector is commonly used in various electronic applications, including:
+- **Consumer Electronics:** Connecting internal components such as displays, sensors, and power supplies.
+- **Industrial Equipment:** Used in control systems and machinery for reliable connections.
+- **Telecommunications:** Facilitating connections in communication devices and networking equipment.
+- **Automotive:** Employed in automotive electronics for connecting various modules and sensors.
+
+This connector is ideal for applications requiring a secure and reliable connection in compact spaces, making it suitable for a wide range of electronic devices.

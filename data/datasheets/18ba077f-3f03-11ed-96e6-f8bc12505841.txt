@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG90S production of DAGU ROBOTIC CO.,LTD. from the text: \n \n \nMG90S servo, Metal gear with one bearing \n \nTiny and lightweight with high output power, this t iny servo i \nHelicopter , Quadcopter or Robot. \ndurability. \n \nServo can rotate approximately 180 degrees (90 in ea ch direction), and works just like the \nstandard kinds but smaller . You can use any servo code, hardware or library t o control these \nservos. Good for beginners who want to make stuff move without build ing a motor controller \nwith feedback & gear box, especially si \n(arms) and hardware. \n \n \nSpecifications \n \n• Weight: 13.4 g \n• Dimension: 22.5 x 12 x 35.5 \n• Stall torque: 1.8 kgf ·cm (4.8V ) \n• Operating speed: 0.1 s/60 degree \n• Operating voltage: 4.8 V -  \n• Dead band width: 5 µs  \n \n \nMG90S servo, Metal gear with one bearing  \nTiny and lightweight with high output power, this t iny servo i s perfect for \n, Quadcopter or Robot. This servo has metal gears  fo r added strength and \nervo can rotate approximately 180 degrees (90 in ea ch direction), and works just like the \n. You can use any servo code, hardware or library t o control these \nbeginners who want to make stuff move without build ing a motor controller \nwith feedback & gear box, especially si nce it will fit in small places. It c omes with a \n35.5  mm approx. \n(4.8V ) , 2.2 kgf·cm (6 V) \ndegree  (4.8 V), 0.08 s/60 degree (6 V) \n 6.0 V \n \ns perfect for RC Airplane, \nr added strength and \nervo can rotate approximately 180 degrees (90 in ea ch direction), and works just like the \n. You can use any servo code, hardware or library t o control these \nbeginners who want to make stuff move without build ing a motor controller \nomes with a 3 horns \n\nPosition "0" (1.5 ms pulse) is middle, "90" (~2 \nms pulse) is all the way to the left. \n \n \n \n \n \nms pulse) is middle, "90" (~2  ms pulse) is all the way to the right, " \nthe left.  \n \nms pulse) is all the way to the right, " -90" (~1 \n'}]
+!==============================================================================!
+### Component Summary: MG90S Servo
+
+**Description:**
+The MG90S is a miniature servo motor produced by DAGU ROBOTIC CO., LTD. It features metal gears and a single bearing, providing enhanced durability and strength. This tiny and lightweight servo is designed for applications requiring high output power in compact spaces. It can rotate approximately 180 degrees (90 degrees in each direction) and is compatible with standard servo control codes, hardware, and libraries, making it an excellent choice for beginners in robotics and remote-controlled devices.
+
+**Key Specifications:**
+- **Weight:** 13.4 g
+- **Dimensions:** 22.5 mm x 12 mm x 35.5 mm
+- **Stall Torque:** 
+  - 1.8 kgf·cm at 4.8 V
+  - 2.2 kgf·cm at 6 V
+- **Operating Speed:** 
+  - 0.1 s/60 degrees at 4.8 V
+  - 0.08 s/60 degrees at 6 V
+- **Operating Voltage:** 4.8 V to 6.0 V
+- **Dead Band Width:** 5 µs
+- **Rotation Range:** Approximately 180 degrees (90 degrees in each direction)
+
+**Special Features:**
+- Metal gears for improved strength and durability.
+- Compact size suitable for small applications.
+- Compatible with various servo control codes and libraries.
+
+**Moisture Sensitive Level (MSL):**
+- Not specified in the provided text; typically, servos like this are not classified under MSL.
+
+### Typical Applications:
+The MG90S servo is ideal for a variety of applications, including:
+- **RC Airplanes and Helicopters:** Used for controlling flaps, ailerons, and other movable parts.
+- **Quadcopters:** Servos can be utilized for stabilization and control of flight surfaces.
+- **Robotics:** Perfect for robotic arms and other moving parts in small robots, allowing for precise movement without the need for complex motor controllers.
+- **Hobby Projects:** Suitable for DIY projects where space is limited and lightweight components are essential.
+
+This servo is particularly beneficial for hobbyists and beginners looking to create moving parts in their projects without the complexity of traditional motor systems.

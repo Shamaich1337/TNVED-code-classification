@@ -1,0 +1,23 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CRS-102-F254W-99 production of E-TEC from the text:AB\n2.54 5.08 02\n5.08 7.62 03\n7.62 10.16 04\n10.16 12.70 05\n12.70 15.24 06\n15.24 17.78 07\n17.78 20.32 08\n20.32 22.86 09\n22.86 25.40 10\n25.40 27.94 11\n27.94 30.48 12\n30.48 33.02 13\n33.02 35.56 14\n35.56 38.10 15\n38.10 40.64 16\n40.64 43.18 17\n43.18 45.72 18\n45.72 48.26 19\n48.26 50.80 20Dimension mm No. of\nPins\n'}]
+!==============================================================================!
+Based on the provided information, the component CRS-102-F254W-99 from E-TEC appears to be a type of connector, specifically a header connector. Below is a concise summary of its key characteristics and specifications:
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, header connectors can handle voltages ranging from 30V to 250V depending on the specific design.
+- **Current Ratings**: Not specified; however, standard current ratings for similar connectors can range from 1A to 5A per pin.
+- **Power Consumption**: Not applicable as this is a passive component.
+- **Operating Temperature Range**: Not specified; common ranges for connectors are -40°C to +85°C.
+- **Package Type**: Header connector, typically in a through-hole or surface mount configuration.
+- **Special Features or Notes**: The connector appears to have multiple pin configurations, with dimensions ranging from 2.54 mm to 50.80 mm, indicating a variety of options for different applications.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text; typically, connectors may have a level of 1 or 2 depending on the materials used.
+
+### Component Description:
+The CRS-102-F254W-99 is a header connector designed for use in electronic assemblies. It serves as a means to connect various electronic components or boards together, allowing for the transfer of power and signals. The connector features multiple pins, which can be configured in various arrangements to suit different applications.
+
+### Typical Applications:
+- **Power Management**: Used to connect power supplies to circuit boards.
+- **Signal Processing**: Facilitates the connection of signal lines between different components or modules.
+- **Data Storage**: Often used in data storage devices to connect to controllers or other interfaces.
+- **General Interconnectivity**: Commonly found in consumer electronics, industrial equipment, and telecommunications for establishing connections between different parts of a system.
+
+This summary provides a clear overview of the CRS-102-F254W-99 connector, highlighting its specifications and typical uses in electronic applications.

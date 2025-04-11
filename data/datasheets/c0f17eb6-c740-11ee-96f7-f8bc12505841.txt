@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 28WFT-1000 production of AINFO from the text:AINFO Inc. Page1of3\nTel:(+1)949-639-9688, (+1)949-639-9608 Fax:(+1)949-639-9670 Email: sales@ainfoinc.com Website: www.ainfoinc.com\nDatasubject tochange without notice.Forcurrent datasheets, please contac t:Sales@ainfoinc.com\nForreference only.Seedatasheet forthedetailed specifications .\nTechnical Specification\nOutline Drawing (Size:mm)\n28WFT-1000\nWR28 Flexible Twistable Waveguide\nEIA WR WR28\nFrequency Range(GHz) 26.5 – 40.0\nAttenuation(dB/m) 2.4 Max.\nVSWR 1.30:1 Max.\nAverage Power(KW) 0.075\nMax. Twist(deg/m) 510\nMin. E-Bend Radius(mm) 30\nMin. H-Bend Radius(mm) 60\nFlange FBP320-M(UBR320-M)\nJacket Rubber\nOperating Temp.( °C) -55 ~ +85\nMaterial Cu\nLength(mm) 1000\nNet Weight(Kg) 0. 16Around\n\nAINFO Inc. Page2of3\nTel:(+1)949-639-9688, (+1)949-639-9608 Fax:(+1)949-639-9670 Email: sales@ainfoinc.com Website: www.ainfoinc.com\nDatasubject tochange without notice.Forcurrent datasheets, please contac t:Sales@ainfoinc.com\nFlange Drawing (Size: mm)\n28WFT-1000\nWR28 Flexible Twistable Waveguide\n\nAINFO Inc. Page3of3\nTel:(+1)949-639-9688, (+1)949-639-9608 Fax:(+1)949-639-9670 Email: sales@ainfoinc.com Website: www.ainfoinc.com\nDatasubject tochange without notice.Forcurrent datasheets, please contac t:Sales@ainfoinc.com\nTestResults\nAttenuation (I.L.:2.0100dB/m Max.)\nVSWR\n28WFT-1000\nWR28 Flexible Twistable Waveguide\n\n'}]
+!==============================================================================!
+### Component Summary: 28WFT-1000
+
+**Component Type:**  
+Flexible Twistable Waveguide
+
+**Manufacturer:**  
+AINFO Inc.
+
+#### Key Specifications:
+- **Frequency Range:** 26.5 – 40.0 GHz
+- **Attenuation:** 2.4 dB/m Max
+- **Voltage Ratings:** Not applicable (waveguide component)
+- **Current Ratings:** Not applicable (waveguide component)
+- **Average Power:** 0.075 KW
+- **Max. Twist:** 510 degrees/m
+- **Min. E-Bend Radius:** 30 mm
+- **Min. H-Bend Radius:** 60 mm
+- **Operating Temperature Range:** -55 °C to +85 °C
+- **Package Type:** Not specified (waveguide)
+- **Material:** Copper (Cu)
+- **Length:** 1000 mm
+- **Net Weight:** 0.16 Kg
+- **Flange Type:** FBP320-M (UBR320-M)
+- **Jacket Material:** Rubber
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified
+
+#### Description:
+The 28WFT-1000 is a flexible twistable waveguide designed for high-frequency applications, specifically within the frequency range of 26.5 to 40.0 GHz. It is constructed from copper and features a rubber jacket for protection. The waveguide is engineered to allow for significant twisting and bending, making it suitable for installations where space is limited or where directional changes are necessary.
+
+#### Typical Applications:
+The 28WFT-1000 waveguide is typically used in:
+- **Telecommunications:** For signal transmission in microwave communication systems.
+- **Radar Systems:** As part of radar equipment where flexibility in installation is required.
+- **Aerospace and Defense:** In applications that require high-frequency signal transmission with minimal loss.
+- **Test Equipment:** For connecting various components in high-frequency test setups.
+
+This component is particularly valuable in environments where traditional rigid waveguides would be impractical due to space constraints or the need for dynamic movement.

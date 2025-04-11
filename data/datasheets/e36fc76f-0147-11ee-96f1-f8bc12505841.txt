@@ -1,0 +1,60 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of CDR-1221-4M1 production of COMPUWARE from the text:www.compuware-us.com\n1200W AC-DC Redundant Module\nUL 、 cUL 、 TUV 、 BSMI 、 CB 、 CISPR Class A 、 FCC Class A 、 CQL 、 CEFEATURES\nCDR-1221-4M1\nDimension：322 x 54.5 x 40 mm (D x W x H)\nTotal Max Power：1200W\n80 PLUS Platinum                                Support PMBus1.2 \nInternal OR'ing                                      N+1 Redundant\nCold Redundancy\nSmart Ride Through\nBlack Box Recorder\nActive Power Factor Correction\nClosed Loop System Protection (CLST)\n11-12 ms @ 75% Load\nat least 94% @ 50% Load\n400,000 Hours @ 30 degree CGENERAL\nHold-up time\nEfficiency\nMTBF\n★ Product details and image are for reference only and final product is subject to change at any time without notice.AC 110Vac 90 - 140Vac\nAC 220Vac 180Vac-264Vac\nDC 180 - 300Vdc\n47 - 63Hz\n100 - 240V / 7.2 - 4.9Avoltage\nfrequency\ncurrent INPUT\nOperating temperature range  : 50℃ max\nNon-operating Ambient : -40°C to +70°C\nOperating : to 16,500 feet (5,000 meters)\nNon-operating : to 35,000 feet (10,580 meters)\nOperating : 5% to 90% RH, Non-condensing\nStorage : 5% to 95% RH, Non-condensingTemperature \nAltitude \nRelative humidityENVIRONMENTALOUTPUT\nVoltage\nRegulation\nMax Load\nRipple & Noise+12V\n±5%\n83.3A\n(100-127Vac)\n120mVp-p+5V\n±5%\n4.0A\n50mVp-p+12V\n±5%\n100A \n(200-240Vac /240Vdc)\n120mVp-p\nSpecifications Mechanical Drawing\n"}]
+!==============================================================================!
+### Component Summary: CDR-1221-4M1
+
+**Description:**
+The CDR-1221-4M1 is a 1200W AC-DC redundant power supply module designed for high-efficiency power management in various electronic applications. It features a compact design suitable for integration into systems requiring reliable power delivery with redundancy capabilities.
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - AC Input: 
+    - 110Vac: 90 - 140Vac
+    - 220Vac: 180 - 264Vac
+  - DC Input: 180 - 300Vdc
+  - Output Voltage: 
+    - +12V (±5%)
+    - +5V (±5%)
+
+- **Current Ratings:**
+  - Max Load for +12V: 
+    - 83.3A (at 100-127Vac)
+    - 100A (at 200-240Vac / 240Vdc)
+  - Max Load for +5V: 4.0A
+
+- **Power Consumption:**
+  - Total Max Power: 1200W
+  - Efficiency: At least 94% at 50% load
+
+- **Operating Temperature Range:**
+  - Operating: Up to 50°C
+  - Non-operating: -40°C to +70°C
+
+- **Package Type:**
+  - Dimensions: 322 x 54.5 x 40 mm (D x W x H)
+
+- **Special Features:**
+  - 80 PLUS Platinum certified
+  - Supports PMBus 1.2
+  - Internal OR'ing for redundancy
+  - N+1 Redundant configuration
+  - Cold Redundancy
+  - Smart Ride Through capability
+  - Black Box Recorder functionality
+  - Active Power Factor Correction
+  - Closed Loop System Protection (CLST)
+  - Hold-up time: 11-12 ms @ 75% Load
+  - MTBF: 400,000 hours @ 30°C
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided information.
+
+**Typical Applications:**
+The CDR-1221-4M1 is typically used in environments where high reliability and efficiency are critical, such as:
+- Data centers and server farms
+- Telecommunications equipment
+- Industrial automation systems
+- Medical devices requiring redundant power supplies
+- High-performance computing systems
+
+This power supply module is ideal for applications that demand continuous operation and minimal downtime, leveraging its redundancy features and high efficiency to ensure stable power delivery.

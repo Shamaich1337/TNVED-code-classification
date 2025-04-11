@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CSD-008-MST175-95/R production of E-TEC from the text:A New 23.09.2019 Ronny\nCard InsertedCD1 CD2\nWithout CardCard\nCenterline\nMicro SD\nCardP8P7P6P5 P4 P3 P2 P1\n6.50\n11.001.20\n0.601.10 1.25\n0.35\n0.904.788.80\n12.067.35\n1.759.50\n0.90\n0.55\n2x∅1.30\n10.009.8511.15\nP8P7P6P5 P4 P3 P2 P1 CD2 CD11.10\n8x0.701.25\n2x0.604.808.80\n1.60\n1.20\n10.00\n14.507.35\n4.802x∅1.65\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all  rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.20Cherry\nCheng\nFagi04.05.2022\n06.05.2022\n06.05.2022CSD-008-MST175-95/R\nCSD-008-MST175-R1/1\nBOrder Code\nCSD-008-MST175-95/R\nSpecifications\nElectrical\nCurrent rating: 0.5A\nInsulation resistance : 1000MΩ min. @500V DC\nContact resistance: 60mΩ max.\nWithstanding voltage: 500V AC/Minute\nMaterial\nContact: Copper Alloy\nPlating: Sn on solder, Au flash on contact area,\nentire contact Ni underplated\nInsulator: LCP (black)  UL 94V-0\nOperating temperature: -25°C to +85°C\nProcessing temperature: +250°C +0/-5°C\n                                         for 5 seconds\nPacking\nReel:  1000pcs./reelRoHS\ncompliant\nMicro SD Connector\nPush - Pull Type  1.75mm Height\nwith Card DetectionRecommended PCB Layout  Top View\n(Tolerance ±0.05)13.70\nCD1 CD2Pin No. Assignment\nP1 DAT2\nP2 DAT3\nP3 CMD\nP4 VDD\nP5 CLK\nP6 VSS\nP7 DAT0\nP8 DAT1Card Detection SwitchCD2 CD1\n0.27B General update 04.05.2022 Cherry\n'}]
+!==============================================================================!
+### Component Summary for CSD-008-MST175-95/R
+
+**Component Type:** Micro SD Connector  
+**Primary Function:** The CSD-008-MST175-95/R is a push-pull type micro SD card connector designed for secure insertion and removal of micro SD cards in electronic devices. It features card detection functionality to indicate the presence of a card.
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Withstanding Voltage: 500V AC for 1 minute
+- **Current Ratings:**
+  - Maximum Current Rating: 0.5A
+- **Power Consumption:** Not specified directly; however, the connector is designed to handle standard micro SD card power requirements.
+- **Operating Temperature Range:**
+  - -25°C to +85°C
+- **Package Type:**
+  - Reel packaging with 1000 pieces per reel
+- **Special Features:**
+  - Card detection switch (CD1, CD2)
+  - Push-pull mechanism for easy card insertion and removal
+  - RoHS compliant
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Material Composition:
+- **Contact Material:** Copper Alloy
+- **Plating:**
+  - Solder: Tin (Sn)
+  - Contact Area: Gold flash (Au)
+  - Entire Contact: Nickel (Ni) underplated
+- **Insulator Material:** LCP (Liquid Crystal Polymer), black, UL 94V-0 rated for flame resistance.
+
+#### Description:
+The CSD-008-MST175-95/R is a micro SD card connector that allows for the connection of micro SD cards to a PCB (Printed Circuit Board). It is designed to provide reliable electrical connections while ensuring ease of use with its push-pull mechanism. The card detection feature enhances functionality by allowing the system to recognize when a card is inserted or removed.
+
+#### Typical Applications:
+- **Consumer Electronics:** Used in devices such as smartphones, tablets, and cameras for data storage.
+- **Industrial Applications:** Suitable for embedded systems that require micro SD card interfaces for data logging or firmware updates.
+- **Automotive Systems:** Can be utilized in infotainment systems and navigation devices that support micro SD cards for media and map storage.
+
+This connector is essential for applications requiring compact and reliable memory card interfaces, ensuring both performance and durability in various operating conditions.

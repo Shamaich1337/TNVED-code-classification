@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of J0G-0003NL production of PULSE ELECTRONICS from the text:J423.C (12/11)1\npulseelectronics.comPulseJack™\nLow Profile 1x1 Tab-Up\nCompliant with IEEE 802.3 standard\n350µH minimum OCL with 8mA bias current\nHigh performance for maximum EMI suppression\nLow height and small footprint to minimize board space\nRoHS peak wave solder temperature rating 260°C\nUSA 858 674 8100 Germany 49 7032 7806 0 Singapore 65 6287 8998 Shanghai 86 21 62787060 China 86 755 33966678 Taiwan 886 3 4356768Part \nNumberSpeed Side\nEMI TabsInsertion\nLoss\nTX/RX\n(dB)Hipot\n(MIN)\n1-100 \nMHz1-10 \nMHz30 \nMHz60-80\nMHz80-100\nMHz1-10 \nMHz32-65 \nMHz65-100\nMHz1-125\nMHz@ 60Hz\n1 MIN\nJ0G-0001NL 1000Base-T Horizontal -1.2 -18 -18 -12 -10 -40 -35 -30 -30 1500Vrms\nJ0G-0003NL 1000Base-T No Tabs -1.0 -18 -18 -12 -10 -40 -35 -30 -30 1500Vrms\nJ0G-0007NL 100Base-TX Horizontal -1.0 -18 -18 -12 -10 -40 -35 -30 -30 1500Vrms\nJ0G-0009NL 1000Base-T Vertical -1.0 -18 -18 -12 -10 -40 -35 -30 -30 1500Vrms\nNote s:  \n1. LEDs Left/Right:  G = green;  Y = yellow;  Y-G = Bicolor.\n2. J0G-0003NL  is supplied without EMI tabs; refer to mechanical drawing (page 5) for explanation of EMI tabs.Description:\n100/1000Base-T RJ45 single port (1x1) Tab-UP integrated magnetics connector, designed to sup -\nport applications such as Network Interface Cards (NIC), LAN-on-Motherboard (LOM), and PC\napplications.\nFeatures and Benefits:\nReturn Loss\n(dB TYP)\n100Ω (±15Ω)Common\nMode\nRejection\n(dB TYP )Crosstalk\n(dB TYP)Electrical Specifications @ 25°C - Operating Temperature 0°C to +70°C\nRJ45 Durability Test Rating\nPart NumberMating Force\n(MAX)Unmating Force\n(MAX)Durability Plug to Jack\nRetention (MIN)\nJ0G Series 5 Ibs./2.268 kgs. 5 Ibs./2.268 kgs. 750 Insertions 20 Ibs./9.072 kgs.\nRJ45 Material Specification\nPart \nNumberShield ContactMSL\nRating Material Finish Material Plating Area Solder Area Material Specification\nJ0G Series Brass20-40µ inches thick nickel\nover brassPhosphor\nBronze15µ inches gold over\n30-80µ inches nickelTin matte\nfinish over nickelThermoplastic UL 94 V-0 1Housing\nNotes:   \n1. Connector dimensions comply with FCC dimension requirements.\n2. MSL - Moisture Sensitivity Level class limits = 1 to 5 (Highest: 1; Lowest: 5)2\nJ423.C (12/11)2\npulseelectronics.comPulseJack™\nLow Profile 1x1 Tab-Up\nJ0G-0001NL / J0G-0003NLSchematics\nJ0G-0009NLJ0G-0007NL\nJ423.C (12/11)3\npulseelectronics.comPulseJack™\nLow Profile 1x1 Tab-Up\nPin Assignments LED Configuration\nJ0G-0001NL J0G-0009NL\nJ0G-0003NL J0G-0007NLPulseJ ack\nPulseJ ack PulseJ ack\nJ423.C (12/11)4\npulseelectronics.comPulseJack™\nLow Profile 1x1 Tab-Up\n Measurements (in./mm)\n Part No. Dim”A”  Dim”B”  Dim”C” Dim”D” EMI Tab\n  (Signal Pins) (LED Pins) (Post) (Shield Tab)  Config.\nJ0G-0001NL .125/3,18 .125/3,18 .130/3,30 .140/3,56 Fig.1\nJ0G-0009NL  .070/1,78 .070/1,78 .070/1,78 .070/1,78 Fig.2\nJ0G-0003NL .125/3,18 .125/3,18 .130/3,30 .140/3,56 Fig.3\nJ0G-0007NL .070/1,78 .070/1,78 .070/1,78 .070/1,78 Fig.1J0G-0001NL / 0003NL / 0007NL / 0009NLMechanicals\n5\npulseelectronics.comPulseJack™\n2xN PoE Gigstack \nJ423.C (12/11)\nFor More Information\nPulse Worldwide\nHeadquarters\n12220 World Trade Drive\nSan Diego, CA \n92128\nU.S.A.\nTel: 858 674 8100Pulse Europe\nEinsteinstrasse 1\nD-71083 Herren -\nberg\nGermany\nTel: 49 7032 7806 Pulse China Headquarters\nB402, Shenzhen Academy of\nAerospace Technol -\nogy Bldg.\n10th Kejinan Road\nHigh-Tech Zone\nNanshan District\nShenzen, PR China \n518057Pulse North China\nRoom 2704/2705\nSuper Ocean Finance \nCtr.\n2067 Yan An Road \nWest\nShanghai 200336\nChinaPulse South Asia\n135 Joo Seng Road\n#03-02\nPM Industrial Bldg.\nSingapore 368363\nTel: 65 6287 8998  \nFax: 65 6287 8998Pulse North Asia\n3F, No. 198\nZhongyuan Road\nZhongli City\nTaoyuan County 320\nTaiwan R. O. C.\nTel: 886 3 4356768\nFax: 886 3 4356823 \n(Pulse)  \nPerformance warranty of products offered on this data sheet is limited to the parameters specified. Data is subject to change without notice. Other brand and product names mentioned herein may be \ntrademarks or registered trademarks of their respective owners. © Copyright, 2011. Pulse Electronics, Inc. All rights reserved.EMI Tabs Configuration\n'}]
+!==============================================================================!
+### Component Summary for J0G-0003NL
+
+**Component Type:**  
+Integrated Magnetics Connector (RJ45)
+
+**Description:**  
+The J0G-0003NL is a low-profile, single-port (1x1) RJ45 connector designed for 100/1000Base-T applications. It integrates magnetics and is compliant with the IEEE 802.3 standard. This component is specifically designed to support applications such as Network Interface Cards (NIC), LAN-on-Motherboard (LOM), and various PC applications. It is supplied without EMI tabs, which distinguishes it from other variants in the J0G series.
+
+### Key Specifications:
+
+- **Voltage Ratings:**  
+  - Hipot: 1500 Vrms (minimum)
+
+- **Current Ratings:**  
+  - Not explicitly stated, but typically suitable for Ethernet applications.
+
+- **Power Consumption:**  
+  - Not specified in the datasheet.
+
+- **Operating Temperature Range:**  
+  - 0°C to +70°C
+
+- **Package Type:**  
+  - Low Profile 1x1 Tab-Up RJ45 connector
+
+- **Special Features or Notes:**  
+  - High performance for maximum EMI suppression.
+  - Low height and small footprint to minimize board space.
+  - RoHS compliant with a peak wave solder temperature rating of 260°C.
+  - Return Loss: -1.0 dB (typical at 1-100 MHz).
+  - Common Mode Rejection: -40 dB (typical).
+  - Crosstalk: -30 dB (typical).
+
+- **Moisture Sensitive Level (MSL):**  
+  - MSL Rating: 1 (highest sensitivity level).
+
+### Typical Applications:
+The J0G-0003NL is primarily used in networking applications, particularly in devices that require Ethernet connectivity. Typical applications include:
+
+- **Network Interface Cards (NIC):** Used in computers and servers to connect to a network.
+- **LAN-on-Motherboard (LOM):** Integrated solutions for motherboards that require Ethernet connectivity.
+- **PC Applications:** General use in personal computers for network connectivity.
+
+This component is ideal for applications where space is limited, and high performance is required, particularly in environments where electromagnetic interference (EMI) needs to be minimized.

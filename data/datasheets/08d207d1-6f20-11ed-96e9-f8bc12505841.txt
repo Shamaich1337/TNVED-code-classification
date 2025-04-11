@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FYL-3014IRAC1A-50 production of FORYARD OPTOELECTRONICS from the text:Model. No. FYL-3014UWC1A \nRev. A \n \nHttp://www.foryard.com  \n    \nPRODUCT SPECIFICATIONPRODUCT SPECIFICATIONPRODUCT SPECIFICATIONPRODUCT SPECIFICATION     \n    \n    \nModel No. Model No. Model No. Model No. ：：：：FYL FYL FYL FYL-- --33 3301 01 01 0144 44UU UUWW WWCC CC11 11AA AA    \nDescriptions: \n■Dice material:InGaN. \n■Emitting Color: Super Bright White. \n■Device Outline: Φ3mm Round Type. \n■Lens Type: Water clear. \n \n \n    \n    \n    \n    \n    \n    \nCUSTOMER APPROVED \nSIGNATURES APPROVED BY  CHECKED BY PREPARED BY \n           \n \nNINGBO FORYARD OPTOELECTRONICS CO.,LTD. \nAdd: NO.115 Qixin Road Ningbo Zhejiang China              Zip: 315051   \nTel:    0086-574-87933652  87927870  87922206 \nFax:  0086-574-87927917   \nE-mail: Sales@foryard.com （General ） \nHttp://www.foryard.com  \nModel. No. FYL-3014UWC1A \nRev. A \n \nHttp://www.foryard.com      \n\x01 Features                                                                            \n1.  Low power consumption. \n2.  High efficiency. \n3.  General purpose leads.  \n4.  High intensity. \n5.  RoHs compliant. \n\x01 Package configura  tion \n \nNotes: \n1. All dimensions are millimeters (inches)  \n2. Tolerance is ±0.25mm(.010”) unless otherwise not ed. \n3. The specifications, characteristics and technica l data described in the datasheet are subject to \nchange without prior notice. \nModel. No. FYL-3014UWC1A \nRev. A \n \nHttp://www.foryard.com   \n                                                                                               \n\x01 Absolute maximum ratings(Ta=25 ゜с) \nParameter MAX. Unit \nPower Dissipation 90 mW \nPeak Forward Current (1/10 Duty Cycle, 0.1ms Pulse Width) 100 mA \nContinuous Forward Current 25 mA \nDerating Linear From 50 ℃ 0.4 mA/ ℃ \nReverse Voltage 5 V \nOperating Temperature Range -40℃ to +85℃ \nStorage Temperature Range -40  to +100℃ ℃  \nLead Soldering Temperature[4mm(.157”) From Body] 26 0  for 5 Seconds℃  \n \n\x01 Electrical and optical characteristics(Ta=25 ゜с) \nParameter Symbol  Min. Typ. Max. Unit Test Condition \nLuminous Intensity I V 8000 12000  15000  mcd \nIF=20mA Viewing Angle 2θ 1/2  25 30 35 Deg \nChromaticity \ncoordinates X -- 0.29   \nY  0.30   \nColor temperature CCT -- 9500 -- K \nForward Voltage V F 2.8 3.2 3.6 V \nReverse Current I R     10   µA V R=5V \n    \n    \n    \n    \n    \n    \n    \n    \n    \nModel. No. FYL-3014UWC1A \nRev. A \n \nHttp://www.foryard.com      \n\x01 Typical Electrical Characteristics Curves \n(25 (25 (25 (25 ゜゜ ゜゜с Ambient Temperature Unless Otherwise Noted) с Ambient Temperature Unless Otherwise Noted) с Ambient Temperature Unless Otherwise Noted) с Ambient Temperature Unless Otherwise Noted)    \nInGaN/Al2O\n3\n \nRa Ra Ra Radiation pattern.  diation pattern.  diation pattern.  diation pattern.      \n \n \n \n \n \n \nRelative Lumionous Intensity(LOP @max=1) \nModel. No. FYL-3014UWC1A \nRev. A \n \nHttp://www.foryard.com  FORYARD \nO P T O E L E C T R O N I C S \nLED LED LED LED \nPN:FYL-xxxxxxxx-xx \nQty:XXXXX PCS \nDate:xxxx/xx/xx \nGW: xx      KG \nNW: xx      KG \nxxxxxxxxxx RoHS RoHS RoHS RoHS \nATTENTION ATTENTION ATTENTION ATTENTION 6 Boxes/Carton \nQC: QC PASS Part NO: FYL-XXXXXX \nxxxx/xx/x x  FORYARD \nQC: QC PASS \nxxxxxxxxxx  \nFORYARD \nO P T O E L E C T R O N I C S \nwww.foryard.com RoHS RoHS RoHS RoHS \nOUTSIDE LABEL \nOUTSIDE LABEL  \n\x01 LAMP PACKING. \n \n \n \n \n \n \n                                 \n3mm 1000PCS/Polybag \n                                                         \n \n \n \n                                                             \n \n \n \n \n \n \n \n \n \n12000PCS/ Box  \n \n \n \n72000PCS/ Carton \n \n \n \n \n \n \n \n'}]
+!==============================================================================!
+### Component Summary for FYL-3014IRAC1A-50
+
+**Component Type:** LED (Light Emitting Diode)
+
+**Description:**
+The FYL-3014IRAC1A-50 is a high-intensity, super bright white LED made from InGaN (Indium Gallium Nitride) material. It features a round type package with a diameter of 3mm and a water-clear lens, making it suitable for various lighting applications.
+
+### Key Specifications:
+
+- **Voltage Ratings:**
+  - Forward Voltage (Vf): 2.8V (Min) to 3.6V (Max) at 20mA
+  - Reverse Voltage (Vr): 5V
+
+- **Current Ratings:**
+  - Continuous Forward Current: 25 mA
+  - Peak Forward Current (1/10 Duty Cycle, 0.1ms Pulse Width): 100 mA
+  - Reverse Current: 10 µA at 5V
+
+- **Power Consumption:**
+  - Power Dissipation: 90 mW
+
+- **Operating Temperature Range:**
+  - Operating: -40°C to +85°C
+  - Storage: -40°C to +100°C
+
+- **Package Type:**
+  - Φ3mm Round Type
+
+- **Special Features:**
+  - Low power consumption
+  - High efficiency
+  - High intensity
+  - RoHS compliant
+  - Derating: 0.4 mA/°C from 50°C
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data, but typically LEDs are classified under MSL 1 or 2.
+
+### Typical Applications:
+The FYL-3014IRAC1A-50 LED is commonly used in various applications, including:
+- General lighting solutions
+- Indicator lights
+- Backlighting for displays
+- Decorative lighting
+- Automotive lighting
+- Signal and display applications
+
+This LED's high luminous intensity and efficiency make it suitable for both consumer and industrial applications where bright, reliable lighting is required.

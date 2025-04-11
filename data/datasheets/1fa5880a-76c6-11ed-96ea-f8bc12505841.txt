@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 39012100 production of MOLEX from the text:This document was generated on 10/07/2022\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nPart Number: 0039012100\nStatus: Active\nOverview: Mini-Fit Family Power Connectors\nDescription: Mini-Fit Jr. Receptacle Housing, Dual Row, 10 Circuits, UL 94V-2, Natural\nDocuments:\nDrawing (PDF) Product Specification PS-5556-002-001 (PDF)\n3D Model Application Specification 55560001-AS-000 (PDF)\n3D Model (PDF) Application Specification AS-5557-001-001 (PDF)\nProduct Specification 55560002-PS-CH-000 (PDF) Packaging Specification PK-5557-002-000 (PDF)\nProduct Specification 55560002-PS-ES-000 (PDF) Test Summary 55560010-TS-000 (PDF)\nProduct Specification 55560002-PS-SK-000 (PDF) Test Summary TS-5556-002-001 (PDF)\nProduct Specification PS-45750-001-001 (PDF) RoHS Certificate of Compliance (PDF)\nProduct Specification PS-5556-001-001 (PDF)\nAgency Certification\nCSA LR19980\nUL E29179\nGeneral\nProduct Family Crimp Housings\nSeries 5557\nApplication Power, Wire-to-Board, Wire-to-Wire\nComments Current = 13A max. per circuit when header is\nmated to a receptacle loaded with 45750 series\nterminals crimped to 16 AWG wire. See Molex product\nspecification PS-45750-001 for additional current\nderating information.\nOverview Mini-Fit Family Power Connectors\nProduct Name Mini-Fit Jr.\nTaxonomy Connector Housings\nUPC 800753584365\nPhysical\nBreakaway No\nCircuits (maximum) 10\nColor - Resin Natural\nFlammability 94V-2\nGender Receptacle\nGlow-Wire Capable No\nMaterial - Resin Nylon\nNet Weight 2.128/g\nNumber of Rows 2\nPackaging Type Bag\nPanel Mount No\nPitch - Mating Interface 4.20mm\nPitch - Termination Interface 4.20mm\nPolarized to Mating Part Yes\nStackable No\nTemperature Range - Operating -40° to +105°C\nElectrical\nCurrent - Maximum per Contact 13.0A\nSolder Process Data\nLead-freeProcess Capability N/A\nMaterial Info\nSeries image - Reference only\nEU ELV\nCompliant\nEU RoHS China RoHS\nCompliant\nREACH SVHC\nNot Contained Per -\nD(2022)4187-DC (10\nJune 2022)\nHalogen-Free\nStatus\nLow-Halogen\nFor more information, please visit Contact US\nChina ROHS Green Image\nELV Compliant\nRoHS Phthalates Not Contained\nSearch Parts in this Series\n5557 Series\nMates With\n5559 Dual Row, 5566 Vertical with Pegs,\n5566 Vertical without Pegs, 5569 Right\nAngle Dual Row with Flanges, 5569 Right\nAngle Dual Row with Pegs, 43810 , 44068 ,\n44281 , 87427 , 42404 , 42440\nUse With\nMini-Fit Female Crimp Terminals 5556\n<br>Mini-Fit Plus HCS Crimp Terminal\n45750 <br>Mini-Fit Pre-Crimped Leads\n797580001  , 797580009  <br>Mini-Fit Jr.\nBackshell 204723\nEngineering Number 5557-10R\nReference - Drawing Numbers\nApplication Specification 55560001-AS-000, AS-5557-001-001\nPackaging Specification PK-5557-002-000\nProduct Specification 55560002-PS-CH-000, 55560002-PS-ES-000,\n55560002-PS-SK-000, PS-45750-001-001,\nPS-5556-001-001, PS-5556-002-001\nSales Drawing SD-5557-003-000\nTest Summary 55560010-TS-000, TS-5556-002-001\nThis document was generated on 10/07/2022\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 0039012100
+
+**Component Type:** Connector Housing  
+**Description:** Mini-Fit Jr. Receptacle Housing, Dual Row, 10 Circuits, UL 94V-2, Natural
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated; typically determined by the terminals used.
+- **Current Ratings:** Maximum of 13A per circuit when mated with 45750 series terminals crimped to 16 AWG wire.
+- **Power Consumption:** Not specified; dependent on the application and connected components.
+- **Operating Temperature Range:** -40°C to +105°C.
+- **Package Type:** Bag.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided information.
+- **Special Features/Notes:** 
+  - Flammability rating of 94V-2.
+  - Polarized to mating part for secure connections.
+  - Low-Halogen and compliant with EU RoHS and China RoHS regulations.
+
+#### Description:
+The MOLEX 0039012100 is a Mini-Fit Jr. receptacle housing designed for power applications. It features a dual-row configuration with a maximum of 10 circuits, allowing for efficient wire-to-board and wire-to-wire connections. The housing is made from natural nylon resin, which provides durability and resistance to flammability.
+
+#### Typical Applications:
+This connector housing is commonly used in various power management applications, including:
+- Power distribution in consumer electronics.
+- Automotive wiring harnesses.
+- Industrial equipment connections.
+- Telecommunications equipment.
+- Any application requiring reliable wire-to-board or wire-to-wire connections.
+
+The Mini-Fit Jr. series is particularly favored for its versatility and ability to handle significant current loads, making it suitable for a wide range of electronic devices and systems.

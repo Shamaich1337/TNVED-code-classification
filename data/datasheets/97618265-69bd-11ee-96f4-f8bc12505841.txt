@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of LFCN-80+ production of MINI-CIRCUITS from the text:Low Pass FilterCERAMIC\nLFCN-80+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 1 OF 3 50Ω         DC1 to 80 MHz  \nCASE STYLE: FV1206\n+RoHS Compliant\nThe +Suffix identifies RoHS Compliance. See our web site \nfor RoHS Compliance methodologies and qualificationsGeneric photo used for illustration purposes only\n3. Passband rating, derate linearly to 3.5W at 100°C ambient.\nPermanent damage may occur if any of these limits are exceeded. 1. In Application where DC voltage is present at either input or output ports, coupling capacitors are required.\n2. Measured on Mini-Circuits Characterization Test Board TB-270.ELECTRICAL SPECIFICATIONS1,2 AT 25°C\nParameter F# Frequency (MHz) Min. Typ. Max. Units\nPassbandInsertion Loss DC-F1 DC-80 — — 1.0 dB\nFreq. Cut-Off F2 145 — 3.0 — dB\nVSWR DC-F1 DC-80 — 1.2 — :1\nStop BandRejection LossF3200 20 — —\ndB F4-F5 225-1550 — 40 —\nF6 4500 — 20 —\nVSWR F3-F6200-4500 — 20 —:1\nParameter Ratings\nOperating temperature -55°C to 100°C\nStorage temperature -55°C to 100°C\nRF Power Input38.5 W max. at 25°CMAXIMUM RATINGS TYPICAL FREQUENCY RESPONSE\nFUNCTIONAL SCHEMATIC\nREV. K\nECO-011362\nLFCN-80+\nRVN/AD/CP/AM\n22010720\n340ATTENUATION (dB)1\nF2 F3 F1 DC F4 F5 F6\nFREQUENCY\nRF IN RF OUTFEATURES\n yExcellent power handling, 8.5W\n ySmall size\n y7 sections\n yTemperature stable\n yLTCC construction\n yProtected by U.S Patent 6,943,646\nAPPLICATIONS\n yHarmonic rejection \n yVHF/UHF transmitters/receivers\nLow Pass FilterCERAMIC\nLFCN-80+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com www.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 2 OF 3RF IN 1\nRF OUT 3\nGROUND 2,4PIN CONNECTIONS OUTLINE DRAWING\nDEMO BOARD MCL P/N: TB-270\nSUGGESTED PCB LAYOUT  (PL-137)PRODUCT MARKING: N/A\nOUTLINE DIMENSIONS (Inches ) mmPCB Land Pattern \nSugges ted Layout, \nTolerance to be within ±.002  (ON TOP)\n (ON TOP)\nABCDE FG\n.126 .063 .037 .020 .032 .009 .169\n3.20 1.60 0.94 0.51 0.81 0.23 4.29\nH J K L M N P wt\n.087 .024 .122 .024 .087 .012 .071 grams\n2.21 0.61 3.10 0.61 2.21 0.30 1.80 .020\nTAPE & REEL INFORMATION: F71\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 3 OF 3\nNOTES\nA.Performance and quality attributes and conditions not expressly stated in this specification document are intended to be excluded and do not form a part of this specification document. \nB.Electrical specifications and performance data contained in this specification document are based on Mini-Circuit’s applicable established test performance criteria and measurement instructions. \nC.The parts covered by this specification document are subject to Mini-Circuits standard limited warranty and terms and conditions (collectively, “Standard Terms”); Purchasers of this part are entitled to the rights \nand benefits contained therein. For a full statement of the standard. Terms and the exclusive rights and remedies thereunder, please visit Mini-Circuits’ website at www.minicircuits.com/MCLStore/terms.jsp\nLow Pass FilterCERAMIC\nLFCN-80+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.comFrequency \n(MHz)Insertion Loss\n(dB)VSWR\n(:1)\n1.00 0.22 1.05\n50.00 0.55 1.12\n70.00 0.71 1.14\n80.00 0.80 1.14\n145.00 2.99 2.04\n165.00 5.76 2.22\n195.00 32.37 6.86\n215.00 40.63 9.23\n230.00 42.19 10.31\n800.00 46.02 78.97\n1550.00 43.17 69.49\n2500.00 32.98 72.39\n3500.00 30.05 72.39\n4500.00 25.72 44.55\n5000.00 24.34 30.49TYPICAL PERFORMANCE DATA AT 25°C\nLFCN-80\nINSERTION LOSS\n0102030405060\n0 1000 2000 3000 4000 5000\nFREQUENCY (MHz)INSERTION LOSS (dB)LFCN-80\nVSWR\n1101001000\n0 1000 2000 3000 4000 5000\nFREQUENCY (MHz)VSWR\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Mini-Circuits:   \n\xa0 LFCN-80+\n'}]
+!==============================================================================!
+### Component Summary: LFCN-80+ Low Pass Filter
+
+**Manufacturer:** Mini-Circuits  
+**Product Code:** LFCN-80+  
+**Type:** Low Pass Filter (Ceramic)  
+**Case Style:** FV1206  
+**RoHS Compliance:** Yes (+ suffix indicates RoHS compliance)
+
+#### Key Specifications:
+- **Voltage Ratings:** Not specified (DC voltage coupling requires capacitors)
+- **Current Ratings:** Not specified
+- **Power Consumption:** 
+  - RF Power Input: 38.5 W max at 25°C
+  - Derate linearly to 3.5 W at 100°C ambient
+- **Operating Temperature Range:** -55°C to 100°C
+- **Storage Temperature Range:** -55°C to 100°C
+- **Insertion Loss (at 25°C):** 
+  - DC to 80 MHz: Max 1.0 dB
+  - Cut-off Frequency (145 MHz): Max 3.0 dB
+- **VSWR (Voltage Standing Wave Ratio):** 
+  - DC to 80 MHz: Max 1.2:1
+- **Stop Band Rejection Loss:**
+  - 200 MHz: Min 20 dB
+  - 225-1550 MHz: Min 40 dB
+  - 4500 MHz: Min 20 dB
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+#### Description:
+The LFCN-80+ is a ceramic low pass filter designed to allow signals below a certain frequency (80 MHz) to pass while attenuating signals above this frequency. It is constructed using Low-Temperature Co-fired Ceramic (LTCC) technology, which provides excellent thermal stability and power handling capabilities. The filter is compact, featuring a seven-section design that enhances its performance characteristics.
+
+#### Typical Applications:
+- **Harmonic Rejection:** Used in applications where it is critical to suppress unwanted harmonic frequencies.
+- **VHF/UHF Transmitters/Receivers:** Ideal for communication systems operating in the VHF and UHF bands, where filtering out higher frequency noise is essential for signal clarity.
+- **RF Signal Processing:** Suitable for various RF applications where low pass filtering is required to maintain signal integrity.
+
+This low pass filter is particularly useful in RF design, ensuring that only the desired frequency components are transmitted while minimizing interference from higher frequency signals.

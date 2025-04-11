@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-GSM-P1-02 production of MG ANTENNAS from the text: \n  \nПартномер   MG-GSM -P1-02 \n \nПроизводитель : Xiamen Lineyi Trading Co., Ltd  \nОписание: пассивные антенны для сетей сотовой связи, не \nсодержат приёмо -передающих устройств, а также средств \nшифрования и криптографии, не являются средствами \nпожарной автоматики. диапазон частот 824 -894/1710 -\n1990мгц и 890 -960/1710 -1890мгц, усиление 5 дб, ксв не \nболее 1,5, размеры 108x18x5 мм, подключение через \nкабель rg174 с разъемом SMA, монтаж на самоклеющееся \nоснование.  \nПрименение: пассивные антенны для сетей сотовой связи  \n\n'}]
+!==============================================================================!
+### Component Summary for MG-GSM-P1-02
+
+**Manufacturer:** Xiamen Lineyi Trading Co., Ltd  
+**Product Code:** MG-GSM-P1-02
+
+#### Key Specifications:
+- **Frequency Range:** 
+  - 824 - 894 MHz
+  - 1710 - 1990 MHz
+  - 890 - 960 MHz
+  - 1710 - 1890 MHz
+- **Gain:** 5 dB
+- **VSWR (Voltage Standing Wave Ratio):** Not more than 1.5
+- **Dimensions:** 108 mm x 18 mm x 5 mm
+- **Connection Type:** RG174 cable with SMA connector
+- **Mounting:** Self-adhesive base
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+#### Description:
+The MG-GSM-P1-02 is a passive antenna designed for cellular communication networks. It does not contain any receiving or transmitting devices, nor does it include encryption or cryptographic means. This antenna is specifically engineered to enhance signal reception and transmission for mobile communication devices operating within the specified frequency ranges.
+
+#### Typical Applications:
+The MG-GSM-P1-02 is primarily used in cellular communication systems. Its applications include:
+- Enhancing signal strength for mobile phones and other cellular devices.
+- Used in various telecommunications setups where improved signal quality is required.
+- Suitable for installation in environments where a reliable cellular connection is necessary, such as homes, offices, and vehicles.
+
+This antenna is ideal for users looking to improve their mobile network performance without the complexity of active components.

@@ -1,0 +1,51 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MT460CB22DT6 production of YANGZHOU YANGJIE ELECTRONIC from the text:MT460CB-DT6\nwww.21yangjie.com\n1\nCOMPLIANTRoHS\nModuleType\nMaximumRatings\nThermalCharacteristics\nThyristorModules\nVRRM/VDRM2000to2400V\nITAV 460A\nFeatures\n\uf09fInternationalstandardpackage\n\uf09fHighSurgeCapability\n\uf09fSimpleMounting\nTYPE\nVRRM\nVRSM\nMT460CB20DT6\nMT460CB22DT6\nMT460CB24DT62000V\n2200V\n2400V2200V\n2400V\n2600V\nSymbol\nConditions\nValues\nUnits\nITAV Sine180o;Tc=85℃ 460 A\nITSM TVJ=125℃t=10ms,sine 13000 A\ni2t TVJ=125℃t=10ms,sine 845000 A2s\nVisola.c.50HZ;r.m.s.;1min,Iiso:2mA(MAX) 3000 V\nTvj -40to125 ℃\nTstg -40to125 ℃\nMt Toterminals(M10) 12±15% Nm\nMs Toheatsink(M6) 6±15% Nm\ndi/dtTVJ=TVJM,VDM=2/3VDRM 100 A/us\ndv/dtTJ=TVJM,2/3VDRM,linearvoltagerise 1000 V/us\nWeightModule(Approximately) 1650 g\nSymbol\nConditions\nValues\nUnits\nRth(j-c)perchip 0.065 ℃/W\nRth(c-h)permodule 0.024 ℃/W\nCircuit\nApplications\n\uf09fPowerConverters\n\uf09fLightingControl\n\uf09fDCMotorControlandDrives\n\uf09fHeatandtemperaturecontrol\n\nMT460CB-DT6\nwww.21yangjie.com\n2\nCOMPLIANTRoHS\nElectricalCharacteristics\nPerformanceCurves\nSymbol\nConditions\nValues\nUnits\nMin.\nTyp.\nMax.\nVTM T=25℃ITM=1400A 1.65 V\nIRRM/IDRMTVJ=TVJM,VR=VRRM,VD=VDRM 40 mA\nVGTTVJ=25℃,VD=12V,RG=3Ω 0.8 2.5 V\nIGT TVJ=25℃,VD=12V,RG=3Ω 30 150mA\nIL TVJ=25℃,VD=12V,RG=3Ω 1000mA\nIH TVJ=25℃,VD=12V,RG=3Ω 20 150mA\nFi\ng\n1.PeakOn-stateVolta\ng\neVsPeakOn-state Fig2.Max.junctionTocaseThermai\nImpedanceVsTime\nFig3.SurgeCurrentVsCycles Fig4.GateTriggerZoneatvaries\ntemperature\n\nMT460CB-DT6\nwww.21yangjie.com\n3\nCOMPLIANTRoHS\nPackageOutlineInformation\nCASE:DT6\nDimensionsinmm\nFig5.Max.PowerDissipationVsMeanOn-state\nCurrentFig6.MaxcaseTemperatureVsMean\nOn-stateCurrent\n\n'}]
+!==============================================================================!
+### Component Summary for MT460CB22DT6
+
+**Component Type:** Thyristor Module
+
+**Description:**
+The MT460CB22DT6 is a high-power thyristor module designed for applications requiring robust performance in controlling high voltages and currents. It is part of the MT460 series, which is compliant with RoHS standards. This module is particularly noted for its high surge capability and simple mounting features, making it suitable for various industrial applications.
+
+### Key Specifications:
+
+- **Voltage Ratings:**
+  - Maximum Repetitive Reverse Voltage (VRRM): 2200 V
+  - Maximum Surge Voltage (VRSM): 2600 V
+
+- **Current Ratings:**
+  - Average On-state Current (ITAV): 460 A (at Tc = 85°C)
+  - Maximum Surge Current (ITSM): 13000 A (for 10 ms)
+  - Maximum I²t Rating: 845000 A²s (for 10 ms)
+
+- **Power Consumption:**
+  - On-state Voltage Drop (VTM): 1.65 V (at ITM = 1400 A, T = 25°C)
+
+- **Operating Temperature Range:**
+  - Junction Temperature (Tvj): -40 to 125 °C
+  - Storage Temperature (Tstg): -40 to 125 °C
+
+- **Package Type:**
+  - Case Type: DT6
+  - Weight: Approximately 1650 g
+
+- **Thermal Characteristics:**
+  - Thermal Resistance (junction-to-case) per chip (Rth(j-c)): 0.065 °C/W
+  - Thermal Resistance (case-to-heatsink) per module (Rth(c-h)): 0.024 °C/W
+
+- **Special Features:**
+  - High surge capability
+  - Simple mounting design
+  - International standard package
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+### Typical Applications:
+The MT460CB22DT6 is commonly used in:
+- **Power Converters:** For converting electrical power from one form to another efficiently.
+- **Lighting Control:** In systems that require precise control of lighting levels.
+- **DC Motor Control and Drives:** For controlling the speed and torque of DC motors in various applications.
+- **Heat and Temperature Control:** In systems that require regulation of temperature through electrical means.
+
+This thyristor module is ideal for applications that demand high reliability and performance in power management and control systems.

@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ECS-3518-250-B-TR production of ECS from the text: \n \n \n \n   \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n Parameters Conditions ECS-3518 (+1.8V) ECS-3525 (+2.5V) \nUnits \nMIN TYP MAX MIN TYP MAX \nFrequency Range  1.544  125.00 1.544  125.00 MHz \nOperating \nTemperature  Standard 0  +70 0  +70 °C \nExtended (N Option) -40  +85 -40  +85 °C \nStorage Temperature  -55  +125 -55  +125 °C \nSupply Voltage  VDD +1.62 +1.8 +1.98 +2.25 +2.5 +2.75 VDC \nFrequency Stability*  Option A   ±100   ±100 PPM \nOption B   ±50   ±50 PPM \nOption C   ±25   ±25 PPM \nInput Current  1.544 ~ 9.999 MHz   6   7 mA \n10.000 ~ 34.999 MHz   7   8 mA \n35.000 ~ 49.999 MHz   15   20 mA \n50.000 ~ 125.000 MHz   25   30 mA \nOutput Symmetry @50% VCC Level    40/60   40/60 % \n@50% VCC Level  \n(T Option)   45/55   45/55 % \nRise and Fall Times 10% VDD to 90% Level   5   6 ns \n“0” Level VOL   VCC *10%   VCC *10% VDC \n“1” Level VOH VCC *90%   VCC *90%   VDC \nOutput Load HCMOS   30   30 pF \nStartup Time    10   10 ms \n ECS      -          Series        -   Frequency Ab breviations -     Stability         -          Temp erature -                Output Symmetry        -          Packaging \n200 = 20 MHz \n ECS  3518 = +1.8V \n3525 = +2.5V \nECS -3518  (1.8 V) and ECS -3525  (2.5V ) sub miniature SMD \noscillators, ideal for today’s high density applica tions. \nA = ±100 ppm \nB = ±50 ppm \nC = ±25 ppm \n ECS-3518/3525 \nSMD Clock Oscillator  \nOPERATING CONDITIONS / ELECTRICAL CHARACTERISTICS  \n15351 West 109th Street  |  Lenexa, KS 66219  |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  Blank = -0 ~ 70°C \n      M = -20 ~ +70°C \n       N = -40 ~ +85°C  TR = Tape & Reel \n1K/Reel \n ECS-3518/3525 \n• 1.8V or 2.5V Versions \n• 3.2 x 5.0 mm Footprint \n• Extended Temp Range \nOption \n• PbFree/RoHS Compliant  \nBlank = 40/60 STD \n       T = 45/55 \n Part Numbering Guide:  ECS-3525-200-AN-TR  \nRequest a Sample \n* Note: Inclusive of 25°C tolerance, operating temp erature, range, input voltage change, load change, shock, aging and vibration. \n\n \n \n \n \n \n \n \n \n \n  \n  \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n  Package Dimensions (mm)  \nFigure 1)  Top, Side, and Bottom views \n15351 West 109th Street  |  Lenexa, KS 66219  |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \nFigure 2)  Land Pattern \nTri-State Control Voltage \nPad 1 Pad 3 \nOpen Oscillation \n1 Level Oscillation \n0 Level High Impedance \n \n Pad Connections \n#1 Tri-State \n#2 Ground \n#3 Output \n#4 VCC \n ECS-3518/3525 \nSMD Clock Oscillator  \nFigure 3)  Suggested Reflow Profile \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nECS-3518/3525 \nSMD Clock Oscillator  \n15351 West 109th Street  |  Lenexa, KS 66219  |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \nTape Dimensions (mm)  \nFigure 4)  Pocket Tape Dimensions Package Data \nItem Description \nLid Metal \nBase  Ceramic \nSealing Seam Weld \nTerminal Tungsten (Metalized) \nPlating Gold/Nickel \n(Surface)/(Under) \nRoHS Compliant (PbFree) \nMSL 1 \n \n \n'}]
+!==============================================================================!
+### Component Summary: ECS-3518-250-B-TR
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - Supply Voltage (VDD): +1.62 VDC (min), +1.8 VDC (typ), +1.98 VDC (max)
+- **Current Ratings**: 
+  - Input Current varies by frequency:
+    - 1.544 ~ 9.999 MHz: 6-7 mA
+    - 10.000 ~ 34.999 MHz: 7-8 mA
+    - 35.000 ~ 49.999 MHz: 15-20 mA
+    - 50.000 ~ 125.000 MHz: 25-30 mA
+- **Power Consumption**: Varies with frequency; maximum current at higher frequencies is 30 mA.
+- **Operating Temperature Range**: 
+  - Standard: 0°C to +70°C
+  - Extended (N Option): -40°C to +85°C
+- **Storage Temperature**: -55°C to +125°C
+- **Package Type**: SMD (Surface Mount Device), dimensions 3.2 x 5.0 mm
+- **Special Features**: 
+  - Frequency stability options: ±100 ppm (A), ±50 ppm (B), ±25 ppm (C)
+  - Tri-state control voltage feature
+  - PbFree/RoHS compliant
+- **Moisture Sensitive Level (MSL)**: MSL 1 (according to JEDEC J-STD-020E)
+
+#### Description:
+The ECS-3518-250-B-TR is a sub-miniature surface mount clock oscillator designed to provide precise frequency generation for electronic circuits. It operates at a supply voltage of 1.8V and is capable of generating frequencies ranging from 1.544 MHz to 125 MHz. The device is characterized by its compact size, making it suitable for high-density applications.
+
+#### Typical Applications:
+The ECS-3518-250-B-TR is commonly used in various applications, including:
+- **Timing and Clock Generation**: Essential for synchronizing operations in digital circuits.
+- **Microcontroller and Microprocessor Systems**: Provides clock signals for operation.
+- **Communication Equipment**: Used in data transmission systems to maintain timing accuracy.
+- **Consumer Electronics**: Found in devices requiring precise timing for functions such as audio and video processing.
+- **Industrial Automation**: Utilized in control systems where timing is critical.
+
+This oscillator is particularly beneficial in applications where space is limited and precise frequency control is necessary.

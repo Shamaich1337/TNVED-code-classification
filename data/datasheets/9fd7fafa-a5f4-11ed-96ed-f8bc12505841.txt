@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ASEAIG-40.000MHZ-C-S-T production of ABRACON from the text:LLCABRACON IS \nISO9001-2015\nCERTIFIED5101 Hidden Creek Ln Spicewood TX 78669\nPhone: 512-371-6159 | Fax: 512-351-8858\nFor terms and conditions of sales, please visit:\nwww.abracon.comREVISED : 09.09.2019Automotive & Industrial Grade SMD Crystal Oscillator\nPb 3.20 x 2.50 x 1.20mm\nRoHS/RoHS II Compliant\nMSL = N/A: Not ApplicableASEAIG\nFeatures Applications\nPart Identification (left blank if standard)\nSupply Voltage\nBlank: 3.3V±5%\n1: 3.0V±5%\n2: 2.5V±5%\n3: 1.8V±5%\n5: 1.8V±5% ~ 3.3±5%\nFreq. in MHz\ne.g. 24.576MHz\n      14.31818MHz\n      26.000MHzOperating Temp.\nBlank: -40°C to +125°C\nN: -30°C to +85°C\nL: -40°C to +85°C\nX: -40°C to +105°COverall Freq. \nStability\nBlank: ± 100 ppm\nR: ± 150 ppm\nC: ± 50 ppm\nP: ± 45 ppm (*)\nF: ± 40 ppm (*)\nH: ± 35 ppm (*)\nK: ± 30 ppm (*)\nW: ± 25 ppm (*)\nX: ± 20 ppm (*)Duty Cycle\nBlank: 40/60% @1/2Vdd\nS: 45/55% @1/2VddASEAIG MHz - - ---\n(*) Contact Abracon for\navailabilityPackaging\nBlank: Bulk\nT: 1k pcs / reel\nT3: 3k pcs / reel• AEC-Q200 Qualified  \n• Automotive Grade 1: -40°C to +125°C  \n• TS16949 Production Line Certified  \n• PPAP Available Upon Request  \n• Hermetically Seam-sealed Ceramic Package  \n• RoHS/RoHS II Compliant and Pb free• Infotainment Systems  \n• Keyless Entry & Startup  \n• GPS & Navigation  \n• Comfort control  \n• ADAS (Advanced Driver Assistance Systems)  \n• Vehicle to Vehicle Communication  \n• LiDAR (Light Detection and Ranging) \n• In-vehicle Networking  \n• Powertrain & Drive Control  \n• Power Control & Conversion  \n• Industrial Control & Automation\nLLCABRACON IS \nISO9001-2015\nCERTIFIED5101 Hidden Creek Ln Spicewood TX 78669\nPhone: 512-371-6159 | Fax: 512-351-8858\nFor terms and conditions of sales, please visit:\nwww.abracon.comREVISED : 09.09.2019Automotive & Industrial Grade SMD Crystal Oscillator\nPb 3.20 x 2.50 x 1.20mm\nRoHS/RoHS II Compliant\nMSL = N/A: Not ApplicableASEAIG\nParameters Min. Typ. Max. Unit Notes\nFrequency Range 1.25 156.25 MHz\nOperating Temperature Range -40 +125 °C Option “blank”; See options\nStorage Temperature -55 +125 °C Option “X, blank, L, N”\nOverall Frequency Stability [Note 1] -50  +50\nppmOption “C”; See options\n-100 +100 Option “blank”; See options\n-150  +150 Option “R”; See options\nSupply V oltage (Vdd)+1.71 +1.8 ~ +3.3 +3.465\nVOption “5”\n+3.135 +3.3 +3.465 Option “blank”\n+2.85 +3.0 +3.15 Option “1”\n+2.375 +2.5 +2.625 Option “2”\n+1.71 +1.8 +1.89 Option “3”\nSupply Current (Idd) \ninto 15pF LoadVdd = 3.3 V2.5 7.0\nmA1.250~20.000 MHz\n4.4 13.0 20.999~40.000 MHz\n6.5 19.0 40.999~60.000 MHz\n20.0 40.0 60.999~156.000 MHz\nVdd = 3.0 V2.5 7.0 1.250~20.000 MHz\n4.4 13.0 20.999~40.000 MHz\n6.5 19.0 40.999~60.000 MHz\n20.0 40.0 60.999~156.000 MHz\nVdd = 2.5 V2.0 8.0 1.250~20.000 MHz\n3.0 8.0 20.999~40.000 MHz\n5.0 15.0 40.999~60.000 MHz\n20.0 40.0 60.999~156.000 MHz\nVdd = 1.8 V1.0 4.0 1.250~20.000 MHz\n2.0 4.0 20.999~40.000 MHz\n3.0 6.0 40.999~60.000 MHz\n15.0 20.0 60.999~156.000 MHz\nDisable Current 10.0 μA\nOutput Load 15 pF CMOS\nOutput V oltageVOH0.9*VddVVOL0.1*Vdd\nTri-state function“1” (VIH≥0.7*Vdd) or Open: Oscillation;\n“0” (VIH<0.3*Vdd): No oscillation/Hi Z\nAging -2.0 +2.0 ppm @25°C± 3°C First year\nSymmetry @1/2Vdd40 50 60%Option “blank”\n45 50 55 Option “S”\nStart-up Time 2.0 5.0 ms\nRise/Fall Time (Tr/Tf)Vdd = 3.3 V 2.5 4.0\nnsVdd = 3.0 V 2.5 4.0\nVdd = 2.5 V 3.0 5.0\nVdd = 1.8 V 3.0 6.0Electrical Specifications\nNote 1: Inclusive of initial tolerance at time of shipment, changes in supply voltage, load, temperature and 1st year\nLLCABRACON IS \nISO9001-2015\nCERTIFIED5101 Hidden Creek Ln Spicewood TX 78669\nPhone: 512-371-6159 | Fax: 512-351-8858\nFor terms and conditions of sales, please visit:\nwww.abracon.comREVISED : 09.09.2019Automotive & Industrial Grade SMD Crystal Oscillator\nPb 3.20 x 2.50 x 1.20mm\nRoHS/RoHS II Compliant\nMSL = N/A: Not ApplicableASEAIG\nDimensions: mm\nMechanical Dimensions\nRecommend Land Pattern\nPin # Function\n1 Tri-state\n2 GND/Case\n3 Output\n4 VddElectrical Specifications Cont.\nParameters Min. Typ. Max. Unit Notes\nRMS Phase Jitter @ +25°C\n(10-39MHz: 12kHz to 5MHz)\n(>39MHz: 12kHz to 20MHz)Vdd = 3.3 V 0.5 < 1.0\npsVdd = 3.0 V 0.5 < 1.0\nVdd = 2.5 V 0.5 < 1.0\nVdd = 1.8 V  0.5 < 1.0\nPeriod Jitter RMSVdd = 3.3 V 3.0 5.0\npsVdd = 3.0 V 3.0 5.0\nVdd = 2.5 V 3.0 5.0\nVdd = 1.8 V 3.0 5.0\nNote: Recommend using an approximately\n0.01uF bypass capacitor between PIN 2 \nand PIN 4\nLLCABRACON IS \nISO9001-2015\nCERTIFIED5101 Hidden Creek Ln Spicewood TX 78669\nPhone: 512-371-6159 | Fax: 512-351-8858\nFor terms and conditions of sales, please visit:\nwww.abracon.comREVISED : 09.09.2019Automotive & Industrial Grade SMD Crystal Oscillator\nPb 3.20 x 2.50 x 1.20mm\nRoHS/RoHS II Compliant\nMSL = N/A: Not ApplicableASEAIG\nReflow Profile\nTp\nTL\nTLTp\nTSMINTSMAXRamp Up\nRamp DownCritical Zone \nTL  to Tp\n23\n1\nTimet 25˚C to Peak25PreheatTemperature\nZone Description Temperature Time\n1 Preheat / SoakTSMIN ~ TSMAX\n150°C ~ 180°C60 ~ 120 sec.\n2 ReflowTL\n230°C30 ~ 40 sec. \n3 Peak heatTP\n260°C±5°C5 sec. MAX\nLLCABRACON IS \nISO9001-2015\nCERTIFIED5101 Hidden Creek Ln Spicewood TX 78669\nPhone: 512-371-6159 | Fax: 512-351-8858\nFor terms and conditions of sales, please visit:\nwww.abracon.comREVISED : 09.09.2019Automotive & Industrial Grade SMD Crystal Oscillator\nPb 3.20 x 2.50 x 1.20mm\nRoHS/RoHS II Compliant\nMSL = N/A: Not ApplicableASEAIG\nPackaging\nT: 1000pcs/reel\nT3: 3000pcs/reel\nATTENTION:  Abracon LLC’s products are COTS – Commercial-Off-The-Shelf products; suitable for Commercial, Industrial and, where designated, Automotive Applica -\ntions. Abracon’s products are not specifically designed for Military, Aviation, Aerospace, Life-dependent Medical applications or any application requiring high reliability \nwhere component failure could result in loss of life and/or property. For applications requiring high reliability and/or presenting an extreme operating environment, \nwritten consent and authorization from Abracon LLC is required. Please contact Abracon LLC for more information.Dimensions: mm\n'}]
+!==============================================================================!
+### Component Summary: ASEAIG-40.000MHZ-C-S-T
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - Supply Voltage (Vdd): 
+    - 1.8V ± 5% (Option 3)
+    - 2.5V ± 5% (Option 2)
+    - 3.0V ± 5% (Option 1)
+    - 3.3V ± 5% (Option blank)
+- **Current Ratings**: 
+  - Supply Current (Idd) at Vdd = 3.3V:
+    - 2.5 mA (1.25 ~ 20.000 MHz)
+    - 4.4 mA (20.999 ~ 40.000 MHz)
+    - 6.5 mA (40.999 ~ 60.000 MHz)
+    - 20.0 mA (60.999 ~ 156.000 MHz)
+- **Power Consumption**: 
+  - Varies with frequency and supply voltage; maximum current can reach up to 20.0 mA.
+- **Operating Temperature Range**: 
+  - -40°C to +125°C (Automotive Grade)
+- **Package Type**: 
+  - SMD (Surface Mount Device) with dimensions of 3.20 x 2.50 x 1.20 mm.
+- **Special Features**: 
+  - AEC-Q200 Qualified
+  - TS16949 Production Line Certified
+  - Hermetically Seam-sealed Ceramic Package
+  - RoHS/RoHS II Compliant
+  - Tri-state output function
+- **Moisture Sensitive Level (MSL)**: 
+  - N/A: Not Applicable
+
+#### Description:
+The ASEAIG-40.000MHZ-C-S-T is an automotive and industrial-grade SMD crystal oscillator produced by Abracon. It operates at a frequency of 40.000 MHz and is designed to provide stable clock signals for various electronic applications. The device is characterized by its compact size, high reliability, and compliance with automotive standards, making it suitable for use in demanding environments.
+
+#### Typical Applications:
+- **Automotive Systems**: 
+  - Infotainment systems
+  - Keyless entry and startup
+  - GPS and navigation systems
+  - Advanced Driver Assistance Systems (ADAS)
+  - Vehicle-to-vehicle communication
+  - LiDAR (Light Detection and Ranging)
+  - In-vehicle networking
+  - Powertrain and drive control
+  - Power control and conversion
+- **Industrial Control**: 
+  - Automation systems requiring precise timing and frequency stability.
+
+This component is ideal for applications where reliable timing and frequency generation are critical, particularly in automotive and industrial environments.

@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DG-Z6-60-976-105-VBG production of DOGAIN from the text:DATASHEET \n光纤耦合半导体激光模块 \nFIBER COUPLED DIODE LASER MODULE \n60W 976nm 105/125 µm 产品 \nPN：DG-Z 6 -60-97 6-105-VBG \nVersion  Change Items  Released Date  \nV1.0 Initial  2022.11.15 \nDATASHEET  1  在水冷 25摄氏度下测得。 Tested at 25 ℃ water -cooled  heat sink. \n2  可根据客户 需求定制。 Others available upon request . \n3  超规格使用会导致激光器寿命下降。 Reduced lifetime if used above nominal operating condition.  \n4  激光波长会随热沉工作温度变化产生漂移。 Laser wavelength would shift when heat sink operating temperature is \nchanged . 光学参数1/ Optical Parameters1 单位/ Unit 最小值 / Min 典型值 / Typical  最大值 / Max \n连续输出功率/ CW Output  Power  W 60 \n中心波长2/ Central Wavelength  2 nm 976±0.5 \n光谱宽度 / Spectral Width  (FWHM)  nm 0.3 1 \n数值孔径 @95%功率/ NA @ 95% Power  - 0.15 \n锁波电流范围 / Locked C urrent  A 2-IOP\n光纤芯径 /Fiber Core Diameter  µm 105 \n光纤包层 / Fiber Cladding  Diameter  µm 125 \n光纤数值孔径  /Fiber  NA - 0.22 \n光纤长度 / Fiber Length m 1.5 2.0 \n光纤输出头 / Fiber  Connector  - FC \n防反射波段 / Back Reflection Isolation  Wavelength nm 1020  1200  \n防反射隔离度 / Back Reflection Isolation  dB 30 \n电学性能 / Electrical Parameters  最小值 / Min 典型值 / Typical  最大值 / Max \n电光转换效率 / Convers ion Efficiency  % 57 \n斜率效率 / Slope Efficiency  W/A 5 \n阈值电流 / Threshold Current  A 0.6 \n工作电流3/ Operating Current3 A 11 12 \n工作电压 / Operating  Voltage  V 8 9 10 \n热学性能 / Thermal Parameters  参考值 / Reference value  \n工作温度4/ Operating Temperature Range4 ℃ 25±5 (冷却液 ) \n存储温度 / Storage Temperature Range  ℃ -40 to 85\n温漂系数 / Wavel ength  Temperature  Coefficient  nm/A 0.01 \n其他参数 /Other parameters  最小值 / Min 典型值 / Typical  最大值 / Max \n重量/ Weight  g - \n焊接温度 / Soldering Temperature  ℃ 260 \n焊接时间 / Welding Time Sec 10 主要特性  Key Features:   应用领域  Application:  \n\uf06c高亮度 / High B rightness ●光纤激光泵浦 /Fiber Laser P ump \n\uf06c高电光转换效率 / High E -O Conversion\n\uf06c高可靠性 / High Reliability  \nDATASHEET  \n使用说明  Application Notes:  \n\uf06c输出激光是不可见光，使用时须遵守 IEC四级激光标准安全规范，避免激光直接或间接照射眼睛；\nThe laser beam is invisible, please follow the standard safety procedures for IEC Class 4 lasers, avoid\neyes exposure to radiation.\n\uf06c静电击穿导致半导体激光器失效，激光器安装人员须经过培训，操作时须佩戴防静电手腕带，工作台需接地 ；在供\n电连接头与激光器连接前，正负极应处于短接状态；\nESD cause diode laser failure, The operator should be trained, wearing ESD grounding straps and the\nwork surface should be grounded. The positive and negative poles shall be connected before the power\nsupply is connected with the  laser.\n\uf06c电流过冲可能损坏激光器，驱动电源须稳定无过冲。\nThe current overshoot may damage the laser, and the driving power mus t be stable without overshoot,外形尺寸 / Dimension s (mm)  \n\n'}]
+!==============================================================================!
+### Component Summary for DG-Z6-60-976-105-VBG
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Operating Voltage: 8V (min) to 10V (max), typical 9V
+- **Current Ratings:**
+  - Operating Current: 11A (min) to 12A (max)
+  - Threshold Current: 0.6A
+  - Locked Current Range: 2 - IOP (not specified)
+- **Power Consumption:**
+  - Continuous Output Power: 60W
+  - Conversion Efficiency: 57%
+  - Slope Efficiency: 5W/A
+- **Operating Temperature Range:**
+  - Operating Temperature: 25 ± 5°C (water-cooled)
+  - Storage Temperature: -40 to 85°C
+- **Package Type:**
+  - Fiber Coupled Diode Laser Module
+- **Special Features or Notes:**
+  - High brightness and high electro-optical conversion efficiency
+  - High reliability
+  - Laser wavelength shifts with changes in heat sink temperature
+  - Invisible laser output; must adhere to IEC Class 4 laser safety standards
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided data.
+
+#### Description:
+The DG-Z6-60-976-105-VBG is a fiber-coupled diode laser module designed for high-performance applications. It operates at a central wavelength of 976 nm with a continuous output power of 60W. The module is characterized by its high electro-optical conversion efficiency and reliability, making it suitable for demanding applications.
+
+#### Typical Applications:
+- **Fiber Laser Pumping:** The module is primarily used as a pump source for fiber lasers, which are utilized in various industrial and medical applications.
+- **High-Power Laser Systems:** It can be integrated into systems requiring high brightness and efficiency.
+- **Research and Development:** Suitable for experimental setups in photonics and laser technology research.
+
+This diode laser module is ideal for applications where high power and efficiency are critical, and it is essential to follow safety protocols due to the invisible nature of the laser output.

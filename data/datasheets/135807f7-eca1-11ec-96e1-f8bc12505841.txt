@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SSL310 production of YANGZHOU YANGJIE ELECTRONIC from the text: SSL3 4 THRU SSL3 10 \n \n 1 / 4 \n   Yangzhou Yangjie Electronic Technology Co., Ltd.  \n S-S408  \nRev. 2. 3, 11-May-15 www .21yangjie.com  \nSurface Mount  Schottky  Rectifier  \n \n \n                   Features  \n● Guardring for overvoltage protection  \n●Low forward voltage drop,Low power losses  \n● High forward surge capability  \n● High frequency operation  \n●Low forward voltage drop,Low power losses  \n● Sold er dip 2 60 ° C max. 10 s, per JESD 22 -B106  \n \n                                  Typical  Applications  \nFor use in low voltage high frequency inverters,  \nfreewheeling, DC/DC converters, and polarity protection  \napplications.  \n \n \n  Mechanical Dat a \n● Package : DO-2\n  \nMolding compound meets UL 94 V -0 flammability \nrating, RoHS -compliant  \n● Terminals : Tin plated leads, solderable  per  J -STD-\n002 and JESD22 -B102  \n                                                                               ● Polarity: Color band de notes the cathode end\n■Maximum Ratin gs (Ta=25℃ Unless otherwise  specified ） \nPARAMETER  SYMBOL  UNIT  SSL3 4 SSL3 6 SSL3 10 \nDevice marking code    SSL3 4 SSL3 6 SSL3 10 \nRepetitive P eak Reverse Voltage  VRRM V 40 60 100 \nAverage Rectif ied Output Cur rent  \n@60Hz sine  wave, Resistance load, Ta (FIG.1)  IO A 3.0 \nForward  Surge   Current (Non-repetitive)  \n@60Hz Half -sine wave,1 cycle, Ta=25 ℃ IFSM A 60 \nStorage  Temperature  Tstg ℃ -55 ~+150  \nJuncti on Temperature  Tj ℃ -55 ~+1 25 -55 ~+150  \n \n■Electrical Characteristics （Ta=25℃ Unless otherwise  specified ） \nPARAMETER  SYMBOL  UNIT  TEST CONDITIONS  SSL3 4 SSL3 6 SSL3 10 \nMaximum instantaneous  \nforward voltage drop per diode  VF V IFM=3.0A 0.45 0.5 0.6 \nMaximum DC reverse current  \nat rated DC blocking voltage  \nper diode  IR mA Ta=25℃ 0.5 \nTa=100℃ 50 \nTypical junction capacitance  Cj pF Measured at 1MHZ  \nand Applied Reverse \nVoltage of 4.0 V.D.C.  220 180 130 \n COMPL IANT RoHS  \n\n SSL3 4 THRU SSL3 10 \n \n 2 / 4 \n   Yangzhou Yangjie Electronic Technology Co., Ltd.  \n S-S408  \nRev. 2. 3, 11-May-15 www .21yangjie.com  \n■Thermal Characteristics （Ta=25℃ Unless otherwise  specified ） \nPARAMETER  SYMBOL  UNIT  SSL3 4 SSL3 6 SSL3 10 \nThermal \nResis tance  Junction to l ambient  RθJ-L ℃/W 48(1) \nJunction to lead  RθJ-L ℃/W 13(1) \n \nNote(1) \nThermal resistance from junction to ambient  and from junction to lead mounted on P.C.B. with 0.6" x 0. 6" (16 mm x 16 mm) copper pad areas  \n \n■Ordering Information  (Example)  \nPREFERED P/N  PACKAGE  \nCODE  UNIT WEIGHT(g)  MINIMUM \nPACKAGE(pcs)  INNER BOX \nQUANTITY(pcs)  OUTER CARTON \nQUANTITY(pcs)  DELIVERY \nMODE  \nSSL34~SSL310  F1 Approximate  0.252 3000  6000  42000 13” reel  \n \n■ Characteristics(Typical)  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n8.3ms Single Half Sine Wave\nJEDEC Method\n1 2 10 20 10020100\n80\n60\n40\n0Peak Forward Surge Current (A)\nNumber of Cycles                         FIG.2 : Forward Surge  Current Capability\n050 150   Resistive or Inductive Load\nP.C.B. Mounted on 0.6"× 0.6"\n(16mm× 16mm)Copper Pad Areas\n1003.0\n0\n25 75 1252.5\n2.0\n1.5\n1.0\n0.5Average Forward Output Current (A)\nAmbient Temperature (℃)FIG.1: Io-Ta Curve\nSSL34SSL36-SSL310\n0.01\n0.40.11\n0.6 0.8 1.0 0.2 0Instantaneous Forward Current (A )\nInstantaneous Forward  Voltage (V)                FIG.3: Forward  Voltage\n0.020.050.5246\nSSL34\nSSL36SSL310\nTj=25℃Tj=100℃\n0.0010.01\n0 20 40 60 80 1000.11.010100\nSSL310\nSSL34-SSL36FIG.4: Typical Reverse Characteristics\nPercent of Rated Peak Reverse Voltage (%)Instantaneous Reverse Current ( mA)\n SSL3 4 THRU SSL3 10 \n \n 3 / 4 \n   Yangzhou Yangjie Electronic Technology Co., Ltd.  \n S-S408  \nRev. 2. 3, 11-May-15 www .21yangjie.com  \n■ Outline Dimensions  \n \n \nDO-214AB (SMC)  \nDim Min Max \nA 6.60 7.11 \nB 2.85 3.27 \nC 5.59 6.22 \nD 7.75 8.13 \nE 1.99 2.61 \nF 0.15 0.31 \nG 0.76 1.52 \nH 0.10 0.20 \n \n \n \n \n \n■ Suggested pad layout  \n \n \nDim Typ \nP1 9.9 \nP2 3.84 \nQ1 3.03 \nQ2 3.82 \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \nDimensions in millimetersP2\nQ2 Q1\nP1\nDimensions in millimetersDO-214AB(SMC)\n SSL3 4 THRU SSL3 10 \n \n 4 / 4 \n   Yangzhou Yangjie Electronic Technology Co., Ltd.  \n S-S408  \nRev. 2. 3, 11-May-15 www .21yangjie.com  \nDiscl aimer  \n \nThe information presented in this document is for reference only. Yangzhou Yangjie Electronic Technology Co., Ltd. reserves t he \nright to make changes without notice for the specification of the products displayed herein to improve reliability, funct ion or design \nor otherwise.   \n  \nThe product listed herein is designed to be used with ordinary electronic equipment or devices, and not designed to be used w ith \nequipment or devices which require high level of reliability and the malfunction of with would directly endanger human life (such as \nmedical instruments, transportation equipment, aerospace machinery, nuclear -reactor controllers, fuel controllers and other safety \ndevices), Yangjie or anyone on its behalf, assumes no responsibility or liability for a ny damages resulting from such improper use \nof sale.  \n  \nThis publication supersedes & replaces all information previously supplied. For additional information, please visit our website \nhttp:// www.21yangjie.com  , or consult your nearest Yangjie’s sales office for further assistance.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n'}]
+!==============================================================================!
+### Component Summary: SSL310 (YANGZHOU YANGJIE ELECTRONIC)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - SSL3 4: 40 V (VRRM)
+  - SSL3 6: 60 V (VRRM)
+  - SSL3 10: 100 V (VRRM)
+
+- **Current Ratings:**
+  - Average Rectified Output Current (IO): 3.0 A
+
+- **Power Consumption:**
+  - Maximum Forward Voltage Drop (VF) at 3.0 A:
+    - SSL3 4: 0.45 V
+    - SSL3 6: 0.50 V
+    - SSL3 10: 0.60 V
+
+- **Operating Temperature Range:**
+  - Storage Temperature (Tstg): -55 °C to +150 °C
+  - Junction Temperature (Tj): -55 °C to +125 °C
+
+- **Package Type:**
+  - DO-214AB (SMC)
+
+- **Special Features:**
+  - Guardring for overvoltage protection
+  - Low forward voltage drop and low power losses
+  - High forward surge capability
+  - High frequency operation
+  - RoHS compliant
+
+- **Moisture Sensitive Level:**
+  - Compliant with JEDEC J-STD-020E
+
+#### Component Description:
+The SSL310 is a surface mount Schottky rectifier designed for high-frequency applications. Schottky rectifiers are semiconductor devices that allow current to flow in one direction while blocking it in the opposite direction, characterized by their low forward voltage drop and fast switching capabilities. This component is particularly suitable for applications requiring efficient power conversion and minimal energy loss.
+
+#### Typical Applications:
+The SSL310 is commonly used in:
+- Low voltage high-frequency inverters
+- Freewheeling applications
+- DC/DC converters
+- Polarity protection circuits
+
+These applications benefit from the rectifier's ability to handle high surge currents and its efficiency in converting AC to DC, making it ideal for power management in various electronic devices.

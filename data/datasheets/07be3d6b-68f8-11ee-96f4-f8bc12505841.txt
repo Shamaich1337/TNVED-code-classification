@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 08-70-0102 (Cut Strip) production of MOLEX from the text:-\n-\n-\n-\n-\n-\n-\n-\n \n \n \n \n \nDocuments & Resources \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance Statements\nEu RoHS\nREACH SVHC\nLow-Halogen\n \nMultiple Part Industry Compliance Documents\nIPC 1752A Class C\nIPC 1752A Class D\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n Part Number : 08700102\nProduct Description : 2.50mm Pitch Mini-\nLatch Crimp Terminal, Male, Brass, Reel\nSeries Number : 5241\nStatus : New Business Not Supported\nProduct Category : Crimp Terminals\nEngineering Number : 5241T\nPackaging Alternative : 0008700103 (Bag)\nGADSL/IMDS Compliant with Exemption 44\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Low-Halogen per IEC 61249-2-21\nREACH SVHC Not Contained per D(2023)3788-DC\n(14 Jun 2023)\nEU RoHS Compliant per EU 2015/863\nPart Details \nGeneral \n \n \nElectrical \n \n \nPhysical \n \n \n \nApplication Tooling \n \nGlobal\n Status New Business Not Supported\nCategory Crimp Terminals\nSeries 5241\nDescription 2.50mm Pitch Mini-Latch Crimp\nTerminal, Male, Brass, Reel\nApplication Signal, Wire-to-Wire\nProduct Family Mini-Latch Wire-to-Board / Wire-to-\nWire Connector System\nProduct Name Mini-Latch\nUPC 800753640511\nCurrent - Maximum per Contact 3.0A\nDurability (mating cycles max) 30\nGender Male\nMaterial - Metal Brass\nMaterial - Plating Mating Tin\nMaterial - Plating Termination Tin\nNet Weight 65.400/mg\nPackaging Type Reel\nPlating min - Mating 0.889µm\nPlating min - Termination 0.889µm\nTermination Interface Style Crimp or Compression\nWire Insulation Diameter 1.15-1.90mm\nWire Size (AWG) 22, 24, 26, 28\nWire Size mm² N/A\nDescription Part Number\n \nApplication Tooling \n \nJapan\n \n \nThis document was generated on Oct 12, 2023 PremiumGrade Hand Crimp Tool\nfor Mini-Fit Jr. Male and Female\nTerminals,  22-28 AWG0638190800\nFineAdjust Applicator for Wire-to-\nBoard and Wire-to-Wire Terminal,\n22-28  AWG Wire0639004600\nT2 Terminator Tooling Die 0639104600\nDescription Part Number\nHand Extraction Tool 0011260060\nS-1 Applicator for SPOX Male\nTerminals, 22-28 AWG2031753700\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 08-70-0102
+
+**Component Description:**
+The MOLEX 08-70-0102 is a 2.50mm Pitch Mini-Latch Crimp Terminal designed for male connections. It is primarily used in wire-to-wire and wire-to-board applications, facilitating electrical connections in various electronic devices. The terminal is made of brass and is suitable for crimp or compression termination methods.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not specified in the provided data.
+- **Current Ratings:** Maximum current per contact is 3.0A.
+- **Power Consumption:** Not applicable; this is a terminal component.
+- **Operating Temperature Range:** Not specified in the provided data.
+- **Package Type:** Reel packaging.
+- **Special Features or Notes:**
+  - Durability: Up to 30 mating cycles.
+  - Low-Halogen compliant per IEC 61249-2-21.
+  - REACH SVHC Not Contained as of June 2023.
+  - EU RoHS Compliant per EU 2015/863.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided data.
+
+**Physical Characteristics:**
+- **Material - Metal:** Brass.
+- **Material - Plating (Mating):** Tin (minimum thickness: 0.889µm).
+- **Material - Plating (Termination):** Tin (minimum thickness: 0.889µm).
+- **Wire Insulation Diameter:** 1.15mm to 1.90mm.
+- **Wire Size (AWG):** 22, 24, 26, 28.
+
+**Typical Applications:**
+The MOLEX 08-70-0102 terminal is typically used in:
+- **Signal Transmission:** Connecting wires in electronic devices for signal transfer.
+- **Wire-to-Wire Connections:** Facilitating connections between different wires in a harness or assembly.
+- **Wire-to-Board Connections:** Connecting wires directly to a printed circuit board (PCB) for power or signal routing.
+
+This component is ideal for applications in consumer electronics, automotive systems, and industrial equipment where reliable electrical connections are essential.

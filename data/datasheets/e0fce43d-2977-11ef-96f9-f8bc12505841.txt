@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 760445001 production of MOLEX from the text:-\n-\n-\n \n \n \n \n \nDocuments & Resources \nDrawings\nDrawing  760445001_sd.pdf\n \n3D Models and Design Files\n3D Model  760445001_stp.zip\nElectrical Model Document  EE-76090-001-001.pdf\nS-Parameter Model  SP-76090-001-001.zip\n \nSpecifications\nApplication Specification  AS-75310-001-001.pdf\nApplication Specification  AS-76090-001-001.pdf\nPackaging Specification  PK-75462-001-001.pdf\nProduct Specification  PS-75310-001-001.pdf\n \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance Statements\nEu RoHS\nREACH SVHC\nLow-Halogen\n Part Number : 760445001 Product Description : Small Form-factor\nPluggable Plus (SFP+) Stacked 2-by-1 Multi-\nPort Connector with 4 Lightpipe Ports, EMI\nMetal Gasket, 40 Circuits, Tin (Sn) Tails\nSeries Number : 76044 Status : Active\nProduct Category : High-Speed I/O\nConnectors\nGADSL/IMDS Not Relevant\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Low-Halogen per IEC 61249-2-21\nREACH SVHC Not Contained per D(2023)8585-DC\n(23 Jan 2024)\nEU RoHS Compliant per EU 2015/863\n-\n-\n-\n-\n-\nMultiple Part Industry Compliance Documents\nIPC 1752A Class C\nIPC 1752A Class D\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneral \n \n \nAgency \n \n \nElectrical \n \nStatus Active\nCategory High-Speed I/O Connectors\nSeries 76044\nDescription Small Form-factor Pluggable Plus\n(SFP+) Stacked 2-by-1 Multi-Port\nConnector with 4 Lightpipe Ports,\nEMI Metal Gasket, 40 Circuits, Tin\n(Sn) Tails\nApplication Module-to-Board\nComponent Type Receptacle\nProduct Family SFP+ and SFP Interconnect\nSolutions\nProduct Name SFP Plus,SFP+\nType Pluggable\nUPC 800756842882\nCSA LR19980\nUL E29179\nCurrent - Maximum per Contact 0.5A\nData Rate 10.0 Gbps, 28.0 Gbps\nGrounding to Panel None\nShield Type EMI Gasket\nShielded Yes\nVoltage - Maximum 120V AC (RMS)/DC\nPhysical \n \nBoot Color N/A\nCircuits Detail 40\nCircuits (Loaded) 40\nCircuits (maximum) 40\nColor - Resin Black, Clear (Blue Tint)\nDurability (mating cycles max) 100\nFlammability 94V-0\nGender Female\nKeying to Mating Part None\nLock to Mating Part Yes\nMaterial - Metal Brass, Phosphor Bronze\nMaterial - Plating Mating Gold\nMaterial - Plating Termination Tin\nMaterial - Resin High Temperature Thermoplastic,\nPolycarbonate\nNet Weight 27.821/g\nNumber of Rows 2\nOrientation Right Angle\nPackaging Type Tray\nPanel Mount No\nPC Tail Length 2.07mm\nPCB Locator Yes\nPCB Retention Yes\nPCB Thickness - Recommended 1.57mm\nPitch - Mating Interface 0.80mm\nPitch - Termination Interface 0.80mm\nPlating min - Mating 0.762µm\nPlating min - Termination 0.762µm\nPolarized to Mating Part Yes\nPolarized to PCB Yes\nPorts 2\nTemperature Range - Operating -40° to +85°C\nTermination Interface Style Through Hole - Compliant Pin\n \nSolder Process Data \n \n \n \nApplication Tooling \n \nGlobal\n \n \n \nThis document was generated on Jun 12, 2024 Waterproof / Dustproof No\nLead-Free Process Capability N/A\nDescription Part Number\nExtraction Tool, 2 x 1 Medium 622029930\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 760445001
+
+**Product Description:**
+The MOLEX 760445001 is a Small Form-factor Pluggable Plus (SFP+) stacked 2-by-1 multi-port connector designed for high-speed I/O applications. It features 4 lightpipe ports, an EMI metal gasket, and supports up to 40 circuits with tin (Sn) tails. This connector is primarily used for module-to-board connections in various electronic systems.
+
+**Key Specifications:**
+- **Voltage Ratings:** Maximum 120V AC (RMS)/DC
+- **Current Ratings:** Maximum 0.5A per contact
+- **Data Rate:** Supports data rates of 10.0 Gbps and 28.0 Gbps
+- **Power Consumption:** Not specified directly; however, current rating indicates power handling capability.
+- **Operating Temperature Range:** -40°C to +85°C
+- **Package Type:** Tray packaging
+- **Special Features:**
+  - EMI Gasket for shielding
+  - 40 circuits (loaded and maximum)
+  - Locking mechanism to mating part
+  - High durability with up to 100 mating cycles
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+**Material Composition:**
+- **Metal:** Brass, Phosphor Bronze
+- **Plating:** Gold (mating), Tin (termination)
+- **Resin:** High Temperature Thermoplastic, Polycarbonate
+- **Flammability Rating:** 94V-0
+
+**Typical Applications:**
+The 760445001 connector is typically used in high-speed data communication applications, including:
+- Networking equipment (e.g., switches, routers)
+- Telecommunications systems
+- Data storage devices
+- High-performance computing systems
+- Any application requiring reliable and high-speed data transfer between modules and boards.
+
+This connector is particularly suited for environments where space is limited, and high data rates are essential, making it a popular choice in modern electronic designs.

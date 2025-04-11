@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 76866-1011 production of MOLEX from the text:This document was generated on 12/22/2021\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nPart Number: 0768661011\nStatus: Active\nOverview: iPass+ HD Interconnect System\nDescription: iPass+ HD Cage and Receptacle 1x1, 0.76µm, Lead-Free\nDocuments:\n3D Model Application Specification AS-76866-002-001 (PDF)\nDrawing (PDF) Packaging Specification PK-76866-001-001 (PDF)\n3D Model (PDF) Test Summary TS-76866-001-001 (PDF)\nProduct Specification PS-76866-001-001 (PDF) Test Summary TS-76866-1004-001 (PDF)\nApplication Specification AS-76866-001-001 (PDF) RoHS Certificate of Compliance (PDF)\nAgency Certification\nCSA LR19980\nUL E107635\nGeneral\nProduct Family I/O Connectors\nSeries 76866\nApplication Wire-to-Board\nComponent Type External Integrated Cage, Receptacle\nElectrical Model Yes\nOverview iPass+ HD Interconnect System\nProduct Name iPass+\nType N/A\nUPC 887191048857\nPhysical\nCircuits (Loaded) 36\nCircuits (maximum) 36\nColor - Resin Black\nDurability (mating cycles max) 250\nFlammability 94V-0\nLock to Mating Part Yes\nMaterial - Metal High Performance Alloy (HPA)\nMaterial - Plating Mating Gold\nMaterial - Plating Termination Tin\nMaterial - Resin High Temperature Thermoplastic\nNet Weight 7.658/g\nOrientation Right Angle\nPCB Locator Yes\nPCB Retention Yes\nPCB Thickness - Recommended 1.57mm\nPackaging Type Tray\nPanel Mount No\nPitch - Mating Interface 0.75mm\nPitch - Termination Interface 0.75mm\nPlating min - Mating 0.762µm\nPlating min - Termination 0.762µm\nPolarized to Mating Part Yes\nPolarized to PCB Yes\nTemperature Range - Operating -40° to +80°C\nTermination Interface: Style Through Hole - Compliant Pin\nElectrical\nCurrent - Maximum per Contact 0.75A\nVoltage - Maximum 30V AC (RMS)/DC\nSeries image - Reference only\nEU ELV\nNot Relevant\nEU RoHS China RoHS\nCompliant\nREACH SVHC\nNot Contained Per -\nD(2021)4569-DC (8\nJuly 2021)\nHalogen-Free\nStatus\nLow-Halogen\nFor more information, please visit Contact US\nChina ROHS Green Image\nELV Not Relevant\nRoHS Phthalates Not Contained\nSearch Parts in this Series\n76866 Series\nMates With\niPass Cable Assembly 111068 , 111075 ,\n111077\nSolder Process Data\nLead-freeProcess Capability N/A\nMaterial Info\nReference - Drawing Numbers\nApplication Specification AS-76866-001-001, AS-76866-002-001\nElectrical Model Document EE-76866-1004-001\nPackaging Specification PK-76866-001-001\nProduct Specification PS-76866-001-001\nS-Parameter Model SP-76866-100-001, SP-76866-1004-001\nSales Drawing SD-76866-1000-001\nTest Summary TS-76866-001-001, TS-76866-1004-001\nThis document was generated on 12/22/2021\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Molex:   \n\xa0 76866-1011\n'}]
+!==============================================================================!
+### Component Summary for Molex Part Number 0768661011
+
+#### Key Specifications:
+- **Voltage Ratings**: Maximum 30V AC (RMS)/DC
+- **Current Ratings**: Maximum 0.75A per contact
+- **Power Consumption**: Not specified; power consumption is typically determined by the load connected to the component.
+- **Operating Temperature Range**: -40°C to +80°C
+- **Package Type**: Tray
+- **Special Features/Notes**:
+  - External integrated cage and receptacle design
+  - 36 circuits (loaded and maximum)
+  - Durability of 250 mating cycles
+  - Lead-free and compliant with RoHS and REACH regulations
+  - Halogen-free and low-halogen status
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided information.
+
+#### Description:
+The Molex 0768661011 is part of the iPass+ HD Interconnect System, specifically designed as an external integrated cage and receptacle. It features a 1x1 configuration with a pitch of 0.75mm. The component is constructed from high-performance alloy (HPA) for metal parts, high-temperature thermoplastic for the resin, and is plated with gold for mating surfaces and tin for termination. This design ensures reliable electrical connections and durability in various applications.
+
+#### Typical Applications:
+The iPass+ HD Cage and Receptacle is primarily used in wire-to-board applications, making it suitable for high-density interconnect solutions in various electronic devices. Typical applications include:
+- Data communication systems
+- Networking equipment
+- Telecommunications
+- Consumer electronics
+- Industrial automation systems
+
+This component is ideal for scenarios where space is limited, and reliable connections are critical, such as in high-speed data transmission and power management systems.

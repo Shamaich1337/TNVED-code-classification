@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of E3402A production of EVETAR from the text:∅23.3\n∅38∅40.525.99\n11.85\n31.51±0.3(TTL)6.07(BFL)5.52(MBFL)\n3.53(D.FOV)\n(Include 0.3Filter+0.5C.G)(Include 0.3Filter+0.5C.G)∅6.34M12x0.5-6g\n∅37.5\n(Include 0.3Filter+0.5C.G)188.4°(D.FOV)Ø7.3（190°）Max Image Circle \nPortfolio Size.±0.3 Single Part Size.±0.1UNLESS TOLERANCE  AUDI.\n APPR. REVISED DESCRIPTION DATE 3RD Angle ProjectionDATE NAME\nDRAWN \nCHECKED\n APPR. NO.外形尺寸  最大主光线入射角相对照度F-Theta 畸变\nMP镜头组成后面前面\n通光口径后截距1/2.5″   CCD/CMOS\n>60%Sensor Spec\nEFL 有效焦距SPECIFICATION  SHEET\n2.3mm\n0.3mFrontBack Focal Length\nBack\nIris 光圈Relative IlluminationF-Theta Distortion\nResolution 分辨率Lens constructionLens Effective \nDiameter\nMount 接口M.O.D 最近物距\nTTL 光学总长\nDimension (ØxL)Max Chief Ray AngleØ23.3mm\nØ6.34mm\n13°8 ElementsFNo. F值EVETARR\nREV.2.2\n6.07mm    \n<-2.1%\nFixed\nM12X0.5-6g\n31.51mm  \nØ40.5x25.99mmE3402A Model No. 型号\nwww.evetar.com厦门力鼎光电股份有限公司\nXiamen Leading Optics Co., Ltd.Working Distance \n工作物距 ∞最大像面\nD.对角\nV.垂直H.水平  F.O.V. 视场角  传感器规格 6.14x3.84 ，7.25\nFilter Spec\n滤光片规格  350-380nm    Tmax<1 ％188.4°\n157°\n98°\n（Include 0.3Filter+0.5C.G ）  \n（Include 0.3Filter+0.5C.G ）  Full Frame Circular FisheyeWidth\nFull Horizontal Partial FrameDiagonalHeightImage Circle vs.Sensor Format Image Circle\n0001\n内部检讨版 2023.07.252\n0102\nLJB3 03\nSW 420-630nm    Tmin>92 ％\n  650±10nm    T=50 ％\n700-1000nm   Tmax<1%\n'}]
+!==============================================================================!
+### Component Summary for E3402A from EVETAR
+
+#### Key Specifications:
+- **Model Number**: E3402A
+- **Effective Focal Length (EFL)**: 2.3 mm
+- **Maximum Chief Ray Angle**: 13°
+- **Field of View (F.O.V.)**: 
+  - Diagonal: 188.4°
+  - Horizontal: 157°
+  - Vertical: 98°
+- **Image Circle**: Ø7.3 mm (Max Image Circle)
+- **Relative Illumination**: >60%
+- **Resolution**: Not explicitly stated, but implied to be high due to lens construction.
+- **Lens Construction**: 8 Elements
+- **Aperture (F-number)**: Fixed at FNo. (not specified)
+- **Mount Type**: M12x0.5-6g
+- **Dimensions**: Ø40.5 x 25.99 mm
+- **Working Distance**: ∞ (infinity)
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The E3402A is a high-performance optical lens designed for use with 1/2.5" CCD/CMOS sensors. It features a wide field of view and is optimized for applications requiring high resolution and low distortion. The lens is constructed with 8 elements, ensuring effective light transmission and image quality.
+
+#### Typical Applications:
+The E3402A lens is typically used in:
+- **Surveillance Systems**: Due to its wide field of view and high resolution, it is suitable for security cameras.
+- **Machine Vision**: Ideal for industrial applications where precise imaging is required.
+- **Robotics**: Used in robotic vision systems for navigation and object recognition.
+- **Optical Sensors**: Can be integrated into various optical sensing applications, including environmental monitoring and imaging systems.
+
+This lens is particularly beneficial in scenarios where a compact design and high optical performance are critical, such as in drones, mobile devices, and compact cameras.

@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of WR3 straight waveguide 1inch production of XIXIA TECHNOLOGY from the text:Address:No.24-2,ChengzhiRoad,LongtanUrbanIndustrialPark,ChenghuaDistrict,Chengdu,China\nTel/Fax：028-84215383 Web:https://www.xexatech.com/ https://cdxixia.en.alibaba.com\nSpecification\nItem：WR-3Straightwaveguide Model：XA-RSW-1.0-WR3\n1.Parameter\nWaveguide WR-3(BJ2600)\nFrequencyRange（GHz） 220-325\nLength(mm) 25.4\nFlange APF3\nMaterial Brass\nSize（mm） 19.1*19.1*25.4\nNetWeight（Kg） 0.02Around\nSurfacetreatment Goldplating\n2．Outlinedrawing（mm）\n\n'}]
+!==============================================================================!
+### Technical Summary of WR-3 Straight Waveguide (Model: XA-RSW-1.0-WR3)
+
+#### Key Specifications:
+- **Waveguide Type**: WR-3 (BJ2600)
+- **Frequency Range**: 220 - 325 GHz
+- **Length**: 25.4 mm
+- **Flange Type**: APF3
+- **Material**: Brass
+- **Dimensions**: 19.1 mm x 19.1 mm x 25.4 mm
+- **Net Weight**: Approximately 0.02 kg
+- **Surface Treatment**: Gold plating
+
+#### Description:
+The WR-3 Straight Waveguide (Model: XA-RSW-1.0-WR3) is a precision-engineered component used in high-frequency applications. It is designed to guide electromagnetic waves in the frequency range of 220 to 325 GHz. The waveguide is constructed from brass and features a gold-plated surface to enhance conductivity and minimize signal loss.
+
+#### Typical Applications:
+The WR-3 Straight Waveguide is primarily used in:
+- **Microwave and Millimeter-Wave Communication Systems**: It facilitates the transmission of high-frequency signals in telecommunications.
+- **Radar Systems**: Utilized in radar technology for signal transmission and reception.
+- **Research and Development**: Commonly found in laboratory settings for experiments involving high-frequency wave propagation.
+- **Satellite Communication**: Plays a crucial role in satellite systems where high-frequency signals are essential for data transmission.
+
+This waveguide is essential for applications requiring precise control of high-frequency signals, ensuring minimal loss and optimal performance in various electronic and communication systems.

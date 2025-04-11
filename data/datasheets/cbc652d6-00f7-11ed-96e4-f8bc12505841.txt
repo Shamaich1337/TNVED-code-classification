@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FYL-3014URC production of FORYARD OPTOELECTRONICS from the text:Model. No. FYL-3014URC \nRev. A \n \nHttp://www.foryard.com  \n    \nPRODUCT SPECIFICATIONPRODUCT SPECIFICATIONPRODUCT SPECIFICATIONPRODUCT SPECIFICATION     \n    \n    \nModel No. Model No. Model No. Model No. ：：：：FYL FYL FYL FYL-- --33 3301 01 01 0144 44UR UR UR URCC CC    \nDescriptions: \n■Dice material: AlInGaP. \n■Emitting Color: Super bright Red. \n■Device Outline: Φ3mm Round Type. \n■Lens Type: Water clear. \n \n \n    \n    \n    \n    \n    \n    \nCUSTOMER APPROVED \nSIGNATURES APPROVED BY  CHECKED BY PREPARED BY \n           \n \nNINGBO FORYARD OPTOELECTRONICS CO.,LTD. \nAdd: NO.115 Qixin Road Ningbo Zhejiang China              Zip: 315051   \nTel:    0086-574-87933652  87927870  87922206 \nFax:  0086-574-87927917   \nE-mail: Sales@foryard.com （General ） \nHttp://www.foryard.com  \nModel. No. FYL-3014URC \nRev. A \n \nHttp://www.foryard.com      \n\x01 Features                                                                            \n1.  Low power consumption. \n2.  High efficiency. \n3.  General purpose leads.  \n4.  High intensity. \n5.  RoHs compliant. \n\x01 Package configuration CATHODE \n \nNotes: \n1. All dimensions are millimeters (inches)  \n2. Tolerance is ±0.25mm(.010”) unless otherwise not ed. \n3. The specifications, characteristics and technica l data described in the datasheet are subject to \nchange without prior notice. \nModel. No. FYL-3014URC \nRev. A \n \nHttp://www.foryard.com   \n                                                                                               \n\x01 Absolute maximum ratings(Ta=25 ゜с) \nParameter MAX. Unit \nPower Dissipation 75 mW \nPeak Forward Current (1/10 Duty Cycle, 0.1ms Pulse Width) 100 mA \nContinuous Forward Current 30 mA \nDerating Linear From 50 ℃ 0.4 mA/ ℃ \nReverse Voltage 5 V \nOperating Temperature Range -40℃ to +85℃ \nStorage Temperature Range -40℃ to +100 ℃ \nLead Soldering Temperature[4mm(.157”) From Body] 260 ℃ for 5 Seconds \n \n\x01 Electrical and optical characteristics(Ta=25 ゜с) \nParameter Symbol  Min. Typ. Max. Unit Test Condition \nLuminous Intensity I V -- 3000 -- mcd \nViewing Angle 2θ 1/2  -- 30 -- Deg \nPeak Emission Wavelength  λp -- 630 -- nm \nDominant Wavelength λd 620 625 630 nm \nSpectral Line Half-Width  △λ -- 15 -- nm \nForward Voltage V F 1.7 2.0 2.5 V IF=20mA \nReverse Current I R     10   µA V R=5V \n    \n    \n    \n    \n    \n    \n    \n    \n    \nModel. No. FYL-3014URC \nRev. A \n \nHttp://www.foryard.com      \n\x01 Typical Electrical Characteristics Curves \n(25 (25 (25 (25 ゜゜ ゜゜с Ambient Temperature Unless Otherwise Noted) с Ambient Temperature Unless Otherwise Noted) с Ambient Temperature Unless Otherwise Noted) с Ambient Temperature Unless Otherwise Noted)    \nAlGaInP\n \nRa Ra Ra Radiation pattern.  diation pattern.  diation pattern.  diation pattern.      \n \n \n \n \n \n \nRelative Lumionous Intensity(LOP @max=1) \nModel. No. FYL-3014URC \nRev. A \n \nHttp://www.foryard.com  FORYARD \nO P T O E L E C T R O N I C S \nLED LED LED LED \nPN:FYL-xxxxxxxx-xx \nQty:XXXXX PCS \nDate:xxxx/xx/xx \nGW: xx      KG \nNW: xx      KG \nxxxxxxxxxx RoHS RoHS RoHS RoHS \nATTENTION ATTENTION ATTENTION ATTENTION QC: QC PASS 11.5 30 \n18.5 Part NO: FYL-XXXXXX \nxxxx/xx/xx Quantity:  XXXPCS FORYARD \nQC: QC PASS \nxxxxxxxxxx VF:  XXX-XXX \nWD:XXX-XXX \nIV:XXXX-XXXX \nFORYARD \nO P T O E L E C T R O N I C S \nwww.foryard.com 39.0 38.0 32.0 RoHS RoHS RoHS RoHS \nOUTSIDE LABEL \nOUTSIDE LABEL  \n\x01 LAMP PACKING. \n \n \n \n \n \n \n                                 \n3mm 1000PCS/Polybag \n                                                         \n \n \n \n                                                             \n \n \n \n \n \n \n \n \n \n12000PCS/ Box  \n \n \n \n72000PCS/ Carton \n \n \n \n \n \n \n \n'}]
+!==============================================================================!
+### Component Summary: FYL-3014URC
+
+**Description:**
+The FYL-3014URC is a super bright red LED (Light Emitting Diode) produced by Foryard Optoelectronics. It utilizes AlInGaP (Aluminum Indium Gallium Phosphide) as the dice material, which contributes to its high efficiency and intensity. The LED is designed in a round package with a diameter of 3mm and features a water-clear lens, making it suitable for various lighting applications.
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Forward Voltage (Vf): 1.7V (Min), 2.0V (Typ), 2.5V (Max) at IF = 20mA
+  - Reverse Voltage (Vr): 5V
+
+- **Current Ratings:**
+  - Continuous Forward Current: 30 mA
+  - Peak Forward Current (1/10 Duty Cycle, 0.1ms Pulse Width): 100 mA
+  - Reverse Current (Ir): 10 µA at Vr = 5V
+
+- **Power Consumption:**
+  - Power Dissipation: 75 mW
+
+- **Operating Temperature Range:**
+  - Operating: -40°C to +85°C
+  - Storage: -40°C to +100°C
+
+- **Package Type:**
+  - Φ3mm Round Type
+
+- **Special Features:**
+  - Low power consumption
+  - High efficiency and intensity
+  - RoHS compliant
+  - General purpose leads
+  - Derating: 0.4 mA/°C from 50°C
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided data, but typically assessed according to JEDEC J-STD-020E.
+
+**Typical Applications:**
+The FYL-3014URC LED is commonly used in various applications, including:
+- Indicator lights in electronic devices
+- Backlighting for displays and panels
+- Decorative lighting in signage and automotive lighting
+- General-purpose lighting solutions where high brightness is required
+
+This LED's characteristics make it suitable for both consumer electronics and industrial applications, where reliable and efficient lighting is essential.

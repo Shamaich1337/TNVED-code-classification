@@ -1,0 +1,48 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDAC01059 production of NEDITEK from the text:-1-\nNote: All the data provided in this data sheet guide is subject to\nchange without notice. The right is reserved to make\nchanges to specifications and other information at any time.Tel: +86-25-86858582 / +86-25-86858740\nFax: +86-25-86858580 E-mail: sales@neditek.com\nAdd: No. 524 Zhongshan East Road, Nanjing, ChinaNEDI Technology Co., Ltd\nNDAC01059\n33-37GHz GaAs Power Amplifier MMIC\n►Features\n\uf06cFrequency range: 33-37 GHz\n\uf06cPsat: 28dBm@5V\n\uf06cPAE: 22%\n\uf06cLinear Gain: 22dB\n\uf06cDimensions:3.6mm ×2mm×0.05mm\n\uf06cTechnology: 0.15um pHEMT\n►General Description\nThe NDAC01059 is a GaAs MMIC PHEMT power amplifier which covers the frequency range from 33 to 37GHz.\nThis amplifier provides 28dBm of saturation power by 5V drain supply. Each chip is 100% DC and RF testedon-wafer to ensure performance compliance. The NDAC01059 is an ideal chip for T/R Module, wirelesscommunication and so on.\n►Absolute Maximum Ratings\nSymbol Parameter Value Notes\nVd Drain Bias Voltage 6V\nId Drain Bias Current 0.8A\nVg Gate Bias Voltage -2V\nIg Gate Bias Current 1mA\nPd Power Dissipation 2W\nPin Input Continuous Wave Power 17dBm\nTch Channel Temperature 150℃\nTm Mounting Temperature 270℃ 1min, N 2Protecting\nTstg Storage Temperature -55～150℃\nAny of the stresses above the listed ratings may cause permanent damage.\n\n-2-\nNote: All the data provided in this data sheet guide is subject to\nchange without notice. The right is reserved to make\nchanges to specifications and other information at any time.Tel: +86-25-86858582 / +86-25-86858740\nFax: +86-25-86858580 E-mail: sales@neditek.com\nAdd: No. 524 Zhongshan East Road, Nanjing, ChinaNEDI Technology Co., Ltd\nNDAC01059\n33-37GHz GaAs Power Amplifier MMIC\n►Specifications (T A=25oC)\nSymbol Parameter ConditionsValue\nUnits\nMin Typical Max\nPsat Saturated Output Power\n33~37GHz,\nVg=0.8v,\nVd=5~6V22 dBm\nGp Saturated Power Gain 18 dB\nGlin Linear Gain 22 dB\nPAE PAE 22 %\n►Typical Performances (T A=25oC)\nOutput Power\n32.0 32.5 33.0 33.5 34.0 34.5 35.0 35.5 36.0 36.5 37.0 37.5 38.02021222324252627282930Vd=5V Idq=330mA,Pin=10dBm\n Pout/dBm\nFreq/GHz\n-3-\nNote: All the data provided in this data sheet guide is subject to\nchange without notice. The right is reserved to make\nchanges to specifications and other information at any time.Tel: +86-25-86858582 / +86-25-86858740\nFax: +86-25-86858580 E-mail: sales@neditek.com\nAdd: No. 524 Zhongshan East Road, Nanjing, ChinaNEDI Technology Co., Ltd\nNDAC01059\n33-37GHz GaAs Power Amplifier MMIC\nPower Added Efficiency\n32.0 32.5 33.0 33.5 34.0 34.5 35.0 35.5 36.0 36.5 37.0 37.5 38.005101520253035Vd=5V Idq=330mA,Pin=10dBm\n PAE(%)\nFreq/GHz\nCurrent of Drain\n32.0 32.5 33.0 33.5 34.0 34.5 35.0 35.5 36.0 36.5 37.0 37.5 38.00.00.10.20.30.40.50.60.70.80.91.0Vd=5V Idq=330mA,Pin=10dBm\n Id(A)\nFreq(GHz)\n-4-\nNote: All the data provided in this data sheet guide is subject to\nchange without notice. The right is reserved to make\nchanges to specifications and other information at any time.Tel: +86-25-86858582 / +86-25-86858740\nFax: +86-25-86858580 E-mail: sales@neditek.com\nAdd: No. 524 Zhongshan East Road, Nanjing, ChinaNEDI Technology Co., Ltd\nNDAC01059\n33-37GHz GaAs Power Amplifier MMIC\nLinear Gain\n32.0 32.5 33.0 33.5 34.0 34.5 35.0 35.5 36.0 36.5 37.0 37.5 38.0101112131415161718192021222324252627282930 Vd=5V,Idq=330mAGain/dB\nFreq/GHz\nVoltage Standing-Wave Ratio (VSWR)\n32 33 34 35 36 37 381.01.11.21.31.41.51.61.71.81.92.0Vd=5V Idq=330mA\n VSWR\nFreq/GHz\n-5-\nNote: All the data provided in this data sheet guide is subject to\nchange without notice. The right is reserved to make\nchanges to specifications and other information at any time.Tel: +86-25-86858582 / +86-25-86858740\nFax: +86-25-86858580 E-mail: sales@neditek.com\nAdd: No. 524 Zhongshan East Road, Nanjing, ChinaNEDI Technology Co., Ltd\nNDAC01059\n33-37GHz GaAs Power Amplifier MMIC\n►Outline Drawing (Units: um)\n►Assembly Diagram\n\n'}]
+!==============================================================================!
+### Component Summary for NDAC01059
+
+**Component Type:**  
+GaAs Power Amplifier MMIC (Monolithic Microwave Integrated Circuit)
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Drain Bias Voltage (Vd): 5V (max 6V)
+  - Gate Bias Voltage (Vg): -2V
+
+- **Current Ratings:**
+  - Drain Bias Current (Id): 0.8A
+  - Gate Bias Current (Ig): 1mA
+
+- **Power Consumption:**
+  - Power Dissipation (Pd): 2W
+  - Saturated Output Power (Psat): 28dBm at 5V
+
+- **Operating Temperature Range:**
+  - Channel Temperature (Tch): 150°C
+  - Storage Temperature (Tstg): -55°C to 150°C
+  - Mounting Temperature (Tm): 270°C for 1 minute
+
+- **Package Type:**
+  - Dimensions: 3.6mm × 2mm × 0.05mm
+
+- **Special Features:**
+  - Frequency Range: 33-37 GHz
+  - Linear Gain: 22dB
+  - Power Added Efficiency (PAE): 22%
+  - 100% DC and RF tested on-wafer for performance compliance
+
+- **Moisture Sensitive Level:**  
+  Not specified in the provided text.
+
+### Description of the Component:
+The NDAC01059 is a high-frequency GaAs (Gallium Arsenide) power amplifier designed for operation in the frequency range of 33 to 37 GHz. It utilizes 0.15um pHEMT (pseudomorphic High Electron Mobility Transistor) technology, which allows for efficient amplification of microwave signals. The amplifier is capable of delivering a saturated output power of 28dBm when supplied with a 5V drain voltage.
+
+### Typical Applications:
+The NDAC01059 is primarily used in:
+- **T/R Modules:** Transmit/Receive modules in radar and communication systems.
+- **Wireless Communication:** Enhancing signal strength in various wireless communication applications, including satellite communications and point-to-point microwave links.
+- **Microwave Systems:** Suitable for applications requiring high-frequency amplification, such as in test equipment and instrumentation.
+
+This component is ideal for engineers and designers looking to implement high-performance amplification in advanced communication systems operating at microwave frequencies.

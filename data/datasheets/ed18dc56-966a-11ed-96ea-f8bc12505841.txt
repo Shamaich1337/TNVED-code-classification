@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-NND-15P-M3-HTI production of SUNKYE INTERNATIONAL CO., LTD from the text:Dra\nwing No.\nArchivesP/N\n:\nDes\nign\nStandard checkAuditing\nApproveScale Sheet of REVTechnics\nWeight Phase markerCheck\nDenomination:DWG No.: DINMG-\nNND-15P-M3-HTI SUN\nKYESig\nnature\nWu \ngangWang  shiqingCheng panfangCheng panfangZhu boLiu linRMAT\nERIALS & SPECIFICATIONS\nHOUSING: ALUMINUM 2A12-T4, NICKEL PLATE PER AMS-C-26074\nINSULATOR: LIQUID CRYSTAL POLYMER (LCP) PER ASTM D5138\nCONTACT: BERYLLIUM BRONZE PER ASTM QSN4-3 GOLD PLATED PER ASTM B488, (HARD GOLD) TYPE II CODE C, CLASS\n1.27\nTERMINATION: SOLDER COATED WITH SN63A PER J-STD-006 OR\nAMS-P-81728\nPERFORMANCE: PRODUCT FAMILY TESTED TO AND PASSED THE\nPERFORMANCE\nSPECIFICATIONS OF TABLE VIII OF MIL-DTL-32139\nEnvi\nronment: -55 ℃~+1\n25℃\nVib\nration: 10H\nz~2000Hz 196m/s²\nShock: 980m/s² 6ms\nRated current: 1A\nRandom vibration: power spectrum density 0.4G ² /Hz, r.m.s value of total acceleration\n23.1G\nContact resistance: ≤21mΩ\nInsulation resistance:  ≥500\n0MΩ 100VDC\nDielectric Strength: 250V AC\nRated Voltage: 100V DC\nMachine life: 200 timesSk3\n.906.06K.15PINan\no-D SMT Connector\nDim\ns TOL\nAngular TOL.10 .05\n.03\n1°8\n8.7\n6\n11.\n433.5\n6\n2.6\n78.7\n6\n4.7\n5\n1.2\n70.4\n1\n19 15\n81\n0.4\n34.4\n5\n0.6\n4\n3.8\n1\n8.7\n6\n0.7\n92.1\n6\n11.2\n72-φ\n1.8\n1.0\n7PCB\n Layout2-#\n0-80 UNF-2B2-#\n0-80 UNF-2B2.4\n13.1\n80.3\n25.9\n76.2\n2\n6.2\n81.5\n2-#0-80 UNF-2A\nA32139-63Ø2.\n441.2\n7A\nTIN\nNING 0.30～0.70mm+0.05-0.05A+0.05-0.05A9 15\n'}]
+!==============================================================================!
+### Component Summary for MG-NND-15P-M3-HTI
+
+**Component Type:** Nano-D SMT Connector
+
+**Description:**
+The MG-NND-15P-M3-HTI is a Nano-D surface mount connector designed for high-performance applications. It features a compact design suitable for space-constrained environments and is constructed from high-quality materials to ensure durability and reliability.
+
+### Key Specifications:
+- **Voltage Ratings:** 
+  - Rated Voltage: 100V DC
+- **Current Ratings:** 
+  - Rated Current: 1A
+- **Power Consumption:** 
+  - Not explicitly stated; power consumption can be inferred based on current and voltage ratings.
+- **Operating Temperature Range:** 
+  - -55°C to +125°C
+- **Package Type:** 
+  - Surface Mount Technology (SMT)
+- **Special Features or Notes:**
+  - Contact resistance: ≤ 21 mΩ
+  - Insulation resistance: ≥ 500 MΩ at 100V DC
+  - Dielectric strength: 250V AC
+  - Machine life: 200 mating cycles
+  - Performance tested to MIL-DTL-32139 specifications
+- **Moisture Sensitive Level (MSL):** 
+  - Not specified in the provided text.
+
+### Materials:
+- **Housing:** Aluminum 2A12-T4, Nickel plated per AMS-C-26074
+- **Insulator:** Liquid Crystal Polymer (LCP) per ASTM D5138
+- **Contact:** Beryllium Bronze, Gold plated (hard gold) per ASTM B488, Type II Code C, Class 1
+- **Termination:** Solder coated with SN63A per J-STD-006 or AMS-P-81728
+
+### Typical Applications:
+The MG-NND-15P-M3-HTI connector is typically used in applications requiring reliable electrical connections in compact spaces. Common applications include:
+- Aerospace and defense systems
+- Telecommunications equipment
+- Medical devices
+- Consumer electronics
+- Industrial automation systems
+
+This connector is ideal for environments where vibration and shock resistance are critical, given its tested performance under various mechanical stress conditions.

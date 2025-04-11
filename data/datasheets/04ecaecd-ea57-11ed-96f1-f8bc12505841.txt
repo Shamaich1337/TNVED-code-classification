@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of CAS-M025-HNS-0306 production of E-TEC from the text:Wire H arness\n0.50mm Housing 51p to\n2.00mm Housing 2x15p+Ring \nTerminal  , L=380mmREV. previous version this version DATE DRAWN\nAN e w 26.04.2023 Cherry\nRoHS\ncompliant\n SHEET UNITmm\nFreeSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO. REV.GENERAL TOLERANCE\n0 ~ 200mm  ->  ±10mm\n201 ~ 1000mm  ->  ±20mm\n1001 ~ 1500mm  ->  ±25mm\n1501 ~ 2100mm  ->  ±30mm\n2100mm↑->  ±40mmE-tec 2023 © - all rights reserved   www.e-tec.asia\nCherry\nKent\nSH26.04.202326.04.202326.04.2023\nCAS-M025-HNS-0306\nCAS-M025- HNS-03061/1\nAP1 P2\n11 Gray 4\n8White7\nBlue 1312\n10White9\nBlue 1514\n12White 11\nBlue 1716\n18 Black5\n16 White15 Blue\n2019\n21 Gray 6\n18White 17\nBlue 2322\n20White 19\nBlue 2928\n22White 21\nBlue 3130\n24White 23\nBlue 3332\n34 Black 13\n28 White27 Blue\n3635\n37 Gray 14\n30White 29\nBlue 3938\n44 25\n45 26\n46Gray\n48 Yellow 1\n49 Red2\n50 Yellow3\n51 RedBlack\nBlackP2150±5380±10\n30±5\nP130±5\n(320)\n123\n45\n6 6 67\nPin 51 Pin 50\nPin 1Pin 2Pin 29 Pin 30\nPin 1 Pin 2\nItem Description Q'TY\nHousing: 51 pins, pitch 0.50mm 1\nTerminal: pitch 0.50mm 32\nHousing: 2x15 pins, pitch 2.00mm 1\nTerminal: pitch 2.00mm 30\n3 Terminal: 3.20x6.00x0.40mm 1\n4 UL1571 28AWG Insulator Wire, OD 0.60mm 32\n5 Braid: 0.12/168C 1\n6 Acetate Cloth Tape 3\n7 Heat Shrink Tube, 300V, Color: Black 11\n2\n"}]
+!==============================================================================!
+### Component Summary for CAS-M025-HNS-0306
+
+**Component Type:** Wire Harness
+
+**Description:**
+The CAS-M025-HNS-0306 is a wire harness designed for electrical connections in various applications. It features a combination of 51-pin and 2x15-pin housings, with a pitch of 0.50mm and 2.00mm respectively. The harness includes multiple terminals and is constructed with UL1571 28AWG insulated wire, making it suitable for a range of electronic devices.
+
+**Key Specifications:**
+- **Pin Configuration:** 
+  - 51 pins (0.50mm pitch)
+  - 2x15 pins (2.00mm pitch)
+- **Wire Type:** UL1571 28AWG Insulator Wire
+- **Wire Diameter:** OD 0.60mm
+- **Braid:** 0.12/168C
+- **Heat Shrink Tube Rating:** 300V
+- **Length:** 380mm (±10mm tolerance)
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+**Special Features:**
+- RoHS compliant, indicating that the component is free from hazardous substances.
+- The harness includes various colored wires for easy identification and organization.
+
+**Typical Applications:**
+The CAS-M025-HNS-0306 wire harness is typically used in:
+- **Power Management:** Connecting power supplies to various components in electronic devices.
+- **Signal Processing:** Facilitating communication between different parts of a circuit or system.
+- **Consumer Electronics:** Commonly found in devices such as computers, appliances, and automotive applications where reliable electrical connections are essential.
+
+This wire harness is designed to ensure efficient and reliable connections in electronic assemblies, making it a critical component in modern electronic design and manufacturing.

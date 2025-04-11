@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 28WAL-25.4_Cu production of AINFO from the text: \n   \n  \n  \n  Chengdu AINFO Inc.  \nFloor#2,Building#3,#5,Gaopeng\nEast Road,Chengdu, China\nTel: +86-28-8519-2786\nFax: +86-28-8519-3068\nWebsite: www.ainfoinc.com   Email: Sales@ainfoinc.comWR28 Straight Waveguide \n \nP/N: 28WAL-25.4_Cu  \nFreq. Range 26.5-40.0GHz \nVSWR  1.05 Max \nWaveguide  WR28 \nFlange FBP320((UBR320) \nPower Handling,CW (W) 170 \nPower Handling, Peak,(KW) 70 \nMaterial  Cu \nLength  50mm \nWeight (kg) 0.02 \n A-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n'}]
+!==============================================================================!
+### Component Summary for 28WAL-25.4_Cu
+
+**Manufacturer:** Chengdu AINFO Inc.  
+**Product Code:** 28WAL-25.4_Cu  
+**Component Type:** Waveguide
+
+#### Key Specifications:
+- **Frequency Range:** 26.5 - 40.0 GHz
+- **VSWR (Voltage Standing Wave Ratio):** 1.05 Max
+- **Waveguide Type:** WR28
+- **Flange Type:** FBP320 (also known as UBR320)
+- **Power Handling (Continuous Wave):** 170 W
+- **Power Handling (Peak):** 70 kW
+- **Material:** Copper (Cu)
+- **Length:** 50 mm
+- **Weight:** 0.02 kg
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+#### Description:
+The 28WAL-25.4_Cu is a straight waveguide designed for high-frequency applications, specifically within the frequency range of 26.5 to 40.0 GHz. It is constructed from copper, which provides excellent conductivity and durability. The waveguide features a low VSWR of 1.05, indicating efficient power transmission with minimal reflections.
+
+#### Typical Applications:
+This waveguide is typically used in high-frequency communication systems, radar systems, and other microwave applications where efficient signal transmission is critical. Its ability to handle significant power levels makes it suitable for applications in telecommunications, satellite communications, and various RF (radio frequency) systems. The WR28 waveguide standard is commonly utilized in laboratory and industrial settings for testing and measurement purposes as well.
+
+### Conclusion:
+The 28WAL-25.4_Cu waveguide from AINFO is a high-performance component ideal for applications requiring reliable signal transmission at microwave frequencies. Its robust design and high power handling capabilities make it a valuable component in advanced communication and radar systems.

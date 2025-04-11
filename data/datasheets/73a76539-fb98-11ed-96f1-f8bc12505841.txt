@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BL2-030-SN430-55/11 production of E-TEC from the text:AB\n004 2,94 1,27 \n006 4,21 2,54 \n008 5,48 3,81 \n010 6,75 5,08 \n012 8,02 6,35 \n014 9,29 7,62 \n016 10,56 8,89 \n018 11,83 10,16 \n020 13,10 11,43 \n022 14,37 12,70 \n024 15,64 13,97 \n026 16,91 15,24 \n028 18,18 16,51 \n030 19,45 17,78 \n032 20,72 19,05 \n034 21,99 20,32 \n036 23,26 21,59 \n038 24,53 22,86 \n040 25,80 24,13 \n042 27,07 25,40 \n044 28,34 26,67 \n046 29,61 27,94 \n048 30,88 29,21 \n050 32,15 30,48 \n052 33,42 31,75 \n054 34,69 33,02 \n056 35,96 34,29 \n058 37,23 35,56 \n060 38,50 36,83 \n062 39,77 38,10 \n064 41,04 39,37 \n066 42,31 40,64 \n068 43,58 41,91 \n070 44,85 43,18 \n072 46,12 44,45 \n074 47,39 45,72 \n076 48,66 46,99 \n078 49,93 48,26 \n080 51,20 49,53 \n082 52,47 50,80 \n084 53,74 52,07 \n086 55,01 53,34 \n088 56,28 54,61 \n090 57,55 55,88 \n092 58,82 57,15 \n094 60,09 58,42 \n096 61,36 59,69 \n098 62,63 60,96 \n100 63,90 62,23 No. of \nContacts Dimension(mm)\n\n'}]
+!==============================================================================!
+### Component Summary for BL2-030-SN430-55/11 (E-TEC)
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Current Ratings**: Not explicitly stated; usually specified in the complete datasheet.
+- **Power Consumption**: Not provided; requires full datasheet for accurate details.
+- **Operating Temperature Range**: Not mentioned; refer to the complete datasheet for this information.
+- **Package Type**: Not specified in the provided text; typically detailed in the full datasheet.
+- **Special Features or Notes**: The text appears to list dimensions and contact numbers, indicating a connector type component.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not provided; this would be included in the full datasheet.
+
+#### Component Description:
+The BL2-030-SN430-55/11 is likely a type of electrical connector, specifically designed for applications requiring multiple contacts. The provided dimensions suggest it has a specific arrangement of contacts, which are critical for establishing reliable electrical connections in various electronic systems.
+
+#### Typical Applications:
+- **Interconnect Solutions**: Used in various electronic devices for connecting different components.
+- **Signal Transmission**: Suitable for applications where multiple signals need to be transmitted simultaneously.
+- **Power Distribution**: Can be utilized in power management systems where multiple power lines are required.
+- **Automotive and Industrial Applications**: Often found in automotive wiring harnesses and industrial machinery where robust connections are necessary.
+
+### Conclusion:
+The BL2-030-SN430-55/11 component appears to be a multi-contact connector, essential for various electronic applications. For precise specifications such as voltage ratings, current ratings, and operating temperature range, it is recommended to consult the complete datasheet from E-TEC.

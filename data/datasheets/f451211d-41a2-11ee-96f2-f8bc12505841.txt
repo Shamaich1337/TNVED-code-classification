@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HTG-FMC-M2X2 production of HITECH GLOBAL from the text:Part Number: HTG-FMC-M2X2\nManufacturer: HiTech Global, LLC\nDescription:\nFMC expantion board with SSD (M.2)\nFeatures:\n►x2 M.2 Sockets (M Key)\n►x1PCIe Jitter Attenuator / Clock\n►x1EEPROM\n►x1 Vita57.1 FMC Connector\n\nThisVita57.1 compliant FMC module is supported by two M.2 sockets (M Key) and low -jitter programmable\nclock generator. The module supports industry standard SSD modules with different density ranges.\n\n'}]
+!==============================================================================!
+### Component Summary for HTG-FMC-M2X2
+
+**Manufacturer:** HiTech Global, LLC  
+**Part Number:** HTG-FMC-M2X2  
+
+#### Key Specifications:
+- **Voltage Ratings:** Not specified in the provided text.
+- **Current Ratings:** Not specified in the provided text.
+- **Power Consumption:** Not specified in the provided text.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** FMC (FPGA Mezzanine Card) module.
+- **Special Features:**
+  - Two M.2 Sockets (M Key) for SSD connectivity.
+  - PCIe Jitter Attenuator / Clock for signal integrity.
+  - EEPROM for configuration storage.
+  - Compliant with VITA 57.1 standards.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The HTG-FMC-M2X2 is an FMC expansion board designed to interface with SSDs (Solid State Drives) using M.2 connectors. It features two M.2 sockets that support M Key SSD modules, allowing for high-speed data transfer and storage capabilities. The board includes a low-jitter programmable clock generator to ensure stable signal performance, as well as an EEPROM for storing configuration data.
+
+#### Typical Applications:
+The HTG-FMC-M2X2 is typically used in applications that require high-speed data storage and retrieval, such as:
+- Data acquisition systems
+- High-performance computing
+- Embedded systems requiring fast storage solutions
+- FPGA-based designs where additional storage is needed
+- Applications in telecommunications and networking where SSDs can enhance performance and reliability.
+
+This component is particularly suited for environments where compliance with industry standards (like VITA 57.1) is necessary, making it a versatile choice for various electronic and computing applications.

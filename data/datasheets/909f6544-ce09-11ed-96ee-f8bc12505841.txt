@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2JW0302-C442B_CU100549 production of 2J from the text: \n \n2JW0302-C442B     \n \n  Product Datasheet\nKey Features\n2.4/5.0  GHz ISM \n- 2410-2490 MHZ\n- 4920-5925 MHz\nConnector Mount\nGround Plane Independent\nHinged Connector\nHigh Ef ficiency \nDimensions 1 13 × 10 mm\nwww .2j-antennae.com www .2j-antennasusa.com Page: 1/82.4/5.0  GHz ISM Connector Mount\n\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 2/81. Antenna and electrical specifications   \nParameters\nStandards\nBand (MHz)\nFrequency (MHz)\nReturn Loss (dB)\nVSWR\nEfficiency (%)\nPeak Gain (dBi)\nAverage Gain (dB)\nImpendance (Ohm)\nPolarisation\nRadiation Pattern\nMax. Input Power (W)\nConnector T ype2.4/5.0 GHz ISM Antenna\nWiFi, BT , ZigBee, ISM\n50\nLinear\nOmni-Directional\n25\nSMA-Male  RP Standard\nAntenna Measurement Conditions:\nMeasured on Free space\nMeasured in Certified CTIA  3D Anechoic Chamber\n2. Mechanical and environmental specifications    \nSpecifications\nMounting T ype\nDimensions (mm)\nRadome \nRadome color\nOperating T emperature (C)\nStorage T emperature (C)\nSubstance Compliance2JW0302-C442B\nConnector Mount\n113 × 10 \nABS UV Stable\nBlack\n-40 to +85\n-40 to +85\nRoHS2.4 G Hz\n2410-2490\n~-22.0\n~1.2:1\n~71.6\n~2.3\n~-1.45.0 G Hz\n4920-5925\n~-10.3\n~1.9:1\n~45.6\n~0.8\n~-3.5\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 3/83. Antenna parameters    \n-25-20-15-10-50\n23002500270029003100330035003700390041004300450047004900510053005500570059006100Return Loss (dB)\nFrequency  (MHz)\n012345\n23002500270029003100330035003700390041004300450047004900510053005500570059006100VSWR\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 4/801020304050607080\n23002500270029003100330035003700390041004300450047004900510053005500570059006100Efficiency (%)\nFrequency  (MHz)\n-10123\n23002500270029003100330035003700390041004300450047004900510053005500570059006100Peak Gain (dBi)\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 5/8Radiation pattern referen ce-6-5-4-3-2-10\n23002500270029003100330035003700390041004300450047004900510053005500570059006100Average Gain (d B)\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 6/82450 an d 5500 M Hz Rad iation pattern\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 7/84. Antenna drawings     113 \n10 \n 89,5 \n 33,5 \n 10  108 \n 10 \n 28 \n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 8/85. Antenna Images    \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nМакро\n \nГрупп\n \n–\n \nэто:\n\uf06c\nдистрибьютор\n \nэлектронных\n \nкомпонентов с 1994 года\n\uf06c\nконтрактный производитель электроники с\n \n2007\n \nгода с собственным производством\nв Санкт-Петербурге (компания Макро ЕМС\n,\n \nвходит в ГК Макро Групп)\n\uf06c\nпоставщик полупроводниковых материалов\n\uf06c\nкомплексный поставщик электронных компонентов\n\uf06c\nмоделирование и производство полупроводниковых эпитаксиальных гетероструктур\nдля задач оптоэлектроники\nГоловной офис расположен в Санкт-Петербурге. Собственные представительства в\nкрупных промышленных городах России и стран СНГ.\nПреимущества для наших заказчиков:\n\uf06c\n \nработа по тендерам с\n \n2012\n \nгода\n\uf06c\n \nоформление банковских гарантий\n\uf06c\n \nотсрочки платежей\n\uf06c\n \nпоставка электронных компонентов по проектным ценам\n\uf06c\n \nинженерная поддержка проектов заказчиков\n\uf06c\nсертификат системы менеджмента качестве ISO 9001-2015\n\uf06c\nнеобходимые сертификаты и лицензии\nДанный файл \nполуч\nен\n с сайта\n \nwww.macrogroup.ru\n'}]
+!==============================================================================!
+### Component Summary: 2JW0302-C442B
+
+#### Key Specifications:
+- **Frequency Bands**: 
+  - 2.4 GHz ISM: 2410-2490 MHz
+  - 5.0 GHz ISM: 4920-5925 MHz
+- **Return Loss**: 
+  - 2.4 GHz: ~-22.0 dB
+  - 5.0 GHz: ~-10.3 dB
+- **VSWR**: 
+  - 2.4 GHz: ~1.2:1
+  - 5.0 GHz: ~1.9:1
+- **Efficiency**: 
+  - 2.4 GHz: ~71.6%
+  - 5.0 GHz: ~45.6%
+- **Peak Gain**: 
+  - 2.4 GHz: ~2.3 dBi
+  - 5.0 GHz: ~0.8 dBi
+- **Average Gain**: 
+  - 2.4 GHz: ~-1.4 dB
+  - 5.0 GHz: ~-3.5 dB
+- **Impedance**: 50 Ohm
+- **Polarization**: Linear
+- **Radiation Pattern**: Omni-Directional
+- **Max Input Power**: 25 W
+- **Connector Type**: SMA-Male RP Standard
+- **Mounting Type**: Connector Mount
+- **Dimensions**: 113 mm x 10 mm
+- **Operating Temperature Range**: -40°C to +85°C
+- **Storage Temperature Range**: -40°C to +85°C
+- **Radome Material**: ABS UV Stable
+- **Radome Color**: Black
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The 2JW0302-C442B is a dual-band antenna designed for use in the 2.4 GHz and 5.0 GHz ISM frequency bands. It is a connector mount antenna that is ground plane independent, making it versatile for various applications. The antenna features a hinged connector for ease of installation and adjustment, and it is constructed from UV-stable ABS material, ensuring durability in outdoor environments.
+
+#### Typical Applications:
+This antenna is suitable for a variety of wireless communication applications, including:
+- **WiFi**: Enhancing wireless network connectivity.
+- **Bluetooth**: Facilitating short-range wireless communication.
+- **ZigBee**: Supporting low-power, low-data-rate wireless applications.
+- **ISM Band Applications**: Used in industrial, scientific, and medical devices that operate within the ISM bands.
+
+Overall, the 2JW0302-C442B antenna is ideal for applications requiring reliable wireless communication in both indoor and outdoor settings, particularly in environments where space and mounting flexibility are critical.

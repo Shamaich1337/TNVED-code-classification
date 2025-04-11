@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 0532610971 production of MOLEX from the text: \n \n \n \n \nDocuments & Resources \nDrawings\nDrawing  532610971_sd.pdf\n \n3D Models and Design Files\n2D Drawing DXF  532610971.dxf\n2D Drawing DXF PDF  532610971.pdf\n3D Model PDF  532610971.pdf\n3D Model  532610971_stp.zip\n \nSpecifications\nApplication Specification  510210000-AS-000.pdf\nPackaging Specification  SPK-53261-002-001.pdf\nProduct Specification  510211024-PS-000.pdf\nProduct Specification  510211124-PS-000.pdf\nProduct Specification  PS-51021-024-001.pdf\n \n \nProduct Environment Compliance \nCompliance \n \n Part Number : 532610971\nProduct Description : 1.25mm Pitch,\nPicoBlade PCB Header, Single Row, Right-\nAngle, Surface Mount, Tin (Sn) Plating, Friction\nLock, 9 Circuits, Tape and Reel\nSeries Number : 53261\nStatus : Active\nProduct Category : PCB Headers and\nReceptacles\nGADSL/IMDS Not Relevant\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Not Low-Halogen per IEC 61249-2-\n21\nREACH SVHC Not Contained per D(2023)3788-DC\n(14 Jun 2023)\nEU RoHS Compliant per EU 2015/863\n-\n-\n-\n-\n-\n-\n-\n-\nMultiple Part Product Compliance Statements\nEu RoHS\nREACH SVHC\nLow-Halogen\n \nMultiple Part Industry Compliance Documents\nIPC 1752A Class C\nIPC 1752A Class D\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneral \n \n \nAgency \n \n \nElectrical \n \n \nPhysical Status Active\nCategory PCB Headers and Receptacles\nSeries 53261\nDescription 1.25mm Pitch, PicoBlade PCB\nHeader, Single Row, Right-Angle,\nSurface Mount, Tin (Sn) Plating,\nFriction Lock, 9 Circuits, Tape and\nReel\nApplication Signal, Wire-to-Board\nComponent Type PCB Header\nProduct Family PicoBlade Connector System\nProduct Name PicoBlade\nUPC 822348164226\nCSA LR19980\nUL E29179\nCurrent - Maximum per Contact 1.0A\nVoltage - Maximum 125V\n \n \nMates With / Use With \nMates with Part(s) \n Breakaway No\nCircuits (Loaded) 9\nCircuits (maximum) 9\nColor - Resin Natural\nDurability (mating cycles max) 30\nFirst Mate / Last Break No\nFlammability 94V-0\nGlow-Wire Capable No\nGuide to Mating Part Yes\nKeying to Mating Part None\nLock to Mating Part Yes\nMated Height 3.40mm\nMaterial - Metal Phosphor Bronze\nMaterial - Plating Mating Tin\nMaterial - Plating Termination Tin\nMaterial - Resin Polyamide\nNet Weight 259.000/mg\nNumber of Rows 1\nOrientation Right Angle\nPackaging Type Embossed Tape on Reel\nPCB Locator No\nPCB Retention Yes\nPitch - Mating Interface 1.25mm\nPlating min - Mating 1.016µm\nPlating min - Termination 1.016µm\nPolarized to PCB Yes\nShrouded Fully\nStackable No\nTemperature Range - Operating -40° to +105°C\nTermination Interface Style Surface Mount\nDescription Part Number\n \n \n \n \nThis document was generated on Aug 29, 2023 PicoBlade Single Row Receptacle\nHousings51021\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 0532610971
+
+**Component Description:**
+The MOLEX 0532610971 is a 1.25mm pitch PicoBlade PCB header designed for surface mount applications. It features a single row configuration with a right-angle orientation and is equipped with 9 circuits. The header is constructed with a friction lock mechanism and is plated with tin (Sn) for enhanced conductivity and durability. This component is part of the PicoBlade connector system, which is widely used for wire-to-board connections in various electronic applications.
+
+**Key Specifications:**
+- **Voltage Rating:** 125V
+- **Current Rating:** 1.0A per contact
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range:** -40°C to +105°C
+- **Package Type:** Surface Mount, Tape and Reel
+- **Special Features:**
+  - Friction lock for secure mating
+  - Fully shrouded design
+  - PCB retention feature
+  - Mated height of 3.40mm
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+**Typical Applications:**
+The MOLEX 0532610971 is typically used in applications that require reliable signal transmission and wire-to-board connections. Common applications include:
+- Consumer electronics
+- Telecommunications equipment
+- Automotive electronics
+- Industrial control systems
+- Medical devices
+
+This component is ideal for scenarios where space is limited, and a compact, reliable connection is necessary. Its robust design and compliance with industry standards make it suitable for a wide range of electronic devices.

@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of RFS390B-ALW-DNN production of RAYSTAR OPTRONICS from the text:Page 1 , Total 5 Pages    \n \n \n曜凌光電股份有限公司 \n                                                                  \n \nRFS390B-ALW -DNN \n \nSPECIFICATION \n Web: www.raystar-optronics.com    E-mail:  sales@raystar-optronics.com  \n \nRFS390B-ALW-DNN \n \nPage 2 , Total 5 Pages General Specifications \n \n\x01 Size: 3.9 inch  \n\x01 Dot Matrix: 480 x 128 x RGB (TFT) dots  \n\x01 Module dimension: 105.5(W) x 37.0(H) x 3.05(D) mm  \n\x01 Active area: 95.04 x 25.34 mm  \n\x01 Dot pitch: 0.066(W) x 0.198(H) mm  \n\x01 LCD type: TFT, Normally White, Transmissive  \n\x01 View Direction: 6 o’clock  \n\x01 Gray Scale Inversion Direction: 12 o’clock  \n\x01 Aspect Ratio ：Bar Type  \n\x01 Backlight Type: LED, Normally White  \n\x01 TFT Driver IC: HX8278-A Or Equal  \n\x01 TFT Interface: RGB-24BIT (SYNC mode)  \n\x01 Touch Panel: Without Touch Panel  \n\x01 Surface: Anti-Glare  \n*Color tone slight changed by temperature and drivi ng voltage. \n \n \n \nRFS390B-ALW-DNN \n \nPage 3 , Total 5 Pages Interface \n1. LCM PIN Definition \nNo. Symbol Description \n1 VLED- Backlight LED Cathode \n2 VLED+ Backlight LED Anode. \n3 GND System Ground \n4 VCC Power supply for logic operation \n5~12 R0~R7 Data bus \n13~20 G0~G7 Data bus \n21~28 B0~B7 Data bus \n29 GND System Ground \n30 DCLK Pixel clock signal \n31 DISP Display on/off control \n32 HSYNC Horizontal Sync signal  \n33 VSYNC Vrtical Sync signal  \n34 NC No connection (Option DE) \n35 NC No connection \n36 GND System Ground \n37 NC No connection (Option XR for RTP) \n38 NC No connection (Option YD for RTP) \n39 NC No connection (Option XL for RTP) \n40 NC No connection (Option YU for RTP) \n \n \nRFS390B-ALW-DNN \n \nPage 4 , Total 5 Pages Contour Drawing \nThe non-specified tolerance of dimension is ±0.3 mm  . 95.04  AA 105.50±0.2 \n97.04 VA 25.344 AA 27.34 VA 37.00±0.2 5.23 4.23 3.58 2.58 47.19±0.5 \n18.55±0.5 20.50±0.1 \n50.63 3.05±0.2 \n0.30±0.05 \n5.00 22.45 G1 GND \nVCC \nR0 2\n3\n5\n64\nR2 \nR3 \nR4 \nR5 98\n10 \n11 7R1 1 VLED- \nR7 \nG0 13 \n14 12 R6 \nG7 G2 \nG3 15 \n16 \n17 \nG5 \nG6 19 \n20 18 G4 NC B1 \nB2 \nB3 \nB4 22 \n23 \n25 \n26 24 \nB6 \nB7 \n29 28 \n30 \n31 27 B5 21 B0 \nDCLK \nDISP \n33 \n34 32 GND \nNC NC \nGND 35 \n36 \n37 \nNC \nNC 39 \n40 38 NC VLED+ \nHSYNC \nVSYNC 3.50 19.50 0.30 Stiffener Contact side \nSCALE 100/1 R GB\n0.198 0.066 0.198 \n \n \nRFS390B-ALW-DNN \n \nPage 5 , Total 5 Pages Absolute Maximum Ratings  \n \nItem  Symbol  Min  Typ  Max  Unit  \nOperating Temperature TOP -20 － +70 ℃ \nStorage Temperature TST -30 － +80 ℃ \n \nElectrical Characteristics \n \nOperating conditions \nItem Symbol Condition  Min Typ Max Unit \nSupply Voltage For LCM VCC － 3.0 3.3 3.6 V \nSupply Current For LCM ICC － — 15 25 mA \n \n'}]
+!==============================================================================!
+### Component Summary: RFS390B-ALW-DNN
+
+**Description:**
+The RFS390B-ALW-DNN is a 3.9-inch TFT (Thin Film Transistor) display module produced by Raystar Optronics. It features a dot matrix resolution of 480 x 128 pixels with RGB color capabilities. The display is designed for applications requiring a compact and efficient visual output, utilizing a normally white transmissive LCD type with an LED backlight.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Supply Voltage for LCM (VCC): 3.0V (Min) to 3.6V (Max), with a typical value of 3.3V.
+  
+- **Current Ratings:**
+  - Supply Current for LCM (ICC): 15 mA (Typ) to 25 mA (Max).
+  
+- **Power Consumption:**
+  - Power consumption is primarily determined by the supply current and voltage, with a maximum power consumption of approximately 0.09W (3.6V * 25mA).
+  
+- **Operating Temperature Range:**
+  - Operating Temperature (TOP): -20°C to +70°C.
+  - Storage Temperature (TST): -30°C to +80°C.
+  
+- **Package Type:**
+  - Module dimensions: 105.5 mm (W) x 37.0 mm (H) x 3.05 mm (D).
+  - Active area: 95.04 mm x 25.34 mm.
+  
+- **Special Features or Notes:**
+  - Backlight Type: LED, Normally White.
+  - Surface: Anti-Glare.
+  - No touch panel included.
+  - TFT Driver IC: HX8278-A or equivalent.
+  - Interface: RGB-24BIT (SYNC mode).
+  
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+**Typical Applications:**
+The RFS390B-ALW-DNN display module is suitable for various applications, including:
+- **Consumer Electronics:** Used in handheld devices, portable gadgets, and other electronic displays where space is limited.
+- **Industrial Equipment:** Ideal for control panels, monitoring systems, and user interfaces in machinery.
+- **Medical Devices:** Can be utilized in medical instrumentation for displaying vital signs and other data.
+- **Automotive Displays:** Suitable for dashboard displays and infotainment systems.
+
+This module is designed to provide clear visual output in a compact form factor, making it versatile for numerous electronic applications.

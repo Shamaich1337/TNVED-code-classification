@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of CAS-M025-LVDS-0290 production of E-TEC from the text:RoHS\ncompliant\nWire Harness\n1.00mm Housing 1x30p\nto\nStripped Tinned 3mm\n, L=260mm SHEET UNITmm\nFree  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.GENERAL TOLERANCE\n0 ~ 200mm  ->  ±10mm\n201 ~ 1000mm  ->  ±20mm\n1001 ~ 1500mm  ->  ±25mm\n1501 ~ 2100mm  ->  ±30mm\n2100mm↑->  ±40mmCherry\nKent\nSH18.11.2022\n23.11.202223.11.2022CAS-M025-L VDS-0290\nCAS-M025- LVDS-02901/1\nB130\n30±53±1 Tin\n17\n186\n874\n53Pin No.\n1\n2Color\nNC\n109\n1211\n1413\n1615\n19\n20\n2122\n23\n24\n25\n2627\n28\n2930Black\nBrown\nWhite\nBlack\nGreenWhite\nBlack\nWhite\nBlack\nGrayWhite\nNC\nBlue\nNCNCNC\nBlack\nBlack\nRed\nRed_Signal Name\nGND\nCLK-\nGND\nGND\nGND\nGNDCLK+\nGND\nRin2-Rin2+\nRin1-Rin1+\nRin0-Rin0+\n_\nSEL6/8\n_\n_\n_\nReverse\nVCC\nVCCTwist\nTwist\nTwist\nTwistOrange\nYellowGND\nRin3-Rin3+Twist\nBlack GND\nBlack GNDBlack\nBlack GND\nRed VCCPurple\nWhite\n60±5\n260±103±1 Tin180±10\nItem Description Q'TY\nHousing: 1x30pin, pitch 1.00mm 1\nTerminal: pitch 1.00mm 25\n2 UL1571 28AWG Insulator Wire, OD=0.60mm 25\n3 UL1007 22AWG , Insulator Wire, Black 1\n4 Braid 0.12/144C 1\n5 Acetate Cloth Tape 2\n6 Acetate Cloth Tape 11123\n4 5 5 6REV. previous version this version DATE DRAWN\nA New 18.11.2022 Cherry\nBOM:20AWG BOM:22AWG\n290/30/35mm 260/60/180mmB 23.11.2022 Cherry\n"}]
+!==============================================================================!
+### Component Summary for CAS-M025-LVDS-0290
+
+**Component Type:** Wire Harness
+
+**Description:**
+The CAS-M025-LVDS-0290 is a wire harness designed for low-voltage differential signaling (LVDS) applications. It features a 1.00mm pitch housing with 30 pins, and it is constructed with various wire gauges and types to facilitate reliable electrical connections in electronic systems. The harness is RoHS compliant, indicating it meets environmental standards for hazardous substances.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, LVDS operates at low voltage levels (around 1.2V to 3.3V).
+- **Current Ratings:** Not specified; generally, wire gauge and insulation type will determine the current capacity.
+- **Power Consumption:** Not applicable as this is a passive component.
+- **Operating Temperature Range:** Not specified; typically, wire harnesses can operate in a range of -40°C to +85°C depending on insulation materials.
+- **Package Type:** Wire harness with a 1x30 pin housing.
+- **Special Features/Notes:** 
+  - RoHS compliant
+  - Includes twisted pairs for signal integrity
+  - Stripped tinned ends for easy connection
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Typical Applications:**
+The CAS-M025-LVDS-0290 wire harness is typically used in applications that require reliable data transmission over short distances, such as:
+- **Data Communication:** Connecting components in devices that utilize LVDS for high-speed data transfer.
+- **Consumer Electronics:** Used in displays, cameras, and other electronic devices where compact and efficient wiring is essential.
+- **Industrial Equipment:** Employed in machinery and control systems where robust and reliable connections are necessary.
+
+This wire harness is particularly suited for environments where space is limited and where the integrity of signal transmission is critical, making it a valuable component in modern electronic designs.

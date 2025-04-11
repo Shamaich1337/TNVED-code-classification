@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-KW10-FZ3P150-13.5 production of DECIGN from the text:A New 20.01.2022 Tom\nSWITCH\nDIP VE RTICAL SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.30Tom\nJerry\nSH20.01. 2022\n20.01. 2022\n20.01. 2022KW10 SERIES\nTP-KW10-YZPH13.51/1\nA8.5±1.0mm\n'}]
+!==============================================================================!
+Based on the provided information regarding the component with the product code TP-KW10-FZ3P150-13.5 from DECIGN, here is a concise summary of its key characteristics and specifications:
+
+### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Current Ratings:** Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Power Consumption:** Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Operating Temperature Range:** Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Package Type:** DIP (Dual In-line Package), vertical orientation.
+- **Special Features or Notes:** The component is part of the KW10 series, which may indicate specific features or functionalities typical to that series.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+
+### Component Description:
+The TP-KW10-FZ3P150-13.5 is a switch, specifically designed in a DIP (Dual In-line Package) format. The vertical orientation of the package suggests it is intended for through-hole mounting on printed circuit boards (PCBs). The KW10 series indicates that this component may have specific characteristics or functionalities that are common within that series.
+
+### Typical Applications:
+This switch can be used in various applications, including:
+- **Power Management:** As a means to control power to different parts of a circuit.
+- **Signal Processing:** To toggle signals on and off in electronic circuits.
+- **User Interface Controls:** In devices where user input is required to control functions.
+- **Circuit Protection:** To disconnect power in case of faults or overloads.
+
+### Conclusion:
+While the provided text does not contain all the detailed specifications typically found in a datasheet, it indicates that the TP-KW10-FZ3P150-13.5 is a DIP switch that can be utilized in various electronic applications. For complete specifications, including voltage and current ratings, it is recommended to refer to the full datasheet associated with this product code.

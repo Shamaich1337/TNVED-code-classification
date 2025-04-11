@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TB0746A production of TAI-SAW TECHNOLOGY CO., LTD. from the text:\n                                      TAI-SAW TECHNOLOGY CO., LTD.  2TST DCC \nRelease document TAI-SAW TECHNOLOGY CO., LTD.  \nNo.3, Industrial 2nd Rd., Ping-Chen Industri al District, Taoyuan, Taiwan, R.O.C. \nTEL: 886-3-4690038  FAX: 886-3-4697532 \nE-mail: tstsales3@mail.taisaw.com  Web: www.taisaw.com  \n \nSAW Filter 140MHz  (SMD 13.3×6.5x1.65 mm) \nModel No.: TB0746A Rev. No.:1.0 \n \nA. MAXIMUM RATING:  \n 1.Input Power Level: 10 dBm                         \n2. Operating Temperature: -20 °C to +80 °C  \n3. Storage Temperature: -40 °C to +85 °C \n \nB. Characteristics :  \nAmbient Temperature:  25 °C \n        \nValue Characteristics  \nMin. Typ. Max. Note \nCenter frequency   FC                M H z - 140.0 - - \nMinimum Insertion loss   I . L .            d B -  1 1 . 3  1 3 . 0  -  \n1 d B  B W                              MHz 30.0 33.0 - - \n3 d B  B W                              MHz 32.0 35.0 - - \n3 5 d B  B W                             MHz - 42.4 44.0 - \nPassband Ripple (80% of 3dB BW)     dB - 0.6 1.2 - \nPhase Linearity (80% of 3dB BW)      deg - 5.0 14 - \nDelay Variation (80% of 3dB BW)      nsec - 50 120 - \nA b s o l u t e  D e l a y                       usec - 0.55 - - \nS u b s t r a t e  M a t e r i a l                     Y Z - L i N b O 3      -  \nTemp Coefficient                    p p m / K - -94 -     - \nMatching: \n1.The input of the filter will be matched to 50 ohm  \n2.The output of the filt er will be matched to 50 ohm  \n \n \n        \n RoHS Compliant\nLead free\nLead-free soldering\n                                      TAI-SAW TECHNOLOGY CO., LTD.  3TST DCC \nRelease document      C. Frequency Characteristics :  \n(1) wide band Response:(span 200MHz) \n \n \n(2) Pass band Response and Group Delay Variation: (span 40MHz) \n \n  \n                                      TAI-SAW TECHNOLOGY CO., LTD.  4TST DCC \nRelease document (3) S11 Smith-Chart: (span 200MHz) \n \n \n(4) S22 Smith-Chart: (span 200MHz) \n \n                                      TAI-SAW TECHNOLOGY CO., LTD.  5TST DCC \nRelease document D. Outline Drawing:   \n \n  \n \n  \nYear 2005 \n2009 2006 \n2010 2007 \n2011 2008 \n2012 \nProduct Code B b B  b  \n \n E. PCB Footprint:  \n \n \n  Pin K : RF Input \nPin E : RF Output Pin A,B,C,D,F,G,H,I,J,L : Ground Unit: mm \n□ : Week Code (Follow the table \nfrom planner each year) \n△ : Product / Year Code \n 7 4 6 \n                                      TAI-SAW TECHNOLOGY CO., LTD.  6TST DCC \nRelease document  \nF. Matching Circuit: \nSAW\nFilterL1\nL2 Zin ZoutKE\nL3\n         Zin= Zout=50 ohm  \nL1= 10nH, L2=27nH, L3=68nH \n \n \nG. Packing: \n(1). REEL DIMENSION: \n \n  \n \n      \n                                      TAI-SAW TECHNOLOGY CO., LTD.  7TST DCC \nRelease document  \n  (2). TYPE DIMENSION: \n \n \nH. Recommended Reflow Profile: \n \n \n7 4 6 7 4 6 \n'}]
+!==============================================================================!
+### Component Summary for TB0746A
+
+**Manufacturer:** TAI-SAW TECHNOLOGY CO., LTD.  
+**Product Code:** TB0746A  
+**Type:** SAW Filter  
+**Package Type:** SMD (Surface Mount Device)  
+**Dimensions:** 13.3 mm x 6.5 mm x 1.65 mm  
+
+#### Key Specifications:
+- **Input Power Level:** 10 dBm
+- **Operating Temperature Range:** -20 °C to +80 °C
+- **Storage Temperature Range:** -40 °C to +85 °C
+- **Center Frequency (FC):** 140.0 MHz
+- **Minimum Insertion Loss (I.L.):** 11.3 dB (typical), 13.0 dB (max)
+- **1 dB Bandwidth:** 30.0 MHz (min), 33.0 MHz (max)
+- **3 dB Bandwidth:** 32.0 MHz (min), 35.0 MHz (max)
+- **35 dB Bandwidth:** 42.4 MHz (typical), 44.0 MHz (max)
+- **Passband Ripple (80% of 3dB BW):** 0.6 dB (typical), 1.2 dB (max)
+- **Phase Linearity (80% of 3dB BW):** 5.0° (min), 14° (max)
+- **Delay Variation (80% of 3dB BW):** 50 ns (min), 120 ns (max)
+- **Absolute Delay:** 0.55 µs
+- **Substrate Material:** YZ-LiNbO3
+- **Temperature Coefficient:** -94 ppm/K
+- **Matching:** Input and output matched to 50 ohms
+- **Moisture Sensitive Level:** Not specified in the provided text, but typically follows JEDEC J-STD-020E guidelines.
+
+#### Description:
+The TB0746A is a Surface Mount Device (SMD) SAW (Surface Acoustic Wave) filter designed for RF (Radio Frequency) applications. Its primary function is to filter specific frequency signals, allowing only the desired frequency (140 MHz) to pass while attenuating unwanted frequencies. This is crucial in communication systems to ensure signal integrity and reduce interference.
+
+#### Typical Applications:
+- **Wireless Communication:** Used in mobile phones, base stations, and other wireless devices to filter signals.
+- **Signal Processing:** Employed in various RF applications where precise frequency selection is necessary.
+- **Television and Radio Broadcasting:** Utilized in tuners to select specific channels.
+- **Data Transmission Systems:** Helps in maintaining signal clarity in data communication systems.
+
+The TB0746A is RoHS compliant and lead-free, making it suitable for modern electronic manufacturing processes that require environmentally friendly components.

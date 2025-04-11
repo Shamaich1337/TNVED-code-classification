@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of R04A-9PIFA3N02G production of SUNKYE INTERNATIONAL CO., LTD from the text:Drawing No.\nArchivesSignature\n/1 1Plnte\nDesign\nStandard checkAuditing\nApproveScale Sheet of REVTechnics\nWeight Phase markerCheckDenomination:\nMaterial\nacreage (mm  ):2DWG No.: Character\nDIN\nA000 4:1 DP/N:\nLHs6.602.4071Unit:mmHeat\ntreatment\nGeneral  toleranceCritical  Dimension  **Important  Dimension  *\nX  ±0.15 X°  ±1°\n.X  ±0.10 .X°  ±0.5°\n.XX  ±0.05 .XX°  ±0.05°\n.XXX  ± .XXX°  ±Wo  wo\nWu  gang\nXianghuaming1 5\n9 61 5SUNKYE\n4.6\n7.6\n8.4\n14.3\n19.6\n0.6+0.1\n 0\n2022.01.05\n2022.01.06\n2022.01.086.35\n10.60.512.54\n4.37\n9×∅0.5±0.02\n6 7 3 8 95 4 2 1\nSUNKYER1.272.54\n10.16\n14.3±0.09\n0.51\n2.54×+0.1\n0\n×+0.1\n0\n6 7 3 8 95 4 2 1\nSPECIFICATIONS\nEnvironment: -55 ℃~+125℃\nVibration: 10Hz~2000Hz 196m/s²\nShock: 735m/s² 11ms\nRated current: 3A\nRandom vibration: power spectrum density 0.4G² /Hz, r.m.s value of total acceleration 23.1G \nContact resistance: ≤10mΩ\nInsulation resistance: ≥5000MΩ 100VDC\nDielectric strength: 600V\nMachine life: 800 times\nFinished, CadmiumMicro-D ConnectorPCB LAYOUT 2.54 ×2.54\nR04A-9PIFA 3N02G\n'}]
+!==============================================================================!
+### Component Summary for R04A-9PIFA3N02G
+
+**Component Type:** Micro-D Connector
+
+**Description:**
+The R04A-9PIFA3N02G is a Micro-D connector produced by SUNKYE INTERNATIONAL CO., LTD. It is designed for high-density applications where space is limited. This connector features a robust design suitable for various environmental conditions, making it ideal for military, aerospace, and industrial applications.
+
+### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, Micro-D connectors can handle voltages up to 600V.
+- **Current Ratings:** Rated current of **3A**.
+- **Power Consumption:** Not specified; power consumption is generally dependent on the application and load.
+- **Operating Temperature Range:** **-55°C to +125°C**.
+- **Package Type:** Micro-D Connector.
+- **Special Features/Notes:**
+  - Contact resistance: ≤10mΩ.
+  - Insulation resistance: ≥5000MΩ at 100VDC.
+  - Dielectric strength: 600V.
+  - Machine life: 800 cycles.
+  - Vibration resistance: 10Hz to 2000Hz at 196m/s².
+  - Shock resistance: 735m/s² for 11ms.
+  - Random vibration: Power spectrum density of 0.4G²/Hz, with a total acceleration r.m.s value of 23.1G.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+### Typical Applications:
+The R04A-9PIFA3N02G Micro-D connector is typically used in:
+- **Military and Aerospace:** Due to its rugged design and ability to withstand extreme environmental conditions.
+- **Industrial Equipment:** For reliable connections in machinery and control systems.
+- **Telecommunications:** In applications requiring high-density connections.
+- **Medical Devices:** Where compact and reliable connectors are essential.
+
+This connector is ideal for applications that require durability, reliability, and performance in harsh conditions, making it a preferred choice in critical systems.

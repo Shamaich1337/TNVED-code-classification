@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of RFF500Q-1IW-DBN production of RAYSTAR OPTRONICS from the text: \nPage 1 , Total 5 Pages   \n\n \n曜凌光電股份有限公司\nRaystar Optronics, Inc. \nT: +886 -\n               sales@raystar \n \n \nGeneral Specifications \n \n\x01 Size: 5.0 inch  \n\x01 Dot Matrix: 800 × 3(RGB) × 480 dots \n\x01 Module dimension: 120.7 x 75.8 x \n\x01 Active area: 108.0 x 64.8 mm \n\x01 Dot pitch: 0.045 x 0.135 mm \n\x01 LCD type: TFT, Normally White \n\x01 View Direction: 12 o’clock  \n\x01 Gray Scale Inversion Direction \n\x01 Aspect Ratio: 16:9  \n\x01 Backlight Type: LED, Normally White \n\x01 Controller IC: SSD1963   \n\x01 Interface: Digital 8080 family MPU 8bit/16bit \n\x01 Touch Panel: Without Touch Panel \n\x01 Surface: Anti-Glare  \n*Color tone slight changed by temperature and drivi ng voltage. \n曜凌光電股份有限公司  \nRaystar Optronics, Inc.  \n-4-2565-0761  |  F: +886-4-2565-0760 \nsales@raystar -optronics.com  |  www.raystar- optronics.com \n \n \nRFF500Q-1IW -DBN \n \nSPECIFICATION \nGeneral Specifications  \n800 × 3(RGB) × 480 dots  \n120.7 x 75.8 x 8.0 (Max) mm  \n108.0 x 64.8 mm  \n0.045 x 0.135 mm  \nNormally White , Transmissive  \n \nGray Scale Inversion Direction : 6 o’clock  \nLED, Normally White  \n \nDigital 8080 family MPU 8bit/16bit  \nTouch Panel  \n*Color tone slight changed by temperature and drivi ng voltage.  \nPage 2 , Total 5 Pages optronics.com           \n      \n\n \nPage 3 , Total 5 Pages Interface \n LCM PIN Definition    (CON3) \nPin  Symbol  Function  Remark  \n1 GND System round pin of the IC.     \nConnect to system ground.  \n2 VDD Power Supply : +3.3V  \n3 BL_E Backlight control signal , H: On \\ L: Off  \n4 D/C Data/Command select  \n5 WR Write strobe signal  \n6 RD Read strobe signal  \n7 DB0 Data bus  \n8 DB1 Data bus  \n9 DB2 Data bus  \n10 DB3 Data bus  \n11 DB4 Data bus  \n12 DB5 Data bus  \n13 DB6 Data bus  \n14 DB7 Data bus  \n15 DB8 Data bus (When select 8bits mode, this pin i s NC) Note1 \n16 DB9 Data bus (When select 8bits mode, this pin i s NC) Note1 \n17 DB10 Data bus (When select 8bits mode, this pin is NC) Note1 \n18 DB11 Data bus (When select 8bits mode, this pin is NC) Note1 \n19 DB12 Data bus (When select 8bits mode, this pin is NC) Note1 \n20 DB13 Data bus (When select 8bits mode, this pin is NC) Note1 \n21 DB14 Data bus (When select 8bits mode, this pin is NC) Note1 \n22 DB15 Data bus (When select 8bits mode, this pin is NC) Note1 \n23 NC No connection  \n24 NC No connection  \n25 CS Chip select  \n26 RST Hardware reset(RESET)  \n27 NC No connection  \n28 NC No connection  \n29 NC No connection  \n30 NC No connection  \n31 NC No connection  \n32 NC No connection  \n33 VLED- VLED- for B/L  LED inverter  (GND)  \n34 VLED- VLED- for B/L  LED inverter  (GND)  \n35 VLED+ VLED+ for B/L  LED inverter     \n36 VLED+ VLED+ for B/L  LED inverter     \nNote1: When select 8bit mode, DB0~DB7 be used, DB8~ DB15 no connect \n      When select 16bit mode, DB0~DB15 be used  \n \nPage 4 , Total 5 Pages Contour Drawing \nPin Symbol \n1 GND \n2 VDD \n3 BLE \n4 D/C \n5 WR \n6 RD \n7 DB0 \n8 DB1 \n9 DB2 \n10 DB3 \n11 DB4 \n12 DB5 \n13 DB6 \n14 DB7 \n15 DB8 \n16 DB9 \n17 DB10 \n18 DB11 \n19 DB12 \n20 DB13 \n21 DB14 \n22 DB15 \n23 NC \n24 NC \n25 CS \n26 RST \n27 NC \n28 NC \n29 \n30 \n31 \n32 \n33 VLED- \n34 VLED- \n35 VLED+ \n36 VLED+ SCALE 1:100 R G B0.135 0.135 0.045 CON1 (Down-Side) CN-FPC-36P/P0.5 1\n36 1 40 \nCON3 TFT_Outline 120.7±0.5 TFT_Outline 75.8±0.5 TFT_AA 108.0 TFT_AA 64.8 6.30 3.42 TFT_VA 110.7 TFT_VA 67.4 5.00 2.01 6.3±0.5 \n1.0 8.0MAX \n2.5MAX 1.00 118.7±0.5 PCB \n0.20 45.0±0.5 PCB 1.00 11.90 12.39 \n45.0 3- ?1.6NPTH 30.0 40.0 \n4-6.00*3.00(PAD) \n22.5 4.00 800RGB X 480 KA4-6.00*3.00(PAD) \nThe non-specified tolerance of dimension is ±0.3 mm  . Display center \nNC \nNC \nNC \nNC \n \n \nPage 5 , Total 5 Pages Absolute Maximum Ratings  \n \nItem Symbol Min Typ  Max Unit \nOperating Temperature TOP -20 － +70 ℃ \nStorage Temperature TST -30 － +80 ℃ \n \nElectrical Characteristics  \n \nOperating conditions: (CON3.Pin1=GND, Pin2=VDD) \nItem  Symbol  Condition  Min  Typ  Max  Un it \nSupply Voltage For LCM VDD － 3.0 3.1 3.3 V \nSupply Current For LCM  IDD — — 150 230 mA \nNote 1 : This value is test for VDD =3.3V , Ta=25 ℃ only \n \nBacklight driving conditions  (CON3.Pin33,34=VLED-,  Pin35,36=VLED+) \nParameter  Symbol Min. Typ. Max.  Unit \nOperation Current For LED Driver VLED=5V 200 - 300 mA \nSupply Voltage For LED Driver VLED+ － 5 － V \nLED Life Time  － 50,000  - Hr \n \n'}]
+!==============================================================================!
+### Component Summary: RFF500Q-1IW-DBN
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Supply Voltage for LCM (VDD): 3.0V to 3.3V
+  - Supply Voltage for LED Driver (VLED+): 5V
+
+- **Current Ratings:**
+  - Supply Current for LCM (IDD): 150mA (typical) to 230mA (max)
+  - Operation Current for LED Driver: 200mA to 300mA
+
+- **Power Consumption:**
+  - Power consumption is primarily determined by the supply current for the LCM and the LED backlight current.
+
+- **Operating Temperature Range:**
+  - Operating Temperature (TOP): -20°C to +70°C
+  - Storage Temperature (TST): -30°C to +80°C
+
+- **Package Type:**
+  - Module dimensions: 120.7mm x 75.8mm x 8.0mm (Max)
+  - Active area: 108.0mm x 64.8mm
+
+- **Special Features or Notes:**
+  - TFT LCD type with a normally white transmissive display.
+  - Gray Scale Inversion Direction: 6 o’clock.
+  - Anti-glare surface treatment.
+  - No touch panel included.
+  - Color tone may change with temperature and driving voltage.
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided information.
+
+#### Description:
+The RFF500Q-1IW-DBN is a 5.0-inch TFT LCD display module designed for various electronic applications. It features a resolution of 800 x 3 (RGB) x 480 dots, providing a vibrant color display suitable for visual output in devices. The module operates with a supply voltage of 3.3V and includes an LED backlight for enhanced visibility.
+
+#### Typical Applications:
+This display module is typically used in:
+- **Consumer Electronics:** Such as handheld devices, portable gaming consoles, and smart home devices.
+- **Industrial Equipment:** For user interfaces in machinery and control panels.
+- **Automotive Displays:** In dashboards and infotainment systems.
+- **Medical Devices:** For displaying patient data and diagnostics.
+- **Embedded Systems:** Where a compact and efficient display is required for data visualization.
+
+The RFF500Q-1IW-DBN is ideal for applications that require a clear and bright display with a compact form factor, making it versatile for various electronic projects and products.

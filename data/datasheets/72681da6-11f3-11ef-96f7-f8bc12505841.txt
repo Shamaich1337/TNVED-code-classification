@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-SL2-008-RN159/04-55 production of DECIGN from the text:PIN\n NO.DIMENSION PIN\n NO.DIMENSION PIN\n NO.DIMENSION PIN\n NO.DIMENSION\nMaterial\nContact: Brass\nPlating: Gold, Tin or Duplex\n*Duplex = Tin on solder, Gold on contact area\nInsulator: PBT，PA6T or PA9T (black) UL 94V-0\nOperating temperature: -40 °C to +105°C\n      2.54mm Pin Header .\n-THT-Right Angle, 2 ×X pins, down angle pin type,\nPA9T insulator, Gold Flash, RoHS73.6671.1268.58\n76.266.0463.560.9658.4255.8853.34DIMB\nSpecifications\nElectrical\nCurrent rating: 3A\nInsulation resistance: 1000 MΩ min.\nContact resistance: 20mΩ max.\nWithstanding voltage: 500V AC2.54±0.10 1.2±0.05∅\n04.24.20240.30Jerry SERIES NO..X    ±   .X° ± Free\n0.100.20\nPAULAPPROVE\n.XXX ±.XX   ±\n.XXX° ± .XX° ±\nTP-SL2-XXX-RN159/04-5504.24.2024DATERecommended PCB layout\nSCALEmmUNIT\n0.40Tom\nCHECKDRAWN\nX.   ±   X.° ±GENERAL TOLERANCE\n2.54±0.10\nTP-SL2-XXX-RN159/04-5504.24.2024DWG. NO.\nDATEDATE\nA  REV. SHEETDIMA  2.54*(PIN NO./2-1) ±0.30DIMB  2.54*PIN NO./2 ±0.50\n2.54±0.10\n8.20±0.20\nB 3.0±0.20\nC 4.04±0.20\n2.54±0.10\n2.54±0.10SQ0.64±0.02\n63.52*26 15.2412.72*6 40.6438.12*16\n20.3217.7815.24\n22.862*92*82*7\n2*1071.122*2968.582*2866.042*27\n2*3073.6622.86 48.2645.722*1920.32 45.7243.182*1817.78\n25.443.1840.642*17\n2*2048.2650.87.62\n10.165.082.54DIMA\n2*52*42*32*22*1\n2.54±0.10\n58.42\n60.962*252*242*2355.8853.342*2250.82*21\n12.710.167.625.082.54DIMB\n38.135.5633.02\n35.562*152*142*1330.4833.0230.4827.942*1227.9425.42*11DIMA DIMADIMB\n91.4488.92*36\n99.0696.522*3996.5293.982*3893.9891.442*37\n2*4099.06101.681.2883.8281.2878.742*3278.7476.22*31DIMADIMB\n88.986.3683.82\n86.362*352*342*33TP-SL2-XXX-RN159/04-55\n2.54±0.10\n5.08±0.20Order CodeDESCRIPTION REV.\nNEW A TomDRAWN DATE\n10.25.2023\nPDF      pdfFactory        www.fineprint.cn\n'}]
+!==============================================================================!
+### Component Summary for TP-SL2-008-RN159/04-55
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated, but withstanding voltage is 500V AC.
+- **Current Ratings**: 3A maximum.
+- **Power Consumption**: Not specified; power consumption is typically dependent on the application and load.
+- **Operating Temperature Range**: -40 °C to +105 °C.
+- **Package Type**: 2.54mm Pin Header, THT (Through-Hole Technology), Right Angle.
+- **Special Features/Notes**: 
+  - Insulator materials include PBT, PA6T, or PA9T (black) with UL 94V-0 flame rating.
+  - Contact materials are brass with gold, tin, or duplex plating (tin on solder, gold on contact area).
+  - Insulation resistance is 1000 MΩ minimum.
+  - Contact resistance is 20 mΩ maximum.
+- **Moisture Sensitive Level (MSL)**: Not specified in the provided text.
+
+#### Description:
+The TP-SL2-008-RN159/04-55 is a 2.54mm pin header connector designed for through-hole mounting. It features a right-angle configuration with two rows of pins, making it suitable for applications where space is limited. The connector is constructed with durable materials, including brass contacts plated with gold or tin, ensuring reliable electrical connections.
+
+#### Typical Applications:
+This pin header connector is commonly used in various electronic applications, including:
+- **Power Management**: Connecting power supplies to circuit boards.
+- **Signal Processing**: Facilitating connections between different circuit components.
+- **Data Storage**: Used in devices that require reliable connections for data transfer.
+- **Consumer Electronics**: Found in devices such as computers, televisions, and other electronic appliances where compact and reliable connections are necessary.
+
+Overall, the TP-SL2-008-RN159/04-55 is a versatile and robust connector suitable for a wide range of electronic applications, particularly where space and reliability are critical.

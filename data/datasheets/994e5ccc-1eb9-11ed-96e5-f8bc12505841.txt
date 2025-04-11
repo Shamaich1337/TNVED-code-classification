@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HMR-B19-VSLC1-95 production of E-TEC from the text:Recommended PCB Layout  Top View\n(Tolerance ±0.05)XA New 30.06.2022 Cherry\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.25Cherry\nRonny\nFagi30.06.2022\n30.06.202230.06.2022HMR-B19-VSLC1\nHMR-B19-VSLC1-xx1/1\nASpecifications\nElectrical\nCurrent rating: 0.5A\nInsulation resistance: 100MΩ min.\nContact resistance: 30mΩ max.\nVoltage rating: 40V AC\nWithstanding voltage: 500V AC/Minute\nMaterial\nContact: Copper Alloy\nPlating: Sn on solder, A u flash on contact area\n                    entire contact Ni underplated\nShell: Copper Alloy  t=0.40mm; Ni plated\nInsulator: LCP (black)  UL 94V-0\nOperating temperature: -25°C to +85°C\nMechanical Requirements\nInsertion force: 44N max.\nExtraction force: 10~39N min.\nPacking TrayRoHS\ncompliant\nHDMI Connector\nTHT - Vertical - Fully Shielded\nwith top mounting flangeOrder Code\nHMR-B19-VSLC1-95\n6.50 3.50\n7.50PCB Edge\n8.50 13.252x∅1.70\n1∅0.80\n∅0.55\n10.409.241.1551.00\n0.57821 8\n190.90 1.402.703.20\nDetail X9.009.50\n4.752.60\n9.650.386.60\n4.54+0.05\n-0.04\n8.50 ±0.1525.00 ±0.385.34\n16.4014.80\n3.00 2.30\n1.00\n9.65 9.00\n9.504.30\n1.70\n6.00 ±0.153.50\n7.80 ±0.15\n5.35\n10.40 ±0.15\n9.24 ±0.15\n0.5781.155\n∅1.50∅1.509.00#18#19\n#1#2M3x0.50\n7.7523.10\n1.90\n'}]
+!==============================================================================!
+### Component Summary: HMR-B19-VSLC1-95
+
+#### Key Specifications:
+- **Voltage Rating**: 40V AC
+- **Current Rating**: 0.5A
+- **Power Consumption**: Not specified directly; power can be calculated using P = V x I (20W max at 40V and 0.5A).
+- **Insulation Resistance**: 100MΩ minimum
+- **Contact Resistance**: 30mΩ maximum
+- **Withstanding Voltage**: 500V AC for 1 minute
+- **Operating Temperature Range**: -25°C to +85°C
+- **Package Type**: HDMI Connector, THT (Through-Hole Technology) - Vertical, Fully Shielded with top mounting flange
+- **Special Features**: RoHS compliant, copper alloy contacts with nickel plating, and LCP insulator rated UL 94V-0.
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The HMR-B19-VSLC1-95 is a fully shielded HDMI connector designed for through-hole mounting applications. It features a robust construction with copper alloy contacts and a durable LCP insulator, making it suitable for various electronic devices requiring HDMI connectivity. The connector is designed to ensure reliable signal transmission while minimizing interference.
+
+#### Typical Applications:
+This HDMI connector is typically used in:
+- **Consumer Electronics**: Such as televisions, projectors, and gaming consoles for high-definition video and audio transmission.
+- **Computing Devices**: Including desktop computers and laptops for connecting to external displays.
+- **Industrial Equipment**: Where HDMI connections are needed for control systems or monitoring displays.
+- **AV Systems**: In professional audio-visual setups for connecting various components like cameras, mixers, and screens.
+
+The HMR-B19-VSLC1-95 is ideal for applications that require a reliable and high-performance HDMI connection, particularly in environments where durability and temperature resilience are critical.

@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MG-2525A-10-IPEX production of XIAMEN LINEYI TRADING CO., LTD. from the text:Special for MACRO GROU P    E-mail: wireless@macrogroup.ru     Tel: +7 (812) 370 60 70  \n \n \nDATASHEET    \nMMMGGG---222555222555AAA---111000---IIIPPPEEEXXX   \nType  GPS/GLONASS  Ceramic Active antenna  \nFrequencies  1575.42 /1600 MHz \nMounting  Connector IPEX  \nBrand Name  MG ANTENNAS  \n \n \nRevision #  Content  Page  Date  \n0 First, document  - 11.08.201 4 \n \n1. SPECIFI CATION  \n1.1 Electrical Spe cifications  \n                                                                        \n 1.2 Mechanical specification s \nCable  (type and length )  RF 1.13 , 100mm or other * \nConnector  IPEX  or other * \nDimensions  25*25*4 mm \n    * Customizable Cable and Connector  \n \n1.3 Envi ronmental specifications  \n \n \n \n \n Frequency  1575.42 /1600  MHz \nPolari zation  Circula r \nRadiation  Direction al  \nGain  ANT 2.5 dBi \nGain LNA  28±2 dBi \nMax p ower  10 W \nVSWR  2.0 :1 \nImpedance  50 Ω \nOperating Temper ature , ℃ -40 ~ + 80 \nOperating Humidity, %  0 ~ 95  \nStorage Temperature , ℃ -40 ~ + 80 \nStorage Humidity, %  0 ~ 95  \n'}]
+!==============================================================================!
+### Component Summary: MG-2525A-10-IPEX
+
+#### Key Specifications:
+- **Type**: GPS/GLONASS Ceramic Active Antenna
+- **Frequencies**: 1575.42 MHz / 1600 MHz
+- **Mounting**: Connector IPEX
+- **Dimensions**: 25 mm x 25 mm x 4 mm
+- **Cable Type and Length**: RF 1.13, 100 mm (customizable)
+- **Connector**: IPEX (customizable)
+  
+#### Electrical Specifications:
+- **Gain**: 
+  - Antenna Gain: 2.5 dBi
+  - LNA Gain: 28 ± 2 dBi
+- **Maximum Power**: 10 W
+- **Voltage Standing Wave Ratio (VSWR)**: 2.0:1
+- **Impedance**: 50 Ω
+
+#### Environmental Specifications:
+- **Operating Temperature Range**: -40 °C to +80 °C
+- **Operating Humidity**: 0% to 95%
+- **Storage Temperature Range**: -40 °C to +80 °C
+- **Storage Humidity**: 0% to 95%
+
+#### Special Features:
+- Customizable cable and connector options available.
+
+#### Moisture Sensitive Level:
+- Not specified in the provided data.
+
+### Description:
+The MG-2525A-10-IPEX is a ceramic active antenna designed for GPS and GLONASS applications. It operates at frequencies of 1575.42 MHz and 1600 MHz, making it suitable for satellite navigation systems. The antenna features a compact design with a directional radiation pattern and circular polarization, which enhances its performance in receiving signals from satellites.
+
+### Typical Applications:
+This antenna is typically used in:
+- **Satellite Navigation**: For GPS and GLONASS systems in automotive, marine, and handheld devices.
+- **Telematics**: In vehicles for tracking and navigation purposes.
+- **IoT Devices**: Where precise location tracking is required.
+- **Consumer Electronics**: Such as smartphones and tablets that require GPS functionality.
+
+The MG-2525A-10-IPEX is ideal for applications that demand high gain and reliability in various environmental conditions, making it a versatile choice for modern navigation solutions.

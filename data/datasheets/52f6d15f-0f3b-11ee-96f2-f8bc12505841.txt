@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2J4301MPGFD-500LL100-C20NBST_CU100549 production of 2J from the text:      \n \n2J s.r.o.  \nŠtefánikova 61  \n085 01 Bardejov  \nSlovak Republic   \nIČO /reg. No./ 36 504 700  \nIČ DPH /VAT/ SK2021991961  \nObchodný register Prešov,vložka č. 16449/P  tel.: +421 54 4880130  \nfax : +421 54 4882971  \ninfo@2j -antennae.com  \nhttp://www.2j -antennae.com  \n \n \n \nSPECIFICATION OF REQUIREMENTS  \n \n \nPRODUCT TITLE  \n ANTENNA GPS  Glonass   \nPRODUCT  2J4301MPGFD  / 2J4301MPGFDx   \nInternal  Item No.  2J4301MPGFD -500LL100 -C20NBST_CU100549  \nDESCRIPTION  \n «MP»  Adhesive/Magnetic Mount  \n«G» GLONASS -GPS   \n«F»  Post-Filter  \n«D»  Lightning  protection  Diode  \n «х» Voltage  2.7-5.5 V  \n«LL100» Type of cable  \n«C20NBST » connector SMA -Male -Nickel + Blue Shrink Tube  \n«CU100549 » interna l code of Macrogroup  \nDISTRIBUTOR  Macrogroup  \nDATE  06/05/2023 \n \nKey Features  \n \nFrequency:                 1572 -1610MHz  MHz  \nV.S.W .R:    Less than 1.4 \nImpedance:    50 Ohm   \nPolarisation:    RHCP  \nVoltage Supply:    2.7-5.5 V \n         Current Consumption:   15-25mA  \n       \nAmplifier  Gain:     23 dB at 3V  \n      24 dB at 5V  \n    \n \nGain patch antenna:   4.5 ± 0. 5 bB i \nCeramic patch :      25*25*4 mm  \n          \n Noise Figure :            1.5dB   \n \nConnector  / Cable lenght           SMA M / LL100  500 cm \n      \n \n2J s.r.o.  \nŠtefánikova 61  \n085 01 Bardejov  \nSlovak Republic   \nIČO /reg. No./ 36 504 700  \nIČ DPH /VAT/ SK2021991961  \nObchodný register Prešov,vložka č. 16449/P  tel.: +421 54 4880130  \nfax : +421 54 4882971  \ninfo@2j -antennae.com  \nhttp://www.2j -antennae.com  \n \n           \n  \n \nMechanical Specifications     \n \n Max. Size:    38*34*13.5 mm     (see pic. 1  and  pic 2 ) \n Materials:   ABS  black  \n Operating / Storage   \n           Temperature:                -40 ....+8 5 °C \n   IP Rating:     IP67 \nSpeed :             200km/h  \n \n \n \n \nAntenna drawin gs \n \n2J4301MPGFD  / 2J4301MPGFD x      \n \nPic. 1        \n \n \n \n      \n \n2J s.r.o.  \nŠtefánikova 61  \n085 01 Bardejov  \nSlovak Republic   \nIČO /reg. No./ 36 504 700  \nIČ DPH /VAT/ SK2021991961  \nObchodný register Prešov,vložka č. 16449/P  tel.: +421 54 4880130  \nfax : +421 54 4882971  \ninfo@2j -antennae.com  \nhttp://www.2j -antennae.com  \n \n \n \n Pic. 2 \n'}]
+!==============================================================================!
+### Component Summary: 2J4301MPGFD-500LL100-C20NBST_CU100549
+
+#### Key Specifications:
+- **Voltage Ratings**: 2.7 - 5.5 V
+- **Current Ratings**: 15 - 25 mA
+- **Power Consumption**: Varies with voltage; Gain of 23 dB at 3V and 24 dB at 5V
+- **Operating Temperature Range**: -40 °C to +85 °C
+- **Package Type**: Adhesive/Magnetic Mount
+- **Special Features**:
+  - GLONASS-GPS compatibility
+  - Integrated lightning protection diode
+  - Post-filter included
+  - V.S.W.R (Voltage Standing Wave Ratio): Less than 1.4
+  - Noise Figure: 1.5 dB
+  - IP67 rating (water and dust resistant)
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The 2J4301MPGFD-500LL100-C20NBST_CU100549 is a GPS and GLONASS antenna designed for high-performance applications. It features an adhesive/magnetic mount for versatile installation options. The antenna is equipped with a post-filter and a lightning protection diode, ensuring reliable operation in various environmental conditions. The compact ceramic patch measures 25 mm x 25 mm x 4 mm, and the antenna is designed to operate efficiently within a frequency range of 1572 - 1610 MHz.
+
+#### Typical Applications:
+This antenna is typically used in applications requiring precise location tracking and navigation, such as:
+- Automotive GPS systems
+- Fleet management and tracking
+- Personal navigation devices
+- IoT devices requiring location services
+- Any application where reliable GPS/GLONASS signal reception is critical, especially in outdoor environments.
+
+The combination of its robust design, wide operating temperature range, and effective filtering makes it suitable for both consumer and industrial applications.

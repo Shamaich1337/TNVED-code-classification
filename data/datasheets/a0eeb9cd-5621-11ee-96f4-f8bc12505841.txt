@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of QAKK-MF production of QUALWAVE INC from the text:CoaxialAdapters\nQualwaveInc. +86-28-6115-4929 sales@qualwave.com www.qualwave.com Rev1.4\n1QAKK\n2.92mmto2.92mm\nFeatures: Applications:\n*LowVSWR *Wireless\n*Transmitter\n*LaboratoryTest\n*Radar\nElectrical\nFrequency:DC~40GHz\nVSWR:1.15max.\n1.2max.(OutlineD,E,F)\n1.25max.(OutlineG,H,I)\nImpedance:50Ω\nMechanical\nRFConnectors:2.92mm\nMatingLifeCycle:500cycles\nOuterConductor:PassivatedStainlessSteel\nDielectric:PEI\nInnerConductor:GoldPlatedBerylliumCopper\nEnvironmental\nTemperature:-60~+165℃HowToOrder\nQAKK-MM-2.92mm(m)to2.92mm(m),OutlineA\nQAKK-MF-2.92mm(m)to2.92mm(f),OutlineB\nQAKK-FF-2.92mm(f)to2.92mm(f),OutlineC\nQAKKR-MM-2.92mm(m)to2.92mm(m)rightangle,OutlineD\nQAKKR-MF-2.92mm(m)to2.92mm(f)rightangle,OutlineE\nQAKKR-FF-2.92mm(f)to2.92mm(f)rightangle,OutlineF\nQAKKL-FF-2.92mm(f)to2.92mm(f)flangemount,OutlineG\nQAKKH-FF-2.92mm(f)to2.92mm(f)bulkhead,OutlineH\nQAKKH-FF-2-2.92mm(f)to2.92mm(f)bulkhead,OutlineI\nCustomizationisavailableuponrequest.\nOutlineDrawings\nCoaxialAdapters\nQualwaveInc. +86-28-6115-4929 sales@qualwave.com www.qualwave.com Rev1.4\n2Unit:mm[in]\nTolerance:±0.2mm[±0.008in]\n'}]
+!==============================================================================!
+### Component Summary: QAKK-MF Coaxial Adapter
+
+**Key Specifications:**
+- **Voltage Ratings:** Not specified (Coaxial adapters typically do not have voltage ratings but are designed for RF applications).
+- **Current Ratings:** Not specified (Current handling is generally determined by the application and frequency).
+- **Power Consumption:** Not applicable (Coaxial adapters do not consume power).
+- **Operating Temperature Range:** -60°C to +165°C
+- **Package Type:** Coaxial adapter (2.92mm to 2.92mm female connector)
+- **Special Features or Notes:** 
+  - Low Voltage Standing Wave Ratio (VSWR)
+  - Mating life cycle of 500 cycles
+  - Outer conductor made of passivated stainless steel
+  - Dielectric material is PEI (Polyetherimide)
+  - Inner conductor is gold-plated beryllium copper
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Description:**
+The QAKK-MF is a coaxial adapter designed to connect two 2.92mm female connectors. It is part of a series of coaxial adapters produced by Qualwave Inc. The primary function of this component is to facilitate RF signal transmission between devices with compatible connectors while maintaining low signal loss and minimal reflection.
+
+**Typical Applications:**
+- **Wireless Communication:** Used in systems that require reliable RF signal transmission.
+- **Transmitter Systems:** Ideal for connecting transmitters to antennas or other RF components.
+- **Laboratory Testing:** Commonly utilized in test setups for RF equipment to ensure accurate measurements.
+- **Radar Systems:** Employed in radar applications where high-frequency signals are transmitted and received.
+
+This coaxial adapter is particularly suited for high-frequency applications up to 40 GHz, making it a valuable component in advanced communication and testing environments.

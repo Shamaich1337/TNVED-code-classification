@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 18392 production of VICOR from the text:1.398  REF\n35.52\n.050 REF\n1.27\n.010 MAX\n.25.070 REF\n1.78"A"\n.010 MAX\n.25.070 REF\n1.78"B"1.398  REF\n35.52\n.050 REF\n1.27\n.173 REF\n4.39.173 REF\n4.391 3 2\n- A -- C -\n- A -- C -\n 1.300 \n 33.02  .250  6.35  .275  6.99 \n .525 \n 13.34 \n .800 \n 20.32  .125 REF\n 3.18 .300 REF\n7.62\n .063  1.59 .25REF\n6.4.72 REF\n18.2.72 REF\n18.2\n.25REF\n6.4\n .063  1.59 \n .250 \n 6.35  .400 \n 10.16 \n .800 \n 20.32 \n 1.300 \n 33.02  .125 REF\n 3.18 .300 REF\n7.62\n.059±.001 REF\n1.50±.03.059±.001 REF\n1.50±.03.1810 MAX\n4.60.1810 MAX\n4.60\n- B - - B -Ø.006[.15] MABC Ø.006[.15] MABC\nNOTE:\nMATERIALS: INMATES: PPS RYTON 7 1.\n                            SOCKETS: BE-CU #25, Au PLATED.\nFULLY SEAT SOCKET INTO INMATE HEADER. 2.\nROHS COMPLIANT PER CST-0001 LATEST REVISION.  3.REV. DESCRIPTION DATE APPROVED\n1RELEASED PER E0230307                     PEI 07/11/02 JMR\n2REVISED PER E080070                          SA 01/15/08 REJH\n3REVISED PER E091753                          JS 09/29/09 REJH\n4REVISED PER E092276                          JS 12/30/09 REJH\n5REVISED PER E120065                        VSS 01/20/12 KUK\nDASH NO. SOCKET BODY \nLENGTH \nINCH/MMDIA "A" \nINCH/MMDIA "B" \nINCH/MMINPUT OUTPUT KIT #\n-01 .100/2.54 .280/7.11 .280/7.11 18380 18392 18372\n-02 .135/3.43 .315/8.00 .315/8.00 18381 18393 18373\n-03 .160/4.06 .340/8.64 .340/8.64 21540 21545 21512\n2F7 2\nF\n73\nB\n8 46\nC8 4\nA\n5 3CD\nAVICOR CONFIDENTIAL5\nE\nD\n6B1\nE\n1THIS DOCUMENT AND THE DATA DISCLOSED HEREIN OR \nHEREWITH IS NOT TO BE REPRODUCED, USED OR DISCLOSED IN WHOLE OR IN PART TO ANYONE WITHOUT \nTHE PERMISSION OF VICOR CORP.\nSCALE       TOLERANCES ARE:    \nDECIMALS                             ANGLES\nX.XX [X.X] = ±0.01 [0.25]             ±1°\nX.XXX [X.XX] = ±0.005 [0.127]\nSHEET      OF SIZE\n67131CAGE CODE\n20029-XXDWG NO\n5REVDRAWN BY DATE\nLAP NGUYEN 6/99\nDWG,VI700 INMATE,LNSWDVICOR\nTHIRD ANGLE PROJECTION\nDO NOT SCALE DRAWING 1 1 4:1UNLESS OTHERWISE SPECIFIED DIMENSIONS ARE : INCH / [MM]\nD\n'}]
+!==============================================================================!
+### Component Summary for VICOR Product Code 18392
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; refer to the full datasheet for specific voltage ratings.
+- **Current Ratings**: Not explicitly stated in the provided text; refer to the full datasheet for specific current ratings.
+- **Power Consumption**: Not explicitly stated in the provided text; refer to the full datasheet for specific power consumption details.
+- **Operating Temperature Range**: Not explicitly stated in the provided text; refer to the full datasheet for specific temperature range.
+- **Package Type**: Inmate socket, dimensions provided in inches and millimeters.
+- **Special Features or Notes**:
+  - ROHS compliant per CST-0001 latest revision.
+  - Materials: Inmates made from PPS Ryton, sockets made from Be-Cu #25, gold plated.
+  - Fully seat socket into inmate header.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not explicitly stated in the provided text; refer to the full datasheet for specific moisture sensitivity level.
+
+#### Component Description:
+The VICOR 18392 is an inmate socket designed for use with power management and signal processing applications. It serves as a connector interface for various electronic components, allowing for secure and reliable connections in electronic circuits. The socket is constructed from high-quality materials to ensure durability and performance.
+
+#### Typical Applications:
+The VICOR 18392 inmate socket is typically used in:
+- **Power Management**: Facilitating connections in power supply circuits.
+- **Signal Processing**: Serving as an interface for signal routing in electronic devices.
+- **Modular Systems**: Used in systems where components need to be easily replaced or upgraded.
+- **Telecommunications**: Providing reliable connections in communication equipment.
+
+This summary provides a concise overview of the VICOR 18392 component based on the provided text. For detailed specifications, it is recommended to consult the complete datasheet.

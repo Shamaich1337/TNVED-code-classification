@@ -1,0 +1,61 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of Nd:YAG rods dia 2.2x30 mm production of METALASER from the text:Neodymium doped Yttrium Aluminum  Garnet \n(Nd:Y3Al5O12 or Nd:YAG)  crystal,  which contin\n-\nues as the best of the rare earth  garnet  materials \nthat are characterized  by four-level laser opera\n-\ntion which permits low threshold pulse and CW \noperation.  It is the most mature and widely used \nsolid-state laser material adopted  by R&D, medi\n-\ncal, industrial and military customers. Its main \nand obvious advantages  are: high gain, low \nthreshold,  high efficiency, low loss at 1.064 µm, as \nwell as high optical quality, good thermal con\n-\nductivity and thermal shock characteristics,  stable \nchemical and mechanical properties,  which make \nNd:YAG as the most suitable and commercial \nlaser material for various modes of operation \n(CW, pulsed, Q-switched,  mode locked and cavity \ndumped).\nFeatures\nWide absorption bandwidth\nLow lasing threshold\nHigh slope efficiency\nLarge luminescence cross-sectionl SpecificationsApplications\n Laser cutting\n Laser welding\nDescriptionNd YAG Nd:Y3Al5O12\n \n Linearly polarized emission and single-mode output  \n Laser marking\nLaser ranging\n Laser surgery\nP\nr\no\np\ne\nr\nt\ny\n \nV\na\nl\nu\ne\n Nd Concentration tolerance (atm%) 0.3-1.5% \nOrientation [001] or [110] or [111] < ±0.5° \nParallel 10〞 \nPerpendicular 5ˊ \nsurface Quality 10/5 \nWavefront Distortion λ/4@632nm \nSurface Flatness λ/8@632nm \nClear Aperture >95% \nChamfer <0.2×45° \nThickness/Diameter Tolerance ±0.05 mm \nMaximum dimensions dia (3~12.7)×(3~150)mm \nCoatings AR/AR@940+1030；\nHR@1030+HT@940+AR1030； \n \nProperty Value \npump transition wavelength, λp (nm)   808 \nlaser transition wavelength, λl (nm) 1064 \npump transition bandwidth,Δλp (nm) <4 \nlaser transition bandwidth, Δλl (nm) ~0.6 \npump transition peak cross section,σp (E-20 cm2) 6.7 \nlaser transition peak cross section, σl (E-20 cm2) 28 \npump transition saturation intensity,φp (kW/cm2) 12 \nlaser transition saturation intensity, φl (kW/cm2) 2.6 \nlaser transition saturation fluence, Γl,sat (J/cm2) 0.6 \nminimum pump intensity, Imin (kW/cm2) ~0 \nupper laser manifold lifetime,τ(msec) 0.26 \nquantum defect fraction 0.24 \nfractional heat generation 0.37 \n Optical Specifications\nXXX\x0fNFUB\x0eMBTFS\x0fDPN TBMFT!NFUB\x0eQIPUPOJDT\x0fDPN\n\nParameters\nNd:Y3Al5O12 Nd YAG\nProperty Value \nCrystal Structure   cubic - la3d \nLattice Constants 12.01Ä \nDensity   4.56 g/cm3 \nMelting Point   1950°C \nRefractive Index   n= 1.8197 @1.064 µm   \nThermal Conductivity /(W·cm-1·K-1@25°C) 0.14 W \nSpecific Heat/ (J·g-1·K-1) 0.59 \nThermal Expansion /（10-6/°C@25°C ）  6.9 \nHardness (Mohs)   8.5 \nYoung`s Modulus /GPa 317   \nShear Modulus / GPa 54.66   \nExtinction Ratio 25dB \nPoisson Ratio 0.25 \n  \nAperture, mm Length, mm Doping, % Wedge of the ends, deg \ndia 3 65 0.8 0/0 \ndia 3 65 1.1 0/0 \ndia 4 65 0.8 3/3 parallel \ndia 4 65 1.1 3/3 parallel \ndia 4.5 20 1 0/0 \ndia 6.35 85 1.1 3/3 parallel \ndia 8 85 1.1 3/3 parallel \ndia 10 85 1.1 3/3 parallel \ndia 12 100 1.1 3/3 parallel \ndia 12 100 0.8 3/3 parallel \n Standard products\n"CTPSQUJPO\x014QFDUSVN\x01PG\x01\x12\x06/E\x1b:"(\x01DSZTUBM\nXXX\x0fNFUB\x0eMBTFS\x0fDPN TBMFT!NFUB\x0eQIPUPOJDT\x0fDPN\n\n'}]
+!==============================================================================!
+### Component Summary: Nd:YAG Rods (Dia 2.2 x 30 mm)
+
+**Product Code:** Nd:Y3Al5O12 (Nd:YAG)
+
+#### Key Specifications:
+- **Diameter:** 2.2 mm
+- **Length:** 30 mm
+- **Nd Concentration Tolerance:** 0.3 - 1.5% (atmospheric percentage)
+- **Orientation:** [001], [110], or [111] with tolerance of ±0.5°
+- **Surface Quality:** 10/5
+- **Wavefront Distortion:** λ/4 @ 632 nm
+- **Surface Flatness:** λ/8 @ 632 nm
+- **Clear Aperture:** >95%
+- **Chamfer:** <0.2 x 45°
+- **Thickness/Diameter Tolerance:** ±0.05 mm
+- **Maximum Dimensions:** Diameter (3 - 12.7) mm x Length (3 - 150) mm
+- **Coatings:** AR/AR @ 940 + 1030; HR @ 1030 + HT @ 940 + AR 1030
+
+#### Optical Specifications:
+- **Pump Transition Wavelength (λp):** 808 nm
+- **Laser Transition Wavelength (λl):** 1064 nm
+- **Pump Transition Bandwidth (Δλp):** <4 nm
+- **Laser Transition Bandwidth (Δλl):** ~0.6 nm
+- **Pump Transition Peak Cross Section (σp):** 6.7 x 10^-20 cm²
+- **Laser Transition Peak Cross Section (σl):** 28 x 10^-20 cm²
+- **Pump Transition Saturation Intensity (φp):** 12 kW/cm²
+- **Laser Transition Saturation Intensity (φl):** 2.6 kW/cm²
+- **Laser Transition Saturation Fluence (Γl,sat):** 0.6 J/cm²
+- **Minimum Pump Intensity (Imin):** ~0 kW/cm²
+- **Upper Laser Manifold Lifetime (τ):** 0.26 msec
+- **Quantum Defect Fraction:** 0.24
+- **Fractional Heat Generation:** 0.37
+
+#### Physical Properties:
+- **Crystal Structure:** Cubic - La3d
+- **Lattice Constants:** 12.01 Å
+- **Density:** 4.56 g/cm³
+- **Melting Point:** 1950°C
+- **Refractive Index:** n = 1.8197 @ 1.064 µm
+- **Thermal Conductivity:** 0.14 W·cm⁻¹·K⁻¹ @ 25°C
+- **Specific Heat:** 0.59 J·g⁻¹·K⁻¹
+- **Thermal Expansion:** 6.9 x 10⁻⁶/°C @ 25°C
+- **Hardness (Mohs):** 8.5
+- **Young's Modulus:** 317 GPa
+- **Shear Modulus:** 54.66 GPa
+- **Extinction Ratio:** 25 dB
+- **Poisson Ratio:** 0.25
+
+#### Description:
+The Nd:YAG (Neodymium-doped Yttrium Aluminum Garnet) rod is a solid-state laser material known for its high efficiency and versatility in various laser applications. It operates on a four-level laser system, allowing for low threshold and continuous wave (CW) operation. The Nd:YAG crystal is characterized by its excellent optical quality, thermal conductivity, and stability, making it a preferred choice for a wide range of applications.
+
+#### Typical Applications:
+- **Laser Cutting:** Utilized in industrial settings for precision cutting of materials.
+- **Laser Welding:** Employed in manufacturing processes for joining materials.
+- **Laser Marking:** Used for engraving and marking on various surfaces.
+- **Laser Ranging:** Applied in distance measurement technologies.
+- **Laser Surgery:** Commonly used in medical procedures for its precision and effectiveness.
+
+The Nd:YAG rod is a critical component in many laser systems, serving diverse fields such as research and development, medical applications, industrial manufacturing, and military operations. Its ability to produce high-quality laser output at 1064 nm makes it a versatile tool in both scientific and practical applications.

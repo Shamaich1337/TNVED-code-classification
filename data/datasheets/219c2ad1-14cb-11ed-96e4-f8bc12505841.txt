@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CL21B221KBANNNC production of SAMSUNG from the text:1. Model : CL21B221KBANNNC\n2. Description\nPart no.Size\n(inch(mm))Thickness\n(mm)Temperature\ncharateristicsCapacitance\nvalueCapacitance\ntolerance(%)Voltage\n(V)\nCL21B221KBANNNC 0805/2012 0.65mm X7R 220pF ± 10 % 50\n3. Characteristics data\n 1) Frequency characteristics        2) Temperature characteristics of capacitance(TCC)\n                  Network Analyzer, 0.5Vrms, 30KHz to 6GHz  Agilent 4284A, 1kHz, 1Vrms\n 3) DC Bias characteristics (Quadtech 7600,1kHz, 1Vrms)        4) Bias TCC characteristics (Agilent 4284A, 1kHz, 1Vrms, 25Vdc)\n 5) AC voltage characteristics (Agilent 4284A, 1kHz)\n          Any data in this sheet are subject to change, modify or discontinue without notice.\n          The data sheets include the typical data for design reference only. If there is any question           regarding the data sheets, please contact our sales personnel or application engineers.Multi Layer Ceramic Capacitor (MLCC)\n-100-80-60-40-20020\n-55 -35 -15 5 25 45 65 85 105 125\nTemperature (°C)/g507C(%)\n-100-80-60-40-20020\n-55 -35 -15 5 25 45 65 85 105 125\nTemperature ( ఁ)/g507C(%)Impedance |Z|,  ESR\n0.1110100100010000\n0.01 0.1 1 10 100 1000 10000\nFrequency [MHz]|Z|, ESR [Ohm]|Z|\nESR\n-40-30-20-10010203040\n0.0 0.5 1.0 1.5 2.0 2.5 3.0\nAC Voltage (Vrms)/g507C(%)-100-80-60-40-20020\n0 1 02 03 04 05 0\nDC Voltage (V)/g507C(%)\nΌͣͤͪ͢͢͡͞͡͞͡Ύ\n'}]
+!==============================================================================!
+### Component Summary for CL21B221KBANNNC
+
+**Component Type:** Multi-Layer Ceramic Capacitor (MLCC)
+
+**Description:**
+The CL21B221KBANNNC is a multi-layer ceramic capacitor designed for various electronic applications. It features a capacitance value of 220pF with a tolerance of ±10%. The capacitor is constructed using X7R dielectric material, which provides stable capacitance over a wide temperature range. It is packaged in a compact 0805 (2012 metric) size, making it suitable for space-constrained applications.
+
+### Key Specifications:
+- **Capacitance Value:** 220pF
+- **Capacitance Tolerance:** ±10%
+- **Voltage Rating:** 50V
+- **Temperature Characteristics:** X7R (operates effectively within a temperature range of -55°C to +125°C)
+- **Package Type:** 0805 (2012 mm)
+- **Thickness:** 0.65 mm
+- **Moisture Sensitivity Level (MSL):** Not specified in the provided data, but typically MLCCs are rated according to JEDEC J-STD-020E standards.
+
+### Special Features:
+- **Frequency Characteristics:** Suitable for high-frequency applications, tested from 30KHz to 6GHz.
+- **DC Bias Characteristics:** Maintains performance under DC bias conditions.
+- **AC Voltage Characteristics:** Tested under AC voltage conditions to ensure reliability.
+
+### Typical Applications:
+The CL21B221KBANNNC capacitor is commonly used in:
+- **Decoupling and Bypass Applications:** To filter out noise and stabilize voltage levels in power supply circuits.
+- **Timing Circuits:** In oscillators and timing applications where precise capacitance is required.
+- **Signal Coupling and Filtering:** In RF and communication circuits to couple signals while blocking DC components.
+- **Consumer Electronics:** Such as smartphones, tablets, and other compact electronic devices where space-saving components are essential.
+
+This capacitor is ideal for applications requiring reliable performance in a compact form factor, making it a versatile choice for modern electronic designs.

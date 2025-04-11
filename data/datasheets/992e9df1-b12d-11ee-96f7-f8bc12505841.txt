@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 90136-1206 production of MOLEX from the text:-\n-\n-\n \n \n \n \n \nDocuments & Resources \nDrawings\nDrawing  901361206_sd.pdf\nPackaging Design Drawing  PK-90136-001-001.pdf\n \n3D Models and Design Files\n3D Model  901361206_stp.zip\n \nSpecifications\nApplication Specification  901190001-AS-000.pdf\nProduct Specification  PS-99020-0001-001.pdf\n \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance Statements\nEu RoHS\nREACH SVHC\nLow-Halogen\n Part Number : 901361206\nProduct Description : C-Grid III Header, Single\nRow, Vertical, Shrouded, 6 Circuits, 0.38µm\nGold (Au) Selective Plating\nSeries Number : 90136\nStatus : Active\nProduct Category : PCB Headers and\nReceptacles\nGADSL/IMDS Compliant with Exemption 44; 34;\n33\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Not Low-Halogen per IEC 61249-2-\n21\nREACH SVHC Not Contained per D(2023)3788-DC\n(14 Jun 2023)\nEU RoHS Compliant per EU 2015/863\n-\n-\n-\n-\n-\nMultiple Part Industry Compliance Documents\nIPC 1752A Class C\nIPC 1752A Class D\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneral \n \n \nAgency \n \n \nElectrical \n \n \nPhysical \n Status Active\nCategory PCB Headers and Receptacles\nSeries 90136\nDescription C-Grid III Header, Single Row,\nVertical, Shrouded, 6 Circuits,\n0.38µm Gold (Au) Selective Plating\nApplication Signal, Wire-to-Board\nComponent Type PCB Header\nProduct Family C-Grid III Interconnects\nProduct Name C-Grid III\nUPC 800753674806\nCSA LR19980\nUL E29179\nCurrent - Maximum per Contact 3.0A\nVoltage - Maximum 350V AC/DC\nBreakaway No\nCircuits (Loaded) 6\nCircuits (maximum) 6\nColor - Resin Black\nFirst Mate / Last Break No\n \nSolder Process Data \n \n \n \nMates With / Use With \nMates with Part(s) \n Glow-Wire Capable No\nGuide to Mating Part No\nKeying to Mating Part None\nLock to Mating Part Yes\nMaterial - Metal Brass\nMaterial - Plating Mating Gold\nMaterial - Plating Termination Tin\nMaterial - Resin Polyester\nNet Weight 1.006/g\nNumber of Rows 1\nOrientation Vertical\nPackaging Type Tray\nPC Tail Length 2.90mm\nPCB Locator No\nPCB Retention None\nPCB Thickness - Recommended 1.60mm\nPitch - Mating Interface 2.54mm\nPitch - Termination Interface 2.54mm\nPlating min - Mating 0.381µm\nPlating min - Termination 3.048µm\nPolarized to PCB No\nShrouded Fully\nStackable No\nTemperature Range - Operating -55° to +125°C\nTermination Interface Style Through Hole\nLead-Free Process Capability WAVE\nDescription Part Number\nC-Grid III Modular Single Row\nCrimp Housings90123\n \n \n \n \nThis document was generated on Jan 12, 2024 C-Grid III Single Row Crimp\nHousings90156\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 90136-1206
+
+**Component Description:**
+The MOLEX 90136-1206 is a C-Grid III Header, designed as a single row, vertical, shrouded connector with 6 circuits. It features selective gold plating (0.38µm) on the mating surfaces, ensuring reliable electrical connections. This component is categorized under PCB Headers and Receptacles and is part of the C-Grid III interconnect family, which is commonly used for signal and wire-to-board applications.
+
+**Key Specifications:**
+- **Voltage Ratings:** Maximum of 350V AC/DC
+- **Current Ratings:** Maximum of 3.0A per contact
+- **Power Consumption:** Not specified directly; dependent on application and load.
+- **Operating Temperature Range:** -55°C to +125°C
+- **Package Type:** Tray
+- **Special Features:**
+  - Fully shrouded design for enhanced protection.
+  - Locking mechanism to ensure secure mating.
+  - Not glow-wire capable.
+  - Not stackable.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+**Typical Applications:**
+The MOLEX 90136-1206 is typically used in applications requiring reliable signal transmission and wire-to-board connections. Common applications include:
+- Consumer electronics
+- Telecommunications equipment
+- Industrial automation systems
+- Automotive electronics
+- Any application where a compact, reliable connection is necessary.
+
+This component is compliant with various environmental regulations, including EU RoHS, and is suitable for lead-free soldering processes. Its robust design and specifications make it a versatile choice for a wide range of electronic applications.

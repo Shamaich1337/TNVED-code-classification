@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of 561349000 production of MOLEX from the text:1GENERAL\nTOLERANCES\n(UNLESS SPECIFIED)\nANGULAR TOL ± 3.0 °\nSERIES MATERIAL NUMBER CUSTOMER\nGENERAL MARKET 56134 SEE TABLE4 PLACES ± 0.2\n3 PLACES ± 0.2\n2 PLACES ± 0.2\n1 PLACE ± 0.2\n0 PLACES ± 0.2\nDRAFT WHERE APPLICABLE\nMUST REMAIN\nWITHIN DIMENSIONSTHIS DRAWING CONTAINS INFORMATION THAT IS PROPRIETARY TO MOLEX ELECTRONIC TECHNOLOGIES, LLC AND SHOULD NOT BE USED WITHOUT WRITTEN PERMISSION\nSHEET NUMBER\n 1 OF 1DIMENSION UNITS SCALE\nmm 15:1\nDRWN BY DATE\nRHORI 2011/01/20\nCHK'D BY DATE\nKASAKAWA 2011/01/20\nAPPR BY DATE\nNUKITA 2011/01/21\nDOCUMENT NUMBER DOC TYPE DOC PART\nSD-56134-005 PSD 001DRAWING SIZE THIRD ANGLE PROJECTION\nA32.0 WIRE TO BOARD CONN. \nCRIMP RECEPTACLE\n PRODUCT CUSTOMER DRAWING2017/12/21\n2017/12/21\n2017/12/21169859\nHKOBAYASHI\nSAKIYAMA\nTKANEKOEC NO:\nDRWN:\nCHK'D:\nAPPR:\nC1\nREV\nFORMAT: master-tb-prod-A3\nREVISION: G\nDATE: 2017/02/06RELEASE STATUS P1 RELEASE DATE 21.12.2017 08:40:3556134-9100バラ状\nLOOSE\n56134-9000連鎖状\nCHAIN\nMATERIAL NO.端子形状\nFORM1. 使用材料：銅合金、錫めっき(t=0.15)\n    MATERIAL：PRE-TINNED COPPER ALLOY\n2. 適合ハウジング：51242,51382,51353シリーズ\n    APPLICABLE HOUSING：51242,51382,51353 SERIES\n3. 適合ハウジングアッセンブリ：505596シリーズ\n    APPLICABLE HOUSING ASSEMBLY：505596 SERIES\n4. 圧着仕様については、圧着仕様書\u3000CS-56134-007を参照願います。\n    PLEASE REFER TO CRIMPING SPECIFICATION CS-56134-007\nMATERIAL\n材料FINISH\n仕上げ\n注記参照\nSEE NOTES\nWIRE RANGE 適用電線範囲\nAWG#22～#28：0.079～0.34mm2\nKV0.2～0.4：0.2～0.4mm2\nINS. RANGE 被覆外形\nφ0.9～φ1.7 mm\n11\n22\n33\n44\n55\n66\n77\n88\n99\nA AB BC CD DE E注記\nNOTES\n"}]
+!==============================================================================!
+### Component Summary for MOLEX Product Code 56134-9000
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, wire-to-board connectors like this one are rated for low voltage applications.
+- **Current Ratings**: Not specified in the provided text; however, typical current ratings for similar connectors can range from 1A to 5A depending on the application.
+- **Power Consumption**: Not applicable as this is a connector component.
+- **Operating Temperature Range**: Not specified in the provided text; generally, connectors can operate in a range from -40°C to +105°C.
+- **Package Type**: Loose (バラ状) and Chain (連鎖状) configurations.
+- **Special Features or Notes**: 
+  - Material: Pre-tinned copper alloy.
+  - Applicable housing series: 51242, 51382, 51353.
+  - Refer to crimping specification CS-56134-007 for crimping details.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The MOLEX 56134-9000 is a wire-to-board crimp receptacle connector. Its primary function is to establish a reliable electrical connection between wires and a printed circuit board (PCB). The connector is designed to accommodate various wire sizes, specifically AWG #22 to #28, and is suitable for applications requiring secure and efficient connectivity.
+
+#### Typical Applications:
+This type of connector is commonly used in:
+- **Power Management**: Connecting power supplies to circuit boards in consumer electronics.
+- **Signal Processing**: Facilitating signal transmission between components in various electronic devices.
+- **Data Storage**: Used in devices that require reliable connections for data transfer, such as hard drives and SSDs.
+- **Automotive Applications**: Often found in automotive electronics for connecting sensors and control units.
+
+Overall, the MOLEX 56134-9000 connector is essential for ensuring robust connections in a variety of electronic applications, providing flexibility and reliability in design.

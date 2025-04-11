@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MAR-60L production of OPTICS FOCUS INSTRUMENTS CO., LTD. from the text: \n 1 / 2 \n \n \nFeatures: \n\uf06c 60mm diameter platform. \n\uf06c 360° of continuous coarse rotation. \n\uf06c Micrometer and vernier scale provide ±5° fine adju stment. \n\uf06c Perimeter is laser engraved at 1° increments. \n \nDescription: \nMAR-60L rotation stage provides precise, fine rotat ion for optomechanical assemblies. When the steel l ocking thumbscrew is \nunlocked, the stage can be smoothly and continuousl y rotated by hand through a full 360°, measured by the 1° graduation marks on \nthe side of the platform. When the thumbscrew is lo cked, the micrometer head provides ±5° of fine adju stment, measured with 10 \narcmin resolution by the vernier scale. \nThe mounting hole pattern for the MAR-60L is compat ible with other 60 mm size components. The rotation  stage can be easily \nstacked to xθ, xyθ and xyzθ configuration with our x stages, xy stages or xyz stages. \n  \nSpecifications: \nModel MAR-60L MAR-60R \nAxes of Travel θ θ \nPlatform Size Ø60mm Ø60mm \nTravel 360°(Coarse),±5°(Fine) 360°(Coarse),±5°(Fine) \nDrive Micrometer Head (Left) Micrometer Head (Right) \nReadable Resolution 10’ 10’ \nConcentricity 0.03mm 0.03mm \nParallelism 0.03mm 0.03mm \nMaterial Aluminum Alloy Aluminum Alloy \nLoad Capacity 29.4N(3kgf) 29.4N(3kgf) \nWeight 0.16kg 0.16kg \n \n \n\n \n 2 / 2 \n \nDrawing: \n \n\n'}]
+!==============================================================================!
+### Component Summary: MAR-60L Rotation Stage
+
+#### Key Specifications:
+- **Platform Diameter:** 60 mm
+- **Rotation Range:** 360° continuous coarse rotation
+- **Fine Adjustment:** ±5° fine adjustment using a micrometer head
+- **Graduation Marks:** Laser engraved perimeter with 1° increments
+- **Readable Resolution:** 10 arcminutes (10’)
+- **Concentricity:** 0.03 mm
+- **Parallelism:** 0.03 mm
+- **Material:** Aluminum Alloy
+- **Load Capacity:** 29.4 N (3 kgf)
+- **Weight:** 0.16 kg
+
+#### Operating Characteristics:
+- **Special Features:**
+  - Compatible mounting hole pattern for stacking with other 60 mm components.
+  - Can be configured in xθ, xyθ, and xyzθ arrangements with other stages.
+  
+#### Description:
+The MAR-60L is a precision rotation stage designed for optomechanical assemblies. It allows for smooth and continuous rotation through a full 360° when the locking thumbscrew is disengaged. The stage features a micrometer head that enables fine adjustments of ±5°, providing high precision for applications requiring meticulous positioning. The platform is marked with 1° increments for easy visual reference during adjustments.
+
+#### Typical Applications:
+The MAR-60L rotation stage is primarily used in optical setups, laboratory experiments, and precision alignment tasks. It is ideal for applications in:
+- **Optomechanics:** Aligning optical components such as lenses and mirrors.
+- **Research and Development:** Facilitating experiments that require precise angular positioning.
+- **Industrial Automation:** Used in automated systems where precise rotation is necessary.
+- **Photography and Imaging:** Assisting in the alignment of cameras and optical devices for accurate imaging.
+
+This component is essential for any application that demands high precision in rotational movement, making it a valuable tool in both research and industrial settings.

@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of RM0809 Bobbin production of XUYI OUGE ELECTRONIC CO.,LTD. from the text: \n Item RM0809  \nDRAFTED  \nBY 付志良  TOLERANCE ANGLR: \n    ±1º MODEL NAME ： \n           RM0809V(6+6) PIN \nCHECKED  \nBY  \n吴志权  0＜L≤4 ±0.1 \n4＜L≤16 ±0.2 \n16＜L≤63 ±0.3 Pin pitch  \n±0.20 UNIT:MM MATERIAL: \nPET UL REC: \nUL 94V-0 \n                  盱眙欧歌电子有限公司  \n             XUYI OUGE ELECTRONIC CO.,LTD. \n  TEL: 0086-760-22286356      F AX:0086-760-22286951 \n  Email ：sales@ougedianzi.com SCALE: \n    1/1 TERMINAL \nMAT:CP WIRE PIN TENSION LOAD:  \n1.0 KGS MIN \n DATE: \n2015.05.15 DRAWING \nNO: REV. A  \n \n\n'}]
+!==============================================================================!
+### Component Summary: RM0809 Bobbin
+
+**Manufacturer:** XUYI OUGE ELECTRONIC CO., LTD.
+
+#### Key Specifications:
+- **Model Name:** RM0809V (6+6)
+- **Tolerance Angle:** ±1º
+- **Pin Pitch Tolerance:**
+  - 0 < L ≤ 4 mm: ±0.1 mm
+  - 4 < L ≤ 16 mm: ±0.2 mm
+  - 16 < L ≤ 63 mm: ±0.3 mm
+- **Material:** PET (Polyethylene Terephthalate)
+- **UL Rating:** UL 94V-0 (Flame Retardant)
+- **Terminal Material:** CP (Copper Plated)
+- **Wire Pin Tension Load:** 1.0 KGS minimum
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+#### Description:
+The RM0809 is a bobbin component designed for use in electronic applications. Bobbins are typically used to hold wire coils, which can be part of inductors, transformers, or other electromagnetic components. The RM0809 model features a specific pin configuration and tolerances that ensure compatibility with various electronic assembly processes.
+
+#### Typical Applications:
+- **Inductors and Transformers:** The RM0809 bobbin is primarily used in the construction of inductors and transformers, which are essential for power management and signal processing in electronic circuits.
+- **Electromagnetic Components:** It can be utilized in various electromagnetic applications where wire winding is required.
+- **Consumer Electronics:** Commonly found in devices that require efficient power conversion and signal integrity, such as power supplies, audio equipment, and communication devices.
+
+This summary provides a concise overview of the RM0809 bobbin, highlighting its specifications and typical uses in electronic applications.

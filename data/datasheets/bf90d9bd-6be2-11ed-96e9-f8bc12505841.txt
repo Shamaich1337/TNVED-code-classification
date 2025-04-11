@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NIR LCD10X production of SUZHOU FLYINGMAN PRECISION INSTRUMENTS from the text:NIRLCD5X/10X/20X/50XM26X1/36\nSuzhouFlyingmanPrecisionInstrumentsCo.,Ltd\nAdd:No.12,HuatuoRd,SND,SuzhouCity,JiangsuProvince,China\nItem NA WD(mm)f(mm)R(μm)DF(μm)Onobject\n（mm）\nWF10X24Onimage\n(mm)\n1/2CCDWavelength\n5X 0.15 45 40 2.5 18 4.8 0.96X1.28\n400-1064nm10X 0.3 34 20 1.0 3.50 2.4 0.48X0.64\n20X 0.3 31 10 1.0 3.50 1.2 0.24X0.32\n20X 0.45 20.2 10 0.7 1.7 1.2 0.24X0.32\n50X 0.45 20.16 4 0.7 1.6 0.45 0.1X0.13\n50X 0.65 9.6 4 0.4 0.55 0.48 0.1X0.13\n'}]
+!==============================================================================!
+### Component Summary: NIR LCD10X
+
+**Manufacturer:** Suzhou Flyingman Precision Instruments Co., Ltd  
+**Product Code:** NIRLCD10X  
+**Address:** No.12, Huatuo Rd, SND, Suzhou City, Jiangsu Province, China
+
+#### Key Specifications:
+- **Wavelength Range:** 400-1064 nm
+- **Numerical Aperture (NA):** 0.3
+- **Working Distance (WD):** 34 mm
+- **Field of View (R):** 20 μm
+- **Depth of Field (DF):** 1.0 μm
+- **On-object Size:** 3.50 mm
+- **Image Size (On image):** 2.4 mm
+- **Magnification:** 0.48X to 0.64X
+
+#### Description:
+The NIR LCD10X is a near-infrared (NIR) optical lens designed for applications requiring high precision and clarity in the NIR spectrum. It is characterized by its 10X magnification, making it suitable for detailed imaging tasks. The lens features a numerical aperture of 0.3, which allows for a good balance between resolution and depth of field.
+
+#### Typical Applications:
+- **Optical Imaging:** Used in microscopy and imaging systems that operate in the near-infrared range, particularly for biological and material sciences.
+- **Spectroscopy:** Suitable for applications in NIR spectroscopy where detailed analysis of materials is required.
+- **Quality Control:** Employed in industrial settings for inspecting materials and components that require NIR imaging.
+- **Research and Development:** Utilized in laboratories for experiments involving NIR light and its interactions with various substances.
+
+This component is particularly valuable in fields where NIR light is essential for non-destructive testing and analysis, providing insights that are not possible with visible light alone.

@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 19K101-K00L5 production of ROSENBERGER from the text:Technical Data Sheet   \nSMP  Adaptor  \nJack - Jack 19K101 -K00L5  \n \n \nRosenberger Hochfrequenztechnik GmbH & Co. KG  \nP.O.Box 1260       D -84526 Tittmoning       Germany  \nwww.rosenberger.de  Tel.    : +49 8684 18 -0  \nEmail : info@rosenberger.de  Page  \n \n1 / 2 \n \nRF_35/0 9.14/6.2 Dieses Dokument ist urheberrechtlich geschützt ● This document is protected by copyright  ● Rosenberger Hochfrequenztechnik GmbH & Co. KG  \n \n \n \nAll dimensions are in mm; tolerances according to ISO 2768 m -H \n \nInterface  \nAccording to  MIL-STD-348 \n \nDocuments  \n N/A \n \nMaterial and plating  \nConnector parts  Material  Plating  \nCenter contact  CuBe  AuroDur®, gold plated  \nOuter contact  CuBe  AuroDur®, gold plated  \nDielectric  PTFE  \n \n \n \n \n \n \n \n \nTechnical Data Sheet   \nSMP  Adaptor  \nJack - Jack 19K101 -K00L5  \n \n \nRosenberger Hochfrequenztechnik GmbH & Co. KG  \nP.O.Box 1260       D -84526 Tittmoning       Germany  \nwww.rosenberger.de  Tel.    : +49 8684 18 -0  \nEmail : info@rosenberger.de  Page  \n \n2 / 2 \n \nRF_35/0 9.14/6.2 Dieses Dokument ist urheberrechtlich geschützt ● This document is protected by copyright  ● Rosenberger Hochfrequenztechnik GmbH & Co. KG  \nf(GHz)Electrical data  \nImpedance  50 \uf057 \nFrequency  DC to 26.5 GHz  \nReturn loss  \uf0b3 26 dB, DC to 4 GHz  \n \uf0b3 20 dB, 4 to 12 GHz  \n \uf0b3 13 dB, 12 to 18 GHz  \nInsertion loss  \uf0a3 0.05 x    dB, DC to 18 GHz  \nInsulation resistance  \uf0b3 5 G\uf057 \nCenter contact resistance  \uf0a3 6.0 m\uf057 \nOuter contact resistance  \uf0a3 2.0 m\uf057 \nTest voltage  500 V rms  \nWorking voltage  335 V rms  \nContact Current  1.2A DC  max.  \n \nMechanical data  \nMating cycles  \nif mating part is smooth bore  \uf0b3 1000  \nif mating part is limited detent  \uf0b3 500 \nif mating part is full detent  \uf0b3 100 \nCenter contact captivation  \uf0b3 7 N \nEngagement force  \n- smooth bore  9 N max.  \n- limited detent  45 N max.  \n- full detent  68 N max.  \nDisengagement force  \n- smooth bore  2.2 N min.  \n- limited detent  9 N min.  \n- full detent  22 N min.  \n \nEnvironmental data  \nTemperature range  -65°C to +155°C  \nThermal shock  MIL-STD-202, Method 107, Condition B  \nVibration  MIL-STD-202, Method 204, Condition B  \nShock  MIL-STD-202, Method 213, Condition A  \nMoisture resistance  MIL-STD-202, Method 106  \nRoHS  compliant  \n \nTooling  \n N/A \n \nSuitable cables  \n N/A  \n \nWeight  \nWeight  0.17 g/pce  \n \n \nDraft  Date  Approved  Date   Rev. Engineering change number  Name  Date  \nRong Fang  25.04.07  Chr. Janßen  22.10.20   g00 20-1927  S. Huber -Siegl  22.10.20  \nWhile the information has been carefully compiled to the best of our knowledge, nothing is \nintended as representation or warranty on our part and no statement herein shall be \nconstrued as recommendation to infringe existing patents. In the effort to improve our \nproducts, we reserve the right to make changes judged to be necessary.  \nFor the installation of  the \nelectrotechnical equipment, \nparticular electrotechnical  \nexpertise is required.  \nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Rosenberger:   \n\xa0 19K101-K00L5\n'}]
+!==============================================================================!
+### Component Summary: Rosenberger 19K101-K00L5
+
+#### Key Specifications:
+- **Type**: SMP Adaptor (Jack - Jack)
+- **Impedance**: 50 Ω
+- **Frequency Range**: DC to 26.5 GHz
+- **Return Loss**:
+  - ≥ 26 dB (DC to 4 GHz)
+  - ≥ 20 dB (4 to 12 GHz)
+  - ≥ 13 dB (12 to 18 GHz)
+- **Insertion Loss**: ≤ 0.05 dB (DC to 18 GHz)
+- **Insulation Resistance**: ≥ 5 GΩ
+- **Center Contact Resistance**: ≤ 6.0 mΩ
+- **Outer Contact Resistance**: ≤ 2.0 mΩ
+- **Test Voltage**: 500 V rms
+- **Working Voltage**: 335 V rms
+- **Contact Current**: 1.2 A DC max.
+- **Mating Cycles**:
+  - Smooth Bore: ≥ 1000
+  - Limited Detent: ≥ 500
+  - Full Detent: ≥ 100
+- **Temperature Range**: -65°C to +155°C
+- **Moisture Sensitivity Level**: Not specified, but compliant with MIL-STD-202 for moisture resistance.
+- **Weight**: 0.17 g/piece
+
+#### Description:
+The Rosenberger 19K101-K00L5 is a high-frequency SMP (SubMiniature version P) adaptor designed for RF (Radio Frequency) applications. It features a jack-to-jack configuration, allowing for seamless connections between RF components. The adaptor is constructed with high-quality materials, including gold-plated copper beryllium contacts and PTFE dielectric, ensuring excellent electrical performance and durability.
+
+#### Typical Applications:
+The 19K101-K00L5 SMP adaptor is typically used in various RF applications, including:
+- **Telecommunications**: Connecting RF components in communication systems.
+- **Aerospace and Defense**: Used in military and aerospace equipment where high-frequency performance is critical.
+- **Test and Measurement**: Employed in laboratory setups for testing RF devices and systems.
+- **Broadcasting**: Utilized in broadcasting equipment for signal transmission.
+- **Consumer Electronics**: Found in devices requiring RF connectivity, such as wireless communication devices.
+
+This adaptor is particularly suited for environments that demand high reliability and performance across a wide frequency range, making it an essential component in modern RF systems.

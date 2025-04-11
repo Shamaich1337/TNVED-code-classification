@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ARJ-139 production of ABRACON from the text:• Support 1000 Base-T applications w/ Bi-Color LEDs\n• PoE++(max 1A) with Extended Temperature (-40°C~85°C)\n• Applicable for Ethernet Switch, Servers, & Access Point Routers\n• Provides signal conditioning, EMI suppression and signal isolation• Compliant with IEEE802.3 standard\n• Designed for Network Interface Cards(NIC), LAN-on-Motherboard(LOM) \n• High performance for maximum EMI suppression\n• 350μH minimum OCL with 8mA bias current\n• RoHS peak wave solder temperature 260°CAPPLICATIONS: FEATURES:RJ45 1000 Base-T Single Port, PoE++, w/ LEDs, Extend Temp\nSTANDARD SPECIFICATIONSARJ-139\n16.6 x 13.5 x 33.6 mmRoHS /RoHS  II Com pliant \nSCHEMATICS Parameters Minimum Typical Max imum Units Notes \nOperating Temperature -40  +85 °C  \nStorage Temperature -40  +85 °C  \nTurn Ratio (± 5%) 1CT:1CT  Tx \n1CT:1CT  Rx \nInductance (OCL) 350   µH 100KHz /0.1V@8mA \nInsertion Loss  -1.0  dB 1-100MHz \nReturn Loss -20   \ndB 1-10MHz \n-16   30MHz \n-12   60-80MHz \nCross Talk  -40  \ndB 1-10MHz \n -35  32-65MHz \n -30  65-100MHz \nCMR  -30  dB 1-125MHz \n -20  125-500MHz \nPoE Current Cap acity  720 1000  mA @ 57V \nHi-Pot 1500Vrms/0.5mA/2Sec  Pri to Sec \nABRACON IS \nISO9001-2015\nCER TIFIED5101 Hidden Creek Ln Spicewood  TX 78669\nPhone: 512-371-6159 | Fax: 512-351-8858\nFor terms and conditions of sales, please visit:\nwww .abracon.comREVISED: 07-10-20DC Resistance (DCR) Ω 1.5 / 0.750 MDI-PHY side/Cable side\nLLC™\n    \n MECHANICAL DIMENSIONS\n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \nPeak temp erature (Tp) : 250 ±10oC \nPeak temp erature (Tp) tim e : 5sec  max WAVE  SOLDERING PROFILE   ARJ-139\n16.6 x 13.5 x 33.6 mmRoHS /RoHS  II Com pliant\n \nDimen sions: mm (Unless other wise sp ecified, all tolerances ar e ±0.25)  \n \nRJ45 1000 Base-T Single Port, PoE++, w/ LEDs, Extend Temp\nABRACON IS \nISO9001-2015\nCER TIFIED5101 Hidden Creek Ln Spicewood  TX 78669\nPhone: 512-371-6159 | Fax: 512-351-8858\nFor terms and conditions of sales, please visit:\nwww .abracon.comREVISED: 07-10-20\nLLC™\n|\n  \n  \n  \n  \n      PACKING: \n \n Packaging:  (40pcs/tray) MOQ = 1000pcs  \n \nPackaging Material : PET  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Dimen sions: cmARJ-139\n16.6 x 13.5 x 33.6 mmRoHS /RoHS  II Com pliant\nOuter carton u nit (option al): 800 p cs/ 20 T rays/box  RJ45 1000 Base-T Single Port, PoE++, w/ LEDs, Extend Temp\nABRACON IS \nISO9001-2015\nCER TIFIED5101 Hidden Creek Ln Spicewood  TX 78669\nPhone: 512-371-6159 | Fax: 512-351-8858\nFor terms and conditions of sales, please visit:\nwww .abracon.comREVISED: 07-10-20ATTENTION: Abracon LLC’s products are COTS – Commercial-Oﬀ-The-Shelf products; suitable for Commercial, Industrial and, where designated, Automotive Applica  -\ntions. Abracon ’s products are not speciﬁcally designed for Military , Aviation, Aerospace , Life-dependent Medical applications or any application requiring high reliability \nwhere component failure could result in loss of life and/or property . For applications requiring high reliability and/or presenting an e xtreme operating environment, \nwritten consent and authorization from Abracon LL C is required. Please contact Abracon LL C for more information.\nLLC™\n'}]
+!==============================================================================!
+### Component Summary: ARJ-139 by ABRACON
+
+#### Key Specifications:
+- **Voltage Ratings**: PoE (Power over Ethernet) up to 57V
+- **Current Ratings**: 
+  - PoE Current Capacity: 720 mA (minimum), 1000 mA (maximum)
+- **Power Consumption**: Not explicitly stated; however, it supports PoE++ applications.
+- **Operating Temperature Range**: -40°C to +85°C
+- **Storage Temperature Range**: -40°C to +85°C
+- **Package Type**: RJ45 Single Port
+- **Special Features**:
+  - Bi-Color LEDs for status indication
+  - Signal conditioning, EMI suppression, and signal isolation
+  - Compliant with IEEE802.3 standard
+  - High performance for maximum EMI suppression
+  - 350μH minimum OCL (Output Coupling Inductance) with 8mA bias current
+  - Hi-Pot rating of 1500Vrms for isolation
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The ARJ-139 is an RJ45 connector designed for 1000 Base-T Ethernet applications. It features Power over Ethernet (PoE++) capabilities, allowing it to deliver power and data over the same cable. The component includes bi-color LEDs for visual status indication and is engineered to provide signal conditioning, electromagnetic interference (EMI) suppression, and signal isolation, making it suitable for high-performance networking applications.
+
+#### Typical Applications:
+The ARJ-139 is typically used in:
+- **Ethernet Switches**: Facilitating high-speed data transfer and power delivery.
+- **Servers**: Providing network connectivity with power capabilities.
+- **Access Point Routers**: Enabling wireless network access while supporting PoE for powering devices.
+- **Network Interface Cards (NIC)**: Integrating into computers and devices for network connectivity.
+- **LAN-on-Motherboard (LOM)**: Directly embedding into motherboards for compact designs.
+
+This component is ideal for applications requiring robust network performance and reliability, particularly in environments with extended temperature ranges.

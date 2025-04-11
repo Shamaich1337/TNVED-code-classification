@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 830055474 production of WURTH from the text:IQD Part No. + Packaging: LFXTAL 055474ReelQuartz Crystal Specification\nWurth Part No. 830055474\nOutline (mm) \nDescription\nStandard 3.2 x 2.5mm SMD crystal in a ceramic package with a \nseam sealed metal lid, hermetically sealed.\nCFPX-180 Model\nModel Issue number  9\nFrequency Parameters\nFrequency 25.0MHz\nFrequency Tolerance ±50.00ppm\n@ 25°C Tolerance Condition\nFrequency Stability ±50.00ppm\n-40.00 to 85.00°C Operating Temperature Range\nFundamental Overtone Order\nAgeing ±5ppm max per year @ 25°C\nElectrical Parameters\nLoad Capacitance (CL) 16.00pF\nShunt Capacitance (C0) 7pF max\nDrive Level 100µW max\n 50.00Ω max ESR\nEnvironmental Parameters\nStorage Temperature Range: -55 to 125°C\nShock: MIL-STD-202F, Method 213B: 1000G, 0.5ms, 1/2 sine \nwave\nVibration : MIL-STD-202F, Method 204D, Test Condition D : \n20G (10Hz-2000Hz), 4hrs in 3 mutually perpendicular planes \n(total 12hrs)\nManufacturing Details\nRoHS Terminations NiAu\nRoHS Reflow Temp 260degC 10s\nCompliance\nCompliant RoHS Status ( 2011 /65/EU)\nCompliant REACh Status\nMSL Rating (JDEC-STD-033): Not Applicable\nPackaging Details\nTape & reel in accordance with EIA-481-D Pack Style: Reel\nPack Size: 1,000\nAlternative packing option available\nU S E F U L  L I N K S\nwww.we-online.com/toolboxToolbox :\nProduct Catalog:\nwww.we-online.com/products\nCONTACT INFORMATION :\nWürth Elektronik eiSos GmbH & Co. KG\nMax-Eyth-Str. 1, 74638 Waldenburg , Germany\nTel: +49(0) 7942 945-0Email:  eiSos@we-online.de\nWeb: www.we-online.com\nPrinted on 9 Nov 18 10:36 using WE Part Data Sheet V1.00018 Page 1 of 1\n'}]
+!==============================================================================!
+### Component Summary for Wurth Part No. 830055474
+
+**Component Type:** Quartz Crystal
+
+**Description:**
+The Wurth Part No. 830055474 is a standard surface-mount device (SMD) quartz crystal designed for various electronic applications. It features a ceramic package with a hermetically sealed metal lid, ensuring durability and reliability. The crystal operates at a frequency of 25.0 MHz and is suitable for applications requiring precise timing and frequency stability.
+
+### Key Specifications:
+
+- **Voltage Ratings:** Not applicable (crystals do not have voltage ratings in the traditional sense)
+- **Current Ratings:** Not applicable (crystals do not have current ratings)
+- **Power Consumption:** Drive Level: 100 µW max
+- **Operating Temperature Range:** -40.00 to 85.00°C
+- **Storage Temperature Range:** -55 to 125°C
+- **Package Type:** Standard 3.2 x 2.5 mm SMD ceramic package
+- **Frequency:** 25.0 MHz
+- **Frequency Tolerance:** ±50.00 ppm @ 25°C
+- **Frequency Stability:** ±50.00 ppm
+- **Load Capacitance (CL):** 16.00 pF
+- **Shunt Capacitance (C0):** 7 pF max
+- **Equivalent Series Resistance (ESR):** 50.00 Ω max
+- **Ageing:** ±5 ppm max per year @ 25°C
+- **Moisture Sensitive Level (MSL):** Not Applicable (JDEC-STD-033)
+- **Special Features:** RoHS compliant with NiAu terminations; reflow temperature of 260°C for 10 seconds.
+
+### Typical Applications:
+The Wurth 830055474 quartz crystal is typically used in applications that require precise frequency generation and timing, such as:
+
+- **Microcontrollers and Microprocessors:** Providing clock signals for timing and synchronization.
+- **Communication Devices:** Used in RF applications for frequency stabilization.
+- **Consumer Electronics:** Found in devices like watches, clocks, and audio equipment for accurate timekeeping.
+- **Industrial Equipment:** Employed in various control systems and automation devices.
+
+This quartz crystal is essential for ensuring reliable performance in electronic circuits that depend on accurate timing and frequency control.

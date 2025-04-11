@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ESD3V3D5 production of YANGZHOU YANGJIE ELECTRONIC from the text:ESD3V3D5 \xa0\n\xa0\n 1 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1798 \nRev.1.1,29-May-19 www.21yangjie.com\nESD Protection Diode  \n \n Features     \n● For sensitive ESD protection \n● Low leakage  \n● Uni-directional ESD protection of one line \n● Epoxy meets UL 94 V-0 flammability rating \n● Moisture Sensitivity Level 1 \n \nMechanical Data \n● Package : SOD523  \n● Terminals : Tin plated leads, solderable  per  \n                     J-STD-002 and JESD22-B102 \n● Polarity: Cathode line denotes the cathode end \n● Marking: ZE \n \n  \n                       \n■Maximum Ratings  \nPARAMETER SYMBOL LIMITS UNIT \nOperating Junction & Storage Temperature T J&TSTG -45 to +125 ℃ \nIEC61000-4-2(ESD)Air \nVESD  ±30 KV \nIEC61000-4-2(ESD)Contact  ±30 KV \nJESD22-A114-B(ESD)Machine ±0.4 KV \nJESD22-A114-B(ESD)Human Body  ±16 KV \nPeak Pulse Current IPP（1） 16 A \n (1).Non-repetitive current pulse 8/20 μs exponential decay waveform according to IEC61000-4-5. \n \n■Electrical Parameter  \nPARAMETER SYMBOL \n Clamping Voltage@ I PP V C \nBreakdown Voltage@ I T V BR \nPeak Pulse Current I PP \nTest Current I T \nReverse Leakage Current@ V RWM I R \nReverse Standoff Voltage V RWM \nForward Voltage@ I F V F \nForward Current I F \nPeak Power Dissipation P Pk \nMax. Capacitance @ V R=0 and f=1MHz C COMPLIANT  RoHS  \n\nESD3V3D5 \xa0\n\xa0\n 2 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1798 \nRev.1.1,29-May-19 www.21yangjie.com\n■Electrical Characteristics （Ta=25℃ Unless otherwise specified ） \nPARAMETER Symbol UNIT Conditions Min Typ Max \nReverse Standoff Voltage VRWM（1） V    3.3 \nReverse Leakage Current I R uA V RWM=3.3V   0.08 \nBreakdown Voltage V (BR) V I T=1mA 5   \nClamping Voltage VC（2） V IPP=5A ，tp=8/20us   9.5 \nClamping Voltage VC（2） V IPP=16A ，tp=8/20us   14 \nForward voltage V F V I F=10mA   0.9 \nPeak Power Dissipation P Pk W tp=8/20us   224 \nJunction Capacitance C J pF V R=0V,f=1MHz  120  \n(1).Other voltages available upon request. \n(2).Non-repetitive current pulse 8/20 μs exponential decay waveform according to IEC61000-4-5  \n■Ordering Information (Example)  \nPREFERED P/N PACKING  \nCODE UNIT WEIGHT(g)MINIMUM \nPACKAGE(pcs)INNER BOX \nQUANTITY(pcs)OUTER CARTON \nQUANTITY(pcs) DELIVERY \nMODE \nESD3V3D5 F2 Approximate 0.002 8000 80000 320000 7” reel \n■ Characteristics (Typical)  \n \n\nESD3V3D5 \xa0\n\xa0\n 3 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1798 \nRev.1.1,29-May-19 www.21yangjie.com\n■ Outline Dimensions  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n \n \n    \n■ Soldering Footprint \n \n \n \n \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n \n \n  \n \n  \n \n \nSOD-523 \n1.50(0.059) \xa0\n1.70(0.067) \xa0\n0.70(0.028)\n0.90(0.035)\n1.10(0.043) \xa0\n1.30(0.051) \xa00.25(0.010) \xa0\n0.35(0.014) \xa0\n0.50(0.020)\n0.70(0.028)0.05(0.002) \xa0\n0.20(0.008) \xa0\nUnit:mm\nESD3V3D5 \xa0\n\xa0\n 4 / 4 \n   Yangzhou Yangjie Electroni c Technology Co., Ltd.  \n S-S1798 \nRev.1.1,29-May-19 www.21yangjie.com\nDisclaimer \n \nThe information presented in this document is for reference only.  Yangzhou Yangjie Electronic Technology Co., Ltd. reserves the  \nright to make changes without notice for t he specification of the produc ts displayed herein to improve reliability, function or  design \nor otherwise.     The product listed herein is designed to be used with ordinary electronic equipment or  devices, and not designed to be used wit h \nequipment or devices which require high level of reliability and the malfunction of with would directly endanger human life (su ch as \nmedical instruments, trans portation equipment, aerospa ce machinery, nuclear-reactor controll ers, fuel controll ers and other saf ety \ndevices), Yangjie or anyone on its behalf, assumes no responsibilit y or liability for any damages resulting from such improper use \nof sale.    This publication supersedes & replaces all information previous ly supplied. For additional information, please visit our websit e \nhttp:// www.21yangjie.com  , or consult your nearest Yangjie’s sales office for further assistance. \n \n \n'}]
+!==============================================================================!
+### Component Summary: ESD3V3D5
+
+**Manufacturer:** Yangzhou Yangjie Electronic Technology Co., Ltd.  
+**Product Type:** ESD Protection Diode
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Reverse Standoff Voltage (VRWM): 3.3 V
+  - Breakdown Voltage (VBR): 5 V (at IT = 1 mA)
+  
+- **Current Ratings:**
+  - Peak Pulse Current (IPP): 16 A (non-repetitive, 8/20 μs waveform)
+  - Reverse Leakage Current (IR): 0.08 µA (at VRWM = 3.3 V)
+  
+- **Power Consumption:**
+  - Peak Power Dissipation (PPK): 224 W (8/20 μs pulse)
+  
+- **Operating Temperature Range:**
+  - Junction & Storage Temperature (TJ & TSTG): -45 to +125 °C
+  
+- **Package Type:**
+  - SOD523 (small outline diode package)
+  
+- **Special Features:**
+  - Uni-directional ESD protection for one line
+  - Low leakage current
+  - Epoxy meets UL 94 V-0 flammability rating
+  - Moisture Sensitivity Level: 1 (according to JEDEC J-STD-020E)
+
+#### Description:
+The ESD3V3D5 is an ESD protection diode designed to safeguard sensitive electronic components from electrostatic discharge (ESD). It provides low leakage current and is capable of handling high voltage spikes, making it suitable for protecting data lines and power lines in various electronic applications.
+
+#### Typical Applications:
+- **ESD Protection:** Commonly used in consumer electronics, telecommunications, and computer peripherals to protect sensitive components from ESD events.
+- **Signal Integrity:** Helps maintain signal integrity in high-speed data lines by clamping voltage spikes.
+- **Power Management:** Can be used in power management circuits to protect against voltage transients.
+
+This component is ideal for applications where ESD protection is critical, such as in mobile devices, laptops, and other portable electronics.

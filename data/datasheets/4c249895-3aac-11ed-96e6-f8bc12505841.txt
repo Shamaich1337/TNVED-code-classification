@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of CAS-M025-HNS-0279-1 production of E-TEC from the text:Wire Harness\n1.25mm Housing 2pin\nto\nEnd CutRoHS\ncompliant\n SHEET UNITmm\nFree  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.GENERAL TOLERANCE\n0 ~ 200mm  ->  ±10mm\n201 ~ 1000mm  ->  ±20mm\n1001 ~ 1500mm  ->  ±25mm\n1501 ~ 2100mm  ->  ±30mm\n2100mm↑->  ±40mmCherry\nKent\nSH09.08.2022\n12.08.202212.08.2022CAS-M025-HNS-0279\nCAS-M025-HN S-0279-x1/1\nBBlack\n21\nBlackP1\nCut\nCutItem Description Q'TY\nHousing: Pitch 1.25mm, CRF-102-S125 1Terminal: CRF-999/35-S125-99 2\n2 UL1061 28AWG Insulator Wire 21#1#2\nP1\nItem No. Length(L) mm\nCAS-M025-HNS-0279 120\nCAS-M025-HNS-0279-1 75L\n1 2\n\n"}]
+!==============================================================================!
+### Component Summary for CAS-M025-HNS-0279-1
+
+**Component Type:** Wire Harness
+
+**Description:**
+The CAS-M025-HNS-0279-1 is a wire harness designed for electrical connections in various applications. It features a 1.25mm pitch housing with 2 pins, making it suitable for compact electronic assemblies. The harness is RoHS compliant, indicating that it meets environmental standards for hazardous substances.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, wire harnesses are rated based on the wire and connector specifications.
+- **Current Ratings:** Not specified; generally determined by the wire gauge (28 AWG in this case) and connector ratings.
+- **Power Consumption:** Not applicable; wire harnesses do not consume power but facilitate power transfer.
+- **Operating Temperature Range:** Not specified; typically determined by the materials used in the wire and connectors.
+- **Package Type:** Not specified; usually provided in bulk or as individual units.
+- **Special Features or Notes:** 
+  - RoHS compliant
+  - 1.25mm pitch housing
+  - Includes UL1061 28AWG insulated wire
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Typical Applications:**
+Wire harnesses like the CAS-M025-HNS-0279-1 are commonly used in:
+- **Consumer Electronics:** Connecting components within devices such as computers, televisions, and appliances.
+- **Automotive:** Wiring connections in vehicles for various electrical systems.
+- **Industrial Equipment:** Facilitating connections in machinery and control systems.
+- **Telecommunications:** Used in devices that require reliable electrical connections for data transmission.
+
+This wire harness is particularly useful in applications where space is limited, and reliable connections are essential for the functionality of electronic devices.

@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-SS2-006-H140/38-55 production of DECIGN from the text:2A  2.54*(PIN NO./2-2) ±0.302.54±0.10\nA  2.54*(PIN NO./2-1) ±0.30B  2.54*PIN NO./2 ±0.502.54±0.108.5\n1HGFE\n2.98DCB1\nA\n3.54±0.25\nSpecifications\nElectrical\nCurrent rating: 3A\nInsulation resistance: 1000MΩ min.\nContact resistance: 20mΩ max.\nWithstanding  voltage : 1000 V AC /DC\nTP-SS2-0XX-H140/38-55\n60.25\n3 2SCALE\n.XXX ±.XX   ±.X    ±X.±\n.XXX° ± .XX° ±  .X° ±  X.° ±GENERAL TOLERANCE\nFreemmUNIT\n09.19.202309.19.2023\nPCR-N254\nPaulJerry\n09.19.2023Tom\n5 4SERIES NO.DWG. NO.\nDATEDATEDATE\nAPPROVECHECKDRAWN2.0±0.20\n21.2 2.54\n1\n1.6±0.10∅0.36\n7.50±0.30\nMaterial\nContact: Brass\nPlating: Gold Flash  over Ni\nInsulator: PA9T (black)  UL 94V-0\nOperating temperature: - 40°C to + 105°C\nMale Power Connector\n2.54mm Pin Header -SMTREV.D\n8 7SHEET 1/1\nH\nGFTP-SS2-0XX-H140/38-55Order Code62..54±0.10\n5.08±0.206.0±0.2010.0±0.20SQ0.64±0.02\n7.0±0.20\n1.0±0.156.3±0.20\n2.54±0.103 2 5 4\nBC09.19.2023 A\nDBNewDATE DESCRIPTION REV.8 7\nTom\nADRAWN\n \n'}]
+!==============================================================================!
+### Component Summary for TP-SS2-006-H140/38-55
+
+#### Key Specifications:
+- **Current Rating:** 3A
+- **Voltage Rating:** 1000 V AC/DC (Withstanding Voltage)
+- **Insulation Resistance:** 1000 MΩ minimum
+- **Contact Resistance:** 20 mΩ maximum
+- **Operating Temperature Range:** -40°C to +105°C
+- **Package Type:** Male Power Connector, 2.54mm Pin Header - SMT (Surface Mount Technology)
+- **Material:**
+  - **Contact:** Brass
+  - **Plating:** Gold Flash over Nickel
+  - **Insulator:** PA9T (black), UL 94V-0 rated
+- **Moisture Sensitive Level:** Not specified in the provided text, but typically referenced in JEDEC J-STD-020E.
+
+#### Description:
+The TP-SS2-006-H140/38-55 is a male power connector designed for surface mount applications. It features a 2.54mm pin header configuration, which is commonly used in various electronic devices for power and signal connections. The connector is constructed with high-quality materials, ensuring durability and reliability in electrical performance.
+
+#### Typical Applications:
+This component is typically used in:
+- **Power Management:** Connecting power supplies to circuit boards.
+- **Signal Processing:** Facilitating connections between different circuit elements.
+- **Consumer Electronics:** Used in devices such as computers, telecommunications equipment, and other electronic devices where compact and reliable connections are required.
+- **Industrial Equipment:** Suitable for applications requiring robust connectors that can withstand a wide temperature range.
+
+This connector is ideal for applications where space is limited, and reliable electrical connections are critical. Its high current rating and insulation resistance make it suitable for various demanding environments.

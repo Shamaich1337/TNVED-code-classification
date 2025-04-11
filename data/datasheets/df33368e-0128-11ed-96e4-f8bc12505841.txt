@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of XO7P-H33-JK25u-32.768MHz production of QUARTZCOM AG from the text:XO7P  \n \nMiniature size, h igh reliable, low jitter  \nCMOS Crystal Oscillat or   \n \n \n 2011/65/EU  RoHS  compliant  Page 1 of 1 05 Sep. 19 \nQuartzCom  AG Fax +41 32 644 24 05 \nBruehlstrasse 15  Tel +41 32 644 24 00 \nCH 2540 Grenchen  E-Mail sales@quartzcom.com  \nSwitzerland   www.quartzcom.com   Designed  in Switzerland  \n \n \nXO7P 1 -200MHz.doc  QuartzCom AG reserves the right to make spec changes to this product  Frequency range  1 to 200  MHz for 2.5 V and 3.3 V  \n1 to 125 MHz for 1.8 V  \nFrequency stability : ≤ ±50 ppm  All inclusive   (∗) \nAll inclusive  frequency stability vs. temperature, tolerance, aging  1st year, supply & load variation  \n vs. aging @ +25 °C ≤ ±3 ppm 1st year \nFrequency tolerance ex. Factory   ≤ ±1.0 ppm  @ +25 °C  \nSupply voltage (nominal value ±5 %)  +1.8 V, +2.5V to +3.3 V   (∗) \nSupply c urrent (@ 15 pF load capacitance)  < 30 mA  \nOutput signal  CMOS  VOH > 0.9∗Vcc  /  V OL < 0.1∗Vcc \nDuty cycle  45 ~ 55 %  \nOutput load  15 pF \nRise / Fall time < 3 ns  \nStart u p time < 8 ms  \nTri-state function  \n pin # 1 \uf0e8 high or open  pin # 3 \uf0e8 oscillation  \npin # 1 \uf0e8 low or GND  pin # 3 \uf0e8 high impedance  \nRMS phase jitter   2.5 V and 3.3 V  < 1.0 ps  \n1.8 V  < 1.5 ps  \nOperating temperature range  -40  ~   +85 °C  (∗) \nStorage temperature range  -55  ~ +12 5 °C \nReflow Profiles as per IPC/JEDEC J -STD -020C  ≤  260 °C over 10 sec. Max.  \nMoisture sensitivity  Level 1 (unlimited)  \n(∗) See available options on page #2  Note:  Unless otherwise specified conditions are @+25 °C  \n \n Pin function  \n \n# 1 Tri-state  \n# 2 GND  \n# 3 Output  \n# 4 Vcc  \n Soldering pattern  \n  \n \nOrdering code : XO7P-H(2)-(3)(4 )-100.000MHz  Example:  XO7P-H33-NN1u25 -100.000MHz  \n \nPackage  type  \n \n7P = 7.0 x 5.0 mm  \n (2) Supply voltage  \n 18 = 1.8 V  \n25 = 2.5 V  \n33 = 3.3 V  \n (3) Operating temperat ure  \n JK   = - 20 to +70 °C  \nNN  = - 40 to +85 °C  \nNR  = - 40 to +105 °C  \nNV  = -40 to +12 5 °C 4) Frequency stability  \n 50u = ± 50  ppm  \n25u = ± 25  ppm  \n20u = ± 20  ppm  \n15u= ± 15  ppm  \n \nFrequency stability over all   \n \nppm ≤± 15 ≤± 20 ≤± 25 ≤± 50   \n-20 to +70 °C  ∆ Ο Ο Ο  ∆  Ask factory  \n-40 to +85 °C  X ∆ Ο Ο  Ο  Available  \n-40 to + 105 °C  X X ∆ Ο  X  Not available \n-40 to + 125 °C  X X ∆ Ο   \n \n'}]
+!==============================================================================!
+### Component Summary: XO7P-H33-JK25u-32.768MHz
+
+**Description:**
+The XO7P is a miniature, high-reliability CMOS crystal oscillator produced by QuartzCom AG. It operates at a frequency of 32.768 MHz and is designed for applications requiring low jitter and precise timing. The device is compliant with RoHS standards (2011/65/EU) and is suitable for various electronic applications.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Nominal Supply Voltage: 3.3 V (±5%)
+  - Other options: 1.8 V, 2.5 V
+- **Current Ratings:**
+  - Supply Current: < 30 mA (at 15 pF load capacitance)
+- **Power Consumption:**
+  - Power consumption is primarily determined by the supply current, which is < 30 mA.
+- **Operating Temperature Range:**
+  - -40 °C to +85 °C (JK variant)
+- **Storage Temperature Range:**
+  - -55 °C to +125 °C
+- **Package Type:**
+  - 7P package, dimensions: 7.0 x 5.0 mm
+- **Special Features:**
+  - Tri-state function
+  - RMS phase jitter: < 1.0 ps (at 2.5 V and 3.3 V), < 1.5 ps (at 1.8 V)
+  - Rise/Fall time: < 3 ns
+  - Start-up time: < 8 ms
+  - Output signal: CMOS with VOH > 0.9*Vcc and VOL < 0.1*Vcc
+- **Moisture Sensitivity Level:**
+  - Level 1 (unlimited)
+
+### Typical Applications:
+The XO7P crystal oscillator is typically used in applications that require precise timing and frequency stability. Common applications include:
+- **Timing Circuits:** Used in microcontrollers and digital signal processors for clock generation.
+- **Communication Systems:** Provides stable frequency references in RF and data communication devices.
+- **Consumer Electronics:** Found in devices such as watches, clocks, and other timing-sensitive applications.
+- **Industrial Equipment:** Utilized in automation and control systems where accurate timing is crucial.
+
+This component is ideal for any application that demands a reliable and stable frequency source, particularly in environments with varying temperatures.

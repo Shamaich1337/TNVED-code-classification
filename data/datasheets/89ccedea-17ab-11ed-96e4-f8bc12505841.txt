@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PCS-106-WC300-99-M025 production of E-TEC from the text:A\nB\nC\nD\nE\nF\nG\nHA\nB\nC\nD\nE\nF\nG\nH12 3 4 5 6 78\n1 2 1 2 3 1 2 3 4 5 6 7 8New\nPower Connector 3.00mm pitch\nTHT single row male  -straight-\nwith Locating Peg  or Solder Clip\ncompatible with Molex Micro-Fit 3.0™14.06.2022 AREV. DESCRIPTION DATE DRAWN\nDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATESHEET 1/2\nREV. ADWG. NO.\nSERIES NO.UNIT\nSCALEmm\nFreeGENERAL TOLERANCECherry\nKent\nSH14.06.2022\n14.06.2022\n14.06.2022PCS-1-W(C)300-M025\nPCS-1xx-WX300-xx/X-M025  X.°  ±\n  .X°  ±\n .XX°  ±\n.XXX°  ±X. ±\n.X    ±\n.XX   ±  0.25\n.XXX ±Cherry\nE-tec 2022 © - all rights reserved   www.e-tec.asiaOrder Code\nPCS-1xx-W300-99-M025\nPCS-1xx-WC300-99/X-M025\nStandard 2.00mm no suffix\n/L = 3.20mmSolder Clip Option\nAB\n02 9.65 3.00\n03 12.65 6.00\n04 15.65 9.00\n05 18.65 12.00\n06 21.65 15.00\n07 24.65 18.00\n08 27.65 21.00\n09 30.65 24.00\n10 33.65 27.00\n11 36.65 30.00\n12 39.65 33.00No. of\nPinsDimension mm\nRecommended PCB Holde Layout\n(Tolerance ±0.05)\nPCB thickness:1.57mmA\n9.90\n2.00\nDimension3.18 ±0.20\n3.00 ±0.103.86 ±0.15\n0.51 ±0.151.20\nPin 1\n3.00 ±0.10\n2.15\nAmpere 5A 5A 4A 3A 2A 1A\nWire size #20 #22 #24 #26 #28 #30Specifications\nElectrical\nCurrent rating:\nRecommended PCB Holde Layout\n(Tolerance ±0.05)\nPCB thickness:1.57mmPin 13.20mm =  L3.86 ±0.15\n0.51 ±0.151.20A\n9.90\n3.18 ±0.20\n3.00 ±0.10\nB= with solder clips= with locating pegs\n1.96B\n3.00 ±0.10\n∅1.02∅1.27\n∅1.02∅2.41\nMaterial\nContact: Brass\nPlating: Sn over Ni\nInsulator: LCP  (black)  UL 94V-0\nOperating temperature: -40°C to +105°C\nmate with:\nPCF-1xx-W300 -M025with locating pegs with solder clips\n3.00 ±0.10B\nB\nInsulation resistance: 1000M Ω min.\nContact resistance: 10m Ω max.\nVoltage rating: 25V AC max.\nWithstanding voltage: 1500V AC / Minute\nA\nB\nC\nD\nE\nF\nG\nHA\nB\nC\nD\nE\nF\nG\nH12 3 4 5 6 78\n1 2 1 2 3 1 2 3 4 5 6 7 8New\nTHT Power Connector\n3.00mm pitch single row straight\n"Key Drawing"14.06.2022 AREV. DESCRIPTION DATE DRAWN\nDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATESHEET 2/2\nREV. ADWG. NO.\nSERIES NO.UNIT\nSCALEmm\nFreeGENERAL TOLERANCECherry\nKent\nSH14.06.2022\n14.06.2022\n14.06.2022PCS-1-W(C)300-M025\nPCS-1xx-WX300-xx/X-M025  X.°  ±\n  .X°  ±\n .XX°  ±\n.XXX°  ±X.   ±\n.X    ±\n.XX   ±  0.25\n.XXX ±Cherry\nE-tec 2022 © - all rights reserved   www.e-tec.asiaKey Drawing\n5 Pin 1 Pin\n1 Pin\n1 Pin1 Pin\n1 Pin1 Pin1 Pin1 Pin 1 Pin\n1 Pin\n1 Pin4 Pin\n3 Pin\n2 Pin 6 Pin7 Pin8 Pin9 Pin\n10 Pin11 Pin12 Pin\n'}]
+!==============================================================================!
+### Component Summary for PCS-106-WC300-99-M025
+
+**Component Type:**  
+Power Connector
+
+**Description:**  
+The PCS-106-WC300-99-M025 is a Through-Hole (THT) power connector featuring a 3.00mm pitch, single row male configuration. It is designed with a straight orientation and includes options for locating pegs or solder clips, making it compatible with Molex Micro-Fit 3.0™ connectors. This connector is primarily used for power distribution in electronic circuits.
+
+### Key Specifications:
+
+- **Voltage Rating:** 25V AC maximum
+- **Current Rating:** 
+  - 5A for wire size #20
+  - 4A for wire size #22
+  - 3A for wire size #24
+  - 2A for wire size #26
+  - 1A for wire size #30
+- **Power Consumption:** Not specified directly; dependent on application and load.
+- **Operating Temperature Range:** -40°C to +105°C
+- **Package Type:** THT (Through-Hole Technology), single row
+- **Special Features:**
+  - Insulation resistance: 1000 MΩ minimum
+  - Contact resistance: 10 mΩ maximum
+  - Withstanding voltage: 1500V AC for 1 minute
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+### Typical Applications:
+The PCS-106-WC300-99-M025 connector is typically used in applications requiring reliable power connections, such as:
+- Power management systems
+- Consumer electronics
+- Industrial equipment
+- Telecommunications devices
+- Automotive applications
+
+This connector is suitable for environments where durability and resistance to temperature variations are critical, making it ideal for both commercial and industrial applications.

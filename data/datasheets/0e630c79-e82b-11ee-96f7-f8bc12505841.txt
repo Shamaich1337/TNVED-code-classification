@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of QCS-MG-086-3 production of QUALWAVE INC from the text:Connector\nQualwaveInc. +86-28-6115-4929 sales@qualwave.com www.qualwave.com Rev1.1QCS-MG-086-3\nSMAMale\nFeatures: Applications:\n*LowVSWR *Wireless\n*Radar\n*Instruments\n*Electronics\nElectrical\nFrequency:DC~26.5GHz\nVSWR:1.25max.\nMechanical\nRFConnector:SMAmale\nMatingCable:QH280,QE086,QD086,RG316\nOuterConductor:Passivatedstainlesssteel\nHowToOrder\nQCS-MG-086-3\nCustomizationisavailableuponrequest.OutlineDrawings\nUnit:mm[in]\nTolerance:±0.2mm[±0.008in]\n\n'}]
+!==============================================================================!
+### Component Summary: QCS-MG-086-3
+
+**Component Type:** RF Connector (SMA Male)
+
+#### Key Specifications:
+- **Frequency Range:** DC to 26.5 GHz
+- **Voltage Ratings:** Not specified in the provided text.
+- **Current Ratings:** Not specified in the provided text.
+- **Power Consumption:** Not specified in the provided text.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Not specified in the provided text.
+- **Special Features:**
+  - Low Voltage Standing Wave Ratio (VSWR): 1.25 max.
+  - Outer conductor made of passivated stainless steel.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The QCS-MG-086-3 is an SMA male RF connector designed for high-frequency applications. It is characterized by its low VSWR, which is essential for minimizing signal reflection and ensuring efficient transmission of RF signals. The connector is constructed with a passivated stainless steel outer conductor, providing durability and resistance to corrosion.
+
+#### Typical Applications:
+The QCS-MG-086-3 connector is commonly used in various applications, including:
+- **Wireless Communication:** Facilitating connections in wireless devices and systems.
+- **Radar Systems:** Used in radar equipment for signal transmission.
+- **Instrumentation:** Connecting various instruments that require RF signal transmission.
+- **General Electronics:** Suitable for a wide range of electronic applications where RF connectivity is needed.
+
+This connector is compatible with several mating cables, including QH280, QE086, QD086, and RG316, making it versatile for different setups. Customization options are available upon request, allowing for tailored solutions to meet specific application needs.

@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 90WTA-100 WR90 production of AINFO from the text:90WTA-100\n8.20\n-\n12.4\nGHz\nTwist\nWaveguide\nChengdu\nAINFO\nInc.\nPage\n1\nTel:\n+86-28-8519-2786\nor\n+86-28-8519-3047\nFax:\n+86-28-8519-\n3068\nWebsite\n:\nwww.ainfoinc.com\nData\nsubject\nto\nchange\nwithout\nnotice\n.\nF\nor\ncurrent\ndata\nsheets,\nplease\ncontac\nt:\nSales@ainfoinc.com\nTechnical\nSpecification\nEIA\nWR\nWR\n90\nFrequency\nRange\n(\nGHz\n)\n8.20\n-\n12.4\nVSWR\n1.\n10\nmax\nFlange\nF\nB\nP\n100\nMaterial\nAl\nNet\nWeight(Kg)\n0.\n0\n6\nAround\nOutline\nDrawing\n(\nSize\n:\nmm)\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n90WTA-100\n8.20\n-\n12.4\nGHz\nTwist\nWaveguide\nChengdu\nAINFO\nInc.\nPage\n2\nTel:\n+86-28-8519-2786\nor\n+86-28-8519-3047\nFax:\n+86-28-8519-\n3068\nWebsite\n:\nwww.ainfoinc.com\nData\nsubject\nto\nchange\nwithout\nnotice\n.\nF\nor\ncurrent\ndata\nsheets,\nplease\ncontac\nt:\nSales@ainfoinc.com\nFlange\nDrawing\n(Size:\nmm)\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n90WTA-100\n8.20\n-\n12.4\nGHz\nTwist\nWaveguide\nChengdu\nAINFO\nInc.\nPage\n3\nTel:\n+86-28-8519-2786\nor\n+86-28-8519-3047\nFax:\n+86-28-8519-\n3068\nWebsite\n:\nwww.ainfoinc.com\nData\nsubject\nto\nchange\nwithout\nnotice\n.\nF\nor\ncurrent\ndata\nsheets,\nplease\ncontac\nt:\nSales@ainfoinc.com\nTest\nResults\nVSWR\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n'}]
+!==============================================================================!
+### Component Summary: 90WTA-100 WR90 Twist Waveguide
+
+**Manufacturer:** Chengdu AINFO Inc.  
+**Product Code:** 90WTA-100  
+**Type:** Twist Waveguide
+
+#### Key Specifications:
+- **Frequency Range:** 8.20 - 12.4 GHz
+- **VSWR (Voltage Standing Wave Ratio):** 1.10 max
+- **Material:** Aluminum (Al)
+- **Net Weight:** 0.06 Kg
+- **Flange Type:** WR90 (specific flange dimensions not provided in the text)
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+#### Description:
+The 90WTA-100 is a twist waveguide designed for microwave applications. It operates within the frequency range of 8.20 to 12.4 GHz, making it suitable for various high-frequency signal transmission tasks. The waveguide is constructed from aluminum, which provides a lightweight yet durable solution for guiding microwave signals.
+
+#### Typical Applications:
+- **Microwave Communication Systems:** The 90WTA-100 is commonly used in communication systems that require efficient signal transmission at microwave frequencies.
+- **Radar Systems:** Its design is suitable for radar applications where precise signal handling is critical.
+- **Test Equipment:** Often utilized in laboratory settings for testing and measurement of microwave signals.
+- **Antenna Feed Systems:** Can be integrated into antenna systems to facilitate the transmission of microwave signals.
+
+This component is essential for applications that demand high-frequency performance and low signal loss, making it a valuable part of microwave engineering and telecommunications.

@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BNA-5.8MM-BK production of KAWEEI from the text:22.5mm30.5mm\nΦ14.4mmΦ4mmΦ14mm\n螺纹12*1mm\n3THIRD ANGLE PROJECTION1:XXDATE\nEREV\n1\n2REV:\nmmUNIT:A/1\nSCALE(比例):\nD CSHEET:DESCRIPTION\nAPPROVAL:DRAWN:\nCHECKED:\nPART  NO:\nDWG NO:\nB3\nA1\n2C D E A B\nFILE NO: KW-4E-094A4DESCRIPTION:\n1/1X.:\nX.X: ±0.30\nX.XX:±0.15\nX.XXX: ±0.10X°:±5.0°\nX.X°: ±3.0°\nX.XX°: ±2.0°\nX.XXX°: ±1.0°GENERAL TOLERANCE\nLINEAR ANGLES\nSep-07-2023 ORIGINAL\nJack Wu\nJeff±0.50Joker\nTHIS DRAWING CONTAINS INFORMATION THAT IS PROPRIETARY TO KAWEEI\nINCORPORATED AND SHOULD NOT BE USED WITHOUT WRITTEN PERMISSIONwww.kaweei.comT:1mm5.8mmΦ2mm\nbanana jack\nKW-BN-305-XX\nKW-BN-305-XXColor Code:XX\n1:Red\n2:Blue\n3.Black\n4.Yellow\n5.Green\nProduct Materials:Brass,ABS\nSurface Treatment: Ni & Gold plating\nscrew Thread/Screw \nArbor:CAT11 \nRating: 6V DC/Max 32A\nOperating temp:-40C~ +80C\n'}]
+!==============================================================================!
+### Component Summary: BNA-5.8MM-BK by KAWEEI
+
+#### Key Specifications:
+- **Voltage Rating:** 6V DC
+- **Current Rating:** Max 32A
+- **Power Consumption:** Not specified directly; however, power can be calculated as P = V x I = 6V x 32A = 192W (theoretical maximum).
+- **Operating Temperature Range:** -40°C to +80°C
+- **Package Type:** Banana jack
+- **Special Features/Notes:** 
+  - Constructed from brass with ABS material.
+  - Surface treatment includes nickel and gold plating for enhanced conductivity and corrosion resistance.
+  - Features a screw thread/screw arbor (CAT11).
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The BNA-5.8MM-BK is a banana jack connector, which is a type of electrical connector used for connecting wires to a circuit. It is designed to provide a secure and reliable connection for various electronic applications. The banana jack is characterized by its cylindrical shape and is typically used in conjunction with banana plugs.
+
+#### Typical Applications:
+- **Power Management:** Commonly used in power supply connections, allowing for easy and quick connections and disconnections.
+- **Test Equipment:** Frequently found in laboratory settings for connecting test leads to instruments.
+- **Audio Equipment:** Utilized in audio applications for speaker connections and other audio devices.
+- **Educational Kits:** Often used in educational electronics kits for experiments and prototyping.
+
+This component is ideal for applications requiring a robust and reliable connection, particularly in environments where temperature extremes may be encountered.

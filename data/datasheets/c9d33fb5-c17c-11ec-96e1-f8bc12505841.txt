@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-RFC-0098-NL5 production of E-TEC from the text:A New 26.01.2022 Cherry\nOrder Code\nTP-RFC-0098-NL5\nMaterial\nContact Pin: Beryllium Copper; Au 3µ" min.,\n                     over Ni 50µ" min.,over Cu\nBody: Brass; Ni 100µ" min., over Cu\nInsulator: Teflon\nLock Ring: Brass; Ni 100µ" min., over CuLock Washer: Stainless Steel; Ni 100µ" min., over Cu\nHex Nut: Brass; Ni 100µ" min., over CuRoHS\ncompliant\nRF Connector\nN Bulkhead End Launch JackRecommended Mounting Hole\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.20Cherry\nKent\nSH26.01.2022\n26.01.202226.01.2022TP-RFC-0098-NL5\nTP-RFC-0098-NL51/1\nA∅22.00 ±0.40 3.1019 HEX5/8-24UNEF-2A\n∅1.50\n13.5 on flats\n22.50 ±0.40\n25.00 ±0.40 7.00\n32.00 ±0.4013.50 ±0.40\n17.50 ±0.40 sq.2.40\n2.401.70 ±0.05\n0.80∅19.80 ±0.40\n13.80 ±0.10\n∅16.10 ±0.20\n'}]
+!==============================================================================!
+### Component Summary for TP-RFC-0098-NL5
+
+**Component Type:** RF Connector (N Bulkhead End Launch Jack)
+
+#### Key Specifications:
+- **Material Composition:**
+  - **Contact Pin:** Beryllium Copper with a gold plating of 3µ" minimum over a nickel layer of 50µ" minimum, over copper.
+  - **Body:** Brass with nickel plating of 100µ" minimum over copper.
+  - **Insulator:** Teflon.
+  - **Lock Ring:** Brass with nickel plating of 100µ" minimum over copper.
+  - **Lock Washer:** Stainless Steel with nickel plating of 100µ" minimum over copper.
+  - **Hex Nut:** Brass with nickel plating of 100µ" minimum over copper.
+  
+- **RoHS Compliance:** Yes
+
+- **Recommended Mounting Hole Dimensions:**
+  - **Hex Size:** 5/8-24 UNEF-2A
+  - **Overall Dimensions:** 
+    - Diameter: 22.00 mm ±0.40
+    - Length: 32.00 mm ±0.40
+    - Various other dimensions specified in mm with tolerances.
+
+#### Description:
+The TP-RFC-0098-NL5 is an RF connector designed for high-frequency applications. It is a bulkhead end launch jack, which means it is intended to be mounted on a panel or enclosure, allowing for the connection of RF cables. The materials used in its construction ensure durability and reliable performance in RF signal transmission.
+
+#### Typical Applications:
+- **Telecommunications:** Used in RF signal transmission for communication systems.
+- **Aerospace and Defense:** Suitable for applications requiring robust and reliable RF connections.
+- **Test and Measurement Equipment:** Commonly used in laboratory setups for testing RF devices.
+- **Broadcasting:** Utilized in radio and television broadcasting equipment for signal distribution.
+
+This connector is essential in applications where maintaining signal integrity and minimizing loss is critical, making it a vital component in various RF systems.

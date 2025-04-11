@@ -1,0 +1,54 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of LA 100-P production of LEM GROUP from the text:Page 1/3\n15August2022/Version 14 \nLEM International SA  \nRoute du Nant-d’Avril, 152\n1217 Meyrin  \nwww.lem.comLEM reserves the right to carry out modifications on its transducers, \nin order to improve them.N° 97.09.34.000.0IP N = 100 A\nFeatures\n ●Closed loop (compensated) \ncurrent transducer using the Hall \neffect\n ●Insulated plastic case recognized \naccording to UL 94-V0.\nAdvantages\n ●Excellent accuracy\n ●Very good linearity\n ●Low temperature drift\n ●Optimized response time\n ●Wide frequency bandwidth\n ●No insertion losses\n ●High immunity to external \ninterference\n ●Current overload capability.\nApplications\n ●AC variable speed drives and \nservo motor drives\n ●Static converters for DC motor \ndrives\n ●Battery supplied applications\n ●Uninterruptible Power Supplies \n(UPS)\n ●Switched Mode Power Supplies \n(SMPS)\n ●Power supplies for welding  \napplications.\nApplication domain\n ●Industrial.Current Transducer LA 100-P\nFor the electronic measurement of currents: DC, AC, pulsed...,  \nwith galvanic separation between the primary circuit and the secondary \ncircuit.\nElectrical data\nIP N Primary nominal RMS current  100  A\nIP M Primary current, measuring range  0 ... ±150 A\nRM Measuring resistance @  TA = 70 °C TA = 85 °C\n    RM min RM max RM min RM max\n  with ±12 V @ ±100 A max\t 0\t 50\t 0\t 42\t Ω\n   @ ±120 A max\t 0\t 22\t 0\t 14\t Ω\n  with ±15 V @ ±100 A max\t 0\t 110\t 20\t 102\t Ω\n   @ ±150 A max\t 0\t 33\t 20\t 25\t Ω\nIS N Secondary nominal RMS current  50  mA\nNP/NS Turns ratio   1 : 2000\nUC Supply voltage (±5 %)   ±12 … 15 V\nIC Current consumption (±2)  10 (@ ±15 V) + IS mA\nAccuracy - Dynamic performance data\nε Error @ IP N, TA = 25 °C        @ ±15 V (±5 %)  ±0.45  %\n        @ ±12 … 15 V (±5 %) ±0.70  %\nεL Linearity error   < 0.15  %\n    Typ Max\nIO E\t Electrical\toffset\tcurrent\t@\t IP = 0, TA = 25 °C   ±0.10 mA\nIO M\t Magnetic \toffset\tcurrent\t1) @ IP\t=\t0\tand\tspecified\t RM,\n  after an overload of 3 × IP N  ±0.15 mA\nIO T Temperature variation of IO\t −25\t°C\t…\t+85\t°C\t ±0.05\t ±0.30\t mA\n \t \t −40\t°C\t…\t−25\t°C\t ±0.10\t ±0.50\t mA\ntD 10 Delay\ttime\tto\t10\t%\tof\tthe\tfinal\toutput\tvalue\tfor\t IP N step   < 500 ns\ntD 90 Delay\ttime\tto\t90\t%\tof\tthe\tfinal\toutput\tvalue\tfor\t IP N step 2)\n  < 1 µs\nBW\t Frequency\tbandwidth\t(−1 \tdB)\t \t DC\t…\t200\t kHz\nGeneral data\nTA\t Ambient\toperating\ttemperature\t \t −40\t…\t+85\t °C\nTA st\t Ambient\tstorage\ttemperature\t \t −40\t…\t+90\t °C\nRS Resistance of secondary winding @ TA\t=\t70\t°C\t 120\t \t Ω\n   @ TA\t=\t85\t°C\t 128\t \t Ω\nm Mass   18  g\n Standards   EN 50178: 1997\n    UL 508: 2010\nNotes : 1)\t\tResult\tof\tthe\tcoercive\tfield\tof\tthe\tmagnetic\tcircuit  \n 2)  For a di/dt = 100 A/µs.\n\nPage 2/3\n15August2022/Version 14 \nLEM International SA  \nRoute du Nant-d’Avril, 152\n1217 Meyrin  \nwww.lem.comLEM reserves the right to carry out modifications on its transducers, \nin order to improve them.Current Transducer LA 100-P\nInsulation coordination\nUd\t RMS\tvoltage\tfor\t AC\tinsulation\ttest,\t50\tHz/1\tmin\t \t 2.5\t \t kV\nUNi\t Impulse\twithstand\tvoltage\t1.2/50\tµs\t \t 4.5\t \t kV\n    Min\ndCp Creepage distance   3.8  mm\ndCI Clearance   3.8  mm\nCTI\t Comparative\ttracking\tindex\t(group\tI)\t \t 600\nApplications examples\nAccording to EN 50178 and IEC 61010-1 standards  and following conditions:\n ●Over voltage category OV 3\n ●Pollution degree PD2\n ●Non-uniform\tfield\nSafety\nThis transducer must be used in limited-energy secondary circuits according to  \nIEC\t61010-1.\nThis transducer must be used in electric/electronic equipment with respect \nto applicable standards and safety requirements in accordance with the \nmanufacturer’s operating instructions.\nCaution,\trisk\tof\telectrical\tshock\nWhen operating the transducer, certain parts of the module can carry hazardous \nvoltage (eg. primary busbar, power supply).  \nIgnoring this warning can lead to injury and/or cause serious damage.  \nThis transducer is a build-in device, whose conducting parts must be inaccessible \nafter installation.  \nA protective housing or additional shield could be used.  \nMain supply must be able to be disconnected.EN 50178 IEC 61010-1\ndCp, dCI, UNiRated insulation voltage Nominal voltage\nBasic insulation 300 V 300 V\nReinforced insulation 150 V 150 V\nPage 3/3\n15August2022/Version 14 \nLEM International SA  \nRoute du Nant-d’Avril, 152\n1217 Meyrin  \nwww.lem.comLEM reserves the right to carry out modifications on its transducers, \nin order to improve them.dCldCp\nIP\nIS RM\nUCUCDimensions LA 100-P  (in mm)\nMechanical characteristics\n ●General tolerance ±0.2 mm\n ●Primary through-hole 12.7 × 7 mm\n ●Fastening & Connection of secondary 3 pins  \n\t 0.6\t×\t0.7\tmm\n ●Recommended PCB hole ⌀ 1.2 mmRemarks\n ●IS is positive when IP\tflows\tin\tthe\tdirection\tof\tthe\tarrow.\n ●Temperature of the primary conductor should not exceed \n100 °C.\n ●Dynamic performances ( di/dt and delay time) are best \nwith\ta\tsingle\tbar\tcompletely\tfilling\tthe\tprimary\thole.\n ●Installation of the transducer must be done unless \notherwise\tspecified\ton\tthe\tdatasheet,\taccording\tto\tLEM\t\nTransducer Generic Mounting Rules. Please refer to \nLEM document N°ANE120504 available on our Web site: \nhttps://www.lem.com/en/file/3137/download/.\n ●In order to achieve the best magnetic coupling, the \nprimary windings have to be wound over the top edge of \nthe device.\n ●This\tis\ta\tstandard\tmodel.\tFor\tdifferent\tversions\t(supply\t\nvoltages, turns ratios, unidirectional measurements...), \nplease contact us.Connection\n'}]
+!==============================================================================!
+### Component Summary: LA 100-P Current Transducer
+
+**Manufacturer:** LEM International SA  
+**Product Code:** LA 100-P  
+**Type:** Closed loop (compensated) current transducer using the Hall effect
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Supply Voltage (UC): ±12 to ±15 V (±5%)
+  - RMS Voltage for AC Insulation Test: 2.5 kV
+  - Impulse Withstand Voltage: 4.5 kV
+
+- **Current Ratings:**
+  - Primary Nominal RMS Current (IP N): 100 A
+  - Measuring Range: 0 to ±150 A
+  - Secondary Nominal RMS Current (IS N): 50 mA
+
+- **Power Consumption:**
+  - Current Consumption (IC): 10 mA (@ ±15 V) + IS
+
+- **Operating Temperature Range:**
+  - Ambient Operating Temperature (TA): -40°C to +85°C
+  - Ambient Storage Temperature (TA st): -40°C to +90°C
+
+- **Package Type:**
+  - Insulated plastic case recognized according to UL 94-V0
+
+- **Special Features:**
+  - Excellent accuracy (±0.45% @ IP N, TA = 25°C)
+  - Very good linearity (< 0.15%)
+  - Low temperature drift
+  - Optimized response time (Delay time to 10%: < 500 ns, to 90%: < 1 µs)
+  - Wide frequency bandwidth (DC to 200 kHz)
+  - High immunity to external interference
+  - Current overload capability
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided data.
+
+#### Description:
+The LA 100-P is a closed-loop current transducer that utilizes the Hall effect for the electronic measurement of currents, including DC, AC, and pulsed currents. It provides galvanic separation between the primary circuit (where the current is measured) and the secondary circuit (where the measurement is processed), ensuring safety and accuracy in various applications.
+
+#### Typical Applications:
+The LA 100-P is designed for use in a variety of industrial applications, including:
+- AC variable speed drives and servo motor drives
+- Static converters for DC motor drives
+- Battery-supplied applications
+- Uninterruptible Power Supplies (UPS)
+- Switched Mode Power Supplies (SMPS)
+- Power supplies for welding applications
+
+This transducer is particularly useful in environments where precise current measurement is critical, and it adheres to safety standards such as EN 50178 and IEC 61010-1, making it suitable for integration into electric and electronic equipment.

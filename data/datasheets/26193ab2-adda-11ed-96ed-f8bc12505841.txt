@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 9CRV0412P5J201 production of SANYO DENKI from the text:231\n静圧\n風量(Pa) (inch H 2O)\n(CFM)(m3/min)DC12 V\n0.10 0.2 0.3 0.6 0.4 0.5 0.7 0.8100200300400\n0.9 1.0700\n6005008001000\n00.51.01.53.0\n2.52.03.54.04.5\n9001100\n5 0 10 15 20 25 30 35\nPWMデューティ\n100%\n50%\n0%\n静圧\n風量(Pa) (inch H 2O)\n(CFM)(m3/min)PWMデューティ100%\n0.10 0.2 0.3 0.6 0.4 0.5 0.7 0.8100200300400\n0.9 1.0700\n6005008001000\n900\n00.51.01.53.0\n2.52.03.54.04.5 1100\n5 0 10 15 20 25 30 3510.8 V12 V/13.2 V(min-1)回転速度\nPWM デューティサイクル0 (%)100電圧：DC12 V\nPWM周波数：25 kHz\n22500 min-1\n22000 min-1\n吐出側吸込側\n3800 min-1\n3500 min-1500020000\n150001000025000\nDC\nCounter Rotating Fan 40 mm sq.Model no.Rated voltage Operating voltage range PWM duty \n    cycle*  [%]Rated current Rated input Rated speed Max. airflow Max. static pressure SPL Operating temperature Expected life\n[V] [V] [A] [W] [ min-1] [m³/min] [CFM] [ Pa] [ inchH ²O] [ dB (A)] [ ˚C] [h]\nInlet Outlet\n9CRV0412P5J201 12 10.8 to 13.2100 1.8 21.6 22500 20000 0.9 31.8 1050 4.22 68-20 to +70 40000/60˚C0 0.11 1.32 3800 3500 0.14 4.9 30 0.12 26\n* PWM frequency: 25 kHz\nStatic pressure\nAirflow\nStatic pressure\nAirflowPWM duty cycle 100%\nPWM duty cycle\nFan speed\nPWM duty cycleVoltage: 12 VDC\nPWM frequency: 25 kHz\nInlet\nOutlet12 VDCCounter Rotating Fan\n40×40×56  mm\nSan Ace 40  9CRV  type      \n˙General Specifications  \nɾ Material ʜʜʜʜʜʜʜʜʜʜʜʜʜʜʜʜ  Frame: Plastic (Flammability: UL 94V-0), Impeller: Plastic (Flammability: UL 94V-0)\nɾ Expected life ʜʜʜʜʜʜʜʜʜʜʜʜʜʜ  See the table below. (L10 life: 90% survival rate for continuous operation in free air at 60˚C, \nrated voltage)\nɾ Motor protection function ʜʜʜʜʜʜʜ  Locked rotor burnout protection, Reverse polarity protection \nFor details, please refer to p. 547.\nɾ Dielectric strength ʜʜʜʜʜʜʜʜʜʜʜ  50/60 Hz, 500 VAC, for 1 minute (between lead wire conductors and frame)\nɾ Insulation resistance ʜʜʜʜʜʜʜʜʜʜ  10 MΩ or more with a 500 VDC megger (between lead wire conductors and frame)\nɾ Sound pressure level (SPL) ʜʜʜʜʜʜ  At 1 m away from the air inlet\nɾ Storage temperature ʜʜʜʜʜʜʜʜʜ  -30 to +70˚C (Non-condensing)\nɾ Lead wire ʜʜʜʜʜʜʜʜʜʜʜʜʜʜʜ  Inlet  Red  Black  Sensor  Yellow  Control  Brown \nOutlet  Orange  Gray  Sensor  Purple  Control  White\nɾ Mass ʜʜʜʜʜʜʜʜʜʜʜʜʜʜʜʜʜʜ  100 g\n˙Specifications  \nThe models listed below have pulse sensors with PWM control function.\nPWM duty cycle Operating voltage range PWM duty - Speed characteristics example˙Airflow - Static Pressure Characteristics / PWM Duty - Speed Characteristics Example  \n9CRV0412P5J201  With pulse sensor with PWM control function\n2324-ø3.5±0.356±0.5\n(5) (5)    +30\n320    0\n(10)\n    +30\n320    0(10)40±0.3\n32±0.3\n40±0.332±0.34-ø3.5±0.3\n風吹出方向取付用穴\n取付用穴リード線\nAWG 28\nUL 1061\n回転方向 回転方向\n404-ø3.732±0.3\n(17 .6)\n(17 .6)\n32±0.3\n3939Rotating directionAirflow direction\nRotating directionLead wireInlet side Outlet side\nMounting hole\nMounting hole˙Dimensions (unit: mm)   \nInlet side, Outlet side˙Reference Dimensions of Mounting Holes and Vent Opening (unit: mm)   \n˙Options  \nFinger guards page: p. 532\nModel no.: 109-059, 109-059H\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Sanyo Denki:   \n\xa0 9CRV0412P5J201\n'}]
+!==============================================================================!
+### Component Summary: SANYO DENKI 9CRV0412P5J201
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - Rated Voltage: 12 V DC
+  - Operating Voltage Range: 10.8 V to 13.2 V
+- **Current Ratings**: 
+  - Rated Current: 1.8 A
+- **Power Consumption**: 
+  - Rated Input: 21.6 W
+- **Operating Temperature Range**: 
+  - -20 °C to +70 °C
+- **Package Type**: 
+  - Dimensions: 40 mm x 40 mm x 56 mm
+- **Special Features**: 
+  - Counter-rotating fan design
+  - PWM control with a duty cycle of 100%
+  - Motor protection features: Locked rotor burnout protection, Reverse polarity protection
+  - Dielectric strength: 500 VAC for 1 minute
+  - Insulation resistance: 10 MΩ or more
+- **Moisture Sensitive Level**: 
+  - Not specified in the provided text, but typically follows JEDEC J-STD-020E standards.
+  
+#### Description:
+The SANYO DENKI 9CRV0412P5J201 is a DC counter-rotating fan designed for efficient airflow and static pressure management. It operates at a rated voltage of 12 V DC and features a PWM control function, allowing for precise speed regulation. The fan is constructed with UL 94V-0 rated plastic materials for both the frame and impeller, ensuring durability and safety.
+
+#### Typical Applications:
+This component is typically used in applications requiring effective cooling and ventilation, such as:
+- **Data Centers**: For cooling servers and networking equipment.
+- **Industrial Equipment**: To maintain optimal operating temperatures in machinery.
+- **Consumer Electronics**: In devices that generate heat and require airflow for thermal management.
+- **Telecommunications**: For cooling telecom equipment and ensuring reliable operation.
+- **Automotive**: In electric vehicles and other automotive applications for battery cooling and HVAC systems.
+
+The 9CRV0412P5J201 is particularly suited for environments where space is limited, and high airflow with low noise levels is essential. Its PWM control capability allows for energy-efficient operation, making it a versatile choice for various cooling applications.

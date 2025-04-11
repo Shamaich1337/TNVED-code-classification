@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HFCN-880D+ production of MINI-CIRCUITS from the text:High Pass FilterCERAMIC\nHFCN-880D+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 1 OF 3 50Ω      950 to 3200 MHz\nREV. C\nECO-012088\nHFCN-880D+\nAD/CP/AM\n2202283. Passband rating, derate linearly to 3W at 100°C ambient.\nPermanent damage may occur if any of these limits are exceeded. 1. DC Resistance to ground is 100 Mohms min.\n2. Measured on Mini-Circuits Characterization Test Board TB-270.ELECTRICAL SPECIFICATIONS 1,2 AT 25°C\nParameter Frequency (MHz) Min. Typ. Max. Units\nStop BandRejection Loss500 40 — —\ndB\n640 20 — —\nFreq. Cut-Off 880 — 3.0 — dB\nVSWR 500-640 — 20 — :1\nPass BandInsertion Loss950-3200 — 2.0 — dB\n1060-2500 — — 1.3 dB\nVSWR 970-2400 — 1.5 — :1\nParameter Ratings\nOperating temperature -55°C to +100°C\nStorage temperature -55°C to +100°C\nRF Power Input37W max.at 25°C                  \nMax. DC Voltage at pins 1&3 25 VDCMAXIMUM RATINGS TYPICAL FREQUENCY RESPONSE\nFUNCTIONAL SCHEMATIC3dB20dB40dB\n coF F 1.3dB\nFREQUENCYATTENUATION \nRF IN RF OUTTHE BIG DEAL\n yLow cost\n ySmall size\n y7 sections\n yTemperature stable\n yLTCC construction\n yExcellent power handling, 7W\n yHermetically sealed\nAPPLICATIONS\n ySub-harmonic rejection\n yTransmitters/receivers\n yLab useCASE STYLE: FV1206\n+RoHS Compliant\nThe +Suffix identifies RoHS Compliance. See our web site \nfor RoHS Compliance methodologies and qualificationsGeneric photo used for illustration purposes only\n\nHigh Pass FilterCERAMIC\nHFCN-880D+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com www.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 2 OF 3PIN CONNECTIONS\nRF IN 1\nRF OUT 3\nGROUND 2,4\nDEMO BOARD MCL P/N: TB-270\nSUGGESTED PCB LAYOUT  (PL-137)PRODUCT MARKING: N/AOUTLINE DRAWING\nOUTLINE DIMENSIONS (Inches ) mmPCB Land Pattern \nSugges ted Layout, \nTolerance to be within ±.002  (ON TOP)\n (ON TOP)\nABCDE FG\n.126 .063 .037 .020 .032 .009 .169\n3.20 1.60 0.94 0.51 0.81 0.23 4.29\nH J K L M N P wt\n.087 .024 .122 .024 .087 .012 .071 grams\n2.21 0.61 3.10 0.61 2.21 0.30 1.80 .020\nTAPE & REEL INFORMATION: F71\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.com\nPAGE 3 OF 3\nNOTES\nA.Performance and quality attributes and conditions not expressly stated in this specification document are intended to be excluded and do not form a part of this specification document. \nB.Electrical specifications and performance data contained in this specification document are based on Mini-Circuit’s applicable established test performance criteria and measurement instructions. \nC.The parts covered by this specification document are subject to Mini-Circuits standard limited warranty and terms and conditions (collectively, “Standard Terms”); Purchasers of this part are entitled to the rights \nand benefits contained therein. For a full statement of the standard. Terms and the exclusive rights and remedies thereunder, please visit Mini-Circuits’ website at www.minicircuits.com/MCLStore/terms.jsp\nHigh Pass FilterCERAMIC\nHFCN-880D+\nwww.minicircuits.com     P .O. Box 350166, Brooklyn, NY 11235-0003    (718) 934-4500    sales@minicircuits.comFrequency \n(MHz)Insertion Loss\n(dB)VSWR\n:1\n1.00 82.28 868.59\n100.00 78.78 868.59\n500.00 45.84 56.04\n640.00 23.68 24.14\n750.00 10.22 8.68\n810.00 4.85 3.84\n880.00 1.97 1.83\n950.00 1.17 1.36\n970.00 1.06 1.32\n1060.00 0.83 1.26\n2400.00 0.52 1.46\n2500.00 0.60 1.58\n3200.00 1.42 2.62\n5000.00 5.12 7.87TYPICAL PERFORMANCE DATA AT 25°C\nHFCN-880D+\nINSERTION LOSS\n020406080100\n0 1000 2000 3000 4000 5000\nFREQUENCY (MHz)INSERTION LOSS (dB)HFCN-880D+\nVSWR\n1101001000\n0 1000 2000 3000 4000 5000\nFREQUENCY (MHz)VSWR\n'}]
+!==============================================================================!
+### Component Summary: HFCN-880D+
+
+**Description:**
+The HFCN-880D+ is a high-pass filter designed for RF applications. It is a ceramic filter that operates within a frequency range of 950 to 3200 MHz. The primary function of this component is to allow signals above a certain cutoff frequency (880 MHz) to pass while attenuating signals below this frequency, making it ideal for sub-harmonic rejection in various communication systems.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Max DC Voltage at pins 1 & 3: 25 VDC
+- **Current Ratings:**
+  - RF Power Input: 37W max at 25°C
+- **Power Consumption:**
+  - Power handling capability of 7W (derated to 3W at 100°C ambient)
+- **Operating Temperature Range:**
+  - -55°C to +100°C
+- **Storage Temperature Range:**
+  - -55°C to +100°C
+- **Package Type:**
+  - Case Style: FV1206
+- **Special Features:**
+  - Low cost
+  - Small size
+  - 7 sections for improved performance
+  - Temperature stable
+  - LTCC (Low-Temperature Co-fired Ceramic) construction
+  - Hermetically sealed
+  - RoHS compliant
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+**Typical Applications:**
+The HFCN-880D+ is commonly used in:
+- Transmitters and receivers for RF communication systems
+- Sub-harmonic rejection applications
+- Laboratory use for signal processing and testing
+- Any application requiring a reliable high-pass filtering solution in the specified frequency range.
+
+This component is particularly useful in environments where space is limited and where high power handling and temperature stability are critical.

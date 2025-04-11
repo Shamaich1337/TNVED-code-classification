@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ASFL1-50.000MHZ-EK-T production of ABRACON from the text:|||||||||| |||| | ASFL1 \nSTANDARD SPECIFICATIONS: \nOPTIONS AND PART IDENTIFICATION:  \n(Left blank if standard) APPLICATIONS: \n• CCD clock for VTR camera\n• Equipment connected to PC or PC cards\n• Thin equipment\n• Wireless communication\n• PDA, Laptop computerFEATURES: 5.0 x 3.2 x 1.3mm PbRoHS\nCompliant\n• Tri state function\n• Suitable for high density SMT• Available tight stability option +/-20ppm\n• Seam sealed package assures high reliability performance\n• Suitable for RoHS compliant reflow process\n3.3V HCMOS  /  TTL COMPATIBLE SMD \nCRYSTAL  CLOCK OSCILLATOR \n3033 2 E s p e ranza , R an c ho  S an t a Mar g ar it a ,  Ca lif o r n i a 9268 8 \ntel 949-546-8000 | f ax  949-546-800 1 |  ww w . abra c on .c o m Revised: 04.13.11 Visit www.abracon.com for Terms & Conditions of Sale \nCER TIFIEDABRACON IS \nCER TIFIED ABRACON IS \nISO9001:2008 \nCER TIFIED Paramete rs Minimum Typical Maximum Units  Notes  \n  zHM  33.331  -----  123.0  egnaR ycneuqerF\nOperating Temperature -10 ----- +70 °C See options \n  C°  521+  -----  55-  erutarepmeT egarotS\nOverall Frequency  Stabilit y -100 ----- +100 ppm See options  \nSupply Voltage  (Vdd ) 2.97 3.3 3.63 V  \nInput C urrent 0.321MHz ~ 29.9MHz ----- 8 15 \nmA  \n 30MHz ~ 79.9MHz -----   54  02\n80MHz ~ 133.33MHz -----   58  82\nSymmetry (@ 1/ 2Vdd) 40 50 60 % See opti ons \nRise and Fall \nTime (Tr/Tf)0.321MHz ~ 29.9MHz ----- 5 10 \nns\n 30MHz ~ 79.9MHz -----   7  5\n80MHz ~ 133.33MHz -----   7  3\nOutput L oad ----- ----- 15 pF  \n----- ----- 5 TTL  \nOutput  Voltage VOH  0.9*Vdd ----- ----- V\nVOL ----- ----- 0.1*Vdd V  \nTri-state  Function VIH 0.7*Vdd ----- ----- V"1" or Open: \nOscillation\nVIL ----- ----- 0.3*Vdd V "0": Ouput  disable  \n(Hi Z) \nDisable Current  10 µA  \nStart-up Time 0.321MHz ~ 29.9MHz ----- 1 10 \nms \n 30MHz ~ 79.9MHz -----   01  3\n80MHz ~ 133.33MHz -----   01  3\nPhase Jitter RMS (12kHz to 20MHz)  ----- ----- 1 ps Referen ce only.  \nPlease contact Abracon for \nspecific frequencies\n raey tsriF  C°52+@  mpp  0.5+  -----  0.5-  gnigA\nASFL1-  -               MHz -           -\nFreque ncy in MHz \ne.g. 24.576M Hz \n       14.3181 8MHz \n       26.000MHz Packaging  \nBlank: Bulk \nT:  1000pcs/re el \nT2: 250pcs/reel \nOpera ting Temp. \nI: 0°C ~ +50°C \nD: -10°C ~ +60°C \nE: -20°C ~ +70°C \nF: -30°C ~ +70°C \nN: -30°C ~ +85°C \nL: -40°C ~ +85°C Freq. Stability \nJ: ± 20 ppm(*) \nR: ± 25 ppm \nK: ± 30 ppm \nH: ± 35 ppm \nB: ± 40ppm  \nC: ± 50 ppm (*) Tem p option I, D, E and \n-10°C ~ +70 °C only.  Symmetry \nBlank: 40/60% @1/2Vdd \nS: 45/55% @1/2Vdd \n||||||||| ||||||\nOUTLINE DRAWING:\nASFL1 \n5.0 x 3.2 x 1.3mm3.3V HCMOS / TTL COMPATIBLE SMD \nCRYSTAL  CLOCK OSCILLATOR \n3033 2 E s p e ranza , R an c ho  S an t a Mar g ar it a ,  Ca lif o r n i a 9268 8 \ntel 949-546-8000 | f ax  949-546-800 1 |  ww w . abra c on .c o m Revised: 04.13.11 Visit www.abracon.com for Terms & Conditions of Sale \nCERTIFIEDABRACON IS \nCER TIFIED ABRACON IS \nISO9001:2008 \nCER TIFIED Dimensions: inches (mm)Pin Function \n1 Tri-State \n2 GND \n3 Output \n4 Vdd Note: Recommend using an \napproximately 0.01uF bypass  \ncapaci tor between PIN 2 and 4.  \nT= Tape and reel (1,000pcs/reel) \nT2= Tape and reel (250pcs/reel) Dimensions: mm \nATTENTION: Abracon Corporation’s products are COTS – Commercial-Off-The-Shelf products; suitable for Commercial, Industrial and, where designated, \nAutomotive Applications.  Abracon’s products are not specifically designed for Military, Aviation, Aerospace, Life-dependant Medical applications or any application \nrequiring high reliability where component failure could result in loss of life and/or property. For applications requiring high reliability and/or presenting an extreme \noperating environment, written consent and authorization from Abracon Corporation is required. Please contact Abracon Corporation for more information.TAPE & REEL: REFLOW PROFILE:PbRoHS\nCompliant\n'}]
+!==============================================================================!
+### Component Summary: ASFL1-50.000MHZ-EK-T
+
+**Description:**
+The ASFL1-50.000MHZ-EK-T is a surface-mount crystal clock oscillator produced by Abracon. It operates at a frequency of 50.000 MHz and is designed to be compatible with HCMOS and TTL logic levels. This component is primarily used for generating clock signals in various electronic applications.
+
+**Key Specifications:**
+- **Voltage Ratings:** 
+  - Supply Voltage (Vdd): 2.97 V (min), 3.3 V (typ), 3.63 V (max)
+  
+- **Current Ratings:**
+  - Input Current: 
+    - 0.321MHz ~ 29.9MHz: 8 mA (typ)
+    - 30MHz ~ 79.9MHz: 54 mA (typ)
+    - 80MHz ~ 133.33MHz: 58 mA (typ)
+
+- **Power Consumption:** 
+  - Varies with frequency; typical values provided above.
+
+- **Operating Temperature Range:** 
+  - -20°C to +70°C (for the specific variant EK-T)
+
+- **Package Type:** 
+  - 5.0 x 3.2 x 1.3 mm surface-mount package.
+
+- **Special Features:**
+  - Tri-state function.
+  - High-density SMT suitable.
+  - Tight frequency stability option of ±20 ppm.
+  - Seam-sealed package for high reliability.
+  - RoHS compliant for reflow processes.
+
+- **Moisture Sensitive Level (MSL):** 
+  - Not specified in the provided text, but typically follows JEDEC J-STD-020E standards.
+
+**Typical Applications:**
+- CCD clock for VTR cameras.
+- Equipment connected to PCs or PC cards.
+- Thin equipment designs.
+- Wireless communication devices.
+- Personal Digital Assistants (PDAs) and laptops.
+
+### Conclusion:
+The ASFL1-50.000MHZ-EK-T is a versatile crystal clock oscillator suitable for a variety of applications requiring precise timing signals. Its compact size, low power consumption, and compatibility with modern digital logic make it an ideal choice for high-density electronic designs.

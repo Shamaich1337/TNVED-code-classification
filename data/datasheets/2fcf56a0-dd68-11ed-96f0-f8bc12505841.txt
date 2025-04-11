@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of IH-FR230009 production of I-PEX CONNECTORS from the text:Confidential  B0For infra Test\nIH-FR190019\n81367CABLINER -CA\nHARNESS 40P\nCABLINE-CA\nHARNESS 40P\n81367※このコメントはブロックの一部なので消さないでください※\nこのブロックは全シートに必要です。\nこのブロックには、承認図面に必要なマクロが組込まれています。\n 100.0 ±5.0 POS.40\nPOS.1 POS.40POS.1\n④CABLE\nX CONNECTOR 1 CONNECTOR 2 1.50 MAX. \nBONDING\nAREA\nDETAIL X\n(S=5/1)\n 16.40 ±0.30  22.95 +\n-0.50\n0.20 \n 3.90 ±0.15 \n 5.73 +\n-0.50\n0.20 SOLDERING\n⑤BONDING②SHELL-A\n 0.88 ±0.10 \n⑤BONDING①HOUSING ASS'Y\n③PULL BAR\nSOLDERING INSULATION COAT\n ﾃｷｽﾄ入力はｺｺをﾀﾞﾌﾞﾙｸﾘｯｸTITLEについて\n \nユーザー定義プロパティにて「TITLE」と「図番」を入力すると、\nその内容は以下のブロックに表記されます。\n必要なほうを図面に配置してください。\n・Rマーク付\n・Rマーク無 NOTE.\n 1. TO HANDLE THIS CONNECTOR\n    YOU MUST READ AND FOLLOW THE INSTRUCTION MANUAL BELOW.\n     I-PEX INSTRUCTION MANUAL No.HIM-09008.CONNECTOR 1&2\n(S=5/1)\n5BONDING - - UV GLUE\n4 CABLE - 40 MICRO-COAXIAL AWG #40, 50 OHM, BLUE\n3PULL BAR 2766-0401 2 CONNECTOR 1&2\nCABLINER-CA PLUG P/N : 20633-340T-01S\nCONNECTOR TO BE MATED : 20525-240E-022 SHELL-A 2764-0401-003 2\n1HOUSING ASS'Y 20634-240T-02 2\nNO.DESCRIPTION PARTS NO. QTY REMARKSPIN ASSIGNMENT\nCONNECTOR 1 CABLE CONNECTOR 2\n1 MICRO-COAXIAL, AWG #40, 50 OHM, BLUE 40\n2 MICRO-COAXIAL, AWG #40, 50 OHM, BLUE 39\n･\n･\n･MICRO-COAXIAL, AWG #40, 50 OHM, BLUE･\n･\n･\n39 MICRO-COAXIAL, AWG #40, 50 OHM, BLUE 2\n40 MICRO-COAXIAL, AWG #40, 50 OHM, BLUE 1\nQKE-DFFDE06-02 REV.11 DAI-ICHI SEIKO CO., LTD.0Z191465 Nov./11/'19K.B\n1/1A3mm2:16 MAX.\nDWG.±2°\n±0.5 ±0.3 \n±0.2 \nCHK.\nAPP. DWG. No.DATETITLE\nAPP. BY REV.\n  REVISION RECORDECN DATEANGLE\n30 OVER 120 MAX.6 OVER 30 MAX.\nUNITPROJECTION SERIES No.\nSHEET REV.SCALE\nSIZECUSTOMER COPY\n2019/11/11 K.Baba\nR.Takei\nH.IkariGENERAL TOLERANCE.PART NO.\nIH-FR230009\n"}]
+!==============================================================================!
+### Component Summary for IH-FR230009 (I-PEX CONNECTORS)
+
+#### Key Specifications:
+- **Voltage Ratings:** Not specified in the provided text.
+- **Current Ratings:** Not specified in the provided text.
+- **Power Consumption:** Not specified in the provided text.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Not explicitly mentioned, but it is a connector type.
+- **Special Features or Notes:** 
+  - The connector is designed for micro-coaxial applications.
+  - It requires adherence to the I-PEX instruction manual (No. HIM-09008) for handling.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The IH-FR230009 is a micro-coaxial connector designed for high-frequency applications. It is part of the I-PEX CONNECTORS product line, which specializes in connectors for various electronic applications. This specific connector is intended for use with AWG #40, 50-ohm micro-coaxial cables, making it suitable for applications that require compact and efficient signal transmission.
+
+#### Typical Applications:
+- **Data Communication:** The connector is typically used in high-speed data transmission applications, such as in telecommunications and networking equipment.
+- **Consumer Electronics:** It can be found in devices that require compact connectors for signal integrity, such as cameras, smartphones, and other portable devices.
+- **Industrial Equipment:** The connector may also be utilized in industrial applications where space is limited, and reliable signal transmission is critical.
+
+### Conclusion:
+The IH-FR230009 connector is a specialized component designed for micro-coaxial applications, primarily focusing on high-frequency signal transmission. While specific electrical ratings and temperature ranges are not provided in the text, its design and intended use suggest it is suitable for various high-performance electronic applications.

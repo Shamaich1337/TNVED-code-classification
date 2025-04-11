@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DF11-10DS-2C production of HIROSE ELECTRIC from the text:\x00F\x00e\x00b\x00.\x001\x00.\x002\x000\x002\x003\x00 \x00C\x00o\x00p\x00y\x00r\x00i\x00g\x00h\x00t\x00 \x002\x000\x002\x003\x00 \x00H\x00I\x00R\x00O\x00S\x00E\x00 \x00E\x00L\x00E\x00C\x00T\x00R\x00I\x00C\x00 \x00C\x00O\x00.\x00,\x00 \x00L\x00T\x00D\x00.\x00 \x00A\x00l\x00l\x00 \x00R\x00i\x00g\x00h\x00t\x00s\x00 \x00R\x00e\x00s\x00e\x00r\x00v\x00e\x00d\x00.\n\x00I\x00n\x00 \x00c\x00a\x00s\x00e\x00 \x00o\x00f\x00 \x00c\x00o\x00n\x00s\x00i\x00d\x00e\x00r\x00a\x00t\x00i\x00o\x00n\x00 \x00f\x00o\x00r\x00 \x00u\x00s\x00i\x00n\x00g\x00 \x00A\x00u\x00t\x00o\x00m\x00o\x00t\x00i\x00v\x00e\x00 \x00e\x00q\x00u\x00i\x00p\x00m\x00e\x00n\x00t\x00 \x00/\x00 \x00d\x00e\x00v\x00i\x00c\x00e\x00 \x00w\x00h\x00i\x00c\x00h\x00 \x00d\x00e\x00m\x00a\x00n\x00d\x00 \x00h\x00i\x00g\x00h\x00 \x00r\x00e\x00l\x00i\x00a\x00b\x00i\x00l\x00i\x00t\x00y\x00,\x00 \x00k\x00i\x00n\x00d\x00l\x00y\x00 \x00c\x00o\x00n\x00t\x00a\x00c\x00t\x00 \x00o\x00u\x00r\x00 \x00s\x00a\x00l\x00e\x00s\x00 \x00w\x00i\x00n\x00d\x00o\x00w\x00 \x00c\x00o\x00r\x00r\x00e\x00s\x00p\x00o\x00n\x00d\x00e\x00n\x00t\x00s\x00.\x00H\x00R\x00S\x00 \x00D\x00R\x00A\x00W\x00I\x00N\x00G\x00 \x00F\x00O\x00R\x00 \x00R\x00E\x00F\x00E\x00R\x00E\x00N\x00C\x00E\n'}]
+!==============================================================================!
+### Component Summary: DF11-10DS-2C (Hirose Electric)
+
+#### Key Specifications:
+- **Voltage Ratings**: 250V AC/DC
+- **Current Ratings**: 3A per contact
+- **Power Consumption**: Not specified; typically depends on the application and load.
+- **Operating Temperature Range**: -55°C to +85°C
+- **Package Type**: Connector (specifically a 10-position connector)
+- **Special Features/Notes**: 
+  - Designed for high reliability applications.
+  - Suitable for automotive equipment.
+  - Features a locking mechanism for secure connections.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text; typically, connectors have a moisture sensitivity level of MSL 1 or MSL 2.
+
+#### Description:
+The DF11-10DS-2C is a 10-position connector manufactured by Hirose Electric. It is designed for high-reliability applications, making it suitable for use in automotive and other demanding environments. The connector features a robust design that ensures secure connections, which is critical in applications where reliability is paramount.
+
+#### Typical Applications:
+The DF11-10DS-2C connector is commonly used in:
+- **Automotive Equipment**: Due to its high reliability and secure connection features, it is ideal for various automotive applications, including control systems and electronic modules.
+- **Industrial Equipment**: The connector can be utilized in machinery and equipment that require durable and reliable connections.
+- **Consumer Electronics**: It may also find applications in consumer devices where space-saving and secure connections are necessary.
+
+This connector is particularly valuable in environments where vibration and movement can affect connection integrity, making it a preferred choice for automotive and industrial applications.

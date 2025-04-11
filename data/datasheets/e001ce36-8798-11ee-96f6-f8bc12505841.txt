@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of DT756 production of GIGAC TECHNOLOGY from the text:Copyright © Gigac Technology Co., Ltd.  GIGAC -70219 -A0 Page 1 of 4  \n \nDT756/DT756V  \nPlasti c Fiber Optic Transmitter Diode  \nPlastic Connector Housing  \nFeatures  \n\uf06c 2.2 mm Aperture holds Standard 1000 Micron \nPlastic  \n\uf06c No Fiber Stripping Required  \n\uf06c Good Linearity (Forward current > 2 mA)  \n\uf06c Molded Microlens for Efficient Coupling  \uf06c Operating Case Temperature ： \n-45℃~+85℃ \n\uf06c RoHS  2.0 compliance \n \nPlastic Connector Housing  \n\uf06c Mounting Screw Attached to the Connector  \n\uf06c Interference  Free Transmission  from  light -Tight  \n\uf06c Housing  \n\uf06c Transmitter and Receiver can be flex ibly positioned  \n\uf06c No Cross Talk  \n\uf06c Auto insertable and Wave solderable  \n\uf06c Supplied in Tubes  \n \nApplications  \n\uf06c Household Electronics  \n\uf06c Power Electronics  \n\uf06c Optical Networks  \n\uf06c Light Barriers  \n \nDescription  \nThe GIGAC's DT756/DT756V  is a low -cost transmitter for simple optical  data transmission with polymer \noptical fiber. The 650nm  LED allows for speeds up to 10MBd.  \nThe trans parent plastic package has an aperture where  the the 2.2mm fiber -end can be inserted and fixed \nwith glue. This easy coupling method is extremely cost -effective.  \nThe V -housing allows easy coupling of unconnectorized  2.2mm plastic optical fiber by means of an axial \nlocking  screw.  \n \nOrder Information  \nTable 1  Order Information  \nPart Number  Data Rate  Wavelength  Temp.(1) \nDT756  DC~ 10Mbps  660nm -45℃~+85℃ \n (1): Case Temperature  \nCopyright © Gigac Technology Co., Ltd.  GIGAC -70219 -A0 Page 2 of 4  \n \nAbsolute Maximum Ratings  \nTable 2  Absolute Maximum Ratings  \nParameter  Symbol     Min.         Typ.      Max.    Unit \nReverse Voltage  Vr - - 3 V \nStorage Temperature  Tstg -45 - 100 ℃ \nJunction Temperature  Tj - - 100 ℃ \nForward Current  If - - 50 mA \nRelative Humidity, Storage  RH 5 - 95 % \nSoldering  Temperature  Ts - - 260 ℃ \nSoldering  Time  tS - - 5 S \nThermal  Resistance,  Junction/Air  Rth - - 450 K/W \nPower Dissipation  Pd - - 120 mW \nOperating Case Temperature  Top -45 - 85 ℃ \n*Exceeding any one of these values may destroy the device immediately.  \n \nCharacteristics  (TA=25℃) \nTable 3  Characteristics  \nParameter  Symbol  Min Type  Max  Units  Notes  \nPeak Wavelength  λpeak  610 660 710 nm  \nSpectral Bandwidth  Δ λ - 25 50 nm  \nSwitching Times (RG=50Ω, \nIF(L) =0.1mA, I F(H)=50mA) 10% to 90%  tR - 100 - ns  \n90% to 10%  tF - 100 - ns  \nCapacitance (f  = 1MHz, V R=0V) C0 - 30 - pF  \nForward Voltage (I F=50mA) VF - 2.1 2.8 V  \nOutput Power Coupled Into Plastic Fiber   ΦIn 100 200 - μW 1 \nTemperature Coefficient  ΦIn TCΦ - -0.4 - %/K  \nTemperature Coefficient V F TCV - -3 - mV/K   \nTemperature Coefficient λ Peak TCλ - 0.16 - nm/K  \nNote 1: IF=10mA. The output power coupled into plastic fiber is measured with a large area detector after a short fiber \n(about 30 cm). This value must not used for  calculating the power budget for a fiber optic system with a long fiber because \nthe numerical aperture of plastics fibers is decreasing on the first  meters. Therefore the fiber seems to have compared with \nthe specified value a higher attenuation on the fir st meters . \n \n \n\nCopyright © Gigac Technology Co., Ltd.  GIGAC -70219 -A0 Page 3 of 4  \n \n \n \n \n \n \n \n  \n\nCopyright © Gigac Technology Co., Ltd.  GIGAC -70219 -A0 Page 4 of 4  \n \nPackage  Outlines  \n \n \n \n \nNotice  \nGigac  reserves the right to make changes to or discontinue any optical link product or service identified in this \npublication, without notice,  in order to improve design and  performance. Applications that are described herein for \nany of the optical link product s are for illustrative purposes only. Gigac makes no representation or warranty that \nsuch applications will be suitable for the specified use without further testing or modification.  \n \nRevision History  \nVersion  Initiated  Reviewed  Revision History  Release Da te \nA0 Fei.Han Sean.Lin  Initialization  2019-08-12 \n \nContact  \nAdd: Area 3 -502, Haolang technology Park,  \nNO.2666, Konggang Four Road, Shuangliu district, 610207 Chengdu, China  \nTel: (+86) 028 -85124518  \nFax: (+86) 028 -85154518  \nPostal: 610207  \nE-mail: sales@gigac.com  \nWebsite: http://www.gigac.com  \n\n"}]
+!==============================================================================!
+### Component Summary: DT756/DT756V
+
+**Description:**
+The DT756/DT756V is a low-cost plastic fiber optic transmitter diode designed for simple optical data transmission using polymer optical fiber. It features a 650nm LED that supports data rates of up to 10 Mbps. The device is housed in a transparent plastic package with a 2.2mm aperture for easy coupling of unconnectorized plastic optical fiber, secured with an axial locking screw.
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Reverse Voltage (Vr): Max 3 V
+  - Forward Voltage (VF) at If=50mA: 2.1 to 2.8 V
+
+- **Current Ratings:**
+  - Forward Current (If): Max 50 mA
+
+- **Power Consumption:**
+  - Power Dissipation (Pd): Max 120 mW
+
+- **Operating Temperature Range:**
+  - Operating Case Temperature (Top): -45°C to +85°C
+  - Storage Temperature (Tstg): -45°C to +100°C
+  - Junction Temperature (Tj): Max 100°C
+
+- **Package Type:**
+  - Plastic Connector Housing
+
+- **Special Features:**
+  - Good linearity with forward current > 2 mA
+  - Molded microlens for efficient coupling
+  - Interference-free transmission with light-tight housing
+  - Auto insertable and wave solderable
+  - RoHS 2.0 compliance
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+**Typical Applications:**
+The DT756/DT756V is suitable for various applications, including:
+- Household electronics
+- Power electronics
+- Optical networks
+- Light barriers
+
+This component is particularly useful in systems requiring efficient and cost-effective optical data transmission, making it ideal for consumer electronics and industrial applications where optical communication is needed.

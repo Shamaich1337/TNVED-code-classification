@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TBG-20400-3K-90 production of TALENT MICROWAVE from the text:© 2014 Talent MicrowaveSuzhou Talent Microwave Inc.\nsales@TalentMW.com\nwww.TalentMW.com  \n外形尺寸 OutlineDrawing:90 Degree 3dB Bridge \n工作频率 Frequency Range: 2-40GHz\n耦合度Coupling :                       3dB\n插入损耗 Insertion Loss:   2.2db typ, 2.5db max\n隔离度Isolation:                 12db typ,  10db min\n驻波VSWR: 1.5 typ, 1.8 max\n幅度平衡 Amplitude Balance: ±1.4dB max \n相位平衡 Phase Balance:  ≤ ±14 degree\n耐功率Power Handling: 20 Watt   \n阻抗Impedance: 50 OHMS\nPart No.: TBG-20400-3k-90\n温度范围 Temperature Range:        -45 °C -+85°C\n接口Connectors:                                2.92-Female\n相对湿度 Relative Humidity:            0 ~ 90%\n电气特性 Electrical:\n机械特性 Mechanical:\nUnit: mm\n2-2.3[0.09]\nTHRU\n11 [0.43]37[1.46]\n18 [0.71]13 [0.51]\n18.5 [0.73]5.5 [0.22]23.6 [0.93]\nTyp\nIN1 IN2\nOUT1 OUT2\nSuzhou Talent Microwave Inc.\nsales@TalentMW.com\nwww.TalentMW.com  \n© 2014 Talent Microwave\n\n'}]
+!==============================================================================!
+### Component Summary for TBG-20400-3K-90
+
+**Component Type:** 3dB Power Divider/Combiner (90 Degree Bridge)
+
+**Description:**
+The TBG-20400-3K-90 is a 3dB bridge power divider/combiner designed for RF applications. It operates within a frequency range of 2 to 40 GHz and is used to split or combine RF signals with minimal loss and good isolation. This component is particularly useful in applications requiring signal distribution or combining, such as in communication systems and radar technology.
+
+### Key Specifications:
+- **Voltage Ratings:** Not specified (typically RF components do not have voltage ratings in the same way as DC components)
+- **Current Ratings:** Not specified (current handling is typically related to power handling)
+- **Power Consumption:** Not applicable (passive component)
+- **Power Handling:** 20 Watts
+- **Operating Temperature Range:** -45 °C to +85 °C
+- **Package Type:** Not explicitly stated, but typically in a compact RF package
+- **Special Features:**
+  - Coupling: 3dB
+  - Insertion Loss: 2.2 dB typical, 2.5 dB maximum
+  - Isolation: 12 dB typical, 10 dB minimum
+  - VSWR: 1.5 typical, 1.8 maximum
+  - Amplitude Balance: ±1.4 dB maximum
+  - Phase Balance: ≤ ±14 degrees
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data
+
+### Typical Applications:
+- **Communication Systems:** Used in RF signal distribution for transmitters and receivers.
+- **Radar Systems:** Employed in radar applications for signal combining and splitting.
+- **Test Equipment:** Utilized in laboratory setups for testing RF components and systems.
+- **Broadcasting:** Applied in broadcasting systems for signal management.
+
+This component is ideal for engineers and designers working in high-frequency applications where signal integrity and minimal loss are critical.

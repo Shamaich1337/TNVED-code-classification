@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MKPC104D1000Z15K040 production of RUVA CAPACITORS from the text:Page ：1／5Film Capacitor \nMetallizedPolypropyleneFilmCapacitors （MKPC ）\nSeries/Type: MKPC \nOrdering code: MKPC104D1000Z15K040\nDate: 2022.12.22 \nVersion: A\nNingguoYuhuaElectricCo.,Ltd \nAddress:No.31ZhenningRoad,NingguoCity,AnhuiProvince \nFax:+86-563-4012888Phone:+86-563-4183768 Http://www. ngyh.com \nFilmCapacitor MKPC104D1000Z15K040\nMetallizedpolypropyleneFilmCapacitor MKPCseries \nPage:2／5Recommended applications \n\x01Highfrequency,DC,ACandpulsecircuits \n\x02Construction \n\x01Dielectric:Polypropylene(MKP)\n\x01PBTcase(UL94V-0)\n\x01Epoxyresinsealing(UL94V-0)\n\x02Features \n\x01Lowlossathighfrequency,compact\n\x01Goodself-healingproperties \n\x01smallinherenttemperaturerise \n\x01Excellentflameretardantability \n\x01Highreliability \n\x01Longusefullife \n\x01RoHS-compatible \n\x02Climatic \n\x01Climaticcategory \n\x02Terminals \n\x01Parallelwireleads,lead-freetinned \n\x012-pin \nFilmCapacitor MKPC104D1000Z15K040\nMetallizedpolypropyleneFilmCapacitor MKPCseries \nPage:3／5\x02Parameters and specifications \nC\n（uF ）W\n±1.0 H\n±1.0 T\n±1.0 P\n±0.5 d\n±0.05 C\n±0.5 Part number \n0.10 18.0 16.0 10.0 15.0 0.8 4.0 MKPC104D1000Z15K040\n\x02Technical data Markcontent\nReferencestandard IEC60384-16 、GB/T10190 \nClimaticcategory 40/105/56 \nOperatingtemperaturerange -40 ℃~105 ℃\n（+85 ℃to+105 ℃；decreasingfactor1.25%per ℃toUR\nRatedcapacity 0.10µF\nCapacitancetolerance ±5%(K),±10%(K)(20 ℃,1kHz)\nRatedvoltage （VR） 1000vdc \nRatedvoltage （VRMS ） 250vac \nDissipationFactor tgδ≤0.0010(1kHz)\nInsulationResistance CR≤0.33µF，IR≥100000MΩ\nCR＞0.33µF，τ≥15000s(20 ℃,100V,1min)\nWithstandVoltage 1.6UR，5s\x02Outline Drawing \nMKPC \n0.1µFK1000VDC \n40/105/56 L1215001 \n\nFilmCapacitor MKPC104D1000Z15K040\nMetallizedpolypropyleneFilmCapacitor MKPCseries \nPage:4／5\x02Part Number Code System:\n1.Seriescode:MKPC \n2.Ratedcapacitancevalue: (Forexample105=10*10 5pF=1.0uF)\n3.Voltagetype: A:RatedACvoltage D:RatedDCvoltage \n4.Ratedvoltage: (Forexample1200=1200V,0850=850V)\n5.Leaddiameter: (Z=Φ0.8mmH=Φ1.0mmE=Φ1.2mm)\n6.Leadpitch \n2pins 15=15mm 22=22.5mm 27=27.5mm 30=30.5mm 32=32.5mm \n37=37.5mm 52=52.5mm \n4pins 2C=27.5mm （P2=10.2 ）3C=37.5mm(P2=20.3) 5C=52.5mm （P2=20.3 ）\n7.Capacitancetolerance: (J=±5% K=±10%)\n8.Leadlength \n040=4.0mm 050=5.0mm 100=10.0mm Rx=Specialcustomization \n\x02Test Method And Performance \nNo. Item Performance Testmethod \n1Biasedhumidity \ntestNovisibledamage \n︱△C/C 0︱≤5.0% 1kHz \n∆tanδ≤0.004(C≤1µF ，10kHz)；\n∆tanδ≤0.004(C ＞1µF，1kHz)；\nInsulationresistanceRins ≥50%of\ninitiallimit\n|∆C/C 0|≤5.0%；\n∆tanδ≤0.004(C≤1µF ，10kHz)；\n∆tanδ≤0.004(C ＞1µF，1kHz)；\nRins ≥(50%ofstandardvalue Testtemperature ：60 ±3℃\nTesthumidity ：95 ±3%RH \nTestvoltage ：1.0VR\nDurationtime ：1000hours \n2 Endurance ∆C/C0≤5%(relativetotheinitialvalue)\n∆tanδ≤0.004(C≤1µF ，10kHz)；\n∆tanδ≤0.004(C ＞1µF，1kHz)；\nIR≥50%ofstandardvalue Temperature ；85±2℃\nTestvoltage ；1.25 ×VR\nDuration ；1000hours \n\nFilmCapacitor MKPC104D1000Z15K040\nMetallizedpolypropyleneFilmCapacitor MKPCseries \nPage:5／5\x02Marking: \nForexample ：\n\x02Packing Mark: \nForexample ：\n\x02 Packing \nThepartnumber,quantity,dateofmanufacture,manufacturer andfactoryinspectionstamp \nare \nindicatedonthepackingbox;\nDifferentbatchesofthesameproductshallnotbeplacedinthesame box6.2 ；\nAfterthearrivalofthegoodsthecustomerside,packingsealsshould beintact,thebox \nwithout\ndamage,cracksandotherphenomena;\nThecapacitorisfixedwithaplasticfoamboardandshouldbeshockpr oofandshockproof.\n\x02 Storage conditions \nTheproductcannotbeexposedtohightemperatureandhighhumid ity,andmustbestored \ninthefollowingenvironmentalrequirements \n1)Temperaturerange:-25 ℃～80 ℃\n2)Relativehumidity:≤85%RH \n3)AvoiddirectsunlightMKPC\n1µF K 250VDC \n40/105/56 L1215001 \nSymbol符号 Description Symbol Description \nBrand MKPC Specification \n1µF K Ratedcapacitanceandtolerance 250VDC Ratedvoltage \n40/105/56 Climaticcategory L1215001 Productiondate \nMaterialidentificationcard \nCustomername /\nMaterialname Metallizedpolypropylenefilmcapacitor\nProductcode MKPC105P0250HZ15K050 \nSpecifications MKPC-250V-1µF\nCustomerP/N /\nQuantity/unit 2000PCS \nMakedate 2022.03 BatchNo N0331001 \nsupplier NingguoYuhuaElectricalProductsCo.,Ltd.\nTelephone ：0563-4030766 Fax ：0563-4012888 \n'}]
+!==============================================================================!
+### Component Summary: MKPC104D1000Z15K040
+
+**Component Type:**  
+Metallized Polypropylene Film Capacitor
+
+**Manufacturer:**  
+Ningguo Yuhua Electric Co., Ltd.
+
+---
+
+### Key Specifications:
+
+- **Rated Capacitance:** 0.10 µF
+- **Rated Voltage (DC):** 1000 VDC
+- **Rated Voltage (AC RMS):** 250 VAC
+- **Capacitance Tolerance:** ±5% (K), ±10% (M)
+- **Dissipation Factor (tgδ):** ≤ 0.0010 at 1 kHz
+- **Insulation Resistance:** 
+  - For CR ≤ 0.33 µF: IR ≥ 100,000 MΩ
+  - For CR > 0.33 µF: τ ≥ 15,000 s (20 °C, 100 V, 1 min)
+- **Withstand Voltage:** 1.6 UR for 5 seconds
+- **Operating Temperature Range:** -40 °C to +105 °C
+- **Climatic Category:** 40/105/56
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text
+- **Package Type:** 2-pin, lead-free tinned parallel wire leads
+- **Power Consumption:** Not applicable for capacitors
+
+---
+
+### Description:
+
+The MKPC104D1000Z15K040 is a metallized polypropylene film capacitor designed for high-frequency, DC, AC, and pulse circuits. It features a low-loss characteristic at high frequencies, compact size, and good self-healing properties, making it suitable for various electronic applications. The capacitor is housed in a flame-retardant PBT case and is sealed with epoxy resin, ensuring high reliability and a long operational life.
+
+---
+
+### Typical Applications:
+
+- **High-Frequency Circuits:** Ideal for applications requiring stable performance at high frequencies.
+- **Power Management:** Used in power supply circuits for filtering and energy storage.
+- **Signal Processing:** Suitable for coupling and decoupling applications in audio and RF circuits.
+- **Consumer Electronics:** Commonly found in devices that require reliable capacitive components for signal integrity and power stability.
+
+---
+
+This summary provides a comprehensive overview of the MKPC104D1000Z15K040 capacitor, highlighting its key specifications, description, and typical applications in electronic circuits.

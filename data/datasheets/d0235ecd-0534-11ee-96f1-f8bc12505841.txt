@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TBG-0510-3S-90 production of TALENT MICROWAVE from the text:© 2014 Talent MicrowaveSuzhou Talent Microwave Inc.\nsales@TalentMW.com\nwww.TalentMW.com  \n外形尺寸 Outline Drawing :90 Degree 3dB Bridge \n工作频率 Frequency Range: 0.5-1GHz\n耦合度 Coupling :                       3dB\n插入损耗 Insertion Loss:   0.2db typ, 0.3db max\n隔离度 Isolation:                 22db typ,  20db min\n驻波 VSWR: 1.15 typ, 1.2 max\n幅度平衡 Amplitude Balance: ±0.4dB max \n相位平衡 Phase Balance:  ≤ ±4 degree\n耐功率 Power Handling: 50 Watt   \n阻抗 Impedance: 50 OHMSPart No.: TBG -0510 -3S-90\n温度范围 Temperature Range:        -45°C -+85°C\n接口 Connectors:                                SMA -Female\n相对湿度 Relative Humidity:            0 ~ 90%电气特性 Electrical :\n机械特性 Mechanical :\nUnit: mm\n84.5 [3.33]71.5 [2.81]\n11 [0.43]5.5 [0.22]13 [0.51]\n9 [0.35]2-2.3 [0.09]\n    THRU\nOUT2IN2 IN1\nOUT1\n© 2014 Talent MicrowaveSuzhou Talent Microwave Inc.\nsales@TalentMW.com\nwww.TalentMW.com  \n\n'}]
+!==============================================================================!
+### Component Summary: TBG-0510-3S-90
+
+**Description:**
+The TBG-0510-3S-90 is a 3dB hybrid coupler designed for RF applications. It operates within a frequency range of 0.5 to 1 GHz and is used to split or combine RF signals with minimal loss. The component features SMA female connectors for easy integration into RF systems.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not specified (typically RF components do not have voltage ratings in the same way as DC components).
+- **Current Ratings:** Not specified (current handling is generally related to power handling).
+- **Power Consumption:** Power handling capability of 50 Watts.
+- **Operating Temperature Range:** -45°C to +85°C.
+- **Package Type:** Not explicitly stated, but typically in a compact form factor suitable for RF applications.
+- **Special Features or Notes:**
+  - Coupling: 3dB
+  - Insertion Loss: 0.2 dB typical, 0.3 dB maximum
+  - Isolation: 22 dB typical, 20 dB minimum
+  - VSWR: 1.15 typical, 1.2 maximum
+  - Amplitude Balance: ±0.4 dB maximum
+  - Phase Balance: ≤ ±4 degrees
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified.
+
+**Typical Applications:**
+The TBG-0510-3S-90 is commonly used in various RF applications, including:
+- Signal splitting and combining in communication systems.
+- Power management in RF circuits.
+- Signal processing in wireless communication devices.
+- Applications requiring precise amplitude and phase balance, such as in antenna systems and radar.
+
+This component is ideal for engineers and designers working in telecommunications, broadcasting, and other RF-related fields, where efficient signal handling is crucial.

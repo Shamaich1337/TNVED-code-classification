@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CRF-999/27-P254-99-M025 production of E-TEC from the text:Female Crimp Contact\nfor 2.54mm pitch\n"P"-Type  female Housing SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.40Cherry\nKent\nSH23.12.2022\n23.12.202223.12.2022CRF-999/27-P254\nCRF-999/27-P254-xx-M0252/2\nAA New 23.12.2022 Cherry\nSpecifications\nElectrical\nCurrent rating: 3.0A\nContact resistance: 20m Ω max.\nVoltage rating: 50V DC\nWithstanding voltage: 1500V AC / MinuteMaterial\nContact: Brass\nPlating: Sn over Ni\nOperating temperat ure: -40°C to +105°C\nAccepts AWG #22 ~ #28 Wire Range\nPacking\nReel: 10,000 pcs/reelRoHS\ncompliantload in housing:   CRF-1xx-P254/xOrder Code\nCRF-999/27-P254-99-M0251.80\n1.702.10\n2.10\n3.100.201.40\n2.404.70\n3.15 ±0.250.709.30A-A B-B\n1.24 ±0.25A\nABB\n5.30∅2.00\n'}]
+!==============================================================================!
+### Component Summary: CRF-999/27-P254-99-M025
+
+**Component Type:** Female Crimp Contact  
+**Pitch:** 2.54mm  
+**Manufacturer:** E-TEC  
+
+#### Key Specifications:
+- **Current Rating:** 3.0 A
+- **Voltage Rating:** 50 V DC
+- **Withstanding Voltage:** 1500 V AC for 1 minute
+- **Contact Resistance:** 20 mΩ max
+- **Operating Temperature Range:** -40°C to +105°C
+- **Wire Range:** Accepts AWG #22 to #28
+- **Material:**
+  - **Contact:** Brass
+  - **Plating:** Tin (Sn) over Nickel (Ni)
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+- **Packaging:** Supplied in reels of 10,000 pcs/reel
+- **RoHS Compliance:** Yes
+
+#### Description:
+The CRF-999/27-P254-99-M025 is a female crimp contact designed for use with a 2.54mm pitch connector system. It is primarily used to create reliable electrical connections in various applications by crimping onto wires of specified gauge sizes. The contact is made from brass and features a tin over nickel plating, which enhances its conductivity and resistance to corrosion.
+
+#### Typical Applications:
+This component is typically used in:
+- **Power Management:** Connecting power supplies to circuit boards or other components.
+- **Signal Processing:** Establishing connections in signal transmission applications.
+- **Consumer Electronics:** Used in various electronic devices where compact and reliable connections are required.
+- **Industrial Equipment:** Suitable for use in machinery and equipment that require durable electrical connections.
+
+The CRF-999/27-P254-99-M025 is ideal for applications where space is limited, and reliable electrical performance is critical.

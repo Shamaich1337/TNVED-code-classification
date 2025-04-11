@@ -1,0 +1,64 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 1GLK730D1300-01 production of BM-CAPACITOR from the text: \n \n \nRevision: 7-Feb-2018                          Page 1 of 4                      Document number:  HW17072  \n \nSPECIFICATION FOR APPROVAL   \n \nFilm Capacitor for DC-Link Application \n \n  \nCustomer Code :      \nSeries / Type： DKMJ-C  300 μF ±10%  1300VDC \nOrdering code : 1GLK730D1300-01  \nCustomer ’s P/N:       \nDate： 7-Feb-2018 \n \n     \n \n                                                                              \n  \n \nMANUFACTURER INFORMATION: \nName: FENGMING ELECTRONIC TECH. CO., LTD. \nAddress：No.1,Longle road, Huanglong village, Beijiao town, Shunde district, Foshan, Guangdong,    \n528311,P.R. China  \nWeb site: www.bm-cap.com        \nTel: +86-757-223602928    Fax: +86-757-23608828 \nEmail: powerelectech @bm-cap.com \n                 FENGMING ELECTRONIC TECH. CO., LTD.  APPROVED BY  \nPrepared  Checked  Approved  \nMing He \n7-Feb-2018 Zhanteng Cheng \n7-Feb-2018 Felix Wu \n7-Feb-2018  \n \n \n \n DKMJ-C \n                                                          1GLK730D1300-01  \n \nRevision: 7-Feb-2018                          Page 2 of 4                      Document number:  HW17072  \n \nn OUTLINE DRAWING(mm)   \n   plastic\nM  \nH≥10mm\nØD\nM12×16 Ø12 SpacersH±1\n2±0.5\nP±0.5Ø14H2±1\n25\nM12 The six outer hexagon nut\n  MARK\nDKMJ-C\n300μF±10%\nUN       1300V   DC  \nterminal torque max.5NmSH\nMAX 85℃ R\nE215893 Tracking Number1GLK730D1300-01\n \n \nn APPLICATIONS  \nWidely used in different kinds of electronic equipment DC link part for DC support,energy storage and \nfilter. \nn FEATURES  \nl Metallized film, non-inductive structure \nl Self-healing property \nl High ripple current handling capabilities \nl Low ESR, Low ESL \nl Long lifetime \nn SAFETY APPROVALS  \n \n \n \n \n  CN (μF) UN (VDC) ΦD (mm)  H (mm) H2 (mm)  P (mm) M \n300 1300 86 155 160 32 2-M6 \n \nUL UL810,Voltage Limits: MAX 4000VDC, 85 ℃ \nCertificate No: E215893 R\nE215893\n DKMJ-C \n                                                          1GLK730D1300-01  \n \nRevision: 7-Feb-2018                          Page 3 of 4                      Document number:  HW17072  \n \nn TEST CONDITIONS  \nEnvironment Temperature:  T = +20 °C ± 10 °C \nEnvironment Humidity:     RH ≤ 65% \n \nn QUICK REFERENCE DATA  \nReference standard  IEC 61071 \nRated capacitance   CN 300 μF \nRated voltage      UN 1300 VDC \nOperating Temperature Range  -40℃ to 85℃(Θhotspot≤85℃) \nStorage temperature range  -40℃ to 85℃ \nCapacitance tolerance  ±10% (1kHz) \nTangent of loss angle tgδ ≤ 0.0015 (100Hz)  \nTest voltage between terminals   Ut-t 1.5 x Un for 10s \nTest voltage between terminal and case Ut-c 4000 VAC for 60s  \nMax ripple current IRMS 60 A @ 60℃（hotspot） \n40 A @ 75℃（hotspot） \nMaximum peak current Ipeak 4 kA \nMaximum surge current ÎS 12 kA \nVoltage rise time dv/dt 13 V/μS \nEquivalent series resistance ESR\n（typ） 2.5 mΩ（1kHz） \nSelf inductance LS 40 nH \nThermal resistance Rth 4.4 k/W (Natural cooling) \nRated energy                      Wn 253 Ws \nInsulation resistance I.R. IR×Cn≥5000s (100VDC 60s) \nCreepage distance  30 mm \nClearance  17.5 mm \n1.1 x Un 30% of on-load-dur \n1.15 x Un 30 min / day  \n1.2 x Un 5 min / day  \n1.3 x Un 1min / day  Over voltage \n1.5 x Un for 100ms every time,1,000 times during \nthe life of the capacitor  \nMax.Torque of terminals  5 Nm \nMax.Torque of lnstallation  10 Nm \n \n \n \n \n \n \n \n \n \n DKMJ-C \n                                                          1GLK730D1300-01  \n \nRevision: 7-Feb-2018                          Page 4 of 4                      Document number:  HW17072  \n \nn CHARACTERISTICS  \n                    \n \n                         \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nIMPORTANT NOTES \nSome parts of this publication contain statements about the suitability of our products for certain areas of application. \nThese statements are based on our knowledge of typical requirements that are often placed on our products in the \nareas of application concerned. We nevertheless expressly point out that such statements cannot be regarded as \nbinding statements about the suitability of our products for a particular customer application. As a rule, BM is either \nunfamiliar with individual customer applications or less familiar with them than the customers themselves. For these \nreasons, it is always ultimately incumbent on the customer to check and decide whether an BM product with the \nproperties described in the product specification is suitable for use in a particular customer application. \nIn individual cases, a malfunction of electronic components or failure before the end of their usual service life cannot be \ncompletely ruled out in the current state of the art, even if they are operated as specified. In customer applications \nrequiring a very high level of operational safety and especially in customer applications in which the malfunction or \nfailure of an electronic component could endanger human life or health (e.g. in accident prevention or lifesaving \nsystems), it must therefore be ensured by means of suitable design of the customer application or other action taken \nby the customer (e.g. installation of protective circuitry or redundancy) that no injury or damage is sustained by third \nparties in the event of malfunction or failure of an electronic component.  0.8 0.9 1.0 1.1 1.2 1.3 1.4Expected lifetime (h)\nWorking/Rated Voltage Ratio(Uw/Un)103104105106\nExpected Lifetime(h)\n        (typical)70℃ 50℃\n85℃60℃\n20 30 40 50 60 70 80 90\nhotspot(℃)00.20.40.60.81.01.21.4operational/Imax (A)\n           Maximum Irms current\nin function of the hotspot temperature-6-5-4-3-2-101234\n-60 -40 -20 0 20 40 60 80 100 120△C/C (%)\nTamb (℃)\nCapacitance\n   (typical)\n103104105RC (s)\n0 20 40 60 80 100\nTamb (℃)\nInsulation Resistance\n          (typical)hotspot temperature\n'}]
+!==============================================================================!
+### Component Summary for 1GLK730D1300-01
+
+**Manufacturer Information:**
+- **Name:** FENGMING ELECTRONIC TECH. CO., LTD.
+- **Address:** No.1, Longle road, Huanglong village, Beijiao town, Shunde district, Foshan, Guangdong, 528311, P.R. China
+- **Website:** www.bm-cap.com
+
+**Component Type:** Film Capacitor  
+**Series/Type:** DKMJ-C  
+**Ordering Code:** 1GLK730D1300-01  
+
+---
+
+### Key Specifications:
+
+- **Voltage Ratings:**
+  - Rated Voltage (UN): 1300 VDC
+  - Maximum Voltage Limits: 4000 VDC (UL approved)
+
+- **Current Ratings:**
+  - Max Ripple Current (IRMS): 
+    - 60 A @ 60°C (hotspot)
+    - 40 A @ 75°C (hotspot)
+  - Maximum Peak Current (Ipeak): 4 kA
+  - Maximum Surge Current (IS): 12 kA
+
+- **Power Consumption:**
+  - Rated Energy (Wn): 253 Ws
+
+- **Operating Temperature Range:**
+  - -40°C to 85°C (Θhotspot ≤ 85°C)
+
+- **Package Type:**
+  - Dimensions: 
+    - Diameter (ΦD): 86 mm
+    - Height (H): 155 mm
+    - Height (H2): 160 mm
+    - Pitch (P): 32 mm
+
+- **Special Features:**
+  - Metallized film, non-inductive structure
+  - Self-healing property
+  - High ripple current handling capabilities
+  - Low Equivalent Series Resistance (ESR): 2.5 mΩ (typ at 1kHz)
+  - Low Equivalent Series Inductance (ESL): 40 nH
+  - Long lifetime
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided data.
+
+---
+
+### Description:
+The **1GLK730D1300-01** is a **film capacitor** designed for DC-Link applications. It features a capacitance of **300 μF** with a tolerance of ±10%. This capacitor is built with a metallized film and has a non-inductive structure, which enhances its performance in energy storage and filtering applications.
+
+### Typical Applications:
+This capacitor is widely used in various electronic equipment, particularly in:
+- **DC link parts** for DC support
+- **Energy storage** systems
+- **Filtering** applications in power electronics
+
+The capacitor's high ripple current handling capabilities and self-healing properties make it suitable for demanding applications where reliability and performance are critical.

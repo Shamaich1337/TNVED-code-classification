@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 239429001 production of SCHNEIDER ELECTRIC SE from the text:Schneider Electric Sverige AB\nBox 1009, 611 29 Nyköping \nTel. +46-155-26 54 00 (vx)  Fax. +46-155-21 42 86Uttag IP 44\n \n10/16 A 250 V\n2-vägs jordat uttag\nBaksidig anslutning\nVit\nFörpacknin g 100\n23 941 90 00  Skruvanslutning\n23 941 90 0 1 Snabbanslutning\n2-vägs jordat uttag\nMed petskydd\nBaksidig anslutningVit\nFörpackning  100\n23 942 90 00  Skruvanslutning\n23 942 90 0 1 Snabbanslutning\nKan fås i olika färger.\n\n'}]
+!==============================================================================!
+### Component Summary for Product Code 239429001
+
+**Key Specifications:**
+- **Voltage Ratings:** 250 V
+- **Current Ratings:** 10/16 A
+- **Power Consumption:** Not specified (depends on load)
+- **Operating Temperature Range:** Not specified in the provided text
+- **Package Type:** Not explicitly mentioned, but typically packaged in bulk (100 units)
+- **Special Features or Notes:** 
+  - 2-way grounded outlet
+  - Back-side connection
+  - Child protection (petskydd)
+  - Available in different colors
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text
+
+**Description:**
+The component identified by the product code 239429001 is a 2-way grounded electrical outlet (uttag) designed for use in various electrical installations. It features a back-side connection for wiring and is available in white. This outlet is rated for a maximum voltage of 250 V and can handle current ratings of either 10 A or 16 A, making it suitable for a range of household and commercial applications.
+
+**Typical Applications:**
+This type of electrical outlet is commonly used in residential and commercial settings for powering electrical devices and appliances. Typical applications include:
+- Power management in homes and offices
+- Installation in walls or electrical panels for easy access to power
+- Use in environments where child safety is a concern, due to the integrated child protection feature
+- Versatile usage in various color-coded installations to match interior designs
+
+Overall, the 239429001 outlet is a practical and essential component for ensuring safe and efficient electrical connectivity in various applications.

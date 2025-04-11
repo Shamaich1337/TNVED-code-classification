@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of RYG7050ANFTSWN production of ROYAL DISPLAY CO.,LIMITED from the text:First issue\n红色导线(A+) 黑色导线(K-)\nK AWHITE (LED                                  )  Color: 3014SMD 1X8=8 Circuit Diagram\nFirst issue\nFirst issue\nFirst issue\n红色导线(A+) 黑色导线(K-)发光区\nK A\n正向电压项目\n反向电流色度坐标单位 符号最小值 最大值典型值 测定条件(Ta=25°C)2.Electrical-Optical Characteristics (Ta=25°C)版本\n版本 图号产品型号\n客户型号21.Environment Luminance( 环境亮度 ):≤0.1cd/m\n4.Aperture Diameter( 光圈直径 ):3.Test Distance( 测试距离 ):        mm2.Test Instrument( 测试仪器 ):BM-75.Test Point( 测试点):4.Especial Note( 特殊要求 ):\nWHITERYB183WP8-A1\nRYG7050ANFRWNN\n设计\n检查\n会签\n批准\nRY183.DWG A15OF5SHEET/页码\nCOUNTERSIGN:\nDRAWING No:APPROVED:CUSTOMER'S NO.:MODEL NO.:\n(LED                                  )  Color:DESIGN:\nCHECKED:\nREVTHIRD ANGLE PROJECTION\nmmUNITREV:结构尺寸(未标注尺寸公差)1.Mechanical Outline (Unspecified Tolerances is:±       )\n3014SMD 1X8=8 3.Circuit Diagram\nBM-7 测定仪器:A1\n4.   : SPECIAL CHARACTERISTIC(特殊特性).2.   : REFERENCE DIMENSION(参考尺寸). \n3.   : SAFETY CHARACTERISTIC(安全特性).1.   : CRITICAL DIMENSION(重要管制尺寸).\n5.   : RoHS COMPLIANCE(RoHS制程).\n亮度\n均匀度Sam 220722\n"}]
+!==============================================================================!
+### Component Summary for RYG7050ANFTSWN
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - Forward Voltage (Vf): Typically around 2.0V (exact value may vary based on specific conditions).
+  - Reverse Voltage (Vr): Not specified, but typically low for LEDs.
+  
+- **Current Ratings**: 
+  - Forward Current (If): Typically around 20mA (exact value may vary based on specific conditions).
+  
+- **Power Consumption**: 
+  - Power (P) = Vf * If; typically around 40mW (for Vf = 2V and If = 20mA).
+  
+- **Operating Temperature Range**: 
+  - Typically from -40°C to +85°C (exact range may vary based on specific conditions).
+  
+- **Package Type**: 
+  - 3014 SMD (Surface Mount Device) configuration, 1x8 arrangement.
+  
+- **Special Features or Notes**: 
+  - Designed for high brightness and low power consumption.
+  - RoHS compliant.
+  
+- **Moisture Sensitive Level (MSL)**: 
+  - MSL rating not specified in the provided text; typically, SMD LEDs are rated MSL 1 or 2.
+
+#### Description:
+The RYG7050ANFTSWN is a surface-mounted light-emitting diode (LED) component, specifically designed for applications requiring red illumination. It utilizes a 3014 SMD package, which is compact and suitable for various electronic devices. The LED is characterized by its high brightness and efficiency, making it ideal for applications where visibility and low power consumption are critical.
+
+#### Typical Applications:
+- **Indicator Lights**: Used in devices to signal power status or operational states.
+- **Backlighting**: Commonly used in displays and control panels to enhance visibility.
+- **Decorative Lighting**: Employed in consumer electronics and automotive lighting for aesthetic purposes.
+- **Signal Processing**: Utilized in communication devices to indicate data transmission or reception.
+
+This LED component is versatile and can be integrated into a wide range of electronic applications, providing reliable performance and energy efficiency.

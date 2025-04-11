@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of SB0405612HP-4M.F.8W.C(10) production of STK ELECTRONIC from the text:Strikefan Electronic Co.,Ltd  \nCustomer : \nModel No : \nPart No : \nDescription : \nDate : \nRevision :                                    SB0405612HP-4M\n    \nDC Fan (RoHS)  \n202 2 / 8 / 19 \nCUSTOMER  \nAPPROVED  CHECKED BY PREPARED BY \n洪莉媖 \nTHIS OFFER IS MADE ACCORDING TO YOUR CURRENT INQUIRY. UNLESS \nOTHERWISE REVISED, THIS SPECIFICATION WILL BE FINAL FOR ALL \nFUTURE PRODUCTION ORDERS FROM YOUR RESPECTED COMPANY \nKINDLY STUDY IN DETAILS AND RETURN TO US THE DUPLICATE DULY \nSIGNED AS YOUR CONFIRMATION OF SAME  \nF.4W.C\n12VDC\n6 ~ 13.8 VDC\n6.0V\n3.00 A (Max)\n36.00 W (Max)\n4030 20000/4026 19000 RPM±10%\n41.94 CFM (Max)\n1.19 m³/min (Max)\n116.15 mm-H 20 (Max)\n4.58 inch-H 20 (Max)\n75.50(Max:79.50) dB(A)Strikefan Electronic Co.,Ltd. \nNO Waterproof Level 防水等級SPECIFICATION\nBearing Type 軸承 Two Ball BearingDimension 尺寸 40x40x56mmITEM DC  AXIAL  FAN\nConsuming Power 消耗功率Rated Voltage 額定電壓\nOperating Voltage 工作電壓範圍\nStartup Voltage 啟動電壓P/NDESCRIPTIONS\nSB0405612HP-4M.F.4W.C\nStatic Pressure 靜壓Rated Current 額定電流\nSpeed Control Mode 速度控制模式 NOAuto Restart By IC  自動重啓 (IC版) YES\nSpeed Control (FG) 速度檢測 YES\nAlarm Control (RD) 警示功能 NOSoft Start  軟啟動 NO\nPulse Width Modulation  脈寛調控 YESRated Speed 額定轉速\nNoise Level 噪音\nSPECIAL FUNCTION TYPE 特殊功能類型Air Flow 風量\nSafety Certification 安規\nhttps://www.strikefan.comUL      CE\n1-1.FRAME : PBT+ 30%GF 94V-0 1-2.IMPELLER : PBT+ 30%GF 94V-0  \n1-3.BOBBIN : 1-4.Shaft holder : Plastic V Copper\nAluminum\n2-1.OPERATING TEMPERATURE : -10 TO +70 DEGREE ℃\n2-2.STORAGE TEMPERATURE : -40 TO +85 DEGREE ℃\n2-3.OPERATING HUMIDITY : 25 TO65% RH\n2-4.STORAGE HUMIDITY : 25 TO65% RH\n3. Electrical specification :\n3-1.LOCKED ROTOR PROTECTION\n3-2.INSULATION RESISTANCE\n10 MEG OHM( MIN.) AT 500 VDC (BETWEEN FRAME AND (+) TERMINAL)\n3-3.INSULATION STRENGTH\n5 mA  MAX. AT 500 VAC 60 H Z ONE MINUTE, (BETWEEN FRAME AND(+)TERMINAL)\n \nIN MINIMUM PACKAGING CONDITION FAN WITHSTANDS EACH  ONE DROP OF\n70000 HOURS CONTINUOUS OPERATION\nONE YEAR WARRANTY AT 40 ℃ WITH 15~65 %RH..2.ENVIRONMENTAL:\nOF LOCKED ROTOR CONDITION AT THE RATED VOLTAGE.\n5.LIFE EXPECTANCY:1.MATERIAL:\nTHREE FACES FROM 30 CM DISTANCE HEIGHT  ONTO 10 MM\nTHICKNESSStrikefan Electronic Co.,Ltd.  \n \n4.Drop test:\nOF WOODEN BOARD.IMPEDANCE OF MOTOR WINDING PROTECTS MOTOR FROM FIRE IN 15MINUTE\nhttps://www.strikefan.com\n \nNOTE:\nLEAD WIRES: UL1061#26AWG\nRed--------------( ＋)\nBlack------------( －) \n7.OUTLINE STYLING & DIMENSIONS ：Strikefan Electronic Co.,Ltd.  \nhttps://www.strikefan.com\nSo we can sense fan’s rotation speed via the signal of variational frequency.\n \n \n Strikefan Electronic Co.,Ltd.  \n8.Frequency Generation （FG）SIGNAL :\nFG：When fan is running, the switch of rotor N, S can make exchange of high and low level.\nAnd speed faster, the frequency of level exchange faster.\n8-1.FG OUTPUT CIRCUIT---OPEN COLLECT MODE :\nhttps://www.strikefan.com\nStrikefan Electronic Co.,Ltd.  \n3. IF THE FAN DOES NOT HAVE THE POLARITY PROTECTION FUNCTION,THE CONN ECTION \nOF THE COLORED WIRES SHOULD BE RED+RED, AND BLACK+BLACK,OR  ELSE THE FAN \nWILL BE DAMAGED IN NO TIME.\n6. THE PERIOD OF PRODUCT WARRANTY,UNLESS OTHERWISE AGREED BY STK IN WRITTEN,\n7. IN ORDER TO AVOID ABNORMAL BUMPING OR INTERFERENCE CAU SED BY DEFORMED\nRESERVED IN FRONT  OF THE FRAME(THE SIGHT FROM THE IMPELLER FACE). \n2. THE VALUES WRITTEN IN PARENS, ARE LIMITED SPEC.9. Operation notice: \n10. Fan noise test:1. PLEASE DO NOT TOUCH AND PUSH FAN BLADE WITH FINGERS OR OTHERS,\nFAN BLADE AND BALL BEARINGS MAY BE DAMAGED AND IT CAUSES N OISE DEFECT.\n2. DO NOT CARRY THE FAN BY ITS LEAD WIRES.\nIMPELLER WHEN FAN IS FASTENED,SUGGESTED DISTANCE OF AT LEAST 0.5MM IS STRONGLY \n3. ACOUSTICAL NOISE MEASURING CONDITION:\nNOISE IS MEASURED AT RATED VOLTAGE IN FREE AIR IN\nANECHOICCHAMBER WITH B & K SOUND LEVEL METER WITH \nMICROPHONE AT A DISTANCE OF ONE METER FROM THE FAN INTAKE4. FOR THE MODELS WITHOUT REVERSE CONNECTION OF POLARITY PROTECTION,\nPLEASE DO NOT CONNECT THE LEAD WIRE IN REVERSE.\n5. PLEASE DON'T INSTALL THIS FAN IN SERIES WITH 2X VOLTAGE INP UTS. FOR EXAMPLE,\nIF A SINGLE FAN RATED AT 12V,THEN DON'T INSTALL TWO OF THEM IN SERIES WI TH  24V INPUT.\n1. ALL READINGS ARE MEASURED AFTER STABLY WARMING UPTHROUG H 10 MINUTES.SHALL BE 12 MONTHS STARTING FROM THE DATE OF PRODUCTION.\nhttps://www.strikefan.com\n"}]
+!==============================================================================!
+### Component Summary for SB0405612HP-4M.F.8W.C(10)
+
+**Component Type:** DC Axial Fan
+
+**Description:**
+The SB0405612HP-4M is a DC axial fan designed for cooling applications. It operates on a rated voltage of 12V DC and is equipped with two ball bearings for enhanced durability and performance. The fan is RoHS compliant, indicating it is free from hazardous substances.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Rated Voltage: 12 VDC
+  - Operating Voltage Range: 6 ~ 13.8 VDC
+  - Startup Voltage: 6.0 VDC
+
+- **Current Ratings:**
+  - Rated Current: 3.00 A (Max)
+
+- **Power Consumption:**
+  - Maximum Power Consumption: 36.00 W
+
+- **Operating Temperature Range:**
+  - Operating Temperature: -10°C to +70°C
+  - Storage Temperature: -40°C to +85°C
+
+- **Package Type:**
+  - Dimensions: 40 x 40 x 56 mm
+
+- **Special Features:**
+  - Speed Control Mode: Yes (with FG signal for speed detection)
+  - Auto Restart by IC: Yes
+  - Locked Rotor Protection: Yes
+  - Insulation Resistance: 10 MΩ (Min) at 500 VDC
+  - Insulation Strength: 5 mA Max at 500 VAC for 1 minute
+  - Noise Level: 75.50 dB(A) (Max)
+  - Air Flow: 41.94 CFM (Max) / 1.19 m³/min (Max)
+  - Static Pressure: 116.15 mm-H2O (Max)
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided data.
+
+**Typical Applications:**
+The SB0405612HP-4M DC fan is typically used in various cooling applications, including:
+- Computer systems and servers for thermal management.
+- Electronic enclosures to maintain optimal operating temperatures.
+- Automotive applications for ventilation and cooling.
+- Industrial equipment where heat dissipation is critical.
+- Consumer electronics that require airflow for cooling.
+
+This fan is suitable for environments where reliable operation and efficient cooling are necessary, making it a versatile choice for both commercial and industrial applications.

@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDNM02129 production of NEDITEK from the text:NDNM02129  \n8.5-9.6 GHz GaN Power Amplifier Module  \n\uf0d8 Features： \n\uf06c Technical Type: 0. 25um GaN HEMT  \n\uf06c Frequency：8.5-9.6GHz  \n\uf06c Typical Output Power ：46dBm  \n\uf06c Typical Power Gain ：20dB \n\uf06c PAE：35％ \n\uf06c Bias Voltage ：28V \n\uf06c Package  : Metal  Ceramic  \n► General Description  \nNDNM0212 9 is a GaN high power, high efficiency inter-matched power \ntransistor . It uses 0.2 5 um GaN HEMT  process , and metal -ceramic package . The \nNDNM02128  uses double power  supply, V ds=28V, it can provide  46dBm output \npower, more  than 20dB gain  with 35% PAE .  \n► Absolute Maximum Ratings1 \nSymbol Parameter  Value  Remark  \nVds Drain Source V oltage  36V  \nVgs Gate Source V oltage  -5V  \nPd DC consumption  100W 25℃ \nTch Channel Temperature  175℃ [1] \nTm Mounting Temperature  300℃ 1min，N2 Protection  \nTstg Storage Temperature  -55～175℃  \n1. Exceeding any one or combination of these limits may cause permanent damage  \n► Electrical Characteristics  (Ta=25oC) \nSymbol  \nParameter  Value \nMin Typ Max \nPout Power Output  - 46dBm  - \nGp  Power Gain  - 20 dB - \nηadd  PAE - 35％ - \n△Gp Gain flatness  -0.5 dB - +0.5 dB \n【1】 Testing cond ition: Vd＝28V; F：8.5-9.6GHz  \n \n\nNDNM02129  \n8.5-9.6 GHz GaN Power Amplifier Module  \n\uf0d8 Typical Performance (T A=25oC)： \nOutput Power /PAE & Frequency  \n8.4 8.6 8.8 9.0 9.2 9.4 9.64647484950\n Pout\n PAE\nFreq (GHz)Pout (dBm)\n3540455055PAE (%)\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nNDNM02129  \n8.5-9.6 GHz GaN Power Amplifier Module  \n\uf0d8 Outline Drawing ： \n \n\uf0d8 Application Circuit  \n \n \nNDNM02129  \n8.5-9.6 GHz GaN Power Amplifier Module  \n \nNotes：(1) Typical package type is JF06F007; \n(2) Connect the circuit according to the figure, pay attention to anti-static, and ensure good grounding and heat dissipation when using power devices ; \n(3) In order to ensure the good performance of the power module, the capacitance of power filter and energy storage capacitor shall be reasonably selected according to the modulation mode during pulse operation . \n \n'}]
+!==============================================================================!
+### Component Summary: NDNM02129
+
+**Product Code:** NDNM02129  
+**Manufacturer:** NEDITEK  
+**Type:** GaN Power Amplifier Module  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - **Bias Voltage (Vds):** 28V
+  - **Drain-Source Voltage (Vds):** 36V
+  - **Gate-Source Voltage (Vgs):** -5V
+
+- **Current Ratings:**
+  - **DC Consumption (Pd):** 100W at 25°C
+
+- **Power Consumption:**
+  - **Typical Output Power:** 46 dBm
+  - **Power Gain (Gp):** 20 dB
+  - **Power Added Efficiency (PAE):** 35%
+
+- **Operating Temperature Range:**
+  - **Channel Temperature (Tch):** Up to 175°C
+  - **Storage Temperature (Tstg):** -55°C to 175°C
+  - **Mounting Temperature (Tm):** 300°C for 1 minute (N2 Protection)
+
+- **Package Type:**
+  - **Material:** Metal-Ceramic
+  - **Typical Package Type:** JF06F007
+
+- **Special Features or Notes:**
+  - Utilizes a 0.25 µm GaN HEMT process.
+  - Designed for high power and high efficiency.
+  - Requires careful circuit design for anti-static protection and heat dissipation.
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Description:
+The NDNM02129 is a high-power, high-efficiency GaN (Gallium Nitride) power amplifier module designed for operation in the frequency range of 8.5 to 9.6 GHz. It employs a 0.25 µm GaN HEMT (High Electron Mobility Transistor) technology, which allows for significant output power and efficiency. The module is packaged in a robust metal-ceramic enclosure, ensuring durability and effective thermal management.
+
+#### Typical Applications:
+The NDNM02129 is primarily used in applications requiring high-frequency amplification, such as:
+- **Telecommunications:** For signal amplification in communication systems operating in the microwave frequency range.
+- **Radar Systems:** Enhancing signal strength in radar applications.
+- **Satellite Communications:** Used in satellite transponders and ground stations for signal transmission and reception.
+- **Military Applications:** Suitable for high-power RF applications in defense systems.
+
+This power amplifier module is ideal for scenarios where high output power and efficiency are critical, making it a valuable component in advanced electronic communication systems.

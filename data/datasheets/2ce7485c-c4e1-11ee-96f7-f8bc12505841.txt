@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of EDA5F2050P100C40 production of ECHO MICROWAVE CO., LTD from the text: \n \n- ECHO  Microwave ( www.echomicrowave.com ) - Tel: +82 -31-337-3070   E-Mail: cykim@echomicrowave.com  1/2  Specification  \nDR Bandpass Filter  Design  R &  D Approval  \n   \nCYKIM  SBPARK   \n \nCustomer:  Date: 2024-01-25 Part No.: EDA5F2050P100C40  \n \n█ Electrical Specification  \nNo. Parameter  Unit  Specification  \n1 Center Frequency  MHz  2050  \n2 Frequency Range  MHz  2000 ~ 2100  \n3 Insertion Loss in BW  dB 1.5 max.  \n4 Ripple in BW  dB 0.2 max.  \n5 V .S.W.R  - 1.5:1 max.  \n6 Attenuation  dB 30 min. @ DC~1900  MHz  \n40 min. @ 2456 MHz  \n60 min. @ 2912 MHz  \n7 Input Power  Watt 4 max.  \n8 IN/OUT Impedance  Ω 50 \n9 Operating Temp. Range  ˚C -40 ~ +85  \n10 RoHS Compliant  - Yes \n \n█ Dimension – Inch[mm]  \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n- ECHO  Microwave ( www.echomicrowave.com ) - Tel: +82 -31-337-3070   E-Mail: cykim@echomicrowave.com  2/2  Final Inspec tion \nDR Bandpass Filter  Design  R & D  Approval  \n   \nCYKIM  KTKIM   \n \nCustomer:  Date: 2024-01-25 Part No.: EDA5F2050P100C40  \n \n█ Performanc e Graphs  \n \n \n \n\n'}]
+!==============================================================================!
+### Component Summary for EDA5F2050P100C40
+
+**Component Type:** Bandpass Filter
+
+**Manufacturer:** ECHO Microwave Co., Ltd
+
+**Key Specifications:**
+- **Center Frequency:** 2050 MHz
+- **Frequency Range:** 2000 MHz to 2100 MHz
+- **Insertion Loss in Bandwidth:** 1.5 dB max
+- **Ripple in Bandwidth:** 0.2 dB max
+- **Voltage Standing Wave Ratio (V.S.W.R):** 1.5:1 max
+- **Attenuation:**
+  - 30 dB min @ DC to 1900 MHz
+  - 40 dB min @ 2456 MHz
+  - 60 dB min @ 2912 MHz
+- **Input Power:** 4 Watts max
+- **Input/Output Impedance:** 50 Ohms
+- **Operating Temperature Range:** -40°C to +85°C
+- **RoHS Compliant:** Yes
+
+**Moisture Sensitive Level:** Not specified in the provided text.
+
+### Description
+The EDA5F2050P100C40 is a bandpass filter designed to allow signals within a specific frequency range (2000 MHz to 2100 MHz) to pass while attenuating signals outside this range. It is characterized by its low insertion loss and minimal ripple, making it suitable for applications requiring high signal integrity.
+
+### Typical Applications
+This bandpass filter is typically used in:
+- **Communication Systems:** To filter out unwanted frequencies in RF communication, ensuring that only the desired signal is transmitted or received.
+- **Signal Processing:** In various electronic devices where specific frequency bands need to be isolated for processing.
+- **Wireless Applications:** Such as in mobile phones, satellite communications, and other RF applications where frequency selectivity is crucial.
+- **Test Equipment:** For testing and measurement applications where precise frequency filtering is required.
+
+This component is essential in enhancing the performance of RF systems by improving signal quality and reducing interference from out-of-band signals.

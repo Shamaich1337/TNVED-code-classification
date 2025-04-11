@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of Monocular camera CG2053 production of SHENZHEN THINKCORE TECHNOLOGY from the text:Datasheet  Thinkcore T echnology Co.,  Ltd., \n  \n  \n  \n \nCamera  \n \n内     容   CONTENT     \n1 、 目 的 Purpose                             \n2 、 效 力 Effect   \n3 、 技 术 参 数 Technical parameters   \n4 、   外 观 尺 寸        Shape and Dimensions  \n5 、 镜 头 结 构 Lens Construction   \n6 、 可 靠 性 测 试 Reliability Test   \n  \n版本 Version   编写 Compile   审核 Auditing   批准 Authorize   \nV1.0       Module: CG2053\nDatasheet  \n  \n 一、目的（ Purpose）  \n为了全面地描述技术合作中所指的技术规格，通常需要由一整套文件予以表示。作为其中的一部分，本技 术\n规格规定了双目摄像头模组应达到的特定技术规格，对于该型号货品具有约束力。   \nFor a comprehensive description of technical cooperation referred to the technical specifications, usually a set of \ndocuments required by the express. As one part of the technical specifications of the Binocular camera  modules  should \nmeet the specific te chnical specifications for the goods model  binding.  \n  \n二、效力（ Efficacity ）  \n如果本规范与该类货品的通用技术规格书中的规格不一致时，以本规格书中的规定为准。   \n  \n三、技术参数（ Technical parameters ）  \n项目（ Items）  参 数 （Parameters ）  \n最高有效像素（ Most effective pixels ）  1920*1080  1920*1080  \n数据格式  (Data Format)    YUY/MJPG  YUY/MJPG  \n像素大小  (Pixel Size)  2.8*2.8µm   2.9*2.9µm   \n宽动态范围（ dynamic range ）  81DB  >100DB  \n \n镜头（ Lens）  视 角 FOV ：D= 71.2°   \n光学总长  Optical length ：8.25MM   \n结 构 lens construction ：2G3P  \n接 口 mount ：M8*P0.35mm   \n对焦  focusing   定焦 (Fixed focus)   \n帧 速 (Frame rate)  30fps   \n自动控制  (auto control)  饱和度 (Saturation) ，对比度 (Contrast) ，锐度 (acutance) ，白平衡  (White balance) ， \n曝光（ exposure ）。   \n红外灯 (IR)  850nm 120°   \n供电电压（ Voltage）  1.2-3.0V  \n最大工作电流  (working current)  MAX 500mA   \n接口（ Connector ）  MIPI  \n储存温度  (Storage Temperature)   -20   C to +70   C  \n其他 (other)   双 SENSOR 黑白 +彩色   \n兼容系统     \n(system compatibility)   1、Windows XP （SP2,SP3）、 Vista 、7、8、10  \n2、Linux or OS with UVC driver    \n \n \n  \n \n四：尺寸外观 Appearance Dimension   \n \n 感光片（ SENSOR）  CG2053  SC200AI  \n感光片尺寸（ Lens Size）  1/2.9  1/2.8  If the norms of such goods with a common technical specifications of the specification book is inconsistent to the \nspecifications book shall prevail. \nDatasheet  \n  \n  \n  \n\nDatasheet  Shenzhen Thinkcore T echnology C o., Ltd  \n  \n  \n五：镜头参数 Lens Specifications   \n \n \n\nDatasheet  Shenzhen Thinkcore T echnology C o., Ltd  \n  \n 六、 可靠性测试  (Reliability Test)  \n  \n项目 Items  条件 Condition  规格 Specification  \n高温实验   \nHigh Temperature Test  温度 (Temp)：80℃  \n时间 (Time)：96H  无异常  No abnormal  \n低温实验   \nLow Temperature Test  温度 (Temp)：-20℃  \n时间 (Time)：96H  无异常  No abnormal  \n湿度实验\nHumidity Test  温度 (Temp)：60℃  \n湿度 (Humidity) ：80-85％ 时\n间(Time)：24H   \n无异常  No abnormal  \n镜头座拉力实验   \nCable Tensile Strength Test  荷重： 4KG  \n持续时间： 60 秒   \n无异常  No abnormal   \n跌落测试（单体）  \nDrop Test  高(High)：60CM  \n回数： 10 次\n木板上   电性能正常 Electric \nnormal  \n跌落测试（整箱）  \nDrop Test  高(High)：60CM  \n一角三边六面\n木板上   电性能正常 Electric \nnormal   \n \n \n震动测试（单体）  \nVibration Test  1. 震动机的震动频率调至  50Hz；  \n  Vibration machine vibration \nfrequency to  50Hz  \n2. 震动幅度  Vibration  amplitude \n1.5MM；  \n3. 震动时间  Vibration  time  30 \nMinutes   \n \n电性能正常 Electric \nnormal   \n拔插实验   \nUSB connector  回数： 2500 回  电性能正常   \nElectric normal  \n  \n'}]
+!==============================================================================!
+### Component Summary: Monocular Camera CG2053
+
+**Manufacturer:** Shenzhen Thinkcore Technology Co., Ltd.  
+**Product Code:** CG2053
+
+#### Key Specifications:
+- **Maximum Effective Pixels:** 1920 x 1080
+- **Data Format:** YUY/MJPG
+- **Pixel Size:** 2.8 x 2.8 µm / 2.9 x 2.9 µm
+- **Dynamic Range:** 81 dB / >100 dB
+- **Field of View (FOV):** 71.2° (Diagonal)
+- **Optical Length:** 8.25 mm
+- **Lens Construction:** 2G3P
+- **Mount Type:** M8 x P0.35 mm
+- **Focusing:** Fixed focus
+- **Frame Rate:** 30 fps
+- **Auto Control Features:** Saturation, Contrast, Acutance, White Balance, Exposure
+- **Infrared Light:** 850 nm, 120°
+- **Supply Voltage:** 1.2 - 3.0 V
+- **Maximum Working Current:** 500 mA
+- **Connector Type:** MIPI
+- **Storage Temperature Range:** -20°C to +70°C
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The CG2053 is a monocular camera module designed for various imaging applications. It features a high-definition resolution of 1920 x 1080 pixels and supports multiple data formats, making it versatile for different use cases. The camera is equipped with a fixed-focus lens and offers a wide field of view, suitable for capturing detailed images in various lighting conditions.
+
+#### Typical Applications:
+The CG2053 camera module is typically used in applications such as:
+- **Surveillance Systems:** For monitoring and security purposes.
+- **Robotics:** Providing vision capabilities for autonomous navigation and object recognition.
+- **Machine Vision:** Used in industrial automation for quality control and inspection.
+- **Consumer Electronics:** Integrated into devices like webcams and smart home devices.
+- **Medical Imaging:** Utilized in endoscopic cameras and other medical imaging systems.
+
+This camera module's combination of high resolution, dynamic range, and robust design makes it suitable for a wide range of imaging applications across different industries.

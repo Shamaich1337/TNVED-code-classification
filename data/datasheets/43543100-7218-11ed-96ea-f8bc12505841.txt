@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2J7401MGF-100LL100-C109NST_MICRSI production of 2J from the text: \n \n2J7401MGF     \n \n  Product Datasheet\nKey Features\nGPS/GLONASS/QZSS/Galileo\n- 1575 -1606  MHz\nMagnetic Mount\nPre-Filter\nGround Plane Independent\nCustomizable Cable and Connector\nDimensions Ø 54 × 14.7 mm\nCertificates: IP67, IP69K\nwww .2j-antennae.com www .2j-antennasusa.com Page: 1/6GPS/GLONASS Magnetic Mount\n\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 2/6   \nParameters\nStandards\nBand (MHz)\nFrequency (Mhz)\nPatch Size (mm)\nReturn Loss (dB)\nVSWR\nImpedance (Ohms)\nRadiation Pattern\nPolarization\nActive Gain (dB)\nNoise Figure (dB)\nVoltage Range (V)\nCurrent Consumption (mA)\nSaw Filter T ype\nOut of Band Rejection (dB)\nESD Protection (kV)\nConnector T ype\nCable Length\nCable T ypeGPS/QZSS/Galileo\n1575\n1575.42GNSS Ceramic Active Antenna\n25 x 25 x 4\n<=-15.0 dB\n<=1.4:1 dB\n50\nHemispherical\nRHCP\n28dB @ 2.7V\n1.8 @ 2.7V\n1.5 - 3.6\n9 @ 2.7V\nPre-Filter\n~43\n6\nSMA-Male Standard (Other Connectors Available)\n300 cm Standard (Any Cable Length Available)\nLL100  Standard (Other Cables Available)GLONASS\n1602\n1598-1606\n2. Mechanical and environmental specifications    \nSpecifications\nMounting T ype\nDimensions (mm)\nRandome T ype\nRandome Color\nOperating T emperature (C)\nStorage T emperature (C)\nCertificates\nSubstance Compliance2J7401MGF\nMagnetic  Mount\nØ 54 × 14.7\nPC+ASA\nBlack\n-40 to +85\n-40 to +85\nIP67, IP69K\nRoHS \nwww .2j-antennae.com www .2j-antennasusa.com Page: 3/6\nwww .2j-antennae.com www .2j-antennasusa.com Page: 4/6Radiation pattern referen ce\n1575 M Hz and 1602 MHz Rad iation pattern\n3. Antenna parameters    \n\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 5/64. Antenna drawings    \n 54  14,7 \n R27  59,5 \n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 6/65. Antenna Images    \n'}]
+!==============================================================================!
+### Component Summary for 2J7401MGF-100LL100-C109NST_MICRSI
+
+#### Key Specifications:
+- **Voltage Range:** 1.5 - 3.6 V
+- **Current Consumption:** 9 mA @ 2.7 V
+- **Operating Temperature Range:** -40 to +85 °C
+- **Storage Temperature Range:** -40 to +85 °C
+- **Package Type:** Magnetic Mount
+- **Dimensions:** Ø 54 × 14.7 mm
+- **Special Features:**
+  - GPS/GLONASS/QZSS/Galileo compatible
+  - Ground Plane Independent
+  - Customizable Cable and Connector options
+  - Pre-Filter included
+  - IP67 and IP69K certified (water and dust resistant)
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+#### Component Description:
+The 2J7401MGF is a GNSS (Global Navigation Satellite System) ceramic active antenna designed for receiving signals from GPS, GLONASS, QZSS, and Galileo systems. It operates within the frequency range of 1575 - 1606 MHz and features a magnetic mount for easy installation on various surfaces. The antenna is characterized by its compact size and robust design, making it suitable for both indoor and outdoor applications.
+
+#### Typical Applications:
+The 2J7401MGF antenna is typically used in:
+- **Navigation Systems:** For vehicles, drones, and marine applications where accurate positioning is critical.
+- **Telematics:** In fleet management and logistics for tracking vehicle locations.
+- **IoT Devices:** In smart devices that require location tracking capabilities.
+- **Mobile Communication:** Enhancing signal reception in mobile devices that utilize GNSS for location services.
+
+This antenna is ideal for applications requiring reliable and accurate satellite signal reception in a variety of environmental conditions.

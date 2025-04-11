@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BFLD-976F-5HSM-N0 production of SHENZHEN BOXOPTRONICS TECHNOLOGY CO.,LTD from the text:980nm14PIN400mWPumpLaser\nBFLD-974F-4HSM-N0\nwww.boxoptronics.com\nEmail:sales@boxoptronics.com|Tel:+86-075521009302Ref:S041.2016.08.051980nm14PIN400mWPumpLaser\n1.Features:\n\uf06cSinglemodefiber;\n\uf06cInternalthermoelectriccooler;\n\uf06cFiberBragggrating(FBG)wavelengthstabilization;\n\uf06cExcellentlowpowerstability.\nRoHSandREACHCompliant\n2.Applications\n\uf06cCATVDistribution;\n\uf06cPumpingforBroadbandASEsources;\n\uf06cLownoiseEDFAs;\n\uf06cHighbitrateandHighchannel-countEDFAs;\n\uf06cDensewavelengthdivisiondultiplexing(DWDM)EDFAs.\n3.AbsoluteMaximumRatings:\nParameter Symbol Condition Min.Max.Unit\nLaserforwardcurrent IF - - 900mA\nLaserreversevoltage VF CW - 2.5 V\nTECCurrent ITEC CW - 2.5 A\nTECVoltage VTEC - - 4.8 V\nPigtailaxialpullforce - 3*10seconds - 10 N\nPigtailsidepullforce - 3*10seconds - 5 N\nOperatingrelativehumidity RHSTG - - 85%RH\nStoragerelativehumidity RHOP - - 80%RH\nOperatingtemperature TOPCasetemperature -20 +70 ℃\nStoragetemperature TSTGAmbienttemperature -40 +85 ℃\nElectrostaticdischarge ESD - 1000 - V\nLeadsolderingtemperature - <10seconds - 280 ℃\n4.Optical-ElectroCharacteristics(T=25℃,IF=IOP):\nParameter SymbolConditionMin.Typ.Max.Unit\nOperatingwavelength λC -20~70℃973974975\nnm\n975976977\nOpticaloutputpower PF - 350400 -mW\nThresholdcurrent ITH 25℃ -85100mA\nLaserforwardcurrent IF CW -800900mA\n980nm14PIN400mWPumpLaser\nBFLD-974F-4HSM-N0\nwww.boxoptronics.com\nEmail:sales@boxoptronics.com|Tel:+86-075521009302Ref:S041.2016.08.052Laserforwardvoltage VF 25℃ -2.3 - V\nKinkfreepower PKINK - -1.15*PO-mW\nMonitordarkcurrent ID Bias-5V - -50nA\nMonitordetectorresponsivity RM - 1 5 10uA/mW\nSpectralwidthat-20dB ∆λ -20~70℃ -0.40.6nm\nSide-modesuppressionratioSMSR - 2040 -dB\nTECCurrent ITEC-20℃ - -0.5\nA\n70℃ - -1.0\nTECVoltage VTEC - - - 3 V\nTotalmodulepowerconsumptionPTOTALA - - 5 -W\nThermistorresistance RTH 40℃ 9.91010.1Kohm\nThermistorB-value βB25/50=3950K±1%-3950- K\nPowerstability ∆PO -20~70℃ - -20%\nFibercutoffwavelength - - -960 -nm\nFibermodefielddiameter - λ=980nm 5.45.96.4um\nFiberdiameter -CorningHI1060-250 -um\nFiberlength - - 1.41.51.6um\nFiberconnector - - FC/APC\n980nm14PIN400mWPumpLaser\nBFLD-974F-4HSM-N0\nwww.boxoptronics.com\nEmail:sales@boxoptronics.com|Tel:+86-075521009302Ref:S041.2016.08.053\nPINDESIGNATIONSPINDESIGNATIONS\n1 TEC(+) 14 TEC(-)\n2 Thermistor13CaseGround\n3 PDAnode 12 NC\n4 PDCathode11 LDCathode\n5 Thermistor10 LDAnode\n6 NC 9 NC\n7 NC 8 NC5.PackageDrawing&PIN-OUTDefinition(Unit:mm):\n\n'}]
+!==============================================================================!
+### Component Summary for BFLD-976F-5HSM-N0
+
+**Description:**
+The BFLD-976F-5HSM-N0 is a 980nm, 14-pin, 400mW pump laser designed for applications in fiber optics. It features a single-mode fiber output and is equipped with an internal thermoelectric cooler (TEC) for temperature regulation. The device utilizes Fiber Bragg Grating (FBG) for wavelength stabilization, ensuring excellent low power stability.
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Laser Reverse Voltage (VF): 2.5 V (max)
+  - TEC Voltage (VTEC): 4.8 V (max)
+
+- **Current Ratings:**
+  - Laser Forward Current (IF): 900 mA (max)
+  - TEC Current (ITEC): 2.5 A (max)
+
+- **Power Consumption:**
+  - Total Module Power Consumption (PTOTAL): 5 W (max)
+
+- **Operating Temperature Range:**
+  - Operating Temperature (TOPC): -20°C to +70°C
+  - Storage Temperature (TSTG): -40°C to +85°C
+
+- **Package Type:**
+  - 14-pin package
+
+- **Special Features:**
+  - Internal thermoelectric cooler
+  - Fiber Bragg Grating (FBG) wavelength stabilization
+  - Excellent low power stability
+  - RoHS and REACH compliant
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided data.
+
+**Typical Applications:**
+The BFLD-976F-5HSM-N0 is primarily used in:
+- CATV (Cable Television) Distribution
+- Pumping for Broadband ASE (Amplified Spontaneous Emission) sources
+- Low noise EDFAs (Erbium-Doped Fiber Amplifiers)
+- High bitrate and high channel-count EDFAs
+- Dense Wavelength Division Multiplexing (DWDM) EDFAs
+
+This component is essential in enhancing signal strength and quality in fiber optic communication systems, making it suitable for high-performance telecommunications and data transmission applications.

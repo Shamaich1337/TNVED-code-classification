@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ESD5V0D3 production of SEMITEH ELECTRONICS from the text:1/3SOD-323\nPIN CONFIGURATION\nTransient Voltage Suppressors for ESD Protection\nApplications\n◆Cellular phones\n◆Portable devices\n◆Digital cameras\n◆Power supplies\nFeatures\n◆Small Body Outline Dimensions\n◆Low Body Height\n◆Peak Power up to 150 Watts @ 8 x 20 μs\n   Pulse\n◆Low Leakage current\n◆Response Time is Typically < 1 ns\n◆ESD Rating of Class 3 (> 16 kV) per Human\n   Body Model\n◆IEC61000−4−2 Level 4 ESD Protection\n◆IEC61000−4−4 Level 4 EFT Protection\nMAXIMUM RATINGS(Ta = 25℃)\nRating Symbol Value Unit\nPeak Pulse Power (tp = 8/20s) Ppp 150 W\nLead Solder Temperature − Maximum (10 Second Duration) TL 260 °C\nStorage Temperature Range Top -55 to +155 °C\nOperating Temperature Range Tj -40 to +125 °C\nMaximum Junction Temperature TJ 150 °C\nIEC61000-4-2 (ESD)                                               air discharge ±15\nKV\n                                                                            contact discharge ±8\nIEC61000-4-4 (EFT) 40 A\nESD Voltage                                                 Per Human Body Model 16 KVESD5V0D3L Semiteh Electronics\n2/3 \n           Symbol Parameter \nVRWM Peak Reverse Working Voltage \nIR Reverse Leakage Current @ V RWM \nVBR Breakdown Voltage @ I T \nIT Test Current \nIPP Maximum Reverse Peak Pulse Current\nVC Clamping Voltage @ I PP \nPPP Peak Pulse Power \nCJ Junction Capacitance \nIF Forward Current \nVF Forward Voltage @ I F V IR IT IPP \nVRWM VBR VC IR \nIT \nIPP VRWM VBR VC I   ELECTRICAL CHARACTERISTICS\n(TA = 25 °C unless otherwise noted)\nBi−Directional TVS\nElectrical Characteristics Ratings at 25°C ambient temperature unless otherwise specified.VF = 0.9V at IF = 10mA\nDeviceVRWM IR1(uA)VBR (V)@ ITITVC (V) VC (V) IPP PPK C\n(V) @ VRWM (Note 1) @ IPP=5A @ MAX IPP (A)* (W) (pF)\n(max.) (max.) (min.) mA (Typ) (max.) (max.) Max (Typ)\n5.0 1.0 6.0 1.0 11.6 16.6 9.4 150 11\n*Surge current waveform per Figure 1.\n 1. VBR is measured with a pulse test current IT at an ambient temperature of 25℃．\nFig1. Pulse Waveform Fig2.Power Derating CurveESD5V0D3LESD5V0D3L Semiteh Electronics\n3/3SOD−323\nK\nA\nD1 2 B\nCE\n0.63\n0.02\'\'\n0.830.033\'\'1.600.063"\n2.850.112\'\'mm\ninches\nH J\nNOTES:\n1. DIMENSIONING AND TOLERANCING\nPER ANSI Y14.5M, 1982.\n2. CONTROLLING DIMENSION: MILLIMETERS\nMIN MAX MIN MAX\n1.60 1.80 0.063 0.071\n1.15 1.35 0.045 0.0530.80 1.00 0.031 0.0390.25 0.40 0.010 0.016\n0.15 REF 0.006 REF\n0.00 0.10 0.000 0.004\n0.089 0.177 0.0035 0.0070\n2.30 2.70 0.091 0.106MILLIMETERSDIM\nA\nB\nC\nD\nE\nH\nJ\nKINCHES\nPIN: 1. CATHODE\n2. ANODEESD5V0D3L Semiteh Electronics\n'}]
+!==============================================================================!
+### Component Summary: ESD5V0D3 by Semiteh Electronics
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Peak Reverse Working Voltage (VRWM): 5.0 V
+  - Breakdown Voltage (VBR): 6.0 V (min. 5.0 V at test current IT)
+  
+- **Current Ratings:**
+  - Reverse Leakage Current (IR): 1.0 µA (max. at VRWM)
+  - Test Current (IT): 1.0 mA
+  - Maximum Reverse Peak Pulse Current (IPP): 150 A (surge current waveform specified)
+  
+- **Power Consumption:**
+  - Peak Pulse Power (Ppp): 150 W (for 8/20 µs pulse duration)
+  
+- **Operating Temperature Range:**
+  - Junction Temperature (Tj): -40 to +125 °C
+  - Storage Temperature Range (Top): -55 to +155 °C
+  
+- **Package Type:**
+  - SOD-323 (small outline package)
+  
+- **Special Features:**
+  - Low body height and small body outline dimensions
+  - Low leakage current
+  - Fast response time (< 1 ns)
+  - ESD protection rating of Class 3 (> 16 kV) per Human Body Model
+  - IEC61000−4−2 Level 4 ESD Protection
+  - IEC61000−4−4 Level 4 EFT Protection
+  
+- **Moisture Sensitive Level:**
+  - Not specified in the provided data, but typically SOD-323 packages are moisture sensitive.
+
+#### Description:
+The ESD5V0D3 is a bi-directional Transient Voltage Suppressor (TVS) designed for Electrostatic Discharge (ESD) protection. Its primary function is to protect sensitive electronic components from voltage spikes caused by ESD events, ensuring reliable operation in various electronic devices.
+
+#### Typical Applications:
+The ESD5V0D3 is commonly used in:
+- **Cellular Phones:** To protect against ESD damage during handling and operation.
+- **Portable Devices:** Such as tablets and laptops, where ESD protection is critical for maintaining device integrity.
+- **Digital Cameras:** To safeguard sensitive circuitry from voltage transients.
+- **Power Supplies:** To prevent ESD from affecting the performance and reliability of power management systems.
+
+This component is essential in applications where ESD protection is necessary to enhance the durability and reliability of electronic devices.

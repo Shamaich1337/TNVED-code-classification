@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 701W-X2/02 production of QUALTEK from the text:Qualtek Electronics Corp.\nPPC  DIVISION\nPart Number:701W-X2/02\nDescription:\n AC RECEPTACLETolerance\n+/-\n(mm)Dim\nrange\n(mm)\n0-1\n1-6\n6-18\n18-50\n50-120\n120-250\n250-5000.150.20\n0.30\n0.50\n0.70\n0.90\n1.20Drawn / Date Checked / Date Approved / Date\nB.Zhang\n10-25-0410-25-04 JJH / 10-25-04UNIT:  mm REV. D\nNOTES:\nRATING:\n        UL, CSA:   15A 250V AC\n        VDE, CCC:  10A 250V AC\nINSULATION RESISTANCE:  OVER 100M OHM 500V DCDIELECTRIC RESISTANCE:   2000V AC ONE MINUTE\nPANEL THICKNESS:  0.8mm ~ 1.5mm\nAPPROVALS:  UL,CSA, VDE, CCCRoHS COMPLIANTAPPROVED DATE DESCRIPTION REV.REVISION\nB\nCDRoHS CompliancyUpdated DimensionsUpdated Panel Thickness, Cutout, and Approvals06-01-0606-30-0803-03-16DPDPLY\nTHESE DRAWINGS ARE THE PROPERTY OF QUALTEK \nELECTRONICS AND NOT TO BE REPRODUCED FOR OR COMMUNICATED TO A THIRD PARTY WITHOUT THE EXPRESS WRITTEN PERMISSION OF AN OFFICER OF QUALTEK ELECTRONICS.\nCONTROLLED\n2\n13\n1 \nContact Pin  Brass Strip Tin-Plated\nBody Insulator Nylon Black Color3.2 ± 0.230.7 ± 0.316 ± 0.5\n0\n23.7 ± 0.3\n24 ± 0.50\n16 726.5 ± 0.3\n19.8 ± 0.3\n27 ± 0.20\n0.2020 ±27 ± 0.3\n20 ± 0.3\n0.8 4 ± 0.112 ± 1\n0.5\n15 ± 0.50\n17 ± 01\n'}]
+!==============================================================================!
+### Component Summary for QUALTEK Part Number: 701W-X2/02
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - UL, CSA: 250V AC
+  - VDE, CCC: 250V AC
+- **Current Ratings:**
+  - UL, CSA: 15A
+  - VDE, CCC: 10A
+- **Power Consumption:** Not specified directly; however, the current and voltage ratings imply a maximum power handling capability of:
+  - UL, CSA: 15A x 250V = 3750W
+  - VDE, CCC: 10A x 250V = 2500W
+- **Insulation Resistance:** Over 100 MΩ at 500V DC
+- **Dielectric Resistance:** 2000V AC for one minute
+- **Operating Temperature Range:** Not explicitly stated in the provided text.
+- **Package Type:** AC Receptacle
+- **Special Features or Notes:**
+  - RoHS Compliant
+  - Approved by UL, CSA, VDE, and CCC
+  - Panel thickness compatibility: 0.8mm to 1.5mm
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The QUALTEK 701W-X2/02 is an AC receptacle designed for electrical connections in various applications. It is constructed with a brass strip contact pin that is tin-plated, and the body insulator is made of black nylon. This component is primarily used to provide a safe and reliable interface for connecting electrical devices to an AC power source.
+
+#### Typical Applications:
+The 701W-X2/02 AC receptacle is typically used in:
+- Power management systems where reliable AC connections are required.
+- Consumer electronics and appliances that need to interface with AC power.
+- Industrial equipment where robust electrical connections are necessary.
+- Any application requiring compliance with safety standards such as UL, CSA, VDE, and CCC.
+
+This receptacle is suitable for use in environments where durability and safety are paramount, making it a versatile choice for both residential and commercial applications.

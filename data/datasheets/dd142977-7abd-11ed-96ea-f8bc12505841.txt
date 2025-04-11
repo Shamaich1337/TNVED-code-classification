@@ -1,0 +1,42 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MFP-25BRD52-15K production of YAGEO from the text:Through-hole resisT ors\nFeATures\nPower Rating 1/6W, 1/4W, 0.4W, 1/2W, 0.6W, 1W, 2W, 3W\nResistance T olerance ±0.1%, ±0.25%, (±0.02%, ±0.05% on request)\nT.C.R. ±15ppm/°C, ±25ppm/°C, (±5ppm/°C, ±10ppm/°C on request)\nDerATiNg Cur Ve\nFor resistors operated in ambient temperatures above 70°C, power rating must be derated \nin accordance with the curve below.\nRated Load (%)\nAmbient Temperature (°C) 160 140 120 100 80 60 40100\n80\n60\n40\n20\n2070 155°C\nDiMeNsioNs Unit: mm\nsTYle DiMeNsioN\nNormal Miniature l øD h ød\nMFP-12 MFP25S 3.4±0.3 1.9±0.2 28±2.0 0.45±0.05\nMFP204 - 3.4±0.3 1.9±0.2 28±2.0 0.45±0.05\nMFP-25 MFP50S 6.3±0.5 2.4±0.2 28±2.0 0.55±0.05\nMFP207 - 6.3±0.5 2.4±0.2 28±2.0 0.55±0.05\nMFP-50 MFP1WS 9.0±0.5 3.3±0.3 26±2.0 0.55±0.05\nMFP100 MFP2WS 11.5±1.0 4.5±0.5 35±2.0 0.8±0.05\nMFP200 MFP3WS 15.5±1.0 5.0±0.5 33±2.0 0.8±0.05\nød\nH L øDMetal Film r esistors Precision Type\nNormal & Miniature s tyle [ MFP s eries ]\niNTroDuCTioN\nThe MFP Series Metal Film Precision Resistors \nare manufactured using a vacuum sputtering \nsystem to deposit multiple layers of mixed metal \nalloys and passivative materials onto a carefully \ntreated high grade ceramic substrate.  After a \nhelical groove has been cut in the resistive layer, \ntinned connecting leads of electrolytic copper \nare welded to the end-caps.  The resistors are \ncoated with layers of blue color lacquer.  Ultra \nhigh precision resistors, ultra high stability, ultra low temperature coefficient.\nNote: RCWV(Rated Continuous Working Voltage) =   Power Rating x Resistance Value or Max. working voltage listed above, whichever less. Revision: 2020Note:7\neleCTriCAl ChArACTerisTiCs\nsTYle MFP-12 MFP25s MFP204 MFP-25 MFP50 sMFP207 MFP-50 MFP1W sMFP100 MFP2W sMFP200 MFP3W s\nPower Rating at 70°C 1/6W 1/4W 0.4W 1/4W 1/2W 0.6W 1/2W 1W 2W 3W\nMaximum Working Voltage 150V 200V 250V 350V 400V 500V\nMaximum Overload Voltage 300V 400V 500V 600V 700V 800V 1,000V\nVoltage Proof on Insulation 300V 500V 700V 1,000V\nResistance Range 10Ω - 1 M Ω for E192 series value\nOperating Temp. Range -55°C to +155°C\nTemperature Coefficient ±15ppm/°C, ±25ppm/°C\nNote: Special value is available on request\neNViroNMeNTAl ChArACTerisTiCs\nPerForMANC e TesT TesT MeThoD APPrAise\nShort Time Overload IEC 60115-1 4.13 2.5 times RCWV for 5 sec. (Not more than maximum Overload Voltage) ±0.25%+0.05Ω\nVoltage Proof on Insulation IEC 60115-1 4.7 In V-Block for 60 sec., test voltage as above table No Breakdown\nTemperature Coefficient IEC 60115-1 4.8 Between -55°C to +155°C By type\nInsulation Resistance IEC 60115-1 4.6 in V-block for 60 Sec. >10,000MΩ\nSolderability IEC 60115-1 4.17 245±5°C for 3±0.5 Sec. 95% Min. coverage\nSolvent Resistance of Marking IEC 60115-1 4.30 IPA for 5±0.5 Min. with ultrasonicNo deterioration of  \ncoatings and markings\nRobustness of Terminations IEC 60115-1 4.16 Direct load for 10 Sec. in the direction of the terminal leads ≥2.5kg (24.5N)\nPeriodic-pulse Overload IEC 60115-1 4.39 4 times RCWV 10,000 cycles (1 Sec. on, 25 Sec. off) ±1.0%+0.05Ω\nDamp Heat Steady State IEC 60115-1 4.24 40±2°C, 90-95% RH for 56 days, loaded with 0.1 times RCWV ±1.5%+0.05Ω\nEndurance at 70°C IEC 60115-1 4.25 70±2°C at RCWV (or Umax., Whichever less) for 1,000 Hr. (1.5Hr.on, 0.5Hr. Off) ±1.5%+0.05Ω\nTemperature Cycling IEC 60115-1 4.19 -55°C \uf062 Room Temp. \uf062 +155°C \uf062 Room Temp. (5 cycles) ±0.75%+0.05Ω\nResistance to Soldering Heat IEC 60115-1 4.18 260±3°C for 10±1 Sec., immersed to a point 3±0.5mm from the body ±0.25%+0.05Ω\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Yageo:   \n\xa0 MFP-25BRD52-10K\xa0 MFP-25BRD52-100R\xa0 MFP-25BRD52-100K\xa0 MFP-25BRD52-3K3\xa0 MFP-25BRD52-47K\xa0 MFP-\n25BRD52-3K9\xa0 MFP-25BRD52-1K2\xa0 MFP-25BRD52-91K\xa0 MFP-25BRD52-180R\xa0 MFP-25BRD52-1K\xa0 MFP-25BRD52-\n15K\xa0 MFP-25BRD52-7K5\xa0 MFP-25BRD52-12K\xa0 MFP-25BRD52-33K\xa0 MFP-25BRD52-56R\xa0 MFP-25BRD52-470R\xa0 MFP-\n25BRD52-2K2\xa0 MFP-25BRD52-270R\xa0 MFP-25BRD52-510R\xa0 MFP-25BRD52-56K\xa0 MFP-25BRD52-330R\xa0 MFP-\n25BRD52-390R\xa0 MFP-25BRD52-75K\xa0 MFP-25BRD52-33R\xa0 MFP-25BRD52-4K7\xa0 MFP-25BRD52-91R\xa0 MFP-25BRD52-\n75R\xa0 MFP-25BRD52-1K5\xa0 MFP-25BRD52-150R\xa0 MFP-25BRD52-9K1\xa0 MFP-25BRD52-120R\xa0 MFP-25BRD52-220R\xa0\nMFP-25BRD52-2K7\xa0 MFP-25BRD52-1K8\xa0 MFP-25BRD52-5K6\xa0 MFP-25BRD52-20K\xa0 MFP-25BRD52-910R\xa0 MFP-\n25BRD52-18K\xa0 MFP-25BRD52-39K\xa0 MFP-25BRD52-750R\xa0 MFP-25BRD52-27K\xa0 MFP207BTD52-100R\xa0 MFP-25BTD52-\n10K\n'}]
+!==============================================================================!
+### Component Summary: MFP-25BRD52-15K (YAGEO)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Maximum Working Voltage: 350V
+  - Maximum Overload Voltage: 600V
+  - Voltage Proof on Insulation: 1,000V
+
+- **Current Ratings:**
+  - Power Rating at 70°C: 1/4W (0.25W)
+
+- **Power Consumption:**
+  - Rated Continuous Working Voltage (RCWV) = Power Rating x Resistance Value or Max. working voltage, whichever is less.
+
+- **Operating Temperature Range:**
+  - -55°C to +155°C
+
+- **Package Type:**
+  - Through-hole resistor (MFP series)
+
+- **Special Features or Notes:**
+  - Ultra high precision and stability
+  - Ultra low temperature coefficient (T.C.R. of ±15ppm/°C)
+  - Resistance tolerance of ±0.1%, ±0.25%, with special values available on request
+  - Derating required for ambient temperatures above 70°C
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+#### Description:
+The MFP-25BRD52-15K is a precision metal film resistor designed for high stability and accuracy in electronic circuits. It is manufactured using a vacuum sputtering process that deposits multiple layers of metal alloys onto a ceramic substrate, ensuring high performance and reliability. The resistor features a helical groove cut into the resistive layer, with tinned copper leads for connection.
+
+#### Typical Applications:
+The MFP-25BRD52-15K is commonly used in applications requiring precise resistance values and stability over varying temperatures. Typical applications include:
+- **Signal Processing:** Used in analog circuits for filtering and signal conditioning.
+- **Power Management:** Employed in power supply circuits for voltage division and current limiting.
+- **Measurement Equipment:** Utilized in precision measurement devices where accurate resistance is critical.
+- **Consumer Electronics:** Found in various electronic devices where reliability and precision are essential.
+
+This component is ideal for engineers and designers looking for high-performance resistors in demanding applications.

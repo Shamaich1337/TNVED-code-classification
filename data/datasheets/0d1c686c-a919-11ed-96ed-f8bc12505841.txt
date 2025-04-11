@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of 776463-1 production of TE CONNECTIVITY from the text:3\nREVISIONS\n0 PLC\n1 PLC\n2 PLC\n3 PLC\n4 PLC\nANGLES\nOF SCALE SHEET REVNAME\nSIZE CAGE CODE DRAWING NODIMENSIONS: TOLERANCES UNLESS\nOTHERWISE SPECIFIED:DWN\nCHK\nAPVD\nMATERIAL FINISHPRODUCT SPEC\nAPPLICATION SPEC\nWEIGHTPLTR DATE APVD DWN DESCRIPTION4 2 1\nD\nB\nA ABC CDALL RIGHTS RESERVED.RELEASED FOR PUBLICATION\nCCOPYRIGHTTHIS DRAWING IS UNPUBLISHED.\n1471-9 (3/13)A2RESTRICTED TOTHIS DRAWING IS A CONTROLLED DOCUMENT.\nTE Connectivity1\nCUSTOMER DRAWING776463R. VESTAL01APR2003\nM. TRULL01APR2003\nM. TRULL01APR2003\n2:1 11B2-\n-\n-- -mm\n-\n-\n0.10\n-\n-\n2\x01$\x020'WIRE, RELIEF,\n35 POSITION\n-\n-2020\n00779BY -\n- -B1REVISED PER 0K40-0113-04 27APR2004 AGMT\nB2REVISED PER ECO-15-007694 21MAY2015 DDDS\n()38.0()33.2\n()47.1()7.00\n( )2.40\n( )3.40(R9.9-10.6)\nPART NUMBER776463-1 MATERIAL: PBT, 15% GLASS FILLED, COLOR: BLACK\n 2. ACCEPTS #4 SELF TAPPING SCREW (ELCO HI-LO THREAD CUTTING\n    STYLE OR EQUIVALENT) TO BE DRIVEN AT 0.6\x01#\x020.2 N-M FOR\n    INITIAL ASSEMBLY.\nSCALE  2:1\nSECTION  B-B\n1\n"}]
+!==============================================================================!
+### Component Summary for TE Connectivity Product Code 776463-1
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Current Ratings**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Power Consumption**: Not applicable for this component type; typically, this information can be found in the full datasheet.
+- **Operating Temperature Range**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Package Type**: Not specified in the provided text; typically, this information can be found in the full datasheet.
+- **Special Features or Notes**: 
+  - The component is a wire relief connector with 35 positions.
+  - It accepts #4 self-tapping screws (Elco Hi-Lo thread cutting style or equivalent) for assembly.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text; typically, this information can be found in the full datasheet.
+
+#### Component Description:
+The TE Connectivity 776463-1 is a wire relief connector designed to accommodate multiple wire connections in a compact form factor. It features 35 positions, allowing for a significant number of connections in a single unit. The connector is made from PBT (Polybutylene Terephthalate) that is 15% glass-filled, providing enhanced mechanical strength and thermal stability. The color of the connector is black.
+
+#### Typical Applications:
+This type of connector is commonly used in various applications where multiple wire connections are required, such as:
+- **Power Management**: In power distribution systems where multiple connections need to be made securely.
+- **Signal Processing**: In electronic devices that require reliable connections for signal transmission.
+- **Industrial Equipment**: In machinery and equipment where robust and reliable wire connections are essential.
+- **Consumer Electronics**: In devices that require compact and efficient wiring solutions.
+
+This summary provides a concise overview of the TE Connectivity 776463-1 component based on the provided text. For detailed specifications, it is recommended to refer to the complete datasheet.

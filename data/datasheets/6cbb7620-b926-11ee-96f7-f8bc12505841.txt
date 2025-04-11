@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NC11128C-618 production of METDA CORP from the text:                                              NC11128C-618 \nGaAs MMIC 功率放大器芯片 ，6GHz-18GHz \n \n \n石家庄市鹿泉区昌盛大街 21 号  ◆ 技术服务电话：0311-8393 3577/3578/3581/3582  ◆ 传真：0311-83933305  \n 中国电科产业基础研究院                                       v 0 1 . 1 4 0 5  \n26283032343638\n6 8 10 12 14 16 18\nFreq(Ghz)Psat(dBm)\n10203040506070\nPAE(%)\n \n性能特点：  \n\uf06c 频率范围： 6GHz～18GHz \n\uf06c 功率增益： 18dB \n\uf06c 连续波饱和输出功率： 34.5dBm \n\uf06c 功率附加效率： 20% \n\uf06c +8V @ 1.1A( 静态 ) \n\uf06c 芯片尺寸： 4.30mm×2.90mm×0.10mm \n产品简介：  \nNC11128C-618 是一种 GaAs MMIC 功率放大器芯片，\n频率范围覆盖 6GHz～18GHz，功率增益大于 18dB，连续\n波饱和输出功率大于 34.5dBm，功率附加效率大于 20%。 \n电参数（ TA=+25℃，Vd=8V，Vg=-0.6V ） \n指标  最小值  典型值  最大值 单位\n频率范围  6-18 GHz\n饱和输出功率  34.5 35  dBm\n功率增  益 1 8    d B  \n功率增益平坦度    ±0.75 dB \n功率附加效率  2 0  2 5   %  \n输入驻波    2 . 5  -  \n输出驻波   2 . 5   -  \n工作电流   1 . 6   A  \n注：  1）芯片均经过在片 100% 直流测试。 100% 射频测试。  \n2）测试条件： Vd=8V，Vg=-0.6V ，Pin=16dBm，Iq=1.1A 连\n续波测试。   \n使用限制参数  \n参数  数值  \n漏源正向偏压  10V \n栅源负偏压  - 4 V  \n输入连续波功率  +21dBm \n沟道温度  1 7 5 ℃ \n贮存温度  - 6 5 ℃～ 150℃ \n典型曲线  \n \n  \n \n  \n \n  \n  \n \n         \n外形尺寸  \nNC11128C-618 的外形尺寸（ 图中单位均为微米 ） \n \n         \n建议装配图  \n \n         \n注意事项：\n \n1) 单片电路需贮存在干燥洁净的 N2环境中；  \n2) GaAs材料很脆，使用时必须小心，以免损伤芯片；  \n3) 载体的导热性能越高越好，装配时芯片与载体之间要避免\n孔洞，利于功率单片的散热；  \n4) 载体的热膨胀系数应与 GaAs匹配 ,GaAs的线热膨胀系数\n为6.86×10-6/℃，建议衬底材料选用 CuW或CuMo； \n5) 建议用金锡焊料烧结， Au:Sn=80%:20%, 烧结温度不超过\n300℃，时间不长于 30秒 \n6) 输入输出有隔直电容；  \n7) 建议使用直径 25μm～30μm金丝，键合台底盘温度不超过\n250℃，键合时间尽量短；  \n8) 芯片使用、装配过程中注意防静电，戴接地防静电手镯，\n烧结、键合台接地良好；  \n9) 上电时先加栅压后加漏压，去电时先降漏压后降栅压；  \n10) 有问题请与供货商联系。  小信号增益/回波损耗 vs.频率  饱和输出功率/效率 vs.频率  \n注：外围电容 C1：100pF，C2：1000pF，\n建议 Vg，Vd外加 10uF旁路电容  \nVSWR_in VSWR_out Gain(dB) \nVSWR \nFreq(GHz) \n'}]
+!==============================================================================!
+### Component Summary: NC11128C-618
+
+**Description:**
+The NC11128C-618 is a Gallium Arsenide (GaAs) Monolithic Microwave Integrated Circuit (MMIC) power amplifier chip designed for high-frequency applications. It operates within a frequency range of 6 GHz to 18 GHz and is primarily used in communication systems that require efficient amplification of microwave signals.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Drain Voltage (Vd): 8V
+  - Gate Voltage (Vg): -0.6V (maximum -4V)
+  
+- **Current Ratings:**
+  - Static Current: 1.1A (typical)
+  - Maximum Operating Current: 1.6A
+
+- **Power Consumption:**
+  - Power Added Efficiency (PAE): 20% (typical)
+
+- **Operating Temperature Range:**
+  - Channel Temperature: Up to 175°C
+  - Storage Temperature: -65°C to 150°C
+
+- **Package Type:**
+  - Chip dimensions: 4.30mm x 2.90mm x 0.10mm
+
+- **Special Features:**
+  - Power Gain: Greater than 18 dB
+  - Saturated Output Power: Greater than 34.5 dBm
+  - Input and Output Return Loss: 2.5 (VSWR)
+  - Power Gain Flatness: ±0.75 dB
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided text, but care should be taken to store in a dry environment.
+
+**Typical Applications:**
+The NC11128C-618 is typically used in:
+- Microwave communication systems
+- Satellite communication
+- Radar systems
+- Wireless communication devices
+- Signal amplification in high-frequency applications
+
+**Notes:**
+- The chip must be stored in a clean, dry nitrogen environment to prevent moisture damage.
+- Care should be taken during handling due to the brittleness of GaAs material.
+- The thermal management is crucial; substrates with high thermal conductivity are recommended for assembly.
+- ESD precautions should be observed during handling and assembly.
+
+This summary encapsulates the essential characteristics and applications of the NC11128C-618 power amplifier chip, making it suitable for engineers and designers working in high-frequency electronics.

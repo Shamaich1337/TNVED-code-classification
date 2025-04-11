@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BL2-012-G700-95 production of E-TEC from the text: \n \n 2.54 ±0.1  2.54xNo. of postions-2.54 ±0.2  2.54xNo. of postions±0.3 \n 2.54 ±0.1 \n 5.08 ±0.1  2.54 \n 2.54  2.54xNo. of postions-2.54 ±0.2 \n 1 \nRecommended PCB\nLayout (±0.05)\nDRAWN\nCHK\'D\nAPPV\'DUNLESS OTHERWISE SPECIFIED:\nDIMENSIONS ARE IN MILLIMETERS\nGENERAL TOLERANCES ISO  2768mRemark:\nREVScale\n3:1\nSHEET 1 OF 1A4H\n0\nwww.e-tec.com-\n29.03.2022"E-tec order code"\n"Production  code"\n- --DATE NAME\nmga 29.03.2022\nREV\'Dmodif:\nsmepatented\nDRAWN\nCHK\'D\nAPPV\'DUNLESS OTHERWISE SPECIFIED:\nDIMENSIONS ARE IN MILLIMETERS\nGENERAL TOLERANCES ISO  2768mRemark:\nREVScale\n3:1\nSHEET 1 OF 1A4H\n0\nwww.e-tec.comThe information contained in this \ndrawing is proprietary to E-tec \nInterconnect AG  and shall not be \nreproduced or disclosed in whole or \nin part or used for any design or \nmanufacture except whe such user \npossesses direct, written authorization \nfrom E-tec Interconnect AG-\n29.03.2022"E-tec order code"\n"Production  code"\n- --DATE NAME\nREV\'Dmodif:\nsmepatented\nTechnical data\nPin (outer sleeve) : Brass, machined CuZn38Pb2\nClip (contact 6 finger) : Beryllium copper, heat teated\nInsulator : PPS UL94V-0 colour : black\nCurrent rating : 1Amps *30VDC\nMating pin ø : 0.635/0.899mm\nForces : (polished steel gauge ø0.66mm)\n-Insertion : 1.2N typ\n-Withdrawal : 0.6N typ\nMechanical life : min 500 cycles\nContact resistance : max 10mΩ\nDielctric strength : min 1000V RMS\nOperating temperature : -40°C to +105°C\nSoldering temperature : +255°CBL2-xxx-G 700-95\nBL2-xxx-G 700-95\nwww.e-tec.com          E-tec 2018 copyright - all rights reserved  Cannot be copied, reproduced or modified without a prior written approval of E-tec Interconnect AG \n'}]
+!==============================================================================!
+### Component Summary for BL2-012-G700-95 (E-TEC)
+
+#### Key Specifications:
+- **Voltage Rating**: 30 VDC
+- **Current Rating**: 1 A
+- **Power Consumption**: Not explicitly stated; power can be calculated as P = V x I = 30V x 1A = 30W (theoretical maximum under rated conditions).
+- **Operating Temperature Range**: -40°C to +105°C
+- **Package Type**: Not specified in detail, but it is a connector type component.
+- **Special Features/Notes**:
+  - Mating pin diameter: 0.635/0.899 mm
+  - Insertion force: 1.2 N (typical)
+  - Withdrawal force: 0.6 N (typical)
+  - Mechanical life: Minimum 500 cycles
+  - Contact resistance: Maximum 10 mΩ
+  - Dielectric strength: Minimum 1000 V RMS
+  - Soldering temperature: +255°C
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Component Description:
+The BL2-012-G700-95 is a connector component manufactured by E-TEC. It features a brass outer sleeve and a beryllium copper clip, designed for reliable electrical connections. The insulator is made from PPS (Polyphenylene Sulfide) with a UL94V-0 rating, indicating good flame resistance. This component is typically used in applications requiring secure and durable connections in electronic assemblies.
+
+#### Typical Applications:
+The BL2-012-G700-95 connector is suitable for various applications, including:
+- **Interconnects in electronic devices**: Used to connect different parts of a circuit or system.
+- **Power management systems**: Facilitates the connection of power supply lines.
+- **Signal processing**: Ensures reliable signal transmission between components.
+- **Consumer electronics**: Commonly found in devices that require compact and efficient connectors.
+
+This component is ideal for environments where durability and reliability are critical, given its wide operating temperature range and robust mechanical specifications.

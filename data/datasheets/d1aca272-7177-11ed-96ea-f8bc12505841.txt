@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of FYL-3012PD1A production of FORYARD OPTOELECTRONICS from the text:■Emitting Color: Photo diode.\n■Device Outline: Φ3mm  round type.\n■Lens Type: Deep blue.\nNINGBO FORYARD OPTOELECTRONICS CO.,LTD.\nAdd: No. 666 Jinghua Road, Hi-tech Park, Ningbo, Zhejiang, China              Zip:315103\nTel:  0086-574-87933652 87922206 87927870\nFax: 0086-574-87927917\nE-mail: Sales@foryard.com     (General)\nPage：1/4Model No. ：FYL-3012PD1A\nDescriptions:\nCUSTOMER APPROVED\nSIGNATURESAPPROVED BY CHECKED BY PREPARED BYModel  No. FYL-3012PD1A\nDate / Rev. 2020.05.08 / A\nPRODUCT SPECIFICATION\n                      Http://www.foryard.com\n\nModel No. ：FYL-3012PD1A\n■ Features\n   1.Low power consumption.\n   2.High efficiency.\n   3.General purpose leads. \n   4.High intensity.\n   5.RoHs compliant.\n■ Package configuration\nNotes: \n1. All dimensions are millimeters (inches)\n2. Tolerance is ±0.25mm(.010”) unless otherwise noted.\n3. The specifications, characteristics and technical data described in the datasheet are subject \n     to change without prior notice.\n4.The drawing is different from the actual one, please refer to the sample.\nPage：2/4Date / Rev. 2020.05.08 / AModel  No. FYL-3012PD1A\n                      Http://www.foryard.com\n\nModel No. ：FYL-3012PD1A\n■ Absolute Maximun Ratings(Ta=25º C)\nSymbol Min. Typ. Max. Unit\nVBR 35 170  --- V\nTopr -30  --- 85 ℃\nTstr -30  --- 100 ℃\n■ Typical Electrical &Optical Charcteristics(Ta=25º C)\nSymbol Min. Typ. Max. Unit\nVF 0.5 1.3 1.7 V\nλp  --- 940  --- nm\nIL  --- 1.8 -- µA\nID  --- 2 10 nA\nCJ  --- 1.5 -- PF\n   Note:\n           1.Luminous Intensity is based on the Foryard standards.\n           2.Pay attention about static for InGaN\nPage：3/4Operating Temperature\nStorage Temperature ---\n ---\nTest ConditionModel  No. FYL-3012PD1A\nDate / Rev. 2020.05.08 / A\nReverse Breakdown VoltageParameter Test Condition\nIR=100µ A,H=0mw/cm2\n                      Http://www.foryard.comParameter\nForward Voltage\nPeak Sensing Wavelength\nLight Current\nReverse Dark Current\nJuncition CapacitanceIF=20mA\nIF=20mA\nVR=5V,1mw/cm2@940nm\nH=0mw/cm2,VR=10V\nVR=3V,F=1MHZ, H=0mw/cm2\n\n■  LAMP PACKING.\nNote: The specifications are subject to change without notice. Please contact us for updated information.\nPage：4/4Model  No. FYL-3012PD1A\nDate / Rev. 2020.05.08 / A\nModel No. ：FYL-3012PD1A\n                      Http://www.foryard.com\nPart NO: FYL-XXXXXX\nxxxx/xx/xxQuantity:  XXXPCS\nQC:QC1\nPASSED\nxxxxxxxxxxVF: XXX-XXX\nWD:XXX-XXX\nIV:XXXX-XXXX\nwww.foryard.comOUTSIDE LABEL\n3mm 1000PCS/Polybag\n18000PCS/Box\n108000PCS/CartonPART NUMBER Q'TY(PCS)\nG.W.: KGSFYL-XXXXXXXXX XXXX\nLED\nPN:FYL-XXXXXXXXXXX\nQty:XXXXX PCS\nDate:XXXX/XX/XX\nGW: XX.XX      KG\nNW: XX.XX      KG\nxxxxxxxxxxRoHS\nATTENTION\nOUTSIDE LABELE SD SHIELDING BAGS HIELD PAK\nATTENTION\nOBSE RVE  PRECA UTIONS\nFOR HANDLING\nE LECTROSTA TIC\nS ENSITIVE  DEV ICES\n"}]
+!==============================================================================!
+### Component Summary: FYL-3012PD1A
+
+**Manufacturer:** Ningbo Foryard Optoelectronics Co., Ltd.  
+**Product Type:** Photodiode  
+**Emitting Color:** Deep Blue  
+**Device Outline:** Φ3mm Round Type  
+**RoHS Compliance:** Yes  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Reverse Breakdown Voltage (VBR): 35V (Min), 170V (Typ)
+- **Current Ratings:**
+  - Forward Current (IF): 20mA (Typical)
+  - Light Current (IL): 1.8µA (Typical)
+  - Reverse Dark Current (ID): 2nA (Min), 10nA (Max)
+- **Power Consumption:**
+  - Forward Voltage (VF): 0.5V (Min), 1.3V (Typ), 1.7V (Max)
+- **Operating Temperature Range:**
+  - Operating Temperature (Topr): -30°C to 85°C
+  - Storage Temperature (Tstr): -30°C to 100°C
+- **Package Type:** 3mm round package
+- **Special Features:**
+  - Low power consumption
+  - High efficiency
+  - High intensity
+  - General-purpose leads
+- **Moisture Sensitive Level:** Not specified in the provided data.
+
+#### Description:
+The FYL-3012PD1A is a photodiode designed for detecting light in the deep blue spectrum. It features a compact 3mm round package, making it suitable for various applications where space is a constraint. The device is characterized by its low power consumption and high efficiency, which makes it ideal for battery-operated devices.
+
+#### Typical Applications:
+- **Optical Sensing:** Used in applications requiring light detection, such as light meters and optical switches.
+- **Consumer Electronics:** Commonly found in devices like remote controls and cameras where light detection is essential.
+- **Industrial Automation:** Utilized in sensors for automation systems that require precise light detection.
+- **Medical Devices:** Employed in medical equipment for monitoring and diagnostics that rely on light sensing.
+
+This photodiode is versatile and can be integrated into various electronic systems where light detection and low power consumption are critical.

@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of COL-850-C-S (Corning-MM50/125) -40-50-1-1-2-1 production of LIGHTSTAR TECHNOLOGY LIMITED from the text:Коллиматор COL -850-C-S(Corning -MM50/125) -40-50-1-1-2-1\nCOL -850-C-S(Corning -MM 50/125) -40-50-1-1-2-1от компании Lightstar Technology Limited\n–коллиматоры являющиеся  основными составляющими для микрооптических\nкомпонентов, таких как DWDM –фильтры, изолятор, циркулятор и оптический\nпереключатель.\nПрименение\n\uf0b7Микрооптические компоненты\n\uf0b7Волоконные лазеры\nОптические и электрические характеристики\nПараметр Значение\nРабочая длина волны 1550 нм\nТип линзы C-линза\nВносимые потери <0,25дБ\nВозвратные потери >60дБ\nДопустимая мощность <500 мВт\nТип волокна Одномодовое Corning -ММ-50/125\nБуферное покрытие 250мкм\nТип коннектора FC/UPC\nДлина волоконного вывода 2м.\nРабочая температура -5~70° C\nТемпература хранения -40 ~ 85 ° C\nМеханические параметры\n\n\n'}]
+!==============================================================================!
+### Component Summary: COL-850-C-S (Corning-MM50/125)
+
+**Description:**
+The COL-850-C-S is a collimator designed for use in micro-optical components, such as Dense Wavelength Division Multiplexing (DWDM) filters, isolators, circulators, and optical switches. It is specifically tailored for applications involving fiber lasers and other optical systems.
+
+**Key Specifications:**
+- **Operating Wavelength:** 1550 nm
+- **Lens Type:** C-lens
+- **Insertion Loss:** < 0.25 dB
+- **Return Loss:** > 60 dB
+- **Maximum Power Handling:** < 500 mW
+- **Fiber Type:** Single-mode Corning MM 50/125
+- **Buffer Coating:** 250 µm
+- **Connector Type:** FC/UPC
+- **Fiber Output Length:** 2 m
+- **Operating Temperature Range:** -5 to 70 °C
+- **Storage Temperature Range:** -40 to 85 °C
+
+**Moisture Sensitive Level:** Not specified in the provided text.
+
+**Special Features:**
+- High return loss (> 60 dB) ensures minimal signal reflection, which is critical for maintaining signal integrity in optical systems.
+- Low insertion loss (< 0.25 dB) contributes to efficient signal transmission.
+
+### Typical Applications:
+- **Micro-optical Components:** Used in the assembly of various optical devices that require precise light management.
+- **Fiber Lasers:** Suitable for applications in fiber laser systems where efficient light coupling and minimal loss are essential.
+- **Telecommunications:** Ideal for use in DWDM systems, enhancing the capacity and efficiency of fiber optic networks.
+
+This collimator is a vital component in modern optical communication systems, ensuring high performance and reliability in various applications.

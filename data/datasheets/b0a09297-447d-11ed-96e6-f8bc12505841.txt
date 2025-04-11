@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BL2-040-GW003-98 production of E-TEC from the text:www.e-tec.com          E-tec 2019 copyright - all rights reserved  Cannot be copied, reproduced or modified without a prior written approval of E-tec Interconnect AG 0 \n 2.40 \n 5.80 \n 7 \n 20.08  \n0.64 \n 5.08 \n 2.54  ###/2 x2.54 \n 1.27  2.54 \nInsulator Black glass filled polyester \nFlammability: UL 94V-0\nSleeve: Brass Tin plated\nClips : BeCu gold plated 0.75my for pin Ø0.70-0.90\nInsertion force 1.2N\nWithdrawal force 0.6N\nContact life: 500 cycles\nCurrent rating: 3 A\nContact resistance: max10 mΩ\nDRAWN\nCHK\'D\nAPPV\'DUNLESS OTHERWISE SPECIFIED:\nDIMENSIONS ARE IN MILLIMETERS\nGENERAL TOLERANCES ISO  2768mRemark:\nREVScale\n4:1 A4V\nBL2-###-GW003-980\nwww.e-tec.comThe information contained in this \ndrawing is proprietary to E-tec \nInterconnect AG and shall not be \nreproduced or disclosed in whole or \nin part or used for any design or \nmanufacture except whe such user \npossesses direct, written authorization \nfrom E-tec Interconnect AG-\n01.06.2022"E-tec order code"\n- --DATE NAME\nsme 01.06.2022\nREV\'Dmodif:\nC:\\LOCAL E-TEC\\Dessins\\Divers\\Pablo\\BL2-###-GW003-98\\BL2-###-GW003-98smepatented\nSHEET 1 OF 1NUMBER OF POLES 4 TO 100\n\n'}]
+!==============================================================================!
+### Component Summary for BL2-040-GW003-98
+
+**Component Type:** Connector
+
+**Description:**
+The BL2-040-GW003-98 is a connector produced by E-tec Interconnect AG. It features a robust design suitable for various electronic applications. The insulator is made of black glass-filled polyester, which provides durability and resistance to environmental factors. The connector is designed for reliable electrical connections with a focus on longevity and performance.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, connectors of this type can handle standard voltage levels depending on the application.
+- **Current Ratings:** 3 A
+- **Power Consumption:** Not specified; power consumption would depend on the application and load.
+- **Operating Temperature Range:** Not specified; typically, connectors can operate within a range of -40°C to +85°C, but this should be confirmed with the manufacturer.
+- **Package Type:** Not explicitly mentioned; however, it is a connector type with multiple poles (4 to 100).
+- **Special Features or Notes:**
+  - Insulator: Black glass-filled polyester
+  - Flammability Rating: UL 94V-0
+  - Sleeve Material: Brass, tin plated
+  - Clips Material: BeCu, gold plated (0.75 µm for pin Ø0.70-0.90)
+  - Insertion Force: 1.2 N
+  - Withdrawal Force: 0.6 N
+  - Contact Life: 500 cycles
+  - Contact Resistance: Max 10 mΩ
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Typical Applications:**
+The BL2-040-GW003-98 connector is typically used in various electronic applications where reliable connections are essential. Common applications include:
+- Power management systems
+- Signal processing circuits
+- Data storage devices
+- Industrial automation equipment
+- Consumer electronics
+
+This connector is designed to facilitate efficient electrical connections in environments where durability and performance are critical.

@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ECC-020-SC100-95 production of E-TEC from the text:ABC\n006 14,22 10,66 5,08\n008 16,76 13,20 7,62\n010 19,30 15,74 10,16\n012 21,84 18,28 12,70\n014 24,38 20,82 15,24\n016 26,92 23,36 17,78\n018 29,46 25,90 20,32\n020 32,00 28,44 22,86\n022 34,54 30,98 25,40\n024 37,08 33,52 27,94\n026 39,62 36,06 30,48\n028 42,16 38,60 33,02\n030 44,70 41,14 35,56\n032 47,24 43,68 38,10\n034 49,78 46,22 40,64\n036 52,32 48,76 43,18\n038 54,86 51,30 45,72\n040 57,40 53,84 48,26\n042 59,94 56,38 50,80\n044 62,48 58,92 53,34\n046 65,02 61,46 55,88\n048 67,56 64,00 58,42\n050 70,10 66,54 60,96\n052 72,64 69,08 63,50\n054 75,18 71,62 66,04\n056 77,72 74,16 68,58\n058 80,26 76,70 71,12\n060 82,80 79,24 73,66\n062 85,34 81,78 76,20\n064 87,88 84,32 78,74\n066 90,42 86,86 81,28\n068 92,96 89,40 83,82\n070 95,50 91,94 86,36\n072 98,04 94,48 88,90\n080 108,20 104,64 99,06\n086 115,82 112,26 106,68\n100 133,60 130,04 124,46\n120 159,00 155,40 149,86No. of \nContactsDimension mm\nCB 1\n006 5,08 10,66\n008 7,62 13,20\n010 10,16 15,74\n012 12,70 18,28\n014 15,24 20,82\n016 17,78 23,36\n018 20,32 25,90\n020 22,86 28,44\n022 25,40 30,98\n024 27,94 33,52\n026 30,48 36,06\n028 33,02 38,60\n030 35,56 41,14\n032 38,10 43,68\n034 40,64 46,22\n036 43,18 48,76\n038 45,72 51,30\n040 48,26 53,84\n042 50,80 56,38\n044 53,34 58,92\n046 55,88 61,46\n048 58,42 64,00\n050 60,96 66,54\n052 63,50 69,08\n054 66,04 71,62\n056 68,58 74,16\n058 71,12 76,70\n060 73,66 79,24\n062 76,20 81,78\n064 78,74 84,32\n066 81,28 86,86\n068 83,82 89,40\n070 86,36 91,94\n072 88,90 94,48\n080 99,06 104,64\n086 106,68 112,26\n100 124,46 130,04\n120 149,86 155,44No. of \nContactsDimension mm\n'}]
+!==============================================================================!
+### Component Summary: ECC-020-SC100-95 by E-TEC
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Current Ratings**: Not explicitly stated; usually specified in the full datasheet.
+- **Power Consumption**: Not provided; generally found in the complete datasheet.
+- **Operating Temperature Range**: Not specified; typically included in the full datasheet.
+- **Package Type**: Not detailed in the provided text; usually described in the full datasheet.
+- **Special Features or Notes**: The provided text lists dimensions and contact numbers but lacks specific features.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not mentioned; this information is typically included in the full datasheet.
+
+#### Description of the Component:
+The ECC-020-SC100-95 is likely a type of electrical connector or contact system, as inferred from the context of the provided dimensions and contact numbers. Connectors are essential components in electronic systems, allowing for the connection and disconnection of circuits and devices.
+
+#### Typical Applications:
+Connectors like the ECC-020-SC100-95 are commonly used in various applications, including:
+- **Power Management**: Connecting power supplies to devices.
+- **Signal Processing**: Facilitating communication between different electronic components.
+- **Data Storage**: Connecting storage devices to motherboards or other interfaces.
+- **Industrial Equipment**: Used in machinery and automation systems for reliable connections.
+
+### Conclusion:
+The ECC-020-SC100-95 component appears to be a connector with specific dimensions and contact configurations. However, the provided text lacks detailed specifications such as voltage ratings, current ratings, and operating temperature ranges, which are crucial for a comprehensive understanding of its capabilities and applications. For complete information, consulting the full datasheet is recommended.

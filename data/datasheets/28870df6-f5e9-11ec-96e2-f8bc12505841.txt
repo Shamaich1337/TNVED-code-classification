@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of KNS5W3R9JTR production of WEE TECHNOLOGY  from the text:1/1\nWireWoundResistor\nWEETechnologyCompanyLimited\nFLAT/RM705,7/F,\nFAYUENCOMMBLDGNO.75,\nFAYUENSTREET,MONGKOK,KL,HK\nwww.weetcap.com\ninfo@weetcap.comAlldetailsinthisdatasheetaresubjecttochangewithoutnotice.\nFormoredetailsandupdates,pleasevisitourwebsite.\nCopyright©2000WEETechnology,Allrightsreserved.\nFEATURES\n\uf0d8Wirewoundresistorsaremadebywindingtheresistancewire\nnon-corrosive,heat-proofandhumidity-proofmaterial.\n\uf0d8Deliveryfromstockinbulktaped,andstrippack.\n\uf0d8Exceptionallong-termstability\n\uf0d8Standardtolerance：±1%,±2%,±5%\nDRAWINGandDIMENSIONS(mm)\nSPECIFICATIONS\nPowerRating70℃ KNP-1/2WKNP-1W KNP-2W KNP-3W KNP-4WKNP-5WKNP-7WKNP-8WKNP-\n10W\nSeriesNumber KNS-1W KNS-2W KNS-3W KNS-4W KNS-5WKNS-7WKNS-10W - -\nOperatingTemp.Range -55℃~+155℃\nDielectricWithstandingVoltage(AC) 500V 500V 500V 500V 500V 500V 500V 800V 1000V\nValueRange±5% 0.1Ω-300Ω0.1Ω-499Ω0.1Ω-1.5KΩ0.1Ω-1.5KΩ0.1Ω-1.5KΩ0.5Ω-3KΩ0.5Ω-3KΩ1Ω-3KΩ1Ω-3KΩ\nTemp.Coefficient(byType) ±350ppm/℃\nNote:ValueforNKNPNon-inductivetypeisupto50Ωonly.\nFIG.1DERATINGCURVE FIG.2HOT-SPOTTEMPERATURE\nNote:Otherresistanceisavailableonrequest.WEETiscapableofdoingcustomserviceforyou.SeriesPower\nRatingDimension(mm)\n(Watt) L ØD H Ød\nKNP-1/2WKNS-1W 9.2±1.03.5±0.526±2.00.58±0.05\nKNP-1W KNS-2W 11.5±1.04.5±0.535±2.00.78±0.05\nKNP-2W KNS-3W 15.5±1.05.0±0.533±2.00.78±0.05\nKNP-3W KNS-4W 17.5±1.06.0±0.532±2.00.78±0.05\nKNP-4W KNS-5W 17.5±1.06.0±0.532±1.00.78±0.05\nKNP-5W KNS-7W 24.5±1.08.0±0.538±1.00.78±0.05\nKNP-7W KNS-10W 30.0±1.08.0±0.538±1.00.78±0.05\nKNP-8W 40.0±1.08.0±0.538±1.00.78±0.05\nKNP-10W 53.0±1.08.0±0.538±1.00.78±0.05\n'}]
+!==============================================================================!
+### Component Summary for KNS5W3R9JTR (Wire Wound Resistor)
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - Dielectric Withstanding Voltage (AC): 500V (for KNS series)
+  
+- **Current Ratings**: 
+  - Power Rating: 5W (for KNS-5W)
+  
+- **Power Consumption**: 
+  - Power Rating: 5W at 70°C
+  
+- **Operating Temperature Range**: 
+  - -55°C to +155°C
+  
+- **Package Type**: 
+  - Standard cylindrical wire wound resistor
+  
+- **Special Features or Notes**: 
+  - Made from non-corrosive, heat-proof, and humidity-proof materials.
+  - Exceptional long-term stability.
+  - Standard tolerance options: ±1%, ±2%, ±5%.
+  - Custom resistance values available upon request.
+  
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: 
+  - Not specified in the provided text.
+
+#### Description:
+The KNS5W3R9JTR is a wire wound resistor, which is a type of resistor made by winding a resistance wire around a non-conductive core. This construction allows for high precision and stability in resistance values, making it suitable for various applications where reliability is critical. The KNS series is designed to handle power ratings up to 10W, with the KNS-5W variant specifically rated at 5W.
+
+#### Typical Applications:
+Wire wound resistors like the KNS5W3R9JTR are commonly used in:
+- **Power Management**: As load resistors in power circuits to manage and dissipate energy.
+- **Signal Processing**: In circuits where precise resistance values are necessary for signal conditioning.
+- **Voltage Dividers**: To create specific voltage levels in electronic circuits.
+- **Current Sensing**: In applications where monitoring current flow is essential.
+- **Industrial Equipment**: Due to their durability and stability, they are often used in industrial applications where environmental conditions can vary.
+
+This component is ideal for applications requiring high stability and precision, making it a reliable choice for engineers and designers in various electronic fields.

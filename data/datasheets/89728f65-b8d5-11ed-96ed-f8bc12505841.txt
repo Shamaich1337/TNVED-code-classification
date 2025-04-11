@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 212514-1006 production of MOLEX from the text:NOTES:\n1. MATERIAL: NYLON, BLACK, UL 94-V0.\n2. PRODUCTION SPECIFICATION: 2125150000-PS.\n3. APPLICATION SPECIFICATION: 2125150001-AS.\n4. PACKAGING SPECIFICATION: 2125140001-PK.\n5. THIS HOSUING TO BE USED WITH FEMALE TERMINAL\n    SERIES 212515 AND TPA SERIES 212516.\n6. THIS PART MATES WITH HEADER SERIES 212520.\n7. PARTS CONFORM TO CLASS "B" REQUIREMENTS OF\n    COSMETIC SPECIFICATION PS-45499-002.\n21.90DIM A\n9.40�13.45�4.2010\nMOLEX SERIES4.208.90\nMOLEX LOGOPLANT ID\nCKT 1CAV.NO\nCKT 2LAST CKT9\nTERMINAL AND TPA ORIENTATION\nFORMAT: master-tb-prod-A3\nREVISION: J\nDATE: 2020/01/14DOCUMENT STATUS P1 RELEASE DATE 2021/09/29 14:26:23 \n \n \nFUNCTIONAL\nSYMBOLS\n=0\n=0\n=0\nDIVISIONAL\nSYMBOLSMINI-FIT MAX DR RECEPT HSG\n PRODUCT CUSTOMER DRAWING\nDOCUMENT NUMBER DOC TYPE DOC PART REVISION\n2125140001-SD PSD 000B1\nMATERIAL NUMBER CUSTOMER SHEET NUMBER\n 1 OF 2CURRENT REV DESC:\nEC NO: 679543\nDRWN: ZIXUAQ 2021/09/28\nCHK\'D: XQZHANG 2021/09/29\nAPPR: XQZHANG 2021/09/29\nINITIAL REVISION:\nDRWN: SCHEN76 2020/04/24\nAPPR: YXZHENG 2020/05/13\nTHIRD ANGLE PROJECTION DRAWING SERIES\nA3-SIZE 212514DIMENSION UNITS SCALE\nmm 2:1\nGENERAL TOLERANCES\n   (UNLESS SPECIFIED)\nANGULAR TOL ±  °\n4 PLACES ±\n3 PLACES ±\n2 PLACES ± 0.25\n1 PLACE ± 0.5\n0 PLACES ±\nDRAFT WHERE APPLICABLE\nMUST REMAIN\nWITHIN DIMENSIONSTHIS DRAWING CONTAINS INFORMATION THAT IS PROPRIETARY TO MOLEX ELECTRONIC TECHNOLOGIES, LLC AND SHOULD NOT BE USED WITHOUT WRITTEN PERMISSION\n98\n87\n7F6\nF\n6E5\nE\n5D4\nD\n4C3\nC\n3B2\nB\n2A1\nA\n1FIRST CKT\nLAST CKT\nPART NUMBER COLOR CIRCUIT SIZE DIM A\n212514-1002\nBLACK2 10.10\n212514-1004 4 10.10\n212514-1006 6 13.80\n212514-1008 8 18.00\n212514-1010 10 22.20\n212514-1012 12 26.40\n2CKT 4CKT 6CKT 8CKT\n10CKT 12CKT\nFORMAT: master-tb-prod-A3\nREVISION: J\nDATE: 2020/01/14DOCUMENT STATUS P1 RELEASE DATE 2021/09/29 14:26:23 \n \n \nFUNCTIONAL\nSYMBOLS\n=0\n=0\n=0\nDIVISIONAL\nSYMBOLSMINI-FIT MAX DR RECEPT HSG\n PRODUCT CUSTOMER DRAWING\nDOCUMENT NUMBER DOC TYPE DOC PART REVISION\n2125140001-SD PSD 000B1\nMATERIAL NUMBER CUSTOMER SHEET NUMBER\n 2 OF 2CURRENT REV DESC:\nEC NO: 679543\nDRWN: ZIXUAQ 2021/09/28\nCHK\'D: XQZHANG 2021/09/29\nAPPR: XQZHANG 2021/09/29\nINITIAL REVISION:\nDRWN: SCHEN76 2020/04/24\nAPPR: YXZHENG 2020/05/13\nTHIRD ANGLE PROJECTION DRAWING SERIES\nA3-SIZE 212514DIMENSION UNITS SCALE\nmm 2:1\nGENERAL TOLERANCES\n   (UNLESS SPECIFIED)\nANGULAR TOL ±  °\n4 PLACES ±\n3 PLACES ±\n2 PLACES ± 0.25\n1 PLACE ± 0.5\n0 PLACES ±\nDRAFT WHERE APPLICABLE\nMUST REMAIN\nWITHIN DIMENSIONSTHIS DRAWING CONTAINS INFORMATION THAT IS PROPRIETARY TO MOLEX ELECTRONIC TECHNOLOGIES, LLC AND SHOULD NOT BE USED WITHOUT WRITTEN PERMISSION10 9\n98\n87\n7F6\nF\n6E5\nE\n5D4\nD\n4C3\nC\n3B2\nB\n2A1\nA\n1\n'}]
+!==============================================================================!
+### Component Summary for MOLEX 212514-1006
+
+**Component Type:** Connector Housing
+
+**Description:**
+The MOLEX 212514-1006 is a connector housing designed for use with female terminals from the MOLEX Mini-Fit Max series (212515) and TPA series (212516). It is part of the Mini-Fit Max connector system, which is known for its reliability and versatility in various electronic applications.
+
+**Key Specifications:**
+- **Material:** Nylon, Black, UL 94-V0 rated (flame retardant)
+- **Dimensions:** 
+  - **Length (DIM A):** 13.80 mm
+- **Circuit Size:** 6 circuits
+- **Moisture Sensitivity Level:** Not specified in the provided text, but typically assessed according to JEDEC J-STD-020E.
+- **Production Specification:** 2125150000-PS
+- **Application Specification:** 2125150001-AS
+- **Packaging Specification:** 2125140001-PK
+- **Cosmetic Specification Compliance:** Conforms to Class "B" requirements of cosmetic specification PS-45499-002.
+
+**Special Features:**
+- Designed to mate with header series 212520.
+- Compatible with female terminal series 212515 and TPA series 212516.
+
+**Typical Applications:**
+The MOLEX 212514-1006 connector housing is typically used in various electronic applications where reliable connections are required. Common applications include:
+- Power management systems
+- Consumer electronics
+- Automotive electronics
+- Industrial equipment
+- Telecommunications
+
+This connector housing is essential for ensuring secure and efficient electrical connections in devices that require modular connectivity solutions.

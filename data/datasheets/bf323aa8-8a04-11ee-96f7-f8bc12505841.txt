@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of L-53SRC-J4 production of KINGBRIGHT from the text:SPEC NO: DSAM7491                 REV NO: V.1A                                DATE: NOV/16/2012                                    PAGE:  1  OF  6 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: C.H.Han                                         ERP: 1101032237 T-1 3/4 (5mm) SOLID STATE LAMP \nPart Number: L-53SRC-J4                Super Bright Red \nFeatures \nzLow power consumption. \nzPopular T-1 3/4 diameter package. \nzGeneral purpose leads. \nzReliable and rugged. \nzLong life - solid state reliability. \nzAvailable on tape and reel. \nzRoHS compliant. Description  \nThe Super Bright Red source color devices are made with \nAlGaInP on Si substrate Light Emitting Diode. \nPackage Dimensions \nNotes: \n1. All dimensions are in millimeters (inches). \n2. Tolerance is ±0.25(0.01") unless otherwise noted. \n3. Lead spacing is measured where the leads emerge from the package. \n4. The specifications, characteristics and technical  data described in the datasheet are subject to cha nge without prior notice. \n \n\nSPEC NO: DSAM7491                 REV NO: V.1A                                DATE: NOV/16/2012                                    PAGE:  2  OF  6 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: C.H.Han                                         ERP: 1101032237 Selection Guide \nNotes: \n1. ș1/2 is the angle from optical centerline where the luminous intensity is 1/2 of the optical peak value. \n2. Luminous intensity/ luminous Flux: +/-15%. \n  * Luminous intensity value is traceable to the CIE127-2 007 compliant national standards. ʳʳ\nAbsolute Maximum Ratings at TA=25°C Electrical / Optical Characteristics at TA=25°C \nNotes: \n1.Wavelength: +/-1nm. \n2. Forward Voltage: +/-0.1V. \n3. Wavelength value is traceable to the CIE127-2007 comp liant national standards. ʳʳ\nNotes: \n1. 1/10 Duty Cycle, 0.1ms Pulse Width. \n2. 2mm below package base. \n3. 5mm below package base. Part No.  Dice  Lens Type  Iv (mcd) [2] \n@ 20mA Viewing                                      \nAngle [1] \nMin. Typ. 2 ș1/2 \nL-53SRC-J4 Super Bright Red (AlGaInP) Water Clear 5000 8000 \n*1900 *2700 20 ° \nSymbol Parameter Device Typ. Max. Units Test Condit ions \nȜpeak Peak Wavelength Super Bright Red 660  nm I F=20mA \nȜD [1] Dominant Wavelength Super Bright Red 640  nm I F=20mA \nǻȜ 1/2 Spectral Line  Half-width Super Bright Red 20  n m I F=20mA \nC Capacitance Super Bright Red 45  pF V F=0V;f=1MHz \nVF [2] Forward Voltage Super Bright Red 2.1 2.5 V I F=20mA \nIR Reverse Current Super Bright Red  10 uA V R = 5V \nParameter Super Bright Red Units \nPower dissipation 75 mW \nDC Forward Current 30 mA \nPeak Forward Current [1] 150 mA \nReverse Voltage 5 V \nOperating/Storage Temperature -40°C To +85°C \nLead Solder Temperature [2] 260°C For 3 Seconds \nLead Solder Temperature [3] 260°C For 5 Seconds \nSPEC NO: DSAM7491                 REV NO: V.1A                                DATE: NOV/16/2012                                    PAGE:  3  OF  6 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: C.H.Han                                         ERP: 1101032237 Super Bright Red              L-53SRC-J4 \nSPEC NO: DSAM7491                 REV NO: V.1A                                DATE: NOV/16/2012                                    PAGE:  4  OF  6 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: C.H.Han                                         ERP: 1101032237 PACKING & LABEL SPECIFICATIONS                              L-53SRC-J4 \nSPEC NO: DSAM7491                 REV NO: V.1A                                DATE: NOV/16/2012                                    PAGE:  5  OF  6 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: C.H.Han                                         ERP: 1101032237 \nSPEC NO: DSAM7491                 REV NO: V.1A                                DATE: NOV/16/2012                                    PAGE:  6  OF  6 \nAPPROVED: WYNEC                  CHECKED: Allen Liu                    DRAWN: C.H.Han                                         ERP: 1101032237 Detailed application notes are listed on our website. \nhttp://www.kingbright.com/application_notes  ʳ\n'}]
+!==============================================================================!
+### Component Summary: L-53SRC-J4 (KINGBRIGHT)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (VF): 2.1V (typical) to 2.5V (maximum) at 20mA
+  - Reverse Voltage (VR): 5V
+
+- **Current Ratings:**
+  - DC Forward Current (IF): 30mA
+  - Peak Forward Current: 150mA (1/10 Duty Cycle, 0.1ms Pulse Width)
+
+- **Power Consumption:**
+  - Power Dissipation: 75mW
+
+- **Operating Temperature Range:**
+  - Operating/Storage Temperature: -40°C to +85°C
+
+- **Package Type:**
+  - T-1 3/4 (5mm) diameter package
+
+- **Special Features:**
+  - Low power consumption
+  - Long life and solid-state reliability
+  - Available on tape and reel
+  - RoHS compliant
+  - Reliable and rugged design
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided data, but typically assessed according to JEDEC J-STD-020E.
+
+#### Description:
+The L-53SRC-J4 is a Super Bright Red Light Emitting Diode (LED) manufactured using AlGaInP technology on a silicon substrate. This component is designed to emit light in the red spectrum, with a peak wavelength of 660 nm and a dominant wavelength of 640 nm. The LED is characterized by its high luminous intensity, making it suitable for various lighting applications.
+
+#### Typical Applications:
+The L-53SRC-J4 LED is commonly used in:
+- Indicator lights and displays
+- Backlighting for switches and panels
+- Automotive lighting
+- General-purpose lighting applications
+- Signal and communication devices
+
+This LED's robust design and efficiency make it ideal for both consumer electronics and industrial applications, where reliability and longevity are critical.

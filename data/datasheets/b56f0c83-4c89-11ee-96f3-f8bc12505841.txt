@@ -1,0 +1,49 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of KG-PR-1G-A-FC production of BEIJING CONQUER PHOTONICS CO.,LTD from the text:  \n \nAdd: 北京市海淀区北三环西路 43号青云大厦      Zip: 100086       Tel: 010 -68470780      Fax: \n010-68470783  \n网址： www.conquer -oc.com  \n \n北 京 康 冠 世 纪 光 电 科 技 有 限 公 司 \nB e i j i n g  C o n q u e r  P h o t o n i c s  C o . , L t d  \nKG-PR series 1 GHz analog light \ndetection module  \nProduct description  \nKG-PR-1G series 1GHz analog light detection module integrates high -speed response PIN \ndetector and low noise amplifier, optical fiber or free space coupling, SMA connector output, \nhaving high gain, high sensitivity, flat gain and other characteristics, m ainly being used in \nsimulation Optical signal reception and optical fiber sensing systems and other fields.  \nFeatures  \n⚫ Spectral  range ：320-1000、850-1650nm  \n⚫ 3dBbandwidth ：1GHz  \n⚫ Low noise  \n⚫ High gain  \n⚫ Optical fiber space coupling input optional  \n \nApplications  \n⚫ \n Slight signal detection  \n⚫ \n Heterodyne detection  \nPerformance parameters  \nParameter  KG-PR-1G-A KG-PR-1G-B \nSpectral response range  850~1650nm  320~1000nm  \nMaterial type  InGaAs  Si \nLight input  Optical fiber  Free space  Optical fiber  Free space  \nPhotosensitive surface diameter  - 75um  - 200um  \n-3dB Bandwidth  AC port  100K~1GHz  100K~1GHz  \nRise time  0.35ns  0.35ns  \nResponsiveness  0.9A/W@1550nm  0.5A/W@700nm  \nGain  1.6×103V/W  0.8×103V/W  \nMinimum probe power  -29dBm  -26dBm  \n  Noise equivalent power  25pw/√Hz 50pw/√Hz \n  \n \nAdd: 北京市海淀区北三环西路 43号青云大厦      Zip: 100086       Tel: 010 -68470780      Fax: \n010-68470783  \n网址： www.conquer -oc.com  \n \n北 京 康 冠 世 纪 光 电 科 技 有 限 公 司 \nB e i j i n g  C o n q u e r  P h o t o n i c s  C o . , L t d  \nlimit parameters  \nWorking principle  \n \nCharacteristic curve  \nSaturation optical power  1.2mW  2.4W  \nOperating voltage  DC ±15V \nOperating  circuit  80mA  \nInput connector  FC \nOutput connector  AC port port ：SMA(f),DC port ：SMB(f)  \nOutput impedance  50Ω \nOutput coupling method  DC \nDimensions  76.0 × 72.6 × 44.0  \nParameter   Symbol  Unit  Min  Typ  Max  \nInput optical power  Pin mW   10 \nOperating voltage  Vop V ±13.5  ±15 ±16.5  \nOperating temperature  Top ℃ -10  60 \nStorage temperature  Tst ℃ -40  85 \nHumidity  RH % 5  90 \n  \n \nAdd: 北京市海淀区北三环西路 43号青云大厦      Zip: 100086       Tel: 010 -68470780      Fax: \n010-68470783  \n网址： www.conquer -oc.com  \n \n北 京 康 冠 世 纪 光 电 科 技 有 限 公 司 \nB e i j i n g  C o n q u e r  P h o t o n i c s  C o . , L t d  \n \nspectral response curve  \nDimensions(mm)  \n\n  \n \nAdd: 北京市海淀区北三环西路 43号青云大厦      Zip: 100086       Tel: 010 -68470780      Fax: \n010-68470783  \n网址： www.conquer -oc.com  \n \n北 京 康 冠 世 纪 光 电 科 技 有 限 公 司 \nB e i j i n g  C o n q u e r  P h o t o n i c s  C o . , L t d  \n \nOrdering information  \n*please contact our seller if you have special requirements  \n \nKG PR 1G X XX \n Photoreceiver  -3dBbandwidth 1GHz  Operating wavelength:  \nA--850~1650nm  \nB--320~1000nm  Input type   \nFC ---- optical fiber \ncoupling  \nFS ---- Free space  \n'}]
+!==============================================================================!
+### Component Summary: KG-PR-1G-A-FC
+
+**Manufacturer:** Beijing Conquer Photonics Co., Ltd  
+**Product Code:** KG-PR-1G-A-FC  
+**Product Type:** 1 GHz Analog Light Detection Module
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Operating Voltage: DC ±15V (typical range ±13.5V to ±16.5V)
+  
+- **Current Ratings:**
+  - Operating Circuit: 80mA
+  
+- **Power Consumption:**
+  - Minimum Probe Power: -29dBm
+  - Saturation Optical Power: 1.2mW
+  
+- **Operating Temperature Range:**
+  - Operating Temperature: -10°C to 60°C
+  - Storage Temperature: -40°C to 85°C
+  
+- **Package Type:**
+  - Dimensions: 76.0 mm x 72.6 mm x 44.0 mm
+  
+- **Special Features:**
+  - Spectral Response Range: 850 nm to 1650 nm
+  - 3dB Bandwidth: 1 GHz
+  - Low Noise
+  - High Gain: 1.6 × 10^3 V/W
+  - Responsiveness: 0.9 A/W @ 1550 nm
+  - Input Connector: FC (optical fiber coupling)
+  - Output Connector: SMA (AC port), SMB (DC port)
+  - Output Impedance: 50Ω
+  
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+#### Description:
+The KG-PR-1G-A-FC is a high-speed analog light detection module designed for applications requiring rapid response to optical signals. It integrates a high-speed PIN detector with a low-noise amplifier, making it suitable for both optical fiber and free-space coupling. The module is characterized by its high gain and sensitivity, making it effective for detecting slight signals.
+
+#### Typical Applications:
+- **Optical Signal Reception:** Used in systems that require the detection and processing of optical signals.
+- **Optical Fiber Sensing Systems:** Ideal for applications in sensing technologies that utilize optical fibers.
+- **Heterodyne Detection:** Suitable for advanced signal processing techniques that involve mixing signals of different frequencies.
+- **Simulation Optical Systems:** Employed in experimental setups where optical signal simulation is necessary.
+
+This module is particularly useful in telecommunications, research laboratories, and industrial applications where precise light detection is critical.

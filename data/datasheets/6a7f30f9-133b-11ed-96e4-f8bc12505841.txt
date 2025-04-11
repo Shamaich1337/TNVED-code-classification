@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DRF06 production of ROXBURGH from the text: 79.2 \n 93 (EN50022 35x15)  90.5 (EN50035 32x15)  85.5 (EN50022 35x7.5)  79.8 \n 73.6  22.4 \nTITLE\nDRF06DRAWING NO.\nRelease01ISSUEUNLESS OTHERWISE SPECIFIED\nDIMENSIONS ARE IN MILLIMETRES\nLINEAR & RADIAL  TOLERANCE:\nNO DECIMAL PLACES 0.5mm\n1 DECIMAL PLACE 0.25mm\n2 DECIMAL PLACES 0.125mm\nANGULAR TOLERANCE: 1AUTHOR\nDATESW\nTHIRD ANGLE PROJECTION\nSCALE 1:1\nA4SHEET 1 OF 1DO NOT SCALE DRAWINGPROPRIETARY AND CONFIDENTIAL:\nTHE INFORMATION CONTAINED IN THIS DRAWING IS THE SOLE\nPROPERTY OF ALPHA 3 MANUFACTURING.  ANY REPRODUCTION IN PART OR AS A WHOLE WITHOUT THE WRITTEN PERMISSION OF ALPHA 3 MANUFACTURING IS PROHIBITED.\nDEM Manufacturing, Deltron Emcon House, Hargreaves Way, Sawcliffe Ind. Park, Scunthorpe, North Lincolnshire, DN15 8RF, UKA\nD\nECB1 4 6 2 5 7 3\nB\nC\nD\nEA\nTHE FINISHED PRODUCT SHOULD BE CLEAN AND FREE FROM ALL \nLIQUIDS AND DEBRIS. SURFACES SHOULD BE OF UNIFORM \nAPPEARANCE  FREE FROM  SHARP EDGES, BURRS AND CORROSION Tel No. +44(0)1724 273200\nWebsite www.dem-uk.comSPECIFICATION 20/02/15\nROXBURGH ELECTRONICS LTD   \nFILTER INSERTION LOSS CHARACTERISTICS  \nCISPR 17 - 50 OHM METHOD  \n \nDRF06  \n \n \n   COMMON MODE  \n \n \n \n \n \n   DIFFERENTIAL MODE  \n\n'}]
+!==============================================================================!
+### Component Summary for DRF06 by Roxburgh Electronics
+
+#### Key Specifications:
+- **Voltage Ratings**: Not specified in the provided text.
+- **Current Ratings**: Not specified in the provided text.
+- **Power Consumption**: Not specified in the provided text.
+- **Operating Temperature Range**: Not specified in the provided text.
+- **Package Type**: Not specified in the provided text.
+- **Special Features or Notes**: The component is designed for common mode and differential mode filtering, as indicated by the mention of insertion loss characteristics.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The DRF06 is a filter component designed for electronic applications, specifically focusing on common mode and differential mode filtering. It is likely used to reduce electromagnetic interference (EMI) in various electronic circuits, ensuring signal integrity and compliance with regulatory standards.
+
+#### Typical Applications:
+The DRF06 is typically used in applications where noise reduction is critical, such as:
+- **Power Management**: Filtering noise from power lines to ensure stable operation of electronic devices.
+- **Signal Processing**: Enhancing the quality of signals in communication systems by minimizing unwanted noise.
+- **Data Storage**: Protecting data integrity in storage devices by filtering out interference that could corrupt data.
+
+### Additional Notes:
+The provided text primarily contains dimensional specifications and manufacturing notes rather than detailed electrical characteristics. For a complete understanding of the DRF06's performance, including voltage and current ratings, it would be necessary to refer to a more comprehensive datasheet or technical documentation specific to this component.

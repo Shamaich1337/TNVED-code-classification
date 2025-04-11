@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 800571 production of HELUKABEL GMBH from the text:BUS Cables\nCAN Bus\nfixed installed\n\x03\n\x03\nFixed installation, indoor Fixed installation, indoor Type\n4x1x0.50 mm² (stranded) 1x2x0.50 mm² (stranded) Cable structure\nCopper, bare (AWG 20/7) Copper, bare (AWG 20/7) Inner conductor diameter:\nFoam-skin-PE Foam-skin-PE Core insulation:\nwh, bn, gn, ye wh/bn Core colours:\nStar quad Double core Stranding element:\nPolyester foil over stranded bundle Polyester foil over stranded bundle Shielding 1:\n- - Shielding 2:\nCu braid, tinned Cu braid, tinned Total shielding:\nPVC PVC Outer sheath material:\napprox.\x038,5 mm ± 0,2 mm approx.\x037,0 mm ± 0,2 mm Cable external diameter:\nViolet similar to RAL 4001 Violet similar to RAL 4001 Outer sheath colour:\n\x03\n\x03 \x03 Electrical data\n120 Ohm ± 10 % 120 Ohm ± 10 % Characteristic impedance:\n37 Ohm/km 37 Ohm/km Conductor resistance, max.:\n1 GOhm x km 1 GOhm x km Insulation resistance, min.:\n74 Ohm/km max. 74 Ohm/km max. Loop resistance:\n65 nF/km nom. 50 nF/km nom. Mutual capacitance:\n1,5 kV 1,5 kV Test voltage:\n\x03\n\x03 \x03 Technical data\napprox.\x03100 kg/km approx.\x0369 kg/km Weight:\n128 mm 105 mm bending radius, repeated:\n-40°C -40°C Operating temperature range min.:\n+70°C +70°C Operating temperature range max.:\n1,64 MJ/m 1,09 MJ/m Caloric load, approx. value:\n45,00 kg/km 30,00 kg/km Copper weight:\n\x03\n\x03 \x03 Norms\nProfibus acc. to DIN 19245 T3 and EN50170 Profibus acc. to DIN 19245 T3 and EN50170 Applicable standards:\nUL Style 2571 UL Style 2571 UL Style:\n\x03\nApplication\nThe CAN bus series (control area network) is a variable field bus system. In the area of automation technology, complex control lers and\ncontrol units are networked. Industries, such as the textile or construction machine industry and the medical technology, use t his series.\nThe above mentioned types are suitable for fixed laying in indoor applications. This is also a very economical solution of a BU S system.\n\x03\n800685, CAN BUS 800571, CAN BUS Part no.\nDimensions and specifications may be changed without prior notice.\n147\n'}]
+!==============================================================================!
+### Component Summary for HELUKABEL GMBH Product Code 800571
+
+#### Key Specifications:
+- **Voltage Ratings**: 1.5 kV (Test Voltage)
+- **Current Ratings**: Not specified in the provided text.
+- **Power Consumption**: Not specified in the provided text.
+- **Operating Temperature Range**: -40°C to +70°C
+- **Package Type**: Not applicable (cable product)
+- **Special Features/Notes**: 
+  - Characteristic impedance of 120 Ohm ± 10%
+  - Suitable for fixed installation indoors
+  - Complies with Profibus standards (DIN 19245 T3 and EN50170)
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The HELUKABEL product code 800571 refers to a CAN Bus cable designed for fixed installation in indoor environments. It features a cable structure of 4x1x0.50 mm² (stranded) with copper inner conductors and foam-skin-PE core insulation. The cable is designed to facilitate communication in control area networks (CAN), which are widely used in automation technology.
+
+#### Typical Applications:
+The CAN Bus series is primarily utilized in automation technology, where it connects complex controllers and control units. Typical industries that employ this cable include:
+- Textile manufacturing
+- Construction machinery
+- Medical technology
+
+This cable provides a reliable and economical solution for establishing a bus system in various industrial applications, ensuring effective communication between devices.

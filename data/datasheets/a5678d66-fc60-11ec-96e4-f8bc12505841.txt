@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 90-FBP100_Cu production of AINFO from the text:05.07.2022, 15:39 90-FBP100_Cu WR90 W aveguide Flange 8.2-12.4GHz with Rectangular W aveguide Interface\nhttps://www .ainfoinc.com/90-fbp100-cu-wr90-waveguide-flange-8-2-12-4-ghz-fbp100-ubr100 1/2 \ue81a 90-FBP100_Cu WR90 W aveguide Flange 8.2-12.4GHz with Rectangular W aveguide Interface\nADD TO QUOTE \ue889  \ue81090-FBP100_Cu WR90 Waveguide Flange 8.2-12.4GHz with\nRectangular Waveguide Interface\n 0 Re view(s)\nWR90 Waveguide Flange Operating From 8.2 to 12.4GHz with Rectangular Waveguide Interface \nAvailability:In stock\ue852 \ue852  \ue852  \ue852  \ue852\nWaveguide ﬂange 90-FBP100_Cu, oper ating fr om 8.2-12.4GHz, co vers the WR90 full waveguide band and comes with\ue819 \ue81a\n\ue873\n05.07.2022, 15:39 90-FBP100_Cu WR90 W aveguide Flange 8.2-12.4GHz with Rectangular W aveguide Interface\nhttps://www .ainfoinc.com/90-fbp100-cu-wr90-waveguide-flange-8-2-12-4-ghz-fbp100-ubr100 2/2Description\nTechnical Speciﬁcationﬂange FBP100(UBR100). A-INFO series waveguide ﬂanges ar e oﬀer ed for any waveguide size and ﬂange style in 0.32 to\n220 GHz r ange co vering waveguide bands WR2300 to WR5. Flanges with chok e and O-ring gr oove ar e also available. All\nﬂanges ar e available in br ass, aluminum, or copper as material. Special ﬂanges can be designed and manufactur ed as\ncustom pr oducts.\nModel 90-FBP100_Cu\nWaveguide Band X, Ku\nWaveguide T ype Rectangular\nWaveguide Size EIA WR WR90\nFrequency , Min (GHz) 8.2\nFrequency , Max (GHz) 12.4\nFlange Style Squar e\nFlange T ype Cover\nFlange Designation FBP100(UBR100)\nOper ating T emp. Lo w (°C) -55\nOper ating T emp. High (°C) 85\nStor age T emp. Lo w (°C) -60\nStor age T emp. High (°C) 90\nBody Material Cu\nSize, L (mm) 41.4\nSize, W (mm) 41.4\nSize, H (mm) 5.5\nWeight, (kg) 0.067\n'}]
+!==============================================================================!
+### Component Summary: 90-FBP100_Cu WR90 Waveguide Flange
+
+#### Key Specifications:
+- **Voltage Ratings**: Not applicable (waveguide component)
+- **Current Ratings**: Not applicable (waveguide component)
+- **Power Consumption**: Not applicable (waveguide component)
+- **Operating Temperature Range**: 
+  - Low: -55°C 
+  - High: 85°C
+- **Storage Temperature Range**: 
+  - Low: -60°C 
+  - High: 90°C
+- **Package Type**: Flange
+- **Special Features/Notes**: 
+  - Covers the WR90 full waveguide band (8.2 to 12.4 GHz)
+  - Available in various materials (brass, aluminum, copper)
+  - Custom designs available
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified
+
+#### Description:
+The **90-FBP100_Cu** is a WR90 waveguide flange designed for use in microwave applications, specifically operating within the frequency range of **8.2 to 12.4 GHz**. It features a rectangular waveguide interface and is constructed from copper, which provides excellent conductivity and durability. The flange is square in style and serves as a cover type, facilitating the connection of waveguide components in RF and microwave systems.
+
+#### Typical Applications:
+The 90-FBP100_Cu waveguide flange is typically used in:
+- **Microwave Communication Systems**: Connecting various components in systems that operate in the X and Ku frequency bands.
+- **Antenna Systems**: Serving as a junction point for waveguide feeds in antenna applications.
+- **Test Equipment**: Used in laboratory setups for testing and measurement of microwave signals.
+- **Radar Systems**: Integral in the assembly of radar equipment where waveguide technology is employed.
+
+This component is essential for ensuring proper signal transmission and maintaining the integrity of microwave systems, making it a critical part of high-frequency electronic applications.

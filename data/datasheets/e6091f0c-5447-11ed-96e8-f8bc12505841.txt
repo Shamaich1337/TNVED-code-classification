@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of YG-J024 production of XIAMEN LINEYI ELECTRONICS CO., LTD from the text:Special for MACRO GROU P    E-mail: wireless@macrogroup.ru     Tel: +7 (812) 370 60 70  \n \n \nDATASHEET    \nYYYGGG---JJJ000222444   \nType  ISM antenna  \nFrequencies  868 MHz  \nMounting  Telematic Mount  \nBrand Name  MG ANTENNAS  \n \n \n \nRevision #  Content  Page  Date  \n0 First, document  - 13.08.201 7 \n \n1. SPECIFICATION  \n1.1 Electrical Specifications  \n                                                                        \n 1.2 Mechanical specification s \nCable  (type and length )  - \nConnector  SMA  male  \nHousing  Color  Black  \nMounting  Telematic Mount  \nDimensions  H108*8 mm \nWeight  13g \n   \n1.3 Environmental specifications  \n \n \n \n \n \n \n \n \n \n \n Frequency  868 ±10 MHz \nPolarization  Vertic al \nGain  2 dB \nMax p ower  10 W \nVSWR  2 :1 \nImpedance  50 Ω \nOperating Temperature , ℃ -40 ~ + 80 \nOperating Humidity, %  0 ~ 95  \nStorage Temperature , ℃ -40 ~ + 80 \nStorage Humidity, %  0 ~ 95  \n \nE-mail: wireless@macrogroup.ru     Tel: +7 (812) 370 60 70  2. MEASUREMENT  \n \n3. DIMENSIONS  \n \nABS black          ABS blac k            TPE black           TPE black  \n \n  \n\n'}]
+!==============================================================================!
+### Component Summary for YG-J024 (ISM Antenna)
+
+#### Key Specifications:
+- **Type:** ISM Antenna
+- **Frequencies:** 868 MHz
+- **Mounting:** Telematic Mount
+- **Connector:** SMA Male
+- **Housing Color:** Black
+- **Dimensions:** Height 108 mm, Diameter 8 mm
+- **Weight:** 13 g
+
+#### Electrical Specifications:
+- **Frequency Range:** 868 ±10 MHz
+- **Polarization:** Vertical
+- **Gain:** 2 dB
+- **Maximum Power:** 10 W
+- **Voltage Standing Wave Ratio (VSWR):** 2:1
+- **Impedance:** 50 Ω
+
+#### Environmental Specifications:
+- **Operating Temperature Range:** -40 °C to +80 °C
+- **Operating Humidity:** 0% to 95%
+- **Storage Temperature Range:** -40 °C to +80 °C
+- **Storage Humidity:** 0% to 95%
+
+#### Special Features:
+- Designed for ISM band applications, specifically at 868 MHz.
+- Suitable for telematic mounting applications.
+
+#### Moisture Sensitive Level:
+- Not specified in the provided data.
+
+### Description:
+The YG-J024 is an ISM antenna designed for wireless communication applications operating in the 868 MHz frequency band. It features a vertical polarization and is optimized for a gain of 2 dB, making it suitable for various telematics and IoT applications. The antenna is housed in a durable black ABS casing, ensuring resilience in various environmental conditions.
+
+### Typical Applications:
+The YG-J024 antenna is typically used in:
+- **Telematics:** For vehicle tracking and fleet management systems.
+- **IoT Devices:** In smart city applications, smart meters, and other wireless sensor networks.
+- **Wireless Communication:** For devices that require reliable communication in the ISM band, such as remote monitoring systems and industrial automation.
+
+This antenna is ideal for applications that demand a robust and efficient solution for wireless data transmission in challenging environmental conditions.

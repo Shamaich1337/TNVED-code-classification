@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CF139 T2106C production of COSMO FERRITES LTD. from the text:              PRODUCT DATA APPROVAL SHEET \n \n   \n \nAppearance & Shape:  To be free from any defect such as flow, burrs, un evenness etc, As per IEC standards.  \nEffective Parameters irrespective of material grade  (per pc)  \n• Effective Length (L e): 51.4mm \n• Effective Area (A e):    23.5mm 2  \n• Effective Area (A Min ): 23.5mm 2 \n• Effective Volume (V e): 1207mm 3 \n               Approximate weight: 5.6g/pc \n \nT2106 Coated (Green)  \nTest Conditions: 10kHz/150mV/CFR COIL,N=01/Lo=Zero/ 25˚C \nMaterial \nGrade Initial Permeability (µ iac ) AL Value (nH) D.Strength (kV) Ordering code \nCF139 2100 ±20% 1250 +30%/-20% ≥1.0 CF139T2106 C \n \n \nDimensions :(Un-coated Cores) \n \nDimension  Nominal  \n(in mm) Maximum  \n(in mm) Minimum  \n(in mm) \nA 21.0  21.0  20.5  \nB 13.0  13.5  12.5  \nC 6.0  6.0  5.5  \n \nDimensions(Coated Cores) \n \nDimension  Nominal  \n(in mm) Maximum  \n(in mm) Minimum  \n(in mm) \nA - 21.6  - \nB - - 11.9  \nC - 6.6  - \n \n1.  Ferrite material for the product is in compliance w ith RoHS directive 2011/65/EU. \n2.  Epoxy Coating is UL Approved, UL file number E46671 3 / E317134. \n3.  Coating material for the product is in compliance w ith RoHS directive 2011/65/EU. \n \n \n \n \n \n \nFor Cosmo Ferrites Limited-INDIA                        Customer’s Approval \nChecked By:               A.K.        Authorized Si gnatory:  \nApproved By: B.S.        Name: \nAuthorized By: KSR        Date: \nDate:                           13-03-2020(ISSUE NO .1) \n \n \nNOTE:  Please send this Data Sheet back to Cosmo Ferrites Ltd. after approval. If not received back within 15  days, it \nwill be presumed that all the specifications given in the consent/data sheet are acceptable to the con cerned.  \nCosmo Ferrites Ltd. - INDIA  \n Core - T2106  \n\n'}]
+!==============================================================================!
+### Component Summary: CF139 T2106C
+
+**Component Type:** Ferrite Core
+
+**Description:**
+The CF139 T2106C is a ferrite core manufactured by Cosmo Ferrites Ltd. It is designed for use in inductive components such as transformers and inductors. Ferrite cores are used to enhance the magnetic properties of coils, allowing for efficient energy transfer and reduced losses in electronic circuits.
+
+### Key Specifications:
+- **Effective Length (L e):** 51.4 mm
+- **Effective Area (A e):** 23.5 mm²
+- **Effective Volume (V e):** 1207 mm³
+- **Approximate Weight:** 5.6 g/pc
+- **Initial Permeability (µ iac):** 2100 ±20%
+- **AL Value (nH):** 1250 +30%/-20%
+- **Dielectric Strength (D.Strength):** ≥1.0 kV
+- **Coating:** T2106 Coated (Green)
+- **Compliance:** RoHS directive 2011/65/EU
+- **UL Approval:** Epoxy Coating is UL Approved (UL file number E46671 3 / E317134)
+
+### Dimensions:
+**Un-coated Cores:**
+- **Dimension A:** Nominal 21.0 mm, Maximum 21.0 mm, Minimum 20.5 mm
+- **Dimension B:** Nominal 13.0 mm, Maximum 13.5 mm, Minimum 12.5 mm
+- **Dimension C:** Nominal 6.0 mm, Maximum 6.0 mm, Minimum 5.5 mm
+
+**Coated Cores:**
+- **Dimension A:** Nominal 21.6 mm
+- **Dimension B:** Minimum 11.9 mm
+- **Dimension C:** Nominal 6.6 mm
+
+### Special Features:
+- The ferrite material complies with RoHS standards, ensuring it is free from hazardous substances.
+- The epoxy coating provides additional protection and is UL approved, enhancing the core's durability and reliability in various applications.
+
+### Typical Applications:
+The CF139 T2106C ferrite core is typically used in:
+- **Power Management:** Enhancing the efficiency of transformers and inductors in power supplies.
+- **Signal Processing:** Used in RF applications for filtering and impedance matching.
+- **Energy Storage:** Employed in inductors for energy storage in switching power supplies and converters.
+
+This ferrite core is essential for applications requiring high magnetic permeability and low losses, making it suitable for a wide range of electronic devices and systems.

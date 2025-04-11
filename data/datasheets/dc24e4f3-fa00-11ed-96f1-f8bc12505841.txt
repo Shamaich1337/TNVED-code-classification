@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CF292 EE10028 production of COSMO FERRITES LTD. from the text:              PRODUCT DATA APPROVAL SHEET \n \n   \n \nAppearance & Shape:  To be free from any defect such as flow, burrs, un evenness etc, As per IEC standards.  \nEffective Parameters irrespective of material grade  (per set)  \n• Effective Length (L e): 274.1mm \n• Effective Area (A e):    739.6mm 2  \n• Effective Area (A Min ): 711.5mm 2 \n• Effective Volume (V e): 202724mm 3 \n              Approximate Weight (without Gap): 100 0g/Set \n \n \n \nEE10028 Un-gapped   \nTest Conditions: 1KHz/150mV/CFR COIL,N=100/25˚C \nMaterial \nGrade Initial Permeability \n(µ iac ) AL Value (nH)/Set Ordering code \nCF292 1800 ± 20% 5400 +30%/-20% CF292 EE10028  \n \n \n \n \n \nDimensions: \n \n \n \n \n \n \n \n \n \n \n \nFor Cosmo Ferrites Limited-INDIA                        Customer’s Approval \nChecked By:              J.C.        Authorized Sig natory:  \nApproved By: B.S.        Name: \nAuthorized By: KSR        Date: \nDate:                           24-05-2023 (ISSUE N O.1) \n \n \n \n \nNOTE:  Please send this Data Sheet back to Cosmo Ferrites Ltd. after approval. If not received back within 15  days, it \nwill be presumed that all the specifications given in the consent/data sheet are acceptable to the con cerned.  Dimension  Nominal  \n(in mm) Maximum  \n(in mm) Minimum  \n(in mm) \nA 100.3 102.3 98.3 \nB 73.2 74.6 71.8 \nC 59.5 60.0 59.0 \nD 46.8 47.6 46.0 \nE 27.5 28.0 27.0 \nF 27.6 28.1 27.1 \nCosmo Ferrites Ltd. - INDIA  \n Core - EE10028  \n\n'}]
+!==============================================================================!
+### Component Summary: CF292 EE10028
+
+**Component Type:** Ferrite Core
+
+**Description:**
+The CF292 EE10028 is a ferrite core manufactured by Cosmo Ferrites Ltd. It is designed for use in inductive components such as transformers and inductors. Ferrite cores are used to enhance the magnetic properties of coils, allowing for efficient energy transfer and reduced losses in electronic circuits.
+
+**Key Specifications:**
+- **Effective Length (L e):** 274.1 mm
+- **Effective Area (A e):** 739.6 mm²
+- **Minimum Effective Area (A Min):** 711.5 mm²
+- **Effective Volume (V e):** 202,724 mm³
+- **Approximate Weight (without Gap):** 1000 g/set
+- **Material Grade:** CF292
+- **Initial Permeability (µ iac):** 1800 ± 20%
+- **AL Value (nH/set):** 5400 +30%/-20%
+- **Test Conditions:** 1 kHz / 150 mV / CFR Coil, N=100 / 25˚C
+
+**Dimensions:**
+- **Nominal Dimensions (in mm):**
+  - A: 100.3 (Max: 102.3, Min: 98.3)
+  - B: 73.2 (Max: 74.6, Min: 71.8)
+  - C: 59.5 (Max: 60.0, Min: 59.0)
+  - D: 46.8 (Max: 47.6, Min: 46.0)
+  - E: 27.5 (Max: 28.0, Min: 27.0)
+  - F: 27.6 (Max: 28.1, Min: 27.1)
+
+**Special Features:**
+- The core is un-gapped, which is suitable for applications requiring high inductance and low core losses.
+- The core is manufactured according to IEC standards, ensuring quality and reliability.
+
+**Typical Applications:**
+- **Power Management:** Used in transformers and inductors for efficient energy conversion and storage.
+- **Signal Processing:** Employed in RF applications and filters to manage signal integrity.
+- **Electronics:** Commonly found in power supplies, converters, and other electronic devices requiring inductive components.
+
+**Moisture Sensitive Level:** Not specified in the provided data.
+
+This summary provides a comprehensive overview of the CF292 EE10028 ferrite core, highlighting its specifications, applications, and features relevant to electronic design and manufacturing.

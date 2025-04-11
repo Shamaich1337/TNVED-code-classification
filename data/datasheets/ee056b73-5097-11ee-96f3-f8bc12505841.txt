@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CSQG703BP production of CUI INCORPORATED from the text:date 08/05/2022\npage1 of 4\nMODEL : CSQG703BP | DESCRIPTION:  MAGNETIC BUZZER TRANSDUCER\ncuidevices.com\nFEATURES\n• through hole\n• 85 dB\n• externally driven\nVo-p \n                             0V SPECIFICATIONS\nparameter conditions/description min typ max units\nrated voltage 3.0 Vo-p\noperating voltage 2.0 4.0 Vo-p\ncurrent consumption at rated voltage, 2,000 Hz square wave, ½ duty 90 mA\nrated frequency 2,000 Hz\nsound pressure levelat 5 cm (A-weight), rated voltage, 2,000 Hz square wave, \n½ duty85 90 dBA\ncoil resistance 13.0 15.0 1 7. 0 Ω\ndimensions Ø12.0 x 3.8 mm\nweight 1.0 g\nmaterial PPO\nterminal pin type (Au plating)\noperating temperature -30 70 °C\nstorage temperature -40 85 °C\nRoHS yes\nNotes: 1. All specifications measured at 5~35°C, humidity at 45~85%, under 86~106kPa pressure, unless otherwise noted.\nSOLDERABILITY\nparameter conditions/description min typ max units\nhand soldering2for maximum 2 seconds 330 380 °C\nNotes: 2. Not recommended for wave solderingAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\nCUI DEVICES  | MODEL : CSQG703BP | DESCRIPTION:  MAGNETIC BUZZER TRANSDUCER date 08/05/2022 | page  2 of 4\ncuidevices.comCSQG703B P\n\x12\x12\x0e\x0e\x0e\x13\x11\x12\x12\n\x12\x13\x0e\x0e\x0e\x13\x11\x12\x13:&"3\n\x11\x13\x01\x11\x12\x018&&,\nFREQUENCY RESPONSE CURVE\nMEASUREMENT METHOD\x1c\x13\n\x18\x13\n\x15\x13\x19\x13\x1a\x13\x1b\x13G%\n\x15\x13\x13+ ]\x15 . \x15\x13.\x14\x13\x13\n180Ω+2.5V\n0+VDC\nTR:\n2SC1741ASMECHANICAL DRAWING\nunits: mm\ntolerance: ±0.5 mmAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\nCUI DEVICES  | MODEL : CSQG703BP | DESCRIPTION:  MAGNETIC BUZZER TRANSDUCER date 08/05/2022 | page  3 of 4\ncuidevices.com0VU\x01#PY\n\t\x12\x131$4\x010VU\x01#PY\n$BSUPO\x01#PY\n\x15\x11\x11NN\n\x15\x15\x11NN\n\x14\x12\x11\x01NN\t\x161$4\x015SBZ \n\x12\x11\x111$4\n53":\n-PU\x01/P\x0f\n2VBOUJUZ\n%BUF\x1b9999999999\n9999\x01\x01\x011DT1BSU\x01/P\x0f9999999999\n%%\x01\x01..\x01\x01::9999999999\n."%&\x01*/\x01$)*/"Internal Tray Size: 184 x 184 x 23 mm\nCarton Size: 440 x 400 x 310 mm\nQTY: 6,000 pcs (500 x 12)PACKAGINGAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\nCUI DEVICES  | MODEL : CSQG703BP | DESCRIPTION:  MAGNETIC BUZZER TRANSDUCER date 08/05/2022 | page  4 of 4\nCUI Devices offers a one (1) year limited warranty.  Complete warranty information is listed on our website.\nCUI Devices reserves the right to make changes to the product at any time without notice.  Information provided by CUI Devices is believed to be accurate \nand reliable.  However, no responsibility is assumed by CUI Devices for its use, nor for any infringements of patents or other rights of third parties which may \nresult from its use.\nCUI Devices products are not authorized or warranted for use as critical components in equipment that requires an extremely high level of reliability.  A \ncritical component is any component of a life support device or system whose failure to perform can be reasonably expected to cause the failure of the life \nsupport device or system, or to affect its safety or effectiveness.\ncuidevices.com\nrev. description date\n1.0 initial release 09/20/2006\n1.01 updated datasheet 07 /31/2019\n1.02 brand update 03/16/2020\n1.03 logo, datasheet style update 08/05/2022\nThe revision history provided is for informational purposes only and is believed to be accurate.REVISION HISTORYAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n CUI Devices:   \n\xa0 CSQG703BP\n'}]
+!==============================================================================!
+### Component Summary: CSQG703BP
+
+**Description:**
+The CSQG703BP is a magnetic buzzer transducer manufactured by CUI Incorporated. It is designed to produce sound through an externally driven square wave signal, making it suitable for various audio signaling applications.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Rated Voltage: 3.0 Vp-p
+  - Operating Voltage Range: 2.0 to 4.0 Vp-p
+
+- **Current Ratings:**
+  - Current Consumption at Rated Voltage (2,000 Hz square wave, ½ duty): 90 mA
+
+- **Power Consumption:**
+  - Power consumption is primarily determined by the current consumption at the rated voltage.
+
+- **Operating Temperature Range:**
+  - Operating Temperature: -30°C to 70°C
+  - Storage Temperature: -40°C to 85°C
+
+- **Package Type:**
+  - Through-hole package with dimensions of Ø12.0 x 3.8 mm
+
+- **Special Features:**
+  - Sound Pressure Level: 85 dBA at 5 cm when driven at rated voltage and frequency
+  - Coil Resistance: 13.0 to 15.0 Ω
+  - Material: PPO (Polyphenylene Oxide)
+  - Terminal Type: Pin type with gold plating
+  - RoHS compliant
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided data, but typically assessed under JEDEC J-STD-020E.
+
+**Typical Applications:**
+The CSQG703BP is commonly used in applications requiring audio signaling, such as:
+- Consumer electronics (e.g., alarms, notifications)
+- Home appliances (e.g., timers, alerts)
+- Automotive applications (e.g., warning signals)
+- Toys and games (e.g., sound effects)
+
+This buzzer is ideal for any application where sound output is necessary to convey information or alerts to users.

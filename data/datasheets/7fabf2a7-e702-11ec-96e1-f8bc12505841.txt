@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of FYL-3019EGW1A-CC production of FORYARD OPTOELECTRONICS from the text:■Dice material: GaAsP; AlGaInP.\n■Emitting Color: Orange,Yellow Green.\n■Device Outline: Φ3mm  round type.\n■Lens Type: White Diffused.\nNINGBO FORYARD OPTOELECTRONICS CO.,LTD.\nAdd: No. 666 Jinghua Road, Hi-tech Park, Ningbo, Zhejian g, China              Zip: 315103 \nTel:   0086-574-87933652 87922206 87927870 \nFax:  0086-574-87927917 \nE-mail: Sales@foryard.com     (General) \nPage ：1/5 Model No. ：：：：FYL-3019EGW1A-CC \nDescriptions: \nCUSTOMER APPROVED \nSIGNATURES APPROVED BY CHECKED BY PREPARED BY Model  No. FYL-3019EGW1A-CC \nDate / Rev. 2021.05.11 / B \nPRODUCT SPECIFICATION \n                      Http://www.foryard.com \n\nModel No. ：：：：FYL-3019EGW1A-CC \n■■■■ Features \n   1.Low power consumption.\n   2.High efficiency.\n   3.General purpose leads. \n   4.High intensity.\n   5.RoHs compliant.\n■■■■ Package configuration \nNotes: \n1. All dimensions are millimeters (inches) \n2. Tolerance is ±0.25mm(.010”) unless otherwise not ed.\n3. The specifications, characteristics and technica l data described in the datasheet are subject \n     to change without prior notice.\n4.The drawing is different from the actual one, ple ase refer to the sample.\nPage ：2/5 Date / Rev. 2021.05.11 / B Model  No. FYL-3019EGW1A-CC \n                      Http://www.foryard.com \n\nModel No. ：：：：FYL-3019EGW1A-CC \n■■■■ Absolute Maximun Ratings(Ta=25ºC) \n■■■■ Typical Electrical &Optical Charcteristics(Ta=25ºC ) \nSymbol Min. Typ. Max. Unit\n9 20 45 \n20 45 100 \n --- 50  --- \n --- 50 -- \n --- 625 -- \n --- 570 -- \n618 622 627 \n568 572 574 \n --- 35 -- \n --- 10 -- \n1.8 2.1 2.4 \n1.8 2.1 2.6 \nIR  ---  --- 10 µA VR=5V \n   Note:\n           1.Luminous Intensity is based on the For yard standards.\n           2.Pay attention about static for InGaN \nPage ：3/5 Power Dissipation 80 Model  No. FYL-3019EGW1A-CC \nDate / Rev. 2021.05.11 / B \nParameter \nEMAX.\nUnit\nmW G\n75 \nPeak Forward Current (1/10 Duty Cycle, 0.1ms Pulse Width) 150 \nContinuous Forward Current 30 mA \nmA \nmA/ ℃\nV0.4 \n5100 \n30 \n                      Http://www.foryard.com Derating Linear From 50 ℃\nReverse Voltage \nOperating Temperature Range -40 ℃ to +85 ℃\nStorage Temperature Range -40 ℃ to +100 ℃\nLead Soldering Temperature[4mm(.157”) From Body] 260 ℃ for 5 Seconds \nReverse CurrentParameter \nLuminous Intensity \nViewing Angle \nPeak Emission Wavelength \nDominant Wavelength \nSpectral Line Half-Width \nForward Voltage Colour \nE\nG\nE\nG\nE\nG\nE\nG\nE\nG\nE\nGmcd \nDeg \nnm \nnm \nnm \nVIF=20mA Test\nCondition \nIV\n2θ 1/2 \nλp \nλd \n△λ\nVF\n\nModel No. ：：：：FYL-3019EGW1A-CC \n■■■■ Typical Eletrical/Optical Characteristics Curves(T a=25ºC Unless Otherwise Noted) \n■■■■ Radiation pattern \nPage ：4/5 Model  No. FYL-3019EGW1A-CC \nDate / Rev. 2021.05.11 / B \n                      Http://www.foryard.com \nRelative Lumionous Intensity(LOP @max=1)℃AlGaInP \n℃AlGaInP \n■■■■  LAMP PACKING.\nNote: The specifications are subject to change with out notice. Please contact us for updated informati on.\nPage ：5/5 Model  No. FYL-3019EGW1A-CC \nDate / Rev. 2021.05.11 / B \nModel No. ：：：：FYL-3019EGW1A-CC \n                      Http://www.foryard.com \nPart NO: FYL-XXXXXX \nxxxx/xx/xx Quantity: XXXPCS \nQC:QC1 \nPASSED \nxxxxxxxxxx VF: XXX-XXX \nWD:XXX-XXX \nIV:XXXX-XXXX \nw w w . f o r y a r d . c o m O UTS IDE  LA BE L 3mm  50 0PC S/ Pol yba g \n60 00P CS/ Box \n360 00 PCS /Ca rt on P A R T  N U M B E R Q ' T Y ( P C S )\nG . W . : K G S F Y L - X X X X X X X X X X X X X \nL E D L E D L E D L E D \nP N: FYL -XX XX XXX XXX X \nQt y:X XXX X P CS \nDa te :XX XX/ XX /XX \nGW : XX. XX      KG \nNW : XX. XX      KG \nx xx xxx xxx x R o H S R o H S R o H S R o H S \nA T T E N T I O N A T T E N T I O N A T T E N T I O N A T T E N T I O N \nO UTS IDE  L ABE L \n"}]
+!==============================================================================!
+### Component Summary: FYL-3019EGW1A-CC
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (VF): 1.8V to 2.6V (typical 2.1V at 20mA)
+  - Reverse Voltage (VR): 5V
+- **Current Ratings:**
+  - Continuous Forward Current: 30 mA
+  - Peak Forward Current (1/10 Duty Cycle, 0.1ms Pulse Width): 150 mA
+  - Reverse Current: 10 µA at VR=5V
+- **Power Consumption:**
+  - Power Dissipation: 80 mW
+- **Operating Temperature Range:**
+  - -40°C to +85°C
+- **Storage Temperature Range:**
+  - -40°C to +100°C
+- **Package Type:**
+  - Φ3mm round type
+- **Special Features:**
+  - Low power consumption
+  - High efficiency
+  - High intensity
+  - RoHS compliant
+- **Moisture Sensitive Level:**
+  - Not specified in the provided data.
+
+#### Component Description:
+The FYL-3019EGW1A-CC is a high-efficiency LED (Light Emitting Diode) produced by Foryard Optoelectronics. It utilizes GaAsP and AlGaInP as its dice materials, emitting light in orange and yellow-green colors. The device features a white diffused lens, which enhances the light distribution and visibility.
+
+#### Typical Applications:
+The FYL-3019EGW1A-CC LED is suitable for a variety of applications, including:
+- **Indicator Lights:** Used in consumer electronics and appliances to signal operational status.
+- **Backlighting:** Commonly used in displays and panels for visibility.
+- **Decorative Lighting:** Employed in signage and decorative applications due to its vibrant colors.
+- **Automotive Lighting:** Can be used in vehicle lighting systems for indicators and interior lighting.
+
+This LED is designed for general-purpose use, making it versatile for various lighting and signaling applications across different industries.

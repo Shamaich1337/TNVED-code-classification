@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of SMS1308GC 8mm production of SHENZHEN KHJ TECHNOLOGY CO., LTD from the text:1\nRemovable \xa0Clear\xa0PET\nGlossy\xa0black\xa0PET\xa0tape\xa0\nRelease\xa0liner(No\xa0logo)\n\xa0\n2\nTotal\xa0\xa0Thickness\n（um）\n53±2\n3\n4\n5\nRemarks:Stored\xa0under\xa020‐28C,and\xa0humidity\xa040‐70%,avoid \xa0exposure\xa0in\xa0sunshine,avoid\nhigh\xa0temperature \xa0over\xa0400C,and\xa0high\xa0humidity\xa0over\xa075%RH.\nShelf\xa0life：6\xa0month\xa0from\xa0Manufacturing \xa0date.\nAll\xa0technicial \xa0data\xa0on\xa0this\xa0sheet\xa0are\xa0based\xa0on\xa0our\xa0lab\xa0data\xa0and\nexperience,however \xa0many\xa0factors\xa0are\xa0uniquely\xa0within\xa0uses'\xa0knowledge \xa0and\ncontrol,it's \xa0essential\xa0that\xa0the\xa0users\xa0evaluate\xa0the\xa0product\xa0to\xa0determine \xa0whether\nit's\xa0suitable\xa0for\xa0particular \xa0application.Application\nfor\xa0splicing\xa0purpose\xa0in\xa0SMT\xa0process.\nStorage\xa0Condition \xa0≥15 GB2792‐81\n\xa0Retentivity （H/25mm*25mm) >100\nGB‐T7753‐1987\nBreaking\xa0strength\xa0(N/cm) >100Test\xa0Item Value Test \xa0Method                SMS13XXGC Series  Data Sheet \nComposition \xa0of\xa0Product:\nPeeling\xa0off\xa0force（N/25mm）Performance \xa0Parameter \xa0Product\xa0Features\xa0:\nName Base \xa0Thickness(um) Feature\nBlack\xa0PET\xa0Tape 25\n-1-\n"}]
+!==============================================================================!
+### Component Summary: SMS1308GC
+
+**Key Specifications:**
+- **Total Thickness:** 53 ± 2 µm
+- **Base Thickness:** 25 µm (Black PET Tape)
+- **Peeling Off Force:** > 100 N/25mm
+- **Breaking Strength:** > 100 N/cm
+- **Shelf Life:** 6 months from manufacturing date
+- **Storage Conditions:** 
+  - Temperature: 20-28°C
+  - Humidity: 40-70%
+  - Avoid exposure to sunlight, high temperatures (> 40°C), and high humidity (> 75% RH).
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+**Description:**
+The SMS1308GC is a specialized adhesive tape produced by Shenzhen KHJ Technology Co., Ltd. It features a removable clear PET backing with a glossy black PET tape. This tape is designed for use in surface mount technology (SMT) processes, particularly for splicing purposes. The product is engineered to provide strong adhesion while allowing for easy removal, making it suitable for applications where temporary bonding is required.
+
+**Typical Applications:**
+- **Surface Mount Technology (SMT):** The primary application of the SMS1308GC is in the SMT process, where it is used for splicing components or materials together during assembly.
+- **Electronics Manufacturing:** It can be utilized in various electronic assembly tasks where temporary adhesion is necessary.
+- **General Adhesive Applications:** The tape may also find use in other applications requiring a strong yet removable adhesive solution.
+
+This summary encapsulates the essential characteristics and applications of the SMS1308GC tape, providing a clear understanding of its functionality and usage in the electronics industry.

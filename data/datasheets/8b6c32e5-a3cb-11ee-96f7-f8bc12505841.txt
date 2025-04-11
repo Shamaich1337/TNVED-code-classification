@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ES-SMYLPN42R production of EPISTAR CORPORATION from the text:COPY RIGHT ©2019 Epistar Corporation. All Rights Reserved.                                                                         www.epistar.com.tw  \nCC-201903 -A \n \n \n \n \n \n \n> Mechanical Specification:  \n \n(1) Dimension  \n  - Chip size: 42 mil x 42 mil ( 1076 ±25 μm x 1076 ±25 μm)  \n  - Thickness:  8.8 mil ( 225±25 µm) \n  - N bonding pad:  4.7 mil (1 20\uf0b110 µm)  \n \n(2) Metallization  \n  - Topside N electrode  (x2): Au alloy   \n  - Backside P electrode:  Au alloy  \n \n \n \n \n> Electro -optical Characteristics at 25 \uf0b0C: \nParameter  Symbol  Condition  Min.  Typ.  Max.  Unit  \nForward Voltage  Vf1 If = 10µA  1.3 - - V \nVf2 If = 350mA - 2.2 2.6 V \nReverse Current  Ir Vr = 10V - - 5.0 μA \nPeak  Waveleng th λp If = 350mA  - 591 - nm \nDominant Waveleng th(1) λd If = 350mA  584 - 594 nm \nSpectra Half -width  Δλ If = 350mA  - 15 - nm \nLuminous Intensity(2)(3) Iv H15 \nIf = 350mA 13000  - - \nmcd H16 15000  - - \nH17 17000  - - \nNote:  \n(1) Basically,  the wavelength span is 10nm; however, customers’ special requirements are also welcome.  \n(2) Customers’ special requirements are also welcome.  \n(3) Luminous intensity  is measured by EPISTAR’ s equipment on bare chips.    Features:  \n\uf09e High luminous intensity   \n\uf09e Thin film structure  \n\uf09e Vertical electrode  \n\uf09e High driving current  \n \nApplications:  \n\uf09e Traffic signal  \n\uf09e Lighting  \nES-SMYL PN42R \nAIGaInP PN-series  LED Chip  \nP-electrode  N-electrode  \n \nSi-substrate  \n\nCOPY RIGHT ©2019 Epistar Corporation. All Rights Reserved.                                                                         www.epistar.com.tw  \nCC-201903 -A \nES-SMYLPN42R AlGaInP PN-series  LED Chip  \n  \n \n \n> Absolute Maximum Ratings:  \nParameter  Symbol  Condition  Rating Unit \nForward DC Current  If Ta = 25˚C  ≤ 1000 mA \nReverse Voltage  Vr Ta = 25˚C  ≤ 10 V \nJunction Temperature  Tj - ≤ 115 ˚C \nStorage Temperature  Tstg Chip -40 ~ +85  ˚C \nChip -on-tape/storage  5 ~ 35 ˚C \nChip -on-tape/transportation  -20 ~ +65 ˚C \nTemperature during Packaging  - - 280(<10 sec) ˚C \nNote: Maximum ratings are package dependent. The above maximum ratings were determined using a Metal Core Printed Circuit Board ( MCPCB) without an encapsulant. \nStresses in excess of the absolute maximum ratings such as forward current and junction  temperature may cause damage to the LED.  \n \n> Characteristic Curves:  \n \nFig.1  – Relative luminous Intensity vs. Forward Current   Fig.2  – Forward Current vs. Forward Voltage  \n  \n \nFig.3  – Relative Intensity (@3 50mA) vs. Ambient  \nTemperature   Fig.4  – Forward V oltage (@3 50mA) vs. Ambient \nTemperature  \n  \n \nFig.5 – Dominant Wavelength (@ 350mA) vs. Ambient \nTemperature   Fig.6  – Maximum Driving Forward DC Current vs. Ambient  \nTemperature (De -rating based on Tj max. = 115oC) \n  \n \n \n'}]
+!==============================================================================!
+### Component Summary: ES-SMYLPN42R
+
+**Manufacturer:** Epistar Corporation  
+**Product Type:** AlGaInP PN-series LED Chip
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (Vf1): 1.3 V (at If = 10 µA)
+  - Forward Voltage (Vf2): 2.2 V to 2.6 V (at If = 350 mA)
+  - Reverse Voltage (Vr): ≤ 10 V
+
+- **Current Ratings:**
+  - Forward DC Current (If): ≤ 1000 mA (at Ta = 25˚C)
+
+- **Power Consumption:**
+  - Power consumption can be derived from the forward voltage and current, but specific power ratings are not provided in the datasheet.
+
+- **Operating Temperature Range:**
+  - Junction Temperature (Tj): ≤ 115 ˚C
+  - Storage Temperature (Tstg): -40 ˚C to +85 ˚C
+  - Chip-on-tape/storage: 5 ˚C to 35 ˚C
+  - Chip-on-tape/transportation: -20 ˚C to +65 ˚C
+
+- **Package Type:**
+  - Chip size: 42 mil x 42 mil (1076 ±25 μm x 1076 ±25 μm)
+  - Thickness: 8.8 mil (225 ±25 µm)
+
+- **Special Features:**
+  - High luminous intensity
+  - Thin film structure
+  - Vertical electrode design
+  - High driving current capability
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Description:
+The ES-SMYLPN42R is an AlGaInP (Aluminum Gallium Indium Phosphide) PN-series LED chip designed for high luminous intensity applications. It features a compact chip size and is constructed with a thin film structure, which allows for efficient light emission and high current driving capabilities. The vertical electrode design enhances the performance of the LED, making it suitable for various applications.
+
+#### Typical Applications:
+- **Traffic Signals:** The high luminous intensity and visibility make it ideal for use in traffic lights and signals.
+- **Lighting:** Suitable for general lighting applications where bright and efficient light output is required.
+
+This LED chip is particularly useful in environments where durability and performance under varying temperatures are critical, making it a reliable choice for both indoor and outdoor lighting solutions.

@@ -1,0 +1,47 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 231-102/026-000 production of WAGO KONTAKTTECHNIK GMBH from the text:370\n6\n10 20 30 40 50 60 70 8085051015202530354045\nMaterial data:\nMaterial group I\nInsulating material Polyamide 66 (PA 66)\nFlammability class per UL 94 V0\nLower/Upper limit temperature -60 °C / +85 °C\nClamping spring material Chrome nickel spring steel (CrNi)\nContact material Copper alloy\nContact plating tin-plated\nMCS connectors are also available upon request with gold-plated or partially gold-plated contact surfaces.\nDepending on the version requested, “item no. suffix    . . . /010-000” is added to the “basic item no.”\nAdditional approvals and corresponding ratings can be found at www.wago.com. For additional technical information, see Section 13.MCS MIDI accessories: Page:\nMarking accessories 570\nOperating tools 470\nDirect marking 362\nComb-style jumper bars 480\nInsulation stop 473\nTest plug adapter 478\nTest plug 568\nScrews 576\nStrain relief housings 476\nStrain relief plates 474Female Connectors\nPin Spacing: 5 mm, 5.08 mm\nMCS  MIDI Classic\nConductor data:\nConnection technology CAGE CLAMP®\nConductor size: solid 0.08 … 2.5 mm2\nConductor size: fine-stranded 0.08 … 2.5 mm2\nConductor size: fine-stranded 0.25 … 1.5 mm2(with insulated ferrule)\nConductor size: fine-stranded 0.25 … 2.5 mm2(with uninsulated ferrule)\nAWG 28 … 12 12: THHN, THWN\nStrip length 8 … 9 mm / 0.31 … 0.35 inTechnical data:Straight \nfemale connectors:Angled \nfemale connectors:\nPin Spacing5 mm/5.08 mm \n0.197 in./0.2 in.5 mm/5.08 mm \n0.197 in./0.2 in.\nRatings per IEC/EN 60664-1 IEC/EN 60664-1\nOvervoltage category III III II III III II\nPollution degree 3 2 2 3 2 2\nRated voltage 320 V 320 V 630 V 320 V 320 V 630 V\nRated surge voltage 4 kV 4 kV 4 kV 4 kV 4 kV 4 kV\nNominal current 16 A 16 A 16 A 14 A 14 A 14 A\nApprovals per UL/CSA UL/CSA\nUse group UL 1059 B C D B C D\nRated voltage  300 V –  300 V  300 V –  300 V\nNominal current UL 15 A – 10 A 15 A – 10 A\nNominal current CSA 15 A – 10 A 15 A – 10 A\nThe MCS MIDI connection system is UL 1977 approved and capable of up to 600 V for factory wiring.Derating Curve\nAmbient operating temperature in °C Current in A\nConductor rated current 231-102/026-000 female connector   \nwith 231-432/001-000 male connector \nPin spacing: 5 mm / Conductor size: 2.5 mm2 “f-st” \nBased on: EN 60512-5-2 / Reduction factor: 0.8\n2-, 4-, 6-, 12-, 24-pole●  Universal connection for all conductor types\n●  Easy cable pre-assembly and on-unit wiring via vertical and horizontal \nCAGE CLAMP® actuation\n● With coding fingers\n● Integrated test ports\nMCS – MULTI CONNECTION SYSTEM includes connectors without breaking capacity in accordance with  \nDIN EN 61984. \nWhen used as intended, these connectors shall not be connected/disconnected when live or under load. The circuit \ndesign should ensure header pins, which can be touched, are not live when unmated.\n'}]
+!==============================================================================!
+### Component Summary for WAGO KONTAKTTECHNIK GMBH 231-102/026-000
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Rated Voltage: 320 V (for straight and angled female connectors)
+  - Rated Surge Voltage: 4 kV
+  - UL Rated Voltage: 300 V
+
+- **Current Ratings:**
+  - Nominal Current: 16 A (for straight connectors), 14 A (for angled connectors)
+  - UL Nominal Current: 15 A (for straight connectors), 10 A (for angled connectors)
+  - CSA Nominal Current: 15 A (for straight connectors), 10 A (for angled connectors)
+
+- **Power Consumption:**
+  - Not explicitly stated; however, the current ratings imply a maximum power handling capability of approximately 5,120 W at 320 V.
+
+- **Operating Temperature Range:**
+  - Lower Limit: -60 °C
+  - Upper Limit: +85 °C
+
+- **Package Type:**
+  - Female connectors with pin spacing of 5 mm and 5.08 mm.
+
+- **Special Features or Notes:**
+  - CAGE CLAMP® connection technology for easy assembly.
+  - Integrated test ports for testing connections.
+  - Available with gold-plated or partially gold-plated contact surfaces upon request.
+  - Coding fingers for proper alignment.
+  - Designed for use without breaking capacity according to DIN EN 61984.
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+#### Component Description:
+The WAGO 231-102/026-000 is a female connector designed for use in the MCS MIDI connection system. It features a robust design with a CAGE CLAMP® connection technology that allows for easy and reliable connections for various conductor types. The connector is suitable for both solid and fine-stranded conductors, making it versatile for different wiring applications.
+
+#### Typical Applications:
+The WAGO 231-102/026-000 connector is typically used in:
+- **Industrial Automation:** For connecting sensors, actuators, and other devices in control panels and machinery.
+- **Power Distribution:** In electrical installations where reliable connections are critical.
+- **Building Automation:** For connecting various components in smart building systems.
+- **Transportation:** In railway and automotive applications where robust and reliable connections are necessary.
+- **General Electrical Wiring:** Suitable for various applications requiring secure and efficient electrical connections.
+
+This connector is particularly advantageous in environments where temperature extremes and vibration may be present, due to its wide operating temperature range and durable materials.

@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 171-025-202L001 production of NORCOMP from the text:THESE DRAWINGS AND SPECIFICATIONS ARE\nTHE PROPERTY OF NorComp AND SHALL NOT\nBE REPRODUCED, COPIED OR USED AS THE\nBASIS FOR THE MANUFACTURE OR SALE OF\nAPPARATUS WITHOUT WRITTEN PERMISSION.RoHS COMPLIANT\nNC\nDO NOT SCALE FROM DRAWING\n171-YYY-20YLYY1\nSHEET            OF     \n1            2\nNorComp\nJ. KADEL\nDRAWN:\nDATE:\n07/24/2018\nDWG NO.\nSCALE:\nNTS\n16\nREV\nDESCRIPTION: FEMALE // SOLDER CUP // STAMPED\nUNITS = INCHES [MM]\nWILL ACCEPT 28-20 AWG CONDUCTORS\nA±0.014\nC±0.006\nB±0.004\nPIN #1\nØ0.120 [3.05]\nE±0.010\nD\n0.236±0.006 [6.00]\n(50 PIN DIMENSION)\n 0.240±0.006 [6.10]\n0.166 [4.21]\n±0.010\nF±0.010\n0.429 ±0.010\n[10.90]\n0.161±0.010\n[4.10]\n[0.90±0.3]\nDIMENSIONS (in/mm)\nPOS.\nA\nB\nC\nD\nE\nF\n9\n1.213\n0.984\n0.642\n0.756\n0.311\n0.496\n30.80\n24.99\n16.30\n19.20\n7.90\n12.60\n15\n1.541\n1.312\n0.971\n1.091\n0.311\n0.496\n39.15\n33.32\n24.65\n27.70\n7.90\n12.60\n25\n2.087\n1.853\n1.512\n1.618\n0.311\n0.496\n53.00\n47.04\n38.40\n41.10\n7.90\n12.60\n37\n2.728\n2.500\n2.157\n2.256\n0.311\n0.496\n69.30\n63.50\n54.80\n57.30\n7.90\n12.60\n50\n2.638\n2.406\n2.055\n2.169\n0.429\n0.602\n67.00\n61.00\n52.20\n55.10\n10.90\n15.30\n0.109 [2.77]\n171-YYY-20YLYY1\nSERIES\nPOSITIONS\n     009\n     015\n     025\n     037\n     050\nGENDER\n     2 = FEMALE\nTERMINATION\n     0 = SOLDER CUP\nSHELL PLATING\n     2 = TIN (DISCONTINUED)\n     3 = NICKEL\nHARDWARE OPTIONS\n     00 = NO HARDWARE\n     01 = .098" 4-40 CN (SOLDER SIDE)\n     02 = .236" 4-40 CN (SOLDER SIDE)\n     03 = .236" 4-40 CN (MATING SIDE)\n     05 = .237" 4-40 BOARD LOCK (.063" PCB)\n     91 = .237" 4-40 JACK SCREW / BOARD LOCK (.063" PCB)\nPLATING OPTIONS\n     1 = GOLD FLASH\n     2 = 30u" GOLD MATING AREA // GF TAILS\nSPECIFICATIONS:\nMATERIALS:\nSHELL: NICKEL OR TIN PLATED STEEL\nINSULATOR: PBT +30% GF, UL 94V-0, BLACK\nELECTRICALS:\nCURRENT RATING: 5 AMPS\nCONTACT RESISTANCE: 15 mOHMS MAX\nINSULTOR RESISTANCE: 1000 MOHMS MIN\nVOLTAGE: 500V AC FOR 1 MINUTE\nWORKING VOLTAGE: 250 VAC\nCONTACTS: COPPER ALLOY, GOLD PLATED\nTEMPERATURE: -50°C TO +100°C\nTHESE DRAWINGS AND SPECIFICATIONS ARE\nTHE PROPERTY OF NorComp AND SHALL NOT\nBE REPRODUCED, COPIED OR USED AS THE\nBASIS FOR THE MANUFACTURE OR SALE OF\nAPPARATUS WITHOUT WRITTEN PERMISSION.RoHS COMPLIANT\nNC\nDO NOT SCALE FROM DRAWING\n171-YYY-20YLYY1\nSHEET            OF     \n2            2\nNorComp\nJ. KADEL\nDRAWN:\nDATE:\n07/24/2018\nDWG NO.\nSCALE:\nNTS\n16\nREV\nDESCRIPTION: CLINCH NUT HARDWARE\nUNITS = INCHES\nALL CLINCH-NUTS ARE 4-40 INTERNAL THREADS\nTOLERANCE:\nALL DIMENSIONS ARE ±0.010\n05 ..... 0.237" (SOLDER SIDE)\n0.280\n0.237\n01 ..... 0.098" (SOLDER SIDE)\n0.141\n0.098\nNOTE: 4-40 FEMALE SCREW LOCK IS REMOVABLE\n0.236\n02 ..... 0.236" (SOLDER SIDE)\n0.279\n91 ..... 0.237" (SOLDER SIDE)\n0.506\n0.234\n0.237\n03 ..... 0.236" (MATING SIDE) \n0.236\n0.279\n0.063\n0.063\n'}]
+!==============================================================================!
+### Component Summary for NorComp 171-025-202L001
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Working Voltage: 250 VAC
+  - Voltage: 500V AC for 1 minute
+- **Current Ratings:**
+  - Maximum Current Rating: 5 Amps
+- **Power Consumption:**
+  - Not specified directly; however, the current rating indicates the maximum load the component can handle.
+- **Operating Temperature Range:**
+  - -50°C to +100°C
+- **Package Type:**
+  - Female connector with solder cup termination
+- **Special Features or Notes:**
+  - RoHS compliant
+  - Contact resistance: 15 mΩ max
+  - Insulator resistance: 1000 MΩ min
+  - Contacts made of copper alloy, gold plated
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+#### Description:
+The NorComp 171-025-202L001 is a female connector designed for solder cup termination. It is part of a series that accommodates various pin configurations, specifically designed to accept 28-20 AWG conductors. The connector features a robust construction with a nickel or tin-plated steel shell and a PBT insulator that is reinforced with 30% glass fiber, ensuring durability and reliability in various applications.
+
+#### Typical Applications:
+This connector is typically used in applications requiring reliable electrical connections, such as:
+- **Industrial Equipment:** For connecting various components in machinery and control systems.
+- **Telecommunications:** Used in devices that require stable connections for data transmission.
+- **Consumer Electronics:** Suitable for devices that need secure and efficient power connections.
+- **Automotive Applications:** Can be utilized in automotive electronics for reliable connectivity under varying environmental conditions.
+
+Overall, the NorComp 171-025-202L001 connector is designed for versatility and reliability in a wide range of electronic applications, making it a suitable choice for engineers and designers looking for dependable connectivity solutions.

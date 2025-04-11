@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of KSJ0M21160SHLFTR production of LITTELFUSE from the text:B–91Dimensions are shown: mm \nSpecifications and dimensions subject to change\nwww.ckswitches.com    Tactile Switches\n26 jul 16KSJ Series\nSpherical Actuator Tact Switches\nFeatures/Benefits\n•  Spherical actuator allows  \nactuation force off center ± 30˚ \nwith regard to vertical\n• RoHS compliant and compatible\n• Designed for mechanisms\n• Compliant side actuationTypical Applications\n• Automotive\n• Cranes, off road, railway\n• Factory automation\n• Security systems\nHow To Order\nOur easy build-a-switch concept allows you to mix and match options to create the switch you need. To order, select \ndesired option from each category and place it in the appropriate box.\nHowever, please note that all the combinations of these options are not feasible.  \nFor any part number different from those listed in the table above, please consult your local represenative.\nSpecification\nFUNCTION: Momentary action\nCONTACT ARRANGEMENT: 1 make contact = SPST, N.O.DISTANCE BETWEEN BUTTON CENTERS (min.): 7.62 (0.300)\nTERMINALS: PC pins\nSEALING: IP60Environmental   Silver  Gold\nOPERATING TEMPERATURE:  -40˚C to 85˚C -40˚C to 125˚C\nSTORAGE TEMPERATURE:  -40˚C to 85˚C -55˚C to 125˚C\nPackaging\nDelivered in boxes of 250 pieces.\nGround Terminal\n0  Without\n1  With*\nInsertion\nM  Thru-hole\nV  Vertical*KSJ\nContact Material1  Silver contacts\n3  Gold contacts\nOperation Force2  2 N (200 grams), 100,000 operations\n4  3 N (300 grams), 100,000 operationsSealing1  Sealed IP 60Mechanical\nProcess\nWave soldering, compatible with lead free soldering profile.\nNOTE: Specifications listed above are for switches with standard options. \nFor information on specific and custom switches, consult Customer Service Center.\nThis data sheet does not provide enough information for applications which require a\ncertain level of quality or safety such as automotive, medical systems, safety equipment.Please contact your sales representative to get contractual specification package.\n* Please contact your C&K represenative for any question regarding the product \nintergration.   Operating life Operating life\n Type Actuation force (operations) (operations) Travel to\n  N (grams) axial radial make (mm)\n KSJ0M21160SH 2 ± 0,5 100,000 30,000 0,6 ± 0,3\n KSJ0M41180SH 3,0 ± 0,8 100,000 30,000 0,55 ± 0,25\n KSJ0M21180SH 2 ± 0,5 100,000 30,000 0,35 ± 0,2\n KSJ0M91180SH 3,9 ± 0,8 100,000 30,000 0,7 ± 0,25\nElectrical   Silver  Gold\nMAXIMUM POWER:  1 VA  0.2 VA\nMAXIMUM VOLTAGE:  32 VDC 32 VDC\nMINIMUM VOLTAGE:  20 mV  20 mV\nMAXIMUM CURRENT:  50 mA  10 mA\nMINIMUM CURRENT:  1 mA  1 mA\nDIELECTRIC STRENGTH (50 Hz, 1 min.): ≥ 250 Vrms\nCONTACT RESISTANCE: ≤100m ΩINSULATION RESISTANCE (100V): ≥ 10\n9 ohms\nBOUNCE TIME: ≤ 1 ms\nHS\nHardness\n60SH  60 Shore Actuator\n80SH  80 Shore Actuator\n* Note:  “1” ground terminal option not available with “V” version.  \nThe bracket for the “V” version plays this role.LFT\nRoHS compliant and \ncompatible. Tin plated.R\n \nB–92Dimensions are shown: mm   \nSpecifications and dimensions subject to change\nwww.ckswitches.com    Tactile SwitchesB\n26 jul 16KSJKSJ Series\nSpherical Actuator Tact Switches\nApplication area limits\nof operating force\n60˚ 60˚\n5,2\n(.205)\nR 2,2\n(.087)\n6,65(.262)4,2(.165)4,7\n(.185)\n7,62\n(.30)\n9,0\n(.354)0,5 x 0,3\n(.020 x .012)5,08\n(.20)Recommended direction\nfor a radial actuation\n30˚ MAX1,2\n(.047)\n7,4\n(.291)7,4\n(.291)\nKSJ0M211\nINSERTION\nM  THRU-HOLE V   VERTICAL4,2(.165)\n7,62\n(.30)\n9,0\n(.354)0,5 x 0, 3\n(.020 x .012)5,08(.20)\n7,62\n(.30)ø0,9(.035)5,08(.20)Ground ter minal\n(option)PCB LAYOUT\n7,850,2\n(.309.008)5,080,2\n(.20.008)\n7,80,3\n(.307.012)\n9,50,2\n(.374.008)0,5 x 0,3\n(.020.012)\n0,40,1(.016.004)\n4,850,1\n(.191.004)\n3,250,1\n(.128.004)\n0,8 x 0,3\n(.031 x .012)\n5,250,2\n(.206.008)\n0,40,05(.016.002)\n2,540,3\n(.10.012)6,0\n(.236)\n5,31 (0.209)8,0\n(.315)\nPCB LAYOUT\n2,54\n(.10)\nø0,9+0,1/-0,0\n(.035+.004/-.000)ø1,2+0,1/-0,0(.047+.004/-.000)7,62(.30)\n5,08(.20)\n'}]
+!==============================================================================!
+### Component Summary for KSJ0M21160SHLFTR (Littelfuse)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Maximum Voltage: 32 VDC
+  - Minimum Voltage: 20 mV
+- **Current Ratings:**
+  - Maximum Current (Silver Contacts): 50 mA
+  - Maximum Current (Gold Contacts): 10 mA
+  - Minimum Current: 1 mA
+- **Power Consumption:**
+  - Maximum Power (Silver Contacts): 1 VA
+  - Maximum Power (Gold Contacts): 0.2 VA
+- **Operating Temperature Range:**
+  - Operating Temperature (Silver Contacts): -40°C to 85°C
+  - Operating Temperature (Gold Contacts): -40°C to 125°C
+- **Storage Temperature Range:**
+  - Storage Temperature (Silver Contacts): -40°C to 85°C
+  - Storage Temperature (Gold Contacts): -55°C to 125°C
+- **Package Type:**
+  - Thru-hole (M) or Vertical (V) insertion options available
+- **Special Features:**
+  - Momentary action switch with a spherical actuator allowing actuation force off center ± 30˚.
+  - IP60 sealing rating.
+  - RoHS compliant and compatible.
+  - Designed for mechanisms with a travel distance of 0.6 mm ± 0.3 mm.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+#### Component Description:
+The KSJ0M21160SHLFTR is a momentary action tactile switch featuring a spherical actuator. This design allows for actuation from various angles, making it versatile for different applications. The switch is available with silver or gold contacts, providing options for different electrical characteristics and durability.
+
+#### Typical Applications:
+- **Automotive:** Used in various controls and interfaces within vehicles.
+- **Cranes and Off-Road Equipment:** Suitable for rugged environments where reliability is crucial.
+- **Factory Automation:** Ideal for control panels and machinery interfaces.
+- **Security Systems:** Utilized in alarm systems and access controls.
+
+This tactile switch is designed for applications requiring reliable momentary actuation, making it suitable for both consumer and industrial uses.

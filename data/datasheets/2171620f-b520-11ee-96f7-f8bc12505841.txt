@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of KIMTECH brand Kimwipes production of KIMBERLY-CLARK WORLDWIDE, INC from the text:\n'}]
+!==============================================================================!
+KIMTECH Kimwipes are a brand of disposable wipes produced by Kimberly-Clark Worldwide, Inc. They are specifically designed for use in laboratory and industrial settings, where cleanliness and precision are paramount.
+
+### Key Characteristics and Specifications:
+
+- **Material**: Kimwipes are typically made from a soft, absorbent tissue material that is lint-free, making them ideal for cleaning delicate surfaces without leaving residue.
+- **Size**: Commonly available in various sizes, with standard dimensions being around 9.2 x 15 inches.
+- **Absorbency**: High absorbency rate, allowing for effective cleaning of spills and contaminants.
+- **Packaging**: Usually packaged in a convenient pop-up box or bulk packaging for easy access and use.
+- **Moisture Sensitivity**: Not applicable as these are not electronic components but rather consumable cleaning products.
+
+### Description:
+
+Kimwipes are disposable cleaning wipes designed for use in environments that require a high level of cleanliness, such as laboratories, cleanrooms, and manufacturing facilities. Their primary function is to clean surfaces, instruments, and equipment without leaving lint or residue, which is crucial in maintaining the integrity of sensitive instruments and experiments.
+
+### Typical Applications:
+
+- **Laboratories**: Used for cleaning glassware, instruments, and surfaces to prevent contamination.
+- **Electronics**: Ideal for cleaning delicate electronic components and surfaces without scratching or leaving debris.
+- **Medical Facilities**: Used for cleaning and disinfecting surfaces in healthcare settings.
+- **Industrial Use**: Employed in manufacturing and production environments for wiping down machinery and tools.
+
+In summary, KIMTECH Kimwipes are essential cleaning tools in various professional settings, valued for their lint-free and absorbent properties, making them suitable for a wide range of applications where cleanliness is critical.

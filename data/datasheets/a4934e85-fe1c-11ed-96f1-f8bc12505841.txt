@@ -1,0 +1,53 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2JCP2583101Gc_CU100549 production of 2J from the text:GNSS/L1L5  Ceramic Thru-Hole Mount \n \n2JCP2583101Gc     \n \n  Product Datasheet\nwww .2j-antennae.com www .2j-antennasusa.com Page: 1/8\nKey Features\nGPS/GLONASS/QZSS/Galileo/\nIRNSS/SBAS/L1L5\n- 1176 and 1575-1606 MHz\nThru-Hole Mount\nSingle Feed\nStacked Patch\nHigh Performance\nGround Plane Dependent\nDimensions 25  × 25 × 8 mm\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 2/8   \n2. Mechanical and environmental specifications    \nSpecifications\nMounting T ype\nAdhesive\nDimensions (mm)\nOperating T emperature (C)\nStorage T emperature (C)\nSubstance Compliance2JCP2583101Gc\nThru-Hole Mount\nNitto 5000NS\n25 × 25 × 8\n-40 to +85 \n-40 to +85 \nRoHSAntenna Measurement Conditions:\nFree Space\nMounted on Ground Plane of 70 x 70 mm\nMeasured in Certified CTIA  3D Anechoic ChamberParameters\nTechnologies\nBandwidth (MHz)\nBands\nFrequency (MHz)\nStandards\nReturn Loss (dB)\nVSWR\nEfficiency (%)\nPassive Peak Gain (dBi)\nAverage Gain (dB)\nImpedance (Ohms)\nRadiation Pattern\nPolarization1176\nL5\n1176.45\nGPS(L5), BeiDou(B2a), QZSS(L5),\nGalileo(E5a), IRNSS(L5)\n~-26.2\n~1.1:1\n~63.6\n~3.1\n~-2.0GNSS Active Antenna\nGPS/Glonass/QZSS/Galileo/IRNSS/SBAS/L1L5\n50\nHemispherical\nRHCP1575-1606\nL1\n1575.42 , 1602\nGPS(L1C), GLONAS(L1OF), \nQZSS(L1C), Galileo(E1), SBAS (L1)\n~-12.6\n~1.6:1\n~77.6\n~4.6\n~-1.2\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 3/8   \n-25-20-15-10-50\n115011751200122512501275130013251350137514001425145014751500152515501575160016251650Return Loss (dB)\nFrequency  (MHz)\n012345\n115011751200122512501275130013251350137514001425145014751500152515501575160016251650VSWR\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 4/80102030405060708090\n115011751200122512501275130013251350137514001425145014751500152515501575160016251650Efficiency (%)\nFrequency  (MHz)\n012345\n115011751200122512501275130013251350137514001425145014751500152515501575160016251650Peak Gain (dBi)\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 5/8Radiation pattern referen ce-3-2-10\n115011751200122512501275130013251350137514001425145014751500152515501575160016251650Average Gain (d B)\nFrequency  (MHz)\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 6/81176 AND 1575 MHz  Rad iation pattern\n1602 MHz  Rad iation pattern\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 7/8   \nPatch Dimensions\nLayout for top layer\nLayout for bottom layer\n 25 ±0,30  18,50 ±0,20  18,50 ±0,20 \n 25 ±0,30 \n 0,8 \n 0,6max  2,8 ±0,3  4,00 ±0,10  4,00 ±0,1 \n 2,5 ±0,1 \n 23  23 Adhesive tape\n \nwww .2j-antennae.com www .2j-antennasusa.com Page: 8/8   \n'}]
+!==============================================================================!
+### Component Summary: 2JCP2583101Gc
+
+**Key Specifications:**
+- **Type:** GNSS Active Antenna
+- **Frequency Bands:** 
+  - L1: 1575.42 MHz (GPS, GLONASS, QZSS, Galileo, SBAS)
+  - L5: 1176.45 MHz (GPS, BeiDou, QZSS, Galileo, IRNSS)
+- **Voltage Ratings:** Not specified (passive component)
+- **Current Ratings:** Not specified (passive component)
+- **Power Consumption:** Not specified (passive component)
+- **Operating Temperature Range:** -40°C to +85°C
+- **Storage Temperature Range:** -40°C to +85°C
+- **Package Type:** Thru-Hole Mount
+- **Dimensions:** 25 mm x 25 mm x 8 mm
+- **Moisture Sensitive Level (MSL):** Not specified
+- **Special Features:**
+  - High performance
+  - Ground plane dependent
+  - Single feed, stacked patch design
+- **Return Loss:** 
+  - L1: ~-12.6 dB
+  - L5: ~-26.2 dB
+- **VSWR:**
+  - L1: ~1.6:1
+  - L5: ~1.1:1
+- **Efficiency:**
+  - L1: ~77.6%
+  - L5: ~63.6%
+- **Passive Peak Gain:**
+  - L1: ~4.6 dBi
+  - L5: ~3.1 dBi
+- **Average Gain:**
+  - L1: ~-1.2 dB
+  - L5: ~-2.0 dB
+- **Impedance:** 50 Ohms
+- **Radiation Pattern:** Hemispherical
+- **Polarization:** Right-Hand Circular Polarization (RHCP)
+
+**Description:**
+The 2JCP2583101Gc is a GNSS (Global Navigation Satellite System) active antenna designed for receiving signals from multiple satellite navigation systems, including GPS, GLONASS, QZSS, Galileo, IRNSS, and SBAS. It operates on two frequency bands: L1 (1575.42 MHz) and L5 (1176.45 MHz). The antenna features a stacked patch design and is optimized for performance when mounted on a ground plane.
+
+**Typical Applications:**
+This antenna is typically used in applications requiring precise location tracking and navigation, such as:
+- Automotive navigation systems
+- Drones and UAVs (Unmanned Aerial Vehicles)
+- Mobile devices and smartphones
+- IoT (Internet of Things) devices that require location services
+- Surveying and mapping equipment
+- Any application that requires reliable GNSS signal reception in various environmental conditions. 
+
+The 2JCP2583101Gc is particularly suitable for applications where high performance and compact size are critical, making it a versatile choice for modern navigation solutions.

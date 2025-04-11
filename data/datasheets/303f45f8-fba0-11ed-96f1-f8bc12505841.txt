@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ST5-30-1.50-L-D-P-TR production of SAMTEC from the text:MICRO BLADE & BEAM \nSOCKET & HEADER\n(0.50 mm) .0197" PITCH  •  SS5/ST5 SERIES\nUnless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.SS5-NO. OF \nPOSITIONS -LEAD \nSTYLE -PLATING \nOPTION -D- K - “X”R\n–10, –15, –20, \n–30, –40, –50, \n–60, –70, –80\n(Per Row)–3.00\n= 3.00 mm\n–3.50\n= 3.50 mm–L\n= 10 µ" \n(0.25 µm) \nGold on \ncontact, \nMatte Tin \non tail(Required in \ncallout)\n–K\n= (3.50 mm) \n.138" DIA \nPolyimide \nFilm \nPick & \nPlace Pad(Required in \ncallout)\n–TR\n= Tape & Reel\n–FR\n= Full Reel \nTape & Reel \n(must order max. \nquantity per reel; \ncontact Samtec for \nquantity breaks)\nST5-NO. OF \nPOSITIONS -LEAD \nSTYLE -PLATING \nOPTION -D- P - “X”R\n–10, –15, –20, \n–30, –40, –50, \n–60, –70, –80\n(Per Row)–1.00\n= 1.00 mm\n–1.50\n= 1.50 mm–L\n= 10 µ" \n(0.25 µm) \nGold on \ncontact, \nMatte Tin \non tail(Required in \ncallout)\n–P\n= Pick & \nPlace Pad(Required \nin callout)\n–TR\n= Tape & Reel\n–FR\n= Full Reel \nTape & Reel \n(must order max. \nquantity per reel; \ncontact Samtec for \nquantity breaks)\nSPECIFICATIONSSS5\nMates:\nST5\nST5\nMates:\nSS5\nInsulator Material:\nBlack LCP\nContact Material:  \nPhosphor Bronze\nPlating:\nAu or Sn over \n50 µ" (1.27 µm) Ni\nOperating Temp Range:\n-55 °C to +125 °C\nCurrent Rating:\n1.5 A per pin\n(2 pins powered)\nPROCESSING\nLead-Free Solderable:\nYes\nSMT Lead Coplanarity:\n(0.10 mm) .004" max\nNote:  \nSome lengths, styles and \noptions are non-standard, \nnon-returnable.Other lead styles \n(MOQ Required)ALSO AVAILABLEMATED HEIGHT *\nST5\n LEAD \nSTYLESS5 LEAD STYLE\n–3.00 –3.50\n–1.00(4.00 mm)\n.157"(4.50 mm)\n.177"\n–1.50(4.50 mm)\n.177"(5.00 mm)\n.197"\n*Processing conditions \n  will affect mated height.LEAD \nSTYLEA B\n–3.00(2.85) \n.112(3.50) \n.138\n–3.50(3.35) \n.132(4.00) \n.157\nLEAD \nSTYLEA B\n–1.00(1.00) \n.039(3.08) \n.121\n–1.50(1.50) \n.059(3.58) \n.141No. of positions per ro w x \n(0.50) .0197 + (1.40) .055\n(1.46)\n.057(3.70)\n.146\nABNo. of positions per ro w x \n(0.50) .0197+ (3.54) .139\n(4.35)\n.171\nA B\nF-221 (Rev 23MAR23) samtec.com?SS5 or samtec.com?ST5\n'}]
+!==============================================================================!
+### Component Summary for ST5-30-1.50-L-D-P-TR
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, these connectors are designed for low-voltage applications.
+- **Current Ratings:** 1.5 A per pin (when 2 pins are powered).
+- **Power Consumption:** Not specified; power consumption would depend on the application and load.
+- **Operating Temperature Range:** -55 °C to +125 °C.
+- **Package Type:** Micro Blade & Beam Socket and Header with a pitch of 0.50 mm (0.0197").
+- **Special Features or Notes:**
+  - Insulator Material: Black LCP (Liquid Crystal Polymer).
+  - Contact Material: Phosphor Bronze.
+  - Plating Options: 10 µ" (0.25 µm) Gold on contact, Matte Tin on tail.
+  - Lead-Free Solderable: Yes.
+  - SMT Lead Coplanarity: 0.10 mm (0.004") max.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The ST5-30-1.50-L-D-P-TR is a micro blade and beam socket and header connector designed for high-density applications. It features a compact design with a 0.50 mm pitch, making it suitable for space-constrained environments. The connector is constructed with high-quality materials, including a black LCP insulator and phosphor bronze contacts, ensuring durability and reliability in various applications.
+
+#### Typical Applications:
+The ST5 series connectors are typically used in applications requiring reliable electrical connections in a compact form factor. Common applications include:
+- **Consumer Electronics:** Such as smartphones, tablets, and laptops where space is limited.
+- **Telecommunications:** For connecting various components in communication devices.
+- **Industrial Equipment:** In control systems and automation where robust connections are necessary.
+- **Automotive:** For connecting sensors and control units in vehicles.
+- **Medical Devices:** Where reliability and compactness are critical.
+
+This connector is ideal for applications that require a combination of high performance, compact size, and durability, making it a versatile choice for various electronic designs.

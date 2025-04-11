@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MP0038 production of BULGIN from the text:MP0027\nMP0038\nSealed to IP66\nMP0025\nSpecification MP0027 MP0038 MP0025\nTerminations: SolderTags SolderTags SolderTags\nSwitching: S.P.C.O.MomentaryAction(Microswitch) S.P.C.O.MomentaryAction(Microswitch) S.P.C.O.MomentaryAction(Microswitch)\nMax.Rating: 5A,250Vac 5A,250Vac 5A,250Vac\n2A,28Vdc 2A,28Vdc 2A,28Vdc\nContactResistance: <10mΩ <10mΩ <10mΩ\nInsulationResistance: >103MΩ >103MΩ. >103MΩ\nDielectricStrength: >2.0kVac >2.0kVac >2.0kVac\nOperatingTemp.Range: –20˚Cto+70˚C –20˚Cto+70˚C –20˚Cto+70˚C\nSealing(Frontofpanelonly) : ProtectionClassification:IP66EN60529\n1992(Microswitchnotsealed)\nOperations\nMechanical: 1,000,000(min) 1,000,000(min) 1,000,000(min)\nElectrical: 35,000(min) 35,000(min) 35,000(min)\nOperatingPressure: 7.5N(typ) 12.5N(typ) 6.1N(typ)\nRearNutFixingTorque: 2.5Nm 1.13Nm -\nMaterials\nMouldings: GlassFilledNylon GlassFilledNylon GlassFilledNylon\nTags/Terminations: Brass,TinPlated Brass,TinPlated Brass,TinPlated\nSwitchBody&Button: StainlessSteel StainlessSteel StainlessSteel\nContacts: FineSilver FineSilver FineSilver\nThreadsize: 1.0”x26TPI 1.0"x26TPI -\nCompliant Compliant Compliant/c541028mmdiameter\n/c5410S.P.C.O.Microswitch\n/c54105A,250Vac\n/c5410FrontPanelSealedtoIP66\n/c541028mmdiameter\n/c5410S.P.C.O.Microswitch\n/c54105A,250Vac\n/c541022mmdiameter\n/c5410S.P.C.O.Microswitch\n/c54105A,250VacStainlessSteelLowProfileVandalResistant-Momentary\nFRONT PANEL MOUNTING\nFRONT PANEL MOUNTING\nREAR PANEL MOUNTING\nwww.elektron-bulgin.com 174SWITCHESSWITCHESSWITCHES\nRoHSSwitchesSection - 2010:SwitchesSection_v2 - 2005  8/6/10  17:15  Page 174\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Bulgin:   \n\xa0 MP0027\xa0 MP0038\n'}]
+!==============================================================================!
+### Component Summary for MP0038 (Bulgin)
+
+**Component Type:** Momentary Action Microswitch
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - AC: 250V
+  - DC: 28V
+- **Current Ratings:**
+  - AC: 5A
+  - DC: 2A
+- **Power Consumption:** Not specified directly, but current ratings imply power handling capabilities.
+- **Operating Temperature Range:** -20°C to +70°C
+- **Package Type:** Front panel mounting
+- **Special Features:**
+  - Sealed to IP66 (protection against dust and water)
+  - Mechanical life: 1,000,000 operations (minimum)
+  - Electrical life: 35,000 operations (minimum)
+  - Operating pressure: 12.5N (typical)
+  - Rear nut fixing torque: 1.13Nm
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Description:**
+The MP0038 is a momentary action microswitch designed for front panel mounting applications. It features a robust construction with a stainless steel switch body and button, making it suitable for environments where durability and resistance to vandalism are required. The switch is designed to operate under a wide temperature range and is sealed to IP66, ensuring protection against dust and water ingress.
+
+**Typical Applications:**
+The MP0038 microswitch is typically used in applications that require reliable switching in harsh environments. Common applications include:
+- Industrial control panels
+- Outdoor equipment
+- Vending machines
+- Security systems
+- Automotive controls
+
+This component is ideal for scenarios where a momentary action is needed, such as push-button controls, and where environmental sealing is critical for performance and longevity.

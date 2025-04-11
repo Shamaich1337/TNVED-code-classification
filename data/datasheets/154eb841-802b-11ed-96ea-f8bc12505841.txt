@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of GMAX4651-BVM-NPT-BR1 production of GPIXEL from the text:GMAX4651 Product Flyer\n51MP GLOBAL SHUTTER IMAGE SENSOR\nGMAX4651 is a 51 Megapixel (8424x6032) full frame(35mm) glo bal\nshutter image sensor designed using the latest 4.6μm charge domain\nglobal shutter pixel. Using the advanced 65nm CIS process, i t provides\n18ke-FWC, 7.6e-median dark noise and more than 65dB intra-scene\ndynamic range. With the light pipe technology, sensor achie ves >67%\nQE @510nm and 1/40,000 shutter efficiency.\nGMAX4651 delivers 30fps in single gain operation mode runni ng at\n864Mbps. GMAX4651 is assembled with 238 pins PGA ceramic pac kage\nand the optical center is fully aligned with the package mech anical\ncenter. The unique features make it an ideal solution for dem anding\nimaging applications like machine vision, 8K broadcasting and high-end\nindustrial inspections.\nApplications\n•High Resolution Industrial \nInspection\n•Machine Vision\n•8K BroadcastingKey Features\n•4.6 um Global Shutter pixel\n•35mm Full Frame of optical format \n•High data throughput up to 21 Gbps\n•Optical center = package mechanical center\n•High speed and Good PLS\ninfo@gpixel.com\nwww.gpixel.com\n\nSensor Specifications\nResolution 8424 x 6032 Optical format 35mm Full Frame\nPixel size 4.6μm ×4.6μm Photo-sensitive area 38.75mm ×27.75mm\nShutter type Global shutter Quantum efficiency 67%@510 nm\nFull well capacity 18ke-Shutter efficiency 1/40000\nDark noise 7.6e-@PGA x5 Dark current 6e-/p/s @ 45 ℃\nDynamic range65.5@PGA x3.5\n64.3@PGA x5Frame rate 30fps \nOutput interface 24 pairs of sub-LVDS Channel multiple xing 24/14/8/6/4\nADC 12bit Max. Data rate 21 Gbps\nChroma Mono & Color Power consumption ＜2.8W\nI/O volatge 1.8V - 3.3V Package238 pins LGA\n58.6mmx42.0mm\nContact\nAll rights reserved.\nSubject to change without noticeTel: +86-431-86176682\nEmail:  info@gpixel.com\nWebsite: www.gpixel.com\nGpixel HQ \nNo. 588 Yingkou Road\n130033, Changchun, ChinaOrdering Information\nSensor Part No.\nGMAX4651-BVM-NPT-BU1\n30fps, 12bit, mono, Grade 1GMAX4651-BVM-NPT-BU2\n30fps, 12bit, mono, Grade 2\nGMAX4651-BVC-NPT-BU1\n30fps, 12bit, color, Grade 1GMAX4651-BVM-NPT-BR2\n30fps, 12bit, mono, Grade 2, Removable glass\nEVK Part No.\nEVA-4651-NF12, USB interface, single stacked PCB board s\n\n'}]
+!==============================================================================!
+### Component Summary: GMAX4651-BVM-NPT-BR1
+
+#### Key Specifications:
+- **Resolution**: 8424 x 6032 pixels
+- **Optical Format**: 35mm Full Frame
+- **Pixel Size**: 4.6μm x 4.6μm
+- **Photo-sensitive Area**: 38.75mm x 27.75mm
+- **Shutter Type**: Global Shutter
+- **Quantum Efficiency**: >67% at 510 nm
+- **Full Well Capacity**: 18,000 e-
+- **Shutter Efficiency**: 1/40,000
+- **Dark Noise**: 7.6 e- @ PGA x5
+- **Dark Current**: 6 e-/p/s @ 45°C
+- **Dynamic Range**: 65.5 dB @ PGA x3.5, 64.3 dB @ PGA x5
+- **Frame Rate**: 30 fps
+- **Output Interface**: 24 pairs of sub-LVDS
+- **ADC**: 12-bit
+- **Max Data Rate**: 21 Gbps
+- **Chroma**: Mono & Color
+- **Power Consumption**: <2.8 W
+- **I/O Voltage**: 1.8V - 3.3V
+- **Package Type**: 238 pins LGA
+- **Package Dimensions**: 58.6mm x 42.0mm
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The GMAX4651-BVM-NPT-BR1 is a high-performance global shutter image sensor designed for demanding imaging applications. It features a resolution of 51 megapixels and utilizes advanced 4.6μm charge domain global shutter pixel technology. The sensor is fabricated using a 65nm CMOS image sensor (CIS) process, which allows for high dynamic range and low noise performance. The GMAX4651 is packaged in a 238-pin LGA configuration, ensuring precise alignment of the optical center with the mechanical center of the package.
+
+#### Typical Applications:
+The GMAX4651-BVM-NPT-BR1 is ideal for various high-resolution imaging applications, including:
+- **High-Resolution Industrial Inspection**: Suitable for quality control and defect detection in manufacturing processes.
+- **Machine Vision**: Used in automated systems for object recognition, sorting, and measurement.
+- **8K Broadcasting**: Provides high-quality imaging for professional video production and broadcasting.
+
+This sensor's combination of high resolution, low noise, and fast data throughput makes it particularly well-suited for applications that require precise and reliable imaging under various conditions.

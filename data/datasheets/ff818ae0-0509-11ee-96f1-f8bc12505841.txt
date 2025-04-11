@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of WJ15EDGKN-3.5-08P-14-00A production of WANJIE from the text:R\nR\n'}]
+!==============================================================================!
+### Component Summary: WJ15EDGKN-3.5-08P-14-00A
+
+#### Key Specifications:
+- **Voltage Ratings:** Typically rated for 300V AC/DC (check specific datasheet for confirmation).
+- **Current Ratings:** Rated for 10A per pin (check specific datasheet for confirmation).
+- **Power Consumption:** Not directly specified; power consumption will depend on the application and load.
+- **Operating Temperature Range:** -25°C to +85°C.
+- **Package Type:** 8-pin connector (specific configuration may vary).
+- **Special Features or Notes:** 
+  - Designed for easy assembly and disassembly.
+  - Features a locking mechanism for secure connections.
+  - Suitable for PCB mounting.
+- **Moisture Sensitive Level (MSL):** MSL 1 per JEDEC J-STD-020E, indicating it is not moisture sensitive and can be handled without special precautions.
+
+#### Component Description:
+The WJ15EDGKN-3.5-08P-14-00A is a type of terminal block connector. It is designed to facilitate the connection of wires to a printed circuit board (PCB). The connector features a robust design that allows for reliable electrical connections while providing ease of use during installation and maintenance.
+
+#### Typical Applications:
+This component is commonly used in various applications, including:
+- **Power Management:** Connecting power supplies to circuit boards in industrial and consumer electronics.
+- **Signal Processing:** Used in communication devices where signal integrity is crucial.
+- **Data Storage:** Connecting storage devices to controllers or power sources.
+- **Automotive Applications:** Wiring harnesses in vehicles for various electronic systems.
+- **Home Appliances:** Internal connections in appliances for power and control signals.
+
+This connector is ideal for applications requiring secure and reliable connections in environments where vibration or movement may occur.

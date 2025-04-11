@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of T001-M12MA05/0-500-K1 production of DECIGN from the text: SHEET UNITmm\nFreeSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.GENERAL TOLERANCE\n0 ~ 200mm  ->  ±10mm\n201 ~ 1000mm  ->  ±20mm\n1001 ~ 1500mm  ->  ±25mm\n1501 ~ 2100mm  ->  ±30mm\n2100mm↑->  ±40mmRyan\nKent\nSH14.04.2023\n26.04.2023\n26.04.20231/1\nBA New 14.04.2023 Ryan\nRoHS\ncompliant\nM12 Cable Assembly\n5-Pin Male A-Coding to\nLoose End / M12 Connector4321\n4321\nBlueGreenRed\nYellowP1 P2∅14.5056.1\nM12x1.0\n2\n13\n45L±5%P1 P2\n23 5 6 1 4\n5 5 Black30.00 ±5.00\n4.00+2.00\n 0.00\nTin plated\nM12 5-Pin male connector\nM12 5-Pin female connector\nOrder Code\n0 =  Loose cable end\n  M12FA05   =  M12 5-Pin female A-Coding\n  M12MA05  =  M12 5-Pin male A-Coding\n  (Others on request)P2 End Type100 ~ 999 mm\n(10m0 ~ 99m9 L ≥10m Example)\n12m5  = 12.50 m ±0.10\n15m0  = 15.00 m ±0.10Cable Length "L"\nSpecifications\nMechanical Requirements\nWaterproof rate: IP65(Black)Item Part Name Materials / Finish(Color) Q\'TY\n1 Contact Copper Alloy / Au Plated 5\n2 Housing Thermoplastic / Black 1\n4 Screw Nut Brass / Ni Plated 1\n5 Over Mold PVC / Black 1\n6 Cable UL2464, 5C, AWG #22, Talc, OD Ø5.0 / Black, PVC 13Grounding\nMetal RingBrass / Ni Plated 1BCorrect wire cooler; 56.4->56.1;\nIP65(Black)/IP68(Green)->IP65(Black)26.04.2023 Ryan\nElectrical\nCurrent rating: 4A per contact\nInsulation resistance: 100M Ω min.\nVoltage rating: 30V DC\nT001 -M12MA05/XxxXXxx-xxxx-K1T001- M12MA05-K1T001 -M12MA05/Xx xXXxx-xxxx-K1\n'}]
+!==============================================================================!
+### Component Summary for T001-M12MA05/0-500-K1
+
+#### Key Specifications:
+- **Voltage Rating:** 30V DC
+- **Current Rating:** 4A per contact
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings (P = V x I).
+- **Operating Temperature Range:** Not explicitly stated in the provided text.
+- **Package Type:** M12 Connector (5-Pin Male A-Coding)
+- **Special Features/Notes:** 
+  - Waterproof rating: IP65 (Black)
+  - RoHS compliant
+  - Insulation resistance: 100MΩ minimum
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The T001-M12MA05/0-500-K1 is a 5-Pin Male A-Coding M12 cable assembly connector. It is designed for robust electrical connections in various applications, featuring a loose cable end for flexibility in installation. The connector is constructed with a thermoplastic housing and includes gold-plated copper alloy contacts, ensuring reliable conductivity and durability.
+
+#### Typical Applications:
+This M12 connector is typically used in industrial automation, sensor connections, and other applications requiring reliable and waterproof electrical connections. Its IP65 rating makes it suitable for environments where dust and water exposure are concerns. Common applications include:
+- **Power Management:** Connecting power supplies to devices in industrial settings.
+- **Signal Processing:** Used in sensors and actuators for data transmission.
+- **Data Storage:** Connecting devices that require secure and stable connections in harsh environments.
+
+This component is ideal for use in machinery, robotics, and other automated systems where reliable connectivity is essential.

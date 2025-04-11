@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 90WFT-300 production of AINFO from the text: \n \n  \n  \n   \nRoom201,Zone7.No.2666 \nKongGang 4th Road,Shuangliu  \ndist. 610200 CHENG DU \nTel: +86-28-8519-2786\nFax: +86-28-8519-3068\nWebsite: www.ainfoinc.com   Email: Sales@ainfoinc.comFlexible Twist Waveguide \n \nP/N: 90WFT-300  \n \nFreq. Range 8.2-12.4GHz  \nVSWR  1.15  \nAttenuation 0.2dB/PC  \nAverage Power 0.96KW \nInner Size 22.86 x 10.16mm \nMin. Bend Radius @ E-Bend 66mm \nMin. Bend Radius @ H-Bend 120mm \nMax. Twist  308deg/m \nWaveguide  WR90 \nFlange FBP100/FBP100 \nMaterial Cu \nJacket Rubber \nLength 300mm Approx. \n A-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n'}]
+!==============================================================================!
+### Component Summary: 90WFT-300
+
+**Manufacturer:** AINFO  
+**Product Code:** 90WFT-300  
+**Type:** Flexible Twist Waveguide
+
+#### Key Specifications:
+- **Frequency Range:** 8.2 - 12.4 GHz
+- **VSWR (Voltage Standing Wave Ratio):** 1.15
+- **Attenuation:** 0.2 dB/PC (per connector)
+- **Average Power Handling:** 0.96 kW
+- **Inner Size:** 22.86 x 10.16 mm
+- **Minimum Bend Radius:**
+  - E-Bend: 66 mm
+  - H-Bend: 120 mm
+- **Maximum Twist:** 308 degrees/m
+- **Waveguide Type:** WR90
+- **Flange Type:** FBP100/FBP100
+- **Material:** Copper (Cu)
+- **Jacket Material:** Rubber
+- **Length:** Approximately 300 mm
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The 90WFT-300 is a flexible twist waveguide designed for microwave applications. It allows for the transmission of high-frequency signals while accommodating bends and twists in the installation environment. The waveguide is constructed from copper, which provides excellent conductivity, and is jacketed in rubber for protection against environmental factors.
+
+#### Typical Applications:
+The 90WFT-300 is typically used in applications that require the transmission of microwave signals, such as:
+- **Telecommunications:** For connecting antennas and other microwave components.
+- **Radar Systems:** In military and civilian radar applications where flexibility in installation is crucial.
+- **Satellite Communication:** For routing signals in satellite ground stations.
+- **Test Equipment:** In laboratory settings for testing microwave components and systems.
+
+This component is particularly valuable in scenarios where space constraints or complex routing paths necessitate the use of flexible waveguides.

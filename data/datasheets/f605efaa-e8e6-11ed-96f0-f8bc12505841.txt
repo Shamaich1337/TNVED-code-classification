@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of CAS-M025-HNS-0305 production of E-TEC from the text:RoHS\ncompliant\nCable Assembly\nM12 D Code Male 4P to\nRJ45 Plug, L=1000mm SHEET UNITmm\nFree  E-tec 2023 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.GENERAL TOLERANCE\n0 ~ 200mm  ->  ±10mm\n201 ~ 1000mm  ->  ±20mm\n1001 ~ 1500mm  ->  ±25mm\n1501 ~ 2100mm  ->  ±30mm\n2100mm↑->  ±40mmCherry\nKent\nSH17.04.2023\n17.04.202317.04.2023CAS-M025-HNS-0305\nCAS-M025- HNS-03051/1\nAREV. previous version this version DATE DRAWN\nA New 17.04.2023 Cherry\nP1 P21000+50\n-0\nPin 1\nPin 8\nWhite/Orange\nOrange\nWhite/Green1\n3\n2\nGreen 41\n2\n3\n6P1 P23 2Pin 1Pin 2\nPin 3 Pin 413.1045.00 ±2.00\n∅15.50\nM12x1 1\nItem Description Q'TY\n1 M12 D Code Male 4Pin 1\n2 RJ45 Plug, Au plated on contacts, with shielded 1\n3 CAT5E 24AWG*4P+AL/MY+D, OD 6.0mm ,Jacket Black 1\nOuter overmold, PVC BlackInner overmold, PE44\n"}]
+!==============================================================================!
+### Component Summary for CAS-M025-HNS-0305
+
+**Component Type:** Cable Assembly
+
+**Description:**
+The CAS-M025-HNS-0305 is a cable assembly that features an M12 D Code Male connector with 4 pins on one end and an RJ45 plug on the other end. The cable is designed for data transmission and is compliant with RoHS standards, indicating that it is free from hazardous substances. The assembly is constructed with CAT5E cable, which is suitable for Ethernet applications.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, M12 connectors can handle up to 60V.
+- **Current Ratings:** Not specified; however, M12 connectors generally support currents up to 4A.
+- **Power Consumption:** Not applicable as this is a passive cable assembly.
+- **Operating Temperature Range:** Not specified in the provided text; typical ranges for similar cables are -20°C to +70°C.
+- **Package Type:** Not specified; typically, these assemblies are packaged in bulk or as individual units.
+- **Special Features or Notes:** 
+  - RoHS compliant
+  - Shielded RJ45 plug for enhanced signal integrity
+  - CAT5E rated for data transmission
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Typical Applications:**
+The CAS-M025-HNS-0305 cable assembly is typically used in industrial automation, networking, and data communication applications. It is suitable for connecting devices in environments where robust and reliable connections are required, such as:
+- Industrial Ethernet networks
+- Sensor and actuator connections in automation systems
+- Data transmission in harsh environments
+
+This cable assembly is ideal for applications that require a durable and flexible connection between devices, ensuring reliable data transfer in various industrial settings.

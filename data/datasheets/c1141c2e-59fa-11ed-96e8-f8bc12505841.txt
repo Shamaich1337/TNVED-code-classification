@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of QFS-026-01-L-D-RA-PC8 production of SAMTEC from the text:(0.635 mm) .025" QFS-PC, QFS-RF SERIES\nChoice of Power \nand RF optionsQFS–078–04.25–L–D–PC4\nQFS–052–04.25–L–D–RF1\nWWW.SAMTEC.COM\nUnless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.\nFor complete scope of \nrecognitions see \nwww.samtec.com/qualityRECOGNITIONSBoard Mates:\nQMS-PC, QMS-RA-PC, \nQMS-RF\nStandoffs:\nSOFor complete specifications and \nrecommended PCB layouts see \nwww.samtec.com?QFS \nInsulator Material:\nLiquid Crystal Polymer\nContact & Ground \nPlane Material:  \nPhosphor Bronze\nPlating:\nAu over 50 µ" (1.27 µm) Ni\n(Tin on Ground Plane Tail)\nCurrent Rating:  \nSignal Contact: \n2.6 A per pin\n(2 pins powered)\nPower Contact:\n4.0 A per pin\n(4 pins powered per end)\nGround Plane: \n15.7 A per ground plane\n(1 ground plane powered)\nVoltage  Rating:  \n300 VAC mated with QMS\nOperating Temp:\n-55 °C to +125 °C\nRoHS Compliant:  \nYe s\nNote:  \nSome lengths, styles and \noptions are non-standard, \nnon-returnable.(21.34) .840(2.10) \n.083(0.23)\n.009(0.635)\n.025(8.13)\n.320\n(2.54)\n.100\n(3.56)\n.140(1.78)\n.070\n(1.78)\n.070No. of Banks x (21.34) .840 + (12.87) .507\nNo. of Banks x (21.34) .840 + (14.30) .563(2.54)\n.100 (2.00) .07874\n(0.70)\n.028\nDIA02\n01\n02\n01–PC4 OPTION\n–RF1 OPTION\nHIGH-SPEED  COMBO  RF  &  POWER\nALSO AVAILABLE\n(MOQ Required)\n• Other platings\n• Differential Pairs\n• Retention Pins\n• 8 Power Pins/End for  \n(1.60 mm) .062" thick board\n• 4 or 8 Power Pins/End for \n(2.36 mm) .093" thick board\n• 2 RF Connectors/End\n• Hot PluggableSPECIFICATIONS\nFILE NO. E111594PROCESSING\nLead–Free Solderable:  \nYe s\nSMT Lead Coplanarity:\n(0.10 mm) .004" max (026-078)\nBoard Stacking:\nFor applications requiring more \nthan two connectors per board, \ncontact ipg@samtec.com\nOTHER \nSOLUTIONS\nSee SO Series for precision \nmachined standoffs.\nQFSNO. OF PINS\nPER ROWPLATING\nOPTION\n–026, –052, –078 \n(52 total pins per bank)–L\n= 10 µ" (0.25 µm) \nGold on Signal Pins\nand Ground Plane\n(Tin on Signal Pin tails,  \nand Ground Plane tails)D “X”R LEAD \nSTYLEEND\nOPTION\n–PC4\n= 4 Power \nPins per End for \n(1.60 mm) .062" \nthick Board\n(Not available \nwith –RF1)\n–RF1\n= One RF \nJack per End\n(Not available \nwith –PC4)–TR \n=Tape & Reel  \n–FR  \n= Full Reel \nTape & Reel \n(must order max. \nquantity per reel; \ncontact Samtec \nfor quantity \nbreaks)–04.25\n= 04.25 mm F-221 SUPPLEMENT\nAPPLICATION\nQMS \nLEADSTYLEMATED \nHEIGHT*\n–05.75 (10.00) .394\n–06.75 (11.00) .433\n*Processing conditions will affect \nmated height. See SO Series for  \nboard space tolerances.QFS \nMATED\nHEIGHTQMS \n'}]
+!==============================================================================!
+### Component Summary: QFS-026-01-L-D-RA-PC8
+
+**Description:**
+The QFS-026-01-L-D-RA-PC8 is a high-speed connector from Samtec's QFS-PC series, designed for applications requiring both RF and power connections. It features a combination of signal and power contacts, making it suitable for various electronic applications where space and performance are critical.
+
+**Key Specifications:**
+- **Voltage Rating:** 300 VAC when mated with QMS connectors.
+- **Current Ratings:**
+  - Signal Contact: 2.6 A per pin (with 2 pins powered).
+  - Power Contact: 4.0 A per pin (with 4 pins powered per end).
+  - Ground Plane: 15.7 A per ground plane (with 1 ground plane powered).
+- **Power Consumption:** Not explicitly stated; current ratings imply power handling capabilities.
+- **Operating Temperature Range:** -55 °C to +125 °C.
+- **Package Type:** Connector with multiple pins (total of 52 pins per bank).
+- **Special Features:**
+  - Hot pluggable.
+  - Options for differential pairs and retention pins.
+  - Available with various plating options.
+  - Designed for high-speed applications.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Materials:**
+- **Insulator Material:** Liquid Crystal Polymer.
+- **Contact & Ground Plane Material:** Phosphor Bronze.
+- **Plating:** Gold over 50 µ" (1.27 µm) Nickel on signal pins and ground plane, with Tin on signal pin tails and ground plane tails.
+
+**Typical Applications:**
+The QFS-026-01-L-D-RA-PC8 connector is typically used in:
+- **Power Management:** Connecting power supplies to various components in electronic systems.
+- **Signal Processing:** Facilitating high-speed data transfer between devices.
+- **RF Applications:** Suitable for RF signal connections, making it ideal for communication devices and systems.
+- **Consumer Electronics:** Used in devices where compact and efficient power and signal connections are required.
+
+This connector is particularly beneficial in applications where space is limited, and high performance is necessary, such as in telecommunications, data centers, and advanced consumer electronics.

@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of M12-MD04-CVFA-55/00-M025 production of E-TEC from the text:45.0\n∅15.6 ∅16.9\n1 32\n42 4 1 M\n12X1.0\n3∅17.0\nA\nB\nC\nD\nE\nF\nG\nHA\nB\nC\nD\nE\nF\nG\nH12 3 4 5 6 78\n1 2 1 2 3 1 2 3 4 5 6 7 8DRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATESHEET 1/1\nREV. ADWG. NO.\nSERIES NO.UNIT\nSCALEmm\nFreeCherry\nKent\nSH07.09.2022\n07.09.2022\n07.09.2022M12-MD04-CVFA-55/00-M025\nM12-MD04-CVFA-55/00-M025New 07.09.2022 AREV. DESCRIPTION DATE DRAWN\nCherry\nE-tec 2022 © - all rights reserved   www.e-tec.asia\nM12  Circular Connector\n4-Pin Male  D - Coding  Type\nSolder Cup - F ield Assembly\nSpecifications\nElectrical\nCurrent rating: 4A per contact\nInsulation resistance: 100M Ω min.\nContact resistance: 10m Ω max.\nVoltage rating: 60V DC\nWithstanding voltage: 1000V AC\nMechanical Requirements\nWaterproof rate: IP68\nCable diameter: ∅4.0~6.5mm\nRecommended cover torque: 6~7 kgf-cmRecommended gland nut torque: 9~10 kgf-cm\nIn accordance with IEC 61076-2-101:2012Order Code\nM12-MD04-CVFA-55/00-M025\nGENERAL TOLERANCE\n  X.°  ±\n  .X°  ±\n .XX°  ±\n.XXX°  ±X.   ±\n.X    ±  0.50\n.XX   ±  0.20\n.XXX ±Item Part Name Materials / Finish(Color) Q'TY\n1 Housing Thermoplatic / Black 1\n2 Screw Nut M12X1,Copper Alloy / Ni Plated 1\n3 Contact Copper Alloy / Au Plated 4\n4 Gasket EPDM / Black 1\n5 Cover Thermoplastic / Black 1\n6 Gland NBR / Black 1\n7 Gland Nut Thermoplastic / Black 15 7 6\nPin Assignment Front View\n\n"}]
+!==============================================================================!
+### Component Summary: M12-MD04-CVFA-55/00-M025
+
+#### Key Specifications:
+- **Voltage Rating:** 60V DC
+- **Current Rating:** 4A per contact
+- **Power Consumption:** Not specified (dependent on application)
+- **Insulation Resistance:** 100 MΩ minimum
+- **Contact Resistance:** 10 mΩ maximum
+- **Withstanding Voltage:** 1000V AC
+- **Waterproof Rating:** IP68
+- **Cable Diameter:** ∅4.0~6.5 mm
+- **Recommended Cover Torque:** 6~7 kgf-cm
+- **Recommended Gland Nut Torque:** 9~10 kgf-cm
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text
+- **Package Type:** Circular connector, 4-pin male, D-coding type, solder cup for field assembly
+
+#### Description:
+The M12-MD04-CVFA-55/00-M025 is a circular connector designed for robust electrical connections in various applications. It features a 4-pin male configuration with D-coding, allowing for secure and reliable connections. The connector is designed for field assembly, making it suitable for environments where quick and efficient installation is necessary.
+
+#### Typical Applications:
+This connector is typically used in industrial automation, sensor connections, and other applications requiring reliable and waterproof electrical connections. Its IP68 rating ensures that it can withstand harsh environmental conditions, making it ideal for outdoor or wet environments. The connector is commonly found in machinery, robotics, and control systems where durability and performance are critical.
+
+### Additional Notes:
+- The materials used in the construction of the connector include thermoplastic for the housing and cover, copper alloy for the contacts, and EPDM for the gasket, ensuring both durability and resistance to environmental factors.
+- The connector complies with IEC 61076-2-101:2012 standards, ensuring it meets international safety and performance requirements.

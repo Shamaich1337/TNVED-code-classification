@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-CSD-8/2-MST145-95/R production of DECIGN from the text:\nSwitch State CD-1 / CD-2\nWithout Card Open\nCard Inserted CloseSwitch StatesPad No. Pin Assignment\nP1 DAT2\nP2 CD/DAT3\nP3 CMD\nP4 VDD\nP5 CLK\nP6 Vss2\nP7 DAT0\nP8 DAT1\nCD-1 Card Detect Switch\nCD-2 Card Detect Com.\nGND-1 Chassis GND\nGND-2 Chassis GND\nGND-3 Chassis GND\nGND-4 Chassis GND\nGND-5 Chassis GNDMemory Card Pin Assignment\n'}]
+!==============================================================================!
+### Component Summary for TP-CSD-8/2-MST145-95/R
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, card detect switches operate within standard logic levels (e.g., 3.3V or 5V).
+- **Current Ratings**: Not specified; generally low current for signal switching applications.
+- **Power Consumption**: Not specified; typically negligible in card detect applications.
+- **Operating Temperature Range**: Not provided; common ranges for electronic components are -40°C to +85°C.
+- **Package Type**: Not explicitly mentioned; likely a surface mount or through-hole package based on typical designs.
+- **Special Features or Notes**: 
+  - **Switch States**: 
+    - CD-1 (Card Detect Switch) - activates when a card is inserted.
+    - CD-2 (Card Detect Common) - serves as a common connection for the card detect functionality.
+  - **Pin Assignments**: Clearly defined for memory card interface.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified; typically, components like these may have a level of 1 or 2.
+
+#### Component Description:
+The TP-CSD-8/2-MST145-95/R is a card detect switch designed for use in memory card applications. It functions as a mechanical or electronic switch that detects the presence of a memory card when it is inserted into a card slot. The switch states indicate whether a card is present (closed) or absent (open), allowing the host device to respond accordingly.
+
+#### Typical Applications:
+- **Memory Card Interfaces**: Used in devices that require memory card detection, such as cameras, smartphones, and other portable electronics.
+- **Data Storage Devices**: Facilitates the connection and disconnection of memory cards, ensuring proper data transfer and power management.
+- **Consumer Electronics**: Commonly found in devices that utilize removable storage for data, such as gaming consoles and laptops.
+
+This component is essential for ensuring that the host device can accurately detect and manage the insertion and removal of memory cards, contributing to the overall functionality and user experience of electronic devices.

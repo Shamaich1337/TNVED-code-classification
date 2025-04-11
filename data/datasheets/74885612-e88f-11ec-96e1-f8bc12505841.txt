@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of DPBCS-1550-S2-B-9-10-FA production of SEAGNOL PHOTONICS CO., LTD from the text:Application:\nSpecification:\nUnit\nnm\nnm\ndB\ndB\ndB\nmW\nN\n-\n-\n℃\n℃\nmm\nNotice: Above specifications are tested at center wavelength without connector in room temperature @23 ℃.\n             For devices with connectors, IL will be 0.3dB higher, RL will be 5dB lower, ER will be 2dB lower, slow axis is default aligned to the connector key.\nDrawing:\nOrdering Information (Part Number):\n WWWW  FF  J  LL  CC\n Wavelength  Fiber Type on Port 3  Fiber Jacket  Fiber Length  Connector\n 1310  - 1310nm  S2 - SMF-28e Fiber  B - 250um Bare Fiber  05 - 0.5m  NE - None\n 1450  - 1450nm  PM - PM Panda Fiber,  9 - 900um Loose Tube  10 - 1.0m  FA - FC/APC\n 1480  - 1480nm          Slow Axis Aligned to Port 1  15 - 1.5m  FU - FC/UPC\n 1550  - 1550nm  P4 - PM Panda Fiber,  20 - 2.0m  SA - SC/APC\n 1580  - 1580nm         Slow Axis 45° Aligned to Port 1      SS - Specify  SU - SU/APC\n LA - LC/APC\n LU - LC/UPC\n SS - Specify\nsales@seagnol.com Page 1 of 1Package Dimension\n DPBCS- WWWW-FF-J-LL-CCOperating Temperature T -5~70\nStorage Temperature T -40~85Max. Tensil Load 5\nFiber TypeFor Port 1 and Port 2 PM Panda fiber\nFor Port 3 and Port 4 PM Panda fiber or SMF-28e fiberMin. Return Loss RL 50\nMax. Optical Power (CW) P 300Min. Extinction Ratio (For PBS) ER 20\nMin. Directivity 50 Insertion LossPort 3 to 1&2 @ slow axis\nPort 4 to 1&2 @ fast axisIL Max. 0.8, Typ. 0.6 dBwww.seagnol.com\n1550nm 2x2 Polarization Beam Combiner/Splitter\n     1550nm 2x2 Polarization Beam Combiner/Splitter is a fiber passive component which can combine the two orthogonal\npolarization light into one output fiber or split the orthogonal polarization light to two output fiber, it's widely used in\nFiber Amplifier System and Fiber Optic Diffraction field, the high power type is available upon request.\nFeatures:\nFiber Optic Amplifier\nFiber Optic Sensor\nLaser System\nFiber Optic DiffractionHigh Extinction Ratio\nLow Insertion Loss\nOptical Path Reversibility\nHigh Reliability\nParameter Symbol Value\nCenter Wavelength λ 1550\nBandwidth BW ± 20\n1\n2\n43\n5mm31\n2\n4Slow Axis\nFast Axis12mm16,5mm\n"}]
+!==============================================================================!
+### Component Summary: DPBCS-1550-S2-B-9-10-FA
+
+#### Key Specifications:
+- **Voltage Ratings:** Not applicable (fiber optic component)
+- **Current Ratings:** Not applicable (fiber optic component)
+- **Power Consumption:** Not applicable (fiber optic component)
+- **Operating Temperature Range:** -5°C to 70°C
+- **Storage Temperature Range:** -40°C to 85°C
+- **Package Type:** Not specified in the provided text
+- **Special Features:**
+  - High Extinction Ratio (ER ≥ 20 dB)
+  - Low Insertion Loss (IL Max 0.8 dB, Typ 0.6 dB)
+  - Min. Return Loss (RL ≥ 50 dB)
+  - Max. Optical Power (CW) of 300 mW
+  - Optical Path Reversibility
+  - High Reliability
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text
+
+#### Description:
+The DPBCS-1550-S2-B-9-10-FA is a **1550nm 2x2 Polarization Beam Combiner/Splitter**. It is a passive fiber optic component designed to either combine two orthogonal polarization light signals into a single output fiber or split a single input signal into two output fibers based on polarization. This component is essential in applications where managing polarization states of light is critical.
+
+#### Typical Applications:
+- **Fiber Optic Amplifier Systems:** Enhances signal strength in fiber optic communication.
+- **Fiber Optic Sensors:** Used in sensing applications where polarization is a factor.
+- **Laser Systems:** Helps in managing the polarization of laser outputs.
+- **Fiber Optic Diffraction:** Utilized in applications involving diffraction patterns and polarization control.
+
+This component is particularly valuable in high-performance optical systems where low insertion loss and high extinction ratios are required, making it suitable for advanced telecommunications and data transmission applications.

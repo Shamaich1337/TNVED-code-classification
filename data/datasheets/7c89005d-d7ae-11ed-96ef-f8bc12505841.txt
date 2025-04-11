@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ACM70V-701-2PL-TL00 production of TDKSEMICONDUCTOR from the text:Common Mode Filters / Chokes1 of 3\nCreation Date : April 10, 2023 (GMT)\nACM70V-701-2PL-TL00  \n! Images are for reference only and show exemplary products.\n! This PDF document was created based on the data listed on the TDK Corporation website.\n! All speciﬁcations are subject to change without notice.\nCopyright(c) TDK Corporation. All rights reserved.Applications Automotive Grade\nFeatureWire Wound Wire Wound\nAEC-Q200 AEC-Q200\nPower Power Line\nSeries ACM\nStatus Production\nBrand TDK\nSize\nLength(L) 7.00mm ±0.20mm\nWidth(W) 6.00mm ±0.20mm\nThickness | Height 3.50mm Max.\nElectrical Characteristics\nCommon-mode Impedance [Typ.] 700Ω at 100MHz\nCommon-mode Impedance [Min.] 500Ω at 100MHz\nCommon-mode Inductance 7.5μH at 1MHz (Ref.)\nRated Current 4A\nRated Voltage 80VDC\nInsulation Resistance [Min.] 10MΩ\nDC Resistance 15mΩ Max.\nOther\nOperating Temp. Range -40 to 125°C\nSoldering MethodReﬂow\nIron Soldering\nAEC-Q200 YES\nPacking Embossed (Plastic)Taping [330mm Reel, Tape width 16mm]\nPackage Quantity 1500pcs\nWeight 0.35g\nCommon Mode Filters / Chokes2 of 3\nCreation Date : April 10, 2023 (GMT)\nACM70V-701-2PL-TL00  \n! Images are for reference only and show exemplary products.\n! This PDF document was created based on the data listed on the TDK Corporation website.\n! All speciﬁcations are subject to change without notice.\nCopyright(c) TDK Corporation. All rights reserved.Characteristic Graphs (This is reference data, and does not guarantee the products characteristics.)\nCommon-mode Impedance\nACM70V-701-2PL-TL00Common-mode Inductance\nACM70V-701-2PL-TL00\nCommon Mode Filters / Chokes3 of 3\nCreation Date : April 10, 2023 (GMT)\nACM70V-701-2PL-TL00  \n! Images are for reference only and show exemplary products.\n! This PDF document was created based on the data listed on the TDK Corporation website.\n! All speciﬁcations are subject to change without notice.\nCopyright(c) TDK Corporation. All rights reserved.Associated Images\nShapes and Dimensions\n Land Pattern (Terminal Connection)\n Circuit Diagram\n\n'}]
+!==============================================================================!
+### Component Summary: ACM70V-701-2PL-TL00
+
+#### Key Specifications:
+- **Voltage Ratings**: 80 VDC
+- **Current Ratings**: 4 A
+- **Power Consumption**: Not explicitly stated; however, the component is designed for power line applications.
+- **Operating Temperature Range**: -40°C to 125°C
+- **Package Type**: Embossed (Plastic) Taping, suitable for reflow and iron soldering
+- **Special Features/Notes**: 
+  - AEC-Q200 compliant (automotive grade)
+  - Wire wound construction
+  - Common-mode impedance of 700Ω (typical) at 100MHz
+  - Common-mode inductance of 7.5μH at 1MHz (reference)
+  - Insulation resistance of at least 10MΩ
+  - Maximum DC resistance of 15mΩ
+- **Moisture Sensitive Level (MSL)**: Not specified in the provided text.
+
+#### Description:
+The ACM70V-701-2PL-TL00 is a common mode filter/choke designed primarily for automotive applications. It is used to suppress electromagnetic interference (EMI) in power lines, ensuring stable operation of electronic circuits by filtering out unwanted noise. The component features a wire wound construction, which enhances its performance in filtering applications.
+
+#### Typical Applications:
+- **Automotive Electronics**: Used in various automotive systems to reduce noise and improve signal integrity.
+- **Power Management**: Helps in managing power supply lines by filtering out common-mode noise.
+- **Signal Processing**: Ensures clean signal transmission in sensitive electronic devices.
+- **Consumer Electronics**: Can be utilized in devices that require EMI suppression for reliable operation.
+
+This component is particularly suitable for applications where high reliability and performance are critical, such as in automotive environments where it must withstand a wide temperature range and meet stringent quality standards.

@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-MBC-032-BIC52-96/11L production of DECIGN from the text:ABCDE\n010 8.17 8.10 5.08 7.10 6.59\n012 9.44 9.37 6.35 8.37 7.86\n016 11.98 11.91 8.89 10.91 10.40\n020 14.52 14.45 11.43 13.45 12.94\n026 18.33 18.26 15.24 17.26 16.75\n030 20.87 20.80 17.78 19.80 19.29\n032 22.14 22.07 19.05 21.07 20.56\n040 27.22 27.15 24.13 26.15 25.64\n050 33.57 33.50 30.48 32.50 31.99\n068 45.00 44.93 41.91 43.93 43.42\n080 52.62 52.55 49.53 51.55 51.04No. of \nContactsDimension mm\n'}]
+!==============================================================================!
+### Component Summary for TP-MBC-032-BIC52-96/11L
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Current Ratings**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Power Consumption**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Operating Temperature Range**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Package Type**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Special Features or Notes**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+
+#### Description:
+The TP-MBC-032-BIC52-96/11L is likely a type of connector or interface component, given the context of the provided dimensions and the product code format. The "TP" prefix may indicate a type of terminal or plug, while "MBC" could refer to a specific series or family of connectors. The numbers following the prefix likely denote the number of contacts and dimensions in millimeters.
+
+#### Typical Applications:
+Connectors like the TP-MBC-032-BIC52-96/11L are commonly used in various electronic applications, including:
+- **Data Communication**: Facilitating connections between devices for data transfer.
+- **Power Distribution**: Connecting power sources to various components in electronic systems.
+- **Signal Processing**: Ensuring reliable signal transmission between different parts of a circuit.
+- **Industrial Automation**: Used in machinery and equipment for control and monitoring systems.
+
+### Conclusion:
+For a complete understanding of the TP-MBC-032-BIC52-96/11L component, including its electrical ratings and specific applications, it is recommended to consult the full datasheet from DECIGN. The provided text primarily contains dimensional data, which is essential for physical integration but lacks detailed electrical specifications.

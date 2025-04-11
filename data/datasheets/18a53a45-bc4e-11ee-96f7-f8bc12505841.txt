@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-TP-TSS-0114-55 production of DECIGN from the text:SWITCH\nSMD VERTICALTP-TP-TSS-0114-55\nTP-TP-TSS-0114-55P.C.B LAND DIMENSION① ②\n③ ④2.4\n1.24.3\n0.81.30.05 max.3.75\n0.14.7\n3.64.75\n2.43.8\n2.23.25±0.15FREE POSITION\nON POSITION\nFULL TREVAL2.3±0.151.35CIRCU IT DIAGRAM\nCDE\nA B\nNO.ABCDE\nPART NAME MATERIAL TREATMENT REMARKBASETERMINALCONTACTCOVERACTUATOR NYLON\nSTAINLESS STEEL\nPHOSPHOR BRONZE\nPHOSPHOR BRONZE\nLCPPLATED Au\nPLATED Au\nBLACKBLACK\n-\n'}]
+!==============================================================================!
+### Component Summary for TP-TP-TSS-0114-55
+
+**Component Type:**  
+Switch (SMD Vertical)
+
+**Key Specifications:**
+
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, SMD switches can handle low voltage applications (usually up to 50V).
+- **Current Ratings:** Not specified; however, SMD switches generally handle currents in the range of a few hundred milliamps to a few amps depending on the design.
+- **Power Consumption:** Not specified; power consumption is generally low for switches as they are passive components.
+- **Operating Temperature Range:** Not provided; typical operating ranges for electronic components are usually between -40°C to +85°C.
+- **Package Type:** Surface Mount Device (SMD)
+- **Special Features or Notes:** 
+  - The switch has a vertical mounting orientation.
+  - The materials used include nylon for the base, stainless steel for the terminal, and phosphor bronze for the contact.
+  - The actuator is made of LCP (Liquid Crystal Polymer) with gold plating.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Description:**  
+The TP-TP-TSS-0114-55 is a surface mount vertical switch designed for PCB applications. It is constructed with durable materials, including nylon for the base and stainless steel for the terminal, ensuring reliability in various environments. The switch features gold-plated contacts for improved conductivity and corrosion resistance.
+
+**Typical Applications:**  
+This type of switch is commonly used in various electronic devices for functions such as:
+
+- **User Interface Control:** Allowing users to turn devices on/off or toggle between modes.
+- **Signal Routing:** Directing signals in circuit boards for different functionalities.
+- **Power Management:** Enabling or disabling power to specific components or circuits.
+- **Consumer Electronics:** Found in devices like remote controls, appliances, and handheld gadgets.
+
+Overall, the TP-TP-TSS-0114-55 is a versatile component suitable for a wide range of electronic applications where space-saving and reliability are essential.

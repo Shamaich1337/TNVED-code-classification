@@ -1,0 +1,45 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of AMG60N1200MB production of SHENZHEN YIWEISHI TECHNOLOGY from the text: \n1 \n                                                     1200V N-Channel  MOSFET  \nDescription  \nSilicon Carbide (SiC) MOSFET use a completely new technology that provide superior switching \nperformance and higher reliability compared to Silicon. In addition, the low ON resistance and \ncompact chip size ensure low capacitance and gate charge. Consequently, system benefits include \nhighest efficiency, faster operating frequency, increased power density, reduced EMI, and \nreduced system size.  \nFeatures  \n\uf06c High Speed Switching with Low Capacitances     \n\uf06c High Blocking Voltage with Low RDS(on)   \n\uf06c Simple to drive with Standard Gate Drive  \n\uf06c 100% avalanche tested  \n\uf06c Maximum junction temperature of 1 75\uf0b0C \n\uf06c ROHS Compliant  \n \n \n \n \nApplication  \n\uf06c EV Charging  \n\uf06c DC-AC Inverters  \n\uf06c High Voltage DC/DC Converters  \n\uf06c Switch Mode Power Supplies  \n\uf06c Power  Factor Correction Modules  \n\uf06c Motor Drives  \n \n \n \n \n \n \n \n \n \n \n                                                  AMG60N1200MB  \nPart Number  Die Size  \nAMG60N1200MB  3.414×3.636  \n \n2 \n Absolute Maximum Ratings(Tc=25 ℃) \nSymbol  Parameter  Value  Unit \nVDS Drain -Source Voltage  1200  V \nID Drain Current(continuous)at Tc=25 ℃ 60 A \nID Drain Current(continuous)at Tc= 100℃ 48 A \nIDM Drain Current (pulsed)  100 A \nVGS Gate -Source Voltage   -10/+2 2 V \nPD Power Dissipation T C = 25° C  325 W \nTJ, Tstg Junction and Storage Temperature Range  -55 to +1 50 ℃ \n \nElectrical Characteristics(T J = 25℃ unless otherwise specified)  \nTypical Performance -Static  \nSymbol  Parameter  Test Conditions  Min. Typ. Max.  Unit \nBVDS Drain -source  Breakdown Voltage  ID=250uA,V GS=0V 1200    V \nIDSS Zero Gate Voltage Drain Current  VDS =1200V,  \nVGS =0V, TJ=25\uf0b0C   100 uA \nIGSS Gate -body Leakage Current  VDS =0V ; VGS =-10 to \n20V    250 nA \nVGS(th) Gate Threshold Voltage  VDS= V GS, ID=10mA 2 3 4 V \nVGSon Recommended  turn-on Voltage  \nStatic  20  V \nVGSoff Recommended  turn-off Voltage   -5  V \nRDS(on)  Static Drain -source On Resistance  VGS=20V, I D=20A  45 52 mΩ \nVGS=20V, ID=20A \nTJ=150℃  72  mΩ \n                                                   AMG60N1200MB  \n\n \n3 \n  \nTypical Performance -Dynamic  \nSymbol  Parameter  Test Conditions  Min. Typ. Max.  Unit \nCiss Input Capacitance  \nVDS=1000 V,f=100k HZ, \nVAC=25mV  3239  pF \nCoss Output Capacitance   112  pF \nCrss Reverse Transfer Capacitance   6  pF \ngfs Transconductance  VDS=20V ,  ID=20A  23  S \nEOSS COSS  Stored  Energy  VDS=1000 V,f=1 00kHZ  63  μJ \nEON Turn-On Energy（Body  Diode） VDS=800V,VGS=-5/20V，\nID=20A，L=100uH \nTJ=150℃  611  μJ \nEOFF Turn-Off Energy（Body  Diode）  103  μJ \nQg Total Gate Charge  \nVDS=800 V, V GS=-5V/20V, \nID = 20A  125  nC \nQgs Gate -source Charge   32  nC \nQgd Gate -Drain Charge   33  nC \nRG（int） Internal  Gate  Resistance  f=1MHz,V AC=25mV   3.5  Ω \ntd(on) Turn-on Delay Time  VDS=800V, VGS=-5V/20V, \nID =20A, L=100μH  \nRext= 2.5Ω \n  15  ns \ntr Rise Time   19  ns \ntd(off) Turn-off Delay Time   25  ns \ntf Fall Time   10  ns \n \nTypical Performance -Reverse Diode(T J = 25℃ unless otherwise specified)  \nSymbol  Parameter  Test Conditions  Min. Typ. Max.  Unit \nVFSD Forward Voltage  VGS=0V,I F=20A,T J=25\uf0b0C  5 6 V \nVGS=0V,I F=20A,T J=150\uf0b0C  4.5 6 V \nIs Continuous Diode Forward Current  VGS=0V，TC=25\uf0b0C  55  A \ntrr Reverse Recovery Time  VGS=-5 V, I F=20 A,  \nVR=800 V, di/dt=900 \nA/μs，TJ=150\uf0b0C  50  nS \nQrr Reverse Recovery Charge   712  nC \nIrrm Peak Reverse Recovery Current   19  A \n \n \n \n \n \n \n \n \n \n \n                                                   AMG60N1200MB  \n\n \n4 \n  \nMechanical Parameters  \nParameter  Typical Value  Unit \nDie Dimensions(L ×W) without scrib e \nline 3.334×3.556 mm \nGate Pad Dimensions(L ×W) 0.38×0.55 mm \nSource Pad Metal Dimensions (LxW) Each  1.3×3.04×2 mm \nScribe Line  80 um \nDie Thickness  175±25 um \nTop Side Source metallization (Al)  4 um \nTop Side Gate metallization (Al)  4 um \nBottom Drain metallization (Ti/Ni/Ag)   0.2/0.3/2  um \nChip Dimensions  \n \n33343556\n3409550710\n380\n30401300\n200\n2330950                                                  AMG60N1200MB  \n\n'}]
+!==============================================================================!
+### Component Summary: AMG60N1200MB
+
+**Description:**
+The AMG60N1200MB is a 1200V N-Channel MOSFET utilizing Silicon Carbide (SiC) technology. This component is designed to provide superior switching performance and higher reliability compared to traditional silicon MOSFETs. Its low ON resistance and compact chip size contribute to low capacitance and gate charge, resulting in enhanced efficiency, faster operating frequencies, increased power density, reduced electromagnetic interference (EMI), and minimized system size.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Drain-Source Voltage (VDS): 1200 V
+  - Gate-Source Voltage (VGS): -10 to +22 V
+
+- **Current Ratings:**
+  - Continuous Drain Current at Tc=25°C (ID): 60 A
+  - Continuous Drain Current at Tc=100°C (ID): 48 A
+  - Pulsed Drain Current (IDM): 100 A
+
+- **Power Consumption:**
+  - Power Dissipation (PD) at Tc=25°C: 325 W
+
+- **Operating Temperature Range:**
+  - Junction and Storage Temperature Range (TJ, Tstg): -55 to +150 °C
+
+- **Package Type:**
+  - Die Size: 3.414 mm x 3.636 mm
+
+- **Special Features:**
+  - High-speed switching with low capacitances
+  - High blocking voltage with low RDS(on) (45-52 mΩ at VGS=20V, ID=20A)
+  - 100% avalanche tested
+  - ROHS compliant
+
+- **Moisture Sensitive Level:**
+  - JEDEC J-STD-020E: Not specified in the provided text.
+
+**Typical Applications:**
+The AMG60N1200MB is suitable for a variety of high-performance applications, including:
+- Electric Vehicle (EV) Charging
+- DC-AC Inverters
+- High Voltage DC/DC Converters
+- Switch Mode Power Supplies (SMPS)
+- Power Factor Correction Modules
+- Motor Drives
+
+This component is particularly advantageous in applications requiring high efficiency and reliability, making it ideal for modern power management systems and renewable energy solutions.

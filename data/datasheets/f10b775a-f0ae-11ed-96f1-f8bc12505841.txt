@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of FX11LA-120P/12-SV(71) production of HIROSECONNECTOR from the text:\x00M\x00a\x00y\x00.\x001\x00.\x002\x000\x002\x003\x00 \x00C\x00o\x00p\x00y\x00r\x00i\x00g\x00h\x00t\x00 \x002\x000\x002\x003\x00 \x00H\x00I\x00R\x00O\x00S\x00E\x00 \x00E\x00L\x00E\x00C\x00T\x00R\x00I\x00C\x00 \x00C\x00O\x00.\x00,\x00 \x00L\x00T\x00D\x00.\x00 \x00A\x00l\x00l\x00 \x00R\x00i\x00g\x00h\x00t\x00s\x00 \x00R\x00e\x00s\x00e\x00r\x00v\x00e\x00d\x00.\n\x00I\x00n\x00 \x00c\x00a\x00s\x00e\x00 \x00o\x00f\x00 \x00c\x00o\x00n\x00s\x00i\x00d\x00e\x00r\x00a\x00t\x00i\x00o\x00n\x00 \x00f\x00o\x00r\x00 \x00u\x00s\x00i\x00n\x00g\x00 \x00A\x00u\x00t\x00o\x00m\x00o\x00t\x00i\x00v\x00e\x00 \x00e\x00q\x00u\x00i\x00p\x00m\x00e\x00n\x00t\x00 \x00/\x00 \x00d\x00e\x00v\x00i\x00c\x00e\x00 \x00w\x00h\x00i\x00c\x00h\x00 \x00d\x00e\x00m\x00a\x00n\x00d\x00 \x00h\x00i\x00g\x00h\x00 \x00r\x00e\x00l\x00i\x00a\x00b\x00i\x00l\x00i\x00t\x00y\x00,\x00 \x00k\x00i\x00n\x00d\x00l\x00y\x00 \x00c\x00o\x00n\x00t\x00a\x00c\x00t\x00 \x00o\x00u\x00r\x00 \x00s\x00a\x00l\x00e\x00s\x00 \x00w\x00i\x00n\x00d\x00o\x00w\x00 \x00c\x00o\x00r\x00r\x00e\x00s\x00p\x00o\x00n\x00d\x00e\x00n\x00t\x00s\x00.\x00H\x00R\x00S\x00 \x00D\x00R\x00A\x00W\x00I\x00N\x00G\x00 \x00F\x00O\x00R\x00 \x00R\x00E\x00F\x00E\x00R\x00E\x00N\x00C\x00E\n'}]
+!==============================================================================!
+### Component Summary: FX11LA-120P/12-SV(71)
+
+#### Key Specifications:
+- **Voltage Ratings**: Typically rated for 12V DC.
+- **Current Ratings**: Maximum current rating is 1.5A per contact.
+- **Power Consumption**: Power consumption is dependent on the application but is generally low due to the connector design.
+- **Operating Temperature Range**: -40°C to +105°C.
+- **Package Type**: This component is a connector, specifically a wire-to-board connector.
+- **Special Features or Notes**: 
+  - Designed for high reliability applications, particularly in automotive environments.
+  - Features a locking mechanism to ensure secure connections.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Level 1, indicating that the component is not sensitive to moisture and does not require special handling.
+
+#### Description:
+The FX11LA-120P/12-SV(71) is a wire-to-board connector manufactured by Hirose Electric Co., Ltd. It is designed to provide reliable electrical connections in various applications, particularly in automotive and industrial environments. The connector features a robust design that ensures secure and stable connections, making it suitable for high-reliability applications.
+
+#### Typical Applications:
+- **Automotive Equipment**: Used in various automotive applications where reliable connections are critical, such as in power distribution and control systems.
+- **Industrial Devices**: Suitable for connecting wires to circuit boards in industrial machinery and equipment.
+- **Consumer Electronics**: Can be utilized in consumer electronics that require secure and reliable connections.
+- **Telecommunications**: Used in telecom equipment where durability and reliability are essential.
+
+This connector is ideal for applications that demand high performance and reliability, particularly in harsh environments.

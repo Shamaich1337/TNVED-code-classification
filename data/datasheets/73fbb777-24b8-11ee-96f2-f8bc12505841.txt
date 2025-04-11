@@ -1,0 +1,39 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ZMDCT130B-1 production of QINGXIAN ZEMING LANGXI ELECTRONIC DEVICES CO.,LTD from the text:Add:Dabogeliuvillage,JinniuTown,Qingxian,CangzhouCity,HebeiProvince,China.062650\n河北省沧州市青县金牛镇大鹁鸽留工业园，邮编：062650\nTel：86-25-52601870 mail:zm@zeming-e.com\nWebsite:www.micro-transformer.com产品承认书\nSpecificationforApproval\n文件编号DocumentNO：\n客户名称Customer：MACRO\n客户零件编号Customerpartnumber：\n择明产品名称ZEMINGproductname：电流互感器currenttransformer\n择明产品型号ZEMINGProductnumber：ZMDCT130B-1\n文件发布日期 Documentreleasedate：2023年06月20日20thJune,2023\n文件有效期Filevalidityperiod：长期longtime\n版本号Versionnumber：A1\n择明审批确认\nZEMINGApprovalandverification客户确认(签字或盖章均有效)\nCustomerconfirmation(signorstamp)\n批准\nApproval审核\nAudit编制\nDrawup 确认人Confirmer：\n日期Date：\n特别申明：\n1.此技术保证书请客户在7个工作日内确认回复，若在规定的时间内未答复，择明将视为同意。Thisis\nTechnicalGuarantee.Pleasecustomerconfirmitandreplywithin7workingdays.Andifitnotbereplied\nwithintheprescribedtime,ZEMINGwilldeemthatcustomerhasagreedit.\n2.本技术协议为客供各执一份，客户端为原件。客户端确认后，也可以将此转换为自己控制协议，但内\n部协议条款不允许修改变动.Thistechnicalagreementisinduplicate,supplierholdingonecopyandcustomer\nholdingtheoriginalcopy.Afterbeingconfirmedbycustomer,thisagreementcanalsotransformtobeinternal\ncontrolagreement,butthetermsofthisagreementcannotbeallowedtomodifychanges.\n3.双方确认后均需按照协议里面之相关要求进行控制，有违协议要求的导致产品问题，需己方自行承担。\nAfterconfirmedbybothparties,itshallbecarriedoutinaccordingtotherequirementsofagreement,And\nagainstthisagreement,itcausedanyproducts’problem,todutypartyownbear.\n4.客供双方提出变更必须使用此文件作为变更主页(可带附页)。Thisdocumentmustbeusedasmainor\nhomepageofchanges(canbewithattachedpages)whenbothpartiesproposechanges.\nAdd:Dabogeliuvillage,JinniuTown,Qingxian,CangzhouCity,HebeiProvince,China.062650\n河北省沧州市青县金牛镇大鹁鸽留工业园，邮编：062650\nTel：86-25-52601870 mail:zm@zeming-e.com\nWebsite:www.micro-transformer.com变更记录\nChangerecord\n客户Customer： 产品型号Productmodel：\n变更版本\nVersion变更时间\nDate变更记录\nContentofchange变更原因\nChangereason变更执行人员\nOperator\nAdd:Dabogeliuvillage,JinniuTown,Qingxian,CangzhouCity,HebeiProvince,China.062650\n河北省沧州市青县金牛镇大鹁鸽留工业园，邮编：062650\nTel：86-25-52601870 mail:zm@zeming-e.com\nWebsite:www.micro-transformer.com1.尺寸Size\n备注Notes:\n1)Unit单位:mm\n2)Currentdirection电流方向：“*”代表“同名端”--“*”means“samePolarity”\nAdd:Dabogeliuvillage,JinniuTown,Qingxian,CangzhouCity,HebeiProvince,China.062650\n河北省沧州市青县金牛镇大鹁鸽留工业园，邮编：062650\nTel：86-25-52601870 mail:zm@zeming-e.com\nWebsite:www.micro-transformer.comCopperdrawing:\n\nAdd:Dabogeliuvillage,JinniuTown,Qingxian,CangzhouCity,HebeiProvince,China.062650\n河北省沧州市青县金牛镇大鹁鸽留工业园，邮编：062650\nTel：86-25-52601870 mail:zm@zeming-e.com\nWebsite:www.micro-transformer.com2.特性参数characteristicparameters：\n参数Characteristics 数值Values\n工作频率Operatingfrequency 50/60Hz\n工作温度Operatingtemperature -40℃~+85℃\n相对湿度Relativehumidity ≤95%\n额定一次电流RatedprimarycurrentIp 5A\n最大一次工作电流\nMaximumprimaryoperatingcurrentImax80A\n10A抗直流精度\nTestingcurrentforDCcomponent10A/Root2≤±3.0\n额定二次电流Ratedsecondcurrent 2mA\n变比Transformationratio 2500:1\n负载电阻Usersuppliedburdenresistor 10Ω\n绝缘耐压测试Insulationwithstandvoltagetest 4Kv/1min/1mA\n绝缘电阻Insulationresistance >1000MΩ/500Vdc\n精度等级\nAccuracyclass额定电流Ip的百分比\nWiththepercentage(%)ofIp\n5 20 100 Imax 10A/√2\n比差\nRatioError(±%)±1.0 ±3.0\n相位\nPhaseDisplacement(±ˊ)≤800 ≤800\nAdd:Dabogeliuvillage,JinniuTown,Qingxian,CangzhouCity,HebeiProvince,China.062650\n河北省沧州市青县金牛镇大鹁鸽留工业园，邮编：062650\nTel：86-25-52601870 mail:zm@zeming-e.com\nWebsite:www.micro-transformer.com3.BOM明细表BOMList\n编号\nNo.材料\nMaterial规格\nSpec.modelUL编码\nULcode制造商\nManufacturer\n1铁芯\nInnercore纳米晶铁芯\nNano-crystalline\ncore/河北凯瑞思电子科技有限公司\nHebeikairuisielectronictechnology\nco.,ltd\n2漆包线\nWinding2UEW E206822无锡巨丰复合线有限公司\nWuxijufengcompositelineco.,ltd\n3外壳\nOutsideshellBlack E59481长春塑料\nCHANGCHUNPLASTICSCO.,LTD\n4环氧树脂\nEpoxyresinTXH-92H-8 E196959天津津桥\nTIANJINXINQIAOINSULATING\nMATERIALCO\n5引线\nLeadingwireUL100726AWG\nBlack&WhiteE315651浙江成宝\nZHEJIANGCHENGBAO\nWIRE&CABLE\n6胶带\nTape阻燃环保\nFlameretardant,\nEnvironmental\nprotectionE328315深圳新华辉\nSHENZHENXINHUAHUI\n7 端子 DS1068-T / 宁波晨翔电子有限公司\n8连接器\nConnectorDS1068-2P / 宁波晨翔电子有限公司\n9 铜件 紫铜 /乐清市捷华电子有限公司\n'}]
+!==============================================================================!
+### Component Summary: ZMDCT130B-1
+
+**Manufacturer:** QINGXIAN ZEMING LANGXI ELECTRONIC DEVICES CO., LTD  
+**Address:** Dabogeliu Village, Jinniu Town, Qingxian, Cangzhou City, Hebei Province, China. 062650  
+**Contact:** Tel: 86-25-52601870 | Email: zm@zeming-e.com | Website: www.micro-transformer.com  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Insulation withstand voltage: 4 kV for 1 minute at 1 mA
+- **Current Ratings:**
+  - Rated primary current (Ip): 5 A
+  - Maximum primary operating current (Imax): 80 A
+  - Rated secondary current: 2 mA
+- **Power Consumption:**
+  - Not explicitly stated; however, the load resistance is specified as 10 Ω.
+- **Operating Temperature Range:**
+  - -40°C to +85°C
+- **Package Type:**
+  - Not specified in the provided text; typically, current transformers are housed in a compact form factor suitable for PCB mounting.
+- **Special Features or Notes:**
+  - Transformation ratio: 2500:1
+  - Accuracy class: ±1.0% at 5 A, ±3.0% at 20 A and 100 A
+  - Phase displacement: ≤ 800
+  - Insulation resistance: > 1000 MΩ at 500 Vdc
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+#### Description:
+The ZMDCT130B-1 is a **current transformer** designed for measuring alternating current (AC) in various applications. It operates at a frequency of 50/60 Hz and is capable of transforming high primary currents into a lower secondary current for measurement and monitoring purposes. The device is characterized by its high accuracy and wide operating temperature range, making it suitable for industrial and commercial applications.
+
+#### Typical Applications:
+- **Power Management:** Used in energy monitoring systems to measure current consumption and assist in load management.
+- **Signal Processing:** Employed in protective relays and metering devices to provide accurate current readings for system diagnostics.
+- **Industrial Automation:** Utilized in control systems for monitoring and controlling electrical loads.
+- **Renewable Energy Systems:** Applied in solar inverters and wind turbine systems for current measurement and monitoring.
+
+This summary provides a comprehensive overview of the ZMDCT130B-1 current transformer, highlighting its key specifications and typical applications in the field of electrical engineering and power management.

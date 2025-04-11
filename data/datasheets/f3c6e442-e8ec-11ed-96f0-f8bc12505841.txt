@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of M12-FD04-THFP-55/00-M025 production of E-TEC from the text:Item Part Name Materials / Finish(Color) Q'TY\n1 Housing Thermoplastic / Black 1\n2 Hex Nut Copper Alloy / Ni Plated 1\n3 Metal Body Copper Alloy / Ni Plated 1\n4 O-Ring NBR / Black 1\n5 Contact Phosphor Bronze / Au Plated 4\n6 Shield Pin Copper Alloy / Ni Plated 1\n"}]
+!==============================================================================!
+Based on the provided information for the component with the part number M12-FD04-THFP-55/00-M025 from E-TEC, here is a concise summary of its key characteristics and specifications:
+
+### Key Specifications:
+- **Component Type**: Connector (M12 Connector)
+- **Housing Material**: Thermoplastic (Black)
+- **Hex Nut Material**: Copper Alloy (Nickel Plated)
+- **Metal Body Material**: Copper Alloy (Nickel Plated)
+- **O-Ring Material**: NBR (Black)
+- **Contact Material**: Phosphor Bronze (Gold Plated)
+- **Shield Pin Material**: Copper Alloy (Nickel Plated)
+- **Quantity of Contacts**: 4
+
+### Description:
+The M12-FD04-THFP-55/00-M025 is a type of M12 connector, which is commonly used in industrial applications for connecting sensors, actuators, and other devices. The connector features a robust design with a thermoplastic housing and metal components that ensure durability and reliability in harsh environments. The gold-plated contacts provide excellent conductivity and resistance to corrosion.
+
+### Typical Applications:
+M12 connectors are widely used in various applications, including:
+- **Industrial Automation**: Connecting sensors and actuators in manufacturing processes.
+- **Transportation**: Used in railway and automotive systems for reliable connections.
+- **Robotics**: Providing connections for control signals and power in robotic systems.
+- **IoT Devices**: Facilitating connections in smart devices and systems.
+- **Data Communication**: Used in networking equipment for data transmission.
+
+### Special Features:
+- The use of gold plating on contacts enhances conductivity and reduces wear over time.
+- The nickel plating on metal components provides additional protection against corrosion.
+- The O-ring ensures a secure seal, making the connector suitable for outdoor and harsh environments.
+
+### Moisture Sensitivity Level:
+- The moisture sensitivity level (MSL) is not explicitly mentioned in the provided text. However, M12 connectors are generally designed to be robust against moisture ingress, making them suitable for various environmental conditions.
+
+This summary provides a clear overview of the M12-FD04-THFP-55/00-M025 connector, highlighting its materials, construction, and typical applications in the industry.

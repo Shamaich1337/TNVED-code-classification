@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TX-3535R10FC120-NGVENA72-02 production of GUANGZHOU TIANXIN PHOTOELECTRIC CO., LTD from the text:http://www.txled.cn Version:1.0PartNo.TX-3535R10FC120-NGVENA72-02 SpecNo.WKF-AE1028Page1of9TX-3535R10FC120-NGVENA72-02\nPRODUCTSPECIFICATION\nFeatures:\n◆ExcellenttransitingheatfromLEDchipoperatingunder2000mA.\n◆Highluminousoutput.\n◆NoUV.\n◆Encapsulatedmaterialsareenvironmentallycertifiedandmeetenvironmentalrequirements.\nChipMaterial: EmittingColor: Applications:\n◆GaN ◆Red ◆Auxiliarylighting\n◆Architecturallighting\n◆GeneralLighting\nhttp://www.txled.cn Version:1.0PartNo.TX-3535R10FC120-NGVENA72-02 SpecNo.WKF-AE1028Page2of9PackageDimensions:\n- +\n3.45±0.15\n3.45±0.15MARKΦ2.75±0.05\n0.6±0.1\n1.95±0.15\n3.25±0.05\n0.475±0.030.51.3\n3.25±0.05\nTopview Sideview Bottomview\n0.5\n1.3\n2.25\n3.25\n3.85\n0.8\n3.25\n3.85\n1.01\n2.25\n3.25\n0.75 0.25\n3.25\nRecommendedsolderpad Recommendedstencilpattern\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesunlessotherwisementionedare±0.1mm.\nhttp://www.txled.cn Version:1.0PartNo.TX-3535R10FC120-NGVENA72-02 SpecNo.WKF-AE1028Page3of9AbsoluteMaximumRatings(Tc=25℃)\nNotes:\n1.Specificationsaresubjecttochangewithoutnotice.\n2.Thedataonthisspecificationisforreferenceonlyandtheactualdataisinaccordancewiththe\nacknowledgment.\n3.PrecautionsforESD:\nSTATICSHIELDElectricityandsurgedamagestheLED.Itisrecommendedtouseawristbandor\nanti-electrostaticglovewhenhandlingtheLED.Alldevices,equipmentandmachinerymustbeproperly\ngrounded.Parameter Symbol Ratings Unit\nForwardCurrent IF 2000 mA\nReverseVoltage VRNotdesignedforreverse\noperationV\nPowerDissipation PD 7.0 W\nJunctionTemperature Tj 150 ℃\nElectrostaticDischargeThreshold(ESD) ESD ESDsensitivedevice V\nStorageTemperature Tstg -40~+70\n℃\nOperationTemperature Topr -30~+85\nhttp://www.txled.cn Version:1.0PartNo.TX-3535R10FC120-NGVENA72-02 SpecNo.WKF-AE1028Page4of9ElectricalOpticalCharacteristics(Tc=25°C)\nNotes:\n1.LuminousintensityismeasuredwithalightsensorandfiltercombinationthatapproximatestheCIE\neye-responsecurve.\n2.θ1/2istheoff-axisangleatwhichtheluminousintensityishalftheaxialluminousintensity.\n3.Luminousfluxmeasurementtolerance:±15%.\n4.Forwardvoltagemeasurementtolerance:±0.15V.Parameter SymbolConditionMin. Typ. Max. Units\nLuminousFlux φv\nIf=1000mA150 190 210 lm\nForwardVoltage Vf 2.3 2.5 2.8 V\nViewingAngleat50﹪IV 2θ1/2 — 120 — Deg\nPeakEmissionWavelength λp 620 625 630 nm\nDominantWavelength λd 615 619 625 nm\nViewingAngleat50﹪IV 2θ1/2 12 16 20 nm\nReverseCurrent IR — — — — µA\nThermalResistanceJunction\ntoCaseRθJ-C\nIf=1000mA— 4.9 — K/W\nTemperatureCoefficientof\nVoltageV△F/T — -2 — mV/℃\nhttp://www.txled.cn Version:1.0PartNo.TX-3535R10FC120-NGVENA72-02 SpecNo.WKF-AE1028Page5of9TypicalElectrical/OpticalCharacteristicsCurves\n(25℃AmbientTemperatureUnlessOtherwiseNoted)\nForward Current  VS. Forward Voltage\nForward Current  If (mA)2.42.83.23.64.0\n2.0\n500 1000 1500 2000 2500 0Forward Voltage Vf(V)\n0\n1000 1500 2000 2500 080160240320400Forward Current VS.Luminous flux\nForward Current  If (mA)Luminous flux(Lm)\n500\nhttp://www.txled.cn Version:1.0PartNo.TX-3535R10FC120-NGVENA72-02 SpecNo.WKF-AE1028Page6of9Temperature  VS. Forward Voltage (IF=1000mA)Forward voltage  Vf (V)\n25 45 65 85 105 125\nTemperature (℃)2.12.32.52.72.9\nTemperature  VS.  Relative Luminous Flux (IF=1000mA)Relative Luminous Flux (%)\n020406080100\n25 45 65 85 105 125\nTemperature (℃)\nhttp://www.txled.cn Version:1.0PartNo.TX-3535R10FC120-NGVENA72-02 SpecNo.WKF-AE1028Page7of9380.0 420.0 460.0 500.0 540.0 580.0 620.0 660.0 700.0 740.0 780.0\nWavelength (nm)0.0000.1000.2000.3000.4000.5000.6000.7000.8000.9001.0001.100Relative Spectral DistributionSpectrum\n-60°\n0.8-90°\n1.0 0.60.4-30°\n60°\n0.6 0.2 0.2 0.4 0.81.090°0°\n30°Beam Pattern\nRelative intensity (LOP@ MAX=1)\nNotes:\n1.2θ1/2istheoffaxisanglefromlampcenterlinewheretheluminousintensityis1/2ofthepeakvalue.\n2.Viewangletoleranceis±5°.\nhttp://www.txled.cn Version:1.0PartNo.TX-3535R10FC120-NGVENA72-02 SpecNo.WKF-AE1028Page8of9UsagePrecautions\nStorageEnvironmentCondition\nTemperature:5℃~30℃(41℉~86℉)\nHumidity:60%RHMax.\nSolderingCondition\nUsetheconditionsshowntotheunderfigure.\nt\ntLP\nt 25℃ to Peak\nTimets PreheatTSminTSmaxRamp-UPCritical Zone\nT  to TP L\nRamp-downT\nTP\nL\n25Temperature\nProfileFeature Lead-BasedSolder\nAverageRamp-UpRate(TsmaxtoTp) 3℃/secondmax.\nPreheat:TemperatureMin(Tsmin) 100℃\nPreheat:TemperatureMax(Tsmax) 150℃\nPreheat:Time(TsmintoTsmax) 60-120seconds\nTimeMaintainedAbove:Temperature(TL) 183℃\nTimeMaintainedAbove:Time(TL) 60-150seconds\nPeak/ClassificationTemperature(TP) 225℃\nTimeWithin5℃ofActualPeakTemperature(TP) 10-30seconds\nRamp-DownRate 6℃/secondmax.\nTime25℃toPeakTemperature 6minutesmax.\nNote:\nAlltemperaturesrefertotopsideofthepackage,measuredonthepackagebodysurface.\nhttp://www.txled.cn Version:1.0PartNo.TX-3535R10FC120-NGVENA72-02 SpecNo.WKF-AE1028Page9of9DimensionsForCannulationAndPackaging\nQuantity:1000PCS12\n4.3\n3.7\n3.7\n4.384Φ1.5\nPrinted label\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesare±2.0mmunlessotherwisenoted.\n3.Theproductsarepackagedtogetherwithsilicagel,Transport,nottotheweightofweldingLED\nlight-emittingarea,AsaresultoftheweightofLEDlight-emittingzoneinthequalityof,Irresponsibleofthe\nCompany.\n'}]
+!==============================================================================!
+### Component Summary: TX-3535R10FC120-NGVENA72-02
+
+**Manufacturer:** Guangzhou Tianxin Photoelectric Co., Ltd  
+**Product Code:** TX-3535R10FC120-NGVENA72-02  
+**Version:** 1.0  
+**Datasheet Reference:** SpecNo. WKF-AE1028
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (Vf): 2.3 - 2.8 V (typical 2.5 V at 1000 mA)
+  - Reverse Voltage (VR): Not designed for reverse operation
+
+- **Current Ratings:**
+  - Forward Current (IF): Up to 2000 mA
+
+- **Power Consumption:**
+  - Power Dissipation (PD): 7.0 W
+
+- **Operating Temperature Range:**
+  - Storage Temperature (Tstg): -40 to +70 °C
+  - Operating Temperature (Topr): -30 to +85 °C
+  - Junction Temperature (Tj): 150 °C
+
+- **Package Type:**
+  - Dimensions: 3.45 mm x 3.45 mm (with various tolerances)
+
+- **Special Features:**
+  - High luminous output
+  - No UV emissions
+  - Environmentally certified encapsulated materials
+  - Excellent heat dissipation at 2000 mA
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+#### Component Description:
+The TX-3535R10FC120-NGVENA72-02 is a high-power LED component designed for various lighting applications. It utilizes Gallium Nitride (GaN) as the chip material and emits red light, making it suitable for applications requiring high luminous intensity without UV emissions. The component is encapsulated in environmentally friendly materials, ensuring compliance with environmental standards.
+
+#### Typical Applications:
+- **Auxiliary Lighting:** Used in scenarios where additional lighting is needed, such as in automotive or decorative lighting.
+- **Architectural Lighting:** Ideal for enhancing the aesthetic appeal of buildings and structures through effective illumination.
+- **General Lighting:** Suitable for general-purpose lighting solutions in residential, commercial, and industrial settings.
+
+This LED component is particularly advantageous in applications where high efficiency and low heat generation are critical, making it a reliable choice for modern lighting solutions.

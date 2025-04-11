@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MCC-M08MB05/M08MB05-307-K0 production of E-TEC from the text:Black\nOrange1\n2\n3P1\nBrown\n5 Yellow4 Red32\n14\n5P1 P2\nItem Part Name Materials/Finish(Color) Q\'TY\n1 Contact Copper Alloy / Au Plated 5\n2 Housing Thermoplastic / Black 1\n3 Screw Nut M8X1, Copper Alloy / Ni Plated 1\n4 Over Mold PVC / Black 1\n5 Cable UL2464, 5C, AWG #22, OD Ø5.50± 0.20mm / Black, Separator: Talc(UV) 1RoHS\ncompliant\nM08 Cable Assembly\n5-Pin Male B - Coding\nSingle / Double Ended SHEET UNITmm\nFree  E-tec 2022 © - all  rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n8001 ~ 9000mm  ➔  ±450mm\n>9000mm ➔  ±500mmGENERAL TOLERANCE\n7001 ~ 8000mm  ➔  ±400mm6001 ~ 7000mm  ➔  ±350mm5001 ~ 6000mm  ➔  ±300mm4001 ~ 5000mm  ➔  ±250mm3001 ~ 4000mm  ➔  ±200mm2001 ~ 3000mm  ➔  ±150mm1001 ~ 2000mm  ➔  ±100mm 901 ~ 1000mm  ➔    ±50mm401 ~ 900mm  ➔    ±40mm301 ~ 400mm  ➔    ±20mm<300mm  ➔    ±10mm\nCherry\nRonny\nFagi28.12.2016\n12.10.2022\n12.10.2022MCC-M08MB05-001/1\nC40.00 ±2.00 L\nSpecifications\nElectrical\nCurrent rating: 3A per contact\nInsulation resistance: 100M Ω min.\nVoltage rating: 30V AC/DC\nWithstanding voltage: 650V AC\nMechanical Requirements\nWaterproof rate: IP68\nOperating life: 100 cycles min.\nIn accordance with  IEC 61076-2-104:2014A New 28.12.2016 Cherry\nB general update 02.07.2019 Cheng\nMCC -M08MB05/Xxx XXxx-xxxx-00Order Code\nMCC-M08MB05/XxxXXxx-xxxx-00\n0 =  Loose cable end\n  M08FB05   =  M08 5-Pin female B-Coding\n  M08MB05  =  M08 5-Pin male B-Coding\n  (Others on request)P2 End Type100 ~ 999 mm\n(10m0 ~ 99m9  L≥10m) Example:\n12m5  = 12.50 m\n15m0  = 15.00 mCable Length "L"12.50 ±0.50\n10.00 ±0.50\n1 2 3 4 5C general update, change L option 12.10.2022 Ronny\n1\n2\n3P2\n4\n5\n\n'}]
+!==============================================================================!
+### Component Summary: MCC-M08MB05
+
+#### Key Specifications:
+- **Voltage Rating:** 30V AC/DC
+- **Current Rating:** 3A per contact
+- **Power Consumption:** Not specified directly; power can be calculated using voltage and current ratings.
+- **Insulation Resistance:** 100 MΩ minimum
+- **Withstanding Voltage:** 650V AC
+- **Waterproof Rate:** IP68
+- **Operating Life:** 100 cycles minimum
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Cable assembly with 5-pin male B-coding connector
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The MCC-M08MB05 is a 5-pin male B-coded connector cable assembly designed for robust electrical connections in various applications. It features a thermoplastic housing and copper alloy contacts that are gold-plated for enhanced conductivity and corrosion resistance. The assembly includes a waterproof design rated at IP68, making it suitable for use in harsh environments.
+
+#### Typical Applications:
+The MCC-M08MB05 connector is typically used in applications requiring reliable electrical connections in outdoor or industrial settings. Common applications include:
+- **Industrial Automation:** Connecting sensors, actuators, and control devices.
+- **Robotics:** Providing power and signal connections in robotic systems.
+- **Data Communication:** Used in data transmission systems where durability and reliability are critical.
+- **Power Management:** Suitable for power distribution in various electronic systems.
+
+This component is particularly valuable in environments where moisture and dust are concerns, ensuring long-lasting performance and reliability.

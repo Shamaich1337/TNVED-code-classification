@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 35318-0420 production of MOLEX from the text:This document was generated on 01/06/2023\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nPart Number: 0353180420\nStatus: Active\nOverview: Mini-Fit Family Power Connectors\nDescription: 4.20mm Pitch Mini-Fit Header, Dual Row, Right-Angle, 4 Circuits, PA Polyamide\n(Nylon) 6/6 94V-2, White\nDocuments:\nDrawing (PDF) Product Specification PS-35317-001-001 (PDF)\n3D Model Packaging Specification PK-35318-001-001 (PDF)\n3D Model (PDF) RoHS Certificate of Compliance (PDF)\nAgency Certification\nCSA LR19980\nUL E29179\nGeneral\nProduct Family PCB Headers\nSeries 35318\nApplication Power, Wire-to-Board\nComments Current = 13A max. per circuit when header is mated to\na receptacle loaded with 45750 Mini-Fit Plus HCS Crimp\nTerminal Crimped to 16 AWG wire. See Molex product\nspecification PS-45750-001 for additional current de-\nrating information.\nComponent Type PCB Header\nOverview Mini-Fit Family Power Connectors\nProduct Name Mini-Fit\nTaxonomy PCB Headers and Receptacles\nUPC 800754376877\nPhysical\nBreakaway No\nCircuits (Loaded) 4\nCircuits (maximum) 4\nColor - Resin Natural\nDurability (mating cycles max) 30\nFirst Mate / Last Break No\nFlammability 94V-0\nGlow-Wire Capable No\nGuide to Mating Part No\nKeying to Mating Part None\nLock to Mating Part Yes\nMaterial - Plating Mating Tin\nMaterial - Plating Termination Tin\nMaterial - Resin Nylon\nNet Weight 1.513/g\nNumber of Rows 2\nOrientation Right Angle\nPC Tail Length 4.00mm\nPCB Locator No\nPCB Retention None\nPCB Thickness - Recommended 1.60mm\nPackaging Type Bag\nPitch - Mating Interface 4.20mm\nPlating min - Mating 5.080µm\nPlating min - Termination 5.080µm\nPolarized to PCB No\nSeries image - Reference only\nEU ELV\nNot Relevant\nEU RoHS China RoHS\nCompliant\nREACH SVHC\nNot Contained Per -\nD(2022)4187-DC (10\nJune 2022)\nHalogen-Free\nStatus\nLow-Halogen\nFor more information, please visit Contact US\nChina ROHS Green Image\nELV Not Relevant\nRoHS Phthalates Not Contained\nSearch Parts in this Series\n35318 Series\nMates With\n5557 Mini-Fit Jr. Receptacle Housing, Mini-\nFit TPA2 Receptacle Housing 172708\nShrouded Partial\nStackable No\nSurface Mount Compatible (SMC) No\nTemperature Range - Operating -40° to +105°C\nTermination Interface: Style Through Hole\nElectrical\nCurrent - Maximum per Contact 13.0A\nVoltage - Maximum 250V\nMaterial Info\nReference - Drawing Numbers\nPackaging Specification PK-35318-001-001\nProduct Specification PS-35317-001-001\nSales Drawing SD-35318-XXXX-001\nThis document was generated on 01/06/2023\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\n'}]
+!==============================================================================!
+### Component Summary for Molex Part Number 0353180420
+
+#### Key Specifications:
+- **Voltage Rating:** 250V
+- **Current Rating:** 13A maximum per circuit (when mated with a compatible receptacle and loaded with 16 AWG wire)
+- **Power Consumption:** Not specified directly; dependent on application and load.
+- **Operating Temperature Range:** -40°C to +105°C
+- **Package Type:** PCB Header
+- **Special Features/Notes:**
+  - Dual row, right-angle configuration
+  - 4 circuits (maximum and loaded)
+  - Flammability rating of 94V-0
+  - Locking mechanism to mating part
+  - Not polarized to PCB
+  - Durability of 30 mating cycles
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided information.
+
+#### Component Description:
+The Molex 0353180420 is a Mini-Fit Family Power Connector, specifically a PCB header designed for power and wire-to-board applications. It features a 4.20mm pitch, dual-row configuration with 4 circuits, and is constructed from PA Polyamide (Nylon) 6/6 material. The header is designed for through-hole termination and is suitable for various electronic applications requiring reliable power connections.
+
+#### Typical Applications:
+This component is typically used in power management applications where a robust and reliable connection is necessary. Common applications include:
+- Consumer electronics
+- Industrial equipment
+- Telecommunications
+- Automotive systems
+- Any application requiring a secure wire-to-board connection for power distribution.
+
+The 0353180420 connector is ideal for environments where durability and temperature resilience are critical, making it suitable for a wide range of electronic devices and systems.

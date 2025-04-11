@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of IH-FR230021 production of I-PEX CONNECTORS from the text:CONNECTOR 1 [ TOP SIDE ] CONNECTOR 2 [ TOP SIDE ]\n DESIGN'D BY        DATE    TITLE\n CHECK'D BY\nSHEET SCALE UNIT\n1/1 mm\nForm Rev. 12 Confidential BREFERENCE DRAWINGPROJECTIONAll other trademarks are owned by their respective companies.\nI-PEX Inc. assumes no responsibility for any inaccuracies or obligation to update Information on these documents.All specifications of the products shown here are subject to change without notice.  \n【H-FR230021】PIN ASSIGNMENT\nCONNECTOR 2 CONNECTOR 1 CABLE\n20 20 MICRO COAXIAL AWG#40, 50 OHM, BLUE\nMICRO COAXIAL AWG#40, 50 OHM, BLUEMICRO COAXIAL AWG#40, 50 OHM, BLUE\nCONNECTOR 2 SOLDERING POINT19REFERENCE ・\n ・\n ・ ・\n ・\n ・19\n12 2\nCONNECTOR 1 SOLDERING POINT1\nTOP\nSIDETOP\nSIDE\nBOTTOM\nSIDEBOTTOM\nSIDEMICRO COAXIAL AWG#40, 50 OHM, BLUE\nMICRO COAXIAL AWG#40, 50 OHM, BLUE\nCABLINE-VS II 20P\nHARNESS 08/08/2023\n7 ACETATE CLOTH TAPE - - BLACK\n6 BONDING - - UV GLUE\n- - -\n- 20 MICRO COAXIAL AWG#40, 50 OHM, BLUE\n4 LOCK BAR ASS'Y 20848-020T-01 2\n3 PULL BAR - -\n2 SHELL-A 3427-0201 2\n1 HOUSING ASS'Y 20847-020T-01 2\nNo. DESCRIPTION PARTS No. QTY REMARK5 CABLE\nCONNECTOR 1 & 2\n〇： SOLDERING POINT\nBONDING\n〇： SOLDERING POINT\nBONDING\n〇： SOLDERING POINT\nBONDINGTOP\nSIDE\nBOTTOM\nSIDE\n\n"}]
+!==============================================================================!
+### Component Summary for IH-FR230021 (I-PEX CONNECTORS)
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, I-PEX connectors are designed for low voltage applications.
+- **Current Ratings**: Not specified; generally, micro coaxial connectors can handle low current levels suitable for signal transmission.
+- **Power Consumption**: Not applicable; connectors do not consume power but facilitate power and signal transmission.
+- **Operating Temperature Range**: Not provided; typical operating ranges for similar connectors are usually between -40°C to +85°C.
+- **Package Type**: Micro coaxial connector.
+- **Special Features or Notes**: 
+  - Designed for micro coaxial cables (AWG#40, 50 Ohm).
+  - Soldering points indicated for both connectors.
+  - Utilizes bonding methods such as UV glue.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The IH-FR230021 is a micro coaxial connector designed for high-frequency applications. It features a compact design suitable for connecting micro coaxial cables, specifically AWG#40, with a characteristic impedance of 50 Ohms. The connector is intended for use in environments where space is limited, and reliable signal transmission is critical.
+
+#### Typical Applications:
+- **Data Transmission**: Commonly used in applications requiring high-speed data transfer, such as in telecommunications and networking equipment.
+- **Consumer Electronics**: Utilized in devices like cameras, smartphones, and other portable electronics where compact connectors are essential.
+- **Automotive**: May be used in automotive applications for connecting sensors and communication devices.
+- **Medical Devices**: Suitable for medical equipment that requires reliable and compact connections for data and signal integrity.
+
+This summary provides a concise overview of the IH-FR230021 connector, highlighting its specifications, functionality, and typical use cases in various industries.

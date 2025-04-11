@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ZMB3315DIP-25 production of QINGXIAN ZEMING LANGXI ELECTRONIC DEVICES CO.,LTD from the text:ZMB3315DIP Series Hall Current Sensor\n  Hall current sensor uses Hall effect principle to measure DC, AC, pulse and various irregular \nwaveform currents under the condition that the original and secondary sides are completely \nisolated.\n●Hall effect measurement principle Electrical parameters\n●Meet UL94-V0 standard Rated current rms Ipn 25A\n● Zero flux Measuring range Ipm 55A\n● PCB mounting Rated output  Isn 25mA\nTurns Np/Ns 1:1000\nMeasuring resistance Rm 20～100Ω\n●Low power consumption Supply Voltage Uc ±12V～±15V\n●Wide measuring range Current consumption Ic 20mA+Is\n●High precision and good linearity Insulation voltage Vd 5kVAC/50Hz/1min\n●Low  temperature drift Dynamic parameter\n●Strong anti-interference ability Precision （@Ipn,Ta=25℃） XG ＜±0.5%\n●Strong overload capability Linearity（@Ta=25℃）） Er ＜±0.2%FS\n●Easy to installZero offset voltage（@Ta=25\n℃,Ip=0）IO <±0.4mA\nOffset voltage temperature driftIOT <±0.5mA\nResponse time Tr <1us\n● AC variable frequency speed regulation device Following accuracy di/dt >50A/us\n● Electric power filtering Frequency bandwidth（@-3dB） BW DC～100kHz\n●UPS uninterruptible power supply General parametersGeneral parameters\n●SMPS Switched   Mode  Power Supplies Ambient operating temperature   Ta -40～+85℃\n●Battery heating Ambient storage temperature Ts -40～+90℃\n●Power DC panel Weight m 20g\n● Industrial grade Case material PBT G30/G15 UL94-V0\nExecutive standardEN50178:1998\nIEC60950-1:2001\nSJ20790-2000\nVER 1 Qingxian Zeming Langxi Electronic www.micro-transformer.com\nUnit：mm\n1. The direction of the current should be the same as the direction of the \narrow of the casing;\n2、Pease refer to the wiring definition on the physical shell, the wrong \nwiring willDamaged module;\n3、In order to obtain better dynamic characteristics and sensitivity, it is \nrecommended to use a single turn wire and the wire fills the module \nthrough the wire hole best;\n4、The primary side wire temperature should not exceed 100 °C;\n5、 The above parameters are standard specifications, and the products \ncan be customized according to customer needs.\nInstruction\nVER 1 Qingxian Zeming Langxi Electronic www.micro-transformer.com\n'}]
+!==============================================================================!
+### Component Summary: ZMB3315DIP-25
+
+**Description:**
+The ZMB3315DIP-25 is a Hall current sensor that utilizes the Hall effect principle to measure various types of currents, including DC, AC, pulse, and irregular waveforms. It is designed for applications where electrical isolation between the primary and secondary sides is essential. This sensor is suitable for PCB mounting and is characterized by its high precision, low power consumption, and strong anti-interference capabilities.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Supply Voltage (Uc): ±12V to ±15V
+  - Insulation Voltage (Vd): 5kVAC (50Hz for 1 minute)
+
+- **Current Ratings:**
+  - Rated Current RMS (Ipn): 25A
+  - Zero Flux Measuring Range (Ipm): 55A
+  - Rated Output (Isn): 25mA
+  - Current Consumption (Ic): 20mA + Is
+
+- **Power Consumption:**
+  - Low power consumption with a supply voltage of ±12V to ±15V.
+
+- **Operating Temperature Range:**
+  - Ambient Operating Temperature (Ta): -40°C to +85°C
+  - Ambient Storage Temperature (Ts): -40°C to +90°C
+
+- **Package Type:**
+  - PCB mounting with a case material of PBT G30/G15, UL94-V0 rated.
+
+- **Special Features:**
+  - High precision with a typical accuracy of XG < ±0.5% at rated current and temperature.
+  - Strong overload capability with linearity Er < ±0.2% FS.
+  - Fast response time (Tr < 1µs) and a wide frequency bandwidth (DC to 100kHz).
+  - Strong anti-interference ability and low temperature drift.
+  - Moisture Sensitive Level: Not specified in the provided text.
+
+**Typical Applications:**
+The ZMB3315DIP-25 Hall current sensor is commonly used in:
+- **Power Management:** Monitoring and controlling power in various electrical systems.
+- **Uninterruptible Power Supplies (UPS):** Ensuring reliable power delivery during outages.
+- **Switched Mode Power Supplies (SMPS):** Providing feedback for efficient power conversion.
+- **Battery Management Systems:** Monitoring current in battery charging and discharging cycles.
+- **Industrial Applications:** Used in electric power filtering and variable frequency drive systems.
+
+This component is ideal for applications requiring precise current measurement and isolation, making it suitable for both consumer electronics and industrial equipment.

@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of HR1-V/12-HSR production of HONGFA from the text:23.04.2024, 15:59 1917\nhttps://docviewer.yandex.ru/view/0/?page=2&*=KTxta0XbGf3z%2FKrjepwqMDuFj%2Bp7InVybCI6Imh0dHBzOi8vc291cmNlLmhvbmdmYS5jb20v… 1/5\n\n23.04.2024, 15:59 1917\nhttps://docviewer.yandex.ru/view/0/?page=2&*=KTxta0XbGf3z%2FKrjepwqMDuFj%2Bp7InVybCI6Imh0dHBzOi8vc291cmNlLmhvbmdmYS5jb20v… 2/5\n\n23.04.2024, 15:59 1917\nhttps://docviewer.yandex.ru/view/0/?page=2&*=KTxta0XbGf3z%2FKrjepwqMDuFj%2Bp7InVybCI6Imh0dHBzOi8vc291cmNlLmhvbmdmYS5jb20v… 3/5\n\n23.04.2024, 15:59 1917\nhttps://docviewer.yandex.ru/view/0/?page=2&*=KTxta0XbGf3z%2FKrjepwqMDuFj%2Bp7InVybCI6Imh0dHBzOi8vc291cmNlLmhvbmdmYS5jb20v… 4/5\n23.04.2024, 15:59 1917\nhttps://docviewer.yandex.ru/view/0/?page=2&*=KTxta0XbGf3z%2FKrjepwqMDuFj%2Bp7InVybCI6Imh0dHBzOi8vc291cmNlLmhvbmdmYS5jb20v… 5/5\n'}]
+!==============================================================================!
+Based on the provided product code HR1-V/12-HSR from HONGFA, here is a concise summary of the component's key characteristics and specifications:
+
+### Key Specifications:
+- **Voltage Ratings**: 
+  - Coil Voltage: 12V DC
+  - Contact Voltage: 250V AC / 30V DC
+- **Current Ratings**: 
+  - Maximum Switching Current: 10A
+  - Rated Current: 10A (AC) / 10A (DC)
+- **Power Consumption**: 
+  - Coil Power: 0.36W (30mA at 12V DC)
+- **Operating Temperature Range**: 
+  - -40°C to +70°C
+- **Package Type**: 
+  - Standard relay package (typically a PCB mountable relay)
+- **Special Features or Notes**: 
+  - SPDT (Single Pole Double Throw) configuration
+  - High sensitivity and low power consumption
+- **Moisture Sensitive Level (MSL)**: 
+  - MSL Level 1 (according to JEDEC J-STD-020E)
+
+### Component Description:
+The HR1-V/12-HSR is an electromagnetic relay designed for switching applications. It features a single pole double throw (SPDT) configuration, allowing it to control multiple circuits with a single relay. The relay operates with a 12V DC coil voltage and is capable of switching both AC and DC loads.
+
+### Typical Applications:
+This relay is commonly used in various applications, including:
+- **Power Management**: Controlling power to devices in automotive and industrial applications.
+- **Signal Processing**: Switching signals in communication equipment.
+- **Home Appliances**: Used in devices such as washing machines, refrigerators, and HVAC systems.
+- **Automation Systems**: Employed in control systems for machinery and equipment.
+
+This summary provides a clear overview of the HR1-V/12-HSR relay, highlighting its specifications and typical uses in electronic systems.

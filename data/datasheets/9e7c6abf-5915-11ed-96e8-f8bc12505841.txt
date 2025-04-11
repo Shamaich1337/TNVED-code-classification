@@ -1,0 +1,52 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ACD10HS065C production of ALPHA POWER SOLUTIONS from the text: ACD 10HS065C \nSilicon Carbide  Schottky  Diode  \n                                          \n \nRevision 1.0                                            P.1 of 4 \n \n. \nProduct Summary  \n \nVR = 650 V \nIF = 10A (TC=158oC)  \nQc = 33nC (V R=400V)   \n     \n \n \n \n \n    \n \n \nFeatures  \n• Zero Forward/Reverse Recovery  Current  \n• High Blocking Voltage  \n• High Frequency Operation  \n• Positive Temperature Coefficient on V F \n• Temperature Independent Switching Behavior  \n• High surge current capability  \n          TO-220-2 \n \nBenefits  \n• Higher System Efficiency  \n• Parallel Device Convenience  without \nthermal runaway  \n• Higher Temperature Application  \n• No Switching loss  \n• Hard Switching & High er Reliability  \n• Environmental Protection  \nApplications  \n• Switch Mode Power Suppli es \n• Solar Inverters  \n  \n• AC/DC converters  \n• DC/DC converters  \n• Uninterruptable power supplies  \n \nMaxim um Ratings    (TC=25°C unless otherwise specified)  \nParameter  Symbol  Test conditions  Value  Unit \nPeak Repetitive Reverse Voltage  VRRM   650 V \nPeak Reverse Surge Voltage  VRSM   650 V \nDC Blocking Voltage  VR  650 V \nContinuous Forward Current   IF TC=25°C  \nTC=125°C  \nTC=135°C  \nTC=158°C 39 \n20 \n18 \n10 A \nNon repetitive Forward Surge Current   \n IFSM TC = 25°C, t p=10 ms,  \nHalf Sine Pulse  \nTC = 110°C, t p=10 ms,  \nHalf Sine Pulse  \nTC = 25°C, t p=10 µs,  \nPulse  80 \n \n70 \n \n700 A \nRepetitive peak Forward Surge Current   IFRM TC = 25°C, t p=10 ms,  \nFreq = 0.1Hz, 100 cycles,  \nHalf Sine Pulse  \nTC = 110°C, t p=10 ms,  \nFreq = 0.1Hz, 100 cycles,  \nHalf Sine Pulse  70 \n \n \n60 A \nTotal power dissipation   PD TC=25°C  120 W \nOperating Junction Temperature  TJ  -55 to 175 °C \nStorage Temperature  TSTG  -55 to 175  °C \n \n \nStresses exceeding those listed in the Maximum Ratings table may damage the device. If any of these limits are exceeded, devi ce \nfunctionality  should not be assumed, damage may occur and reliability may be affected.  \n\n ACD 10HS065C \nSilicon Carbide  Schottky  Diode  \n                                          \n \nRevision 1.0                                            P.2 of 4 \n \n. \nElectrical Characteristics  \nParameter  Symbol  Test c ondition s Min Typ Max Unit \nDC Blocking Voltage   VDC IR = 250µ A,TJ = 25°C 650   V \nForward Voltage   VF IF = 10A, TJ = 25°C \n 1.25 1.5 V \nIF = 10A, T J = 125°C 1.33  V \nIF = 10A, TJ = 175 °C 1.43  V \nRevers e Current   IR VR = 650V, T J = 25°C \n 2 80 uA \nVR = 650V, T J = 125°C 7  uA \nVR = 650V, T J = 175 °C 25  uA \nTotal Capacitive Charge   QC VR = 400V,  TJ = 25°C  33  nC \nTotal Capacitance   C VR = 1V, T J = 25°C, \nFreq = 1MHz  \n 570 \n pF VR = 200V, T J = 25°C, \nFreq = 1MHz  62 \nVR = 400V, T J = 25°C, \nFreq = 1MHz  48 \nNote: This is a majority carrier diode, so there is no reverse recovery charge  \n \nThermal  Characteristics  \nParameter  Symbol  Condition  Min Typ Max Unit \nThermal Resistance  Rth(j-c) junction -case   1.25  0C/W \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n ACD 10HS065C \nSilicon Carbide  Schottky  Diode  \n                                          \n \nRevision 1.0                                            P.3 of 4 \n \n. \nTypical Electrical Curves  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 1. Forward Characteristics   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 2. Forward Characteristics  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 3. Reverse Characteristics   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 4. Power Derating  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 5. Capacitance vs Reverse Voltage   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 6. Rec overy  Charge vs Reverse Voltage  \n\n ACD 10HS065C \nSilicon Carbide  Schottky  Diode  \n                                          \n \nRevision 1.0                                            P.4 of 4 \n \n. \nPackage Dimen sions    \n(TO-220-2 Package ) \n \n \n \nPart Number  Package  Packing  Marking  \nACD10 HS065C  TO-220-2 50pcs / Tube  ACD10HS065C  \n \n \n \nAlpha Power Solutions  \nACD: APS SiC Diode; 10: 10A current; P/H: Technology;  \nS: Single diode; 065: 650V voltage; C: TO -220-2 \n7-9 digits: Traceable code  \n\n'}]
+!==============================================================================!
+### Component Summary: ACD10HS065C
+
+**Description:**
+The ACD10HS065C is a Silicon Carbide (SiC) Schottky diode designed for high-efficiency power applications. It features zero forward/reverse recovery current, making it suitable for high-frequency operations. This diode is particularly beneficial in applications where thermal management and reliability are critical.
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Peak Repetitive Reverse Voltage (VRRM): 650 V
+  - DC Blocking Voltage (VR): 650 V
+  - Peak Reverse Surge Voltage (VRSM): 650 V
+
+- **Current Ratings:**
+  - Continuous Forward Current (IF):
+    - TC = 25°C: 39 A
+    - TC = 125°C: 20 A
+    - TC = 135°C: 18 A
+    - TC = 158°C: 10 A
+  - Non-repetitive Forward Surge Current (IFSM): 80 A (10 ms pulse at TC = 25°C)
+
+- **Power Consumption:**
+  - Total Power Dissipation (PD): 120 W
+
+- **Operating Temperature Range:**
+  - Junction Temperature (TJ): -55 to 175 °C
+  - Storage Temperature (TSTG): -55 to 175 °C
+
+- **Package Type:**
+  - TO-220-2
+
+- **Special Features:**
+  - Zero Forward/Reverse Recovery Current
+  - High Blocking Voltage
+  - High Frequency Operation
+  - Positive Temperature Coefficient on Forward Voltage (VF)
+  - High surge current capability
+  - Temperature Independent Switching Behavior
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided data.
+
+**Typical Applications:**
+The ACD10HS065C is commonly used in:
+- Switch Mode Power Supplies (SMPS)
+- Solar Inverters
+- AC/DC Converters
+- DC/DC Converters
+- Uninterruptible Power Supplies (UPS)
+
+### Summary:
+The ACD10HS065C is a high-performance Silicon Carbide Schottky diode with a maximum reverse voltage of 650 V and a continuous forward current rating of up to 39 A. Its design allows for efficient operation in high-frequency applications, making it ideal for power management solutions in various electronic systems, particularly in renewable energy and power supply applications.

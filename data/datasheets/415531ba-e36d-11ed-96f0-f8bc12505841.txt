@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of M12-MD04-TVFP-55/00-M025 production of E-TEC from the text:Item Part Name Materials / Finish(Color) Q'TY\n1 Contact Copper Alloy / Au Plated 4\n2 Housing Thermoplastic / Black 1\n3 Metal Body Copper Alloy / Ni Plated 1\n4 Hex Nut Copper Alloy / Ni Plated 1\n5 O-Ring NBR / Black 1\n6 Glue Epoxy / Black -\n\n"}]
+!==============================================================================!
+Based on the provided information for the component with the part name M12-MD04-TVFP-55/00-M025 from E-TEC, here is a concise summary of its key characteristics and specifications:
+
+### Key Specifications:
+- **Contact Material**: Copper Alloy with Gold Plating
+- **Housing Material**: Thermoplastic (Black)
+- **Metal Body Material**: Copper Alloy with Nickel Plating
+- **Hex Nut Material**: Copper Alloy with Nickel Plating
+- **O-Ring Material**: NBR (Nitrile Butadiene Rubber, Black)
+- **Glue**: Epoxy (Black)
+- **Quantity of Contacts**: 4
+
+### Description:
+The M12-MD04-TVFP-55/00-M025 is a connector component, specifically designed for industrial applications. It features a robust construction with a thermoplastic housing and metal components that ensure durability and reliability in various environments. The gold-plated contacts provide excellent conductivity and resistance to corrosion, making it suitable for high-performance applications.
+
+### Typical Applications:
+This component is typically used in:
+- **Industrial Automation**: Connecting sensors, actuators, and other devices in manufacturing processes.
+- **Transportation**: Used in vehicles for connecting various electronic systems.
+- **Robotics**: Facilitating communication between robotic components.
+- **Data Communication**: Ensuring reliable connections in data transmission systems.
+
+The M12 connector series is known for its versatility and is commonly employed in environments where moisture and dust resistance are critical, making it ideal for outdoor and harsh conditions.

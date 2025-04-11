@@ -1,0 +1,23 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of N510068905AA production of PANASONIC from the text:Ver. 170401\nFeatures\nThe material is non-woven fabric which wipe solder\npaste well with less shaggy.  Applicable for solder\nside are available for cleaning.\n   applicable for cleaning.\nCleaning performance might not be same as standard\ncleaning paper, due to PCB, stencil, aperture shape and\nsize, printing and cleaning conditions, etc. So, please\nevaluate well before use for mass production.\nPart No. : \nApplicable model :   Please refer following table.\nCleaning paper V20\n  \nNo. C -44  \n \n \n \n Our scope  \nomparison of specifications\nV20\nTS100 TS507 KM/PM\n100 51.5 42\n0.41 0.2 0.2\nVertical 172.89 95.77 85\nHorizontal 31.86 17.63 24\n0.21 0.22 less than 0.2\nStandard\nModel \nThickness (mm)\nUltimate\ntensile\nMaterial\nThe fiber keep solder paste firmly.  \nCleaning example\n  \nTop\n \n Bottom\n  \nNotice; The contents of this document are subject to change without prior \nStandard V20\nPart No. Part No.\n270mm KXF061EAA00 MTNZ000035AA\n350mm KXF061FAA00 N510068901AA\n480mm N510006703AA N510068902AA\n530mm KXFP6HGVA00 N510068903AA\n270mm N510048807AA MTNZ000009AA\n350mm N510025738AA N510068904AA\n370mm N510057156AA N510068906AA\n540mm N510025737AA N510068905AA\n670mm N510057178AA MTNZ000171AA\n360mm N998TS50-019 N510068907AA\n410mm N998TS50-022 N510068908AA\n540mm N998TS50-025 MTNZ000036AA\n710mm N998TS50-021 N510068909AASPP, SPFWidthApplicable\nModel\nSP28P\nSP60P/80V\nSP70\nSP18, SPD,\nSPG\n\n'}]
+!==============================================================================!
+### Component Summary for N510068905AA (Panasonic)
+
+#### Key Specifications:
+- **Material**: Non-woven fabric
+- **Thickness**: 540mm
+- **Cleaning Performance**: Designed to wipe solder paste effectively with minimal shredding.
+- **Moisture Sensitive Level**: Not specified in the provided text.
+- **Special Features**: 
+  - Effective for cleaning solder side of PCBs.
+  - Performance may vary based on PCB, stencil, aperture shape and size, and cleaning conditions.
+  - Recommended to evaluate cleaning performance before mass production.
+
+#### Description:
+The N510068905AA is a cleaning paper designed specifically for the electronics manufacturing industry. It is made from non-woven fabric, which provides effective cleaning of solder paste from printed circuit boards (PCBs) and stencils. The material is engineered to minimize shredding during use, ensuring a cleaner application without leaving residue.
+
+#### Typical Applications:
+- **Solder Paste Cleaning**: Primarily used in the cleaning process of solder paste on PCBs during assembly.
+- **Electronics Manufacturing**: Suitable for use in environments where PCBs are printed and require cleaning before further processing or assembly.
+- **Quality Control**: Helps maintain cleanliness and quality in the manufacturing process, ensuring that solder paste is applied correctly and effectively.
+
+This component is essential for manufacturers looking to optimize their PCB assembly processes by ensuring that cleaning is efficient and effective, thereby enhancing overall production quality.

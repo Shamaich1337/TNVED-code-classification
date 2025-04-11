@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SWR25X-NRTC-S04-ST-BA production of SULLINS from the text:Pb\nRoHS COMPLIANT2.54 .100A\n1.00 .039B\n11.40 .449\n3.40 .134\n2.60 .1023.20 .126\n0.64 .025 2.54±0.10 .100±.004\nA5.80 .228\n14.20 .55902 - 05 POSITIONS 06 - 20 POSITIONS\nNOTES:\n  1. INSULATOR MATERIAL: NYLON 66, UL94V-2, COLOR: BEIGE.  2. CONTACT MATERIAL: BRASS.  3. CONTACT PLATING: .000020" MIN. NICKEL UNDERPLATE, PURE TIN, BRIGHT OVERALL.  4. CURRENT RATING:3.0 AMPS  5. VOLTAGE RATING: 250 V AC/DC.  6. INSULATOR RESISTANCE: 1000 MEGOHMS MIN.  7. CONTACT RESISTANCE: 20 MILLIOHMS MAX.  8. DIELECTRIC WITHSTANDING VOLTAGE: 1000V AC.  9. OPERATING TEMPERATURE: -25° C TO +85° C.10. MATES WITH SWH25X SERIES SINGLE ROW HOUSING.\nWAFER 2.54mm[.100"] CC, 1 ROW, ST\nSWR25X-NRTC-S_ _-ST-BA\n11633RECOMMENDED PCB LAYOUTREVISIONS\nREV. ECO. NO DESCRIPTION DATE BY\nA 2237 INITIAL RELEASE 05/23/2011 LH\nB 2613 UPDATE CURRENT RATING 2.5 AMPS(WAS 5.0 AMPS) 06/15/2012 LH\nC 3352 UPDATE CURRENT RATING 12/17/2015 LH\nD\nC\nB\nAABCD\n1 2 3 4 5 6 7 88 7 6 5 4 3 2 1\nEF\nEF\nUNLESS OTHERWISE SPECIFIED:\nDIMENSIONS ARE IN MM[INCHES]\nTOLERANCES: \nANGULAR:  1  \nDECIMALS\n.X=  .3 [.01]\n.XX=  .30 [.012]DATE NAME DRAWN\nCDWG.  NO. REV\nSHEET 1 OF 1 SCALE:  15:1LH\nCTHE INFORMATION HEREIN CONTAINS\nPROPIETARY INFORMATION OF\nSULLINS ELECTRONICS AND IS NOT\nTO BE REPRODUCED, USED OR\nDISCLOSED TO OTHERS FOR ANY\nPURPOSE EXCEPT AS SPECIFICALLY\nAUTHORIZED IN WRITING BY AN\nOFFICER OF SULLINS ELECTRONICS.\nFILE NAME: Z:\\ECO RELEASED\\3352, SWT25X UPDATE CURRENT RATING\\11633, SWR25X-NRTC-S_ _-ST-BA  PRINT: 12/29/2015TITLE05/23/2011\nPART NUMBER\nSIZE CAGE CODE\n54453\n'}]
+!==============================================================================!
+### Component Summary for SWR25X-NRTC-S04-ST-BA
+
+#### Key Specifications:
+- **Voltage Rating:** 250 V AC/DC
+- **Current Rating:** 3.0 Amps
+- **Power Consumption:** Not specified directly; power can be calculated using voltage and current ratings (P = V x I).
+- **Operating Temperature Range:** -25°C to +85°C
+- **Package Type:** Wafer connector, 2.54mm (.100") center-to-center, single row
+- **Special Features/Notes:**
+  - Insulator Material: Nylon 66, UL94V-2, Color: Beige
+  - Contact Material: Brass
+  - Contact Plating: Minimum 0.000020" Nickel underplate, pure tin, bright overall
+  - Insulator Resistance: 1000 Megaohms minimum
+  - Contact Resistance: 20 milliohms maximum
+  - Dielectric Withstanding Voltage: 1000V AC
+  - Mates with SWH25X series single row housing
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Component Description:
+The SWR25X-NRTC-S04-ST-BA is a wafer connector designed for electronic applications. It features a single row of contacts with a 2.54mm (.100") pitch, making it suitable for various PCB connections. The connector is constructed from durable materials, including nylon for the insulator and brass for the contacts, ensuring reliable performance in a range of environments.
+
+#### Typical Applications:
+This connector is typically used in applications requiring reliable electrical connections, such as:
+- **Power Management:** Connecting power supplies to circuit boards.
+- **Signal Processing:** Facilitating communication between different electronic components.
+- **Data Storage:** Used in devices that require stable connections for data transfer.
+- **Consumer Electronics:** Commonly found in various consumer devices where compact and reliable connectors are needed.
+
+Overall, the SWR25X-NRTC-S04-ST-BA is a versatile connector suitable for a wide range of electronic applications, providing robust performance and ease of integration into various systems.

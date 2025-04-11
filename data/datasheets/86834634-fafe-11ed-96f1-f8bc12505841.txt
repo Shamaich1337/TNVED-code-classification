@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ECS-.327-6-13FLX-TR production of ECS from the text: \n \n15351 West 109th Street   |  Lenexa , KS 66219   |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \n \n   \n \n \n \n  PARAMETERS  CONDITIONS  ECS-2X6-FLX UNITS  \n  MIN  TYP MAX   \nFrequency    32.768   KHz \nFrequency Tolerance  @ +25°C    ± 20 * ppm  \nLoad Capacitance  Specify in P/N   12.5   pF \nDrive Level  DL   1.0 μW \nEquivalent Series Resistance  R1   50K Ω \nTurnover Temperature   +20 +25 +30 °C \nTemperature Coefficient     -0.040  ppm/ °C² \nShunt Capacitance  Co  1.35   pF \nAging ( First  Year)  @ +25°C ±3°C    ±5 ppm  \nQ Factor    70K   \nOperating Temperature  Topr -40  +85 °C \nStorage Temperature  Tstg -55  +125  °C \nInsulation Resistance  @ 100V DC  500M    Ω \nECS -  FREQUENCY ABBREVIATION      LOAD \nCAPACITANCE       PACKAGE  CUSTOM OPTIONS  \n        Tolerance                                                    PACKAGING  OPERATING CONDITIONS / ELECTRICAL CHARACTERISTICS  The ECS-2X6-FLX is a pre -formed lead configured SMD Tuning \nFork Crystal.  \nECS-2X6-FLX \nSMD TUNING FORK \nCRYSTAL  \nECS-2X6-FLX SMD CRYSTAL  \n• RoHS Compliant  \n• MSL 1  \n• Lead Finish Sn/Cu  \nDIMENSIONS (mm)  \nPART NUMBERING GUIDE:  Example ECS -.327 -12.5 -13FLX -TR Figure 2)  Suggested Land Pattern  \nFigure 1)  Top, Side , and End views  \n.327  = 32.768  KHz \n 12.5  = 12.5  pF \n7 = 7 pF  \n6 = 6 pF  \n 13FLX = ECS -2x6-FLX Blank = ±20 ppm  \n* C = ± 10 ppm  \n TR = Tape  & Reel  \n \nRev. 2016  ECS \n*Contact ECS for availability  \nRequest a Sample  \n \n \n15351 West 109th Street   |  Lenexa , KS 66219   |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \n   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n SOLDER PROFILE  \nPeak solder Temp +260°C Max 10 sec Max.  \n2 Cycles Max.  \nMSL 1, Lead Finish Sn/Cu  \nPOCKET TAPE  DIMENSIONS (mm)  \nECS-2X6-FLX \nSMD TUNING FORK \nCRYSTAL  \nFigure 1) Suggested Reflow Profile  \nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n ECS:   \n\xa0 ECS-.327-12.5-13FLX-C\xa0 ECS-.327-6-13FLX-TR\xa0 ECS-.327-12.5-13FLX-TR\n'}]
+!==============================================================================!
+### Component Summary: ECS-.327-6-13FLX-TR
+
+#### Key Specifications:
+- **Frequency**: 32.768 KHz
+- **Frequency Tolerance**: ±20 ppm @ +25°C
+- **Load Capacitance**: 6 pF (specified in part number)
+- **Drive Level**: 1.0 μW
+- **Equivalent Series Resistance (ESR)**: 50K Ω
+- **Turnover Temperature**: +25°C (with a range of +20 to +30°C)
+- **Temperature Coefficient**: -0.040 ppm/°C²
+- **Shunt Capacitance**: 1.35 pF
+- **Aging (First Year)**: ±5 ppm @ +25°C ±3°C
+- **Q Factor**: 70K
+- **Operating Temperature Range**: -40°C to +85°C
+- **Storage Temperature Range**: -55°C to +125°C
+- **Insulation Resistance**: 500M Ω @ 100V DC
+- **Moisture Sensitivity Level (MSL)**: 1
+- **Package Type**: SMD Tuning Fork Crystal
+- **Lead Finish**: Sn/Cu
+
+#### Description:
+The ECS-.327-6-13FLX-TR is a Surface Mount Device (SMD) tuning fork crystal oscillator. It operates at a frequency of 32.768 KHz, which is commonly used in real-time clock applications and timing circuits. The crystal is designed to provide stable frequency output with low power consumption, making it suitable for battery-operated devices.
+
+#### Typical Applications:
+- **Real-Time Clocks**: Used in devices that require accurate timekeeping, such as watches and clocks.
+- **Microcontrollers**: Provides timing reference for microcontroller applications.
+- **Consumer Electronics**: Found in various consumer devices that require precise timing.
+- **Communication Equipment**: Used in circuits that require synchronization and timing.
+- **Automotive Applications**: Employed in automotive electronics for timing and control functions.
+
+This component is RoHS compliant and is packaged for easy handling and assembly, making it suitable for automated manufacturing processes.

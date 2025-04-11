@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of GNI085096-P53 production of ELITE PHOTOELECTRIC TECH CO., LTD from the text:                                           GNI085096 -P53 \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n1 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  8.5-9.6 GHz IMFET  Power Transistor  \nKey Features:  \n   Frequency ：8.5-9.6GHz \n   Typical Gain ：8dB \n   Typical Output ：53dBm  \n   Power Added Efficiency ：40%    Technology ：0.25um GaN HEMT  \n   Offset：：28V/ -2.4V@6.5A  \n   Packaging Mode: Cermet  \n \nDescription  \nGNI085096 -P53 is 8.5-9.6 GHz high power and efficiency GaN IMFET power transistor, t he die inside is \nusing 0.25um grid length GaN HEMT technology 。It works with dual power supply, Vds= 28V，and can provide  \n53dBm output power in 8.5-9.6GHz，power gain is  8dB，power added efficiency is 40%。 \n \nMaximum Ratings (TA=25℃)  \nSymbol  Parameter  Value  Mark  \nVd Drain V oltage  36V - \nVg Gate V oltage  -2.4V  \nPd Power  Dissipation  400W 25℃ \nTch Channel Temperature  175℃ [1] \nTm Mounting  Temperature  300℃ 1min , N2 Protection  \nTstg Storage Temperature  -55～175℃  \n[1] Higher than any values above may cause permanent damage 。 \n \nSpecifications  (TA=25℃)  \nSymbol  Parameter  Values  \nUnit \nMin Typ Max \nPout Output Power  - 50 - dBm \nGp Power Gain  - 8 - dB \nPAE Power Added \nEfficiency  - 40 - ％ \n△Gp Gain  Flatness  -0.8 - +0.8 dB \nTest condition: Vd= 28V, Vg= -2.4 V; F=8.5-9.6GHz, Id=6.5A.   \n \n                                           GNI085096 -P53 \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n2 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  Typical Performances  \nPout & PAE  \n \nDimension (Unit: m m) \n \n1: Source   2: Drain    3: Grid  \n \n \n                                           GNI085096 -P53 \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n3 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  Recommended  Circuit  \n \nNotes:  \n1) It’s IMFET, Input an d Output impendence are 50Ohm  \n2) Power -on sequence: V g --> Vd  \n3) Power -Off sequence: V d-->Vg \n4) Working Temp should be lower than 80oC \n'}]
+!==============================================================================!
+### Component Summary: GNI085096-P53
+
+**Manufacturer:** ELITE PHOTOELECTRIC TECH CO., LTD  
+**Website:** www.emec.cn  
+**Contact:** Tel: +86-28-87428329, Fax: +86-28-87425019  
+**Address:** Hezuo Road 333, High Technology Development District (West), Chengdu, P.R. China  
+
+#### Key Specifications:
+- **Frequency Range:** 8.5 - 9.6 GHz
+- **Typical Gain:** 8 dB
+- **Typical Output Power:** 53 dBm
+- **Power Added Efficiency (PAE):** 40%
+- **Technology:** 0.25 µm GaN HEMT
+- **Drain Voltage (Vd):** 28V
+- **Gate Voltage (Vg):** -2.4V
+- **Power Dissipation (Pd):** 400W at 25°C
+- **Channel Temperature (Tch):** 175°C
+- **Storage Temperature (Tstg):** -55 to 175°C
+- **Mounting Temperature (Tm):** 300°C for 1 minute (N2 Protection)
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The GNI085096-P53 is a high-power and high-efficiency GaN (Gallium Nitride) IMFET (Insulated Metal-Film Field Effect Transistor) power transistor designed for operation in the frequency range of 8.5 to 9.6 GHz. Utilizing advanced 0.25 µm GaN HEMT technology, this component is capable of delivering significant output power while maintaining a high level of efficiency. It operates with a dual power supply configuration, making it suitable for various high-frequency applications.
+
+#### Typical Applications:
+The GNI085096-P53 is primarily used in:
+- **RF Power Amplifiers:** Ideal for applications requiring high output power and efficiency in the microwave frequency range.
+- **Telecommunications:** Suitable for base stations and other communication devices operating in the specified frequency range.
+- **Radar Systems:** Can be utilized in radar applications where high power and efficiency are critical.
+- **Industrial Equipment:** Applicable in systems that require robust performance in high-frequency operations.
+
+This component is particularly valuable in scenarios where space and power efficiency are paramount, making it a preferred choice for modern RF and microwave applications.

@@ -1,0 +1,28 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 284WHB-160-160-100 production of AINFO from the text:284WHB-160-160-100 \n2.60 - 3.95GHz 90deg H-Plane Radius Bend WG \nTechnical Specification \n \nEIA WR WR284 \nFrequency Range(GHz) 2.60 - 3.95 \nVSWR 1.15 max \nFlange FDP32 \nMaterial Al \nNet Weight(Kg) 0.60 Around  \n \nOutline Drawing (Size: mm) \n \nChengdu AINFO Inc.                  Page 1 \nTel: +86-28-8519-2786 or +86-28-8519-3047    Fax: +86-28-8519-3068   Website: www.ainfoinc.com \nData subject to change without notice. For curr ent data sheets, please contact: Sales@ainfoinc.com  \n \n A-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n284WHB-160-160-100 \n2.60 - 3.95GHz 90deg H-Plane Radius Bend WG \nFlange Drawing (Size: mm) \n \nChengdu AINFO Inc.                  Page 2 \nTel: +86-28-8519-2786 or +86-28-8519-3047    Fax: +86-28-8519-3068   Website: www.ainfoinc.com \nData subject to change without notice. For curr ent data sheets, please contact: Sales@ainfoinc.com  \n \n A-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n284WHB-160-160-100 \n2.60 - 3.95GHz 90deg H-Plane Radius Bend WG \nTest Results \nVSWR \n \nInsertion Loss \n \nChengdu AINFO Inc.                  Page 3 \nTel: +86-28-8519-2786 or +86-28-8519-3047    Fax: +86-28-8519-3068   Website: www.ainfoinc.com \nData subject to change without notice. For curr ent data sheets, please contact: Sales@ainfoinc.com  \n \n A-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n'}]
+!==============================================================================!
+### Component Summary for 284WHB-160-160-100
+
+**Component Type:** Waveguide (WG)
+
+**Description:**
+The 284WHB-160-160-100 is a 90-degree H-plane radius bend waveguide designed for microwave applications. It operates within the frequency range of 2.60 to 3.95 GHz, making it suitable for various RF and microwave signal transmission applications. The waveguide is constructed from aluminum, which provides a lightweight yet durable solution for guiding electromagnetic waves.
+
+**Key Specifications:**
+- **Frequency Range:** 2.60 - 3.95 GHz
+- **VSWR (Voltage Standing Wave Ratio):** 1.15 max
+- **Flange Type:** FDP32
+- **Material:** Aluminum (Al)
+- **Net Weight:** Approximately 0.60 kg
+- **Moisture Sensitive Level:** Not specified in the provided data.
+
+**Special Features:**
+- The waveguide features a 90-degree bend, which allows for efficient routing of microwave signals in confined spaces.
+- The low VSWR indicates minimal signal reflection, which is critical for maintaining signal integrity in high-frequency applications.
+
+**Typical Applications:**
+- **Telecommunications:** Used in microwave communication systems for signal routing.
+- **Radar Systems:** Essential in radar applications where signal direction changes are required.
+- **Test Equipment:** Commonly utilized in laboratory setups for testing microwave components and systems.
+- **Satellite Communication:** Employed in satellite systems for effective signal transmission and reception.
+
+This waveguide is particularly useful in applications where space constraints and signal integrity are critical, making it a valuable component in modern microwave engineering.

@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of M940±10-10-F105/22-R4 production of HAN'S TIANCHENG SEMICONDUCTOR from the text: \n  \n \n                                                                 \nwww.tc -semi.com  207                   22-05-12 1 M940±5-10-F105/22 -R4 \nR4 Laser Diode Module  \n \n \n \nPackage Dimensions  (mm)  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Features  \uf075 High output power of 10 W \n \uf075 105μm/0.22NA multimode optical fiber  \n \uf075 Center wavelength 940±5nm \nApplications  \uf075 Pumping source for fiber laser  \n \uf075 Medical  \n\uf075 Materials processing  \nPin-out Assignment  \nPin Function  \n1 LD(+) \n2 LD(-) \n \n  \n \n                                                                 \nwww.tc -semi.com  207                   22-05-12 2 M940±5-10-F105/22 -R4 \nTypical Device Performance (25℃) \n Min Typical  Max Unit \nOptical  \nCW Output Power  - 10 - W \nP @-40℃ @Imax13A  - 10 - W \nP @85℃ @Imax 12A - 8 - W \nP @105℃ @Imax 8A - 5 - W \nCenter Wavelength  - 940±5 - nm \nSpectral Width (90% of Power)  - <6 - nm \nWavelength Shift with Temperature  - 0.3 - nm /℃ \nWavelength Shift with Current  - 1.0 - nm/A \nPower Ratio 0.15NA/0.22NA  85 - - % \nElectrical  \nThreshold Current  - 1.2 - A \nOperating Current  - 12.0 13.0 A \nOperating Voltage  - 1.6 - V \nSlope Efficiency  - 1.05 - W / A  \nPower Conversion Efficiency  52 55 58 % \nFiber * \nFiber Core Diameter  - 105 - μm \nFiber Cladding Diameter  - 125 - μm \nFiber Buf fer Diameter  - 250 - μm \nNumerical Aperture  - 0.22 - - \nFiber Length  - 1-5 - m \nLoose Tube  - 0.9 - mm \nMin. Static Bending Radius  15 - - mm \nFiber Connector  - - - - \n \nAbsolute Ratings  \n Min  Max Unit \nOperating Temperature  -40 105 ℃ \nOperating Relative Humidity  - 85 % \nStorage  Temperature  -40 115 ℃ \nStorage Relative Humidity  - 90 % \nLead Soldering Temperature （10 s max ） - 250 ℃ \n  \n"}]
+!==============================================================================!
+### Component Summary: M940±5-10-F105/22-R4
+
+**Component Type:** Laser Diode Module
+
+**Description:**
+The M940±5-10-F105/22-R4 is a high-performance laser diode module designed for various applications, particularly in fiber laser pumping, medical devices, and materials processing. It features a multimode optical fiber with a core diameter of 105μm and a numerical aperture of 0.22, allowing for efficient light transmission.
+
+### Key Specifications:
+
+- **Voltage Ratings:**
+  - Operating Voltage: 1.6 V
+
+- **Current Ratings:**
+  - Threshold Current: 1.2 A
+  - Operating Current: 12.0 A (max 13.0 A)
+
+- **Power Consumption:**
+  - CW Output Power: 10 W (typical)
+  - Power Conversion Efficiency: 52% to 58%
+
+- **Operating Temperature Range:**
+  - Operating Temperature: -40°C to 105°C
+  - Storage Temperature: -40°C to 115°C
+
+- **Package Type:**
+  - The specific package type is not detailed in the provided text, but it is designed for integration with optical fiber systems.
+
+- **Special Features or Notes:**
+  - High output power of 10 W
+  - Center wavelength of 940±5 nm
+  - Spectral width of <6 nm at 90% power
+  - Wavelength shift with temperature: 0.3 nm/°C
+  - Wavelength shift with current: 1.0 nm/A
+  - Minimum static bending radius for fiber: 15 mm
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+### Typical Applications:
+- **Pumping Source for Fiber Laser:** The module is primarily used as a pumping source in fiber laser systems, where high output power and specific wavelength characteristics are crucial for efficient operation.
+- **Medical Applications:** It can be utilized in various medical devices that require precise laser output for procedures such as surgery or diagnostics.
+- **Materials Processing:** The laser diode module is suitable for applications in materials processing, including cutting, engraving, and welding, where high-intensity laser light is needed.
+
+This summary encapsulates the essential characteristics and applications of the M940±5-10-F105/22-R4 laser diode module, providing a clear understanding of its capabilities and uses in various fields.

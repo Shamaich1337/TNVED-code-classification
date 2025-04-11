@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of JCN228F production of JC ANTENNA HK CO.,LIMITED from the text:JinchangElectronGlobalService\nJIAXINGJINCHANGELECTRONICTECHNOLOGYCO.,LTD\nAdd:398#,ZhenyeRoad,SouthStreet,Jiaxing,Zhejiang,China\nHttp://www.jinchanggps.com E-mail:jcgps@vip.163.com\nTel:86-0573-83692157/83692605/83958637Fax:86-0573-83958635GNSSSurveyingAntenna\nJCN228F\nDIMENSIONS\n\nJinchangElectronGlobalService\nJIAXINGJINCHANGELECTRONICTECHNOLOGYCO.,LTD\nAdd:398#,ZhenyeRoad,SouthStreet,Jiaxing,Zhejiang,China\nHttp://www.jinchanggps.com E-mail:jcgps@vip.163.com\nTel:86-0573-83692157/83692605/83958637Fax:86-0573-83958635SPECIFICATIONS\nItem Specifications\nAntenna Frequency GPSL1/L2/L5/L-Band\nGLONASSG1/G2/G3\nCOMPASSB1/B2/B3\nGalileoE1/L1/E2/E5a/E5b/E6\nPolarization RHCP\nAxialRatio ≤3dB\nV.S.W.R ≤1.5\nPeakGain ≥5.5dBi\nImpedance 50Ω\nPhaseCenterError ±2mm\nHorizontalcoverageangle 360°\nLNA Gain 40±2dB\nNoiseFigure ≤1.5dB\nPassbandfluctuation ±1.5dB\nSupplyVoltage 3~12VDC\nCurrentConsumption ≤50mA\nV.S.W.R ≤2.0\nMechanical Connector MCXorothers\nCable RG316orothers\nMountingMethod ScreworEmbedded\nEnvironmental OperatingTemperature -40℃~+85℃\nRelativeHumidity Upto95%\nEnvironmentallyFriendly ROHSCompliant\n'}]
+!==============================================================================!
+### Component Summary: JCN228F GNSS Surveying Antenna
+
+**Key Specifications:**
+- **Frequency Bands:**
+  - GPS: L1, L2, L5, L-Band
+  - GLONASS: G1, G2, G3
+  - COMPASS: B1, B2, B3
+  - Galileo: E1, L1, E2, E5a, E5b, E6
+- **Polarization:** Right-Hand Circular Polarization (RHCP)
+- **Axial Ratio:** ≤ 3 dB
+- **Voltage Ratings:** 3 to 12 VDC
+- **Current Ratings:** ≤ 50 mA
+- **Power Consumption:** Not explicitly stated, but inferred from current consumption.
+- **Operating Temperature Range:** -40°C to +85°C
+- **Package Type:** Not specified, but typically includes a mechanical connector (MCX or others) and cable (RG316 or others).
+- **Special Features:**
+  - Peak Gain: ≥ 5.5 dBi
+  - Low Noise Amplifier (LNA) Gain: 40 ± 2 dB
+  - Noise Figure: ≤ 1.5 dB
+  - Phase Center Error: ± 2 mm
+  - Horizontal Coverage Angle: 360°
+  - V.S.W.R (Voltage Standing Wave Ratio): ≤ 1.5 (≤ 2.0 in some conditions)
+  - Passband Fluctuation: ± 1.5 dB
+- **Moisture Sensitive Level:** Not specified, but the component is ROHS compliant.
+
+**Description:**
+The JCN228F is a GNSS (Global Navigation Satellite System) surveying antenna designed for high-precision applications. It operates across multiple frequency bands, making it suitable for various GNSS systems, including GPS, GLONASS, COMPASS, and Galileo. The antenna features a right-hand circular polarization, which is essential for minimizing multipath effects and improving signal reception.
+
+**Typical Applications:**
+The JCN228F antenna is primarily used in GNSS surveying applications, including:
+- Land surveying and mapping
+- Construction and civil engineering
+- Agriculture (precision farming)
+- Autonomous vehicles and drones
+- Geographic Information Systems (GIS)
+- Any application requiring accurate positioning and navigation data.
+
+This antenna is ideal for environments where high accuracy and reliability are critical, given its wide operating temperature range and robust design.

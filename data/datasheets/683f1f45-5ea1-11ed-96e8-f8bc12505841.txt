@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ECS-TXO-2520MV-500-AN-TR production of ECS from the text: \n \n \n \n   \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n Parameters  Conditions  ECS-TXO-2520 MV \nUnits  \nMIN TYP MAX  \nFrequency Range   10.000  60.000  MHz \nOperating Temperature  N Option  -40  +85 °C \nStorage Temperature   -40  +90 °C \nInput Voltage  VDD  +1.7  +3.6 VDC  \nFrequency Stability  Vs. Temp (AN -40 ~ +85 °C)   ±2.5 PPM  \nVs. Supply Change (±5%)    ±0.3 PPM  \nVs. Load Change (±5%)    ±0.3 PPM  \nVs. Aging/Year    ±1.0 PPM  \nFrequency Tolerance  @ +25 °C ±2 °C   ±1.5 PPM  \nCurrent Consumption     6.0 mA \n“0” Level  VOL   10% Vdd  VDC  \n“1” Level  VOH  90% V dd   VDC  \nOutput Symmetry  @50% VDD Level    45/55 % \nRise and Fall Times  10% VDD to 90% Level    5 ns \nOutput Load  CMOS    15 pF \nStart -up Time     10 mS \nPhase Noise  @ 10 KHz Offset   -145  dBc/Hz  \nPhase Jitter (12 KHz ~ 20 MHz)  @ 50 MHz   254  fs \nFREQ.   3.2~ 10 MHz  10.1~ 20 MHz  20.1~ 30 MHz  30.1~ 40 MHz  40.1 ~55 MHz  \n+1.8V  2.7 3.3 3.8 4.1 5.0 \n+2.5V  3.1 3.7 4.2 4.6 5.5 \n+2.8V  3.4 4.1 4.7 5.2 6.0 \n+3.3V  4.0 4.8 5.5 6.0 6.0 \nRequest a Sample  \nECS-TXO-2520 MV CMOS SMD TCXO  MultiVolt™ capability of  \n1.7 ~ 3.6V.  The 2.5 x 2.0 x 0.9 mm ceramic package is ideal for \nportable, wireless applications where stability is critical.  ECS-TXO-2520 MV \nMultiVolt™ CMOS TCXO  \n \nOPERATING CONDITIONS / ELECTRICAL CHARACTERISTICS  \n15351 West 109th Street  |  Lenexa, KS 66219  |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  ECS-TXO-2520 MV \n• HCMOS TCXO  \n• 2.5 x 2.0 mm Footprint   \n• PbFree/RoHS Compliant  \n• MSL 1  \n• Lead Finish Au  \n• MultiVolt™ Compatible with \n1.8V, 2.5V or 3.3V Power \nSupply  \n•  \nPart Number ing Guide :  Example ECS-TXO-2520 MV-250-AN-TR \n250 = 25.000 MHz \n \nSee Developed \nFrequencies  \n ECS TXO-2520 MV = TCXO  \n A = ±2.5 ppm  \n \n L = -10 ~ +70°C  \nM = -20 ~ +70 °C \nY = -30 ~ +85 °C \nN = -40 ~ +85 °C \n \n  ECS      -          Series        -         Frequency Abbreviations -  Stability Tolerance    -          Temperature          -          Packaging  \nTR = Tape & Reel  \n         1K/reel  \n \nCURRENT CONSUMPTION , mA Max.  \n \n \n \n \n \n  \n \n \n  \n  \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n  Tri-State Function  \nPin 1  Output  \nHigh or NC  Active  \nLow Disable High -Z Package Dimensions (mm)  \nFigure 1)  Top, Side, and Bottom  views  \n15351 West 109th Street  |  Lenexa, KS 66219  |  Phone: 913.782.7787  |  Fax: 913.782.6991  | www.ecsxtal.com  \nFigure 2 ) Land Pattern  \nDeveloped Frequencies  \n* Abbreviation  Frequency (MHz)  \n100 10.000  \n120 12.000  \n160 16.000  \n200 20.000  \n240 24.000  \n250 25.000  \n320 32.000 \n400 40.000  \n500 50.000  \n \n ECS-TXO-2520 MV \nMultiVolt™ CMOS TCXO  \nPin Connections  \n#1 Tri-State  \n#2 Ground  \n#3 Output  \n#4 VDD  \n \n\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n ECS:   \n\xa0 ECS-TXO-2520MV-100-AN-TR\xa0 ECS-TXO-2520MV-100-AY-TR\xa0 ECS-TXO-2520MV-120-AN-TR\xa0 ECS-TXO-2520MV-\n120-AY-TR\xa0 ECS-TXO-2520MV-160-AN-TR\xa0 ECS-TXO-2520MV-160-AY-TR\xa0 ECS-TXO-2520MV-400-AN-TR\xa0 ECS-\nTXO-2520MV-400-AY-TR\xa0 ECS-TXO-2520MV-500-AN-TR\xa0 ECS-TXO-2520MV-500-AY-TR\xa0 ECS-TXO-2520MV-240-AN-\nTR\xa0 ECS-TXO-2520MV-240-AY-TR\xa0 ECS-TXO-2520MV-250-AN-TR\xa0 ECS-TXO-2520MV-250-AY-TR\xa0 ECS-TXO-\n2520MV-320-AN-TR\xa0 ECS-TXO-2520MV-320-AY-TR\n'}]
+!==============================================================================!
+### Component Summary: ECS-TXO-2520MV-500-AN-TR
+
+#### Key Specifications:
+- **Frequency Range:** 10.000 MHz to 60.000 MHz
+- **Operating Temperature Range:** -40 °C to +85 °C
+- **Storage Temperature Range:** -40 °C to +90 °C
+- **Input Voltage (VDD):** +1.7 VDC to +3.6 VDC
+- **Frequency Stability:**
+  - Vs. Temperature (AN -40 ~ +85 °C): ±2.5 PPM
+  - Vs. Supply Change (±5%): ±0.3 PPM
+  - Vs. Load Change (±5%): ±0.3 PPM
+  - Vs. Aging/Year: ±1.0 PPM
+- **Frequency Tolerance @ +25 °C ±2 °C:** ±1.5 PPM
+- **Current Consumption:** 6.0 mA
+- **Output Levels:**
+  - “0” Level (VOL): 10% Vdd
+  - “1” Level (VOH): 90% Vdd
+- **Output Symmetry @50% VDD Level:** 45/55%
+- **Rise and Fall Times (10% VDD to 90% Level):** 5 ns
+- **Output Load:** CMOS 15 pF
+- **Start-up Time:** 10 ms
+- **Phase Noise @ 10 KHz Offset:** -145 dBc/Hz
+- **Phase Jitter (12 KHz ~ 20 MHz) @ 50 MHz:** 254 fs
+- **Moisture Sensitive Level (MSL):** MSL 1 (JEDEC J-STD-020E)
+- **Package Type:** 2.5 x 2.0 x 0.9 mm ceramic package
+- **Special Features:** MultiVolt™ compatible with 1.8V, 2.5V, or 3.3V power supply; PbFree/RoHS compliant
+
+#### Description:
+The ECS-TXO-2520MV-500-AN-TR is a Temperature Compensated Crystal Oscillator (TCXO) designed for high stability and low power consumption in portable and wireless applications. It features a compact 2.5 x 2.0 mm ceramic package, making it suitable for space-constrained designs. The device operates over a wide voltage range and offers excellent frequency stability across temperature variations.
+
+#### Typical Applications:
+This TCXO is ideal for applications requiring precise timing and frequency control, such as:
+- **Wireless Communication:** Used in mobile devices, Bluetooth, and Wi-Fi modules where stable frequency is critical.
+- **GPS Systems:** Provides accurate timing for positioning systems.
+- **Consumer Electronics:** Found in devices like smartwatches, fitness trackers, and other portable gadgets.
+- **Industrial Equipment:** Utilized in various industrial applications where reliable timing is essential.
+
+The ECS-TXO-2520MV-500-AN-TR is particularly beneficial in environments where temperature fluctuations can affect performance, ensuring consistent operation across a wide range of conditions.

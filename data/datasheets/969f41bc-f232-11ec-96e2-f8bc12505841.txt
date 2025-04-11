@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CTTF0505-1T production of MORNSUN from the text:DC/DCConverter\nCTTFSeries\n2019.010.15-A/1 Page1of4\nMORNSUNGuangzhouScience&TechnologyCo.,Ltd.reservesthecopyrightandrightoffinalinterpretationCTTF0505-1TTransformer\nRoHSFEATURES\n\uf06cCompactSMDpackage\n\uf06cI/Oisolationtestvoltage3kVDC\n\uf06cOperatingambienttemperaturerange:-40℃to\n+125℃\n\uf06cMeetsEN62368standards\n\uf06cMeetsAEC-Q200standards(testing)\nCTTF0505-1TTransformerisspeciallydesignedforapplicationswhereanisolatedvoltageisrequiredinadistributedpowersupplysystem,\noperatingtemperatureof-40℃to+125℃,compatiblewithSCM1201ATAusedasan1WDC-DCconverterwith5Vinput,5Voutput.Theyare\nsuitablefor:puredigitalcircuits,lowfrequencyanalogcircuits,relay-drivencircuitsanddataswitchingcircuits.\nSelectionGuide\nPartNo.Inputvoltage(VDC)\nOutputvoltage\n(VDC)InputCurrent\nPower(W)Typ. Max.\nNominal\n(Range)mA(DC) mA(AC) mA(DC)\nCTTF0505-1T5\n(4.5-5.5)5 200 177 250 1\nNote:PinsandphasepointsofthetransformersrefertoPhaseDiagram.\nGeneralSpecifications\nItem OperatingConditions Min. Typ. Max. Unit\nInductance①pin1topin3 -- 600 --\nμH\npin6topin4 -- 800 --\nDCRpin1topin3 -- 650 --\nmΩ\npin6topin4 -- 750 --\nIsolationPrimary-secondryElectricStrengthTestfor1minutewith\naleakagecurrentof1mAmax.3000 -- -- VDC\nInsulationResistance Primary-secondryresistanceat500VDC 1000 -- -- MΩ\nIsolationCapacitance Primary-secondrycapacitanceat100kHz/0.1V -- 20 -- pF\nVoltage-Time②11 -- -- Vus\nStorageHumidity Non-condensing -- -- 95 %RH\nOperatingTemperature③Includingtemperaturerise -40 -- +125\n℃ StorageTemperature④-55 -- +125\nPinSolderingResistance\nTemperature-- -- 260\nReflowSoldering\nTemperature⑤Peaktemp.≤245℃,maximumdurationtime≤60sover\n217℃.\nMoistureSensitivityLevel\n(MSL)IPC/JEDECJ-STD-020D.1 Level1\nNotes:①Testconditions:100kHz/0.1V;\n②Productofinputvoltageandexcitationtime;\n③Thetemperatureofthetransformer(ambientplustemperaturerise)shouldbewithintheoperatingtemperaturerange;\n④Thestoragetemperatureofthetransformeronly;\n⑤Wesuggestthattimesofreflowsolderingshouldnotexceedtwice,foractualapplication,pleaserefertoIPC/JEDECJ-STD-020D.1.\nDC/DCConverter\nCTTFSeries\n2019.010.15-A/1 Page2of4\nMORNSUNGuangzhouScience&TechnologyCo.,Ltd.reservesthecopyrightandrightoffinalinterpretationMechanicalSpecifications\nCaseMaterial Blackplastic;flame-retardantandheat-resistant(UL94V-0)\nDimensions 12.50x8.70x5.90mm\nWeight 0.6g(Typ.)\nCoolingMethod Freeairconvection\nMaterialcertification\nMaterial ULNo.\nWire E234867\nCase E150608\nVarnish E317427\nPhaseDiagram\nFig.1TurnsRatio(Np：Ns)\nOutputvoltage(VDC) Np-a：Ns-a Np-b：Ns-b\n5 1：1.1(Typ.)\nApplicationCircuit\nFig.2Table1:Recommendedparameters\nIC MORNSUNSCM1201ATA\nC1 1µF/25V\nC2 1µF/25V\nD1 40V/1A\nD2 40V/1A\nNotes:\n1.Ifitisrequiredtofurtherreduceinputandoutputripple,thecapacitanceofC1andC2canbeincreasedproperlyifrequired,andshould\nbeconnectedclosetothepinterminalofthemodule.\n2.Inordertoensuretheconvertercanworkreliablywithhighefficiency,theminimumloadshouldnotlessthan1%ratedloadwhenitisused.\nIftheneededpowerisindeedsmall,pleaseparallelaresistorontheoutputside(Thesumoftheefficientpowerandresistorconsumption\npowerisnotlessthan1%).\nDC/DCConverter\nCTTFSeries\n2019.010.15-A/1 Page3of4\nMORNSUNGuangzhouScience&TechnologyCo.,Ltd.reservesthecopyrightandrightoffinalinterpretationDimensionsandRecommendedLayout\nTapeandReelInfo\n\nDC/DCConverter\nCTTFSeries\n2019.010.15-A/1 Page4of4\nMORNSUNGuangzhouScience&TechnologyCo.,Ltd.reservesthecopyrightandrightoffinalinterpretationNotes:\n1.ForadditionalinformationonProductPackagingpleaserefertowww.mornsun-power.com.Packagingbagnumber:58210037,Roll\npackagingbagnumber:58210038;\n2.Unlessotherwisespecified,parametersinthisdatasheetweremeasuredundertheconditionsofTa=25℃,humidity<75%RH,100kHzand\n100mV;\n3.Allindextestingmethodsinthisdatasheetarebasedonourcompanycorporatestandards;\n4.Wecanprovideotheranalogtransformercustomizationservice,pleasecontactourtechniciansdirectlyforspecificinformation;\n5.OurproductsshallbeclassifiedaccordingtoISO14001andrelatedenvironmentallawsandregulations,andshallbehandledby\nqualifiedunits.\nMORNSUNGuangzhouScience&TechnologyCo.,Ltd.\nAddress:No.5,KehuiSt.1,KehuiDevelopmentCenter,ScienceAve.,GuangzhouScienceCity,HuangpuDistrict,Guangzhou,P.R.China\nTel:86-20-38601850 Fax:86-20-38601272 E-mail:info@mornsun.cn www.mornsun-power.com\n'}]
+!==============================================================================!
+### Component Summary: CTTF0505-1T
+
+**Manufacturer:** MORNSUN  
+**Product Code:** CTTF0505-1T  
+**Type:** DC/DC Converter (Transformer)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Input Voltage: 5 VDC (Range: 4.5 - 5.5 VDC)
+  - Output Voltage: 5 VDC
+- **Current Ratings:**
+  - Input Current: 200 mA (typical), 250 mA (maximum)
+  - Output Current: 177 mA (typical)
+- **Power Consumption:**
+  - Power Output: 1 W
+- **Operating Temperature Range:**
+  - -40°C to +125°C
+- **Package Type:**
+  - Compact SMD package (Dimensions: 12.50 x 8.70 x 5.90 mm)
+- **Special Features:**
+  - I/O isolation test voltage: 3 kVDC
+  - Meets EN62368 and AEC-Q200 standards
+  - Free air convection cooling
+- **Moisture Sensitive Level (MSL):**
+  - IPC/JEDEC J-STD-020D.1 Level 1
+
+#### Description:
+The CTTF0505-1T is a compact DC/DC converter transformer designed for applications requiring isolated voltage in distributed power supply systems. It is particularly suitable for use in environments with a wide operating temperature range, making it versatile for various electronic applications.
+
+#### Typical Applications:
+- **Digital Circuits:** Ideal for pure digital circuits that require stable voltage levels.
+- **Analog Circuits:** Suitable for low-frequency analog circuits where isolation is necessary.
+- **Relay-Driven Circuits:** Can be used in circuits that control relays, providing necessary voltage isolation.
+- **Data Switching Circuits:** Effective in data switching applications where signal integrity and isolation are critical.
+
+This component is particularly beneficial in automotive, industrial, and telecommunications applications where reliability and performance under extreme conditions are essential.

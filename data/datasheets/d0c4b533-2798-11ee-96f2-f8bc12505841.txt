@@ -1,0 +1,50 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ES-EABCF33B production of EPISTAR CORPORATION from the text:COPY RIGHT ©2017 Epistar Corporation. All Rights Reserved.                                                                         www.epistar.com.tw  \nCC-201712 -A  \n \n \n \n \n \n> Mechanical Specification:  \n \n(1) Dimension  \n  - Chip size: 810 \uf0b1 50 µm x 810 \uf0b1 50 µm \n  - Thickness: 5.9 mil ( 150 \uf0b1 10 µm) \n  - P bonding pad:  3.5 mil ( 90 \uf0b1 10 µm)  \n  - N bonding pad:  3.5 mil ( 90 \uf0b1 10 µm)  \n \n(2) Metallization  \n  - Topside P electrode (x2): Au alloy  \n  - Topside N electrode (x2): Au alloy  \n  - Backside metal: Al alloy  \n \n \n \n> Electro -optical Characteristics at 25 \uf0b0C: (1) \nParameter  Symbol  Condition  Min.  Typ.  Max.  Unit  \nForward  Voltage  Vf1 If = 10µA  1.6 - - V \nVf2 If = 350mA - 3.1 3.3 V \nReverse Current  Ir Vr = 5V  - - 2.0 μA \nDominant Waveleng th(2) λd If = 350mA  445 - 465 nm \nSpectra Half -width  Δλ If = 350mA  - 25 - nm \nRadiant Flux(3)(4) Po A87 \nIf = 350mA  460 - 480 \nmW A88 480 - 500 \nA89 500 - 520 \nNote:  \n(1) ESD protection during chip handling is recommended.  \n(2) Bas ically, the wavelength span is 20nm; however, customers ’ special requirements are also welcome.  \n(3) Radiant flux is determined by using a n Ag-plated TO -can header without an encapsulant.  \n(4) Radiant flux measurement allows a tolerance of \uf0b115%.  \n    \n \nFeatures:  \n\uf09e High radiant flux  \n\uf09e Long operation life  \n\uf09e Lamberti an radiation  \n \nApplications:  \n\uf09e Lighting  \nN-electrode  \nP-electrode  \nN-electrode  \nBackside  metal  \nSapphire -substrate  \nES-EABCF33B \nInGaN F-series  Blue LED Chip  \nP P \nN N \nCOPY RIGHT ©2017 Epistar Corporation. All Rights Reserved.                                                                         www.epistar.com.tw  \nCC-201712 -A \nES-EABCF33B InGaN F-series  Blue LED Chip  \n  \n> Absolute Maximum Ratings:  \nParameter  Symbol  Condition  Rating  Unit \nForward DC Current  If Ta = 25˚C  ≤ 450 mA \nReverse Voltage  Vr Ta = 25˚C  ≤ 5 V \nJunction Temperature  Tj - ≤ 125 ˚C \nStorage Temperature  Tstg Chip -40 ~ +85  ˚C \nChip -on-tape/storage  5 ~ 35 ˚C \nChip -on-tape/transportation  -20 ~ +65  ˚C \nTemperature during Packaging  - - 280(<10sec)  ˚C \nNote: Maximum ratings are package dependent. The above maximum ratings were determined using a Metal Core Printed Circuit Board ( MCPCB) without  an encapsulant. \nStresses in excess of the absolute maximum ratings such  as forward current and junction temperature may cause damage to the LED . \n \n> Characteristic Curves:  \nFig.1  – Relative luminous Intensity vs. Forward Current   Fig.2  – Forward Current vs. Forward Voltage  \n  \n \nFig.3  – Relative Intensity (@ 350mA) vs. Ambient  \nTemperature   Fig.4  – Forward Voltage (@ 350mA) vs. Ambient \nTemperature  \n  \n \nFig.5  – Dominant Wavelength ( @350 mA) vs.  Ambient \nTemperat ure  Fig.6  – Maximum Driving Forward DC Current vs. Ambient  \nTempe rature  (De-rating based on Tj max. = 1 25oC) \n  \n \n \n\n'}]
+!==============================================================================!
+### Component Summary: ES-EABCF33B (InGaN F-series Blue LED Chip)
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (Vf1): 1.6 V (at If = 10 µA)
+  - Forward Voltage (Vf2): 3.1 - 3.3 V (at If = 350 mA)
+  - Reverse Voltage (Vr): ≤ 5 V
+
+- **Current Ratings:**
+  - Forward DC Current (If): ≤ 450 mA (at Ta = 25˚C)
+  - Reverse Current (Ir): ≤ 2.0 µA (at Vr = 5 V)
+
+- **Power Consumption:**
+  - Radiant Flux: 
+    - 460 - 480 mW (A87)
+    - 480 - 500 mW (A88)
+    - 500 - 520 mW (A89)
+  - Note: Radiant flux measurement allows a tolerance of ±15%.
+
+- **Operating Temperature Range:**
+  - Junction Temperature (Tj): ≤ 125 ˚C
+  - Storage Temperature (Tstg): -40 to +85 ˚C
+  - Chip-on-tape/storage: 5 to 35 ˚C
+  - Chip-on-tape/transportation: -20 to +65 ˚C
+
+- **Package Type:**
+  - Chip size: 810 ± 50 µm x 810 ± 50 µm
+  - Thickness: 5.9 mil (150 ± 10 µm)
+
+- **Special Features:**
+  - High radiant flux
+  - Long operational life
+  - Lambertian radiation pattern
+  - ESD protection recommended during chip handling
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+#### Description:
+The ES-EABCF33B is an InGaN (Indium Gallium Nitride) blue LED chip designed for high-efficiency lighting applications. It emits light in the blue spectrum with a dominant wavelength ranging from 445 to 465 nm. The chip is characterized by its high radiant flux output and long operational life, making it suitable for various lighting solutions.
+
+#### Typical Applications:
+- **Lighting:** The primary application of the ES-EABCF33B is in general lighting, including indoor and outdoor lighting solutions.
+- **Display Technology:** It can be used in LED displays and backlighting for screens.
+- **Signal Indicators:** The chip is suitable for use in indicator lights and other signaling applications due to its bright blue emission.
+- **Specialty Lighting:** It may also be utilized in decorative lighting and architectural illumination.
+
+This LED chip is ideal for applications requiring efficient light output and durability, making it a versatile choice in the LED market.

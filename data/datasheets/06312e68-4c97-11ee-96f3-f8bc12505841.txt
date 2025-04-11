@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TP-DTT-PLNP/6-AG production of DECIGN from the text:A New 28.12.2022 Cherry\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.10Cherry\nCheng\nFagi28.12.2022\n02.01.2023\n02.01.20231/1\nASpecifications\nElectrical\nRating:\nOperating temperature: 0°C to +100°C\nMechanical Requirements\nOperating Force: 1.5N max.\nRelease Force: 0.4N min.\nMovement Difference: 0.2mm\nElectrical Life: 50,000 cycles min.Item Desc. Materials/Plating(color)\n1 Plunger PPS-HGR40\n2 Pull Spring SUS304H (Stainless steel)\n3 Moving Piece C5191 (Tin bronze)\n4 Contac t AgNi10\n5 Case PBT / black\n6 Terminal Brass Alloy H65 / Silver plated\n7 Cove r PBT / blackOrder Code\nRoHS\ncompliant\nSubminiature Micro Switch\nMushroom Lever - 10.50mm Height∅5.50 19.70 ±0.15Pre-Travel\n0.80 max.\n2.80 3.10 ±0.1010.00 ±0.106.90\n2.20\n9.50\n7.50 7.506.30\n∅2.50 ∅2.2010.50 ±0.15\n2.80 ±0.20\n6.40 ±0.201 2 3\n4\n5\n67\nSchematic Diagram\nC NOC NO∅1.80Operating\nPosition\n9.80 ±0.40\nTP-DTT-PLNP/6-AG\nInsulation resistance: 100MΩ min.\nContact resistance: 50mΩ max.\nWithstanding voltage: 1000V AC 25 VAC \nTP-DTT-PLNP/6-AG\nTP-DTT-PLNP/6-xx\n'}]
+!==============================================================================!
+### Component Summary for TP-DTT-PLNP/6-AG
+
+**Component Type:** Subminiature Micro Switch with Mushroom Lever
+
+**Key Specifications:**
+- **Operating Temperature Range:** 0°C to +100°C
+- **Operating Force:** 1.5 N max
+- **Release Force:** 0.4 N min
+- **Movement Difference:** 0.2 mm
+- **Electrical Life:** 50,000 cycles min
+- **Insulation Resistance:** 100 MΩ min
+- **Contact Resistance:** 50 mΩ max
+- **Withstanding Voltage:** 1000 V AC, 25 VAC
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text
+- **Package Type:** Subminiature form factor with mushroom lever design
+
+**Materials:**
+- **Plunger:** PPS-HGR40
+- **Pull Spring:** SUS304H (Stainless steel)
+- **Moving Piece:** C5191 (Tin bronze)
+- **Contact:** AgNi10
+- **Case:** PBT (black)
+- **Terminal:** Brass Alloy H65 (Silver plated)
+- **Cover:** PBT (black)
+
+**Description:**
+The TP-DTT-PLNP/6-AG is a subminiature micro switch featuring a mushroom lever design. It is designed for applications requiring precise actuation with a low operating force. The switch is constructed from durable materials, ensuring longevity and reliability in various environments.
+
+**Typical Applications:**
+This micro switch is commonly used in:
+- **Consumer Electronics:** For user interface controls and safety mechanisms.
+- **Industrial Equipment:** In automation systems for position sensing and control.
+- **Home Appliances:** As a control switch for various functions.
+- **Automotive Applications:** For safety and operational controls.
+
+The TP-DTT-PLNP/6-AG is ideal for applications where space is limited, and reliable switching is essential. Its robust design and high electrical life make it suitable for repeated use in demanding environments.

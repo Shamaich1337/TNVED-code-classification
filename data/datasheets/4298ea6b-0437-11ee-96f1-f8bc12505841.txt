@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of A6H-4101-PM production of OMRON from the text:9A6H   Half-pitch DIP Switch\nUltra-low Profile, Half-pitch, \nSurface-mounting DIP Switch\n■Very low profile of 1.55 mm.\n■Mounting space reduced by 63% \n(compared with conventional models).\n■Washable, seal tape models available.\n■Embossed taping models available. \n(SQ reel (small reel) also available)\nOrdering Information\nNote: Embossed taping models are packaged in units of 500 or 4,000. Orders must be made in multiples of either 500 or 4,000. Switches\nare not sold individually.\nSpecifications\n■Ratings/CharacteristicsRoHS Compliant (Refer to page 8 for details.)\nType Standard models Models with seal tape\nStick models Embossed taping\nSmall reel \n(units of 500)\n(See note.)Stick models Embossed taping\nStandard reel \n(units of 4,000)\n(See note.)Small reel \n(units of 500)\n(See note.)\nNo. of poles Quantity per \nstick\n4 75 A6H-4101 A6H-4101-PM A6H-4102 A6H-4102-P A6H-4102-PM\n6 54 A6H-6101 A6H-6101-PM A6H-6102 A6H-6102-P A6H-6102-PM8 40 A6H-8101 A6H-8101-PM A6H-8102 A6H-8102-P A6H-8102-PM10 33 A6H-0101 A6H-0101-PM A6H-0102 A6H-0102-P A6H-0102-PM\nSwitching capacity 25 mA at 24 VDC\n10 \nµA (minimum current) at 3.5 VDC\nAmbient temperature Operating: –20 to 70 °C (with no icing or condensation)\nStorage: –40 to 80 °C (with no icing or condensation)\nAmbient humidity Operating: 35% to 90%\nInsulation resistance 100 M Ω min. (at 250 VDC)\nContact resistance 200 m Ω max. (initial value)\nDielectric strength 300 VAC for 1 min between terminals of the same polarity, and between terminals of different \npolarity\nVibration resistance Malfunction: 10 to 55 Hz, 1.5-mm double amplitude\nShock resistance Malfunction: 300 m/s2 min.\nLife expectancy Mechanical: 1,000 operations min.\nElectrical: 1,000 operations min.\nOperating force 0.29 to 4.9 N {30 to 500 gf}\nEnclosure rating Equivalent to IP40\nWeight 0.09 g (4 poles)\n0.12 g (6 poles)0.15 g (8 poles)\n0.18 g (10 poles)\n\n10A6H A6H\nDimensions\nNote: 1. All units are in millimeters unless otherwise indicated.\n2.Unless otherwise specified, a tolerance of ±0.4 mm applies to all dimensions.\nInstallation \n■Internal Connections (Top View)\nPrecautions\nBe sure to refer to General Precautions on pages 5 to 7 for details on proper use.No. of poles Model Dimension A\n4\n6\n810A6H-4101\nA6H-6101\nA6H-8101A6H-0101A6H-4102\nA6H-6102\nA6H-8102A6H-01026.31\n8.85\n11.3913.93\nStandard\nA6H- @101\nWith Seal Tape\nA6H- @102\nA6H- @102-PStandard With seal tape\nSeal tape (t=0.05)Dimensions of PCB pad\n(Top View)\nP = No. of poles\n109 21\nALL DIMENSIONS SHOWN ARE IN MILLIMETERS.\nTo convert millimeters into inches, multiply by 0. 03937. To convert grams into ounces, multiply by 0.03527.\nCat. No. A117-E1-02\n'}]
+!==============================================================================!
+### Component Summary: A6H-4101-PM (OMRON)
+
+#### Key Specifications:
+- **Voltage Ratings**: 24 VDC
+- **Current Ratings**: 
+  - Maximum: 25 mA
+  - Minimum: 10 µA (at 3.5 VDC)
+- **Power Consumption**: Not explicitly stated; however, the current rating indicates low power usage.
+- **Operating Temperature Range**: 
+  - Operating: -20 to 70 °C (with no icing or condensation)
+  - Storage: -40 to 80 °C (with no icing or condensation)
+- **Package Type**: Half-pitch DIP (Dual In-line Package), surface-mounting
+- **Special Features**: 
+  - Ultra-low profile of 1.55 mm
+  - 63% reduction in mounting space compared to conventional models
+  - Washable and seal tape models available
+  - Embossed taping models available (small reel also available)
+- **Moisture Sensitive Level**: Not specified in the provided text, but typically follows JEDEC J-STD-020E standards for moisture sensitivity.
+
+#### Description:
+The A6H-4101-PM is a half-pitch DIP switch manufactured by OMRON. It is designed for surface mounting and features an ultra-low profile, making it suitable for applications where space is a constraint. The switch allows for manual control of electronic circuits, enabling users to toggle between different states (on/off) in a compact form factor.
+
+#### Typical Applications:
+The A6H-4101-PM is commonly used in various electronic applications, including:
+- **Consumer Electronics**: For user interface controls in devices such as remote controls, audio equipment, and home appliances.
+- **Industrial Equipment**: In machinery and control panels where manual switching is required.
+- **Telecommunications**: For configuration settings in communication devices.
+- **Automotive**: In dashboard controls and settings adjustments.
+- **Embedded Systems**: For setting parameters or modes in microcontroller-based applications.
+
+This component is particularly advantageous in designs that prioritize space efficiency and require reliable switching capabilities.

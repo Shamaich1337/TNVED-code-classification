@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BK-5058 production of MEMORY PROTECTION DEVICES INC from the text:+\n(+)VE CONTACTS (-)VE CONTACT\nNOTES:\nMATERIAL: GLASS FILLED NYLON 66, UL94V-0\nCOLOR BLACK\nCONTACTS: PHOSPHOR BRONZE, C5191, PLATED TIN\n(80u" ~ 200u") OVER ALL, MUST BE LEAD FREE\nELECTRICAL :\nVOLTAGE: 250V AC\n               CONTACT RESISTANCE: 30mΩ MAX\n               INSULATION RESISTANCE: 1000mΩ AT DC 500V\nDIELECTRIC STRENGTH: AC 1000V PER MINUTE\nOPERATION TEMPERATURE: -55°C TO +85°C\nROHS COMPLIANT11/06/04 AADDED PCB LAYOUT\nDIM. 2.60 WAS 3.52T.B. B.S.\nPCB LAYOUTNEGATIVE\nPOSITIVE10/01/05 B"Ω" SIGN WAS "?"T.B. B.S.\n10/22/05 C ADDED "ROHS COMPLIANT" T.B. B.S.\n9/04/08 D COLOR WAS BLUE T.B. B.S.\n'}]
+!==============================================================================!
+### Component Summary: BK-5058
+
+#### Key Specifications:
+- **Voltage Ratings**: 250V AC
+- **Current Ratings**: Not specified in the provided text.
+- **Power Consumption**: Not specified in the provided text.
+- **Operating Temperature Range**: -55°C to +85°C
+- **Package Type**: Not explicitly mentioned, but it is likely a connector or terminal based on the context.
+- **Special Features/Notes**:
+  - Material: Glass filled Nylon 66, UL94V-0 rated (flame retardant)
+  - Color: Black
+  - Contacts: Phosphor Bronze (C5191), plated with tin (80µ" to 200µ"), lead-free
+  - Contact Resistance: 30mΩ max
+  - Insulation Resistance: 1000mΩ at DC 500V
+  - Dielectric Strength: AC 1000V per minute
+  - RoHS Compliant
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The BK-5058 is a connector or terminal device designed for electrical connections in various applications. It features a robust construction with glass-filled nylon housing and phosphor bronze contacts, ensuring durability and reliability in electrical performance. The component is rated for high voltage applications (up to 250V AC) and is designed to operate in a wide temperature range, making it suitable for harsh environments.
+
+#### Typical Applications:
+The BK-5058 is typically used in applications requiring reliable electrical connections, such as:
+- Power management systems
+- Industrial equipment
+- Consumer electronics
+- Automotive applications
+- Any application where a secure and durable electrical connection is necessary, particularly in environments with varying temperatures and potential exposure to moisture.
+
+This component is particularly valuable in scenarios where compliance with safety standards (like RoHS) is required, ensuring that it meets modern environmental regulations.

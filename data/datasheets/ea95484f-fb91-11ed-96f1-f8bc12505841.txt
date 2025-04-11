@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BL2-022-S340-55/11 production of E-TEC from the text:L1 L2\n004 1.27 2.89\n006 2.54 4.16008 3.81 5.43010 5.08 6.70\n012 6.35 7.97\n014 7.62 9.24016 8.89 10.51018 10.16 11.78020 11.43 13.05\n022 12.70 14.32\n024 13.97 15.59026 15.24 16.86028 16.51 18.13030 17.78 19.40032 19.05 20.67\n034 20.32 21.94\n036 21.59 23.21038 22.86 24.48040 24.13 25.75042 25.40 27.02\n044 26.67 28.29046 27.94 29.56048 29.21 30.83050 30.48 32.10\n052 31.75 33.37\n054 33.02 34.64056 34.29 35.91058 35.56 37.18\n060 36.83 38.45\n062 38.10 39.72064 39.37 40.99066 40.64 42.26068 41.91 43.53\n070 43.18 44.80\n072 44.45 46.07074 45.72 47.34076 46.99 48.61\n078 48.26 49.88\n080 49.53 51.15082 50.80 52.42084 52.07 53.69\n086 53.34 54.96\n088 54.61 56.23090 55.88 57.50092 57.15 58.77094 58.42 60.04\n096 59.69 61.31\n098 60.96 62.58100 62.23 63.85Dimension(mm)No. of\nContacts\nVersion DIM "A"\nS340 3.40mm\nS430 4.40mm\n'}]
+!==============================================================================!
+Based on the provided text, the component identified is the **BL2-022-S340-55/11** from E-TEC. Below is a concise summary of its key characteristics and specifications:
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this information can be found in the full datasheet.
+- **Current Ratings**: Not explicitly stated; usually specified in the full datasheet.
+- **Power Consumption**: Not provided; typically found in the full datasheet.
+- **Operating Temperature Range**: Not provided; typically found in the full datasheet.
+- **Package Type**: The component appears to be a connector with a pin spacing of 3.40 mm (S340 version).
+- **Special Features or Notes**: The text indicates various dimensions and configurations, suggesting that this component may have multiple contact configurations.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not provided; typically found in the full datasheet.
+
+### Component Description:
+The **BL2-022-S340-55/11** is a connector component, specifically designed for applications requiring reliable electrical connections. The "S340" designation indicates a pin spacing of 3.40 mm, which is a common size for connectors in various electronic applications. The "022" likely refers to the number of contacts or pins in the connector.
+
+### Typical Applications:
+Connectors like the BL2-022-S340-55/11 are commonly used in:
+- **Power Management**: Connecting power supplies to various electronic devices.
+- **Signal Processing**: Facilitating communication between different circuit components.
+- **Data Storage**: Connecting storage devices to motherboards or other interfaces.
+- **Consumer Electronics**: Used in devices such as computers, televisions, and audio equipment for interconnectivity.
+
+### Conclusion:
+The BL2-022-S340-55/11 connector is a versatile component suitable for a range of electronic applications, particularly where space and reliable connections are critical. For detailed specifications such as voltage ratings, current ratings, and operating temperature ranges, it is recommended to consult the complete datasheet from E-TEC.

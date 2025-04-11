@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 53649-0874 production of MOLEX from the text:This document was generated on 02/07/2022\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nPart Number: 0536490874\nStatus: Active\nOverview:\nDescription: SlimStack Board-to-Board Connector, 0.635mm Pitch, 0.635 Series, Plug, 9.00 or\n15.00mm Mated Height, 6.40mm Mated Width, 80 Circuits, with Embossed Tape with\nCover Packaging\nGeneral\nProduct Family PCB Headers\nSeries 53649\nApplication Board-to-Board, Signal\nComments Stacking-Type\nOverview slimstack_fine_pitch_smt_board_to_board_connectors\nProduct Name SlimStack\nSeries Name 0.635, Floating, Rigid\nUPC 822348184187\nPhysical\nBreakaway No\nCircuits (Loaded) 80\nCircuits (maximum) 80\nColor - Resin Natural\nDurability (mating cycles max) 50\nFirst Mate / Last Break No\nGlow-Wire Capable No\nGuide to Mating Part No\nKeying to Mating Part None\nLock to Mating Part None\nMated Height 15.00mm, 9.00mm\nMated Width 6.40mm\nMaterial - Metal Copper Alloy\nMaterial - Plating Mating Gold\nMaterial - Plating Termination Tin\nMaterial - Resin High Temperature Thermoplastic\nNet Weight 1590.461/mg\nNumber of Rows 2\nOrientation Vertical\nPCB Locator Yes\nPCB Retention Yes\nPackaging Type Embossed Tape on Reel\nPitch - Mating Interface 0.635mm\nPlating min - Mating 0.254µm\nPlating min - Termination 2.032µm\nPolarized to PCB Yes\nRobotic Placement Metal Cap\nShrouded Fully\nTemperature Range - Operating -55° to +105°C\nTermination Interface: Style Surface Mount\nElectrical\nCurrent - Maximum per Contact 0.5A\nVoltage - Maximum 100V\nMaterial Info\nReference - Drawing Numbers\nPackaging Specification SPK-53649-001-001\nProduct Specification 527600000-000\nEU ELV\nNot Relevant\nEU RoHS China RoHS\nCompliant\nREACH SVHC\nNot Contained Per -\nD(2021)4569-DC (8\nJuly 2021)\nHalogen-Free\nStatus\nNot Low-Halogen\nFor more information, please visit Contact US\nChina ROHS Green Image\nELV Not Relevant\nRoHS Phthalates Not Contained\nSearch Parts in this Series\n53649 Series\nMates With\nSlimStack 0.635 Receptacle 52885 , 52901\nSales Drawing SD-52901-015-001, SD-53649-004-001,\nSD-53649-005-001, SD-53649-005-002\nThis document was generated on 02/07/2022\nPLEASE CHECK WWW.MOLEX.COM FOR LATEST PART INFORMATION\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Molex:   \n\xa0 53649-0874\n'}]
+!==============================================================================!
+### Component Summary for Molex Part Number 53649-0874
+
+#### Key Specifications:
+- **Voltage Rating:** Maximum 100V
+- **Current Rating:** Maximum 0.5A per contact
+- **Power Consumption:** Not specified directly; power can be calculated using voltage and current ratings.
+- **Operating Temperature Range:** -55°C to +105°C
+- **Package Type:** Surface Mount
+- **Special Features:**
+  - 80 circuits (maximum)
+  - Stacking-type connector
+  - Vertical orientation
+  - Fully shrouded design
+  - PCB locator and retention features
+- **Moisture Sensitive Level (MSL):** Not specified in the provided information.
+
+#### Description:
+The Molex 53649-0874 is a SlimStack Board-to-Board Connector designed for applications requiring a compact and efficient connection between printed circuit boards (PCBs). It features a fine pitch of 0.635mm and is available in two mated heights (9.00mm and 15.00mm) with a width of 6.40mm. The connector is constructed from high-temperature thermoplastic resin and utilizes copper alloy for the metal components, with gold plating on the mating surfaces and tin plating on the termination.
+
+#### Typical Applications:
+This connector is primarily used in board-to-board applications where space is limited and a reliable electrical connection is essential. Typical applications include:
+- Consumer electronics
+- Telecommunications equipment
+- Computer hardware
+- Industrial automation systems
+- Any application requiring signal transmission between PCBs
+
+The SlimStack connector is particularly suited for environments where durability and a high number of mating cycles (up to 50) are required, making it ideal for both commercial and industrial applications.

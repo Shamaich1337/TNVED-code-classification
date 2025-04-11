@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of 822Z92070000000101 production of I-PEX CONNECTORS from the text:Use the pulling tool as the following drawing, and pull plug to\nvertical direction as directly as possible.822Z92070000000101\nFIG.1NOTES\n1. Constructions\n     (1) Connector  :  MHF I PLUG\n     (2) Coaxial cable  :  AWG#32,  Φ1.13,  BlackL\n70.0 ±1.0mm\nMate the connector vertically as much as possible,3. Packing  :  Bag\n4. This product is RoHS compliant.\n5. Cable crimp strength  :  10N MIN.\n6. Permissible load of cable at mating.\n7. Mating / unmating instruction\ndirection as directly as possible.\nfor MACRO GROUP\nMay / 02 / '19   This drawing is automatically issued by\n   “I-PEX Auto Drawing System”\nConfidential CDrawing format Rev.1P/N\n6 MAX.     7-2-2.\nIn case of unmating directly by hand.\nCatch the catching area of plug, and pull plug to verticalP/N 90192-001  7-2. Unmating\nPulling tool     7-2-1.\nIn case of unmating by pulling tool. (P/N 90192-001)2. Connector's direction  :  0° ±45°\n1  7-1. Mating42N MAX.\n2N MAX.\nDo not slant mate.adjusting the mating axis of plug and receptacle.\n±0.3 6 OVER MAX. 30\n30 OVER MAX. 120±2゜\n±0.2ANGLE\nDAI-ICHI SEIKO CO., LTD.CUSTOMER COPY\nX:1\nmm\nZ-190152-\nMHF I CABLE ASS'Y (13\nTYPE-1)±0.5\nGENERAL TOLERANCE\nISSUE DATE DWG. No.TITLE\nPROJECTION SERIES No.\nSCALE\nUNIT\n\n"}]
+!==============================================================================!
+### Component Summary for I-PEX CONNECTORS Product Code: 822Z92070000000101
+
+#### Key Specifications:
+- **Connector Type**: MHF I PLUG
+- **Coaxial Cable**: AWG#32, Diameter: Φ1.13 mm, Color: Black
+- **Cable Crimp Strength**: 10N MIN
+- **Permissible Load of Cable at Mating**: 42N MAX
+- **Mating/Unmating Instructions**: 
+  - Mate the connector vertically as much as possible.
+  - For unmating, use a pulling tool (P/N 90192-001) or pull the plug directly in a vertical direction.
+- **RoHS Compliance**: Yes
+- **Packing**: Bag
+- **Mating Direction**: 0° ± 45°
+
+#### Description:
+The component identified by the product code 822Z92070000000101 is an MHF I Plug connector designed for use with coaxial cables. It is a miniature connector that provides a reliable connection for RF applications. The connector is specifically designed to maintain signal integrity while minimizing space, making it suitable for compact electronic devices.
+
+#### Typical Applications:
+- **Wireless Communication**: Used in RF modules and antennas for mobile devices, Wi-Fi, and Bluetooth applications.
+- **Consumer Electronics**: Commonly found in devices such as smartphones, tablets, and laptops where space-saving connectors are essential.
+- **Telecommunications**: Utilized in base stations and other communication equipment to connect various RF components.
+- **Test Equipment**: Employed in testing setups where high-frequency signals need to be transmitted with minimal loss.
+
+This connector is ideal for applications requiring high-frequency signal transmission in a compact form factor, ensuring robust performance in various electronic devices.

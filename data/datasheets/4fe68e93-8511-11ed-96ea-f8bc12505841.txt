@@ -1,0 +1,43 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BUMC-976-TE-12-4.0 production of SHENZHEN BOXOPTRONICS TECHNOLOGY CO.,LTD from the text:www.boxoptronics.com\nEmail:sales@boxoptronics.com|Phone:+86-18320849226Ref:2017-08/06976nmCW12WDiodeLaserChip\nBUMC-976-TE-12-4.0\n1\n976nmCW12WDiodeLaserChip\n1.Specifications\nItem Symbol Min Typ Max Unit\nOperation*\nCentralWavelength λ 977 980 983 [nm]\nOpticaloutputpower Pop 12 [W]\nOperationmode CW\nPowermodulation 100 [%]\nGeometrical\nEmitterWidth W 95 [µm]\nCavityWidth B 390 400 410 [µm]\nCavityLength L 3990 4000 4010 [µm]\nElectroOpticalData\nFastAxisDivergency(FWHM) θ⊥ 29 deg\nSlowAxisDivergency(FWHM) θ‖ 9 deg\nSpectralBandwidth(FWHM) Δλ 4 [nm]\nPulseWavelength λ 968 971 974 [nm]\nSlopeEfficiency η 0.95 1.00 [W/A]\nConversionEfficiency 53 58 [%]\nThresholdCurrent Ith 0.7 1.0 [A]\nOperatingCurrent Iop 13 14.5 [A]\nOperatingVoltage Vop 1.75 1.95 [V]\nTemperatureCharacteristics(dλ/dT) 0.35 [nm/℃]\nPolarization TE\nLDOperatingTemperature 25 [℃]\n'}]
+!==============================================================================!
+### Component Summary: BUMC-976-TE-12-4.0
+
+**Manufacturer:** SHENZHEN BOXOPTRONICS TECHNOLOGY CO., LTD  
+**Product Code:** BUMC-976-TE-12-4.0  
+**Product Type:** Diode Laser Chip  
+**Description:** The BUMC-976-TE-12-4.0 is a continuous wave (CW) diode laser chip designed to emit light at a central wavelength of approximately 976 nm. It is capable of delivering an optical output power of up to 12 W, making it suitable for high-power applications.
+
+#### Key Specifications:
+- **Central Wavelength (λ):** 977 nm (Min) to 983 nm (Max)
+- **Optical Output Power (P_op):** 12 W
+- **Operating Mode:** Continuous Wave (CW)
+- **Power Modulation:** 100%
+- **Emitter Width (W):** 95 µm
+- **Cavity Width (B):** 390 µm (Min) to 410 µm (Max)
+- **Cavity Length (L):** 3990 µm (Min) to 4010 µm (Max)
+- **Fast Axis Divergence (FWHM) (θ⊥):** 29 degrees
+- **Slow Axis Divergence (FWHM) (θ‖):** 9 degrees
+- **Spectral Bandwidth (FWHM) (Δλ):** 4 nm
+- **Pulse Wavelength (λ):** 968 nm (Min) to 974 nm (Max)
+- **Slope Efficiency (η):** 0.95 W/A (Min) to 1.00 W/A (Max)
+- **Conversion Efficiency:** 53% (Min) to 58% (Max)
+- **Threshold Current (I_th):** 0.7 A (Min) to 1.0 A (Max)
+- **Operating Current (I_op):** 13 A (Min) to 14.5 A (Max)
+- **Operating Voltage (V_op):** 1.75 V (Min) to 1.95 V (Max)
+- **Temperature Characteristics (dλ/dT):** 0.35 nm/°C
+- **Polarization:** Transverse Electric (TE)
+- **Laser Diode Operating Temperature:** 25 °C
+
+#### Special Features:
+- High optical output power of 12 W.
+- Designed for continuous wave operation with high efficiency.
+- Suitable for applications requiring precise wavelength control and high power.
+
+#### Typical Applications:
+The BUMC-976-TE-12-4.0 diode laser chip is typically used in:
+- **Material Processing:** Laser cutting, welding, and engraving due to its high power output.
+- **Medical Applications:** Laser therapies and surgical procedures where precise wavelengths are required.
+- **Telecommunications:** Fiber optic communication systems where high power and specific wavelengths are necessary.
+- **Scientific Research:** Applications in spectroscopy and other research fields requiring high-intensity light sources.
+
+This diode laser chip is ideal for applications that demand high performance and reliability in optical output, making it a versatile component in various high-tech industries.

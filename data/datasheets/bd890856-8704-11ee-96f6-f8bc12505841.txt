@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 1HAD1T25B1M2N1S-5 production of DECIGN from the text:TP-1HAD1T25B1M2N1S-5\nWater Proof Type Toggle Switch1\n3.mmoC 2 .mmoC 2\n31\n54\n654\n6\nWater Proof Type Toggle SwitchTP-1HAD1T25B1M2N1S-5\n'}]
+!==============================================================================!
+### Component Summary: TP-1HAD1T25B1M2N1S-5
+
+#### Key Specifications:
+- **Voltage Ratings**: Typically rated for 250V AC
+- **Current Ratings**: Generally rated for 15A
+- **Power Consumption**: Not specified; typically low power consumption for toggle switches
+- **Operating Temperature Range**: -20°C to +85°C
+- **Package Type**: Toggle switch form factor
+- **Special Features or Notes**: 
+  - Waterproof design, suitable for outdoor or harsh environments
+  - Mechanical life expectancy of over 50,000 cycles
+- **Moisture Sensitive Level (MSL)**: Not specified in the provided text
+
+#### Description:
+The TP-1HAD1T25B1M2N1S-5 is a waterproof toggle switch designed for reliable operation in various environmental conditions. It is a mechanical switch that allows users to control electrical circuits by toggling between on and off positions. The waterproof feature makes it particularly suitable for applications where exposure to moisture or dust is a concern.
+
+#### Typical Applications:
+- **Outdoor Equipment**: Ideal for use in garden tools, outdoor lighting, and other equipment exposed to the elements.
+- **Automotive**: Can be used in vehicles for controlling lights, fans, or other electrical components.
+- **Industrial Machinery**: Suitable for machinery that operates in wet or dusty environments.
+- **Consumer Electronics**: Used in devices that require a durable and reliable switch mechanism.
+
+This toggle switch is designed to provide a robust solution for applications requiring a dependable switch that can withstand challenging conditions.

@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CSD-8/2-MST145-95/R production of E-TEC from the text:\nSwitch State CD-1 / CD-2\nWithout Card Open\nCard Inserted CloseSwitch StatesPad No. Pin Assignment\nP1 DAT2\nP2 CD/DAT3\nP3 CMD\nP4 VDD\nP5 CLK\nP6 Vss2\nP7 DAT0\nP8 DAT1\nCD-1 Card Detect Switch\nCD-2 Card Detect Com.\nGND-1 Chassis GND\nGND-2 Chassis GND\nGND-3 Chassis GND\nGND-4 Chassis GND\nGND-5 Chassis GNDMemory Card Pin Assignment\n'}]
+!==============================================================================!
+Based on the provided information regarding the component CSD-8/2-MST145-95/R from E-TEC, here is a concise summary of its key characteristics and specifications:
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, such components operate within standard logic levels (e.g., 3.3V or 5V).
+- **Current Ratings**: Not specified; generally, low-power signals are expected.
+- **Power Consumption**: Not provided; likely low, typical for card detection switches.
+- **Operating Temperature Range**: Not mentioned; standard ranges for electronic components are usually -40°C to +85°C.
+- **Package Type**: Not specified; likely a surface mount or through-hole package based on typical designs.
+- **Special Features or Notes**: 
+  - **Switch States**: 
+    - CD-1: Card Detect Switch
+    - CD-2: Card Detect Common
+  - **Pin Assignments**: Includes pins for data lines (DAT0-DAT3), command (CMD), clock (CLK), power (VDD), and ground (Vss2).
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified; typically, this would be classified based on the package type and materials used.
+
+### Component Description:
+The CSD-8/2-MST145-95/R is a card detection switch designed for use in memory card applications. It functions primarily to detect the presence of a memory card when it is inserted into a card slot. The switch states indicate whether the card is present (closed) or absent (open), allowing the host device to manage power and data communication accordingly.
+
+### Typical Applications:
+- **Memory Card Interfaces**: Used in devices that require memory card access, such as cameras, smartphones, and other portable electronics.
+- **Data Storage Management**: Facilitates the detection of memory cards for data storage and retrieval operations.
+- **Power Management**: Helps in managing power consumption by enabling or disabling power to the card interface based on card presence.
+- **Consumer Electronics**: Commonly found in devices that utilize removable storage media.
+
+This summary provides a clear overview of the CSD-8/2-MST145-95/R component, its specifications, and its applications in electronic systems.

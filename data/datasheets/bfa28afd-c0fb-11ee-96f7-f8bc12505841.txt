@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PSD-BM-TB22G-210-55-9SW production of DECIGN from the text:A NEW 10.25.2023\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\nPAUL11.15.2023\n11.15.2023\n11.15.2023A\n0.20Tom\nJerryTom\n0.100.300.40\nBS2-xxx-TB22W-xx/2XXBS2-TB22W/22.00mm Pitch Female Header\n-SMT- Top & Bottom Entry\n2.20mm Profile\nContact polnt downslde\nSpecifications\nElectrical\nCurrent rating: 2A\nInsulation resistance: 1000 MΩ min.\nContact resistance: 20mΩ max.\nOperating temperature: - 40°C to + 105°C\nWithstanding voltage: 500V ACMaterial\nContact: Phosphor Bronze\nPlating: Gold, Tin or Duplex\n*Duplex = Tin on solder, Gold on contact area\nInsulator: PA9T (black) UL 94V-0\nOperating temperature: -40°C to +105°C\nProcessing temperature: +250°C +0/-5°C\nfor 5 seconds PSD-BM-TB22G-2XX-55-9SWOrder Code\n0.38\n2.0±0.10\nA  2.0*(PIN NO./2-1) ±0.30B  2.0*(PIN NO./2)+0.3 ±0.50PIN 0.5*0.15±0.08\n2.0±0.10\n4.0±0.201.1\nRECOMMENDED P.C.B LAYOUT.........\n100.398.02*50.........2*814.016.310.3\n12.3\n14.312.010.08.0\n2*72*62*52*46.08.36.34.02*34.32.02*2PIN\n NO.ADIMENSION\nB\n6.0±0.20 6.60±0.20\n2.60±0.201\n6.20±0.300.8±0.2∅ C  2.0*(PIN NO./2-2) ±0.30\n1.0±0.20\n2.50±0.252.20±0.15\n2 0.9\n7.21.75\n21.21\n1\nPDF      pdfFactory        www.fineprint.cn\n'}]
+!==============================================================================!
+### Component Summary for PSD-BM-TB22G-210-55-9SW
+
+#### Key Specifications:
+- **Voltage Ratings**: Withstanding voltage of 500V AC
+- **Current Ratings**: 2A
+- **Power Consumption**: Not explicitly stated; however, the current rating indicates the maximum current the component can handle.
+- **Operating Temperature Range**: -40°C to +105°C
+- **Package Type**: 2.20mm profile, SMT (Surface Mount Technology) with top and bottom entry
+- **Special Features/Notes**: 
+  - Insulation resistance of 1000 MΩ minimum
+  - Contact resistance of 20mΩ maximum
+  - Contact material is phosphor bronze with gold, tin, or duplex plating (tin on solder, gold on contact area)
+  - Insulator material is PA9T (black) with UL 94V-0 rating
+  - Processing temperature of +250°C ±0/-5°C for 5 seconds
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Component Description:
+The PSD-BM-TB22G-210-55-9SW is a surface mount female header connector designed for electronic applications. It features a 2.20mm profile and is suitable for top and bottom entry configurations. The connector is constructed with high-quality materials to ensure reliable electrical performance and durability.
+
+#### Typical Applications:
+This component is typically used in various electronic applications, including:
+- **Power Management**: Connecting power supplies to circuit boards.
+- **Signal Processing**: Facilitating connections between different circuit elements.
+- **Data Transmission**: Serving as a connector for data lines in communication devices.
+- **Consumer Electronics**: Utilized in devices such as computers, smartphones, and other electronic gadgets where compact and reliable connections are required.
+
+This summary provides a clear overview of the PSD-BM-TB22G-210-55-9SW connector, highlighting its specifications and typical use cases in electronic systems.

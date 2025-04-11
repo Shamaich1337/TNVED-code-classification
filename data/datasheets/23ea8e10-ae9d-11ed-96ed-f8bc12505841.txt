@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CAS-M00025-0033-5 production of E-TEC from the text:Cherry\nKent\nSH17.08.2017\n07.02.202307.02.2023CAS-M00025-0033-x\nCAS-M00025-0033-x1/1\nEWire Harness\n1.00mm Housing 20pin\nto\n1.00mm Housing 20pinP1L±10\nX±5\nPin 1 Pin 2\nPin 19Pin 20Pin 1 Pin 2\nPin 19Pin 20P2\n1 2 3 4 1\nP1 P2\n1 1\n22White\nWhite\nWhite\nWhite19\n2019\n20\nNo. Description Q\'TY1\n24020 2\nHousing: Pitch 1.00mm, 2*10P, TP-CRF-220-S100/1Terminal: Pitch 1.00mmLength=L+10mm, Drawing No. EH002801C-024  UL1061 28AWG Insulator Wire, White Jacket,H5SE07-0304W01 M3044\nBlack Heat Shrink Tube  ∅9.0*25mmBlack Reseau Tube On Cable, OD8.5, Length(X) A4GA08-0959\nA4HA17-0959M842\nM959 3 21\nM1023M1023\nA1RT30-1023A1RT31-1023Part No. Length "L" Length "X"\nCAS-M00025-0033-1 140 mm 126 mm\nCAS-M00025-0033-2 160 mm 146 mmCAS-M00025-0033-3 240 mm 226 mmCAS-M00025-0033-4 220 mm 206 mmCAS-M00025-0033-5 90 mm 76 mmREV. previous version this version DATE DRAWN\nAN e w 17.08.2017 Cherry\nB correct heat shrink tube 05.12.2017 Cherry\nC add length 160mm & 170mm 24.11.2021 Cherry\nadd length 220mm\nlength 170mm length 240mm\nE add length 90mm 07.02.2023 RyanD 30.03.2022 Cherry\n'}]
+!==============================================================================!
+### Component Summary for CAS-M00025-0033-5
+
+**Component Type:** Wire Harness
+
+**Description:**
+The CAS-M00025-0033-5 is a wire harness featuring a 1.00mm pitch housing with 20 pins. It is designed for electrical connections in various applications, providing a reliable means of interconnecting components. The harness includes insulated wires and heat shrink tubing for protection and durability.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not specified in the provided text.
+- **Current Ratings:** Not specified in the provided text.
+- **Power Consumption:** Not specified in the provided text.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Wire harness with 1.00mm pitch housing.
+- **Special Features or Notes:** 
+  - Includes UL1061 28AWG insulated wire with a white jacket.
+  - Features black heat shrink tubing with a diameter of 9.0mm and a length of 25mm.
+  - The harness is designed with a specific length (L) and an additional length (X) for different variants.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Typical Applications:**
+The CAS-M00025-0033-5 wire harness is typically used in:
+- **Power Management:** Connecting power supplies to various components.
+- **Signal Processing:** Facilitating communication between electronic devices.
+- **Data Storage:** Interfacing with storage devices in electronic systems.
+- **General Electronics:** Used in consumer electronics, automotive applications, and industrial equipment where reliable electrical connections are required.
+
+This wire harness is particularly useful in applications where space is limited and a compact, efficient connection is necessary. The specific lengths available (90mm for CAS-M00025-0033-5) allow for customization based on the requirements of the installation.

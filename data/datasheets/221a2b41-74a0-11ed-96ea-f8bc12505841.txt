@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of GN080120-P47 production of ELITE PHOTOELECTRIC TECH CO., LTD from the text:                                             GN080120 -P47 \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n1 / 5                 Add：Hezuo Road 333,  High Technology De velopment District (West), Chengdu,  P.R.China  8-12 GHz Power  Amplifier  Chip \nKey Features:  \n   Frequency ：8-12 GHz  \n   Typical Small Signal Gain ：30dB \n   Typical Output ：47dBm@ 28V \n   Power Added Efficiency ：48%    Offset：28V，-2.1V（Typical） \n   Static current:  2.8A \n Dimension ：3.5mm×5.3mm×0.08mm \n \nIntroduction  \nGN08 0120-P47 is 8-12GHz High Power Chip, it use s GaN HEMT Technology  and grounded through the \nhole on the back side. All products are tested by 100% radio frequency 。GN080120 -P47 works with dual power \nsupplies , Vds=28V, and provide 4 7dBm output power in 8 -12GHz , power gain is 19dB.  This chip can be used in \nwireless communication and T/R units.   \n \nMaximum Ratings (TA=25 ℃) \nSymbol  Parameter  Value  Mark  \nVd Drain V oltage  32V  \nVg Gate V oltage  -5V  \nPd Power Dissipation  130W  \nTch Channe l Temperature  225℃  \nTstg Storage Temperature  -55～175℃  \nTm Mounting Temperature  300℃ 1min，N2 Protection  \nTc Working  Temperature  -55~+85℃  \n[1] Higher than any values above may cause permanent damage 。 \n \nSpecifications  (TA=25℃)  \nSymbol  Parameter  Test conditio ns Values  \nUnit \nMin Typ Max \nG Small Signal Gain  Vd=28V, Vg= -2.1V \nIdq= 2.8A \n 8-12GHz  \n1 ms, 10%   30  dB \nGp Power Gain   19  dB \nPout Saturated Output Power   47  dBm  \nPAE Power Added Efficiency   48  ％ \n \n \n \n                                             GN080120 -P47 \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n2 / 5                 Add：Hezuo Road 333,  High Technology De velopment District (West), Chengdu,  P.R.China  Typical Performances  \nLinear Gain  \n \nInput VSWR  \n \nOutput Power  \n \n                                             GN080120 -P47 \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n3 / 5                 Add：Hezuo Road 333,  High Technology De velopment District (West), Chengdu,  P.R.China  Power Added E fficiency  \n \nId \n \nIg \n \n \n                                             GN080120 -P47 \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n4 / 5                 Add：Hezuo Road 333,  High Technology De velopment District (West), Chengdu,  P.R.China  Phase nonlinearit y \n \n2nd harmonic suppression  \n \nDimension (Unit: um)  \n \n                                             GN080120 -P47 \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n5 / 5                 Add：Hezuo Road 333,  High Technology De velopment District (West), Chengdu,  P.R.China  Assembly Diagram  \n \n'}]
+!==============================================================================!
+### Component Summary: GN080120-P47
+
+**Manufacturer:** ELITE PHOTOELECTRIC TECH CO., LTD  
+**Website:** www.emec.cn  
+**Contact:** Fax: +86-28-87425019, Tel: +86-28-87428329  
+**Address:** Hezuo Road 333, High Technology Development District (West), Chengdu, P.R. China  
+
+#### Key Specifications:
+- **Type:** Power Amplifier Chip
+- **Frequency Range:** 8-12 GHz
+- **Typical Small Signal Gain:** 30 dB
+- **Typical Output Power:** 47 dBm @ 28V
+- **Power Added Efficiency (PAE):** 48%
+- **Static Current:** 2.8 A
+- **Dimensions:** 3.5 mm x 5.3 mm x 0.08 mm
+
+#### Maximum Ratings (TA = 25°C):
+- **Drain Voltage (Vd):** 32 V
+- **Gate Voltage (Vg):** -5 V
+- **Power Dissipation (Pd):** 130 W
+- **Channel Temperature (Tch):** 225 °C
+- **Storage Temperature (Tstg):** -55 to 175 °C
+- **Mounting Temperature (Tm):** 300 °C for 1 min (N2 Protection)
+- **Working Temperature (Tc):** -55 to +85 °C
+
+#### Moisture Sensitive Level:
+- **JEDEC J-STD-020E:** Not specified in the provided text.
+
+### Description:
+The GN080120-P47 is a high-power amplifier chip designed for operation in the frequency range of 8-12 GHz. Utilizing Gallium Nitride (GaN) High Electron Mobility Transistor (HEMT) technology, this component is optimized for high efficiency and performance in demanding RF applications. The chip is grounded through a hole on the back side, which aids in thermal management and reliability.
+
+### Typical Applications:
+The GN080120-P47 is primarily used in:
+- **Wireless Communication:** Enhancing signal strength and quality in various communication systems.
+- **Transmitter/Receiver (T/R) Units:** Serving as a critical component in RF front-end designs for both transmitting and receiving signals.
+- **Power Management Systems:** Providing efficient amplification for power-sensitive applications.
+
+This component is particularly suitable for applications requiring high output power and efficiency, making it ideal for modern communication technologies and systems operating in the specified frequency range.

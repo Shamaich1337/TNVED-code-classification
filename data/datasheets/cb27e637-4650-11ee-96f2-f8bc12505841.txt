@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of NDNC01025-JF production of NEDITEK from the text:NDNC\n01025\n-\nJF\n \n33\n-\n37\nGHz \n \nPower Amplifier\n \nModule\n \n►\n \nFeatures\n \n \nF\nrequency: \n33\n~\n37\nGHz\n \n \nTypical \nSmall Signal\n \nGain: \n1\n9\ndB\n \n \nTypical Output Power: \n4\n0\n.5\ndBm@V\nd\n=2\n4\nV\n \n \nTypical PAE: 3\n0\n%\n \n \nBias Voltage: 2\n4\nV\n, \n2\nA\n \n \nOutline Dimention\n \n: \n19.2\nmm*\n9.15\nmm*\n1.84\nmm\n \n►\n \nGeneral Description\n \n \nThe\n \nNDNC01\n025\n-\nJF\n \nis \na \n33\n~\n3\n7\nGHz high performance p\nower amplifier \nmodule\n,\n \nwhic\nh\n \nuses \ndual\n \npower su\nppl\nies.\n \nT\nhe drain voltage Vd is 2\n4\nV\n.\n \nIt\n \ncan provide \n4\n0.5\ndBm output power at \n33\n~\n37\nGHz\n \nwith a PAE of 30%\n \nand \npower \ngain\n \nof \n12.5d\nB\n.\n \nThis \nmodule adopts \nh\nermetic \nmetal\n \nc\neramic \np\nackage\n \nwith kovar alloy leads\n.\n \nThe package surface \nis Ni\n-\nAu plated for high temperature brazing.\n \n►\n \nAbsolute Maximum Ratings\n1\n \nSymbol\n \nParameter\n \nValue\n \nRemark\n \nVd\ns\n \nDrain Voltage\n \n2\n8\nV\n \n \nVg\ns\n \nGage Voltage\n \n-\n10V\n \n \nIg\n \nGate Current\n \n100\nmA\n \n \nPin\n \nInput Power\n \n28\ndBm\n \n \nVSWRout\n \nOutput VSWR\n \n5:1\n \n \nTc\n \nOperating \nTemperature\n \n140\n℃\n \n \nTstg\n \nStorage Temperature\n \n-\n55\n～\n1\n2\n5\n℃\n \n \nESD \n \nESD Sensitivity, Human \nBody Model\n \nClass A\n \n \n1.\n \nExceeding any one or combination of these limits may cause permanent damage\n \n\nNDNC01\n0\n2\n5\n-\nJF\n \n3\n3\n-\n3\n7\nGHz \nPower Amplifier\n \nModule\n \n2\n \n/ \n4\n \n \nNEDI Technology Co.,Ltd\n \nwww.neditek.com\n \nTel: +86\n-\n25\n-\n86858581/2  Fax: +86\n-\n25\n-\n86858580\n \nEmail: \nsales@neditek.com\n \nAdd: No. 521 Zhongshan East Road, Nanjing, China\n \nNote: All the data provided in this datasheet is subject to change without \nnotice. \nT\nhe right is reserved to make changes to specifications and other \ninformation at any time\n \n►\n \nElectrical Characteristics\n(Ta=25\n℃\n)\n \n \nSymbol\n \nParameter\n \nTest \nCondition\n \nValue\n \nUnit\n \nMin.\n \nTyp.\n \nMax.\n \nG\n \nSmall Signal Gain\n \nV\nd\n: \n2\n4\nV\n，\nI\nd\nq\n=\n0\n.\n2\nA\n \nFreq\n:\n \n3\n3\n~\n3\n7\nGHz\n \n10% Duty Cycle\n \nT\n=\n1\nm\ns\n \n \n-\n \n1\n9\n \n-\n \ndB\n \nG\np\n \nPower Gain\n \n-\n \n1\n2\n.\n5\n \n-\n \ndB\n \nP\nsat\n \nSaturated\n \nPower\n \n-\n \n4\n0\n.\n5\n \n-\n \ndBm\n \nPAE\n \nPower Added Efficiency\n \n-\n \n30\n \n-\n \n％\n \n \n►\n \nTypical \nPerformance\n \nO\nu\nt\np\nu\nt\n \nP\no\nw\ne\nr\n \n \n \n \n \n \n \n \n \n \n\nNDNC01\n0\n2\n5\n-\nJF\n \n3\n3\n-\n3\n7\nGHz \nPower Amplifier\n \nModule\n \n3\n \n/ \n4\n \n \nNEDI Technology Co.,Ltd\n \nwww.neditek.com\n \nTel: +86\n-\n25\n-\n86858581/2  Fax: +86\n-\n25\n-\n86858580\n \nEmail: \nsales@neditek.com\n \nAdd: No. 521 Zhongshan East Road, Nanjing, China\n \nNote: All the data provided in this datasheet is subject to change without \nnotice. \nT\nhe right is reserved to make changes to specifications and other \ninformation at any time\n \nD\nr\na\ni\nn\n \nC\nu\nr\nr\ne\nn\nt\n \n \nP\nA\nE\n \n \n \n \n \n\nNDNC01\n0\n2\n5\n-\nJF\n \n3\n3\n-\n3\n7\nGHz \nPower Amplifier\n \nModule\n \n4\n \n/ \n4\n \n \nNEDI Technology Co.,Ltd\n \nwww.neditek.com\n \nTel: +86\n-\n25\n-\n86858581/2  Fax: +86\n-\n25\n-\n86858580\n \nEmail: \nsales@neditek.com\n \nAdd: No. 521 Zhongshan East Road, Nanjing, China\n \nNote: All the data provided in this datasheet is subject to change without \nnotice. \nT\nhe right is reserved to make changes to specifications and other \ninformation at any time\n \n►\n \nOutline Drawing (mm)\n \n \n \nP\ninout Diagram\n \n \nPinout No.\n \nParameter\n \nPinout No.\n \nRemark\n \n1\n,\n2\n \nGate (Vg)\n \n8\n,\n9\n \nD\nrain (Vd)\n \n3\n,\n4\n,\n5\n \nRF input (RFin)\n \n1\n0\n,\n1\n1\n,\n1\n2\n \nRF\n \noutput (RFout)\n \n6\n,\n7\n \nGate (Vg)\n \n1\n3\n,\n1\n4\n \nD\nrain (Vd)\n \n \n \n \n \n \nR\ne\nc\no\nm\nm\ne\nn\nd\ne\nd\n \nC\na\np\na\nc\ni\nt\no\nr\n \nN\no\n.\n \nV\na\nl\nu\ne\n \nC\n1\n \n1\n0\nu\nF\n \nC\n2\n \n1\nu\nF\n \nC\n3\n \n1\n0\n0\n0\np\nF\n \nVg\n \nVd\n \nVg\n \nVd\n \n'}]
+!==============================================================================!
+### Component Summary: NDNC01025-JF Power Amplifier Module
+
+**Key Specifications:**
+- **Voltage Ratings:**
+  - Drain Voltage (Vd): 24 V (Absolute Maximum: 28 V)
+  - Gate Voltage (Vg): -10 V
+- **Current Ratings:**
+  - Drain Current (Id): 2 A (Typical)
+  - Gate Current (Ig): 100 mA
+- **Power Consumption:**
+  - Typical Output Power: 40.5 dBm
+  - Power Added Efficiency (PAE): 30%
+- **Operating Temperature Range:**
+  - Operating Temperature (Tc): Up to 140 °C
+  - Storage Temperature (Tstg): -55 °C to 125 °C
+- **Package Type:**
+  - Hermetic metal ceramic package with Kovar alloy leads
+  - Dimensions: 19.2 mm x 9.15 mm x 1.84 mm
+- **Special Features or Notes:**
+  - Ni-Au plated surface for high-temperature brazing
+  - ESD Sensitivity: Class A (Human Body Model)
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+**Description:**
+The NDNC01025-JF is a high-performance power amplifier module designed for operation in the frequency range of 33 to 37 GHz. It is engineered to deliver significant output power while maintaining efficiency, making it suitable for various RF applications. The module utilizes dual power supplies and is packaged in a hermetic metal ceramic enclosure, ensuring reliability and performance in demanding environments.
+
+**Typical Applications:**
+This power amplifier module is typically used in:
+- **Telecommunications:** Enhancing signal strength in communication systems operating at microwave frequencies.
+- **Radar Systems:** Providing the necessary amplification for radar signal transmission.
+- **Satellite Communications:** Amplifying signals for satellite uplinks and downlinks.
+- **Test Equipment:** Used in RF test setups for measuring and analyzing high-frequency signals.
+
+The NDNC01025-JF is ideal for applications requiring robust performance in high-frequency environments, particularly where space and thermal management are critical.

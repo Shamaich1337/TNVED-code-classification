@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ER10450S production of AKKU TRONICS NEW ENERGY TECH. CO., LTD. from the text:Specification ER10450S Lithium Thionyl Chloride Battery P/N: 10-46-LR  \n \n AAA Low rate     Electrical Characteristics Nominal capacity                                          700mAh Open circuit voltage (23±2℃)                                    ≥3.6V Constant discharge current  15mA (Nominal) 25mA (Max.) Operating temperature                                       -40~+150℃ Self-discharge rate ＜2% per year    Physical Characteristics Cell size                                         AAA Diameter                                          10.8mm Height 46.0mm Weight    10.0g Fuse No Parallel diode                              No                                                                                                Please consult with Akku Tronics for further information.                                                                                              www.akkutronics.com   Akku Tronics New Energy Technology Co., Ltd The right lithium battery solution  \n●  Low current downhole oil & gas tool ●  Sensor system ●  Animal telemetry ●  Tracking system ●  Memory back-up   l High energy density ●   High single cell voltage ●   Low rate ●   Stable operating voltage ●   High operating temperature ●   Low self-discharge rate  ●   UN38.3 for transportation  \nKey Features Main applications \nThe right lithium battery solution \nDischarge curve Cell Drawing \nCapacity/mAh \nVoltage/V \n2.02.53.03.54.0\n0200400600800100015mA at150℃φ10.8Max \n46.0Max \n44.5Max \n'}]
+!==============================================================================!
+### Component Summary: ER10450S Lithium Thionyl Chloride Battery
+
+**Manufacturer:** Akku Tronics New Energy Tech. Co., Ltd.  
+**Product Code:** ER10450S  
+**Part Number:** 10-46-LR  
+
+#### Key Specifications:
+- **Nominal Capacity:** 700 mAh
+- **Open Circuit Voltage (at 23±2℃):** ≥ 3.6 V
+- **Constant Discharge Current:**
+  - Nominal: 15 mA
+  - Maximum: 25 mA
+- **Operating Temperature Range:** -40℃ to +150℃
+- **Self-Discharge Rate:** < 2% per year
+- **Cell Size:** AAA
+- **Diameter:** 10.8 mm
+- **Height:** 46.0 mm
+- **Weight:** 10.0 g
+- **Fuse:** No
+- **Parallel Diode:** No
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The ER10450S is a Lithium Thionyl Chloride (Li-SOCl2) battery designed for low-rate applications. It features a high energy density and stable operating voltage, making it suitable for various electronic devices. The battery is characterized by its ability to operate in extreme temperatures, ranging from -40℃ to +150℃, and has a low self-discharge rate, ensuring longevity and reliability in applications where maintenance is challenging.
+
+#### Typical Applications:
+The ER10450S battery is commonly used in:
+- **Low Current Downhole Oil & Gas Tools:** Providing reliable power in harsh environments.
+- **Sensor Systems:** Ideal for remote sensing applications where long battery life is crucial.
+- **Animal Telemetry:** Used in tracking devices for wildlife monitoring.
+- **Tracking Systems:** Suitable for GPS and other tracking technologies.
+- **Memory Backup:** Ensures data retention in electronic devices during power outages.
+
+This battery is particularly advantageous in applications requiring high energy density and stable performance over extended periods, making it a preferred choice for critical and remote operations.

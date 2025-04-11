@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of APT-6DD24 production of WAIN ELECTRICAL from the text:WAIN\n14-02\nHDD inserts with PCB-adapter\nHDD inserts with PCB-adapter\nLayout of PCB\n4.54.5\n5x4.5=22.54.5\nH24DD H42DD\nH72DD H108DD5x4.5=22.5\n3x4.5=13.54.5\n4.5\n5x4.5=22.54.5\n5x4.5=22.511x4.5=49.5\n4.5\n17x4.5=76.54.5\n6x4.5=27DIN EN 60 664\nDIN EN 61 984\nNumber of contacts\nElectrical data acc. to EN 61 984 \n   -Rated current\n   -Rated voltage \n   -Rated impulse voltage \n   -Pollution degree\nRated voltage acc. to UL\nTesting voltage Ueff\nInsulation resistance\nMaterial \nLimiting temperatures\nFlammability acc. to UL 94\nMechanical working life(mating cycles)Specifications\nApprovalsTechnical characteristics\ninserts\n24,42,72,108\n7.5A\n250V\n4kV\n3\n250V\n2kV\n≥1010Ω\npolycarbonate\n-40℃...+125℃\nV0\n≥500\n\nWAIN\n14-03HE-006 插芯HDD inserts with PCB-adapter\nHoods/Housings\nHoods: further information see chapter DDBulkhead mounted housings: further information see chapter DDSize\nH6BH10BH16BH24BH6BH10BH16BH24BDesignation\nHDD-024-MCHDD-042-MCHDD-072-MCHDD-108-MCHDD-024-FCHDD-042-FCHDD-072-FCHDD-108-FCOrder No. \n126 024 010 0001126 042 010 0001126 072 010 0001126 108 010 0001126 024 020 0001126 042 020 0001126 072 020 0001126 108 020 0001HDD insert\nInsert\nMale\nFemaleAssembly situationHDD inserts with PCB-adapter\nDistance for contact \nmax. 21 mm.\n5x4.5=22.5\n280.6Ma\nM3x1027\n34\n1.21.2F\nb\na8.5\n19.51)\nContact\nMaleFemaleDesignation\nCDSM-P1.0CDSF-P1.0Order No. \n101 017 114 0001101 017 124 0001HDD double contact\nM5\n303.2\n1\n1.6\nF5\n29.53.5\n1PCB adapterPrinted circuit board (PCB)\nSwitch board panel\nHDD double contact\nHDD\x01insertbulkhead mounted housing\nSize\n24DD42DD72DD\n108DDa\n4457\n77.5\n104b\n5164\n84.5\n111\nDesignation\nAPT-6DD16APT-6DD24a\n2.63.4\nDescription\nfor PCBs up to 1.6mmfor PCBs up to 2.4mmDesignation\nAPT-6DD16APT-6DD24Order No. \n198 002 007 0002198 002 007 0004PCB adapter\nA\n'}]
+!==============================================================================!
+### Component Summary for APT-6DD24
+
+**Component Type:** PCB Adapter
+
+**Description:**
+The APT-6DD24 is a PCB adapter designed for connecting HDD inserts to printed circuit boards (PCBs) with a maximum thickness of 2.4 mm. It is part of a series of HDD inserts that facilitate the integration of HDD connectors into electronic systems, ensuring reliable electrical connections.
+
+### Key Specifications:
+- **Voltage Ratings:**
+  - Rated Voltage: 250V
+  - Rated Voltage according to UL: 250V
+  - Testing Voltage (Ueff): 2kV
+  - Rated Impulse Voltage: 4kV
+
+- **Current Ratings:**
+  - Rated Current: 7.5A
+
+- **Power Consumption:** Not specified directly; however, the current rating indicates the maximum load the adapter can handle.
+
+- **Operating Temperature Range:**
+  - Limiting Temperatures: -40°C to +125°C
+
+- **Package Type:** PCB adapter for HDD inserts
+
+- **Special Features or Notes:**
+  - Insulation Resistance: ≥ 10^10 Ω
+  - Material: Polycarbonate
+  - Flammability Rating: V0 (according to UL 94)
+  - Mechanical Working Life (Mating Cycles): ≥ 500 cycles
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+### Typical Applications:
+The APT-6DD24 PCB adapter is typically used in applications where HDD connectors need to be integrated into electronic devices. This includes:
+- **Data Storage Solutions:** Connecting hard disk drives to motherboards or other electronic systems.
+- **Industrial Equipment:** Used in machinery that requires reliable data transfer from HDDs.
+- **Consumer Electronics:** Integration in devices such as computers, servers, and other digital storage systems.
+
+This component is essential for ensuring stable and efficient connections in various electronic applications, particularly where HDDs are involved.

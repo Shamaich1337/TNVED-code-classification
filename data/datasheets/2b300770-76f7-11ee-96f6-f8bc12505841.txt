@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of GNI027031-P54 production of ELITE PHOTOELECTRIC TECH CO., LTD from the text:                                              GNI027031 -P54 \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n1 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  2.7-3.1GHz IMFET  \nKey Features:  \n   Frequency : 2.7-3.1 GHz  \n   Power  Gain : 12dB \n   Typical Output : 54dBm     Power Added Efficiency : 55% \n   Offset : 50V \n   Package  Type : Cermet\n \nDescription  \nGNI027031 -P54 is 2.7-3.1GHz high power  and efficiency GaN IMFET po wer transistor, using 0.25um gate \nlength GaN H FET technology . It works with dual power supply, Vds= 50V，and can provide  54dBm  output power \nin 2.7-3.1GHz，power gain is  12dB，power added efficiency is 55%. \n \nMaxim um Ratings (TA=25℃)  \nSymbol  Paramet er Value Mark  \nVd Drain V oltage  60V  \nVg Gate V oltage  -3V  \nTch Channel Temperature  175℃ [1] \nTm Mounting Temperature  200℃ 30s, N2 Protection  \nTstg Storage Temperature  -65～175℃  \n[1] Higher than any values above may cause permanent damage . \n \nSpecifications  (TA=25℃)  \nSymbo l Parameter  Values  \nUnit \nMin Typ Max \nPout Output Power  55 - - dBm  \nGp Power Gain  12 - - dB \n△Gp Gain Flatness  -0.8 - +0.8 dB \nηPAE Power Added Efficiency  - 55 - ％ \nId  Working Current  - 10.9 - A \nTest Conditions: Vd= 50V; F=2.7-3.1GHz; 200us, 20%, Pin=42dBm ; \n \n                                              GNI027031 -P54 \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n2 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  Typical Per formances  \nPout  \n \nPAE \n \n \nDimension (Unit: m m) \n \n                                              GNI027031 -P54 \nWeb：www.emec.cn        Fax：+86-28-87425019        Tel：+86-28-87428329  \n3 / 3                 Add：Hezuo Road 333,  High Technology Development District (West), Chengdu,  P.R.China  Recommen ded Circuit  \n \nNote：C1=8pF ; C2=1000pF ; C3=100 pF ; Rp=51 Ω ; Rg=15Ω ; \n'}]
+!==============================================================================!
+### Component Summary: GNI027031-P54
+
+**Manufacturer:** ELITE PHOTOELECTRIC TECH CO., LTD  
+**Website:** www.emec.cn  
+**Contact:** Fax: +86-28-87425019, Tel: +86-28-87428329  
+**Address:** Hezuo Road 333, High Technology Development District (West), Chengdu, P.R. China  
+
+#### Key Specifications:
+- **Frequency Range:** 2.7 - 3.1 GHz
+- **Output Power:** 54 dBm (typical), up to 55 dBm (maximum)
+- **Power Gain:** 12 dB
+- **Power Added Efficiency (PAE):** 55%
+- **Drain Voltage (Vd):** 50V (maximum rating 60V)
+- **Gate Voltage (Vg):** -3V (maximum rating)
+- **Working Current (Id):** 10.9 A
+- **Channel Temperature (Tch):** 175°C (maximum rating)
+- **Storage Temperature (Tstg):** -65 to 175°C
+- **Mounting Temperature (Tm):** 200°C for 30 seconds (N2 protection)
+- **Package Type:** Cermet
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The GNI027031-P54 is a high-power and high-efficiency Gallium Nitride (GaN) Integrated Metal-Ferroelectric Transistor (IMFET) designed for operation in the frequency range of 2.7 to 3.1 GHz. Utilizing advanced 0.25 µm gate length GaN Heterojunction Field-Effect Transistor (HFET) technology, this component is capable of delivering significant output power while maintaining a high level of efficiency.
+
+#### Typical Applications:
+The GNI027031-P54 is primarily used in applications requiring high power amplification, such as:
+- **Telecommunications:** For base stations and RF power amplifiers in mobile communication systems.
+- **Radar Systems:** In military and civilian radar applications where high-frequency signals are essential.
+- **Broadcasting:** For transmitting signals in various broadcasting applications.
+- **Industrial Equipment:** In systems that require robust power amplification for signal processing.
+
+This component is particularly suited for environments where high efficiency and power output are critical, making it ideal for modern communication and radar technologies.

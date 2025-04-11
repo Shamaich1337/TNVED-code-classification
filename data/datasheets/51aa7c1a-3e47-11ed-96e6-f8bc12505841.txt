@@ -1,0 +1,35 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of CAS-M025-HNS-0281 production of E-TEC from the text:Wire Harness\n2.00mm Housing 6pin\nto\n3.00mm Housing 4pin+Ring Terminal\n, L=185+235mmRoHS\ncompliant\n SHEET UNITmm\nFree  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.GENERAL TOLERANCE\n0 ~ 200mm  ->  ±10mm\n201 ~ 1000mm  ->  ±20mm\n1001 ~ 1500mm  ->  ±25mm\n1501 ~ 2100mm  ->  ±30mm\n2100mm↑->  ±40mmCherry\nKent\nSH04.08.2022\n04.08.202204.08.2022CAS-M025-HNS-0281\nCAS-M025- HNS-02811/1\nABlack\n2\n31\nGreen\nWhiteYellowP1\n4\n62\n31P2\n4\nBlue  TerminalP3P1P2\nP3105110185\n155\n235#1\n#6#1\n#4\n1 2\n34∅ 4.30\nItem Description Q'TY\nHousing: Pitch 2.00mm, CRF-106-SH200 1Terminal: CRF-999/30-SH200-99 5Housing: Pitch 3.00mm, PCF-104-W300 1Terminal: PCF-999/22-W300-99 4\n3 Terminal: Φ4.30, Red Coat 1\n4 UL1007 22AWG Insulator Wire 51\n2Knot\n"}]
+!==============================================================================!
+### Component Summary for CAS-M025-HNS-0281
+
+**Component Type:** Wire Harness
+
+**Description:**
+The CAS-M025-HNS-0281 is a wire harness designed for electrical connections in various applications. It features a combination of connectors with different pitches, specifically a 2.00mm housing with 6 pins and a 3.00mm housing with 4 pins, along with a ring terminal. The harness is constructed with UL1007 22AWG insulated wire, ensuring reliable electrical performance and compliance with safety standards.
+
+**Key Specifications:**
+- **Housing Configuration:** 
+  - 2.00mm Pitch, 6-pin housing (CRF-106-SH200)
+  - 3.00mm Pitch, 4-pin housing (PCF-104-W300)
+- **Wire Type:** UL1007, 22AWG
+- **Wire Lengths:** 
+  - 185mm (for 2.00mm housing)
+  - 235mm (for 3.00mm housing)
+- **Ring Terminal Diameter:** Φ4.30mm
+- **RoHS Compliance:** Yes
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+**Operating Temperature Range:** Not specified in the provided text.
+
+**Special Features:**
+- The harness is RoHS compliant, indicating it is free from hazardous substances.
+- The design includes a combination of different housing pitches, allowing for versatile connectivity options.
+
+**Typical Applications:**
+The CAS-M025-HNS-0281 wire harness is typically used in:
+- **Power Management:** Connecting power supplies to various components in electronic devices.
+- **Signal Processing:** Facilitating signal transmission between different parts of a system.
+- **Automotive Applications:** Often used in automotive wiring systems for connecting sensors, actuators, and control units.
+- **Consumer Electronics:** Commonly found in devices requiring reliable electrical connections, such as computers, appliances, and other electronic gadgets.
+
+This wire harness is essential for ensuring efficient and safe electrical connections in a variety of applications, making it a critical component in many electronic systems.

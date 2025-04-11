@@ -1,0 +1,52 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TX-5060RGBW20FC120-NUVCNG-02A production of GUANGZHOU TIANXIN PHOTOELECTRIC CO., LTD from the text:http://www.txled.cn Version:1.0PartNo.TX-5060RGBW20FC120-NUVCNG-02A SpecNo.WKF-BE0873Page1of10TX-5060RGBW20FC120-NUVCNG-02A\nPRODUCTSPECIFICATION\nFeatures:\n◆ExcellenttransitingheatfromLEDchipoperatingunderR:1200GB:1500W:2000mA\n◆Highluminousoutput\n◆NoUV\n◆Encapsulatedmaterialsareenvironmentallycertifiedandmeetenvironmentalrequirements.\nChipMaterial: EmittingColor: Applications:\n◆Red:AlInGaP ◆Red ◆Auxiliarylighting\n◆Green:GaInN ◆Green ◆Ambientlighting\n◆Blue:GaInN ◆Blue ◆Architecturallighting\n◆White:GaInN ◆White ◆Entertainmentlighting\nhttp://www.txled.cn Version:1.0PartNo.TX-5060RGBW20FC120-NUVCNG-02A SpecNo.WKF-BE0873Page2of10PackageDimensions:\n0.4\n1.10R-R+G-G+\nW+W-B+B-\n3.25±0.054.05±0.05\n1.271.271.27R0.3\n4.70±0.055.80±0.05\n4.70±0.054.05±0.054.70±0.05\n2.16\n2.160.810.870.870.800.80\n4.54±0.05GR\nBW\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesunlessotherwisementionedare±0.1mm.\nhttp://www.txled.cn Version:1.0PartNo.TX-5060RGBW20FC120-NUVCNG-02A SpecNo.WKF-BE0873Page3of10AbsoluteMaximumRatings(Tc=25℃)\nNotes:\n1.Specificationsaresubjecttochangewithoutnotice.\n2.UnderthestipulatedCharacteristicsparametersabove,thelifespanoftheLEDismorethan50,000hours.\n3.Thedataonthisspecificationisforreferenceonlyandtheactualdataisinaccordancewiththe\nacknowledgment.\n4.PrecautionsforESD:\nSTATICSHIELDElectricityandsurgedamagestheLED.Itisrecommendedtouseawristbandor\nanti-electrostaticglovewhenhandlingtheLED.Alldevices,equipmentandmachinerymustbeproperly\ngrounded.Parameter Symbol MaxRatings Unit\nForwardCurrent IFR 1200\nmAG 1500\nB 1500\nW 2000\nReverseVoltage VR 5 V\nPowerDissipation PDR 5100\nmWG 5850\nB 5700\nW 7600\nJunctionTemperature TjR 115\n℃G 150\nB 150\nW 150\nElectrostaticDischargeThreshold(ESD) ESD 2000 V\nStorageTemperature Tstg -20~65\n℃\nOperationTemperature Topr -40~100\nhttp://www.txled.cn Version:1.0PartNo.TX-5060RGBW20FC120-NUVCNG-02A SpecNo.WKF-BE0873Page4of10ElectricalOpticalCharacteristics(Tc=25°C)\nParameter SymbolConditionEmitting\nColorMin.Typ.Max.Units\nLuminousFlux φv\nIf(R)=1.2A\nIf(GBW)=1.5AR 85 105 125\nlmG 260 290 320\nB 43 50 57\nW 356 396 436\nDominantWavelength λdR 621 626 631\nnm G 519 524 529\nB 448 453 458\nPeak-emissionWavelength λpR 634 639 644\nnmG 513 518 523\nB 443 448 453\nSpectralLineHalf-Width △λR 13 16 19\nnmG 29 34 39\nB 18 21 24\nW 27 35 43\nForwardVoltage VfR 2.4 2.7 3.1\nVG 3.3 3.7 4.0\nB 3.2 3.6 4.0\nW 3.2 3.6 4.0\nCorrelatedColour\nTemperatureCCT If=1.0A W 6000 6720 7000 K\nReverseCurrent IRVR=5VR — — 2\nµAG — — 2\nB — — 2\n— WNotdesignedforreverse\noperation\nViewingAngleat50﹪IV 2θ1/2 — — — 120 — Deg\nThermalResistanceJunction\ntoCaseRθJ-C — — — 0.8 — K/W\nTemperatureCoefficientof\nVoltageV△F/TIf(R)=1.2A\nIf(GBW)=1.5AR — -1 —\nmV/℃G — -4.9 —\nB — -2.5 —\nW — -1.9 —\nhttp://www.txled.cn Version:1.0PartNo.TX-5060RGBW20FC120-NUVCNG-02A SpecNo.WKF-BE0873Page5of10WhitelightColorcoordinatefilingIF=1000mA\nRegionCCTRange\nX1 Y1 X2 Y2 X3 Y3 X4 Y4\nMin Max\n1C 6000 6500 0.32160.33800.31280.32900.31120.34010.32070.3499\n1A 6500 7000 0.31360.32350.30660.31570.30400.32850.31170.3369\nNotes:\n1.LuminousintensityismeasuredwithalightsensorandfiltercombinationthatapproximatestheCIE\neye-responsecurve.\n2.θ1/2istheoff-axisangleatwhichtheluminousintensityishalftheaxialluminousintensity.\n3.Thedominantwavelength(λd)isderivedfromtheCIEchromaticitydiagramandrepresentsthesingle\nwavelengthwhichdefinesthecolorofthedevice.\n4.Luminousfluxmeasurementtolerance:±15%.\n5.Forwardvoltagemeasurementtolerance:±0.15V.\nhttp://www.txled.cn Version:1.0PartNo.TX-5060RGBW20FC120-NUVCNG-02A SpecNo.WKF-BE0873Page6of10TypicalElectrical/OpticalCharacteristicsCurves\n(25℃AmbientTemperatureUnlessOtherwiseNoted)\n Forward Current VS.Forward Voltage\nForward Current IF(mA)Forward Voltage Vf(V)\nRed\nGreen\nBlue\nWhite\n2.0\n0 300 600 900 120015002.42.83.23.6\n18002100\n0300 600 900 1200 15004080120160200240280320360\nForward Current  If (mA)Luminous flux(Lm)Forward Current VS.Luminous flux\nRed\nGreen\nBlue\nWhite400440480\n1800 2100\nhttp://www.txled.cn Version:1.0PartNo.TX-5060RGBW20FC120-NUVCNG-02A SpecNo.WKF-BE0873Page7of10Temperature  VS. Forward Voltage IF(R)=1200mA IF(GBW)=1500mAForward voltage  Vf (V)\n25 45 65 85 105 125\nTemperature (℃)3.8\n2.02.22.42.62.83.03.23.43.6\nRed\nGreen\nBlue\nWhite\nTemperature  VS.  Relative Luminous Flux  IF(R)=1200mA IF(GBW)=1500mARelative Luminous Flux (%)\n20406080100120\n25 45 65 85 105 125\nTemperature (℃)Red\nGreen\nBlue\nWhite\nhttp://www.txled.cn Version:1.0PartNo.TX-5060RGBW20FC120-NUVCNG-02A SpecNo.WKF-BE0873Page8of10380.0 420.0 460.0 500.0 540.0 580.0 620.0 660.0 700.0 740.0 780.00.0000.1000.2000.3000.4000.5000.6000.7000.8000.9001.0001.100SpectrumRelative Spectral Distribution\nSpectral Radiance: Red Peak@639nm                    Green Peak@518nm                    Blue Peak@448nm\nWavelength (nm)Red Green Blue WhiteRelative Spectral Distribution\n-60°\n0.8-90°\n1.0 0.60.4-30°\n60°\n0.6 0.2 0.2 0.4 0.81.090°0°\n30°Beam Pattern\nRelative intensity(LOP@ MAX=1)\nNotes:\n1.2θ1/2istheoffaxisanglefromlampcenterlinewheretheluminousintensityis1/2ofthepeakvalue.\n2.Viewangletoleranceis±5°.\nhttp://www.txled.cn Version:1.0PartNo.TX-5060RGBW20FC120-NUVCNG-02A SpecNo.WKF-BE0873Page9of10UsagePrecautions\nStorageEnvironmentCondition\nTemperature:5℃~30℃(41℉~86℉)\nHumidity:60%RHMax.\nSolderingCondition\nUsetheconditionsshowntotheunderfigure.\nt\ntLP\nt 25℃ to Peak\nTimets PreheatTSminTSmaxRamp-UPCritical Zone\nT  to TP L\nRamp-downT\nTP\nL\n25Temperature\nProfileFeature Lead-BasedSolder\nAverageRamp-UpRate(TsmaxtoTp) 3℃/secondmax.\nPreheat:TemperatureMin(Tsmin) 100℃\nPreheat:TemperatureMax(Tsmax) 150℃\nPreheat:Time(TsmintoTsmax) 60-120seconds\nTimeMaintainedAbove:Temperature(TL) 183℃\nTimeMaintainedAbove:Time(TL) 60-150seconds\nPeak/ClassificationTemperature(TP) 225℃\nTimeWithin5℃ofActualPeakTemperature(TP) 10-30seconds\nRamp-DownRate 6℃/secondmax.\nTime25℃toPeakTemperature 6minutesmax.\nNote:\nAlltemperaturesrefertotopsideofthepackage,measuredonthepackagebodysurface.\nhttp://www.txled.cn Version:1.0PartNo.TX-5060RGBW20FC120-NUVCNG-02A SpecNo.WKF-BE0873Page10of10DimensionsForCannulationAndPackaging\nQuantity:500PCS\nB-B+W-W+\nG+G-R+R-\n12.001.75 5.504.002.00\n4.95 8.00Φ1.55\n6.000.30\n1.45\nPackagemethod(units:mm):\n12.4±1 Φ180±113±0.2\nNotes:\n1.Alldimensionsareinmillimeters.\n2.Tolerancesare±2.0mmunlessotherwisenoted.\n3.Theproductsarepackagedtogetherwithsilicagel,Transport,nottotheweightofweldingLED\nlight-emittingarea,AsaresultoftheweightofLEDlight-emittingzoneinthequalityof,Irresponsibleofthe\nCompany.\n'}]
+!==============================================================================!
+### Component Summary: TX-5060RGBW20FC120-NUVCNG-02A
+
+**Manufacturer:** GUANGZHOU TIANXIN PHOTOELECTRIC CO., LTD  
+**Product Code:** TX-5060RGBW20FC120-NUVCNG-02A  
+**Version:** 1.0
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Forward Voltage (Red): 2.4V to 3.1V
+  - Forward Voltage (Green): 3.3V to 4.0V
+  - Forward Voltage (Blue): 3.2V to 4.0V
+  - Forward Voltage (White): 3.2V to 4.0V
+  - Reverse Voltage: 5V
+
+- **Current Ratings:**
+  - Forward Current (Red): 1200 mA
+  - Forward Current (Green): 1500 mA
+  - Forward Current (Blue): 1500 mA
+  - Forward Current (White): 2000 mA
+
+- **Power Consumption:**
+  - Power Dissipation (Red): 5100 mW
+  - Power Dissipation (Green): 5850 mW
+  - Power Dissipation (Blue): 5700 mW
+  - Power Dissipation (White): 7600 mW
+
+- **Operating Temperature Range:**
+  - Storage Temperature: -20°C to 65°C
+  - Operating Temperature: -40°C to 100°C
+
+- **Package Type:** 5060 (dimensions in mm)
+
+- **Special Features:**
+  - High luminous output
+  - No UV emissions
+  - Environmentally certified encapsulated materials
+  - ESD protection threshold: 2000V
+
+- **Moisture Sensitive Level (MSL):** Not specified in the provided data.
+
+#### Description:
+The TX-5060RGBW20FC120-NUVCNG-02A is a high-power LED component that features a combination of red, green, blue, and white light-emitting diodes (LEDs) encapsulated in a single package. This component is designed for applications requiring high luminous output and efficient thermal management, making it suitable for various lighting applications.
+
+#### Typical Applications:
+- **Auxiliary Lighting:** Used in environments where additional lighting is needed.
+- **Ambient Lighting:** Ideal for creating mood lighting in residential and commercial spaces.
+- **Architectural Lighting:** Suitable for enhancing the aesthetics of buildings and structures.
+- **Entertainment Lighting:** Commonly used in stage lighting, concerts, and events to create dynamic lighting effects.
+
+This LED component is particularly useful in applications where color mixing and high brightness are essential, such as in decorative lighting, signage, and display technologies. Its robust design and high efficiency make it a versatile choice for modern lighting solutions.

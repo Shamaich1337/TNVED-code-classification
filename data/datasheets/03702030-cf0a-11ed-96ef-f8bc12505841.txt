@@ -1,0 +1,49 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of DG35NA100 production of YANGZHOU YANGJIE ELECTRONIC from the text:DG35NA100 THRU DG35NA160 \xa0\n\xa0\n 1 / 4 \n   Yangzhou Yangjie Electronic Technology Co., Ltd.  \n S-B2331 \nRev.1.1,11-Apr-22 www.21yangjie.com\nThree Phase  Bridge Rectifiers \n \n                   Features \n● Thin single in-line package \n● Glass passivated chip junction ● High surge current capability ● Solder dip 275 °C max . 7 s, per JESD 22-B106 \n \n                                      Typical Applications \nGeneral purpose use in AC/DC bridge full wave rectification for switching power supply, home appliances, office  \nequipment, industrial auto mation applications. \n \n  Mechanical Data \n● Package : 3GBJ \nMolding compound meets UL 94 V-0 flammability \nrating, RoHS-compliant \n● Terminals : Tin plated leads, solderable per   \nJ-STD-002 and JESD22-B102 \n● Polarity: As marked on body\n■Maximum Ratings  (Ta=25℃ Unless otherwise specified ） \nPARAMETER SYMBOL UNIT DG35NA100 DG35NA120 DG35NA140 DG35NA160 \nDevice marking code   DG35NA100 DG35NA120 DG35NA140 DG35NA160 \nMaximum Repetitive Peak Reverse Voltage VRRM  V 1000 1200 1400 1600 \nMaximum RMS Voltage VRMS V 700 840 980 1120 \nMaximum DC blocking Voltage VDC V 1000 1200 1400 1600 \nAverage rectified output \ncurrent @60Hz sine wave,  R-load, With heatsink  Tc =110℃  IO A 35.0 \nWithout heatsink  Ta =25℃  3.5 \nForward Surge Current (Non-repetitive) \n@60Hz Half-sine wave,1 cycle, Tj=25 ℃ IFSM  A 400 \nForward Surge Current (Non-repetitive) \n@1ms, square wave, 1 cycle, Tj=25 ℃ 800 \nCurrent squared time  \n@1ms≤t≤8.3ms Tj=25 ℃, Rating of per diode I2t A2s 664 \nStorage temperature Tstg ℃ -55 ~ +150 \nJunction temperature Tj ℃ -55 ~ +150 \nDielectric strength  \n@ Terminals to case, AC 1 minute Vdis KV 2.5 \nMounting torque  \n@Recommend torque ：5kgꞏcm Tor kgꞏ cm 8 \n \n  \n \n  \n \n  COMPLIANT RoHS  \n①②③④⑤\n]åz\x0bh7TÁ\nDG35NA100 THRU DG35NA160 \xa0\n\xa0\n 2 / 4 \n   Yangzhou Yangjie Electronic Technology Co., Ltd.  \n S-B2331 \nRev.1.1,11-Apr-22 www.21yangjie.com\n■Electrical Characteristics （Ta=25℃ Unless otherwise specified ） \nPARAMETER SYMBOL UNIT TEST \nCONDITIONSDG35NA100 DG35NA120 DG35NA140 DG35NA160 \nMaximum instantaneous forward \nvoltage drop per diode VF V IFM=17.5A 1.1 \nMaximum DC reverse current at \nrated DC blocking voltage per \ndiode IR μA Tj =25℃ 5 \nTj =125℃ 500 \n \n■Thermal Characteristics （Ta=25℃ Unless otherwise specified ） \nPARAMETER SYMBOL UNIT DG35NA100 DG35NA120 DG35NA140 DG35NA160 \nThermal \nResistance Between junction and ambient,  \nWithout heatsink RθJ-A \n℃/W22.0 \nBetween junction and case,  With heatsink RθJ-C 0.8 \nNote: Device mounted on 75mm x 45mm x 5.5mm Aluminum Plate Heat sink. \n \n■ Characteristics (Typical)  \n \n \n \n \n \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n 800FIG1:Io-Tc Curve\n160 90 100 110 120 130 140 15010\n70203040\nsine wave R-load\nwith heatsink\nCase Tem perature（℃）Average Forward Output(A)35\n10\n2 5 10 20 50 100200400600\nnon-repetitive\nTj=25℃FIG2:Surge Forward Current Capability\n08.3msIFSM\n8.3msPeak Forward Surge Current(A)\nNumber of Cycleshalf sine wave\n1cycle\n]åz\x0bh7TÁ\nDG35NA100 THRU DG35NA160 \xa0\n\xa0\n 3 / 4 \n   Yangzhou Yangjie Electronic Technology Co., Ltd.  \n S-B2331 \nRev.1.1,11-Apr-22 www.21yangjie.com\n   \n \n  \n \n  \n \n  \n \n  \n \n  \n \n \n    ■ Outline Dimensions  \n \n \n \n  \n \n  \n \n  \n \n  \n \n   \n \n  \n \n  \n \n  \n  \n  \n \n  \n  \n 3GBJ \nDim Min Max \nA 34.7 35.3 \nB 24.7 25.3 \nC 16.8 17.8 \nD 4.8 5.8 \nE 3.7 4.3 \nF 7.3 7.7 \nG 0.3 0.7 \nH 0.9 1.2 \nI 2.0 2.5 \nJ 2.3 2.7 \nK 3.4 3.8 \nL 4.4 4.8 \nM 13.6 14.2 \nN 3.1 3.7 \nO 3.1 3.4 \nP 0.6 0.8 \nR1 3.0 3.6 \nR2 6.7 7.3 BA\nC\nFK\nG\n+～～ -～\nF F F\nM\nNLDE\nPI\nHJR1\nR23GBJ\nDimensions in millimeters0.4 0.6 0.8 1.0 1.2 1.40.10.20.5FIG3: Typical Forward Voltage\n1.010204060\n5.0\nInstantaneous Forward Voltage(V)Instantaneous Forward Current(A)2.04.0\n02 0 4 0 6 08 0 1 0 00.11.0101001000\nTj=25℃FIG4:Typical Reverse CharacteristicsInstantaneous Reverse Current (uA)\nPercent of Rated Peak Reverse Voltage  (%)Tj=125℃\n]åz\x0bh7TÁ\nDG35NA100 THRU DG35NA160 \xa0\n\xa0\n 4 / 4 \n   Yangzhou Yangjie Electronic Technology Co., Ltd.  \n S-B2331 \nRev.1.1,11-Apr-22 www.21yangjie.com\nDisclaimer \n \nThe information presented in this  document is for reference only. Yangzhou Yangjie Electronic Technology Co., Ltd. reserves th e \nright to make changes without not ice for the specification of the products displayed herein to improve reliability, function o r design \nor otherwise.   \n  The product listed herein is designed to be used with ordinary electronic equipment or devices, and not designed to be used wi th \nequipment or devices which require high level of reliability an d the malfunction of with woul d directly endanger human life (s uch as \nmedical instruments, transportat ion equipment, aerospace machin ery, nuclear-reactor controller s, fuel controller s and other sa fety \ndevices), Yangjie or anyone on its behalf, assumes no responsibility or liability for any damages resulting from such improper  use \nof sale.    This publication supersedes & replaces all information previous ly supplied. For additional information, please visit our websi te \nhttp:// www.21yangjie.com  , or consult your nearest Yangjie’s sales office for further a ssistance. \n \n \n \n  \n]åz\x0bh7TÁ\n'}]
+!==============================================================================!
+### Component Summary: DG35NA100
+
+**Manufacturer:** Yangzhou Yangjie Electronic Technology Co., Ltd.  
+**Product Code:** DG35NA100 (part of the DG35NA100 to DG35NA160 series)  
+**Type:** Three Phase Bridge Rectifier
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Maximum Repetitive Peak Reverse Voltage (VRRM): 1000 V
+  - Maximum RMS Voltage (VRMS): 700 V
+  - Maximum DC Blocking Voltage (VDC): 1000 V
+
+- **Current Ratings:**
+  - Average Rectified Output Current (IO):
+    - With heatsink (Tc = 110°C): 35.0 A
+    - Without heatsink (Ta = 25°C): 3.5 A
+  - Forward Surge Current (IFSM):
+    - Non-repetitive @ 60Hz Half-sine wave: 400 A
+    - Non-repetitive @ 1ms square wave: 800 A
+
+- **Power Consumption:** Not explicitly stated, but related to forward voltage drop and current ratings.
+
+- **Operating Temperature Range:**
+  - Storage Temperature (Tstg): -55°C to +150°C
+  - Junction Temperature (Tj): -55°C to +150°C
+
+- **Package Type:** 3GBJ (Thin single in-line package)
+
+- **Special Features:**
+  - Glass passivated chip junction
+  - High surge current capability
+  - Solder dip 275°C max for 7 seconds, per JESD 22-B106
+  - RoHS compliant
+
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+#### Description:
+The DG35NA100 is a three-phase bridge rectifier designed for converting alternating current (AC) to direct current (DC). It is particularly suited for applications requiring high voltage and current handling capabilities, making it ideal for power management in various electronic devices.
+
+#### Typical Applications:
+- General-purpose AC/DC bridge full-wave rectification
+- Switching power supplies
+- Home appliances
+- Office equipment
+- Industrial automation applications
+
+This component is essential in circuits where efficient power conversion is necessary, providing reliable performance in demanding environments.

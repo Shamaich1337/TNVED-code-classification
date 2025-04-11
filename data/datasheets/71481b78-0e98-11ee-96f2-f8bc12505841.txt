@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of SHM-026-S101-95/T0-M025 production of E-TEC from the text:A New 28.04.2022 Cherry\nEB±0.25A±0.38\n12.55 ±0.137.90 8.36 ±0.13\nMale Female\n6.10 6.00\n10.724.10\n2.804.70ref. to Option\nthread rivet\n4-40 UNS\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.25Cherry\nKent\nSH23.04.2022\n23.04.202223.04.2022SHF(M)-S101\nSHX-xxx-S101-9x/Xx-M0251/1\nAOrder Code\nSHX-xxx-S101-95/Xx-M025\nT0 = mounting hole\n T  = thread rivet 4-40 UNCOption Type\nFemale = F\n    Male = M\nRoHS\ncompliant\nHigh Density D-SUB\nMale / Female\nSolder Cup TypeABCDEF\n015 30.81 24.99 16.92 16.33 2.29 19.20\n026 39.20 33.30 25.25 24.70 2.29 27.70\n044 53.05 47.04 38.96 38.40 2.29 41.10\n062 69.40 63.50 55.42 54.80 2.41 57.30No. of \nContactsDimension mm\nSpecifications\nElectrical\nCurrent rating: 5A@25°C  3A@70°C\nInsulation resistance : 1000MΩ min.@500V DC\nContact resistance: 20mΩ max.\nVoltage rating: 25V DC\nWithstanding voltage: 500V AC/ MinuteMaterial\nContact: Brass\nPlating: Tin on solder , Gold on contact area\n                    entire contact Ni underplated\nShell: Steel; Sn 100 µ" over Cu 50 µ" min.\nClinch Nut: Brass; Ni Plated\nScrew: Brass; Ni Plated\nInsulator: PBT (black)  UL 94V-0\nOperating temperature: -55°C to +85°C"C" ±0.25  Male\n"D" ±0.25  Female\nF∅3.05\n'}]
+!==============================================================================!
+### Component Summary for SHM-026-S101-95/T0-M025
+
+**Component Type:** High Density D-SUB Connector (Male/Female)
+
+**Key Specifications:**
+- **Voltage Rating:** 25V DC
+- **Current Rating:** 
+  - 5A at 25°C 
+  - 3A at 70°C
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range:** -55°C to +85°C
+- **Package Type:** High Density D-SUB Connector
+- **Special Features:**
+  - Solder cup type for easy soldering connections
+  - RoHS compliant
+  - Insulation resistance of 1000 MΩ minimum at 500V DC
+  - Contact resistance of 20 mΩ maximum
+  - Withstanding voltage of 500V AC for one minute
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Description:**
+The SHM-026-S101-95/T0-M025 is a high-density D-sub connector designed for reliable electrical connections in various applications. It features both male and female configurations, allowing for versatile connectivity options. The connector is constructed with brass contacts, plated with tin and gold, ensuring durability and excellent conductivity. The insulator is made from PBT (black) material, rated UL 94V-0 for flame resistance.
+
+**Typical Applications:**
+This connector is typically used in:
+- **Data Communication:** Connecting devices in computer and telecommunications equipment.
+- **Industrial Automation:** Providing connections in control systems and machinery.
+- **Consumer Electronics:** Used in various electronic devices requiring reliable connections.
+- **Test Equipment:** Facilitating connections in testing and measurement devices.
+
+Overall, the SHM-026-S101-95/T0-M025 connector is suitable for applications requiring robust and reliable electrical connections in a compact form factor.

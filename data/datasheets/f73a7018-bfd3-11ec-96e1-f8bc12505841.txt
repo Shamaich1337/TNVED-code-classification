@@ -1,0 +1,40 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PJ-202A production of CUI INCORPORATED from the text:date10/30/2019\npage\n1 of 3\nMODEL :  PJ-202A │ DESCRIPTION:  DC POWER JACK\ncuidevices .com\nFEATURES\n• 2.0 mm center pin\n• 2.5 A rating\n• right-angle orientation\n• through hole\n• kinked pins\nSPECIFICATIONS\nparameter conditions/description min typ max units\nrated input voltage 24 Vdc\nrated input current 2.5 A\ncontact resistance1 between terminal and mating plug\nbetween terminal in a closed circuit50\n30mΩ\nmΩ\ninsulation resistance at 500 Vdc 100 MΩ\nvoltage withstand at 50/60Hz for 1 minute 500 Vac\ninsertion/withdrawal force 0.3 3 kg\nterminal strength any direction for 10 seconds 500 g\noperating temperature -25 85 °C\nlife 5,000 cycles\nflammability rating UL94V-0\nRoHS yes\nNote: 1.  When measured at a current of less than 100 mA/1 kHz\nSOLDERABILITY\nparameter conditions/description min typ max units\nwave soldering dipped in solder pot for 5 ±0.5 seconds 255 260 265 °CAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\ndate  10/30/2019 │ page  2 of 3 CUI Devices │ MODEL : PJ-202A │ DESCRIPTION: DC POWER JACK\ncuidevices .com0.123.0\n0.190.42 10.7\n4.73.00 .123.00 .12 0.123.0\n10.7 0.420.143.5\n4.70.19\n31\nPCB LAYOU T3 2\n1.00X3.50\nTOP VIE W1 2\n1.00X3.00\n(2 PLCS)14.4 0.57\n0.14 3.50\n(2 PLCS)2.50 .101.50 .069.0\n6.500 .2611.0\n2.000 .080.43\n0.260.35\n6.50\n3.000 .12MECHANICAL DRAWING\nMATERIAL PLATING\ncenter pin copper nickel\nterminal 1 brass tin\nterminal 2 copper alloy tin\nterminal 3 brass tin\nplastic PBTunits: mm[inches]\ntolerance:\nX.X ±0.2mm\nX.XX ±0.1mm\nX.XXX ±0.05mm\nNote: 1. All specifications measured at 10~35°C, humidity at 45~85%, under standard atmospheric pressure, unless otherwise noted.SCHEMATIC 3\n21\nModel PJ-202A\nCenter Pin Ø2.0 mmMATING PLUG\nJack Insertion Depth: 9.0 mmAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\ndate  10/30/2019 │ page  3 of 3 CUI Devices │ MODEL : PJ-202A │ DESCRIPTION: DC POWER JACK\ncuidevices .com\nCUI Devices offers a one (1) year limited warranty.  Complete warranty information is listed on our website.\nCUI Devices reserves the right to make changes to the product at any time without notice.  Information provided by CUI Devices is believed to be accurate and reliable.  However, no \nresponsibility is assumed by CUI Devices for its use, nor for any infringements of patents or other rights of third parties which may result from its use.\nCUI Devices products are not authorized or warranted for use as critical components in equipment that requires an extremely high level of reliability.  A critical component is any \ncomponent of a life support device or system whose failure to perform can be reasonably expected to cause the failure of the life support device or system, or to affect its safet y or \neffectiveness.rev. description date\n1.0 initial release 11/17/2005\n1.01 applied new spec template 01/08/2015\n1.02 increased voltage rating 04/21/2016\n1.03 brand update 10/30/2019\nThe revision history provided is for informational purposes only and is believed to be accurate.REVISION HISTORYAdditional Resources:    Product Page     |    3D Model     |    PCB Footprint\n'}]
+!==============================================================================!
+### Component Summary: PJ-202A DC Power Jack
+
+**Manufacturer:** CUI Incorporated  
+**Product Code:** PJ-202A  
+**Date:** 10/30/2019
+
+#### Key Specifications:
+- **Voltage Ratings:** 
+  - Rated Input Voltage: 24 Vdc
+- **Current Ratings:** 
+  - Rated Input Current: 2.5 A
+- **Power Consumption:** 
+  - Not explicitly stated; however, power can be calculated as \( P = V \times I = 24V \times 2.5A = 60W \).
+- **Operating Temperature Range:** 
+  - -25 °C to 85 °C
+- **Package Type:** 
+  - Through-hole, right-angle orientation
+- **Special Features or Notes:**
+  - 2.0 mm center pin
+  - Kinked pins for secure mounting
+  - Life expectancy of 5,000 cycles
+  - Flammability rating: UL94V-0
+  - RoHS compliant
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** 
+  - Not specified in the provided data.
+
+#### Description:
+The PJ-202A is a DC power jack designed for connecting power supplies to electronic devices. It features a 2.0 mm center pin and is rated for a maximum input voltage of 24 Vdc and a current of 2.5 A. The jack is designed with a right-angle orientation and through-hole mounting, making it suitable for various PCB layouts. The kinked pins provide additional mechanical stability during installation.
+
+#### Typical Applications:
+The PJ-202A DC power jack is commonly used in applications that require a reliable power connection, such as:
+- Consumer electronics (e.g., laptops, portable devices)
+- Industrial equipment
+- Power management systems
+- Robotics and automation systems
+- Any electronic device that requires a stable DC power input
+
+This component is ideal for scenarios where space is limited, and a secure connection is necessary to ensure consistent power delivery.

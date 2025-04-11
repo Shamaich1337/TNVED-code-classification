@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of QCK-FL2G-M30-10 production of QUALWAVE INC from the text:Connectors\nQualwaveInc. +86-28-6115-4929 sales@qualwave.com www.qualwave.com Rev1.1QCK-FL2G-M\n2.92mmConnector,DC~40GHz\nFeatures: Applications:\n*LowVSWR *Wireless\n*Radar\n*Instruments\n*Electronics\nElectrical\nFrequency:DC~40GHz\nVSWR:1.15max.\nImpedanceofDielectric:3000MΩmin.\nImpedanceofInner\nConductor:3mΩmax.\nImpedanceofOuter\nConductor:2mΩmax.\nVoltageWithstand:750VDC\nImpedance:50Ω\nMechanical\nRFConnector:2.92mmFemale\nMatingLifeCycle:500cycles\nOuterConductor:PassivatedSUS303Stainless\nSteel\nDielectric:PEI&PTFEorPEI\nInnerConductor:GoldPlatedBerylliumCopper\nEnvironmental\nTemperature:-55~+165℃\nOutlineDrawings\nPartNumber ΦD1 ΦD2 L1 L2\nQCK-FL2G-M30-01 4[.158]0.3[.012]1.4[.055]1.5[.059]\nQCK-FL2G-M30-02 4[.158]0.3[.012]3[.118]1.5[.059]\nQCK-FL2G-M60-03 4[.158]0.6[.024]10.1[.398]1.27[.05]\nQCK-FL2G-M30-04 4[.158]0.3[.012]3.2[.126]1.5[.059]\nUnit:mm[in]\nTolerance:±0.2mm[±0.008in]PartNumber ΦD1 ΦD2 L1 L2\nQCK-FL2G-M30-05 4[.158]0.3[.012]1.4[.055]1.5[.059]\nQCK-FL2G-M30-06 4[.158]0.3[.012]3[.118]1.5[.059]\nQCK-FL2G-M60-07 4[.158]0.6[.024]10.1[.398]1.27[.05]\nQCK-FL2G-M30-08 4[.158]0.3[.012]3.2[.126]1.5[.059]\nPartNumber ΦD1 ΦD2 L1 L2\nQCK-FL2G-M30-09 4[.158]0.3[.012]1.4[.055]1.5[.059]\nQCK-FL2G-M30-10 4[.158]0.3[.012]3[.118]1.5[.059]\nQCK-FL2G-M60-11 4[.158]0.6[.024]10.1[.398]1.27[.05]\nQCK-FL2G-M30-12 4[.158]0.3[.012]3.2[.126]1.5[.059]\nPartNumber ΦD1 ΦD2 L1 L2\nQCK-FL2G-M30-13 4[.158]0.3[.012]1.4[.055]1.5[.059]\nQCK-FL2G-M30-14 4[.158]0.3[.012]3[.118]1.5[.059]\nQCK-FL2G-M60-15 4[.158]0.6[.024]10.1[.398]1.27[.05]\nQCK-FL2G-M30-16 4[.158]0.3[.012]3.2[.126]1.5[.059]\n'}]
+!==============================================================================!
+### Component Summary: QCK-FL2G-M30-10
+
+**Manufacturer:** Qualwave Inc.  
+**Product Code:** QCK-FL2G-M30-10  
+**Type:** RF Connector (2.92mm Female)
+
+#### Key Specifications:
+- **Frequency Range:** DC to 40 GHz
+- **Voltage Withstand:** 750 VDC
+- **Impedance:** 50 Ω
+- **VSWR (Voltage Standing Wave Ratio):** 1.15 max
+- **Impedance of Dielectric:** 3000 MΩ min
+- **Impedance of Inner Conductor:** 3 mΩ max
+- **Impedance of Outer Conductor:** 2 mΩ max
+- **Operating Temperature Range:** -55°C to +165°C
+- **Mating Life Cycle:** 500 cycles
+- **Outer Conductor Material:** Passivated SUS303 Stainless Steel
+- **Dielectric Material:** PEI & PTFE or PEI
+- **Inner Conductor Material:** Gold-Plated Beryllium Copper
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The QCK-FL2G-M30-10 is a high-frequency RF connector designed for applications requiring reliable signal transmission at frequencies up to 40 GHz. It features a 2.92mm female interface, which is commonly used in microwave and RF applications. The connector is built to withstand high voltages and has low VSWR, ensuring minimal signal loss and reflection.
+
+#### Typical Applications:
+- **Wireless Communication:** Used in various wireless systems for signal transmission.
+- **Radar Systems:** Suitable for radar applications due to its high-frequency capabilities.
+- **Instrumentation:** Ideal for precision instruments that require high-frequency signal connections.
+- **Electronics Testing:** Commonly used in test equipment for evaluating RF performance.
+
+This connector is particularly valuable in environments where high-frequency performance and durability are critical, making it suitable for both commercial and military applications.

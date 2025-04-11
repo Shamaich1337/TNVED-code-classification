@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 10501189-20-160 production of KAWEEI from the text:P1P2\n1 2SEE:L±10\n4SEE:X±5\nCONN P1Wire Diagram\n1\n2CONN P2\n3\n4\n5\n6\n7\n8\n9\n10Color\nBill Of Material\nNo. Material Name and Name Qty Unit1 mm2 PCS\nUL3302 28AWG Color:WhiteMolex 501189-2010:CONN RECEPT 1MM DUAL 20POS\nVendor NAMECXQS061 WireMolex CONN. 23 Molex 501193-8000:1MM CRIMP REC TERM 28-32AWG TER. PCS 40NOTES: UNLESS OTHERWISE SPECIFIED.\n1、Important Dim.\n2、Crimping PullOut Force:1.10Kgf Min.\n3、Electrical Character:100% Open/ShortA\n4 KWQS206 Polyester Expanding Braided Sleeving\n3THIRD ANGLE PROJECTION1:XXDATE\nEREV\n1\n2REV:\nmmUNIT:A/1\nSCALE(比例):\nD CSHEET:DESCRIPTION\nAPPROVAL:DRAWN:\nCHECKED:\nPART  NO:\nDWG NO:\nB3\nA1\n2C D E A B\nFILE NO: KW-4E-094A4DESCRIPTION:\n1/1X.:\nX.X:±0.30\nX.XX:±0.15\nX.XXX:±0.10X°:±5.0°\nX.X°:±3.0°\nX.XX°:±2.0°\nX.XXX°:±1.0°GENERAL TOLERANCE\nLINEAR ANGLES\nORIGINAL\nJack Wu\nJeff±0.50CEL\nTHIS DRAWING CONTAINS INFORMATION THAT IS PROPRIETARY TO KAWEEI\nINCORPORATED AND SHOULD NOT BE USED WITHOUT WRITTEN PERMISSIONwww.kaweei.com501189 WIRE HARNESS\n10501189-20-XXXSep-25-2023\nKWRD230923-0165 PCS Heat-shrinkable tube Black Ø10.0mm*18mm KWQS206 2\nCONN.TER.\nmm51323219 201 2\n19 20A\nB\nMolexWhite\nWhite\nWhite\nWhite\nWhite\nWhite\nWhite\nWhite\nWhite\nWhite\nWhite\nWhite\nWhite\nWhite\nWhite\nWhite\nWhite\nWhite\nWhite\nWhite11\n12\n13\n14\n15\n16\n17\n18\n19\n201\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20PART  NO\n10501189-20-140Dim "L"\n140mmCUS. PART  NO\nCAS-M00025-0033-1Dim "X"\n126mm\n10501189-20-160 CAS-M00025-0033-2\n10501189-20-240 CAS-M00025-0033-3\n10501189-20-220 CAS-M00025-0033-4\n10501189-20-090 CAS-M00025-0033-5160mm 146mm\n240mm 226mm\n220mm 206mm\n90mm 76mmB\n'}]
+!==============================================================================!
+### Component Summary for 10501189-20-160 (KAWEEI)
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, wire harnesses are rated based on the insulation and wire gauge.
+- **Current Ratings:** Crimping Pull-Out Force: 1.10 Kgf Min (indicative of the mechanical strength rather than electrical current).
+- **Power Consumption:** Not applicable for wire harnesses; power consumption is determined by the connected components.
+- **Operating Temperature Range:** Not specified in the provided text; generally, wire harnesses can operate in a range from -40°C to +125°C depending on insulation material.
+- **Package Type:** Wire harness with connectors.
+- **Special Features or Notes:** 
+  - 100% Open/Short Electrical Characteristic.
+  - Crimping Pull-Out Force specification.
+  - Use of heat-shrinkable tubing for insulation.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The component 10501189-20-160 is a wire harness produced by KAWEEI. It consists of a series of wires (28 AWG, color-coded white) terminated with connectors (Molex 501189-2010) designed for dual 20-position connections. The harness is designed to facilitate electrical connections between various components in a system, ensuring reliable signal and power transmission.
+
+#### Typical Applications:
+Wire harnesses like the 10501189-20-160 are commonly used in various electronic applications, including:
+- **Power Management:** Connecting power supplies to devices.
+- **Signal Processing:** Linking sensors, controllers, and other electronic components.
+- **Data Transmission:** Facilitating communication between devices in automotive, industrial, and consumer electronics.
+- **General Wiring Solutions:** Providing organized and efficient wiring for complex systems, reducing the risk of short circuits and improving reliability.
+
+This wire harness is particularly useful in environments where multiple connections are required in a compact form factor, making it ideal for applications in consumer electronics, automotive systems, and industrial machinery.

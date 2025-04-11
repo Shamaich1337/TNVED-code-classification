@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CRF-104-S250 production of E-TEC from the text:A New 24.02.2022 Cherry\nMaterial\nInsulator: PA66  UL 94V-0\nOperating temperature: -25°C to +85°C\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all  rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.40Cherry\nCheng\nFagi24.02.2022\n28.02.2022\n28.02.2022CRF-1-S250\nCRF-1xx-S2501/2\nAload with: Crimp Contact  \nCRF-999/27-S250-99\nmate with:  CRS-1xx-S250/X-99\nSpecificationsRoHS\ncompliant\nCrimp Contact Plug Housing\n2.50mm Pitch  "S-Type"\nSingle Row\nCompatible with JST "XH" SeriesOrder Code\nCRF-1xx-S250\nABC\n02 7.30 2.50 5.70\n03 9.80 5.00 8.20\n04 12.30 7.50 10.70\n05 14.80 10.00 13.20\n06 17.30 12.50 15.70\n07 19.80 15.00 18.20\n08 22.30 17.50 20.70\n09 24.80 20.00 23.20\n10 27.30 22.50 25.70\n11 29.80 25.00 28.20\n12 32.30 27.50 30.70\n13 34.80 30.00 33.20\n14 37.30 32.50 35.70\n15 39.80 35.00 38.20\n16 42.30 37.50 40.70Dimension mm No. of \nContacts\n2.50\nB±0.25A\nC\n7.704.10\n5.70Electrical\nCurrent rating: 3A AC/DC\nInsulation resistance: 1000MΩ min.\nContact resistance: 10mΩ max.\nVoltage rating: 25V AC/DC\nWithstanding voltage: 1000V AC/Minute\nA New 24.02.2022 Cherry\nOrder Code\nCRF-999/27-S250-99\nSpecifications\nElectrical\nCurrent rating: 3A AC/DC\nInsulation resistance: 1000MΩ min.\nContact resistance: 10mΩ max.\nVoltage rating: 250V AC/DC\nWithstanding voltage: 1000V AC/MinuteRoHS\ncompliant\nCrimp Contact Female\n2.50mm Pitch  "S-Type"\nSingle Row SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all  rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.25Cherry\nCheng\nFagi24.02.2022\n28.02.2022\n28.02.2022CRF-999/27-S250\nCRF-999/27-S250-xx2/2\nAMaterial\nContact: Phosphor Bronze\nPlating: Sn over Ni\nOperating temperature: -25°C to +85°C\nAccept wire range: AWG#22~#28load in housing:\nCRF-1xx-S2502.00A\nAB\nB\n2.40\n0.802.001.40\n1.106.503.00\n3.20\nA-A1.80\n1.50\nB-B\n0.208.50∅2.00\n'}]
+!==============================================================================!
+### Component Summary for CRF-104-S250 by E-TEC
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - 25V AC/DC for CRF-1xx-S250
+  - 250V AC/DC for CRF-999/27-S250-99
+- **Current Ratings**: 
+  - 3A AC/DC for both CRF-1xx-S250 and CRF-999/27-S250-99
+- **Power Consumption**: Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range**: -25°C to +85°C
+- **Package Type**: Crimp Contact Plug Housing, 2.50mm Pitch "S-Type", Single Row
+- **Special Features/Notes**: 
+  - Insulation resistance: 1000MΩ min.
+  - Contact resistance: 10mΩ max.
+  - Withstanding voltage: 1000V AC/Minute
+  - RoHS compliant
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Component Description:
+The CRF-104-S250 is a crimp contact plug housing designed for electrical connections. It features a 2.50mm pitch and is compatible with JST "XH" series connectors. The housing is made from PA66 material with a UL 94V-0 rating, ensuring it meets fire safety standards. The component is designed to accommodate crimp contacts, allowing for secure and reliable electrical connections in various applications.
+
+#### Typical Applications:
+The CRF-104-S250 is typically used in:
+- **Power Management**: Connecting power supplies to various electronic devices.
+- **Signal Processing**: Facilitating connections in signal transmission applications.
+- **Consumer Electronics**: Commonly found in devices requiring compact and reliable connectors.
+- **Industrial Equipment**: Used in machinery and equipment where robust electrical connections are necessary.
+
+This component is ideal for applications that require a reliable connection in environments with varying temperatures and electrical loads.

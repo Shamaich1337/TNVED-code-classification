@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of MAR-40L-P production of OPTICS FOCUS INSTRUMENTS CO., LTD. from the text: \n 1 / 2 \n \n \nFeatures: \n\uf06c 38mm diameter platform. \n\uf06c 360° of continuous coarse rotation. \n\uf06c Micrometer and vernier scale provide ±5° fine adjustment. \n\uf06c Perimeter is laser engraved at 1° increments. \n \nDescription: \nMAR-40L-P high precision rotation stage provides precise, fine rotation for optomechanical assemblies. \nWhen the steel locking thumbscrew is unlocked, the stage can be smoothly and continuously rotated by \nhand through a full 360°, measured by the 1° graduation marks on the side of the platform. When the \nthumbscrew is locked, the micrometer head provides ±5° of fine adjustment, measured with 10 arcmin \nresolution by the vernier scale. \nThe mounting hole pattern for the MAR-40L-P is compatible with other 40 mm size components. The \nrotation stage can be easily stacked to xθ, xyθ and xyzθ configuration with our x stages, xy stages or xyz \nstages. \n  \nSpecifications: \nModel MAR-40L-P MAR-40R-P \nAxes of Travel θ θ \nPlatform Size Ø38mm Ø38mm \nTravel 360°(Coarse),±5°(Fine) 360°(Coarse),±5°(Fine) \nDrive Micrometer Head (Left) Micrometer Head (Right) \nReadable Resolution 10’ 10’ \nConcentricity 0.02mm 0.02mm \nParallelism 0.01mm 0.01mm \nMaterial Aluminum Alloy Aluminum Alloy \nLoad Capacity 9.8N(1kgf) 9.8N(1kgf) \nWeight 0.10kg 0.10kg \n \n 2 / 2 \n Drawing: \n \n \n \n \n \n \n \n \n'}]
+!==============================================================================!
+### Component Summary: MAR-40L-P
+
+**Key Specifications:**
+- **Model:** MAR-40L-P
+- **Platform Size:** 38mm diameter
+- **Rotation:**
+  - **Coarse Rotation:** 360° continuous
+  - **Fine Adjustment:** ±5° (with micrometer head)
+- **Readable Resolution:** 10 arcminutes (10’)
+- **Concentricity:** 0.02mm
+- **Parallelism:** 0.01mm
+- **Load Capacity:** 9.8N (1kgf)
+- **Weight:** 0.10kg
+- **Material:** Aluminum Alloy
+- **Special Features:**
+  - Laser engraved perimeter with 1° increments for easy measurement.
+  - Compatible mounting hole pattern for stacking with other 40mm components.
+  
+**Moisture Sensitive Level:** Not specified in the provided text.
+
+### Description:
+The MAR-40L-P is a high-precision rotation stage designed for optomechanical assemblies. It allows for smooth and continuous rotation through a full 360° when the locking thumbscrew is disengaged. The platform features a micrometer head that enables fine adjustments of ±5°, providing high precision with a resolution of 10 arcminutes. The stage is constructed from aluminum alloy, ensuring durability while maintaining a lightweight profile.
+
+### Typical Applications:
+The MAR-40L-P is primarily used in applications requiring precise angular positioning and rotation, such as:
+- **Optomechanical Systems:** Ideal for setups involving optical components where precise alignment is crucial.
+- **Laboratory Experiments:** Useful in research environments for experiments that require accurate rotational adjustments.
+- **Stacking Configurations:** Can be integrated into multi-axis systems (xθ, xyθ, xyzθ) for complex motion control in optical setups.
+- **Instrumentation:** Employed in various optical instruments where fine rotational control is necessary.
+
+This component is particularly valuable in fields such as optics, photonics, and precision engineering, where accurate positioning and alignment of components are essential for optimal performance.

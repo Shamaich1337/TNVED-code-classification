@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 90LB-BP-9000-9500 WR90 production of AINFO from the text:90LB-BP-9000-9500 \n9.0-9.5GHz WR90 Waveguide Band Pass Filter \nTechnical Specification \n  \nEIA WR WR90 \nCenter Frequency(GHz) 9.25 \nPass Band(GHz)  9.0-9.5  \nInsertion Loss(dB) 0.6 max \n45 min@ F<8.5GHz Rejection(dB) 45 min@ F>10GHz  \nVSWR  1.30 max  \nAverage Power(W) 200 \nFlange FBP100 \nMaterial Al \nNet Weight(Kg)  0.20 Around  \n \n  \n \n \nOutline Drawing (Size: mm)  \n \n \nChengdu AINFO Inc.                  Page 1 \nTel: +86-28-8519-2786 or +86-28-8519-3047    Fax: +86-28-8519-3068   Website : www.ainfoinc.com \nData subject to change without notice. For current  data sheets, please contact: Sales@ainfoinc.com A-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n90LB-BP-9000-9500 \n9.0-9.5GHz WR90 Waveguide Band Pass Filter \nTest Results \nInsertion Loss (S21) & Rejection (S12) & VSWR (S11 & S22) \n \n \n  \n \nChengdu AINFO Inc.                  Page 2 \nTel: +86-28-8519-2786 or +86-28-8519-3047    Fax: +86-28-8519-3068   Website : www.ainfoinc.com \nData subject to change without notice. For current  data sheets, please contact: Sales@ainfoinc.com A-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\nA-INFO A-INFO A-INFO A-INFO\n'}]
+!==============================================================================!
+### Component Summary: 90LB-BP-9000-9500 WR90 Waveguide Band Pass Filter
+
+**Key Specifications:**
+- **Voltage Ratings:** Not specified (waveguide components typically do not have voltage ratings like electronic components).
+- **Current Ratings:** Not applicable (current ratings are not typically specified for waveguide filters).
+- **Power Consumption:** Average Power: 200 W
+- **Operating Temperature Range:** Not specified in the provided data.
+- **Package Type:** Waveguide (WR90)
+- **Special Features or Notes:**
+  - Center Frequency: 9.25 GHz
+  - Pass Band: 9.0 - 9.5 GHz
+  - Insertion Loss: 0.6 dB max
+  - Rejection: 45 dB min at frequencies <8.5 GHz and >10 GHz
+  - VSWR: 1.30 max
+  - Flange Type: FBP100
+  - Material: Aluminum
+  - Net Weight: Approximately 0.20 kg
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified.
+
+**Description:**
+The 90LB-BP-9000-9500 is a WR90 waveguide band pass filter designed to allow signals within a specific frequency range (9.0 to 9.5 GHz) to pass while attenuating signals outside this range. It is constructed from aluminum and features a flange for easy integration into waveguide systems. The filter is characterized by low insertion loss and high rejection levels, making it suitable for high-frequency applications.
+
+**Typical Applications:**
+This band pass filter is commonly used in various RF and microwave applications, including:
+- **Telecommunications:** To filter specific frequency bands in communication systems.
+- **Radar Systems:** For signal processing and filtering in radar equipment.
+- **Satellite Communications:** To ensure that only desired frequency signals are transmitted or received.
+- **Test Equipment:** In laboratory settings for testing and measurement of RF signals.
+- **Aerospace and Defense:** In systems requiring precise frequency filtering for reliable operation.
+
+This component is essential for applications where signal integrity and frequency selectivity are critical, ensuring that only the desired signals are processed while minimizing interference from unwanted frequencies.

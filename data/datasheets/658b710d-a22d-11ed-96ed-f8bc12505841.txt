@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ESQ-120-12-G-S production of SAMTEC from the text:SPECIFICATIONS\nPROCESSINGESW/ESQ\nMates:\nTSW, MTSW, EW, \nMTLW, TSS, ZSS, TSM, \nDW, ZW, HW, TSSH, HTSS\nNote:  \nSome lengths, styles and \noptions are non-standard, \nnon-returnable.Insulator Material:  \nBlack Glass Filled Polyester\nContact Material:\nPhosphor Bronze\nPlating:  \nAu or Sn over \n50 µ" (1.27 µm) Ni\nCurrent Rating (ESW/TSW):\n5.2 A per pin\n(2 pins powered)\nCurrent Rating (ESQ/TSW):\n5.7 A per pin\n(2 pins powered)\nVoltage Rating:\n515 VAC mated with \nTSW or ESQ   \nOperating Temp Range:\n-55 °C to +125 °C with Gold\n-55 °C to +105 °C with Tin  \nInsertion Depth:\n(3.68 mm) .145"  to \n(6.35 mm) .250"\nNormal Force:  \nStandard = 125 grams (4.4 N)\nMax Cycles:\n100 with 10 µ" (0.25 µm) Au\nLead-Free Solderable:\nNo, Lead Wave onlyLEAD STYLE\nSTANDARD \nINSERTION \nFORCELow \nINSERTION \nFORCEA B\n– 12 – 37 (2.29) .090\n(11.05) .435\n– 13 – 38 (7.36) .290\n– 23 – 48 (4.83) .190 (13.59) .535\n– 33 – 58 (2.29) .090 (16.13) .635\n– 14 – 39 (12.19) .480 (11.05) .435\n– 24 – 49 (9.65) .380 (13.59) .535\n– 34 – 59 (7.11) .280 (16.13) .635\n– 44 – 69 (4.57) .180 (18.67) .735\n PC/104™ J1/P1 “Stackthrough” Connectors\n Standard Insertion Force ESQ-132-14-G-D\n Low Insertion Force ESQ-132-39-G-D\n PC/104™ J1 “Non-Stackthrough” Connectors\n Standard Insertion Force ESQ-132-12-G-D\n Low Insertion Force ESQ-132-37-G-D\n PC/104™ J2/P2 “Stackthrough” Connectors\n Standard Insertion Force ESQ-120-14-G-D \n Low Insertion Force ESQ-120-39-G-D \nPC/104 is a trademark of the PC/104 Consortium.(ESQ SERIES)Self\nNestingSockets APPLICATIONS\nOther Plating \n(MOQ Required)ALSO AVAILABLE(2.54 mm) .100" PITCH  •  ESW/ESQ SERIES\nUnless otherwise approved in writing by Samtec, all parts and components are designed and built according to Samtec’s specifications which are subject to change without notice.ELEVATED \nSOCKETS\nSERIES -1NO. PINS \nPER ROW -LEAD \nSTYLE -PLATING \nOPTION -ROW \nOPTION -OTHER\nOPTION\nESW\n= Solder Tail\nESQ\n= Square Tail01 thru 36 Specify \nLEAD \nSTYLE \nfrom \nchart–L\n= 10 µ" (0.25 µm)  \nGold contact,  \nMatte Tin on tail\n–G\n= 20 µ" (0.51 µm)  \nGold contact,  \nGold Flash on \nBalance\n–T\n= Matte Tin\n(Not available \nwith LIF contact)–S\n= Single Row\n–D\n= Double Row\n–T\n= Triple Row \n(ESQ only)–LL\n= Locking Lead\n(Two leads per \nstrip crimped. \nNot available \nwith single row \n1 or 2 positions)\n“XXX”\n= Polarized\n—T\n(ESQ only) —D —S \n(7.49)\n.295(4.95)\n.195(2.41)\n.095(2.54) .100 X No. of Positions + (0.51) .020\nB\nA\n(2.54)\n.100\nTYP(0.41)\n.016ESW ESQ\n(0.64)\n.025\nSQx(0.79)\n.031\nF-221 (Rev 24MAY22) samtec.com?ESW or samtec.com?ESQ\n'}]
+!==============================================================================!
+### Component Summary: ESQ-120-12-G-S
+
+**Description:**
+The ESQ-120-12-G-S is a square tail socket connector from Samtec's ESQ series, designed for use in PC/104™ applications. It features a self-nesting design that allows for easy stacking and connection of multiple boards. The connector is suitable for various electronic applications where reliable connections are essential.
+
+**Key Specifications:**
+- **Voltage Rating:** 515 VAC when mated with TSW or ESQ connectors.
+- **Current Rating:** 
+  - 5.7 A per pin (when 2 pins are powered).
+- **Power Consumption:** Not explicitly stated; however, the current rating indicates the maximum load capacity.
+- **Operating Temperature Range:** 
+  - -55 °C to +125 °C with Gold plating.
+  - -55 °C to +105 °C with Tin plating.
+- **Package Type:** Socket connector with a 2.54 mm (0.100") pitch.
+- **Special Features:**
+  - Self-nesting design for easy stacking.
+  - Available in various lead styles and plating options.
+  - Not lead-free solderable; designed for lead wave soldering only.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Typical Applications:**
+The ESQ-120-12-G-S connector is typically used in:
+- **PC/104™ Systems:** Ideal for modular computing systems where multiple boards need to be interconnected.
+- **Embedded Systems:** Suitable for applications requiring compact and reliable connections.
+- **Industrial Automation:** Used in environments where durability and temperature resistance are critical.
+- **Telecommunications:** Employed in devices that require robust interconnections.
+
+This connector is particularly advantageous in applications that demand high reliability and performance in harsh environments, making it a preferred choice for engineers designing modular electronic systems.

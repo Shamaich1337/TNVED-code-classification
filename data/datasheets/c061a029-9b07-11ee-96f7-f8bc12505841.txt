@@ -1,0 +1,41 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PS6-B2M1CES9-5L6 production of DECIGN from the text:A New 26.10.2023 Tom\nSWITCH\nWITH LED D IP VE RTICAL SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.30Tom\nJerry\nSH26.10.2023\n26.10.2023\n26.10.2023TP-PS6-B2M1CES\nTP-PS6-B2M1CS ½-5L¾1/1\nAElectro-potical Data (at 20mA)\nVf(V) Iv(mcd)Peak\nWavelengthColor\nWhite\nRed\nYellow\nGreen\nBlueTyp. Max. Typ. Min.\n2.8 3.3 200 100 X/Y=0.27\n2.0 2.5 700 200 645\n2.1 2.6 100 55 589\n2.2 2.7 130 70 565\n3.1 3.6 580 250 460\n'}]
+!==============================================================================!
+### Component Summary for PS6-B2M1CES9-5L6
+
+#### Key Specifications:
+- **Voltage Ratings**: 
+  - Forward Voltage (Vf) for various colors:
+    - White: 2.8V (typ) to 3.3V (max)
+    - Red: 2.0V (typ) to 2.5V (max)
+    - Yellow: 2.1V (typ) to 2.6V (max)
+    - Green: 2.2V (typ) to 2.7V (max)
+    - Blue: 3.1V (typ) to 3.6V (max)
+  
+- **Current Ratings**: 
+  - Typical forward current: 20mA
+
+- **Power Consumption**: 
+  - Power consumption can be calculated using P = V * I for each color at 20mA.
+
+- **Operating Temperature Range**: 
+  - Not specified in the provided text; typically, LED components operate within -40°C to +85°C.
+
+- **Package Type**: 
+  - DIP (Dual In-line Package) vertical configuration.
+
+- **Special Features or Notes**: 
+  - The component includes an LED indicator, which is useful for visual feedback in electronic circuits.
+
+- **Moisture Sensitive Level (MSL)**: 
+  - Not specified in the provided text; typically, LEDs may have an MSL rating of 1 or 2.
+
+#### Component Description:
+The PS6-B2M1CES9-5L6 is a LED switch component that features multiple color options (White, Red, Yellow, Green, Blue) and is designed for visual indication purposes in electronic circuits. The component is housed in a DIP package, allowing for easy integration into various electronic designs.
+
+#### Typical Applications:
+- **Indicator Lights**: Used in devices to provide visual feedback on the status of the device (e.g., power on/off, error indication).
+- **Control Panels**: Commonly found in control panels for machinery and equipment to indicate operational status.
+- **Consumer Electronics**: Utilized in various consumer electronics for aesthetic and functional lighting.
+- **Toys and Gadgets**: Often used in toys and gadgets to enhance user interaction through visual signals.
+
+This summary provides a concise overview of the PS6-B2M1CES9-5L6 component, highlighting its key specifications and typical applications in electronic systems.

@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2J401GFD-020RG174-C20NST_CU100549 production of 2J from the text:2J401G/GD/GF/GFDGNSS antenna\nhttp://www .2j-antennae.com\n2J401GD\nConnection:\nConnector t ype upon request\nCable length upon request\nCable t ype upon request\nDimensions:\nMax height 7.9mm\nMax length 25.2mm\nMax width 25.2mmSpecification:\nFrequency GPS/GL ONASS (1572 - 1610 MHz)\nImpedance 50 Ohms\nPolarization RHCP\nLNA Gain\n2J401GF/GFD: 23dB at  3V , 24dB at 5V\nVSWR <1.2:1\nVoltage supply 2.7V - 5.5V\nCurrent 15mA - 25mA\nPower (max.) 138mW\nOperating temper ature -40°C to +85°C\n2J401GF\n2J401G/GD:    25dB at  3V , 26dB at 5V2J401G\n2J401GFD\nProduct selector:\n2J401G                        unfiltered GNS S antenna\n2J401GF                       filtered GNS S antenna2J401GD                      unfiltered GNS S antenna with limiter diode\n2J401GFD                     filtered GNS S antenna with limiter diode\nGNSS antenna\nhttp://www .2j-antennae.comGain at 3V - unfiltered version\nGain at 3V - filtered version\n2J401G/GD/GF/GFD\nGNSS antenna\nhttp://www .2j-antennae.com\n2J401G/GD/GF/GFD\n'}]
+!==============================================================================!
+### Component Summary: 2J401GFD-020RG174-C20NST_CU100549
+
+#### Key Specifications:
+- **Voltage Ratings**: 2.7V - 5.5V
+- **Current Ratings**: 15mA - 25mA
+- **Power Consumption**: Maximum 138mW
+- **Operating Temperature Range**: -40°C to +85°C
+- **Package Type**: Not explicitly stated, but dimensions provided
+- **Dimensions**: Max height 7.9mm, Max length 25.2mm, Max width 25.2mm
+- **Frequency Range**: 1572 - 1610 MHz (GPS/GLONASS)
+- **Impedance**: 50 Ohms
+- **Polarization**: Right-Hand Circular Polarization (RHCP)
+- **LNA Gain**: 
+  - 23dB at 3V, 24dB at 5V (for 2J401GF/GFD)
+  - 25dB at 3V, 26dB at 5V (for 2J401G/GD)
+- **VSWR**: <1.2:1
+- **Moisture Sensitive Level**: Not specified in the provided text.
+
+#### Description:
+The **2J401GFD** is a GNSS (Global Navigation Satellite System) antenna designed for receiving signals from GPS and GLONASS satellites. It features a built-in Low Noise Amplifier (LNA) that enhances the signal strength, making it suitable for applications requiring reliable positioning and navigation data. The antenna is characterized by its compact size and ability to operate over a wide voltage range, making it versatile for various electronic applications.
+
+#### Typical Applications:
+- **Navigation Systems**: Used in automotive, marine, and aviation navigation systems to provide accurate location data.
+- **Telematics**: Integrated into telematics devices for fleet management and tracking.
+- **IoT Devices**: Employed in Internet of Things (IoT) applications where location tracking is essential.
+- **Mobile Devices**: Utilized in smartphones and tablets for location-based services.
+- **Drones and UAVs**: Essential for positioning and navigation in unmanned aerial vehicles.
+
+This antenna is particularly useful in environments where reliable GNSS signal reception is critical, and its features make it suitable for both consumer and industrial applications.

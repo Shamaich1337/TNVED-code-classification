@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of XS12J4YOP2 production of KAWEEI from the text:Use environmental conditions:\n1.Temperature:-55°C~+85°C\n2.Relative humidity:98% for up to 40°C\n3.Vibration: The vibration frequency is 50-500 hz acceleration of 100 m/s2\n4.Collision: the vibration frequency is 40-80 times per minute, and the acceleration is 250 m/s219.3±0.3\nXS12 series Air Plug & Socket\nXS12J4YOP2, XS12K4OP23THIRD ANGLE PROJECTION1:XXDATE\nEREV\n1\n2REV:\nmmUNIT:A/1\nSCAL E(比例):\nD CSHEET:DESCRIPTION\nAPPROVAL:DRAWN:\nCHECKED:\nPART  NO:\nDWG NO:\nB3\nA1\n2C D E A B\n4A4DESCRIPTION:\n1/1X.:\nX.X:±0.30\nX.XX:±0.20\nX.XXX: ±0.10X°:±5.0°\nX.X°:±3.0°\nX.XX°:±2.0°\nX.XXX°:±1.0°GENERAL TOLERANCE\nLINEAR ANGLES\nJun-29-2022 ORIGINAL\nJack Wu\nJeff DS-XS12JK-XX±0.50JokerØ13.810.0±0.2M12*0 .75\nØ16.020.9±0.3\nNUT O-Ring 1 2\n3 4Ø10.633.0±0.5\n14.2±0.25\n2.4Ø10.45Ø15.1Ø15.4 2 1\n4 3\nPN:XS12J4YOP2 PN: XS12K4POP2Plug Socket\n1.9\nTHIS DRAWING CONTAINS INFORMATION THAT IS PROPRIETARY TO A-MEC\nINCORPORATED AND SHOULD NOT BE USED WITHOUT WRITTEN PERMISSIONTechnology Function\n1.Contact resistance: 5m ohm\n2.Insulation resistance:1000M ohm\n3.Rated current:3A\n4.Rated voltage:25V\n5.Testing voltage:1000V\n'}]
+!==============================================================================!
+### Component Summary: XS12J4YOP2
+
+**Component Type:** Air Plug & Socket
+
+**Description:**
+The XS12J4YOP2 is a connector designed for reliable electrical connections in various applications. It features a robust design suitable for harsh environmental conditions, making it ideal for industrial and outdoor use. The component is part of the XS12 series, which is known for its durability and performance in demanding situations.
+
+### Key Specifications:
+- **Voltage Ratings:**
+  - Rated Voltage: 25V
+  - Testing Voltage: 1000V
+
+- **Current Ratings:**
+  - Rated Current: 3A
+
+- **Power Consumption:**
+  - Not explicitly stated, but power can be calculated using P = V x I (P = 25V x 3A = 75W).
+
+- **Operating Temperature Range:**
+  - -55°C to +85°C
+
+- **Package Type:**
+  - Plug and Socket configuration
+
+- **Special Features or Notes:**
+  - Contact Resistance: 5 mΩ
+  - Insulation Resistance: 1000 MΩ
+  - Designed to withstand high humidity (98% at 40°C) and vibration (50-500 Hz with acceleration of 100 m/s²).
+  - Collision resistance with specified vibration frequency and acceleration.
+
+- **Moisture Sensitive Level (JEDEC J-STD-020E):**
+  - Not specified in the provided text.
+
+### Typical Applications:
+The XS12J4YOP2 connector is typically used in applications that require secure and reliable electrical connections in challenging environments. Common applications include:
+- Industrial machinery
+- Outdoor equipment
+- Robotics
+- Automotive systems
+- Telecommunications
+
+This component is particularly suited for environments where moisture, vibration, and temperature extremes are present, ensuring consistent performance and longevity in critical applications.

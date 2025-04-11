@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ACZTS282174A0 production of MG CONNECTORS from the text:SHEET:1 OF 2 Approved: PART NO: 1:1mmMODEL NO:MATREIAL\nFINISHA4SCALEUNITCUSTOMERTOLERANCES\nChecked: DWG NO:Designed:\nREV.CUSTOMER\nNAME:REV.ECN NO. DATECONTROLLED NO.：QEHR-Y-002-010\nNO. QTY1 A/R SFP28 RAW CABLE2345678\nSFP+ TOP SHELL 2PCSSFP+ BOTTOM SHELL 2PCSSFP+ EMI SHELLSFP+ PULL TAPESFP+ MASK PLANESFP+ RIVET，ALSFP28 PCB\n2PCS2PCS2PCS4PCS2PCS9 2PCS SFP+ SR1011\nLABEL 1PCS\nDESCRIPTIONX1INITIAL\nSFP28 PASSIVE CABLE ASS\'Y\nX1N/A\nSEE P/N LISTSEE NOTE\nSEE NOTEP110\n▼200±5\n▼"L"199255238 4764 6238 7\n1MAIN LABEL\n11\nDUST COVER PP A/R\nN/AN/A规格 速率(Gbps)线径AWG长度(L)料号\nSFP28 DAC C opper cable\nSFP28 DAC C opper cable25 30\n30\n30\n30\n30\n30\n30\n28\n28\n26\n260.5M\n0.75M\n1M\n1.5M\n2M\n2.5M\n3M\n3.5M\n4M\n4.5M\n5MACZTS282170A0\nACZTS282171A0\nACZTS282172A0\nACZTS282173A0\nACZTS282174A0\nACZTS282175A0\nACZTS282176A0\nACZTS282184A0\nACZTS282185A0\nACZTS282195A0\nACZTS282196A0\nHaidong LiuPeter Sun\nSteven Zhao25\n25\n25\n25\n25\n25\n25\n25\n25\n25SFP28 DAC C opper cable\nSFP28 DAC C opper cable\nSFP28 DAC C opper cable\nSFP28 DAC C opper cable\nSFP28 DAC C opper cable\nSFP28 DAC C opper cable\nSFP28 DAC C opper cable\nSFP28 DAC C opper cable\nSFP28 DAC C opper cable\nSHEET:2 OF 2 Approved: PART NO: 1:1mmMODEL NO:MATREIAL\nFINISHA4SCALEUNITCUSTOMERTOLERANCES\nChecked: DWG NO:Designed:\nREV.CUSTOMER\nNAME:REV.ECN NO. DATECONTROLLED NO.：QEHR-Y-002-010\nSFP28 PASSIVE CABLE ASS\'Y\nX1N/A\nSEE P/N LISTSEE NOTE\nSEE NOTE\nN/AN/APINSIGNALS\n2\n3\n4\n5\n6\n7\n8P1\n9\n15\n16Tx_Fault\nTx_Disable\nSDA\nSCL\nMod_ABS\nRSO\nRx_LOS\nRS1\nVccR\nVccTPIN\n2\n3\n4\n5\n6\n7\n8\n9\n15\n16Tx_Fault\nTx_Disable\nSDA\nSCL\nMod_ABS\nRSO\nRx_LOS\nRS1\nVccR\nVccTSIGNALS\nWIRING TABLE\nDRIAN WIRE\nDRIAN WIRE\nSHELL SHELLP2 P1\nRX+RX-\nTX+\nTX-GND GNDTX-\nTX+\nRX-RX+1312\n18\n1913\n121819P2LOW SPEED SIGNALS LOW SPEED SIGNALS\nNOTES:\n1.IMPEDANCE:100 O HMS DIFFERENTIAL.\n2.MEET RoHS REQUIREMENT.\n3.MATING/UNMATING OPERATION: INSERT BY STRIGHT DIRECTION,\nANY TILT INSERTION IS NOT ACCEPTABLE.\n4.THE DIMENSIONS WITHOUT OTHER MENTIONS ARE\nBASED ON SFF 8432.\n5.THE DIMENSION MARKED "▼"SHALL BE CHECKED.\nHaidong LiuPeter Sun\nSteven Zhao\n'}]
+!==============================================================================!
+### Component Summary for ACZTS282174A0
+
+**Component Type:**  
+SFP28 Passive Copper Cable Assembly
+
+**Key Specifications:**
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, SFP28 modules operate at 3.3V.
+- **Current Ratings:** Not specified; however, SFP28 cables generally handle low current levels suitable for data transmission.
+- **Power Consumption:** Not specified; passive cables typically consume negligible power.
+- **Operating Temperature Range:** Not provided; standard operating ranges for similar components are usually between -40°C to +85°C.
+- **Package Type:** Passive copper cable assembly.
+- **Special Features or Notes:**
+  - Impedance: 100 Ohms differential.
+  - Meets RoHS requirements.
+  - Mating/unmating operation should be done by straight direction; any tilt insertion is not acceptable.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Description:**  
+The ACZTS282174A0 is a passive copper cable assembly designed for SFP28 (Small Form-factor Pluggable 28) applications. It is used to connect network devices, providing high-speed data transmission capabilities. The cable is typically used in data centers and high-performance computing environments where short-distance connections are required.
+
+**Typical Applications:**
+- **Data Communication:** Used for high-speed data transfer between switches, routers, and servers.
+- **Networking:** Ideal for connecting devices in data centers, particularly for 25 Gbps Ethernet applications.
+- **Telecommunications:** Suitable for applications requiring high bandwidth and low latency connections.
+- **Server Interconnects:** Commonly used in server farms for interconnecting servers and storage devices.
+
+This summary provides a concise overview of the ACZTS282174A0 component, highlighting its specifications and typical use cases in networking and data communication environments.

@@ -1,0 +1,32 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 9049 production of RADIAL MAGNETS from the text: \n \nRadial Magnets  \nwww.radialmagnets.com  \n108 NW 20th Street  \nBoca Raton, FL 33431  \nPhone: (561) 392 -2103  \n \nSpecification Sheet:  Part#  9049 \nNeodymium Magnet Disk Sensor N35SH D6mm(A) X 2.5mm  \n \nMagnet Size:  6MM(A) X 2.5MM  \nTolerances:  ±0.004"  \nMaterial:  Rare Earth NdFeB  \nGrade of Neodymium:  N35SH  \nPlating/Coating:  Ni-Cu-Ni \nBrmax:  11,900Gauss  \nBHmax:  35 MGOe  \nMax Temperature:  150℃ /302F  \nMagnetization Direction:  Diametrically  \nSurface Gauss:  3,862.07  \nPull Force:  1.74 lbs  \n \n'}]
+!==============================================================================!
+### Technical Summary for Component Part# 9049
+
+**Component Description:**
+The component is a Neodymium Magnet Disk, specifically a rare earth magnet made from Neodymium Iron Boron (NdFeB). It is classified as an N35SH grade magnet, which indicates its strength and temperature resistance. The primary function of this magnet is to provide strong magnetic fields for various applications, including sensors, motors, and magnetic assemblies.
+
+**Key Specifications:**
+- **Magnet Size:** 6mm (Diameter) x 2.5mm (Thickness)
+- **Tolerances:** ±0.004 inches
+- **Material:** Rare Earth NdFeB (Neodymium Iron Boron)
+- **Grade of Neodymium:** N35SH
+- **Plating/Coating:** Nickel-Copper-Nickel (Ni-Cu-Ni)
+- **Brmax (Residual Flux Density):** 11,900 Gauss
+- **BHmax (Maximum Energy Product):** 35 MGOe
+- **Max Operating Temperature:** 150°C (302°F)
+- **Magnetization Direction:** Diametrically magnetized
+- **Surface Gauss:** 3,862.07 Gauss
+- **Pull Force:** 1.74 lbs
+
+**Special Features:**
+- High strength due to the N35SH grade.
+- Coated with a corrosion-resistant Ni-Cu-Ni plating.
+- Suitable for high-temperature applications up to 150°C.
+
+**Typical Applications:**
+- **Sensors:** Used in various sensing applications where strong magnetic fields are required.
+- **Motors:** Employed in electric motors and actuators for efficient operation.
+- **Magnetic Assemblies:** Utilized in the assembly of magnetic components in consumer electronics and industrial applications.
+- **Magnetic Holders:** Commonly used in magnetic holders and fixtures due to their strong pull force.
+
+This Neodymium magnet is ideal for applications requiring compact size and high magnetic strength, making it a versatile component in many electronic and mechanical systems.

@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of C2220C475K5RACTU production of KEMET ELECTRONICS from the text:KEMET Part Number: C2220C475K5RACTU\n(C2220C475K5RAC7800)\nSMD Comm X7R, Ceramic, 4.7 uF, 10%, 50 VDC, X7R, SMD, MLCC, Temperature Stable, Class II, 2220\nDimensions\nL 5.7mm +/-0.4mm\nW 5mm +/-0.4mm\nT 1.5mm +/-0.15mm\nB 0.6mm +/-0.35mm\nPackaging Specifications\nPackaging:T&R, 180mm, Plastic Tape\nPackaging Quantity: 1000General Information\nSupplier: KEMET\nSeries: SMD Comm X7R\nStyle: SMD Chip\nDescription:SMD, MLCC, Temperature\nStable, Class II\nFeatures:Temperature Stable, Class II\nRoHS:Yes\nTermination:Tin\nMarking: No\nMiscellaneous:Note: Referee time for X7R\ndielectric for this part number is\n1000 hours\nChip Size: 2220\nSpecifications\nCapacitance: 4.7 uF\nCapacitance Tolerance:10%\nVoltage DC:50 VDC\nDielectric Withstanding\nVoltage:125 V\nTemperature Range:-55/+125C\nTemperature Coefficient:X7R\nDissipation Factor: 2.50% 1kHz 25C\nAging Rate: 3% Loss/Decade Hour\nInsulation Resistance: 213 MOhms\n© 2006 - 2019 KEMETStatements of suitability for certain applications are based on our knowledge of typical operating conditions for such applications, but are not intended to constitute - and\nwe specifically disclaim - any warranty concerning suitability for a specific customer application or use. This Information is intended for use only by customers who have the\nrequisite experience and capability to determine the correct products for their application. Any technical advice inferred from this Information or otherwise provided by us\nwith reference to the use of our products is given gratis, and we assume no obligation or liability for the advice given or results obtained.\nGenerated 1/24/2019 - 16f98640-47c4-441a-a8cd-3346b7096ad2\n'}]
+!==============================================================================!
+### Component Summary for KEMET Part Number: C2220C475K5RACTU
+
+#### Key Specifications:
+- **Capacitance**: 4.7 µF
+- **Capacitance Tolerance**: 10%
+- **Voltage Rating**: 50 VDC
+- **Dielectric Withstanding Voltage**: 125 V
+- **Operating Temperature Range**: -55°C to +125°C
+- **Temperature Coefficient**: X7R
+- **Dissipation Factor**: 2.50% at 1 kHz, 25°C
+- **Aging Rate**: 3% Loss/Decade Hour
+- **Insulation Resistance**: 213 MΩ
+- **Package Type**: 2220 (5.7mm x 5mm x 1.5mm)
+- **Moisture Sensitive Level**: Not specified in the provided text, but typically for MLCCs, it may be classified as MSL 1 or MSL 2 depending on the manufacturer.
+- **Termination**: Tin
+- **RoHS Compliance**: Yes
+
+#### Description:
+The KEMET C2220C475K5RACTU is a surface-mount device (SMD) multilayer ceramic capacitor (MLCC) featuring a capacitance of 4.7 µF and a voltage rating of 50 VDC. It utilizes an X7R dielectric, which provides temperature stability and is classified as a Class II capacitor. The component is designed for surface mounting, making it suitable for compact electronic designs.
+
+#### Typical Applications:
+This capacitor is commonly used in various electronic applications, including:
+- **Power Management**: Filtering and decoupling in power supply circuits to stabilize voltage and reduce noise.
+- **Signal Processing**: Coupling and bypassing in audio and RF circuits to maintain signal integrity.
+- **Timing Circuits**: In conjunction with resistors to create timing elements in oscillators and timers.
+- **Consumer Electronics**: Used in devices such as smartphones, tablets, and other compact electronic devices where space is limited.
+
+The C2220C475K5RACTU is ideal for applications requiring reliable performance across a wide temperature range and is suitable for use in RoHS-compliant environments.

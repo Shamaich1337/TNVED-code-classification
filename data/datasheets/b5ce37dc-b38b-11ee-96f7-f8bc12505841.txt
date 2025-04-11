@@ -1,0 +1,52 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ESD9X5VU-2/TR production of WILLSEMI from the text:ESD9X5VU  \nWill Semiconductor Ltd.                           1                      Revision 2. 4, 201 6/07/06 \nESD9X5VU  \n1-Line, Uni-directional,  Ultra -low Capacitance  \nTrans ient Voltage Suppressor  \nDescriptions  \nThe ESD9 X5VU is a Uni -directional  transient voltage \nsuppress or (TVS)  which provide s a very high level protection \nfor sensitive electronic components that may be subject ed to \nelectrostatic discharge ( ESD). It is designed to replace \nmultilayer varistors (MLV) in consumer equipment  \napplications  such as mobile phone, notebook, PAD, STB, \nLCD TV etc.  \nThe ESD9X5VU  incorporates one pair  of ultra -low \ncapacitance steeri ng diodes plus a TVS diode.  \nThe ESD9X5VU  may be used to provide ESD protection up \nto ±20kV (contact  and air discharge ) according to \nIEC61000 -4-2, and withstand peak pulse current up to 4A for \n8/20μs pulse  according to IEC61000 -4-5. \nThe ESD9X5VU  is availabl e in FBP-02C package. Standard \nproducts are Pb -free and Halogen -free. \nFeatures  \n\uf06c Stand -off voltage: 5V max.  \n\uf06c Transient protection for each line according to  \nIEC61000 -4-2 (ESD) : ±20kV (contact  and air  discharge ) \nIEC61000 -4-4 (EFT): 40A (5/50ns ) \nIEC61000 -4-5 (surge): 4A (8/20 μs) \n\uf06c Ultra -low capacitance: CJ = 0.5pF typ.  \n\uf06c Ultra -low leakage current: I R <1nA typ.  \n\uf06c Low clamping voltage : VCL = 18V typ. @ I PP = 16A (TLP)  \n\uf06c Solid -state silico n technology  \nApplications  \n\uf06c USB 2.0 and USB 3.0  \n\uf06c HDMI 1.3 and HDMI 1.4  \n\uf06c SATA and eSATA  \n\uf06c DVI \n\uf06c IEEE 1394  \n\uf06c PCI Express  \n\uf06c Portable Electronics  and Notebooks  \n \n  \n http//:www. sh-willsemi.com  \n \n \n \n \n \n \n \n FBP-02C (Bottom V iew) \n \n \n \n \n \n \n \n \n \n Circuit diagram  \n \n \n \n \n \n \n   * = Month code  ( A~Z)  \nX= Device code  \nMarking  (Top View)  \n \n \nOrder information  \n \nDevice  Package  Shipping  \nESD9X5VU -2/TR  FBP-02C 10000/Tape&Reel  \n \nPin1 Pin2\n* XPin1 Pin2\n\nESD9X5VU  \nWill Semiconductor Ltd.                           2                      Revision 2. 4, 201 6/07/06 \nAbsolute m aximum r ating s \n \n \n \nElectrical  characteristics  (TA = 25 oC, unless otherwise noted)  \n \nNotes:  \n1) TLP parameter: Z 0 = 50 Ω , tp = 100ns, t r = 2ns, averaging window  from 60ns to 80ns. R DYN is calculate d from 4A to \n16A. \n2) Non-repetitive current pulse, according to IEC61000 -4-5. \n \n \n \n \n \n \n \n \n \n \n Parameter  Symbol  Rating  Unit \nPeak pulse power ( tp = 8/20μs) Ppk 60 W \nPeak pulse current (t p = 8/20μs) IPP 4 A \nESD according to  IEC61000 -4-2 air discharge  \nVESD ±20 \nkV \nESD according to  IEC61000 -4-2 contact  discharge  ±20 \nJunction temperature  TJ 125 oC \nOperation temperature  TOP -40~85 oC \nLead temperature  TL 260 oC \nStorage temperature  TSTG -55~150  oC \nParameter  Symbol  Condition  Min. Typ. Max.  Unit \nRever se stand-off voltage  VRWM    5.0 V \nRever se leakage current  IR VRWM = 5V  <1 100 nA \nRever se breakdown voltage  VBR IBR = 1mA 7.0 8.0 9.0 V \nForward voltage  VF IF = 10mA 0.6 0.9 1.2 V \nClamping voltage  1) VCL IPP = 16A, t p = 100ns   18.0  V \nDynamic resistance  1) RDYN   0.57  Ω \nClamping voltage  2) VCL IPP = 1A, tp = 8/20μs    11 V \nIPP = 4A, tp = 8/20μs    15 V \nJunction capacitance  CJ VR = 0V, f = 1MHz    0.50 0.90 pF \nESD9X5VU  \nWill Semiconductor Ltd.                           3                      Revision 2. 4, 201 6/07/06 \nTypical characteristics (TA = 25 oC, unless otherwise noted )\n \n            \n \n \n \n \n \n \n \n \n \n \n8/20μs waveform  per IEC61000 -4-5 \n \n      \n \n \n \n \n \n \n \n \n \n \n \n \nClamping voltage vs. Peak pul se current  \n    \n \n \n \n \n \n \n \n \n \n \n \n \n \nNon-repetitive peak pulse p ower vs. Pulse time   \n \n \n            \n \n \n \n \n \n \n \n \nContact discharge current waveform per IEC61000 -4-2 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nCapacitance vs. Rever se voltage  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPower derating vs. Ambient t emperature  \n0 1 2 3 4 50.00.20.40.60.81.0\nf = 1MHz\nVAC = 50mV\n  CJ - Junction capacitance (pF)\nVR - Reverse voltage (V)\n1 10 100 10001101001000\n  Peak pulse power (W)\nPulse time ( \uf06ds)\n0 25 50 75 100 125 150020406080100\n  % of Rated power\nTA - Ambient temperature (oC)\n0 1 2 3 4 58101214Pulse waveform: tp = 8/20\uf06ds\n  VC - Clamping voltage (V)\nIPP - Peak pulse current (A)\nt 60ns 30ns\ntr = 0.7~1ns1090100\n  Current (%)\nTime (ns)\n0 5 10 15 20 25 300100\n90\n50\n10T2\nT1Front time: T1= 1.25 \uf0b4\uf020T = 8\uf06ds\nTime to half-value: T2= 20\uf06ds\n  Peak pulse current (%)\nTime (\uf06ds)T\nESD9X5VU  \nWill Semiconductor Ltd.                           4                      Revision 2. 4, 201 6/07/06 \nTypical characteristics (TA = 25 oC, unless otherwise noted )\n \n \n \n \n \n \n \n \n \n \n \nESD clamping  \n(+8kV contact discharge per IEC61000 -4-2) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTLP Measurement  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n  ESD clamping  \n       (-8kV contact discharge per IEC61000 -4-2)\n0246810121416182022-202468101214161820\nZ0 = 50 \uf057\ntr = 2ns\ntp = 100ns \n  TLP current (A)\nTLP voltage (V)\n20ns/div  10V/div  \n20ns/div  10V/div  \nESD9X5VU \nWill Semiconductor Ltd.                           5                      Revision 2.4, 2016/07/06 \nPackage outline dimensions \nFBP-02C\t\n \n     \n       \n \n                Recommend land pattern (Unit: mm) \n \n     \n \n   \n \n \n Symbol Dimensions In Millimeters \nMin. Typ. Max. \nA 0.450 0.500 0.550 \nA1 0.010 -- 0.100 \nD 0.950 1.000 1.050 \nE 0.550 0.600 0.650 \nD1 0.470 Ref. \nE1 0.420 Ref. \nb 0.270 0.320 0.370 \nb1 0.250 0.300 0.350 \ne 0.555 0.605 0.655 \ne1 0.230 Ref. \nL 0.250 0.300 0.350 \nL1 0.030 Ref. \nL2 0.370 0.420 0.470 \nL3 0.040 Ref. \nNotes:  \nThis recommended land pattern is for reference purposes only. Please consult your manufacturing group to ensure your PCB design guidelines are met. 0.40\n0.40\n0.50 0.18 0.62DE A\nA1ee1L D1\nL2\nL1 L3b1\nE1b\nTop View Bottom View\nSide View\n'}]
+!==============================================================================!
+### Component Summary: ESD9X5VU-2/TR
+
+**Manufacturer:** Will Semiconductor Ltd.
+
+**Description:**
+The ESD9X5VU is a uni-directional transient voltage suppressor (TVS) designed to provide high-level protection for sensitive electronic components against electrostatic discharge (ESD). It is particularly suitable for replacing multilayer varistors (MLVs) in consumer electronics such as mobile phones, notebooks, tablets, set-top boxes (STBs), and LCD TVs. The device features ultra-low capacitance steering diodes and a TVS diode, making it effective for high-speed data lines.
+
+### Key Specifications:
+
+- **Voltage Ratings:**
+  - Reverse Stand-off Voltage (VRWM): 5.0 V
+  - Reverse Breakdown Voltage (VBR): 7.0 - 9.0 V
+
+- **Current Ratings:**
+  - Peak Pulse Current (IPP): 4 A (for 8/20μs pulse)
+  - Reverse Leakage Current (IR): <1 nA (at VRWM = 5V)
+
+- **Power Consumption:**
+  - Peak Pulse Power (Ppk): 60 W (for 8/20μs pulse)
+
+- **Operating Temperature Range:**
+  - Junction Temperature (TJ): 125 °C
+  - Operating Temperature (TOP): -40 °C to 85 °C
+  - Storage Temperature (TSTG): -55 °C to 150 °C
+
+- **Package Type:**
+  - FBP-02C
+
+- **Special Features:**
+  - ESD protection up to ±20 kV (contact and air discharge) according to IEC61000-4-2
+  - Surge protection: 4 A (8/20μs) according to IEC61000-4-5
+  - Ultra-low capacitance: CJ = 0.5 pF (typical)
+  - Ultra-low leakage current: IR < 1 nA (typical)
+  - Low clamping voltage: VCL = 18 V (typical at IPP = 16 A)
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided text, but typically assessed according to JEDEC J-STD-020E.
+
+### Typical Applications:
+The ESD9X5VU is commonly used in various high-speed data interfaces and consumer electronics, including:
+- USB 2.0 and USB 3.0
+- HDMI 1.3 and HDMI 1.4
+- SATA and eSATA
+- DVI
+- IEEE 1394
+- PCI Express
+- Portable electronics and notebooks
+
+### Conclusion:
+The ESD9X5VU-2/TR is an effective solution for protecting sensitive electronic components from ESD and surge events, making it ideal for modern consumer electronics that require reliable performance in high-speed data transmission environments. Its ultra-low capacitance and leakage current characteristics enhance its suitability for applications where signal integrity is critical.

@@ -1,0 +1,48 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of AZ23C5V6W-7-F production of DIODES INCORPORATED from the text: \nAZ23C5V6W, AZ23C6V8W, \nAZ23C10W, AZ23C18W  \nDocument number: DS30257 Rev. 9 - 2  1 of 3 \nwww.diodes.com  May 2008\n© Diodes Incorporated  \n AZ23C5V6W , AZ23C6V8W , AZ23C10W , AZ23C18 W  \n      200mW DUAL SURFACE MOUNT ZENER DIODE \n \nFeatures \n• Nominal Zener Voltages: 5.6V, 6.8V, 10V, 18V \n• Ultra-Small Surface Mount Package \n• Ideal For Transient Suppression \n• Lead Free/RoHS Compliant (Note 4)  \n• "Green" Device (Note 5 and 6)  \nESD Sensitivity Rating \n• AEC-Q101, HBM - 8kV, MM - 400V  \n(AZ23C5V6W - AZ23C18W) \n• IEC 61000-4-2, Air - Exceeds  25kV, Contact - 8kV \n(AZ23C5V6W, AZ23C6V8W) \n• IEC 61000-4-2, Air - Exceeds  15kV, Contact - 8kV \n(AZ23C10W, AZ23C18W)   Mechanical Data \n• Case: SOT-323 \n• Case Material:  Molded Plasti c, "Green" Molding Compound, \nNote 6.  UL Flammability Classification Rating 94V-0 \n• Moisture Sensitivity:  Level 1 per J-STD-020D \n• Terminals:  Solderable per MIL-STD-202, Method 208 \n• Terminal Connecti ons: See Diagram \n• Lead Free Plating (Matte Tin Finish annealed over Alloy 42 \nleadframe).  \n• Marking Information: See Table Below & Page 2 \n• Ordering Information: See Page 2 \n• Weight: 0.006 grams (approximate) \n \n \n \n \n  \n \nTop View\n Device Schematic\nMaximum Ratings   @T A = 25°C unless otherwise specified  \nSingle phase, half wave, 60Hz, re sistive or inductive load. \nFor capacitance load, derate current by 20%. \nCharacteristic Symbol Value Unit \nForward Voltage  @ I F = 10mA VF 0.9 V \n \nThermal Characteristics     \nCharacteristic Symbol Value Unit \nPower Dissipation (Note 1) PD 200 mW \nThermal Resistance, Junction to Ambient Air (Note 1) RθJA 625 °C/W \nOperating and Storage Temperature Range TJ, TSTG -65 to +150 °C \n \nElectrical Characteristics  @T A = 25°C unless otherwise specified \nZener Voltage \nRange (Note 2) Maximum Zener Impedance  \n(Note 3) Maximum Reverse  \nCurrent (Note 2) Temperature \nCoefficient of \nZener Voltage \n@ IZT = 5mA \nVZ @ IZT  ZZT @ I ZT ZZK @ IZK IR @ V R TC (mV/ °C) Type \nNumber Marking \nCode \nNom (V) Min (V) Max (V) Ω mA Ω mA μA V Min Max \nAZ23C5V6W KD9 5.6 5.32 5.88 40 5.0 400 1.0 1.0 2.0 -2.0 2.5 \nAZ23C6V8W KDB 6.8 6.47 7.14 15 5.0 80 1.0 2.0 4.0 1.2 4.5 \nAZ23C10W KDF 10 9.4 10.6 15 5.0 70 1.0 0.2 7.0 4.5 8.0 \nAZ23C18W KDL 18 16.8 19.1 50 5.0 170 1.0 0.1 12.6 12.4 16.0 \nNotes: 1.  Mounted on FR4 PC Board with recommended pad layout at http:// www.di odes.com/datas heets/ap02001.pdf. \n2.  Short duration pulse test used to minimize self-heating. \n3.  f = 1KHz. \n4.  No purposefully added lead. 5.  Diodes Inc.\'s "Green" Policy can be found on our website at http:// www.di odes.com/products/l ead_free/index.php. \n6.  Product manufactured with date code 0627 (week 27, 2006) and newer are built with  Green Molding Compound. Product manufactured prior to date \n     code 0627 are built with Non-Green Molding Com pound and may contain Halogens or  Sb2O3 Fire Retardants. \n \n \n      \n \n \n AZ23C5V6W , AZ23C6V8W , AZ23C10W , AZ23C18 W  \n \nT , AMBIENT TEMPERATURE, (°C)\nFig. 1  Power Derating CurveAP, POWER DISSI PATION (mW)D200\n100300\n0\n0 100 200\n 01020304050\n01 2 3 4 5 6 7 89 1I,  Z E\n0NER CURRENT (mA)Z\nV , ZENER VOLTAGE (V)\nFig. 2  Typical Zener Breakdown CharacteristicsZ\n \n0102030\n0I,  Z E N E R CURRENT (mA)Z\nV , ZENER VOLTAGE (V)\nFig. 3  Typical Zener Breakdown CharacteristicsZ10 20 30 40T  = 25°CJ\nTest current I\n5mAZC10W\nC18W\n \nC , TOTAL CAPACITANCE (pF)T\n101001,000\n10 100 1\nV , NOMINAL ZENER VOLTAGE (V)\nFig. 4  Typical Total Capacitance vs. Nominal Zener VoltageZT = 25 °CJ \nV =  1 VRV =  2 VRV =  1 VR\nV =  2 VR\n \n \nOrdering Information   (Notes 6 & 7) \nPart Number  Case  Packaging  \n(Type Number)-7-F* SOT-323 3000/Tape & Reel \n* Add “-7-F” to the appropriate type number in Electrical Characteristics Table from Page 1 example:  6.8V Zener = AZ23C6V8W-7- F. \nNotes: 7. For packaging deta ils, go to our website at http://www.di odes.com/datasheets/ap02007.pdf . \n \nMarking Information \n \nxxx\nYMxxx = Product Type Marking Code  \nSee Electrical Characteristics Table \nYM = Date Code Marking \nY = Year (ex: N = 2002) M = Month (ex: 9 = September)  \n \n  \n \nDate Code Key \nYear  1998 1999 2000 2001 2002  2003  2004  2005  2006  2007  2008  2009 2010 2111 2012 \nCode  J K L M N P R S T U V W X Y Z \n \nMonth  Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec \nCode  1 2 3 4 5 6 7 8 9 O N D \nAZ23C5V6W, AZ23C6V8W, \nAZ23C10W, AZ23C18W  \nDocument number: DS30257 Rev. 9 - 2  2 of 3 \nwww.diodes.com  May 2008\n© Diodes Incorporated  \n \n \nAZ23C5V6W, AZ23C6V8W, \nAZ23C10W, AZ23C18W  \nDocument number: DS30257 Rev. 9 - 2  3 of 3 \nwww.diodes.com  May 2008\n© Diodes Incorporated  \n \n AZ23C5V6W , AZ23C6V8W , AZ23C10W , AZ23C18 W  \n \nPackage Outline Dimensions \n \n \n \n \n \n \n   \n \n  \n \n  \n \n  \n \nSuggested Pad Layout \n \n  \n \n  \n \n  \n \n  \n \n  \nIMPORTANT NOTICE \nDiodes Incorporated and its subsidiaries rese rve the right to make modifications, enhancements, improvements, corrections or other changes \nwithout further notice to any product herein. Diodes Incorporat ed does not assume any liability arising out of the application or use of any product \ndescribed herein; neither does it convey any  license under its patent rights, nor the ri ghts of others. The user of products in  such applications shall \nassume all risks of such use and will agree to hold Diodes Inco rporated and all the companies whose products are represented on  our website, \nharmless against all damages. \nLIFE SUPPORT \nDiodes Incorporated products are not authoriz ed for use as critical components in life support devices or systems without the e xpressed written \napproval of the President of Diodes Incorporated. A\nM\nJL D FBC\nH\nKGTOP VIEWSOT-323 \nDim Min Max \nA 0.25 0.40 \nB 1.15 1.35 \nC 2.00 2.20 \nD 0.65 Nominal \nF 0.30 0.40 \nG 1.20 1.40 \nH 1.80 2.20 \nJ 0.0 0.10 \nK 0.90 1.00 \nL 0.25 0.40 \nM 0.10 0.18 \nα 0° 8° \nAll Dimensions in mm \nX EY\nCZDimensions Value (in mm) \nZ 2.8 \nX 0.7 \nY 0.9 \nC 1.9 \nE 1.0 \n'}]
+!==============================================================================!
+### Component Summary: AZ23C5V6W-7-F
+
+**Manufacturer:** Diodes Incorporated  
+**Document Number:** DS30257 Rev. 9  
+**Date:** May 2008  
+
+#### Key Specifications:
+- **Voltage Ratings:**
+  - Nominal Zener Voltage: 5.6V
+  - Minimum Zener Voltage: 5.32V
+  - Maximum Zener Voltage: 5.88V
+
+- **Current Ratings:**
+  - Maximum Reverse Current (IR @ VR): 1.0 mA
+  - Maximum Zener Impedance (ZZT @ IZT): 40 Ω
+  - Zener Test Current (IZT): 5 mA
+
+- **Power Consumption:**
+  - Power Dissipation (PD): 200 mW
+
+- **Operating Temperature Range:**
+  - Junction Temperature (TJ): -65°C to +150°C
+  - Storage Temperature (TSTG): -65°C to +150°C
+
+- **Package Type:**
+  - SOT-323 (Ultra-Small Surface Mount Package)
+
+- **Special Features:**
+  - Lead Free/RoHS Compliant
+  - "Green" Device
+  - ESD Sensitivity Rating: AEC-Q101, HBM - 8kV, MM - 400V
+  - Ideal for transient suppression
+
+- **Moisture Sensitive Level:**
+  - Level 1 per J-STD-020D
+
+#### Description:
+The AZ23C5V6W-7-F is a dual surface mount Zener diode designed for voltage regulation and transient suppression applications. It provides a nominal Zener voltage of 5.6V, making it suitable for protecting sensitive electronic components from voltage spikes. The device is housed in a compact SOT-323 package, which is ideal for space-constrained applications.
+
+#### Typical Applications:
+- **Voltage Regulation:** Used in power management circuits to maintain a stable output voltage.
+- **Transient Suppression:** Protects circuits from voltage spikes and transients, ensuring the longevity and reliability of electronic devices.
+- **Signal Conditioning:** Can be used in signal processing applications to clamp voltage levels and prevent signal distortion.
+- **Consumer Electronics:** Commonly found in various consumer electronic devices where voltage regulation is critical.
+
+This component is particularly useful in automotive, industrial, and consumer electronics applications where robust performance and reliability are essential.

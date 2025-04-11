@@ -1,0 +1,24 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PTE-FS-EJ151-99-FUL-BR production of DECIGN from the text:A NEW 08.28.2023\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±SCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\nPAUL08.28.2023\n08.28.2023\n08.28.2023A\n0.20Tom\nJerryTom\n0.100.300.40\n2.54mm pitch Crimp TerminalPTE-FS-EJ151\nPTE-FS-EJ151-xx-FUL-xR\n'}]
+!==============================================================================!
+### Component Summary for PTE-FS-EJ151-99-FUL-BR
+
+#### Key Specifications:
+- **Voltage Ratings:** Not explicitly stated in the provided text; typically, crimp terminals are rated for standard voltages depending on the application.
+- **Current Ratings:** Not specified; current ratings for crimp terminals generally depend on the wire gauge and application.
+- **Power Consumption:** Not applicable for crimp terminals as they do not consume power.
+- **Operating Temperature Range:** Not provided; typical operating ranges for similar components are usually from -40°C to +125°C.
+- **Package Type:** Crimp terminal with a 2.54mm pitch.
+- **Special Features or Notes:** The designation "xx" in the part number indicates variations in the product, which may refer to different configurations or materials.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Component Description:
+The PTE-FS-EJ151-99-FUL-BR is a crimp terminal designed for use in electrical connections. Crimp terminals are used to create a secure and reliable electrical connection between a wire and a connector. They are typically made of conductive metal and are designed to be crimped onto the wire using a specialized tool, ensuring a strong mechanical and electrical connection.
+
+#### Typical Applications:
+Crimp terminals like the PTE-FS-EJ151 are commonly used in various applications, including:
+- **Power Distribution:** Connecting wires in power supply systems.
+- **Automotive Wiring:** Used in automotive harnesses for reliable connections.
+- **Consumer Electronics:** Connecting internal wiring in devices such as computers and appliances.
+- **Industrial Equipment:** Used in machinery and equipment for secure electrical connections.
+
+Overall, the PTE-FS-EJ151-99-FUL-BR is a versatile component suitable for a wide range of electrical applications where secure wire connections are essential.

@@ -1,0 +1,34 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of CAS-M025-M12-0257 production of E-TEC from the text:RoHS\ncompliant\nM12  Cable Assembly\n4-Pin Male D - Coding  to\n4-Pin Female D - Coding ,\nL=3000mm SHEET UNITmm\nFree  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.GENERAL TOLERANCE\n0 ~ 200mm  ->  ±10mm\n201 ~ 1000mm  ->  ±20mm\n1001 ~ 1500mm  ->  ±25mm\n1501 ~ 2100mm  ->  ±30mm\n2100mm↑->  ±40mmCherry\nKent\nSH17.02.2022\n17.02.202217.02.2022CAS-M025-M12-0257\nCAS-M025-M12-02571/1\nABlack\nRed\nBlue1\n3\n2P1\nWhite 41\n3\n2P2\n4Specifications\nElectrical\nCurrent rating: 4A per contact\nInsulation resistance: 100M Ω min.\nContact resistance: 10m Ω max.\nVoltage rating: 60V DC\nWithstanding voltage: 1000V AC\nMechanical Requirements\nWaterproof rate: IP68\nCable diameter: ∅4.0~6.5mm\nRecommended cover to rque: 6~7 kgf-cm\nRecommended gland nut torque: 9~10 kgf-cm\nIn accordance wi th IEC 61076-2-101:2012P12∅15.50 ∅17.00M12x13000+100\n-0 45.00\n1 3∅14.50 ∅17.00Pin 2\nKey\nPin 3\nPin 4 Pin 1Pin 3\nPin 4 Pin 1\nP240.50\nM12x1Pin 2\nKey\nItem Materials / Finish(Color) Q'TY\nM12 D-Coding 4P Field Instal lable Cabe End Male Solder\nP/N:M12-MD04-CVFA-55/00-M025M12 D-Coding 4P Field Instal lable Cabe End Female Solder\nP/N:M12-FD04-CVFA-55/00-M025\n3 UL2103, AWG #22x2P+AL/MY+B+D, OD Ø6.0mm, Black 11 1\n2 1\n"}]
+!==============================================================================!
+### Component Summary for CAS-M025-M12-0257
+
+**Component Type:** M12 Cable Assembly
+
+**Description:**
+The CAS-M025-M12-0257 is a 4-pin male to female cable assembly designed for robust electrical connections in various applications. It features D-coding for proper alignment and is suitable for field installation. The assembly is compliant with RoHS standards, ensuring it meets environmental regulations.
+
+**Key Specifications:**
+- **Voltage Rating:** 60V DC
+- **Current Rating:** 4A per contact
+- **Power Consumption:** Not specified directly; power can be calculated based on voltage and current ratings.
+- **Insulation Resistance:** 100 MΩ minimum
+- **Contact Resistance:** 10 mΩ maximum
+- **Withstanding Voltage:** 1000V AC
+- **Waterproof Rating:** IP68 (suitable for submersion in water)
+- **Cable Diameter:** Ø4.0~6.5mm
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Not specified; typically, cable assemblies are packaged in bulk or as individual units.
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+**Special Features:**
+- Field-installable connectors for easy assembly and maintenance.
+- High waterproof rating (IP68) makes it suitable for outdoor and harsh environments.
+
+**Typical Applications:**
+The CAS-M025-M12-0257 cable assembly is commonly used in industrial automation, sensor connections, and other applications requiring reliable and durable electrical connections. Its waterproof rating makes it ideal for outdoor use or in environments where moisture is a concern. Typical applications include:
+- Robotics
+- Machine control systems
+- Data transmission in harsh environments
+- Sensor networks
+
+This cable assembly is designed to provide a secure and efficient connection in various electronic and electrical systems, ensuring reliable performance in demanding conditions.

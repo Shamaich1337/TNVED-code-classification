@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of T10X2_EE_R4_ARRAY production of SHENZHEN ZZH ELECTRONICS CO.,LTD from the text:PCB Fabrication Specification\nPart Number: T10X2_EE_R4_ARRAY\nLayer count: 10 layers PCB\nMaterial Type: Fr4\nBoard thickeness: 1.6 mm\nUnit size: 85.5mm x 114mm\nPanel size: 173.5mm x 135mm\nArray number: 2 up\nOutline profile: Rout & Retain\nX-Out: Yes\nMax copper thickness: 1 OZ\nMin trace/spacing: 3.5 mil\nSmallest hole size: 0.2 mm\nSurface finished: Immersion Gold(1-3u")\nSolder mask color: White\nSilkscreen color: Black\nImpedance controlled: Yes\nMin copper thickness in the PTH: IPC Class 2 standard\nSpecial requirement: No\n\n'}]
+!==============================================================================!
+### Component Summary for T10X2_EE_R4_ARRAY
+
+**Product Code:** T10X2_EE_R4_ARRAY  
+**Manufacturer:** SHENZHEN ZZH ELECTRONICS CO., LTD
+
+#### Key Specifications:
+- **Layer Count:** 10 layers PCB
+- **Material Type:** FR4 (Flame Retardant 4)
+- **Board Thickness:** 1.6 mm
+- **Unit Size:** 85.5 mm x 114 mm
+- **Panel Size:** 173.5 mm x 135 mm
+- **Array Number:** 2 up
+- **Outline Profile:** Rout & Retain
+- **X-Out:** Yes (indicates that the board can be separated from the panel)
+- **Max Copper Thickness:** 1 OZ
+- **Min Trace/Spacing:** 3.5 mil
+- **Smallest Hole Size:** 0.2 mm
+- **Surface Finish:** Immersion Gold (1-3 µ")
+- **Solder Mask Color:** White
+- **Silkscreen Color:** Black
+- **Impedance Controlled:** Yes
+- **Min Copper Thickness in the PTH:** IPC Class 2 standard
+- **Special Requirement:** No
+
+#### Description:
+The T10X2_EE_R4_ARRAY is a high-density printed circuit board (PCB) designed for complex electronic applications. It features a 10-layer construction, which allows for a compact design while maintaining signal integrity and power distribution. The use of FR4 material ensures durability and reliability in various operating conditions.
+
+#### Typical Applications:
+This PCB is typically used in applications that require high performance and reliability, such as:
+- **Telecommunications:** For signal processing and data transmission.
+- **Consumer Electronics:** In devices where space is limited but performance is critical.
+- **Industrial Equipment:** For control systems and automation.
+- **Medical Devices:** Where precision and reliability are paramount.
+- **Automotive Electronics:** In systems requiring robust performance under varying environmental conditions.
+
+The T10X2_EE_R4_ARRAY is suitable for applications that demand high layer counts and controlled impedance, making it ideal for advanced electronic designs.

@@ -1,0 +1,44 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of TFM-105-01-S-D-RE1-WT production of SAMTEC from the text:(1,27 mm) .050"\nTFM, TFML SERIES\n(1,27 mm x 1,27 mm)\n.050" x .050"micro pitchTFML–115–02–L–D–KTFM–110–02–L–D–LCTFM–115–02–L–S\nSurface mount or \nThrough-hole tailsTFM–110–01–L–D–RE1–WT\nShrouded body for blind mating\nWWW.SAMTEC.COMNO. PINS\nPER ROW 1\nNote:  Some sizes, styles and \noptions are non-standard, non-returnable.F-213-1\nSPECIFICATIONS\nTYPE\nSTRIP\nNote:  Other Gold plating \noptions available.Contact Samtec.SMT  &  THROUGH-HOLE  HEADER™\nSYSTEM\nTFM Mates with:\nSFM, SFMC, SFSD\nTFML Mates with:  \nSFML\nTFM-DH Mates with:  \nSFM (-DH), SFMC,SFSDX (–S, -D, -SR, -DR)\nTFM  \n= Standard\nTFML  \n= Locking\n(–01 & –02 \nlead style only)04, 06, 08\n(TFM & –01 only) \n05, 07, 10, 15, 20, \n25, 30, 35, 40, 45, 50\n(Call Samtec for other sizes)PLATING \nOPTION\n–L\n= 15µ" (0,38 µm) \nGold on post, \nMatte Tin on tail\n(Call Samtec for \nE.L.P. plating option)Specify \nLEAD STYLE \nfrom chartFor complete speciﬁ  cations and \nrecommended PCB layouts \nsee www.samtec.com?TFM or www.samtec.com?TFML\nInsulator Material:\nBlack Liquid Crystal PolymerTerminal Material:Phosphor BronzePlating: Au or Sn over 50µ" (1,27 µm) NiVoltage Rating: 250 VAC mated with SFMOperating Temp Range:-55°C to +125°CRoHS Compliant:Ye s\nProcessing:\nLead-Free Solderable:Ye sSMT Lead Coplanarity:(0,10 mm) .004" max (05-25)(0,15 mm) .006" max (30-50) \nLEAD STYLE MATED \nHEIGHT* TFM SFM\n–02\n–02(6,35) .250\n–12 (8,13) .320\n–22 (9,91) .390\n–32 (11,81) .465\nLEAD STYLE MATED \nHEIGHT* TFM SFM\n–01\n–01(5,97) .235\n–03 (5,97) .235\n–11 (7,75) .305\n–13 (7,75) .305\n–21 (9,53) .375\n–23 (9,53) .375\n–31 (11,43) .450\n*Processing conditions will affect \nmated height.MATED HEIGHTCURRENT RATING\n(PER CONTACT)\nAMBIENT TEMP TFM/SFM\n20°C 5A40°C 4.5A60°C 3.9A95°C 2.6A\n6 POSITIONS (2x3) POWERED\nLEAD STYLE\nTHROUGH-HOLE SURFACE MOUNT–WT\n(–01 & –02 ONLY)(0,36) .014(0,46) .018 DIA(1,27) .050(2,79) .110(1,27) .050 x \nNo. of Positions + (3,18) .125\n(See website for –DS & –WT OAL)\nA\n(1,42) \n.056(1,40) \n.055(1,27)\n.050\nDIA(1,14)\n.045\n(2,35)\n.093 (0,64)\n.025(5,72)\n.225\n(1,27)\n.050(4,45)\n.175\nB\nC–REX = (1,27) .050 x \nNo. of Positions + (6,68) .263\n–LC\n(SMT or TH)DOUBLE ROWSINGLE ROW–A \n(SMT or TH)\nCOST-SAVING \nAPPLICATIONS\nSee TFC Series for lower \ncost plating options.EXTENDED LIFE PRODUCT\n10 year Mixed Flowing Gas with 30µ" GoldTM\n1,000 cycles when mated with SFMAPPLICATIONS\nTFM-DH to SFM-DH SHOWN\nTFM to SFM-SH SHOWN\nLEAD \nSTYLE\n(T/H)BC\n–01(5,59) \n.220(1,97) \n.078\n–03*(5,59) \n.220(2,77) \n.109\n–11*(7,37) \n.290(1,97) \n.078\n–13*(7,37) \n.290(2,77) \n.109\n–21*(9,14) \n.360(1,97) \n.078\n–23*(9,14) \n.360(2,77) \n.109\n–31*(11,05) \n.435(1,97) \n.078\n* N/A with 07 or -S row \noptionLEAD \nSTYLE\n(SMT)A\n–02 (5,72) .225\n–12* (7,49) .295\n–22* (9,27) .365\n–32* (11,18) .440\n* N/A with 07, -DH or  \n  -S row option\n134\n(1,27 mm)\n.050" pitchShrouded body forblind mating\nSurface mount or Through-hole tailsTFML–150–01–L–D–LCTFM–125–01–L–D–WT\nTFM–110–02–L–D–DS\nScrew down \noptionWeld tab \noptionTFM–105–01–L–D–RA\nTFM–110–02–L–DH–WT\nMates with SFM \nfor coplanar and perpendicular mating\n\x81 Passes 10 Y ear MFG\n\x81 Locking option\x81 Locking clip option\x81 Weld tab option\x81 Screw Down option\nWWW.SAMTEC.COMAPPLICATION \nSPECIFIC OPTION\nSolder nail option available. \nCall Samtec.OPTIONROW\nOPTION\n–S\n= Single Row \n(TFM only)\n–D\n= Double Row\n–DH\n= Double Horizontal\n(TFM lead style –02 only)\n(05 thru 50 \npositions only)\n(–WT standard; –TR \noption only available)\n(1,91)\n.075\n(0,51)\n.020 (1,27) \n.050\n(6,48)\n.255\n(1,99)\n.079(3,81)\n.150(0,76) \n.030(2,26) \n.089\n–RE1 & –RE2–RASpecify only –RA, –RE1 or –RE2\n–RA\n= Right Angle\n(Lead style –01 only)\n–RE1\n= Right Angle Elevated for (1,58 mm) .062" PCB\n(Requires TFM lead style –01, –D row and –WT)\n–RE2\n= Right Angle Elevated for (2,36 mm) .093" PCB\n(Requires TFM lead style –01, –D row and –WT)SMT lead styles only \nSpecify only –K or –P \n–K\n= Polyimide Film Pick & Place Pad \n–P\n= Plastic Pick & Place Pad\n(5 positions minimum)\nSpecify –TR last\n–TR\n= Tape & Reel\n(Not available with –DS)\n–DH\n–DS \n(–D, –01 & –02 ONLY)Specify only –A, –LC, –DS or –WT \nNot available with –RA, –RE1 and –RE2\nunless otherwise noted.\n–A\n= Alignment Pin\n–LC\n= Locking Clip \n(Manual Placement required)\n–DS\n= Dual Screw Down for \n(1,60 mm) .062" PCB\n(05, 07, 10, 15, 20, 25, 30, \n35, 40 positions only)\n(TFM lead styles –01 and –02 only)\n(Requires –D row option)\n(Mates with SFM–DS option and \nSFSD/SFSDT –SS and –DS option only)\n–WT\n= Weld Tab\n(TFM lead styles –01 and –02 only)\n(Required callout for –RE1 & –RE2)\n(Standard with –DH)\n(Mates to SFSS/SFSD –SR and \n–DR option only)\n(05, 07, 10, 15, 20, 25, 30, 35, \n40, 45, 50 positions only)\n135\nMouser Electronics\n  \nAuthorized Distributor\n \n  \nClick to View Pricing, Inventory, Delivery & Lifecycle Information:\n \n \n \n Samtec:   \n\xa0 TFM-105-01-S-D-RE1-WT\xa0 TFML-130-02-S-D-K-TR\n'}]
+!==============================================================================!
+### Component Summary for TFM-105-01-S-D-RE1-WT
+
+**Component Type:**  
+- **Type:** Header Connector  
+- **Series:** TFM Series  
+- **Configuration:** Shrouded body for blind mating  
+- **Mounting Style:** Surface mount or through-hole tails  
+
+**Key Specifications:**
+
+- **Voltage Rating:** 250 VAC (when mated with SFM connectors)  
+- **Current Rating (per contact):** 
+  - 20°C: 5A  
+  - 40°C: 4.5A  
+  - 60°C: 3.9A  
+  - 95°C: 2.6A  
+- **Power Consumption:** Not explicitly stated; current rating indicates capability.  
+- **Operating Temperature Range:** -55°C to +125°C  
+- **Package Type:** Surface mount or through-hole  
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text; typically, this would be referenced in the full datasheet.  
+- **Special Features:** 
+  - Shrouded design for blind mating  
+  - Available with various lead styles and options (e.g., locking clips, screw down options)  
+  - RoHS compliant  
+  - Lead-free solderable  
+
+**Material Specifications:**
+- **Insulator Material:** Black Liquid Crystal Polymer  
+- **Terminal Material:** Phosphor Bronze  
+- **Plating Options:** 15µ" (0.38 µm) Gold on post, Matte Tin on tail  
+
+### Description:
+The TFM-105-01-S-D-RE1-WT is a micro pitch header connector designed for reliable electrical connections in compact electronic assemblies. It features a shrouded body that facilitates blind mating, making it suitable for applications where access to the connector is limited. The connector is part of the TFM series, which is known for its versatility in mounting styles and configurations.
+
+### Typical Applications:
+The TFM-105-01-S-D-RE1-WT connector is typically used in:
+- **Consumer Electronics:** For connecting various components within devices such as smartphones, tablets, and laptops.
+- **Industrial Equipment:** In control systems and automation where space is constrained.
+- **Telecommunications:** For connecting circuit boards in networking equipment.
+- **Automotive Applications:** In electronic control units (ECUs) and other automotive electronics.
+
+This connector is ideal for applications requiring a compact, reliable connection with the ability to withstand a wide range of operating temperatures and environmental conditions.

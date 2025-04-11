@@ -1,0 +1,52 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 6ES7221-1BH32-0XB0 production of SIEMENS from the text:Лист тех. данных 6ES7221-1BH32-0XB0\nSIMATIC S7-1200, Digital input SM 1221, 16 DI, 24 V DC, Sink/Source\nОбщая информация\nОбозначение типа продукта SM 1221 DI 16 x 24 В пост. тока\nНапряжение питания\nНоминальное значение (пост. ток) 24 V\nДопустимый диапазон, нижний предел (пост. ток) 20,4 V\nДопустимый диапазон, верхний предел (пост. ток) 28,8 V\nВходной ток\nиз шины на задней стойке 5 В пост. тока, макс. 130 mA\nЦифровые входы\n● из источника напряжения нагрузки L+ (без нагрузки), \nмакс.4 mA; на канал\nвыходное напряжение / заголовок\nисточник питания измерительных преобразователей / заголовок\n● есть Да\nРассеиваемая мощность\nНормальная рассеиваемая мощность 2,5 W\nЦифровые входы\nЧисло входов 16\n● по группам для 4\nВходная характеристика по IEC 61131, тип 1 Да\nЧисло одновременно включаемых входов\nВсе монтажные положения\n— до 40 ° C, макс. 16\nгоризонтальный настенный монтаж\n— до 40 ° C, макс. 16\n— до 50 ℃, макс. 16\nвертикальный настенный монтаж\n— до 40 ° C, макс. 16\nВходное напряжение\n● Номинальное значение (пост. ток) 24 V\n● для сигнала "0" 5 В пост. тока при 1 мА\n● для сигнала "1" 15 В пост. тока при 2,5 мА\nВходной ток\n● для сигнала "0", макс. (допустимый ток покоя) 1 mA\n● для сигнала "1", мин. 2,5 mA\n● для сигнала "1", тип. 4 mA\nЗадержка на входе (при номинальном значении входного напряжения)\nдля стандартных входов\n— параметрируемое Да; 0,2 мс; 0,4 мс; 0,8 мс; 1,6 мс; 3,2 мс; 6,4 мс и 12,8 мс, выбирается в 4 \nгруппах\n6ES72211BH320XB0\n1/219.09.2023.\n© Copyright Siemens \nдля входов аварийной сигнализации\n— параметрируемое Да\nДлина провода\n● экранированные, макс. 500 m\n● неэкранированные, макс. 300 m\nАварийные сигналы/диагностика/информация о состоянии\nАварийные сигналы\n● Диагностический сигнал Да\nДиагностический светодиодный индикатор\n● для индикации состояния входов Да\nГальваническая развязка\nГальваническая развязка цифровых вводов\n● между каналами, в блоках для 4\nСтепень защиты и класс защиты\nСтепень защиты IP IP20\nСтандарты, допуски, сертификаты\nМаркировка CE Да\nДопуск CSA Да\nДопуск UL Да\ncULus Да\nДопуск FM Да\nRCM ( ранее C-TICK) Да\nДопуск КС Да\nДопуск для судостроения Да\nОкружающие условия\nСвободное падение\n● Макс. высота свободного падения 0,3 m; пять раз, в упаковке к отправке\nТемпература окружающей среды при эксплуатации\n● мин. -20 °C\n● макс. 60 °C\n● Допустимое изменение температуры от 5 ° C до 55 ° C, 3 °C/ минута\nТемпература окружающей среды при хранении/транспортировке\n● мин. -40 °C\n● макс. 70 °C\nДавление воздуха согласно IEC 60068-2-13\n● Хранение/транспортировка, мин. 660 hPa\n● Хранение/транспортировка, макс. 1 080 hPa\nОтносительная влажность воздуха\n● Эксплуатация при 25 ° C без конденсации, макс. 95 %\nтехнология подключения\nТребуемый передний штекер Да\nМеханические свойства/материалы\nМатериал корпуса (спереди)\n● Пластиковый Да\nРазмеры\nШирина 45 mm\nВысота 100 mm\nГлубина 75 mm\nМассы\nМасса, прибл. 210 g\nпоследнее изменение: 23.08.2023\n6ES72211BH320XB0\n2/219.09.2023.\n© Copyright Siemens \n'}]
+!==============================================================================!
+### Component Summary for 6ES7221-1BH32-0XB0
+
+**Product Type:**  
+Digital Input Module (SM 1221) for SIMATIC S7-1200
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Nominal Voltage: 24 V DC
+  - Lower Limit: 20.4 V DC
+  - Upper Limit: 28.8 V DC
+
+- **Current Ratings:**
+  - Maximum Input Current from Backplane: 130 mA
+  - Input Current for Signal "0": Maximum 1 mA
+  - Input Current for Signal "1": Minimum 2.5 mA, Typical 4 mA
+
+- **Power Consumption:**
+  - Normal Power Dissipation: 2.5 W
+
+- **Operating Temperature Range:**
+  - Operating: -20 °C to 60 °C
+  - Storage/Transport: -40 °C to 70 °C
+
+- **Package Type:**
+  - Dimensions: 45 mm (W) x 100 mm (H) x 75 mm (D)
+  - Weight: Approximately 210 g
+
+- **Special Features:**
+  - 16 Digital Inputs
+  - Input Delay: Configurable (0.2 ms to 12.8 ms)
+  - Galvanic Isolation between Channels
+  - Diagnostic LED Indicators for Input Status
+  - IP20 Protection Rating
+  - Compliance with CE, CSA, UL, cULus, FM, RCM, and marine certifications
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided text.
+
+**Description:**
+The 6ES7221-1BH32-0XB0 is a digital input module designed for use with the Siemens SIMATIC S7-1200 programmable logic controller (PLC) system. It features 16 digital inputs that can accept signals from various sources, allowing for the integration of multiple sensors and devices into an automation system. The module supports both sourcing and sinking configurations, making it versatile for different application needs.
+
+**Typical Applications:**
+This digital input module is typically used in industrial automation for:
+- **Signal Processing:** Capturing digital signals from sensors, switches, and other devices.
+- **Control Systems:** Integrating with PLCs to monitor and control machinery and processes.
+- **Data Acquisition:** Collecting input data for further processing and decision-making in automated systems.
+- **Monitoring Systems:** Providing real-time status updates and diagnostics for operational efficiency.
+
+Overall, the 6ES7221-1BH32-0XB0 is essential for building reliable and efficient control systems in various industrial applications.

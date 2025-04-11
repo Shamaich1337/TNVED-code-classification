@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CABLE-NUL-26AWG-2P/S-26AWG-2C-7.5/UV production of E-TEC from the text:SPEC No.:\nCustomer 8Code  -- Sample NO:\nUL File NO.  --  -- Date: 9/27/21 Spec NO:\nCSA File NO.  --  -- Edition:  -- Operation NO:\nStructure AWG AWG\nMaterial --O.D. mmMaterial --Diameter mmAverage Thickness mm\nColor --\nDirection --\nPitch mm\nDiameter mm\nShield --\nStructure AWG AWG\nMaterial --Coverage Rate %Material --Diameter mmAverage Thickness mmExtrusion --Color --\nDirection --\nPitch mm\nDiameter mm\nShield --\nStructure AWG AWG\nMaterial --Coverage Rate %Material --Diameter mmAverage Thickness mmExtrusion --Externals --\nColor --\n Color --\nInkingNo\n--\nDraw NO.:\n COLOR CODE\n1.Inside :RED*VIOLET     Outside:BLACK\n2.Inside: BLUE*GREEN    Outside:WHITE\n3.BLACK \n4.WHITE\n核\n准審\n核製\n作UL Style:  --CABLE SPECIFICATION\n(19/0.1TA*1PR+S 93%+TPE)*2+19/0.1*2C+S    90%\nCustomer NO.  --\nCSA Style:  --\nStructure Structure  A Structure  B\n0.49 Ref 0.49 Ref\nInsulationPVC PVC\n1±0.07 1±0.07\n0.255 Ref 0.255 Ref\nAS Color CodeConductors26#(19/0.1±0.008) 26#(19/0.1±0.008)\nTinned Copper Tinned Copper\nAS Color Code\nTwistLeft   (Z)\n12±4\n2.0\n Jacket 1TPE(Halogen free)\n3.0±0.13\n0.4\n Solid\nAS Color CodeShielding 1Spiral \n58±3/0.1±0.008\nTinned Copper\n93\nLayerLeft   (Z)\n100 Ref\n6 Ref\nShielding 3Spiral \n122±4/0.1±0.008\nTinned Copper\n90MIN\n JacketTPE(Halogen free)\n7.5 ± 0.19\n0.40\n Solid\n Plane\nBLACK\nInking--\n--\nSPEC No.:\nCustomer 8Code  -- Sample NO:\nUL File NO.  --  -- Date: 9/27/21 Spec NO:\nCSA File NO.  --  -- Edition:  -- Operation NO:\nElectric Characters\n1.Voltage rating : 30V2.Spark test: AC- 500V/0.15 sec  MIN. 3.Dielectric strength: AC- 750V/1 sec MIN.4.Insulation resistance: PVC: DC- 500V 10 MΩ/KM MIN. at 20℃5.Conductor resistance: 26AWG-153Ω/KM MAX. at 25℃\nPhysical Characters\n1.Requirements for green environment protection :Accord with  R oHS 2.0+Reach\n2.Operation temperature : -10℃~80℃3.Ultraviolet ray resistance \n核\n准審\n核製\n作CSA Style:  --CABLE CHARACTERS \n(19/0.1TA*1PR+S 93%+TPE)*2+19/0.1*2C+S    90%\nCustomer NO.  --\nUL Style:  --\n'}]
+!==============================================================================!
+### Component Summary: CABLE-NUL-26AWG-2P/S-26AWG-2C-7.5/UV
+
+#### Key Specifications:
+- **Voltage Rating**: 30V
+- **Current Rating**: Not explicitly stated; typically determined by wire gauge and application.
+- **Power Consumption**: Not specified; depends on the load connected.
+- **Operating Temperature Range**: -10°C to 80°C
+- **Package Type**: Not applicable (cable)
+- **Special Features**:
+  - Halogen-free TPE jacket
+  - UV resistance
+  - Compliance with RoHS 2.0 and REACH environmental standards
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+#### Description:
+The CABLE-NUL-26AWG-2P/S-26AWG-2C-7.5/UV is a multi-conductor cable designed for various electronic applications. It features two pairs of 26 AWG conductors, each made of tinned copper, which enhances corrosion resistance. The cable is insulated with PVC and has a halogen-free TPE outer jacket, making it suitable for environments where fire safety and environmental impact are concerns.
+
+#### Typical Applications:
+This cable is typically used in:
+- **Signal Transmission**: Ideal for low-voltage applications where signal integrity is crucial.
+- **Data Communication**: Suitable for connecting devices in data transmission systems.
+- **Industrial Equipment**: Can be used in machinery and equipment that require flexible and durable wiring solutions.
+- **Consumer Electronics**: Commonly found in devices that require reliable power and signal connections.
+
+The cable's UV resistance and environmental compliance make it particularly suitable for outdoor applications or installations where exposure to sunlight and harsh conditions is expected.

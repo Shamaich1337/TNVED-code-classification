@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of C0603X333J3RACTU production of KEMET ELECTRONICS from the text:C0603X333J3RACTU\naka C0603X333J3RAC7867  \nCapacitor, ceramic, 0.033 uF, +/-5% Tol, 25V, X7R, 0603\nDimensions (mm)\nID Dimension Tolerance\nL 1.6 +0.2/-0.1\nW 0.8 +/-0.15\nT 0.8 +/-0.07\nB 0.45 +0.05/-0.15\nS 0.5 minSpecifications\nManufacturer: KEMET\nCapacitance: 0.033 uF\nChip Size: 0603\nVoltage: 25V\nTemperature Coefficient: X7R\nTolerance: +/-5%\nApplication: Std Chip/Flexible Termination\nTermination Type: Tin\nMarked: No\nDissipation Factor: 3.5%\nInsulation Resistance: 30.3 GOhm\nDielectric Strength: 62.5V\nPackage Kind: T&R\nPackage Size: 7in\nPackage Type: Paper Tape\nPackage Quantity: 4000\n© 2006-2012 IntelliData.netStatements of suitability for certain applications are based on our knowledge of typical operating conditions for such applications, but\nare not intended to constitute - and we specifically disclaim - any warranty concerning suitability for a specific customer application or\nuse. This Information is intended for use only by customers who have the requisite experience and capability to determine the correct\nproducts for their application. Any technical advice inferred from this Information or otherwise provided by us with reference to the use of\nour products is given gratis, and we assume no obligation or liability for the advice given or results obtained.\n'}]
+!==============================================================================!
+### Component Summary: C0603X333J3RACTU (KEMET ELECTRONICS)
+
+#### Key Specifications:
+- **Capacitance**: 0.033 µF
+- **Voltage Rating**: 25V
+- **Tolerance**: ±5%
+- **Temperature Coefficient**: X7R
+- **Dissipation Factor**: 3.5%
+- **Insulation Resistance**: 30.3 GΩ
+- **Dielectric Strength**: 62.5V
+- **Operating Temperature Range**: -55°C to +125°C (typical for X7R)
+- **Package Type**: 0603 (Chip Size)
+- **Termination Type**: Tin
+- **Moisture Sensitivity Level (MSL)**: Not specified in the provided text, but typically X7R capacitors are MSL 1 or 2.
+- **Package Quantity**: 4000 units per reel
+- **Package Kind**: Tape and Reel (T&R)
+- **Dimensions**: 
+  - Length (L): 1.6 mm (+0.2/-0.1 mm)
+  - Width (W): 0.8 mm (±0.15 mm)
+  - Thickness (T): 0.8 mm (±0.07 mm)
+  - Bottom (B): 0.45 mm (+0.05/-0.15 mm)
+  - Spacing (S): 0.5 mm minimum
+
+#### Description:
+The C0603X333J3RACTU is a ceramic capacitor manufactured by KEMET Electronics. It features a capacitance value of 0.033 µF and is designed with an X7R dielectric, which provides stable capacitance over a wide temperature range. The capacitor is housed in a compact 0603 chip package, making it suitable for surface mount applications.
+
+#### Typical Applications:
+This capacitor is commonly used in various electronic applications, including:
+- **Decoupling and Bypass Capacitors**: To filter out noise and stabilize voltage in power supply circuits.
+- **Timing Circuits**: In conjunction with resistors to create timing elements in oscillators and timers.
+- **Signal Coupling**: To allow AC signals to pass while blocking DC components in audio and RF applications.
+- **Filtering Applications**: In power management systems to smooth out voltage fluctuations.
+
+The C0603X333J3RACTU is ideal for use in consumer electronics, telecommunications, automotive electronics, and other applications where space-saving components are essential.

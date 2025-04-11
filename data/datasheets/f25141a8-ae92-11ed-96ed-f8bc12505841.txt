@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CGA4J1X8L1A106KT0Y0N production of TDK from the text:Equivalent C2012X8L1A106K for Automotive\nAutomotive grade (General type)\nCGA4(2012) [EIA 0805]\nL 2.00+0.25,-0.15 mm\nW 1.25+0.25,-0.15 mm\nT 1.25+0.25,-0.15 mm\nB 0.20 mm min.\nG 0.50 mm min.\nX8L (-55 to +150 degC, +15/-40%)\n1A (10Vdc)\n10μF\nK (±10%)\n7.5 % max.\n10 Mohm min.\nYes\nAll specifications are subject to change without notice. October 20, 2021CGA4J1X8L1A106K125AC\nTDK item description : CGA4J1X8L1A106KT****\n110100\n0.001 0.01 0.1 1 10 100 1000Cap./ μF\nFrequency/MHzCap. vs. Freq. Characteristic0.0010.010.1110100\n0.001 0.01 0.1 1 10 100 1000|Z|, ESR/ohm\nFrequency/MHz\n|Z| ESR-60-50-40-30-20-100\n0 2 4 6 8 10 12Cap. Change/%\nDC Bias/VDC Bias Characteristic\n-90-80-70-60-50-40-30-20-1001020\n-80 -60 -40 -20 020 40 60 80100 120 140 160 180Cap. Change/%\nTemperature/degCTemperature Characteristics\nTemp.Chara. TCBias(1/2Rated)\n0510152025\n0 1 2 3 4 5 6Temperature Rise/degC\nCurrent/ArmsRipple Temperature Rise Characteristics\n100kHz 500kHz 1MHzApplication & Main Feature\nSeries\nDimensions\nTemperature Characteristic\nRated Voltage\nCapacitance\nCapacitance Tolerance\nDF\nInsulation Resistance\nAEC-Q200Characterization Sheet ( Multilayer Ceramic Chip Capacitors )\n|Z|, ESR vs. Freq. Characteristics\n\n'}]
+!==============================================================================!
+### Component Summary: CGA4J1X8L1A106KT0Y0N (TDK)
+
+#### Key Specifications:
+- **Voltage Rating**: 10 V DC
+- **Capacitance**: 10 µF
+- **Capacitance Tolerance**: ±10% (K)
+- **Power Consumption**: Not directly specified; however, the component is a capacitor and does not consume power in the traditional sense.
+- **Operating Temperature Range**: -55°C to +150°C (X8L)
+- **Package Type**: CGA4 (2012) [EIA 0805]
+  - Dimensions: 
+    - Length: 2.00 mm (+0.25 mm, -0.15 mm)
+    - Width: 1.25 mm (+0.25 mm, -0.15 mm)
+    - Thickness: 1.25 mm (+0.25 mm, -0.15 mm)
+- **Moisture Sensitive Level**: Yes (per JEDEC J-STD-020E)
+- **Insulation Resistance**: 10 MΩ minimum
+- **DF (Dissipation Factor)**: 7.5% maximum
+
+#### Description:
+The CGA4J1X8L1A106KT0Y0N is a multilayer ceramic chip capacitor designed for automotive applications. It is classified as an automotive-grade component, ensuring reliability and performance under harsh conditions typically encountered in automotive environments. The capacitor features a high capacitance value of 10 µF and operates effectively across a wide temperature range, making it suitable for various electronic circuits.
+
+#### Typical Applications:
+This capacitor is primarily used in:
+- **Power Management**: Filtering and decoupling applications in power supply circuits to stabilize voltage and reduce noise.
+- **Signal Processing**: Coupling and bypassing in signal paths to maintain signal integrity.
+- **Automotive Electronics**: Used in various automotive systems such as engine control units (ECUs), infotainment systems, and safety systems, where reliability and performance are critical.
+
+The CGA4J1X8L1A106KT0Y0N is designed to meet the stringent requirements of the automotive industry, ensuring it can withstand extreme temperatures and conditions while providing stable electrical performance.

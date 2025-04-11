@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of CRF-104-P254 production of E-TEC from the text:Material\nInsulator: PA66 (brown or white) UL 94V-0\nOperating temperature: -40°C to +105°CRoHS\ncompliant\nCrimp Contact Plug Housing\n"P"-Type 2.54mm pitch\nSingle RowSpecifications\nElectrical\nCurrent rating: 3A\nInsulation resistance: 1000MΩ min.\nContact resistance: 20mΩ max.\nVoltage rating: 50V DC\nWithstanding voltage: 1500V AC / Minute\n SHEET UNITmm\nFreeGENERAL TOLERANCE\n  X.° ±\n  .X° ±\n .XX° ±\n.XXX° ±X.   ±\n.X    ±\n.XX   ±\n.XXX ±  E-tec 2022 © - all rights reserved   www.e-tec.asia\nSCALEDRAWN\nCHECK\nAPPROVEDATE\nDATE\nDATEDWG. NO.\nSERIES NO.REV. DESCRIPTION DATE DRAWN\n REV.\n0.25Cherry\nKent\nSH23.12.2022\n23.12.202223.12.2022CRF-1-P254\nCRF-1xx-P254/x-M0251/2\nAOrder Code\nCRF-1xx-P254/x-M025\nload with Crimp Contact:\nCRF-999/27-P254-xx\nmate with:\nCRS-1xx-SP254-99/XCRS-1xx-P254-99\nCRR-1xx-P 254-99A New 23.12.2022 Cherry\n2.54\nA4.80\n3.80\n12.706.70\n2.15\n1B1.10\nno suffix =  Brown\n9 = WhiteColor Option\nAB\n2.54 5.60 02\n5.08 8.14 03\n7.62 10.68 04\n10.16 13.22 05\n12.70 15.76 06\n15.24 18.30 07\n17.78 20.84 08\n20.32 23.38 09\n22.86 25.92 10\n25.40 28.46 11\n27.94 31.00 12\n30.48 33.54 13\n33.02 36.08 14\n35.56 38.62 15\n38.10 41.16 16\n40.64 43.70 17\n43.18 46.24 18\n45.72 48.78 19\n48.26 51.32 20No. of\nContactsDimension mm0.15\n'}]
+!==============================================================================!
+### Component Summary: CRF-104-P254
+
+#### Key Specifications:
+- **Voltage Rating:** 50V DC
+- **Current Rating:** 3A
+- **Power Consumption:** Not specified (dependent on application)
+- **Insulation Resistance:** 1000 MΩ minimum
+- **Contact Resistance:** 20 mΩ maximum
+- **Withstanding Voltage:** 1500V AC for 1 minute
+- **Operating Temperature Range:** -40°C to +105°C
+- **Package Type:** Crimp Contact Plug Housing, "P"-Type, 2.54mm pitch, Single Row
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text
+- **Special Features/Notes:** 
+  - Material: Insulator made of PA66 (available in brown or white) with UL 94V-0 flame rating.
+  - RoHS compliant.
+
+#### Description:
+The CRF-104-P254 is a crimp contact plug housing designed for electrical connections in various applications. It features a 2.54mm pitch and is suitable for single-row configurations. The component is constructed from PA66 material, ensuring durability and compliance with safety standards.
+
+#### Typical Applications:
+The CRF-104-P254 is typically used in:
+- **Power Management:** Connecting power supplies to various electronic devices.
+- **Signal Processing:** Facilitating connections in signal transmission applications.
+- **Data Storage:** Used in connectors for data storage devices.
+- **Consumer Electronics:** Commonly found in devices requiring reliable electrical connections, such as computers, appliances, and automotive applications.
+
+This component is ideal for applications where a compact and reliable connection is necessary, particularly in environments that may experience a wide range of temperatures.

@@ -1,0 +1,26 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of PCR-208-W300-99 production of E-TEC from the text:Ampere 5A 5A 4A 3A 2A 1A\nWire size #20 #22 #24 #26 #28 #30ABC\n02 6,65\n04 3,00 9,65\n06 6,00 12,65\n08 9,00 15,65 4,70\n10 12,00 18,65 7,70\n12 15,00 21,65 10,70\n14 18,00 24,65 13,70\n16 21,00 27,65 16,70\n18 24,00 30,65 19,70\n20 27,00 33,65 22,70\n22 30,00 36,65 25,70\n24 33,00 39,65 28,70No. of \nPinsDimension mm\nPCR-2xx-W300-99- M025\n\n'}]
+!==============================================================================!
+Based on the provided text, here is a concise summary of the component PCR-208-W300-99 from E-TEC:
+
+### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text; typically, this information would be found in the full datasheet.
+- **Current Ratings**: 
+  - Maximum current: 5A (for wire sizes #20 to #30)
+  - Current ratings vary by wire size, with lower ratings for smaller wire sizes.
+- **Power Consumption**: Not specified in the provided text; typically, this would be calculated based on voltage and current ratings.
+- **Operating Temperature Range**: Not specified in the provided text; this information is usually included in the full datasheet.
+- **Package Type**: Not explicitly mentioned; likely a connector or terminal block based on the context.
+- **Special Features or Notes**: The component appears to be designed for various wire sizes and current ratings, indicating versatility in applications.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided text.
+
+### Component Description:
+The PCR-208-W300-99 is likely a type of connector or terminal block designed for electrical connections. It accommodates various wire sizes ranging from #20 to #30 AWG and supports a maximum current of 5A. The component is designed to facilitate secure and reliable connections in electronic circuits.
+
+### Typical Applications:
+The PCR-208-W300-99 is typically used in applications that require reliable electrical connections, such as:
+- **Power Management**: Connecting power supplies to circuits.
+- **Signal Processing**: Interfacing with sensors or other electronic components.
+- **Data Storage**: Connecting to storage devices where secure connections are critical.
+- **General Electronics**: Used in various consumer electronics, automotive applications, and industrial equipment where wire-to-board or wire-to-wire connections are needed.
+
+This summary provides an overview of the component's characteristics and typical uses based on the information provided. For more detailed specifications, including voltage ratings and operating temperature ranges, consulting the full datasheet would be necessary.

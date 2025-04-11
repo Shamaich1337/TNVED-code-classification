@@ -1,0 +1,46 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of BFLD-1550-20SM-FA production of SHENZHEN BOXOPTRONICS TECHNOLOGY CO.,LTD from the text:1550nm20mWDFBButterflyLaserDiode\n1550nm20mWDFBButterflyLaserDiode\n1.Features:\nMulti-QuantumWell(MQW)DistributedFeedback(DFB)lasers;\n14pinButterflypackage;\nBuilt-inthermistor,andTEC;\nFibertypecanbeSMF-28eorPMfiber;\nOperatingtemperature:-20~+70℃;\nRoHSCompliant.\n2.Applications\nOpticalfibercommunication;\nOpticalinstrument;\nOpticalfibersensor;\nLightsource.\n3.AbsoluteMaximumRatings:\nParameter Symbol Condition Min.Max.Unit\nLaserforwardDCcurrent - - - 120A\nLDReversevoltage VRLD CW - 2.0 V\nTECvoltage VTEC CW - 2.6 V\nTECCurrent ITEC CW - 1.5 A\nLeadsoldertemperature/Time - - - 260/10℃/S\nOperatingtemperature TOPCasetemperature -40 +85 ℃\nStoragetemperature TSTGAmbienttemperature -40 +85 ℃\n4.Optical-ElectroCharacteristics(T=25\n,IF=IOP):\nParameter Symbol Condition Min.Typ.Max.Unit\nOperatingwavelength CW,25℃ 154715501553nm\nOpticaloutputpower PF - -20-mW\nThresholdcurrent ITH 25℃ -815mA\nOperatingcurrent IOP CW -90100mA\nOperatingvoltage VOP 25℃ -1.12.0V\nSidemodesuppressionratio SMSR - 3540-dB\nOpticalisolation ISO 25℃ 35--dB\nSpectralwidth(-20dB) Δλ - -0.11.0nm\nPolarizationextinctionratio ER PMfiber 18--dB\nWavelengthtemp.coefficient △λ/△T - -0.080.12nm/C\nwww.box-laser.com Ref:S041.2018.05.101\nm\nλ\nEmail:sales@boxoptronics.com|Tel:+86-075521009302\n1550nm20mWDFBButterflyLaserDiode\nMonitorCurrent IMON VRM=5V 50-1500uA\nMPDDarkcurrent ID VRM=5V --50uA\nThermistorresistance RTH 25℃ 9.51010.5kΩ\nThermistorB-value β 25℃/80℃ -3950-K\n5.OpticalFiberSpecifications:\nParameters Description\nFiberType SMF-28eorPMF1550\nPigtailType 900μmloosetube\nPigtailLength 1.0±0.1m\nConnectorType FC/APC\nNote:ThePMfiberandtheconnectorkeyarealignedtotheslowaxis.\n6.Type1PackageDrawing&PIN-OUTDefinition(Unit:mm):\nPIN Description PIN Description\n1 Thermistor 14 NC\n2 Thermistor 13LaserAnode(+)/Case\n3 LDCathode(-)12LaserCathode(-)\n4 PDAnode(+) 11LaserAnode(+)/Case\n5 PDCathode(-)10 NC\n6 TEC(+) 9 CaseGround\n7 TEC(–) 8 CaseGround\nwww.box-laser.com Ref:S041.2018.05.102\nEmail:sales@boxoptronics.com|Tel:+86-075521009302\n1550nm20mWDFBButterflyLaserDiode\n7.Type2PackageDrawing&PIN-OUTDefinition(Unit:mm)\nPIN Description PINDescription\n1 TEC(+) 14 TEC(–)\n2 Thermistor 13CaseGround\n3PDMonitorAnode(-)12 NC\n4PDMonitorCathode(+)11LaserCathode(-)\n5 Thermistor 10LaserAnode(+)\n6 NC 9 NC\n7 NC 8 NC\n8.OrderingInformation:\nBFLD -XXXX -XX -XX -XX (-X)\nLasertypeWavelength Outputpower Fibertype ConnectortypePIN-OUT\nDFBLaser1310:1310nm\n1550:1550nm\nCWDM\nDWDM10:10mW\n20:20mW\nCustomizedSM:Singlemode\nPM:Polarization\nmaintainingFA:FC/APC\nSA:SC/APC\nOtherNULL:Type1\n2:Type2\nE.g.:BFLD-1550-20SM-FA(Orderinformation:1550nmDFBLaserdiodewith20mWoutputpower,\nandSMfiberwithFC/APCconnector,PIN-OUTisType1).\nwww.box-laser.com Ref:S041.2018.05.103\nEmail:sales@boxoptronics.com|Tel:+86-075521009302\n'}]
+!==============================================================================!
+### Component Summary: BFLD-1550-20SM-FA
+
+**Description:**
+The BFLD-1550-20SM-FA is a 1550nm Distributed Feedback (DFB) Butterfly Laser Diode produced by Shenzhen Boxoptronics Technology Co., Ltd. It features a multi-quantum well structure and is designed for high-performance optical applications. The laser diode is housed in a 14-pin butterfly package, which includes a built-in thermistor and a thermoelectric cooler (TEC) for temperature management.
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Laser Forward DC Current: Max 120 A
+  - LD Reverse Voltage: Max 2.0 V
+  - TEC Voltage: Max 2.6 V
+
+- **Current Ratings:**
+  - TEC Current: Max 1.5 A
+  - Operating Current (IOP): 90-100 mA
+  - Threshold Current (ITH): Max 15 mA
+
+- **Power Consumption:**
+  - Operating Voltage (VOP): 1.1-2.0 V
+  - Optical Output Power: 20 mW
+
+- **Operating Temperature Range:**
+  - Operating Temperature (TOPC): -40 to +85 °C
+  - Storage Temperature (TSTG): -40 to +85 °C
+
+- **Package Type:**
+  - 14-pin Butterfly Package
+
+- **Special Features:**
+  - Built-in thermistor and TEC for temperature control
+  - RoHS compliant
+  - Suitable for both single-mode (SMF-28e) and polarization-maintaining (PM) fiber types
+
+- **Moisture Sensitive Level:**
+  - Not specified in the provided text, but typically assessed according to JEDEC J-STD-020E standards.
+
+### Typical Applications:
+The BFLD-1550-20SM-FA laser diode is primarily used in:
+- **Optical Fiber Communication:** It serves as a light source for transmitting data over fiber optic cables.
+- **Optical Instruments:** Utilized in various optical measurement and sensing devices.
+- **Optical Fiber Sensors:** Employed in sensing applications where light transmission is critical.
+- **Light Source:** Acts as a reliable light source for various optical applications.
+
+This laser diode is particularly suited for applications requiring stable and high-quality optical output, making it ideal for telecommunications and advanced optical systems.

@@ -1,0 +1,36 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ER14505S production of AKKU TRONICS NEW ENERGY TECH. CO., LTD. from the text:Specification ER14505S Lithium Thionyl Chloride Battery P/N: 14-50-HR  \n \n AA High rate     Electrical Characteristics Nominal capacity                                          1.6Ah Open circuit voltage (23±2℃)                                    ≥3.6V Constant discharge current  50mA (Nominal) 100mA (Max.) Operating temperature                                       -40~+150℃ Self-discharge rate ＜2% per year    Physical Characteristics Cell size                                         AA Diameter                                          14.5mm Height 49.5mm Weight    18.0g Fuse No Parallel diode                              No                                                                                                                                                      Please consult with Akku Tronics for further information.                                                                                              www.akkutronics.com Akku Tronics New Energy Technology Co., Ltd The right lithium battery solution  ●  Pressure gauge ●  Sensor system ●  Wireless and military equipment ●  Tracking system ●  Beacon transmitter and receiver   l High energy density ●   High single cell voltage ●   High rate ●   Stable operating voltage ●   High operating temperature ●   Low Self-discharge rate  ●   UN38.3 for transportation  \nKey Features Main applications 2.02.53.03.54.0\n0.00.51.01.52.050mAat150℃\nThe right lithium battery solution \nDischarge curve Cell Drawing \nCapacity/Ah \nVoltage/V φ14.5Max. \n49.5Max. \n'}]
+!==============================================================================!
+### Component Summary: ER14505S Lithium Thionyl Chloride Battery
+
+**Product Code:** ER14505S  
+**Manufacturer:** Akku Tronics New Energy Tech. Co., Ltd.  
+**Type:** Lithium Thionyl Chloride Battery
+
+#### Key Specifications:
+- **Nominal Capacity:** 1.6 Ah
+- **Open Circuit Voltage (at 23±2℃):** ≥ 3.6 V
+- **Constant Discharge Current:**
+  - Nominal: 50 mA
+  - Maximum: 100 mA
+- **Operating Temperature Range:** -40℃ to +150℃
+- **Self-Discharge Rate:** < 2% per year
+- **Cell Size:** AA
+- **Diameter:** 14.5 mm
+- **Height:** 49.5 mm
+- **Weight:** 18.0 g
+- **Fuse:** No
+- **Parallel Diode:** No
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The ER14505S is a high-rate lithium thionyl chloride battery designed for applications requiring a reliable power source with high energy density and stable voltage output. This battery type is known for its long shelf life and low self-discharge rate, making it suitable for long-term applications.
+
+#### Typical Applications:
+The ER14505S battery is commonly used in:
+- **Pressure Gauges**
+- **Sensor Systems**
+- **Wireless and Military Equipment**
+- **Tracking Systems**
+- **Beacon Transmitters and Receivers**
+
+These applications benefit from the battery's high energy density, high single-cell voltage, and ability to operate effectively in extreme temperatures, making it ideal for both consumer and industrial uses where reliability and performance are critical.

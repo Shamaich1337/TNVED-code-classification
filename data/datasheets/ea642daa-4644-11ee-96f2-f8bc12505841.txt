@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ZMDCT103A production of QINGXIAN ZEMING LANGXI ELECTRONIC DEVICES CO.,LTD from the text:Add:Dabogeliuvillage,JinniuTown,Qingxian,CangzhouCity,HebeiProvince,China.062650\n河北省沧州市青县金牛镇大鹁鸽留工业园，邮编：062650\nTel：86-25-52601870 mail:zm@zeming-e.com\nWebsite:www.micro-transformer.com青县择明朗熙电子器件有限公司\n产品规格书\nProductSpecification\n地址:河北省青县金牛镇大鹁留工业园 邮编:062654\n电话:0317-4082069 传真:0317-4085208\nEmail:zm@zeming-e.com http://www.zmlxdz.com客户名称Customer：\n产品名称Product： 电流互感器Currenttransformer\n产品型号Partnumber: ZMDCT103A\n文件编号FileNo.：\n日期Date： 2021-9-22\n制作 王燕 审核赵玉霞批准 高媛 日期 2021-9-22\n\nAdd:Dabogeliuvillage,JinniuTown,Qingxian,CangzhouCity,HebeiProvince,China.062650\n河北省沧州市青县金牛镇大鹁鸽留工业园，邮编：062650\nTel：86-25-52601870 mail:zm@zeming-e.com\nWebsite:www.micro-transformer.com一、结构参数Dimension(mm)\n二、原理图Schematicdiagram：\n\nAdd:Dabogeliuvillage,JinniuTown,Qingxian,CangzhouCity,HebeiProvince,China.062650\n河北省沧州市青县金牛镇大鹁鸽留工业园，邮编：062650\nTel：86-25-52601870 mail:zm@zeming-e.com\nWebsite:www.micro-transformer.com三、主要技术参数Maintechnicalparameters：\n四、误差极限Limiterror：型号Model ZMDCT103A\n额定输入电流\nRatedinputcurrent5A\n额定输出电流\nRatedoutputcurrent2mA\n变比Turns 2500:1\n相位差Phaseerror ＜8′（Input5A,samplingresistor10Ω）\n最大电流Maxcurrent 100A（samplingresistor10Ω）\n允许误差\nPermissionerror-0.1%≤f≤0.1%（input5A,samplingresistor10Ω）\n直流分量和偶次谐波\nDccomponentsandeven\nharmonics一次输入Imax/1.414，直流分量和偶次谐波误差改变量≤±3%\nPrimaryinputImax/1.414,DCcomponentandevenharmonicerror\nchange≤±3%\n用途Application多功能电子式电能表、防窃电表、数显表等电测设备\nMultifunctionalelectronicenergymeter,anti-theftmeter,digitaldisplaymeterand\notherelectricalmeasuringequipment\n隔离耐压\nIsolatedwithstandvoltage4KV/1min\n绝缘电阻\nInsulationresistance一次绕组与二次绕组之间≥500MΩ/500Vdc\nBetweenprimaryandsecondarywinding≥500MΩ/500Vdc\n密封材料Encapsulation 环氧树脂Epoxy\n工作温度Working\ntemperature-40℃~+85℃\n电流误差（比差）±％\nCurrenterror(turnserror)相位误差（角差）±′\nPhaseerror(angleerror)\n额定电流的百分数值\nWiththepercentage(%)ofIp额定电流的百分数值\nWiththepercentage(%)ofIp\n5 20 100 Imax 5 20 100 Imax\n≤0.1 ≤0.1 ≤0.1 ≤0.1 ≤12 ≤10 ≤8 ≤8\n一次输入Imax/1.414，直流分量和偶次谐波误差改变量≤±3%\nPrimaryinputImax/1.414,DCcomponentandevenharmonicerrorchange≤±3%\nAdd:Dabogeliuvillage,JinniuTown,Qingxian,CangzhouCity,HebeiProvince,China.062650\n河北省沧州市青县金牛镇大鹁鸽留工业园，邮编：062650\nTel：86-25-52601870 mail:zm@zeming-e.com\nWebsite:www.micro-transformer.com五、Instructionforuse：\n1、CT典型用法为有源输出（如图1），R为取样电阻。\nCTistypicallyusedasanactiveoutput(Figure1),whereRisthesamplingresistance\n2、产品可直接通过电阻取样，使用简单方便（如图2）。\nTheproductcanbedirectlysampledthroughtheresistance,easytouse(Figure2).\n日期Date版本号Version修改原因Reason\nformodify编制Drawn\n2021-9-22A1 创建规格书Createspec王燕WANGYAN\n'}]
+!==============================================================================!
+### Component Summary for ZMDCT103A
+
+**Manufacturer:** QINGXIAN ZEMING LANGXI ELECTRONIC DEVICES CO., LTD  
+**Address:** Dabogeliu Village, Jinniu Town, Qingxian, Cangzhou City, Hebei Province, China. 062650  
+**Contact:** Tel: 86-25-52601870 | Email: zm@zeming-e.com | Website: www.micro-transformer.com  
+
+#### Key Specifications:
+- **Type:** Current Transformer (CT)
+- **Rated Input Current:** 5 A
+- **Rated Output Current:** 2 mA
+- **Turns Ratio:** 2500:1
+- **Maximum Current:** 100 A (with a sampling resistor of 10 Ω)
+- **Phase Error:** < 8' (for input of 5 A, sampling resistor of 10 Ω)
+- **Permissible Error:** -0.1% ≤ f ≤ 0.1% (for input of 5 A, sampling resistor of 10 Ω)
+- **DC Component and Even Harmonics Error Change:** ≤ ±3% (for primary input Imax/1.414)
+- **Isolated Withstand Voltage:** 4 kV for 1 minute
+- **Insulation Resistance:** ≥ 500 MΩ at 500 Vdc (between primary and secondary winding)
+- **Operating Temperature Range:** -40°C to +85°C
+- **Encapsulation Material:** Epoxy
+- **Moisture Sensitive Level (MSL):** Not specified in the provided text.
+
+#### Description:
+The ZMDCT103A is a current transformer designed for measuring alternating current (AC) in various electrical applications. It converts high primary current levels into a lower, manageable output current, which can be easily measured and monitored. The transformer features a high turns ratio of 2500:1, allowing it to effectively scale down the current for precise measurement.
+
+#### Typical Applications:
+- **Multifunctional Electronic Energy Meters:** Used in devices that measure electrical energy consumption.
+- **Anti-Theft Meters:** Employed in systems designed to detect unauthorized usage of electricity.
+- **Digital Display Meters:** Utilized in meters that provide real-time readings of electrical parameters.
+- **Electrical Measuring Equipment:** Applicable in various devices that require accurate current measurement for monitoring and control purposes.
+
+This component is particularly useful in power management systems, energy monitoring applications, and any scenario where precise current measurement is critical.

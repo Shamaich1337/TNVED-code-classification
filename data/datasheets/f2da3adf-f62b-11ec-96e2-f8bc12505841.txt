@@ -1,0 +1,37 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ZMDCT40 production of QINGXIAN ZEMING LANGXI ELECTRONIC DEVICES CO.,LTD from the text:QingxianZemingLangxiElectronic page1/4\nTEL:86-25-52601870 E-mail:zm@zeming-e.comItem:100ACurrentTransformerwithDCImmunity\nZEMINGModel:ZMDCT40\nDescription:5(100)A/2mA,0.1Class,20Ω\nNCRP/N:NRC03-5(100)A/2mA,0.1class,20ΩApprovedby\nDrawnbyCheckbyApprovedby\nSigned\n\nQingxianZemingLangxiElectronic page2/4\nTEL:86-25-52601870 E-mail:zm@zeming-e.com1.Specification\nCharacteristics Values\nOperatingfrequency 50Hz~400Hz\nOperatingtemperature -40℃~85℃\nRelativehumidity ≤95%\nRatedprimarycurrentIp 5A\nMaximumprimaryoperatingcurrentImax 100A\nTestingcurrentforDCcomponent100A/Root2 ＜3%\nRatedsecondcurrent 2mA\nTransformationratio 2500:1\nUsersuppliedburdenresistor 20Ω\nHI-POT(centerODholdtoleadwire) 4000Vrms,1min.\nInsulationresistance >500MΩ/500Vdc\nAccuracyclass 0.1class\nAccuracyclassWiththepercentage(%)ofIp\n5 20 100 120\nRatioError(±%) 0.1 0.1 0.1 0.1\nPhaseDisplacement(±ˊ) 15 13 10 8\nQingxianZemingLangxiElectronic page3/4\nTEL:86-25-52601870 E-mail:zm@zeming-e.com2.OutlineDimension\n\nQingxianZemingLangxiElectronic page4/4\nTEL:86-25-52601870 E-mail:zm@zeming-e.com3.ElectricalSchematicDiagram\nCurrentdirection:\n“*”Meanssamepolarity\nPrimarycurrentisfromP1toP2,secondarycurrentisfromK1toK2\n4.MaterialList:\nNo. Material Spec.model ULcode Manufacturer\n1 Innercore Nano-crystallinecore / ZEMING\n2 Outercore Amorphouscore / ZEMING\n3 Coreshell PBT E238981 QINGDAOQINKEENGINEERINGPLASTIC\n4 Winding 2500T E258243 ELEKTRISOLAHANGZHOU\n5 EpoxyresinTXH-9201-10epoxyresinin\nsulatingcompoundE196959 TIANJINXINQIAOINSULATINGMATERIAL\n6 PINS Φ1.0 / SHANGHAIJIATONG\n7 Case Black E238981 QINGDAOQINKEENGINEERINGPLASTICS\n8 TapeFlameretardant,\nEnvironmentalprotectionE165111JINGJIANGYAHUA\nPRESSURESENSITIVEGLUECOLTD\n\n'}]
+!==============================================================================!
+### Component Summary: ZMDCT40
+
+**Manufacturer:** Qingxian Zeming Langxi Electronic Devices Co., Ltd  
+**Product Code:** ZMDCT40  
+**Type:** Current Transformer with DC Immunity
+
+#### Key Specifications:
+- **Voltage Ratings:** Not specified in the provided data.
+- **Current Ratings:**
+  - Rated Primary Current (Ip): 5A
+  - Maximum Primary Operating Current (Imax): 100A
+  - Rated Secondary Current: 2mA
+- **Power Consumption:** Not explicitly stated; however, the burden resistor is specified as 20Ω.
+- **Operating Temperature Range:** -40°C to 85°C
+- **Package Type:** Not specified; however, it is likely a standard transformer casing.
+- **Special Features:**
+  - DC immunity
+  - High insulation resistance (>500MΩ at 500Vdc)
+  - HI-POT testing capability (4000Vrms for 1 minute)
+  - Accuracy class: 0.1 class
+  - Transformation ratio: 2500:1
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided data.
+
+#### Description:
+The ZMDCT40 is a current transformer designed to measure alternating current (AC) while providing immunity to direct current (DC). It is characterized by its high accuracy (0.1 class) and is suitable for applications requiring precise current measurement. The transformer has a transformation ratio of 2500:1, allowing it to convert high primary currents (up to 100A) into a manageable secondary current of 2mA.
+
+#### Typical Applications:
+The ZMDCT40 is typically used in:
+- **Power Management:** Monitoring and controlling electrical systems by measuring current flow.
+- **Energy Metering:** Used in energy meters to accurately measure the consumption of electrical energy.
+- **Protection Systems:** In protective relays and circuit breakers to detect overcurrent conditions.
+- **Industrial Automation:** Employed in various industrial applications for current monitoring and control.
+- **Renewable Energy Systems:** Used in solar inverters and wind turbine systems for current measurement and monitoring.
+
+This component is essential for applications where accurate current measurement is critical, particularly in environments with varying temperatures and humidity levels.

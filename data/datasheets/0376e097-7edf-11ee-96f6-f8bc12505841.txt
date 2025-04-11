@@ -1,0 +1,31 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 0022053041 production of MOLEX from the text:-\n-\n \n \n \n \n \nDocuments & Resources \nDrawings\nDrawing  022053041_sd.pdf\nPackaging Design Drawing  PK-7478-001-000.pdf\n \n3D Models and Design Files\n3D Model  022053041_stp.zip\nSymbol Footprint Data  SYM-22-05-3041-001.zip\n \nSpecifications\nProduct Specification  PS-10-07-001.pdf\n \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance Statements\nEu RoHS\nREACH SVHCPart Number : 22053041\nProduct Description : KK 254 Solid Header,\nRight-Angle, with Friction Lock, 4 Circuits, Tin\n(Sn) Plating\nSeries Number : 7478\nStatus : Active\nProduct Category : PCB Headers and\nReceptacles\nEngineering Number : A-7478-04A222\nGADSL/IMDS Not Relevant\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Low-Halogen per IEC 61249-2-21\nREACH SVHC Not Contained per D(2023)3788-DC\n(14 Jun 2023)\nEU RoHS Compliant per EU 2015/863\n-\n-\n-\n-\n-\n-\nLow-Halogen\n \nMultiple Part Industry Compliance Documents\nIPC 1752A Class C\nIPC 1752A Class D\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneral \n \n \nAgency \n \n \nElectrical \n \n \nPhysical \n Status Active\nCategory PCB Headers and Receptacles\nSeries 7478\nDescription KK 254 Solid Header, Right-Angle,\nwith Friction Lock, 4 Circuits, Tin\n(Sn) Plating\nApplication Signal, Wire-to-Board\nComponent Type PCB Header\nProduct Family KK Interconnect Systems\nProduct Name KK 254\nUPC 800753591165\nCSA LR19980\nUL E29179\nCurrent - Maximum per Contact 4.0A\nVoltage - Maximum 500V\nBreakaway No\nCircuits (Loaded) 4\nCircuits (maximum) 4\nColor - Resin Natural (White)\n \nSolder Process Data \n \n \n \nMates With / Use With \nMates with Part(s) \n Durability (mating cycles max) 25\nFlammability 94V-0\nGlow-Wire Capable No\nLock to Mating Part Yes\nMaterial - Metal Brass\nMaterial - Plating Mating Tin\nMaterial - Resin Nylon\nNet Weight 0.525/g\nNumber of Rows 1\nOrientation Right Angle\nPackaging Type Bag\nPC Tail Length 3.58mm\nPCB Locator No\nPCB Retention None\nPCB Thickness - Recommended 1.60mm\nPitch - Mating Interface 2.54mm\nPitch - Termination Interface 2.54mm\nPolarized to Mating Part Yes\nPolarized to PCB Yes\nShrouded Partial\nStackable Yes\nTemperature Range - Operating See Product Specification\nTermination Interface Style Through Hole\nMax-Duration 5\nLead-Free Process Capability WAVE\nMax-Cycle 1\nMax-Temp 235\nDescription Part Number\nKK 254 Single Row Crimp Housings 2695\n \n \n \n \nThis document was generated on Nov 09, 2023 KK 254 PC Board Connector 4455\nKK 254 Receptacle Housings 7880\n'}]
+!==============================================================================!
+### Component Summary for Part Number 0022053041 (Molex)
+
+#### Key Specifications:
+- **Voltage Ratings**: Maximum 500V
+- **Current Ratings**: Maximum per contact 4.0A
+- **Power Consumption**: Not specified directly; power can be calculated based on voltage and current ratings.
+- **Operating Temperature Range**: Not explicitly stated; refer to product specification for details.
+- **Package Type**: Bag
+- **Special Features**:
+  - Right-angle orientation
+  - Friction lock mechanism
+  - 4 circuits (maximum and loaded)
+  - Low-Halogen compliant per IEC 61249-2-21
+  - UL and CSA certifications (UL E29179, CSA LR19980)
+  - Mates with KK 254 Single Row Crimp Housings
+  - Stackable design
+- **Moisture Sensitive Level**: Not specified in the provided information.
+
+#### Component Description:
+The Molex part number 0022053041 is a **KK 254 Solid Header**, which is a type of **PCB header** designed for wire-to-board applications. It features a right-angle orientation and includes a friction lock for secure mating. The header is constructed with a natural (white) nylon resin and has tin plating on brass contacts, ensuring good conductivity and durability.
+
+#### Typical Applications:
+This component is typically used in **signal and wire-to-board connections** within various electronic devices. Its applications can include:
+- **Consumer electronics**: Connecting internal components such as sensors, displays, and power supplies.
+- **Industrial equipment**: Providing reliable connections in machinery and control systems.
+- **Telecommunications**: Used in devices that require robust signal transmission.
+- **Automotive**: Connecting various electronic modules and systems within vehicles.
+
+The KK 254 header is suitable for applications where space is limited, and a secure connection is essential, making it a versatile choice in many electronic designs.

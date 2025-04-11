@@ -1,0 +1,33 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 993-025-010R031 production of NORCOMP from the text:THESE DRAWINGS AND SPECIFICATIONS ARE\nTHE PROPERTY OF NorComp AND SHALL NOT\nBE REPRODUCED, COPIED OR USED AS THE\nBASIS FOR THE MANUFACTURE OR SALE OF\nAPPARATUS WITHOUT WRITTEN PERMISSION.RoHS COMPLIANT\nNC\nDO NOT SCALE FROM DRAWING\n993-025-YYYRYY1\nSHEET            OF     \n1            1\nNorComp\nP. JENKINS\nDRAWN:\nDATE:\n09/15/2005\nDWG NO.\nSCALE:\nNTS\n3\nREV\nDESCRIPTION: 993 SERIES 45° ENTRY 25P DSUB BACKSHELL\nUNITS = mm\n993-025-YYYRYY1\nSERIES\nMATERIAL\n     010 = PLASTIC\n     020 = METALIZED PLASTIC\nCOLOR\n     03 = GREY \n(ONLY AVAILABLE WITH 010 - PLASTIC OPTION\nABOVE)\n     12 = CHROME \n(ONLY AVAILABLE WITH 020 - METALIZED\nPLASTIC ABOVE)\nASSEMBLY SCREW SIZE #4-40.\nRECOMMENDED TORQUE 4 IN-LBS. MAX\nSPECIFICATIONS:\nMATERIALS:\nMETALIZED PLASTIC:\nMATERIAL:\nABS HIGH TEMP PLASTIC 94HB\nMETALIZED PLATING:\nCHROME\nPLASTIC:\nMATERIAL:\nABS HIGH TEMP PLASTIC 94HB\nBACKSHELL KIT INCLUDES:\n(2) BACKSHELL HALVES\n(2) HOUSING SCREWS\n(2) HOUSING NUTS\n(2) #4-40 THUMBSCREWS\n(2) STRAIN RELIEF CLAMPS\n(2) STRAIN RELIEF SCREWS\n'}]
+!==============================================================================!
+### Component Summary for NorComp 993-025-010R031
+
+**Component Type:** Backshell for D-sub Connectors
+
+**Description:**
+The NorComp 993-025-010R031 is a backshell designed for use with D-sub connectors. It features a 45° entry angle, which facilitates easier cable routing and connection in tight spaces. The component is constructed from high-temperature ABS plastic, ensuring durability and reliability in various applications. This backshell is part of the 993 series, which is known for its robust design and ease of assembly.
+
+**Key Specifications:**
+- **Voltage Ratings:** Not specified in the provided text.
+- **Current Ratings:** Not specified in the provided text.
+- **Power Consumption:** Not applicable for backshell components.
+- **Operating Temperature Range:** Not specified in the provided text.
+- **Package Type:** Backshell kit includes two halves, screws, nuts, and strain relief components.
+- **Special Features or Notes:** 
+  - Available in two material options: 
+    - 010 = Plastic (ABS High Temp Plastic 94HB)
+    - 020 = Metalized Plastic (with chrome plating)
+  - Color options:
+    - 03 = Grey (only with plastic option)
+    - 12 = Chrome (only with metalized plastic option)
+  - Assembly screw size: #4-40 with a recommended torque of 4 in-lbs max.
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+**Typical Applications:**
+The 993-025-010R031 backshell is typically used in applications where D-sub connectors are employed, such as:
+- **Data Communication:** Connecting various data transmission devices.
+- **Industrial Equipment:** Providing robust connections in machinery and control systems.
+- **Telecommunications:** Ensuring reliable connections in telecom equipment.
+- **Consumer Electronics:** Used in devices requiring D-sub connectors for interfacing.
+
+This backshell enhances the mechanical stability and protection of the connector, making it suitable for environments where cable strain and environmental factors could impact performance.

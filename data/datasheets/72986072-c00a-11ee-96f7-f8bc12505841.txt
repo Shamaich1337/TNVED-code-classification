@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 5030952201 production of MOLEX from the text:-\n-\n-\n-\n \n \n \n \n \nDocuments & Resources \nDrawings\nDrawing  5030952201_sd.pdf\n \nSpecifications\nPackaging Specification  5030959200-SPK-201.pdf\nProduct Specification  5016460000-PS-000.pdf\nProduct Specification  5016461000-PS-000.pdf\n \nTooling Specifications\nApplication Tooling Specification  5780213700ATS-000.pdf\n \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance Statements\nEu RoHS\nREACH SVHC\nLow-Halogen\n \nMultiple Part Industry Compliance Documents\nIPC 1752A Class CPart Number : 5030952201\nProduct Description : 2.00mm Pitch, iGrid\nFemale Crimp Terminal, 0.10µm Gold (Au)\nPlating, 22-24 AWG, Reel\nSeries Number : 503095\nStatus : Active\nProduct Category : Crimp Terminals\nGADSL/IMDS Not Relevant\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Low-Halogen per IEC 61249-2-21\nREACH SVHC Not Contained per D(2023)3788-DC\n(14 Jun 2023)\nEU RoHS Compliant per EU 2015/863\n-\n-\n-\n-\nIPC 1752A Class D\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneral \n \n \nElectrical \n \n \nPhysical \n \nStatus Active\nCategory Crimp Terminals\nSeries 503095\nDescription 2.00mm Pitch, iGrid Female Crimp\nTerminal, 0.10µm Gold (Au) Plating,\n22-24 AWG, Reel\nApplication Signal, Wire-to-Board\nProduct Family iGrid Wire-to-Board Dual-Row\nSystem\nProduct Name iGrid\nUPC 193264112234\nCurrent - Maximum per Contact 2.0A\nVoltage - Maximum 250V AC (RMS)/DC\nDurability (mating cycles max) 30\nGender Female\nMaterial - Metal Copper Alloy\nMaterial - Plating Mating Gold\nMaterial - Plating Termination Nickel\nNet Weight 48.840/mg\nPackaging Type Reel\nTermination Interface Style Crimp or Compression\nWire Insulation Diameter 0.85-1.50mm\nWire Size (AWG) 22, 24\nWire Size mm² N/A\n \nUse with Part(s) \n \n \nApplication Tooling \n \nGlobal\n \n \n \nThis document was generated on Jan 31, 2024 Description Part Number\niGrid Dual Row Receptacle\nHousings501646\nDescription Part Number\nFineAdjust Applicator for 2.00mm\nPitch iGrid Female Crimp Terminal,\n22-24 AWG2037028000\nExtraction Tool for MX150L, MX150,\nPT Bulb Socket, iGrid, SPOX, and\nWire-to-Motor Terminals0638131500\nPremiumGrade Hand Crimp Tool\nfor iGrid Female Terminals, 22-26\nAWG and 0.30-0.20mm² Wire0638192300\n'}]
+!==============================================================================!
+### Component Summary for MOLEX Part Number 5030952201
+
+#### Key Specifications:
+- **Voltage Ratings**: Maximum 250V AC (RMS)/DC
+- **Current Ratings**: Maximum 2.0A per contact
+- **Power Consumption**: Not specified (dependent on application)
+- **Operating Temperature Range**: Not explicitly stated in the provided information
+- **Package Type**: Reel
+- **Special Features/Notes**: 
+  - 0.10µm Gold (Au) plating for mating surfaces
+  - Designed for 22-24 AWG wire sizes
+  - Durability of up to 30 mating cycles
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided information
+
+#### Component Description:
+The MOLEX 5030952201 is a **female crimp terminal** designed for use in wire-to-board applications. It features a 2.00mm pitch and is part of the iGrid series, which is known for its dual-row configuration. The terminal is constructed from a copper alloy and is plated with gold for the mating surface and nickel for the termination, ensuring reliable electrical connections.
+
+#### Typical Applications:
+This component is typically used in **signal and wire-to-board connections**. Its applications include:
+- **Consumer electronics**: Connecting internal components to circuit boards.
+- **Industrial equipment**: Providing reliable connections in machinery and control systems.
+- **Automotive**: Used in wiring harnesses for various electronic systems.
+- **Telecommunications**: Facilitating connections in communication devices and systems.
+
+The 5030952201 terminal is suitable for applications requiring a compact and efficient connection solution, particularly where space is limited and reliability is critical.

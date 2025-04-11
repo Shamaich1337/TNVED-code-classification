@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of 0561349000 production of MOLEX from the text:1GENERAL\nTOLERANCES\n(UNLESS SPECIFIED)\nANGULAR TOL ± 3.0 °\nSERIES MATERIAL NUMBER CUSTOMER\nGENERAL MARKET 56134 SEE TABLE4 PLACES ± 0.2\n3 PLACES ± 0.2\n2 PLACES ± 0.2\n1 PLACE ± 0.2\n0 PLACES ± 0.2\nDRAFT WHERE APPLICABLE\nMUST REMAIN\nWITHIN DIMENSIONSTHIS DRAWING CONTAINS INFORMATION THAT IS PROPRIETARY TO MOLEX ELECTRONIC TECHNOLOGIES, LLC AND SHOULD NOT BE USED WITHOUT WRITTEN PERMISSION\nSHEET NUMBER\n 1 OF 1DIMENSION UNITS SCALE\nmm 15:1\nDRWN BY DATE\nRHORI 2011/01/20\nCHK'D BY DATE\nKASAKAWA 2011/01/20\nAPPR BY DATE\nNUKITA 2011/01/21\nDOCUMENT NUMBER DOC TYPE DOC PART\nSD-56134-005 PSD 001DRAWING SIZE THIRD ANGLE PROJECTION\nA32.0 WIRE TO BOARD CONN. \nCRIMP RECEPTACLE\n PRODUCT CUSTOMER DRAWING2017/12/21\n2017/12/21\n2017/12/21169859\nHKOBAYASHI\nSAKIYAMA\nTKANEKOEC NO:\nDRWN:\nCHK'D:\nAPPR:\nC1\nREV\nFORMAT: master-tb-prod-A3\nREVISION: G\nDATE: 2017/02/06RELEASE STATUS P1 RELEASE DATE 21.12.2017 08:40:3556134-9100バラ状\nLOOSE\n56134-9000連鎖状\nCHAIN\nMATERIAL NO.端子形状\nFORM1. 使用材料：銅合金、錫めっき(t=0.15)\n    MATERIAL：PRE-TINNED COPPER ALLOY\n2. 適合ハウジング：51242,51382,51353シリーズ\n    APPLICABLE HOUSING：51242,51382,51353 SERIES\n3. 適合ハウジングアッセンブリ：505596シリーズ\n    APPLICABLE HOUSING ASSEMBLY：505596 SERIES\n4. 圧着仕様については、圧着仕様書\u3000CS-56134-007を参照願います。\n    PLEASE REFER TO CRIMPING SPECIFICATION CS-56134-007\nMATERIAL\n材料FINISH\n仕上げ\n注記参照\nSEE NOTES\nWIRE RANGE 適用電線範囲\nAWG#22～#28：0.079～0.34mm2\nKV0.2～0.4：0.2～0.4mm2\nINS. RANGE 被覆外形\nφ0.9～φ1.7 mm\n11\n22\n33\n44\n55\n66\n77\n88\n99\nA AB BC CD DE E注記\nNOTES\n"}]
+!==============================================================================!
+### Component Summary for MOLEX 0561349000
+
+#### Key Specifications:
+- **Voltage Ratings**: Not explicitly stated in the provided text.
+- **Current Ratings**: Not explicitly stated in the provided text.
+- **Power Consumption**: Not applicable for this type of component.
+- **Operating Temperature Range**: Not explicitly stated in the provided text.
+- **Package Type**: Wire-to-board connector, specifically a crimp receptacle.
+- **Special Features or Notes**: 
+  - Made from pre-tinned copper alloy.
+  - Compatible with specific housing series (51242, 51382, 51353).
+  - Refer to crimping specification CS-56134-007 for detailed crimping requirements.
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not explicitly stated in the provided text.
+
+#### Description:
+The MOLEX 0561349000 is a wire-to-board connector designed as a crimp receptacle. This component is used to establish electrical connections between wires and printed circuit boards (PCBs). The crimp receptacle allows for secure and reliable connections, which are essential in various electronic applications.
+
+#### Typical Applications:
+The MOLEX 0561349000 is typically used in:
+- **Power Management**: Connecting power supply lines to circuit boards.
+- **Signal Processing**: Facilitating signal transmission between components on a PCB.
+- **Consumer Electronics**: Commonly found in devices that require reliable wire-to-board connections, such as computers, appliances, and automotive applications.
+- **Industrial Equipment**: Used in machinery and equipment where robust electrical connections are necessary.
+
+This component is essential for ensuring that electrical connections are made securely and efficiently, contributing to the overall reliability of electronic systems.

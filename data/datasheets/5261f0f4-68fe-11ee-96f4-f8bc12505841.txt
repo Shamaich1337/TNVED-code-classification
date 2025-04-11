@@ -1,0 +1,30 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 47053-1000 production of MOLEX from the text:-\n-\n-\n-\n-\n \n \n \n \n \nDocuments & Resources \nDrawings\nDrawing  470531000_sd.pdf\n \n3D Models and Design Files\n3D Model  470531000_stp.zip\n \nSpecifications\nPackaging Specification  470530000-PK-000.pdf\nProduct Specification  PS-47053-001-001.pdf\n \n \nProduct Environment Compliance \nCompliance \n \n \nMultiple Part Product Compliance Statements\nEu RoHS\nREACH SVHC\nLow-Halogen\n \nMultiple Part Industry Compliance Documents\nIPC 1752A Class C\nIPC 1752A Class DPart Number : 470531000\nProduct Description : KK 254 Vertical Header,\nwith Friction Lock, 4 Circuits, PC Tail Length\n3.50mm, Bag\nSeries Number : 47053\nStatus : Active\nProduct Category : PCB Headers and\nReceptacles\nGADSL/IMDS Not Relevant\nChina RoHS\n \nEU ELV Not Relevant\nLow-Halogen Status Low-Halogen per IEC 61249-2-21\nREACH SVHC Not Contained per D(2023)3788-DC\n(14 Jun 2023)\nEU RoHS Compliant per EU 2015/863\n-\n-\n-\nMolex Product Compliance Declaration\nIEC-62474\nchemSHERPA (xml)\n \nEU RoHS Certificate of Compliance\n \nPart Details \nGeneral \n \n \nAgency \n \n \nElectrical \n \n \nPhysical \n Status Active\nCategory PCB Headers and Receptacles\nSeries 47053\nDescription KK 254 Vertical Header, with\nFriction Lock, 4 Circuits, PC Tail\nLength 3.50mm, Bag\nApplication Signal, Wire-to-Board\nComponent Type PCB Header\nProduct Family KK Interconnect Systems\nProduct Name KK 254\nUPC 822348238002\nUL E29179\nCurrent - Maximum per Contact 4.0A\nVoltage - Maximum 500V\nBreakaway No\nCircuits (Loaded) 4\nCircuits (maximum) 4\nColor - Resin Natural (White)\nDurability (mating cycles max) 25\nFirst Mate / Last Break No\nFlammability 94V-0\nGlow-Wire Capable No\nGuide to Mating Part No\n \nSolder Process Data \n \n \n \nMates With / Use With \nMates with Part(s) \n Keying to Mating Part None\nLock to Mating Part Yes\nMaterial - Metal Copper Alloy\nMaterial - Plating Mating Tin\nMaterial - Plating Termination Copper\nMaterial - Resin Nylon\nNet Weight 0.386/g\nNumber of Rows 1\nOrientation Vertical\nPackaging Type Bag\nPC Tail Length 3.50mm\nPCB Locator Yes\nPCB Retention None\nPCB Thickness - Recommended 1.60mm\nPitch - Mating Interface 2.54mm\nPitch - Termination Interface 2.54mm\nPlating min - Mating 5.080µm\nPlating min - Termination 5.080µm\nPolarized to Mating Part Yes\nPolarized to PCB Yes\nShrouded No\nStackable No\nTemperature Range - Operating See Product Specification\nTermination Interface Style Through Hole\nMax-Duration 5\nLead-Free Process Capability WAVE\nMax-Cycle 1\nMax-Temp 235\nDescription Part Number\n \n \n \n \nThis document was generated on Oct 12, 2023 KK 254 Single Row Crimp Housings 2695\nKK 254 Housings with Polarization\nRib47054\n'}]
+!==============================================================================!
+### Component Summary for Molex Part Number 47053-1000
+
+#### Key Specifications:
+- **Voltage Rating**: 500V
+- **Current Rating**: 4.0A (maximum per contact)
+- **Power Consumption**: Not specified directly; power can be calculated using P = V x I (e.g., at maximum voltage and current, P = 500V x 4A = 2000W, but this is theoretical and not typical for this component).
+- **Operating Temperature Range**: Not explicitly stated; refer to product specification for details.
+- **Package Type**: Bag
+- **Special Features**: 
+  - Friction lock mechanism
+  - Vertical orientation
+  - 4 circuits (maximum)
+  - Mates with specific Molex parts
+  - Low-Halogen compliant
+  - RoHS compliant
+- **Moisture Sensitive Level (JEDEC J-STD-020E)**: Not specified in the provided information.
+
+#### Component Description:
+The Molex 47053-1000 is a **KK 254 Vertical Header** designed for PCB (Printed Circuit Board) applications. It features a friction lock for secure connections and is configured with 4 circuits. The component is made from durable materials, including a copper alloy for the metal parts and nylon for the resin, ensuring reliable performance in electronic assemblies.
+
+#### Typical Applications:
+This component is primarily used in **signal and wire-to-board connections**. It is suitable for various applications in electronic devices where a reliable and secure connection is required, such as:
+- Consumer electronics
+- Industrial equipment
+- Telecommunications
+- Automotive applications
+
+The KK 254 series is particularly useful in scenarios where space is limited, and a vertical orientation is advantageous for PCB layout. The component's design allows for easy mating and unmating, making it ideal for applications that require frequent connections and disconnections.

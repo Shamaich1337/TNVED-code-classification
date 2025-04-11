@@ -1,0 +1,27 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': "Give me information about the component of SM1W1122 production of DAHENG OPTICAL THIN FILM CENTER from the text:1.00in\n[25.4mm]\n0.90in [ 21.6mm]\nCLEAR APERTURECLCL\nSPANNER WRENCH SLOT\nCOMPATIBLE WITHSPW602, SPW606 & SPW801(NOT INCLUDED)  0.25in\n6.4mm  \n  0.06in\n1.4mm    11\n 22'  \nCL\nA\nSM1W1122MATERIALDRAWN\nAPPROVAL REVKBC\nAK29/SEP/15DATE\n29/SEP/15w w w . t h o r  l a b s . c o m\nITEM # APPROX WEIGHTANODIZED ALUMINUM\n1.49 gVALUES IN PARENTHESIS ARE CALCULATED\nAND MAY CONTAIN ROUNDOFF ERRORSDRAWINGPROJECTION\nNAME\nFOR INFORMATION ONLY \nNOT FOR MANUFACTURING PURPOSES11 22' ANGLED WEDGE\nCOPYRIGHT © 2015 BY THORLABS \n"}]
+!==============================================================================!
+### Component Summary for SM1W1122
+
+**Component Type:** Optical Accessory (Angled Wedge)
+
+**Key Specifications:**
+- **Material:** Anodized Aluminum
+- **Dimensions:**
+  - Length: 1.00 in (25.4 mm)
+  - Width: 0.90 in (21.6 mm)
+  - Thickness: 0.06 in (1.4 mm)
+- **Clear Aperture:** 0.25 in (6.4 mm)
+- **Weight:** Approximately 1.49 g
+- **Compatibility:** Designed to be compatible with SPW602, SPW606, and SPW801 spanner wrenches (not included).
+- **Moisture Sensitive Level:** Not specified in the provided text.
+
+**Description:**
+The SM1W1122 is an optical accessory designed as an angled wedge. It is made from anodized aluminum, which provides durability and resistance to corrosion. The component features a clear aperture and is designed to be used in conjunction with specific spanner wrenches for secure handling and adjustment.
+
+**Typical Applications:**
+The SM1W1122 angled wedge is typically used in optical setups where precise alignment and positioning of optical components are required. It can be utilized in various applications, including:
+- Optical experiments and setups in laboratories.
+- Alignment of optical systems in research and development.
+- Integration into optical instruments where angle adjustments are necessary.
+
+This component is essential for ensuring that optical paths are correctly aligned, which is critical for achieving optimal performance in optical systems.

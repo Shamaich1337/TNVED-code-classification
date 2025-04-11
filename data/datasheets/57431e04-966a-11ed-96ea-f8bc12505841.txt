@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of R04A-37AC production of SUNKYE INTERNATIONAL CO., LTD from the text:Drawing No.\nArchivesSignature\n/1 1Plnte\nDesign\nStandard checkAuditing\nApproveScale Sheet of REVTechnics\nWeight Phase markerCheckDenomination:\nMaterial\nacreage (mm  ):2DWG No.: Character\nDIN\nA000 4:1 DP/N:Unit:mmHeat\ntreatment\nGeneral  toleranceCritical  Dimension  **Important  Dimension  *\nX  ±0.15 X°  ±1°\n.X  ±0.10 .X°  ±0.5°\n.XX  ±0.05 .XX°  ±0.05°\n.XXX  ± .XXX°  ±Wo  wo 2022.11.02\nWu  gang\nXianghuaming R04A-37ACTHE TECHNICAL REQUIREMENTS\n1.MATERIAL:ALUMINUM 2A12\n2.COATING:NI18-25\n3.TEMPERATURE RANGE:-50 °C ~ 175°C\nSUNKYER\nBackshell\n2022.11.02\n2022.11.020.09\n027.9+\n \n0.096.9+\n 0\n27.2\n0.060.8+\n 0\n21.4 0\n-0.12\n29 0\n-0.10\n'}]
+!==============================================================================!
+### Component Summary for R04A-37AC
+
+**Component Type:** Backshell
+
+**Manufacturer:** SUNKYE INTERNATIONAL CO., LTD
+
+#### Key Specifications:
+- **Material:** Aluminum 2A12
+- **Coating:** Nickel (NI) 18-25 micrometers
+- **Operating Temperature Range:** -50 °C to 175 °C
+- **Moisture Sensitivity Level (MSL):** Not specified in the provided text, but typically assessed based on the component's packaging and intended application.
+- **Weight:** Not specified in the provided text.
+- **Critical Dimensions:** Various dimensions are provided with tolerances, but specific values are not detailed in the text.
+
+#### Description:
+The R04A-37AC is a backshell component made from aluminum alloy 2A12, designed to provide protection and strain relief for cable connections in electronic assemblies. The nickel coating enhances corrosion resistance and durability, making it suitable for harsh environments.
+
+#### Typical Applications:
+- **Aerospace and Defense:** Used in military and aerospace applications where reliability and performance under extreme conditions are critical.
+- **Industrial Equipment:** Suitable for use in machinery and equipment that require robust cable management solutions.
+- **Telecommunications:** Employed in communication systems to protect and organize cable connections.
+
+This backshell is essential for ensuring the integrity of electrical connections, particularly in environments subject to temperature extremes and mechanical stress.

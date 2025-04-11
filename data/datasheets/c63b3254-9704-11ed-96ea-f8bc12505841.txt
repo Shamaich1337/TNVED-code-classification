@@ -1,0 +1,29 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of F8025X12B1-FHR production of MECHATRONICS FAN GROUP from the text:DC AXIAL FANS\nTel: 425-222-5900 800-453-4569 www.mechatronics.com E-mail: Sales@Mechatronics.com Fax: 425-222-5155 Cooling Simplified\n(80 x 80 x 25 mm)\n3.15 x 3.15 x 0.98 inches\nConstruction: UL94V-0 PBT impeller & frame\nBearing option: ball bearing or sleeve\nConnection: AWG 24, UL1007 lead wires\nFrame: flanged or ribbed\nProtection: thermal\nOptions: tachometer output or locked rotor \nalarm signal; thermistor speed \ncontrol; encapsulated motor;  \nPWM speed control.30\n.25\n.20\n.10\n.05\n0 10 20 30 40 50 60\nAIR FLOW (CFM)STATIC PRESSURE - IN. OF WATER\n.15\nS\nL\nM\nH\nE\nXF8025-H  series\n0.16\n4x Ø 0.18\n(Ø 4.5)3.15 ±0.02\n(80 ±0.5)\n2.82 ±0.01\n(71.5 ±0.3)0.16\n(4) (4)0.98 ±0.02\n(25 ±0.5)\nModel No.Rated  \nVoltage\nVCurrent  \nmASpeed  \nRPMAir  VolumeMax. Static           \nPressure (H 20)Sound       \nNoise            \ndbAWeight  \ng 12 24 M³/Min. CFM MM INCH\n F8025S-H 12/24  75  50  2,000  0.73 26  1.75  0.07 22 82\n F8025L-H 12/24  90  60  2,400  0.87 31  2.50  0.10 26 82\n F8025M-H 12/24  120  80  2,800  0.99 35  3.00  0.12 29 82\n F8025H-H 12/24  145  90  3,200  1.13 40  4.25  0.17 32 82\n F8025E-H 12/24  240  140  3,600  1.30 46  5.25  0.21 35 82\n F8025X-H 12/24  480  260  4,200  1.50 53  6.50  0.26 39 82\n04.14.15\n'}]
+!==============================================================================!
+### Component Summary: F8025X12B1-FHR
+
+#### Key Specifications:
+- **Voltage Ratings:** 12V / 24V
+- **Current Ratings:** 480 mA (at 12V), 260 mA (at 24V)
+- **Power Consumption:** 12V: 5.76W, 24V: 6.24W
+- **Operating Temperature Range:** Not specified in the provided text; typically, DC axial fans operate in a range of -10°C to 70°C.
+- **Package Type:** Axial fan, dimensions 80 x 80 x 25 mm (3.15 x 3.15 x 0.98 inches)
+- **Special Features or Notes:**
+  - Construction: UL94V-0 PBT impeller & frame
+  - Bearing option: Ball bearing or sleeve
+  - Connection: AWG 24, UL1007 lead wires
+  - Protection: Thermal
+  - Options: Tachometer output, locked rotor alarm signal, thermistor speed control, encapsulated motor, PWM speed control
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+
+#### Description:
+The F8025X12B1-FHR is a DC axial fan designed for efficient cooling in various electronic applications. It features a compact design with a frame size of 80 x 80 x 25 mm, making it suitable for installation in tight spaces. The fan is constructed with durable materials (UL94V-0 PBT) and offers options for different bearing types, ensuring reliability and longevity.
+
+#### Typical Applications:
+The F8025X12B1-FHR is commonly used in:
+- **Cooling Systems:** To dissipate heat in electronic devices, servers, and computer systems.
+- **Industrial Equipment:** Providing airflow in machinery and equipment to maintain optimal operating temperatures.
+- **Consumer Electronics:** Used in devices such as gaming consoles, routers, and other electronics that require thermal management.
+- **HVAC Systems:** Assisting in air circulation and temperature control in heating, ventilation, and air conditioning systems.
+
+This fan is particularly beneficial in applications where space is limited, and efficient cooling is critical to maintaining performance and reliability.

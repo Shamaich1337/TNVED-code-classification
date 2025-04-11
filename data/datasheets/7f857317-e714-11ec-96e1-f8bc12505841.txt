@@ -1,0 +1,38 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of 2J401GF-005RG174-CE_MARU production of 2J from the text: \nwww.2j -antennae .com  Page: 1/4 \n \n \n \n \n \n \n \n \n2J401F \n2J401FD  \n2J401GF \n2J401GFD  \n(DATASHEET)  \n \n Type  GNSS module with pre -filter  \n Frequencies  GPS (1575.42 MHz)  \nGLONASS (1592 - 1610 MHz)  \n Mounting  Embedded  \n Revision  00 \n   \n \n \n \nPost-filter for better Noise figure  \nSmall and compact  \n \n \n \n \n \n \n \n \n \n \n\n \nwww.2j -antennae .com  Page: 2/4 \n \n \n1. PRODUCT SELECTOR  \n2J401F  GPS L1  \n2J401FD   GPS L1  with protection PIN diode  \n2J401GF   GPS+Glonass  \n2J401GFD  GPS+Glonass  with protection PIN diode  \n2. SPECIFICATION  \n2.1. Electrical Specifications  \nNavigation (Cable 1)  \nFrequencies  GPS (1575.42 MHz)  \nGLONASS (1592 - 1610 MHz)  \nImpedance  50 Ohms  \nNoise figure  1.2 dB \nPatch gain  2-3 dBiC  \nPatch size  25mm x 25mm x 4mm  \nPolarizatio n RHCP  \nLNA Gain  23 dB at 3V; 24 dB at 5V  \nVoltage supply  2,7V -5.5V  \nCurrent  15mA - 25 mA  \nPower (max.)  138 mW  \nNote  Filter placed after amplifier  \nOperating temperature  -40°C to +85°C  \n2.2. Connection Specifications  \n Connector type:  U.FL \n Cable:  Microcoax 1,13mm  \n Cable length:  10 cm  \n \n     For different cable length and connector type ask our sales team.  \n2.3. Mechanical Specifications and Dimensions  \n \n Max. dimensions:  25mm x 8. 6mm x 25mm (L x T x W)  \n Weight:  14 g ‘weight counted with cable  above’  \n Colour:  Black (for different colours please ask our sales team)  \n   \n \n \nwww.2j -antennae .com  Page: 3/4 \n  \n3. MEASUREMENT  \n3.1. S21 \n \n \nFigure 1 - Antenna gain at 3V  \n3.2. 3D Sph erical radiation pattern  \n \n \n3.3. Block Diagram  \n \nWhen filter used behind  amplifier , antenna  have good noise figure  and to  end device is transmitted  clean \nsignal  \n \nFigure 2 - Antenna block diagram for 2J401F and 2J401GF  \n \nWith PIN diode you ca n have bigger protection again  spurious emissions  \n \n \nFigure 3 - Antenna block diagram for 2J401FD and 2J401GFD\n \nwww.2j -antennae .com  Page: 4/4 \n \n \n \n4. IMAGES  \n \n'}]
+!==============================================================================!
+### Component Summary for 2J401GF
+
+**Component Type:** GNSS Module with Pre-filter
+
+**Key Specifications:**
+- **Frequencies:** 
+  - GPS: 1575.42 MHz
+  - GLONASS: 1592 - 1610 MHz
+- **Impedance:** 50 Ohms
+- **Noise Figure:** 1.2 dB
+- **Patch Gain:** 2-3 dBiC
+- **Patch Size:** 25mm x 25mm x 4mm
+- **Polarization:** RHCP (Right-Hand Circular Polarization)
+- **LNA Gain:** 
+  - 23 dB at 3V
+  - 24 dB at 5V
+- **Voltage Supply:** 2.7V - 5.5V
+- **Current Rating:** 15mA - 25mA
+- **Power Consumption (Max):** 138 mW
+- **Operating Temperature Range:** -40°C to +85°C
+- **Package Type:** Embedded
+- **Moisture Sensitive Level (JEDEC J-STD-020E):** Not specified in the provided text.
+- **Special Features:** 
+  - Post-filter for improved noise figure
+  - Compact design
+
+**Description:**
+The 2J401GF is a GNSS (Global Navigation Satellite System) module designed for high-performance positioning applications. It integrates a pre-filter to enhance the noise figure, ensuring a cleaner signal output. This module supports both GPS and GLONASS frequencies, making it versatile for various navigation applications.
+
+**Typical Applications:**
+- **Navigation Systems:** Used in devices requiring accurate positioning, such as automotive navigation, drones, and handheld GPS devices.
+- **Telematics:** Integrated into vehicles for tracking and fleet management.
+- **IoT Devices:** Employed in Internet of Things applications where location tracking is essential.
+- **Consumer Electronics:** Utilized in smartphones and wearables for location-based services.
+
+This module is particularly suited for applications that demand reliable performance in challenging environments, given its wide operating temperature range and compact form factor.

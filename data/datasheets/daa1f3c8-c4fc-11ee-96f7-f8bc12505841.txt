@@ -1,0 +1,25 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of WR 12 90 E waveguide bend 0.75inch production of XIXIA TECHNOLOGY from the text:Address:No.24-2,ChengzhiRoad,LongtanUrbanIndustrialPark,ChenghuaDistrict,Chengdu,China\nTel/Fax：028-84215383 Web:https://www.xexatech.com/ https://cdxixia.en.alibaba.com\nSpecification\nItem：WR-12EWaveguidebend Model:WB-12-E-19.05\n1.Parameter\nWaveguide WR-12(BJ740)\nFrequencyRange（GHz） 60-90\nInsertloss(dB) 0.2Max\nVSWR 1.15Max\nFlange FUGP740(UG-387/U)\nMaterial Copper\nSize（mm） 28.58*28.58*19.1\nNetWeight（Kg） 0.03Around\nSurfacetreatment Goldplating\n2．Outlinedrawing（mm）\n\n'}]
+!==============================================================================!
+### Technical Summary of WR-12E Waveguide Bend (Model: WB-12-E-19.05)
+
+#### Key Specifications:
+- **Waveguide Type**: WR-12 (BJ740)
+- **Frequency Range**: 60 - 90 GHz
+- **Insertion Loss**: 0.2 dB Max
+- **VSWR (Voltage Standing Wave Ratio)**: 1.15 Max
+- **Flange Type**: FUGP740 (UG-387/U)
+- **Material**: Copper
+- **Size**: 28.58 mm x 28.58 mm x 19.1 mm
+- **Net Weight**: Approximately 0.03 kg
+- **Surface Treatment**: Gold plating
+
+#### Description:
+The WR-12E Waveguide Bend is a specialized component used in high-frequency microwave applications. It is designed to guide electromagnetic waves through a bend in the waveguide, allowing for changes in direction while maintaining signal integrity. The WR-12 designation indicates its specific dimensions and frequency range, making it suitable for applications in the millimeter-wave spectrum.
+
+#### Typical Applications:
+- **Telecommunications**: Used in microwave communication systems for signal routing.
+- **Radar Systems**: Essential in directing microwave signals in radar applications.
+- **Aerospace and Defense**: Utilized in various high-frequency systems for military and aerospace applications.
+- **Test Equipment**: Employed in laboratory setups for testing and measurement of microwave components.
+
+This waveguide bend is particularly valuable in systems where space is limited, and efficient signal transmission is critical. Its low insertion loss and high VSWR performance make it an ideal choice for maintaining signal quality in high-frequency applications.

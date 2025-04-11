@@ -1,0 +1,49 @@
+[{'role': 'system', 'content': 'You are a technical specialist with expertise in electronics. Your task is to analyze datasheets for electronic components and provide a concise summary of the product’s key characteristics and specifications. In addition, you need to gather textual information about the component, including its description and typical applications.Instructions:    Identify the correct component in the datasheet using the provided product code.    Summarize key parameters, including:        Voltage ratings        Current ratings        Power consumption        Operating temperature range        Package type        Special features or notes (if applicable)        Moisture Sensetive Level JEDEC J-STD-020E    Provide a short description of the component, including what it is (e.g., transistor, microcontroller, sensor) and its primary function.    Explain typical applications for the component (e.g., power management, signal processing, data storage, etc.).    Be thorough and accurate: Ensure the information corresponds specifically to the product code, as some datasheets cover multiple variants.Your goal is to create a clear and accurate technical summary that includes both key specifications and a description of what the component is used for.'}, {'role': 'user', 'content': 'Give me information about the component of ABO-05104MT production of ALLRAY from the text:                                          Part number:  ABO -0510 4MT                               \nVersion: A 0 \nAddress: No.36, Panzong Road, Dingmao Zone, Zhenjiang, Jiangsu, China  \nPost code: 212009  \nTel: （86）511-88885688  Fax: （86）511-88887875                                                        1/4 \n \n \nData Sheet  \n \n \nABO-0510 4MT \n2.5G TX 1550FP/RX1 310 MM FC BOSA  \nVersion: A0 \nDate: 2018 -12-20 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n                                          Part number:  ABO -0510 4MT                               \nVersion: A 0 \nAddress: No.36, Panzong Road, Dingmao Zone, Zhenjiang, Jiangsu, China  \nPost code: 212009  \nTel: （86）511-88885688  Fax: （86）511-88887875                                                        2/4 \n1. Description ： \n2.5G TX1 550FP/RX1 310 Multi -mode  FC BOSA（50um  Multi -mode fiber） \n \n2. Laser diode ： \nParameter  Typical  \nData rate  2.5G  \nOperating Temperature  -40~85℃ \n \n3. PIN-TIA： \nParameter  Typical  \nData rate  2.5G  \nOperating Temperature  -40~85℃ \n \n \n Parameter  Symbol  Condition  Min.  Typical  Max. Unit \nOptical Power  Pout Ith+30mA,T=25 ℃ 100 - 400 µW \nThreshold Current  Ith CW - - 12 mA \nCenter  Wavelength  λ PO=5mW  1530  1550  1570  nm \nTracking Error  TE Ith+20mA ,T=-40~85℃ -1.5 - 1.5 dB \nMonitor current(PD)  Im Ith+20mA 100 - 1000  uA \nDark Current(PD)  Id Vrd=5V  - - 0.1 uA \nParameter  Symbol  Condition  Min.  Typical  Max. Unit \nOperating Voltage  Vcc - 3.1 3.3 3.5 V \nOperating Current  Icc Vcc=3.3V  28 35 42 mA \nReceive Wavelength  λ - 1290  1310  1330  nm \nInput Sensitivity  Sen BER=E-10,PRBS=223-1, \nER=9dB，AC,RL=50\nΩ，NRZ=2.5Gbps, λ\n=1310nm   - -15 dBm  \nSaturation  P BER=E-10,PRBS=223-1, \nER=9dB，AC,RL=50\nΩ，NRZ=2.5Gbps, λ\n=1310nm  0 - - dBm  \n                                          Part number:  ABO -0510 4MT                               \nVersion: A 0 \nAddress: No.36, Panzong Road, Dingmao Zone, Zhenjiang, Jiangsu, China  \nPost code: 212009  \nTel: （86）511-88885688  Fax: （86）511-88887875                                                        3/4 \n4. Pin Assignment and Function Definitions : \n             \n \n5. Mechanical: ( mm):  \n  \n \n\n                                          Part number:  ABO -0510 4MT                               \nVersion: A 0 \nAddress: No.36, Panzong Road, Dingmao Zone, Zhenjiang, Jiangsu, China  \nPost code: 212009  \nTel: （86）511-88885688  Fax: （86）511-88887875                                                        4/4 \n6. Revision History  \nVersion  Major Changes Since last Version  ECN NO.  ECN  Date  Prepared \nby \nA0 Preliminary Datasheet   2018 -12-27 Tianbang \nHu \n     \n     \n     \n     \n     \n     \n \n \n \n'}]
+!==============================================================================!
+### Component Summary for ABO-05104MT
+
+**Component Type:**  
+The ABO-05104MT is a 2.5G Transmitter (TX) and Receiver (RX) module designed for optical communication, specifically a Multi-mode Fiber Coupled BOSA (Bi-directional Optical Sub-Assembly).
+
+**Key Specifications:**
+
+- **Voltage Ratings:**
+  - Operating Voltage (Vcc): 3.1 V to 3.5 V (Typical: 3.3 V)
+
+- **Current Ratings:**
+  - Operating Current (Icc): 28 mA to 42 mA (Typical: 35 mA)
+  - Threshold Current (Ith): Up to 12 mA
+
+- **Power Consumption:**
+  - Optical Power Output (Pout): 100 µW to 400 µW
+  - Monitor Current (Im): 100 µA to 1000 µA
+  - Dark Current (Id): Up to 0.1 µA
+
+- **Operating Temperature Range:**
+  - -40°C to 85°C
+
+- **Package Type:**
+  - FC BOSA (Fiber Coupled Bi-directional Optical Sub-Assembly)
+
+- **Special Features:**
+  - Data Rate: 2.5 Gbps
+  - Center Wavelength for TX: 1530 nm to 1570 nm
+  - Receive Wavelength: 1290 nm to 1330 nm
+  - Input Sensitivity: -15 dBm at specified conditions
+  - Saturation Power: 0 dBm at specified conditions
+  - Tracking Error: ±1.5 dB
+
+- **Moisture Sensitive Level (MSL):**
+  - Not specified in the provided data.
+
+**Description:**
+The ABO-05104MT is a high-speed optical transceiver module that operates at a data rate of 2.5 Gbps. It is designed for use in fiber optic communication systems, utilizing multi-mode fiber for data transmission. The module integrates both a laser diode for transmission and a photodiode with a transimpedance amplifier (PIN-TIA) for receiving signals.
+
+**Typical Applications:**
+This component is typically used in:
+- Optical communication systems for data transmission over short distances.
+- Telecommunications networks where high-speed data transfer is required.
+- Data centers and enterprise networks for interconnecting servers and switches.
+- Any application requiring bi-directional data communication over fiber optics, such as video transmission, internet services, and other high-bandwidth applications.
+
+This summary provides a comprehensive overview of the ABO-05104MT, highlighting its key specifications and typical applications in the field of optical communications.
